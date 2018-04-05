@@ -1,0 +1,54 @@
+{
+	"facilityWarehouseM": [
+		{
+			"facilityWarehouseId": "1",
+			"level": "1",
+			"limitMeatNum": "100"
+		},
+		{
+			"facilityWarehouseId": "2",
+			"level": "2",
+			"limitMeatNum": "150"
+		},
+		{
+			"facilityWarehouseId": "3",
+			"level": "3",
+			"limitMeatNum": "200"
+		},
+		{
+			"facilityWarehouseId": "4",
+			"level": "4",
+			"limitMeatNum": "250"
+		},
+		{
+			"facilityWarehouseId": "5",
+			"level": "5",
+			"limitMeatNum": "300"
+		},
+		{
+			"facilityWarehouseId": "6",
+			"level": "6",
+			"limitMeatNum": "350"
+		},
+		{
+			"facilityWarehouseId": "7",
+			"level": "7",
+			"limitMeatNum": "400"
+		},
+		{
+			"facilityWarehouseId": "8",
+			"level": "8",
+			"limitMeatNum": "500"
+		},
+		{
+			"facilityWarehouseId": "9",
+			"level": "9",
+			"limitMeatNum": "700"
+		},
+		{
+			"facilityWarehouseId": "10",
+			"level": "10",
+			"limitMeatNum": "1000"
+		}
+	]
+}

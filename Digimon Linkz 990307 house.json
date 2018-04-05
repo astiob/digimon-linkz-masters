@@ -1,0 +1,54 @@
+{
+	"facilityHouseM": [
+		{
+			"facilityHouseId": "1",
+			"level": "1",
+			"maxMonsterNum": "50"
+		},
+		{
+			"facilityHouseId": "2",
+			"level": "2",
+			"maxMonsterNum": "70"
+		},
+		{
+			"facilityHouseId": "3",
+			"level": "3",
+			"maxMonsterNum": "90"
+		},
+		{
+			"facilityHouseId": "4",
+			"level": "4",
+			"maxMonsterNum": "110"
+		},
+		{
+			"facilityHouseId": "5",
+			"level": "5",
+			"maxMonsterNum": "130"
+		},
+		{
+			"facilityHouseId": "6",
+			"level": "6",
+			"maxMonsterNum": "150"
+		},
+		{
+			"facilityHouseId": "7",
+			"level": "7",
+			"maxMonsterNum": "180"
+		},
+		{
+			"facilityHouseId": "8",
+			"level": "8",
+			"maxMonsterNum": "210"
+		},
+		{
+			"facilityHouseId": "9",
+			"level": "9",
+			"maxMonsterNum": "240"
+		},
+		{
+			"facilityHouseId": "10",
+			"level": "10",
+			"maxMonsterNum": "300"
+		}
+	]
+}

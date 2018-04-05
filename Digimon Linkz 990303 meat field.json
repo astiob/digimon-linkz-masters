@@ -1,0 +1,64 @@
+{
+	"facilityMeatFieldM": [
+		{
+			"facilityMeatFieldId": "1",
+			"level": "1",
+			"perMeatTime": "60",
+			"maxMeatNum": "20"
+		},
+		{
+			"facilityMeatFieldId": "2",
+			"level": "2",
+			"perMeatTime": "60",
+			"maxMeatNum": "30"
+		},
+		{
+			"facilityMeatFieldId": "3",
+			"level": "3",
+			"perMeatTime": "60",
+			"maxMeatNum": "40"
+		},
+		{
+			"facilityMeatFieldId": "4",
+			"level": "4",
+			"perMeatTime": "60",
+			"maxMeatNum": "50"
+		},
+		{
+			"facilityMeatFieldId": "5",
+			"level": "5",
+			"perMeatTime": "60",
+			"maxMeatNum": "60"
+		},
+		{
+			"facilityMeatFieldId": "6",
+			"level": "6",
+			"perMeatTime": "60",
+			"maxMeatNum": "70"
+		},
+		{
+			"facilityMeatFieldId": "7",
+			"level": "7",
+			"perMeatTime": "60",
+			"maxMeatNum": "80"
+		},
+		{
+			"facilityMeatFieldId": "8",
+			"level": "8",
+			"perMeatTime": "60",
+			"maxMeatNum": "100"
+		},
+		{
+			"facilityMeatFieldId": "9",
+			"level": "9",
+			"perMeatTime": "60",
+			"maxMeatNum": "150"
+		},
+		{
+			"facilityMeatFieldId": "10",
+			"level": "10",
+			"perMeatTime": "60",
+			"maxMeatNum": "200"
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"monsterGrowStepM": [
+		{
+			"monsterGrowStepId": "1",
+			"monsterGrowStepName": "デジタマ",
+			"maxFriendship": "15"
+		},
+		{
+			"monsterGrowStepId": "2",
+			"monsterGrowStepName": "幼年期I",
+			"maxFriendship": "30"
+		},
+		{
+			"monsterGrowStepId": "3",
+			"monsterGrowStepName": "幼年期II",
+			"maxFriendship": "60"
+		},
+		{
+			"monsterGrowStepId": "4",
+			"monsterGrowStepName": "成長期",
+			"maxFriendship": "90"
+		},
+		{
+			"monsterGrowStepId": "5",
+			"monsterGrowStepName": "成熟期",
+			"maxFriendship": "150"
+		},
+		{
+			"monsterGrowStepId": "6",
+			"monsterGrowStepName": "完全体",
+			"maxFriendship": "210"
+		},
+		{
+			"monsterGrowStepId": "7",
+			"monsterGrowStepName": "究極体",
+			"maxFriendship": "300"
+		},
+		{
+			"monsterGrowStepId": "8",
+			"monsterGrowStepName": "アーマー体",
+			"maxFriendship": "150"
+		},
+		{
+			"monsterGrowStepId": "9",
+			"monsterGrowStepName": "アーマー体",
+			"maxFriendship": "300"
+		},
+		{
+			"monsterGrowStepId": "10",
+			"monsterGrowStepName": "ハイブリッド体",
+			"maxFriendship": "90"
+		},
+		{
+			"monsterGrowStepId": "11",
+			"monsterGrowStepName": "ハイブリッド体",
+			"maxFriendship": "150"
+		},
+		{
+			"monsterGrowStepId": "12",
+			"monsterGrowStepName": "ハイブリッド体",
+			"maxFriendship": "210"
+		},
+		{
+			"monsterGrowStepId": "13",
+			"monsterGrowStepName": "ハイブリッド体",
+			"maxFriendship": "300"
+		}
+	]
+}

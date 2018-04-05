@@ -1,0 +1,194 @@
+{
+	"facilityConditionM": [
+		{
+			"facilityConditionId": "1",
+			"releaseId": "1",
+			"description": "AREA 01【倉庫サーバ】をクリアで開放",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "1",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "2",
+			"releaseId": "2",
+			"description": "AREA 03【空調管理サーバ】をクリアで開放",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "2",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "3",
+			"releaseId": "3",
+			"description": "AREA 05【工場制御サーバ】をクリアで開放",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "3",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "4",
+			"releaseId": "4",
+			"description": "累積ミッションの「1人とフレンドになろう」をクリアで開放",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "4",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "5",
+			"releaseId": "5",
+			"description": "累積ミッションの「3人とフレンドになろう」をクリアで開放",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "5",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "6",
+			"releaseId": "6",
+			"description": "累積ミッションの「5人とフレンドになろう」をクリアで開放",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "6",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "7",
+			"releaseId": "7",
+			"description": "累積ミッションの「10人とフレンドになろう」をクリアで開放",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "7",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "8",
+			"releaseId": "8",
+			"description": "累積ミッションの「20人とフレンドになろう」をクリアで開放",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "8",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "9",
+			"releaseId": "9",
+			"description": "累積ミッションの「30人とフレンドになろう」をクリアで開放",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "9",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "10",
+			"releaseId": "10",
+			"description": "累積ミッションの「50人とフレンドになろう」をクリアで開放",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "10",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "11",
+			"releaseId": "11",
+			"description": "AREA 04【水質管理サーバ】をクリアで開放",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "11",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "12",
+			"releaseId": "12",
+			"description": "勇気と友情のクリスマス奪還戦の累計ポイント報酬達成で獲得",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "12",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "13",
+			"releaseId": "13",
+			"description": "勇気と友情のクリスマス奪還戦の累計ポイント報酬達成で獲得",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "13",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "14",
+			"releaseId": "14",
+			"description": "勇気と友情のクリスマス奪還戦の累計ポイント報酬達成で獲得",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "14",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "15",
+			"releaseId": "15",
+			"description": "勇気と友情のクリスマス奪還戦の累計ポイント報酬達成で獲得",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "15",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "16",
+			"releaseId": "16",
+			"description": "勇気と友情のクリスマス奪還戦の累計ポイント報酬達成で獲得",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "16",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "17",
+			"releaseId": "17",
+			"description": "勇気と友情のクリスマス奪還戦の累計ポイント報酬達成で獲得",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "17",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "18",
+			"releaseId": "18",
+			"description": "勇気と友情のクリスマス奪還戦の累計ポイント報酬達成で獲得",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "18",
+			"conditionValue": "1",
+			"operatorType": "2"
+		},
+		{
+			"facilityConditionId": "19",
+			"releaseId": "19",
+			"description": "勇気と友情のクリスマス奪還戦の累計ポイント報酬達成で獲得",
+			"viewFlg": "1",
+			"conditionType": "1",
+			"conditionParam": "19",
+			"conditionValue": "1",
+			"operatorType": "2"
+		}
+	]
+}

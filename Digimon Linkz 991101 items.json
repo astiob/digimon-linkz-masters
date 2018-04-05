@@ -1,0 +1,829 @@
+{
+	"itemM": [
+		{
+			"itemId": "1",
+			"name": "ナゾの断片データ",
+			"description": "ナゾに包まれた不思議なデータ。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Item/item_1"
+			],
+			"unitName": "個",
+			"upValue": "0",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "2",
+			"name": "BP",
+			"description": "コロシアムで獲得できるポイント。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Item/item_2"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "3",
+			"name": "意志の断片データ",
+			"description": "意志のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Item/item_3"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "4",
+			"name": "αの断片データ",
+			"description": "ナゾに包まれたαデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Item/item_4"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "5",
+			"name": "憤怒の断片データ",
+			"description": "怒りの感情のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Item/item_7"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "6",
+			"name": "拡張パッチ",
+			"description": "スロットを拡張するパッチが含まれたアイテム。使うことでスロットを拡張することが出来る。",
+			"category": "1",
+			"img": [
+				"ChipThumbnail/extra_slot_01"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "7",
+			"name": "取外パッチ",
+			"description": "チップを取り外すパッチが含まれたアイテム。使うことで装備したチップを取り外すことが出来る。",
+			"category": "1",
+			"img": [
+				"ChipThumbnail/eject_slot_01"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "8",
+			"name": "キャンディー",
+			"description": "trick or treat！お菓子を渡しに行こう",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_8",
+				"EventResource/Item/item_8"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "9",
+			"name": "脈動する漆黒の断片データ",
+			"description": "漆黒のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_9",
+				"EventResource/Item/item_9"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "10",
+			"name": "プレゼント箱",
+			"description": "ディアボロモンが持ち去ったプレゼント。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_10",
+				"EventResource/Item/item_10"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "11",
+			"name": "爆炎の断片データ",
+			"description": "爆炎のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_11",
+				"EventResource/Item/item_11"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "12",
+			"name": "祝賀する紅白の断片データ",
+			"description": "紅白のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_12",
+				"EventResource/Item/item_12"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "13",
+			"name": "黒キ聖騎士の断片データ",
+			"description": "黒キ聖騎士のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_13",
+				"EventResource/Item/item_13"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "14",
+			"name": "統率の断片データ",
+			"description": "統率のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_14",
+				"EventResource/Item/item_14"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "15",
+			"name": "暴走の断片データ",
+			"description": "暴走のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_15",
+				"EventResource/Item/item_15"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "16",
+			"name": "バレンタインチョコ",
+			"description": "義理か本命か不明だがデジモンが隠し持っていたチョコ。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_16",
+				"EventResource/Item/item_16"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "17",
+			"name": "隠士の断片データ",
+			"description": "隠士のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_17",
+				"EventResource/Item/item_17"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "18",
+			"name": "修練の断片データ",
+			"description": "修練のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_18",
+				"EventResource/Item/item_18"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "19",
+			"name": "策士と戦士の断片データ",
+			"description": "策士と戦士のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_19",
+				"EventResource/Item/item_19"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "20",
+			"name": "白銀の断片データ・初",
+			"description": "白銀のデータ・初が断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_20",
+				"EventResource/Item/item_20"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "21",
+			"name": "白銀の断片データ・中",
+			"description": "白銀のデータ・中が断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_21",
+				"EventResource/Item/item_21"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "22",
+			"name": "白銀の断片データ・上",
+			"description": "白銀のデータ・上が断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_22",
+				"EventResource/Item/item_22"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "23",
+			"name": "白銀の断片データ・超",
+			"description": "白銀のデータ・超が断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_23",
+				"EventResource/Item/item_23"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "24",
+			"name": "薔薇と飛竜の断片データ",
+			"description": "薔薇と飛竜のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_24",
+				"EventResource/Item/item_24"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "25",
+			"name": "奇跡の断片データ",
+			"description": "奇跡のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_25",
+				"EventResource/Item/item_25"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "26",
+			"name": "合成魔獣の断片データ",
+			"description": "合成魔獣のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_26",
+				"EventResource/Item/item_26"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "27",
+			"name": "神槍の断片データ",
+			"description": "神槍のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_27",
+				"EventResource/Item/item_27"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "28",
+			"name": "破壊と創造の断片データ",
+			"description": "破壊と創造のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_28",
+				"EventResource/Item/item_28"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "29",
+			"name": "壊れたチップの断片データ",
+			"description": "壊れたチップのデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_29",
+				"EventResource/Item/item_29"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "30",
+			"name": "刃竜の断片データ",
+			"description": "刃竜のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_30",
+				"EventResource/Item/item_30"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "31",
+			"name": "機竜の断片データ",
+			"description": "機竜のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_31",
+				"EventResource/Item/item_31"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "32",
+			"name": "忠誠の断片データ",
+			"description": "忠誠のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_32",
+				"EventResource/Item/item_32"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "33",
+			"name": "高度化の断片データ",
+			"description": "高度化のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_33",
+				"EventResource/Item/item_33"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "34",
+			"name": "竜帝の断片データ",
+			"description": "竜帝のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_34",
+				"EventResource/Item/item_34"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "35",
+			"name": "銀紫の断片データ",
+			"description": "白銀と黒紫のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_35",
+				"EventResource/Item/item_35"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "36",
+			"name": "隠士の抗体断片データ",
+			"description": "隠士の抗体データが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_36",
+				"EventResource/Item/item_36"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "37",
+			"name": "光輝と闇黒の断片データ",
+			"description": "光輝と闇黒のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_37",
+				"EventResource/Item/item_37"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "38",
+			"name": "双月の断片データ",
+			"description": "双月のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_38",
+				"EventResource/Item/item_38"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "39",
+			"name": "神速の断片データ",
+			"description": "神速のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_39",
+				"EventResource/Item/item_39"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "40",
+			"name": "高度化の断片データ・白",
+			"description": "高度化のデータが白く断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_40",
+				"EventResource/Item/item_40"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "41",
+			"name": "怠惰の断片データ",
+			"description": "怠惰のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_41",
+				"EventResource/Item/item_41"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "42",
+			"name": "深紅の断片データ",
+			"description": "深紅のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_42",
+				"EventResource/Item/item_42"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "43",
+			"name": "飲み込む闇の断片データ",
+			"description": "飲み込む闇のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_43",
+				"EventResource/Item/item_43"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "44",
+			"name": "薔薇の断片データ･赤",
+			"description": "赤薔薇のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_44",
+				"EventResource/Item/item_44"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "45",
+			"name": "薔薇の断片データ･白",
+			"description": "白薔薇のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_45",
+				"EventResource/Item/item_45"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "46",
+			"name": "道化師の断片データ",
+			"description": "道化師のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_46",
+				"EventResource/Item/item_46"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "47",
+			"name": "知性と野性の断片データ",
+			"description": "知性と野性のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_47",
+				"EventResource/Item/item_47"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "48",
+			"name": "火焔の断片データ",
+			"description": "火焔のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_48",
+				"EventResource/Item/item_48"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "49",
+			"name": "飛竜衝天の断片データ",
+			"description": "飛竜衝天のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_49",
+				"EventResource/Item/item_49"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "50",
+			"name": "光輝と髑髏の断片データ",
+			"description": "光輝と髑髏のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_50",
+				"EventResource/Item/item_50"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "51",
+			"name": "XXの断片データ",
+			"description": "XXのデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_51",
+				"EventResource/Item/item_51"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "52",
+			"name": "クリスマスBOX",
+			"description": "クリスマスキャンペーンの贈り物。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_52",
+				"EventResource/Item/item_52"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "53",
+			"name": "暁闇と曙光の断片データ",
+			"description": "暁闇と曙光のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_53",
+				"EventResource/Item/item_53"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "54",
+			"name": "神獣の断片データ",
+			"description": "神獣のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_54",
+				"EventResource/Item/item_54"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "55",
+			"name": "崩壊する秩序の断片データ",
+			"description": "崩壊する秩序のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_55",
+				"EventResource/Item/item_55"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "56",
+			"name": "EXECUTIONの断片データ",
+			"description": "EXECUTIONのデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_56",
+				"EventResource/Item/item_56"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "57",
+			"name": "紫翼幻影の断片データ",
+			"description": "紫翼幻影のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_57",
+				"EventResource/Item/item_57"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "58",
+			"name": "系譜の断片データ",
+			"description": "系譜のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_58",
+				"EventResource/Item/item_58"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "59",
+			"name": "華炎乱舞の断片データ",
+			"description": "華炎乱舞のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_59",
+				"EventResource/Item/item_59"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "62",
+			"name": "春嵐の断片データ",
+			"description": "春嵐のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_62",
+				"EventResource/Item/item_62"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "50001",
+			"name": "特上肉",
+			"description": "特別な畑で取れた特上の肉。これでデジモンも気分上々。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/special_meat_00",
+				"EventResource/Item/special_meat_00"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "60001",
+			"name": "選べる究極体引換券",
+			"description": "交換所ですきな究極体デジモンと交換できる引換券",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/special_ticket_00",
+				"EventResource/Item/item_60001"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "60002",
+			"name": "「飛竜衝天」特効デジモン引換券",
+			"description": "交換所で特効デジモン「バンチョーレオモン」を交換できる引換券",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/special_ticket_60002",
+				"EventResource/Item/item_60002"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "60003",
+			"name": "厳選究極体引換券",
+			"description": "交換所で厳選究極体デジモンと交換できる引換券",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_60003",
+				"EventResource/Item/item_60003"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		}
+	]
+}

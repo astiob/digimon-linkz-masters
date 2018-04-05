@@ -1,0 +1,984 @@
+{
+	"monsterTribeTranceM": [
+		{
+			"monsterTribeTranceId": "1",
+			"tribe": "1",
+			"growStep": "4",
+			"soulId": "2000001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "2",
+			"tribe": "1",
+			"growStep": "4",
+			"soulId": "2000002",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "3",
+			"tribe": "1",
+			"growStep": "5",
+			"soulId": "2000001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "4",
+			"tribe": "1",
+			"growStep": "5",
+			"soulId": "2000002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "5",
+			"tribe": "1",
+			"growStep": "5",
+			"soulId": "2000003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "6",
+			"tribe": "1",
+			"growStep": "6",
+			"soulId": "2000001",
+			"num": "15"
+		},
+		{
+			"monsterTribeTranceId": "7",
+			"tribe": "1",
+			"growStep": "6",
+			"soulId": "2000002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "8",
+			"tribe": "1",
+			"growStep": "6",
+			"soulId": "2000003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "9",
+			"tribe": "1",
+			"growStep": "6",
+			"soulId": "2000004",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "10",
+			"tribe": "1",
+			"growStep": "7",
+			"soulId": "2000001",
+			"num": "25"
+		},
+		{
+			"monsterTribeTranceId": "11",
+			"tribe": "1",
+			"growStep": "7",
+			"soulId": "2000002",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "12",
+			"tribe": "1",
+			"growStep": "7",
+			"soulId": "2000003",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "13",
+			"tribe": "1",
+			"growStep": "7",
+			"soulId": "2000004",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "14",
+			"tribe": "1",
+			"growStep": "8",
+			"soulId": "2000001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "15",
+			"tribe": "1",
+			"growStep": "8",
+			"soulId": "2000002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "16",
+			"tribe": "1",
+			"growStep": "8",
+			"soulId": "2000003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "17",
+			"tribe": "1",
+			"growStep": "9",
+			"soulId": "2000001",
+			"num": "25"
+		},
+		{
+			"monsterTribeTranceId": "18",
+			"tribe": "1",
+			"growStep": "9",
+			"soulId": "2000002",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "19",
+			"tribe": "1",
+			"growStep": "9",
+			"soulId": "2000003",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "20",
+			"tribe": "1",
+			"growStep": "9",
+			"soulId": "2000004",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "21",
+			"tribe": "2",
+			"growStep": "4",
+			"soulId": "2010001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "22",
+			"tribe": "2",
+			"growStep": "4",
+			"soulId": "2010002",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "23",
+			"tribe": "2",
+			"growStep": "5",
+			"soulId": "2010001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "24",
+			"tribe": "2",
+			"growStep": "5",
+			"soulId": "2010002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "25",
+			"tribe": "2",
+			"growStep": "5",
+			"soulId": "2010003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "26",
+			"tribe": "2",
+			"growStep": "6",
+			"soulId": "2010001",
+			"num": "15"
+		},
+		{
+			"monsterTribeTranceId": "27",
+			"tribe": "2",
+			"growStep": "6",
+			"soulId": "2010002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "28",
+			"tribe": "2",
+			"growStep": "6",
+			"soulId": "2010003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "29",
+			"tribe": "2",
+			"growStep": "6",
+			"soulId": "2010004",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "30",
+			"tribe": "2",
+			"growStep": "7",
+			"soulId": "2010001",
+			"num": "25"
+		},
+		{
+			"monsterTribeTranceId": "31",
+			"tribe": "2",
+			"growStep": "7",
+			"soulId": "2010002",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "32",
+			"tribe": "2",
+			"growStep": "7",
+			"soulId": "2010003",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "33",
+			"tribe": "2",
+			"growStep": "7",
+			"soulId": "2010004",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "34",
+			"tribe": "2",
+			"growStep": "8",
+			"soulId": "2010001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "35",
+			"tribe": "2",
+			"growStep": "8",
+			"soulId": "2010002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "36",
+			"tribe": "2",
+			"growStep": "8",
+			"soulId": "2010003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "37",
+			"tribe": "2",
+			"growStep": "9",
+			"soulId": "2010001",
+			"num": "25"
+		},
+		{
+			"monsterTribeTranceId": "38",
+			"tribe": "2",
+			"growStep": "9",
+			"soulId": "2010002",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "39",
+			"tribe": "2",
+			"growStep": "9",
+			"soulId": "2010003",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "40",
+			"tribe": "2",
+			"growStep": "9",
+			"soulId": "2010004",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "41",
+			"tribe": "3",
+			"growStep": "4",
+			"soulId": "2020001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "42",
+			"tribe": "3",
+			"growStep": "4",
+			"soulId": "2020002",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "43",
+			"tribe": "3",
+			"growStep": "5",
+			"soulId": "2020001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "44",
+			"tribe": "3",
+			"growStep": "5",
+			"soulId": "2020002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "45",
+			"tribe": "3",
+			"growStep": "5",
+			"soulId": "2020003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "46",
+			"tribe": "3",
+			"growStep": "6",
+			"soulId": "2020001",
+			"num": "15"
+		},
+		{
+			"monsterTribeTranceId": "47",
+			"tribe": "3",
+			"growStep": "6",
+			"soulId": "2020002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "48",
+			"tribe": "3",
+			"growStep": "6",
+			"soulId": "2020003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "49",
+			"tribe": "3",
+			"growStep": "6",
+			"soulId": "2020004",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "50",
+			"tribe": "3",
+			"growStep": "7",
+			"soulId": "2020001",
+			"num": "25"
+		},
+		{
+			"monsterTribeTranceId": "51",
+			"tribe": "3",
+			"growStep": "7",
+			"soulId": "2020002",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "52",
+			"tribe": "3",
+			"growStep": "7",
+			"soulId": "2020003",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "53",
+			"tribe": "3",
+			"growStep": "7",
+			"soulId": "2020004",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "54",
+			"tribe": "3",
+			"growStep": "8",
+			"soulId": "2020001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "55",
+			"tribe": "3",
+			"growStep": "8",
+			"soulId": "2020002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "56",
+			"tribe": "3",
+			"growStep": "8",
+			"soulId": "2020003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "57",
+			"tribe": "3",
+			"growStep": "9",
+			"soulId": "2020001",
+			"num": "25"
+		},
+		{
+			"monsterTribeTranceId": "58",
+			"tribe": "3",
+			"growStep": "9",
+			"soulId": "2020002",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "59",
+			"tribe": "3",
+			"growStep": "9",
+			"soulId": "2020003",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "60",
+			"tribe": "3",
+			"growStep": "9",
+			"soulId": "2020004",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "61",
+			"tribe": "4",
+			"growStep": "4",
+			"soulId": "2030001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "62",
+			"tribe": "4",
+			"growStep": "4",
+			"soulId": "2030002",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "63",
+			"tribe": "4",
+			"growStep": "5",
+			"soulId": "2030001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "64",
+			"tribe": "4",
+			"growStep": "5",
+			"soulId": "2030002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "65",
+			"tribe": "4",
+			"growStep": "5",
+			"soulId": "2030003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "66",
+			"tribe": "4",
+			"growStep": "6",
+			"soulId": "2030001",
+			"num": "15"
+		},
+		{
+			"monsterTribeTranceId": "67",
+			"tribe": "4",
+			"growStep": "6",
+			"soulId": "2030002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "68",
+			"tribe": "4",
+			"growStep": "6",
+			"soulId": "2030003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "69",
+			"tribe": "4",
+			"growStep": "6",
+			"soulId": "2030004",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "70",
+			"tribe": "4",
+			"growStep": "7",
+			"soulId": "2030001",
+			"num": "25"
+		},
+		{
+			"monsterTribeTranceId": "71",
+			"tribe": "4",
+			"growStep": "7",
+			"soulId": "2030002",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "72",
+			"tribe": "4",
+			"growStep": "7",
+			"soulId": "2030003",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "73",
+			"tribe": "4",
+			"growStep": "7",
+			"soulId": "2030004",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "74",
+			"tribe": "4",
+			"growStep": "8",
+			"soulId": "2030001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "75",
+			"tribe": "4",
+			"growStep": "8",
+			"soulId": "2030002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "76",
+			"tribe": "4",
+			"growStep": "8",
+			"soulId": "2030003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "77",
+			"tribe": "4",
+			"growStep": "9",
+			"soulId": "2030001",
+			"num": "25"
+		},
+		{
+			"monsterTribeTranceId": "78",
+			"tribe": "4",
+			"growStep": "9",
+			"soulId": "2030002",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "79",
+			"tribe": "4",
+			"growStep": "9",
+			"soulId": "2030003",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "80",
+			"tribe": "4",
+			"growStep": "9",
+			"soulId": "2030004",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "81",
+			"tribe": "5",
+			"growStep": "4",
+			"soulId": "2040001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "82",
+			"tribe": "5",
+			"growStep": "4",
+			"soulId": "2040002",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "83",
+			"tribe": "5",
+			"growStep": "5",
+			"soulId": "2040001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "84",
+			"tribe": "5",
+			"growStep": "5",
+			"soulId": "2040002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "85",
+			"tribe": "5",
+			"growStep": "5",
+			"soulId": "2040003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "86",
+			"tribe": "5",
+			"growStep": "6",
+			"soulId": "2040001",
+			"num": "15"
+		},
+		{
+			"monsterTribeTranceId": "87",
+			"tribe": "5",
+			"growStep": "6",
+			"soulId": "2040002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "88",
+			"tribe": "5",
+			"growStep": "6",
+			"soulId": "2040003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "89",
+			"tribe": "5",
+			"growStep": "6",
+			"soulId": "2040004",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "90",
+			"tribe": "5",
+			"growStep": "7",
+			"soulId": "2040001",
+			"num": "25"
+		},
+		{
+			"monsterTribeTranceId": "91",
+			"tribe": "5",
+			"growStep": "7",
+			"soulId": "2040002",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "92",
+			"tribe": "5",
+			"growStep": "7",
+			"soulId": "2040003",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "93",
+			"tribe": "5",
+			"growStep": "7",
+			"soulId": "2040004",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "94",
+			"tribe": "5",
+			"growStep": "8",
+			"soulId": "2040001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "95",
+			"tribe": "5",
+			"growStep": "8",
+			"soulId": "2040002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "96",
+			"tribe": "5",
+			"growStep": "8",
+			"soulId": "2040003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "97",
+			"tribe": "5",
+			"growStep": "9",
+			"soulId": "2040001",
+			"num": "25"
+		},
+		{
+			"monsterTribeTranceId": "98",
+			"tribe": "5",
+			"growStep": "9",
+			"soulId": "2040002",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "99",
+			"tribe": "5",
+			"growStep": "9",
+			"soulId": "2040003",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "100",
+			"tribe": "5",
+			"growStep": "9",
+			"soulId": "2040004",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "101",
+			"tribe": "6",
+			"growStep": "4",
+			"soulId": "2050001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "102",
+			"tribe": "6",
+			"growStep": "4",
+			"soulId": "2050002",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "103",
+			"tribe": "6",
+			"growStep": "5",
+			"soulId": "2050001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "104",
+			"tribe": "6",
+			"growStep": "5",
+			"soulId": "2050002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "105",
+			"tribe": "6",
+			"growStep": "5",
+			"soulId": "2050003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "106",
+			"tribe": "6",
+			"growStep": "6",
+			"soulId": "2050001",
+			"num": "15"
+		},
+		{
+			"monsterTribeTranceId": "107",
+			"tribe": "6",
+			"growStep": "6",
+			"soulId": "2050002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "108",
+			"tribe": "6",
+			"growStep": "6",
+			"soulId": "2050003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "109",
+			"tribe": "6",
+			"growStep": "6",
+			"soulId": "2050004",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "110",
+			"tribe": "6",
+			"growStep": "7",
+			"soulId": "2050001",
+			"num": "25"
+		},
+		{
+			"monsterTribeTranceId": "111",
+			"tribe": "6",
+			"growStep": "7",
+			"soulId": "2050002",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "112",
+			"tribe": "6",
+			"growStep": "7",
+			"soulId": "2050003",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "113",
+			"tribe": "6",
+			"growStep": "7",
+			"soulId": "2050004",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "114",
+			"tribe": "6",
+			"growStep": "8",
+			"soulId": "2050001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "115",
+			"tribe": "6",
+			"growStep": "8",
+			"soulId": "2050002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "116",
+			"tribe": "6",
+			"growStep": "8",
+			"soulId": "2050003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "117",
+			"tribe": "6",
+			"growStep": "9",
+			"soulId": "2050001",
+			"num": "25"
+		},
+		{
+			"monsterTribeTranceId": "118",
+			"tribe": "6",
+			"growStep": "9",
+			"soulId": "2050002",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "119",
+			"tribe": "6",
+			"growStep": "9",
+			"soulId": "2050003",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "120",
+			"tribe": "6",
+			"growStep": "9",
+			"soulId": "2050004",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "121",
+			"tribe": "7",
+			"growStep": "4",
+			"soulId": "2060001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "122",
+			"tribe": "7",
+			"growStep": "4",
+			"soulId": "2060002",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "123",
+			"tribe": "7",
+			"growStep": "5",
+			"soulId": "2060001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "124",
+			"tribe": "7",
+			"growStep": "5",
+			"soulId": "2060002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "125",
+			"tribe": "7",
+			"growStep": "5",
+			"soulId": "2060003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "126",
+			"tribe": "7",
+			"growStep": "6",
+			"soulId": "2060001",
+			"num": "15"
+		},
+		{
+			"monsterTribeTranceId": "127",
+			"tribe": "7",
+			"growStep": "6",
+			"soulId": "2060002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "128",
+			"tribe": "7",
+			"growStep": "6",
+			"soulId": "2060003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "129",
+			"tribe": "7",
+			"growStep": "6",
+			"soulId": "2060004",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "130",
+			"tribe": "7",
+			"growStep": "7",
+			"soulId": "2060001",
+			"num": "25"
+		},
+		{
+			"monsterTribeTranceId": "131",
+			"tribe": "7",
+			"growStep": "7",
+			"soulId": "2060002",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "132",
+			"tribe": "7",
+			"growStep": "7",
+			"soulId": "2060003",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "133",
+			"tribe": "7",
+			"growStep": "7",
+			"soulId": "2060004",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "134",
+			"tribe": "7",
+			"growStep": "8",
+			"soulId": "2060001",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "135",
+			"tribe": "7",
+			"growStep": "8",
+			"soulId": "2060002",
+			"num": "10"
+		},
+		{
+			"monsterTribeTranceId": "136",
+			"tribe": "7",
+			"growStep": "8",
+			"soulId": "2060003",
+			"num": "5"
+		},
+		{
+			"monsterTribeTranceId": "137",
+			"tribe": "7",
+			"growStep": "9",
+			"soulId": "2060001",
+			"num": "25"
+		},
+		{
+			"monsterTribeTranceId": "138",
+			"tribe": "7",
+			"growStep": "9",
+			"soulId": "2060002",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "139",
+			"tribe": "7",
+			"growStep": "9",
+			"soulId": "2060003",
+			"num": "20"
+		},
+		{
+			"monsterTribeTranceId": "140",
+			"tribe": "7",
+			"growStep": "9",
+			"soulId": "2060004",
+			"num": "10"
+		}
+	]
+}

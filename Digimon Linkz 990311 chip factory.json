@@ -1,0 +1,44 @@
+{
+	"facilityChipM": [
+		{
+			"level": "1",
+			"maxChipNum": "300"
+		},
+		{
+			"level": "2",
+			"maxChipNum": "350"
+		},
+		{
+			"level": "3",
+			"maxChipNum": "400"
+		},
+		{
+			"level": "4",
+			"maxChipNum": "450"
+		},
+		{
+			"level": "5",
+			"maxChipNum": "500"
+		},
+		{
+			"level": "6",
+			"maxChipNum": "550"
+		},
+		{
+			"level": "7",
+			"maxChipNum": "600"
+		},
+		{
+			"level": "8",
+			"maxChipNum": "650"
+		},
+		{
+			"level": "9",
+			"maxChipNum": "700"
+		},
+		{
+			"level": "10",
+			"maxChipNum": "750"
+		}
+	]
+}

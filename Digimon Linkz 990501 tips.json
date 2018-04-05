@@ -1,0 +1,713 @@
+{
+	"tipsM": {
+		"tips": [
+			{
+				"tipsId": "1",
+				"message": "デジタルワールドは、ネットワーク上の擬似電脳空間です。地球と同じく大陸や海があります。",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "2",
+				"message": "現実世界とデジタルワールドをつなぐアプリ、それが「デジモンリンクス」です。",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "3",
+				"message": "デジタルワールドの断片化により、各地のデジモンたちが暴走しているみたいです…",
+				"icon": "3",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "4",
+				"message": "デジモンのアイコンを長押しすると、詳細を確認することができます。",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "5",
+				"message": "1日1回のログインでログインボーナスがもらえます！毎日ログインしてアイテムをゲット！",
+				"icon": "4",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "6",
+				"message": "曜日クエストは、曜日ごとにクエストとドロップアイテムも変化！忘れずにチェックです！",
+				"icon": "4",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "7",
+				"message": "究極体のデータの欠片は降臨クエストでゲットできます！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "8",
+				"message": "降臨クエストは、開放期間が限られています。開放期間は必ずチェックです！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "9",
+				"message": "デジモンは、種族ごとに耐性が異なります。相性の良い属性で大ダメージを与えましょう！",
+				"icon": "4",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "10",
+				"message": "HPが0になったデジモンは、デジストーンを使って次のラウンドで復活させることができますよ！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "11",
+				"message": "固有技は、高い威力や強力な効果があります。上手く使ってバトルを有利に進めましょう！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "12",
+				"message": "敵デジモンをタップして、状況に合わせて攻撃対象を切り替えましょう！",
+				"icon": "4",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "13",
+				"message": "ターゲットアイコンの色で技の相性がわかります。攻撃をする前に確認しましょう！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "14",
+				"message": "スタミナは3分に1回復します。消費スタミナを考えて、クエストに挑戦しましょう！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "15",
+				"message": "APは1ラウンド毎に1回復！攻撃がクリティカルだった場合さらに1回復！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "16",
+				"message": "ATK（物理攻撃力）が高い相手と戦う場合は、DEF（物理防御力）の高いデジモンをパーティに編成しましょう！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "17",
+				"message": "S-ATK（魔法攻撃力）が高い相手と戦う場合は、S-DEF（魔法防御力）の高いデジモンをパーティに編成しましょう！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "18",
+				"message": "アプリを削除すると、セーブデータが消えて最初からになってしまいます！注意してください！",
+				"icon": "3",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "19",
+				"message": "デジストーンは、キャプチャや施設の建設時間短縮等、様々な場面で役に立ちます。",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "20",
+				"message": "私はデジモンリンクスのナビゲーターのヒナです！全力でばっちりサポートしますよ！",
+				"icon": "4",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "21",
+				"message": "覚醒値が低いデジモンほど進化させやすいんです！",
+				"icon": "4",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "22",
+				"message": "究極体同士を組み合わせて研究することができます！研究すると、デジタマが誕生しますよ！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "23",
+				"message": "才能のメダルの色が同じでも、能力の上がり方に差があります。",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "24",
+				"message": "才能は、才能開花でパートナーデジモンからベースデジモンに引き継ぐことができます！",
+				"icon": "4",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "25",
+				"message": "強化のパートナーが同じ種族だった場合は、運がアップする可能性があります！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "26",
+				"message": "リーダーデジモンの運が上がるほど、運ボーナスを獲得できる確率が高くなりますよ！",
+				"icon": "4",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "27",
+				"message": "バトルに苦戦する場合は、デジモンのレベルを上げて、進化させてみましょう！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "28",
+				"message": "相手のAPに注目してみましょう！APが溜まっていたら要注意！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "29",
+				"message": "敵デジモンの耐性やスキルに合わせて、デジモンの継承技を見直してみましょう！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "30",
+				"message": "効率良くレベルを上げるには、通常クエストをたくさんプレイしましょう！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "31",
+				"message": "お気に入りパーティに登録したデジモンたちがファームに登場しますよ！",
+				"icon": "4",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "32",
+				"message": "ハウスではデジモンの一覧を確認できます。また、デジモンとお別れしてクラスタを獲得できます。",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "33",
+				"message": "肉は所持数を越える収穫はできません。倉庫をアップグレードして最大所持数を増やしましょう！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "34",
+				"message": "施設と飾りは同時に２つまで建設が可能です。建設完了も建設中扱いなので注意しましょう！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "35",
+				"message": "ユーザーコードを使ってフレンド検索ができます！どんどんフレンドを増やしましょう！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "36",
+				"message": "耐性変化でデジモンの耐性を増やすことができるので、同名のデジモンも大切にしましょう！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "37",
+				"message": "運は、強化時のパートナーのレベル帯が高ければ高いほど確率アップ！究極体なら必ずアップ！？",
+				"icon": "4",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "38",
+				"message": "ひとまず安心ですね…",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "39",
+				"message": "緊急事態…！？断片化の影響が出ているのでしょうか…",
+				"icon": "3",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "40",
+				"message": "ふぅ…無事にデジモンたちの暴走を止めることができましたね…！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "41",
+				"message": "現在コロシアムは開催していません。また、開催したらお知らせしますね！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "42",
+				"message": "全国バトルでは電波状況のいい場所で戦いましょう！通信が切れてしまうと、敗北になります。",
+				"icon": "3",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "43",
+				"message": "今は開催していないみたいですね…。説明を読み込んでばっちり準備しちゃいましょう！",
+				"icon": "4",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "44",
+				"message": "あなたのデジモンたちもやる気に溢れているみたいですね！さぁ、やっちゃいましょう！",
+				"icon": "4",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "45",
+				"message": "次のランクまであと{0}勝です！ばっちりがんばってください！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "46",
+				"message": "色んな人がいるみたいですね…。どんな人たちなんでしょうか…。手加減してくれ…ないですよね。",
+				"icon": "3",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "47",
+				"message": "終了まであと少しです！さっそくバトルへ行っちゃいましょう！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "48",
+				"message": "うぅ…。出遅れちゃったみたいです。すぐにでも参加してみましょう！",
+				"icon": "3",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "49",
+				"message": "おつかれさまでした！デジモンたちもあなたの応援に全力で応えてましたね！",
+				"icon": "4",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "50",
+				"message": "結果はどうであれ、あなたとデジモンたちとの絆に感激しちゃいました！",
+				"icon": "4",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "51",
+				"message": "欲しいものは見つかりましたか？\nたくさん集めてばっちり交換しちゃいましょう！",
+				"icon": "4",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "52",
+				"message": "あんなアイテムやこんなアイテム！たくさんあって目移りしちゃいますね！\nあ！私はこれにしようかな…？",
+				"icon": "4",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "53",
+				"message": "う～ん…。\n今は何も交換できないみたいですね…。また様子を見に来ましょうか。",
+				"icon": "3",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "54",
+				"message": "オーナーの通信が切れると、クエスト失敗となるので、通信状況のいい場所で挑戦してくださいね！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "55",
+				"message": "メンバーの通信が切れると、クエスト復帰が出来ません…。オーナーが代わりに操作します。",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "56",
+				"message": "今は…ばっちり集計中みたいですね！もうすぐ終わるようなので、もう少々お待ちください！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "57",
+				"message": "完全体への進化には、曜日クエストの上級でゲットできる進化素材が必要です！\n頑張って集めちゃいましょう！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "58",
+				"message": "今日は比較的おだやかなようですね。\n曜日クエストや通常クエストでデジモンを育成しましょう！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "59",
+				"message": "究極体デジモンが降臨しているみたいです。\nばっちり準備してデータの欠片を集めましょう！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			},
+			{
+				"tipsId": "60",
+				"message": "デジタルワールドの断片化が各地で進んでいるようです！\n暴走したデジモンたちを止めに行きましょう！",
+				"icon": "5",
+				"img": "Common02_Nabi"
+			}
+		],
+		"tipsManage": [
+			{
+				"tipsManageId": "1",
+				"tipsId": "4",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "2",
+				"tipsId": "5",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "3",
+				"tipsId": "14",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "4",
+				"tipsId": "18",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "5",
+				"tipsId": "19",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "6",
+				"tipsId": "21",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "7",
+				"tipsId": "22",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "8",
+				"tipsId": "23",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "9",
+				"tipsId": "24",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "10",
+				"tipsId": "25",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "11",
+				"tipsId": "26",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "12",
+				"tipsId": "30",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "13",
+				"tipsId": "31",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "14",
+				"tipsId": "32",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "15",
+				"tipsId": "33",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "16",
+				"tipsId": "34",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "17",
+				"tipsId": "35",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "18",
+				"tipsId": "36",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "19",
+				"tipsId": "37",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "20",
+				"tipsId": "6",
+				"dispType": "2"
+			},
+			{
+				"tipsManageId": "21",
+				"tipsId": "7",
+				"dispType": "2"
+			},
+			{
+				"tipsManageId": "22",
+				"tipsId": "8",
+				"dispType": "2"
+			},
+			{
+				"tipsManageId": "23",
+				"tipsId": "9",
+				"dispType": "2"
+			},
+			{
+				"tipsManageId": "24",
+				"tipsId": "10",
+				"dispType": "2"
+			},
+			{
+				"tipsManageId": "25",
+				"tipsId": "11",
+				"dispType": "2"
+			},
+			{
+				"tipsManageId": "26",
+				"tipsId": "12",
+				"dispType": "2"
+			},
+			{
+				"tipsManageId": "27",
+				"tipsId": "13",
+				"dispType": "2"
+			},
+			{
+				"tipsManageId": "28",
+				"tipsId": "15",
+				"dispType": "2"
+			},
+			{
+				"tipsManageId": "29",
+				"tipsId": "16",
+				"dispType": "2"
+			},
+			{
+				"tipsManageId": "30",
+				"tipsId": "17",
+				"dispType": "2"
+			},
+			{
+				"tipsManageId": "31",
+				"tipsId": "18",
+				"dispType": "2"
+			},
+			{
+				"tipsManageId": "32",
+				"tipsId": "26",
+				"dispType": "2"
+			},
+			{
+				"tipsManageId": "33",
+				"tipsId": "7",
+				"dispType": "4"
+			},
+			{
+				"tipsManageId": "34",
+				"tipsId": "10",
+				"dispType": "4"
+			},
+			{
+				"tipsManageId": "35",
+				"tipsId": "11",
+				"dispType": "4"
+			},
+			{
+				"tipsManageId": "36",
+				"tipsId": "12",
+				"dispType": "4"
+			},
+			{
+				"tipsManageId": "37",
+				"tipsId": "13",
+				"dispType": "4"
+			},
+			{
+				"tipsManageId": "38",
+				"tipsId": "25",
+				"dispType": "4"
+			},
+			{
+				"tipsManageId": "39",
+				"tipsId": "26",
+				"dispType": "4"
+			},
+			{
+				"tipsManageId": "40",
+				"tipsId": "27",
+				"dispType": "4"
+			},
+			{
+				"tipsManageId": "41",
+				"tipsId": "27",
+				"dispType": "4"
+			},
+			{
+				"tipsManageId": "42",
+				"tipsId": "28",
+				"dispType": "4"
+			},
+			{
+				"tipsManageId": "43",
+				"tipsId": "29",
+				"dispType": "4"
+			},
+			{
+				"tipsManageId": "44",
+				"tipsId": "37",
+				"dispType": "4"
+			},
+			{
+				"tipsManageId": "45",
+				"tipsId": "38",
+				"dispType": "5"
+			},
+			{
+				"tipsManageId": "46",
+				"tipsId": "39",
+				"dispType": "6"
+			},
+			{
+				"tipsManageId": "47",
+				"tipsId": "41",
+				"dispType": "7"
+			},
+			{
+				"tipsManageId": "48",
+				"tipsId": "42",
+				"dispType": "8"
+			},
+			{
+				"tipsManageId": "49",
+				"tipsId": "43",
+				"dispType": "8"
+			},
+			{
+				"tipsManageId": "50",
+				"tipsId": "44",
+				"dispType": "9"
+			},
+			{
+				"tipsManageId": "51",
+				"tipsId": "45",
+				"dispType": "9"
+			},
+			{
+				"tipsManageId": "52",
+				"tipsId": "46",
+				"dispType": "9"
+			},
+			{
+				"tipsManageId": "53",
+				"tipsId": "47",
+				"dispType": "10"
+			},
+			{
+				"tipsManageId": "54",
+				"tipsId": "48",
+				"dispType": "10"
+			},
+			{
+				"tipsManageId": "55",
+				"tipsId": "45",
+				"dispType": "10"
+			},
+			{
+				"tipsManageId": "56",
+				"tipsId": "49",
+				"dispType": "11"
+			},
+			{
+				"tipsManageId": "57",
+				"tipsId": "50",
+				"dispType": "11"
+			},
+			{
+				"tipsManageId": "58",
+				"tipsId": "51",
+				"dispType": "12"
+			},
+			{
+				"tipsManageId": "59",
+				"tipsId": "52",
+				"dispType": "12"
+			},
+			{
+				"tipsManageId": "60",
+				"tipsId": "53",
+				"dispType": "13"
+			},
+			{
+				"tipsManageId": "61",
+				"tipsId": "54",
+				"dispType": "14"
+			},
+			{
+				"tipsManageId": "62",
+				"tipsId": "55",
+				"dispType": "14"
+			},
+			{
+				"tipsManageId": "63",
+				"tipsId": "56",
+				"dispType": "15"
+			},
+			{
+				"tipsManageId": "64",
+				"tipsId": "57",
+				"dispType": "1"
+			},
+			{
+				"tipsManageId": "65",
+				"tipsId": "57",
+				"dispType": "2"
+			},
+			{
+				"tipsManageId": "66",
+				"tipsId": "57",
+				"dispType": "4"
+			},
+			{
+				"tipsManageId": "67",
+				"tipsId": "58",
+				"dispType": "16"
+			},
+			{
+				"tipsManageId": "68",
+				"tipsId": "59",
+				"dispType": "17"
+			},
+			{
+				"tipsManageId": "69",
+				"tipsId": "60",
+				"dispType": "18"
+			}
+		]
+	}
+}

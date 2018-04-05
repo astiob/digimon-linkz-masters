@@ -1,0 +1,6480 @@
+{
+	"messageStringM": [
+		{
+			"messageCode": "SystemFraction",
+			"messageText": "{0}/{1}"
+		},
+		{
+			"messageCode": "SystemShortage",
+			"messageText": "{0}不足"
+		},
+		{
+			"messageCode": "SystemCopy",
+			"messageText": "コピー完了"
+		},
+		{
+			"messageCode": "SystemInput",
+			"messageText": "タップで入力"
+		},
+		{
+			"messageCode": "SystemNone",
+			"messageText": "なし"
+		},
+		{
+			"messageCode": "SystemBase",
+			"messageText": "ベース"
+		},
+		{
+			"messageCode": "SystemPartner",
+			"messageText": "パートナー"
+		},
+		{
+			"messageCode": "SystemLoading",
+			"messageText": "データロード中"
+		},
+		{
+			"messageCode": "SystemLoadingFarm",
+			"messageText": "ファームデータ構築中..."
+		},
+		{
+			"messageCode": "SystemList",
+			"messageText": "一覧"
+		},
+		{
+			"messageCode": "SystemUpdate",
+			"messageText": "更新"
+		},
+		{
+			"messageCode": "SystemCost",
+			"messageText": "消費"
+		},
+		{
+			"messageCode": "SystemSelect",
+			"messageText": "選択中"
+		},
+		{
+			"messageCode": "SystemCaution",
+			"messageText": "注意事項"
+		},
+		{
+			"messageCode": "SystemCountNumber",
+			"messageText": "個 "
+		},
+		{
+			"messageCode": "SystemCountBody",
+			"messageText": "体"
+		},
+		{
+			"messageCode": "SystemCountSheets",
+			"messageText": "枚 "
+		},
+		{
+			"messageCode": "SystemSortButton",
+			"messageText": "表示切替"
+		},
+		{
+			"messageCode": "SystemSorting",
+			"messageText": "並べ替え"
+		},
+		{
+			"messageCode": "SystemRefine",
+			"messageText": "絞り込み"
+		},
+		{
+			"messageCode": "SystemConfirm",
+			"messageText": "確認"
+		},
+		{
+			"messageCode": "SystemNavigator",
+			"messageText": "ヒナ"
+		},
+		{
+			"messageCode": "SystemHelp",
+			"messageText": "ヘルプ"
+		},
+		{
+			"messageCode": "SystemTimeD",
+			"messageText": "{0}日"
+		},
+		{
+			"messageCode": "SystemTimeDh",
+			"messageText": "{0}日{1}時間"
+		},
+		{
+			"messageCode": "SystemTimeH",
+			"messageText": "{0}時間"
+		},
+		{
+			"messageCode": "SystemTimeHM",
+			"messageText": "{0}時間{1:D2}分"
+		},
+		{
+			"messageCode": "SystemTimeHMS",
+			"messageText": "{0}時間{1:D2}分{2:D2}秒"
+		},
+		{
+			"messageCode": "SystemTimeM",
+			"messageText": "{0}分"
+		},
+		{
+			"messageCode": "SystemTimeMS",
+			"messageText": "{0}分{1:D2}秒"
+		},
+		{
+			"messageCode": "SystemTimeS",
+			"messageText": "{0}秒"
+		},
+		{
+			"messageCode": "SystemButtonClose",
+			"messageText": "閉じる"
+		},
+		{
+			"messageCode": "SystemButtonYes",
+			"messageText": "はい"
+		},
+		{
+			"messageCode": "SystemButtonNo",
+			"messageText": "いいえ"
+		},
+		{
+			"messageCode": "SystemButtonDecision",
+			"messageText": "決定"
+		},
+		{
+			"messageCode": "SystemButtonReturn",
+			"messageText": "戻る"
+		},
+		{
+			"messageCode": "SystemButtonGoShop",
+			"messageText": "ショップへ"
+		},
+		{
+			"messageCode": "SystemButtonGoTitle",
+			"messageText": "タイトルへ"
+		},
+		{
+			"messageCode": "SystemButtonRetry",
+			"messageText": "リトライ"
+		},
+		{
+			"messageCode": "CautionMessage",
+			"messageText": "【注意】\nこのアプリは無料で遊ぶことができますが、\n一部有料でアイテムを買うことができます。\n\n【未成年の方へ】\n「デジストーン」を買うときは必ずご両親の許可を\nもらうか一緒に買うようにしてください。"
+		},
+		{
+			"messageCode": "AlertDataErrorTitle",
+			"messageText": "データ取得失敗"
+		},
+		{
+			"messageCode": "AlertDataErrorInfo",
+			"messageText": "データの取得に失敗しました。\n本体設定をお確かめの上、通信環境の良いところで\n再度アクセスしなおしてください。"
+		},
+		{
+			"messageCode": "AlertJsonErrorInfo",
+			"messageText": "データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。"
+		},
+		{
+			"messageCode": "AlertNetworkErrorTitle",
+			"messageText": "通信失敗"
+		},
+		{
+			"messageCode": "AlertNetworkErrorInfo",
+			"messageText": "通信に失敗しました。"
+		},
+		{
+			"messageCode": "AlertNetworkErrorGoFarm",
+			"messageText": "通信に失敗しました。\nファームへ戻ります。"
+		},
+		{
+			"messageCode": "AlertNetworkErrorRetry",
+			"messageText": "電波の良いところで\n再度実行してください。"
+		},
+		{
+			"messageCode": "AlertNetworkErrorTimeOut",
+			"messageText": "接続がタイムアウトしました。\n本体設定をお確かめの上、通信環境の良いところで\n再度アクセスしなおしてください。"
+		},
+		{
+			"messageCode": "AlertFileErrorTitle",
+			"messageText": "読込失敗"
+		},
+		{
+			"messageCode": "AlertFileErrorNotFound",
+			"messageText": "ファイルが存在しませんでした。"
+		},
+		{
+			"messageCode": "AlertFileErrorMemory",
+			"messageText": "メモリ不足により読み込めませんでした。"
+		},
+		{
+			"messageCode": "AuthFailedTitle",
+			"messageText": "認証失敗"
+		},
+		{
+			"messageCode": "AuthFailedInfo",
+			"messageText": "認証に失敗しました。\n電波の良いところで\n再度操作を行ってください。"
+		},
+		{
+			"messageCode": "Maintenance-01",
+			"messageText": "メンテナンス"
+		},
+		{
+			"messageCode": "Maintenance-02",
+			"messageText": "ただいまメンテナンス中です。\n大変申し訳ございませんが、メンテナンス終了後に\n再度アクセスしなおしてください"
+		},
+		{
+			"messageCode": "Maintenance-03",
+			"messageText": "メンテナンス中"
+		},
+		{
+			"messageCode": "Maintenance-04",
+			"messageText": "現在は購入できません。"
+		},
+		{
+			"messageCode": "GoogleLoginFailedTitle",
+			"messageText": "Googleログイン失敗"
+		},
+		{
+			"messageCode": "GoogleLoginFailedInfo",
+			"messageText": "Googleログインに失敗しました。"
+		},
+		{
+			"messageCode": "GoogleLogoutTitle",
+			"messageText": "ログアウト"
+		},
+		{
+			"messageCode": "GoogleLogoutInfo",
+			"messageText": "ログアウトしました"
+		},
+		{
+			"messageCode": "GoogleLogoutConfirmTitle",
+			"messageText": "ログアウト確認"
+		},
+		{
+			"messageCode": "GoogleLogoutConfirmInfo",
+			"messageText": "ログアウトしますか？"
+		},
+		{
+			"messageCode": "CloudTakeOverTitle",
+			"messageText": "ゲームデータの引き継ぎ"
+		},
+		{
+			"messageCode": "CloudTakeOverInfo",
+			"messageText": "異なるユーザーのゲームデータが存在します。\nユーザーコード：{0}\nユーザーネーム：{1}\n\n現在のユーザーのゲームデータで\n引き継ぎますか？"
+		},
+		{
+			"messageCode": "CloudTakeOverNotFound",
+			"messageText": "バックアップデータが見付かりませんでした。\nアカウントを確認して下さい。"
+		},
+		{
+			"messageCode": "CloudTakeOverFailed",
+			"messageText": "引き継ぎ失敗しました。"
+		},
+		{
+			"messageCode": "CloudTakeOverSuccess",
+			"messageText": "引き継ぎ成功しました。"
+		},
+		{
+			"messageCode": "CloudOverwriteTitle",
+			"messageText": "ゲームデータの上書き"
+		},
+		{
+			"messageCode": "CloudOverwriteInfo",
+			"messageText": "異なるユーザーのゲームデータが存在します。\nユーザーコード：{0}\nユーザーネーム：{1}\n\n現在のユーザーのゲームデータで\n上書きしますか？"
+		},
+		{
+			"messageCode": "CloudSyncSuccessTitle",
+			"messageText": "データ同期成功"
+		},
+		{
+			"messageCode": "CloudSyncSuccessInfo",
+			"messageText": "データ同期が完了しました。\n引き継ぎを完了するには、\n別の端末でタイトル画面の「引き継ぎ」からGoogleへログインしてください。"
+		},
+		{
+			"messageCode": "CloudSyncFailedTitle",
+			"messageText": "データ同期失敗"
+		},
+		{
+			"messageCode": "CloudSyncFailedInfo",
+			"messageText": "Googleアカウントと同期できませんでした。\nアカウントの設定を確認した後、\n電波の良いところで再度お試しください。"
+		},
+		{
+			"messageCode": "CloudSynchronizedTitle",
+			"messageText": "ゲームデータ同期済み"
+		},
+		{
+			"messageCode": "CloudSynchronizedInfo",
+			"messageText": "既に同じアカウントで\nゲームデータが同期されています。"
+		},
+		{
+			"messageCode": "TakeOverTitle",
+			"messageText": "引き継ぎ"
+		},
+		{
+			"messageCode": "TakeOver-01",
+			"messageText": "引き継ぎコード発行"
+		},
+		{
+			"messageCode": "TakeOver-02",
+			"messageText": "発行されたコードを新しい端末に入力する事で\nデータを引き継ぐ事ができます"
+		},
+		{
+			"messageCode": "TakeOver-03",
+			"messageText": "ユーザーコード"
+		},
+		{
+			"messageCode": "TakeOver-04",
+			"messageText": "引き継ぎコード"
+		},
+		{
+			"messageCode": "TakeOver-05",
+			"messageText": "※引き継ぎ時にはユーザーコードと引き継ぎコードが必要となります。\n※異なるOS間で引き継いだ場合、引き継ぎ元のデジストーンは引き継がれません。"
+		},
+		{
+			"messageCode": "TakeOver-06",
+			"messageText": "※異なるOS間で引き継いだ場合、\n引き継ぎ元のデジストーンは引き継がれません。"
+		},
+		{
+			"messageCode": "TakeOver-07",
+			"messageText": "コードを発行"
+		},
+		{
+			"messageCode": "TakeOver-08",
+			"messageText": "有効期限:"
+		},
+		{
+			"messageCode": "TakeOver-09",
+			"messageText": "引き継ぎコードを\nクリップボードにコピーしました"
+		},
+		{
+			"messageCode": "TakeOver-10",
+			"messageText": "引き継ぎ成功"
+		},
+		{
+			"messageCode": "TakeOver-11",
+			"messageText": "引き継ぎに成功しました。\nアプリを再起動します。"
+		},
+		{
+			"messageCode": "TakeOver-12",
+			"messageText": "引き継ぎ失敗"
+		},
+		{
+			"messageCode": "TakeOver-13",
+			"messageText": "引き継ぎに失敗しました。\n引き継ぎコード・ユーザーコードを\n確認の上、もう一度入力してください。"
+		},
+		{
+			"messageCode": "BackKeyConfirmTitle",
+			"messageText": "確認"
+		},
+		{
+			"messageCode": "BackKeyConfirmExit",
+			"messageText": "アプリを終了しますか？"
+		},
+		{
+			"messageCode": "BackKeyConfirmGoTitle",
+			"messageText": "タイトルへ戻りますか？"
+		},
+		{
+			"messageCode": "InquiryTitle",
+			"messageText": "お問い合わせ"
+		},
+		{
+			"messageCode": "InquiryInfo",
+			"messageText": "お問い合わせフォームをご利用の際は\n下記のコードの添付をお願いします。"
+		},
+		{
+			"messageCode": "InquiryCaution",
+			"messageText": "※お問い合わせコードは絶対他人に教えないでください。\nお問い合わせコードを紛失された場合は、\nいかなるサポートもお受けすることはできません。"
+		},
+		{
+			"messageCode": "InquiryButtonText",
+			"messageText": "コピーしてお問い合わせへ移動"
+		},
+		{
+			"messageCode": "CacheClearTitle",
+			"messageText": "キャッシュクリア"
+		},
+		{
+			"messageCode": "CacheClearSuccess",
+			"messageText": "キャッシュクリアしました"
+		},
+		{
+			"messageCode": "CacheClearFailed",
+			"messageText": "キャッシュクリアに失敗しました"
+		},
+		{
+			"messageCode": "AgreementTitle",
+			"messageText": "利用規約"
+		},
+		{
+			"messageCode": "PenaltyTitle",
+			"messageText": "アカウント"
+		},
+		{
+			"messageCode": "SaveFailedTitle",
+			"messageText": "データエラー"
+		},
+		{
+			"messageCode": "SaveFailed-01",
+			"messageText": "データの書き込みに失敗しました。"
+		},
+		{
+			"messageCode": "SaveFailed-02",
+			"messageText": "データの書き込みに失敗しました。ストレージの空き容量をお確かめください。"
+		},
+		{
+			"messageCode": "SaveFailed-03",
+			"messageText": "データの書き込み権限が無いため失敗しました。権限をお確かめください。"
+		},
+		{
+			"messageCode": "AssetDownloadTitle",
+			"messageText": "ダウンロード中"
+		},
+		{
+			"messageCode": "AssetDownloadInfo",
+			"messageText": "ゲームデータ取得中..."
+		},
+		{
+			"messageCode": "AssetDownloadCaution",
+			"messageText": "※通信環境によってはダウンロードに時間がかかります。\nWi-Fi環境でのダウンロードをお勧め致します。"
+		},
+		{
+			"messageCode": "TutorialDefaultName",
+			"messageText": "リンクス"
+		},
+		{
+			"messageCode": "TutorialNameConfirmTitle",
+			"messageText": "名前決定"
+		},
+		{
+			"messageCode": "TutorialNameConfirmInfo",
+			"messageText": "{0}でゲームを始めますか？"
+		},
+		{
+			"messageCode": "TutorialNameCaution",
+			"messageText": "※名前は後からでも変更できます"
+		},
+		{
+			"messageCode": "InfomationTitle",
+			"messageText": "お知らせ"
+		},
+		{
+			"messageCode": "InfomationUpdate",
+			"messageText": "アップデート"
+		},
+		{
+			"messageCode": "InfomationEvent",
+			"messageText": "イベント"
+		},
+		{
+			"messageCode": "InfomationOther",
+			"messageText": "その他"
+		},
+		{
+			"messageCode": "InformationOperation",
+			"messageText": "運営"
+		},
+		{
+			"messageCode": "InfomationAll",
+			"messageText": "全て"
+		},
+		{
+			"messageCode": "InfomationSubTitle",
+			"messageText": "[  {0}  ]"
+		},
+		{
+			"messageCode": "LoginBonus-01",
+			"messageText": "今日は{0}×{1}{2}"
+		},
+		{
+			"messageCode": "LoginBonus-02",
+			"messageText": "次回は{0}×{1}{2}"
+		},
+		{
+			"messageCode": "LoginBonus-03",
+			"messageText": "と{0}×{1}{2}"
+		},
+		{
+			"messageCode": "LoginBonus-04",
+			"messageText": "をＧＥＴ！"
+		},
+		{
+			"messageCode": "LoginBonus-05",
+			"messageText": "が貰えますよ！"
+		},
+		{
+			"messageCode": "CountDownYMDhm",
+			"messageText": "{0}年{1:D2}月{2:D2}日{3:D2}:{4:D2}まで"
+		},
+		{
+			"messageCode": "CountDownHM",
+			"messageText": "終了まで残り {0}時間{1:D2}分"
+		},
+		{
+			"messageCode": "CountDownD",
+			"messageText": "終了まで残り {0}日"
+		},
+		{
+			"messageCode": "CountDownS",
+			"messageText": "終了まで残り {0}秒"
+		},
+		{
+			"messageCode": "CountDownMS",
+			"messageText": "終了まで残り {0}分{1:D2}秒"
+		},
+		{
+			"messageCode": "CountDownEnd",
+			"messageText": "イベント終了"
+		},
+		{
+			"messageCode": "StaminaRecoveryTime",
+			"messageText": "1回復につき3分、全回復まで{0}"
+		},
+		{
+			"messageCode": "StaminaFull",
+			"messageText": "スタミナＭＡＸです"
+		},
+		{
+			"messageCode": "ShopTitle",
+			"messageText": "デジストーン・ショップ"
+		},
+		{
+			"messageCode": "ShopRule-01",
+			"messageText": "資金決済法に基づく表記"
+		},
+		{
+			"messageCode": "ShopRule-02",
+			"messageText": "特定商取引法に基づく表記"
+		},
+		{
+			"messageCode": "ShopConfirmTitle",
+			"messageText": "デジストーン購入"
+		},
+		{
+			"messageCode": "ShopCompleted",
+			"messageText": "デジストーンが{0}個\n増えました！"
+		},
+		{
+			"messageCode": "ShopRestoreTitle",
+			"messageText": "デジストーン反映"
+		},
+		{
+			"messageCode": "ShopRestoreInfo",
+			"messageText": "以前購入したデジストーンが反映されました。"
+		},
+		{
+			"messageCode": "ShopInitializeErrorTitle",
+			"messageText": "課金機能の初期化エラー"
+		},
+		{
+			"messageCode": "ShopInitializeErrorInfo",
+			"messageText": "課金機能を利用できない状態です。\nご利用端末の設定を、ご確認ください。"
+		},
+		{
+			"messageCode": "ShopFailedTitle",
+			"messageText": "購入失敗"
+		},
+		{
+			"messageCode": "ShopFailed-01",
+			"messageText": "購入がキャンセルされました。"
+		},
+		{
+			"messageCode": "ShopFailed-02",
+			"messageText": "このアイテムは既に購入済みです。"
+		},
+		{
+			"messageCode": "ShopFailed-03",
+			"messageText": "端末の設定で課金が許可されていません。\n端末の設定をご確認ください。"
+		},
+		{
+			"messageCode": "ShopFailed-04",
+			"messageText": "予期せぬエラーが発生しました。\nアプリを再起動しても症状が改善しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。"
+		},
+		{
+			"messageCode": "ShopFailed-05",
+			"messageText": "購入処理中に通信エラーが発生しました。\n電波の良いところでもう一度お試しください。"
+		},
+		{
+			"messageCode": "ShopFailed-06",
+			"messageText": "ストアエラーが発生しました。\n時間を置いてもう一度お試しください。"
+		},
+		{
+			"messageCode": "ShopFailed-07",
+			"messageText": "ストアエラーが発生しました。\n時間を置いてもう一度お試しください。"
+		},
+		{
+			"messageCode": "ShopFailed-08",
+			"messageText": "データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。"
+		},
+		{
+			"messageCode": "ShopFailed-09",
+			"messageText": "データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。"
+		},
+		{
+			"messageCode": "ShopFailed-10",
+			"messageText": "データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。"
+		},
+		{
+			"messageCode": "ShopFailed-11",
+			"messageText": "購入処理にエラーが発生しました。\nアイテムが付与されない場合は\nアプリを再起動してください。"
+		},
+		{
+			"messageCode": "ShopFailed-12",
+			"messageText": "購入処理にエラーが発生しました。\nアイテムが付与されない場合は\nアプリを再起動してください。"
+		},
+		{
+			"messageCode": "ShopFailed-13",
+			"messageText": "ログインしていないか、初期化に失敗しました。\nログインし直すか、アプリを再起動してください。"
+		},
+		{
+			"messageCode": "ShopAgeTitle",
+			"messageText": "年齢確認"
+		},
+		{
+			"messageCode": "ShopAge-01",
+			"messageText": "生年月日登録"
+		},
+		{
+			"messageCode": "ShopAge-02",
+			"messageText": "あなたの年齢によって1ヶ月に購入できる金額が決まっています\n必ず正しい生年月を入力してください。"
+		},
+		{
+			"messageCode": "ShopAge-03",
+			"messageText": "※後から変更することはできません"
+		},
+		{
+			"messageCode": "ShopAge-04",
+			"messageText": "年"
+		},
+		{
+			"messageCode": "ShopAge-05",
+			"messageText": "月"
+		},
+		{
+			"messageCode": "ShopAge-06",
+			"messageText": "16歳未満　1ヶ月　5,000円まで\n20歳未満　1ヶ月　20,000円まで\n20歳以上　1ヶ月　制限なし"
+		},
+		{
+			"messageCode": "ShopAgeConfirmTitle",
+			"messageText": "登録内容の確認"
+		},
+		{
+			"messageCode": "ShopAgeConfirmInfo",
+			"messageText": "【 {0}年 {1}月 】\nご覧の内容で登録します。\n※一度登録すると変更することができません。"
+		},
+		{
+			"messageCode": "ShopAgeCompletedTitle",
+			"messageText": "登録完了"
+		},
+		{
+			"messageCode": "ShopAgeCompletedInfo",
+			"messageText": "登録が完了しました"
+		},
+		{
+			"messageCode": "BaseSelect-01",
+			"messageText": "研究ベースデジモン選択"
+		},
+		{
+			"messageCode": "BaseSelect-02",
+			"messageText": "研究パートナーデジモン選択"
+		},
+		{
+			"messageCode": "BaseSelect-03",
+			"messageText": "食事ベースデジモン選択"
+		},
+		{
+			"messageCode": "BaseSelect-04",
+			"messageText": "進化ベースデジモン選択"
+		},
+		{
+			"messageCode": "BaseSelect-05",
+			"messageText": "肉を所持していません"
+		},
+		{
+			"messageCode": "BaseSelect-06",
+			"messageText": "「施設」から「肉畑」を建設して、肉を収穫しましょう"
+		},
+		{
+			"messageCode": "BaseSelect-07",
+			"messageText": "施設へ"
+		},
+		{
+			"messageCode": "MealTitle",
+			"messageText": "食事"
+		},
+		{
+			"messageCode": "MealCost",
+			"messageText": "消費"
+		},
+		{
+			"messageCode": "ReinforcementTitle",
+			"messageText": "強化"
+		},
+		{
+			"messageCode": "ReinforcementConfirm",
+			"messageText": "強化確認"
+		},
+		{
+			"messageCode": "ReinforcementInfo",
+			"messageText": "パートナーデジモンがいなくなりますが、強化させますか？"
+		},
+		{
+			"messageCode": "ReinforcementInfoLvMax",
+			"messageText": "ベースデジモンのレベルが最大ですが強化しますか？"
+		},
+		{
+			"messageCode": "ReinforcementCautionGrowth",
+			"messageText": "※強化パートナーに{0}以上のデジモンが含まれています"
+		},
+		{
+			"messageCode": "ReinforcementCautionArousal",
+			"messageText": "※強化パートナーに覚醒済みのデジモンが含まれています"
+		},
+		{
+			"messageCode": "EvolutionTitle",
+			"messageText": "進化"
+		},
+		{
+			"messageCode": "EvolutionConfirmTitle",
+			"messageText": "進化確認"
+		},
+		{
+			"messageCode": "EvolutionConfirmInfo",
+			"messageText": "進化させますか？"
+		},
+		{
+			"messageCode": "EvolutionConfirmModeChange",
+			"messageText": "モードチェンジさせますか？\nモードチェンジしてもLV、最大LV、EXP、才能のステータスは変化しません"
+		},
+		{
+			"messageCode": "EvolutionMaterialName",
+			"messageText": "プラグイン"
+		},
+		{
+			"messageCode": "EvolutionFailedLv",
+			"messageText": "{0}させるためにはレベルを\n最大にする必要があります。"
+		},
+		{
+			"messageCode": "EvolutionFailedTip",
+			"messageText": "クラスタが足りません。"
+		},
+		{
+			"messageCode": "EvolutionFailedLock",
+			"messageText": "ロックされているため、{0}できません"
+		},
+		{
+			"messageCode": "EvolutionPossible",
+			"messageText": "{0}可能"
+		},
+		{
+			"messageCode": "EvolutionImpossible",
+			"messageText": "{0}不可"
+		},
+		{
+			"messageCode": "EvolutionNotEnoughLv",
+			"messageText": "レベル不足"
+		},
+		{
+			"messageCode": "EvolutionModeChangeButton",
+			"messageText": "モード\nチェンジ"
+		},
+		{
+			"messageCode": "EvolutionModeChange",
+			"messageText": "モードチェンジ"
+		},
+		{
+			"messageCode": "EvolutionUnkown",
+			"messageText": "未入手"
+		},
+		{
+			"messageCode": "EvolutionMaterialList",
+			"messageText": "進化素材一覧"
+		},
+		{
+			"messageCode": "EvolutionMaterialNothing",
+			"messageText": "究極体の進化素材を所持していません"
+		},
+		{
+			"messageCode": "PartyTitleEdit",
+			"messageText": "パーティ編成"
+		},
+		{
+			"messageCode": "PartyTitleSelect",
+			"messageText": "パーティ選択"
+		},
+		{
+			"messageCode": "PartyNumber",
+			"messageText": "パーティ{0}"
+		},
+		{
+			"messageCode": "PartyStatusChange",
+			"messageText": "ステ切替"
+		},
+		{
+			"messageCode": "PartyBattleStart",
+			"messageText": "バトルスタート"
+		},
+		{
+			"messageCode": "PartyRecruit",
+			"messageText": "募集"
+		},
+		{
+			"messageCode": "QuestTitle",
+			"messageText": "クエスト選択"
+		},
+		{
+			"messageCode": "QuestNormal",
+			"messageText": "クエスト"
+		},
+		{
+			"messageCode": "QuestEvent",
+			"messageText": "イベント"
+		},
+		{
+			"messageCode": "QuestArea",
+			"messageText": "AREA"
+		},
+		{
+			"messageCode": "QuestSpecial",
+			"messageText": "SPECIAL"
+		},
+		{
+			"messageCode": "QuestStage",
+			"messageText": "STAGE {0:D2}"
+		},
+		{
+			"messageCode": "QuestStaminaCost",
+			"messageText": "スタミナ-{0}"
+		},
+		{
+			"messageCode": "QuestStaminaShortage",
+			"messageText": "スタミナが足りません。"
+		},
+		{
+			"messageCode": "QuestStaminaOver",
+			"messageText": "スタミナの最大値を超えたクエストのため、\n挑戦できません。"
+		},
+		{
+			"messageCode": "QuestEventTitle",
+			"messageText": "期間終了"
+		},
+		{
+			"messageCode": "QuestEventInfo",
+			"messageText": "イベント期間が終了しました。\nファームに戻ります。"
+		},
+		{
+			"messageCode": "QuestUnlockTitle",
+			"messageText": "ダンジョン開放"
+		},
+		{
+			"messageCode": "QuestUnlockInfo",
+			"messageText": "デジストーンを使って {0}分開放できます。\nダンジョンを開放しますか？"
+		},
+		{
+			"messageCode": "QuestDetailsTip",
+			"messageText": "獲得"
+		},
+		{
+			"messageCode": "QuestDetailsExp",
+			"messageText": "獲得EXP"
+		},
+		{
+			"messageCode": "QuestDetailsCost",
+			"messageText": "消費スタミナ"
+		},
+		{
+			"messageCode": "GashaTitleLink",
+			"messageText": "リンクキャプチャ"
+		},
+		{
+			"messageCode": "GashaTitleRare",
+			"messageText": "レアキャプチャ"
+		},
+		{
+			"messageCode": "GashaTitleTutorial",
+			"messageText": "チュートリアル限定キャプチャ"
+		},
+		{
+			"messageCode": "GashaLinkpoint",
+			"messageText": "{0}{1}で、{2}回キャプチャしますか？"
+		},
+		{
+			"messageCode": "GashaDigistone",
+			"messageText": "{0}{1}個で、{2}回キャプチャしますか？"
+		},
+		{
+			"messageCode": "GashaShortage",
+			"messageText": "デジストーンが不足しています。"
+		},
+		{
+			"messageCode": "GashaLineup",
+			"messageText": "出現デジモン"
+		},
+		{
+			"messageCode": "GashaRate",
+			"messageText": "出現率"
+		},
+		{
+			"messageCode": "GashaRegular",
+			"messageText": "定常開催キャプチャ"
+		},
+		{
+			"messageCode": "GashaDigistoneCost",
+			"messageText": "必要デジストーン "
+		},
+		{
+			"messageCode": "GashaLinkpointCost",
+			"messageText": "必要リンクP "
+		},
+		{
+			"messageCode": "GashaReviewTitle",
+			"messageText": "才能メダル獲得おめでとうございます！"
+		},
+		{
+			"messageCode": "GashaReviewInfo",
+			"messageText": "才能開花で才能メダルを強化し、\n自分だけのデジモンを育てましょう！\n才能メダルについて、レビューで自慢しませんか？"
+		},
+		{
+			"messageCode": "FacilityShopTitle",
+			"messageText": "施設"
+		},
+		{
+			"messageCode": "FacilityShopDecoration",
+			"messageText": "飾り"
+		},
+		{
+			"messageCode": "FacilityShopBuildMaxTitle",
+			"messageText": "最大建築数"
+		},
+		{
+			"messageCode": "FacilityShopBuildMaxInfo",
+			"messageText": "建設数が上限に達しています"
+		},
+		{
+			"messageCode": "FacilityShopMuxNumInfo",
+			"messageText": "この施設は、これ以上建てられません。"
+		},
+		{
+			"messageCode": "FacilityShopConditionTitle",
+			"messageText": "{0}の解放条件"
+		},
+		{
+			"messageCode": "FacilityShopConditionUnknow",
+			"messageText": "？？？？？"
+		},
+		{
+			"messageCode": "FacilityShopBuildMaxNumTitle",
+			"messageText": "同時建築数"
+		},
+		{
+			"messageCode": "FacilityShopBuildMaxNumInfo",
+			"messageText": "これ以上、同時に建てられません。"
+		},
+		{
+			"messageCode": "FacilityStockTitle",
+			"messageText": "施設倉庫"
+		},
+		{
+			"messageCode": "FacilityStockNone",
+			"messageText": "現在預けている施設はありません"
+		},
+		{
+			"messageCode": "FacilityStockConfirmInfo",
+			"messageText": "{0}を\nしまいますか？"
+		},
+		{
+			"messageCode": "MissionTitleDaily",
+			"messageText": "デイリーミッション"
+		},
+		{
+			"messageCode": "MissionTitleAccumulation",
+			"messageText": "累積ミッション"
+		},
+		{
+			"messageCode": "Mission-01",
+			"messageText": "ファーム"
+		},
+		{
+			"messageCode": "Mission-02",
+			"messageText": "未達成"
+		},
+		{
+			"messageCode": "Mission-03",
+			"messageText": "達成"
+		},
+		{
+			"messageCode": "Mission-04",
+			"messageText": "達成済み"
+		},
+		{
+			"messageCode": "Mission-05",
+			"messageText": "達成率"
+		},
+		{
+			"messageCode": "Mission-06",
+			"messageText": "COMPLETE!"
+		},
+		{
+			"messageCode": "Mission-07",
+			"messageText": "ミッション達成"
+		},
+		{
+			"messageCode": "Mission-08",
+			"messageText": "{0}×{1}がプレゼントに贈られました"
+		},
+		{
+			"messageCode": "PresentTitle",
+			"messageText": "プレゼントBOX"
+		},
+		{
+			"messageCode": "Present-01",
+			"messageText": "未受け取り{0}件"
+		},
+		{
+			"messageCode": "Present-02",
+			"messageText": "プレゼントはありません。"
+		},
+		{
+			"messageCode": "Present-03",
+			"messageText": "プレゼント受け取り"
+		},
+		{
+			"messageCode": "Present-05",
+			"messageText": "受取期限:"
+		},
+		{
+			"messageCode": "Present-06",
+			"messageText": "履歴"
+		},
+		{
+			"messageCode": "Present-07",
+			"messageText": "プレゼント履歴はありません。"
+		},
+		{
+			"messageCode": "Present-08",
+			"messageText": "所持数オーバー"
+		},
+		{
+			"messageCode": "Present-09",
+			"messageText": "以下のアイテムは受け取れませんでした\n"
+		},
+		{
+			"messageCode": "Present-10",
+			"messageText": "???"
+		},
+		{
+			"messageCode": "OptionTitle",
+			"messageText": "設定"
+		},
+		{
+			"messageCode": "OptionPushNotice",
+			"messageText": "プッシュ通知"
+		},
+		{
+			"messageCode": "OptionSetting",
+			"messageText": "環境設定"
+		},
+		{
+			"messageCode": "Option-01",
+			"messageText": "ゲーム環境設定"
+		},
+		{
+			"messageCode": "Option-02",
+			"messageText": "音声設定"
+		},
+		{
+			"messageCode": "Option-03",
+			"messageText": "BGM"
+		},
+		{
+			"messageCode": "Option-04",
+			"messageText": "SE"
+		},
+		{
+			"messageCode": "Option-05",
+			"messageText": "プッシュ通知設定"
+		},
+		{
+			"messageCode": "Option-06",
+			"messageText": "イベント開始"
+		},
+		{
+			"messageCode": "Option-07",
+			"messageText": "イベント開始時にプッシュ通知します"
+		},
+		{
+			"messageCode": "Option-08",
+			"messageText": "キャプチャ更新"
+		},
+		{
+			"messageCode": "Option-09",
+			"messageText": "キャプチャ更新時にプッシュ通知します"
+		},
+		{
+			"messageCode": "Option-10",
+			"messageText": "施設建設完了"
+		},
+		{
+			"messageCode": "Option-11",
+			"messageText": "施設建設完了時にプッシュ通知します"
+		},
+		{
+			"messageCode": "Option-12",
+			"messageText": "スタミナ全回復"
+		},
+		{
+			"messageCode": "Option-13",
+			"messageText": "スタミナ全回復時にプッシュ通知します"
+		},
+		{
+			"messageCode": "Option-14",
+			"messageText": "ガーデン内進化"
+		},
+		{
+			"messageCode": "Option-15",
+			"messageText": "ガーデン内進化時にプッシュ通知します"
+		},
+		{
+			"messageCode": "LocalNotice-01",
+			"messageText": "スタミナ完全回復！クエストに行こう"
+		},
+		{
+			"messageCode": "LocalNotice-02",
+			"messageText": "デジモン進化！ガーデンで待ってるよ"
+		},
+		{
+			"messageCode": "LocalNotice-03",
+			"messageText": "施設完成！ファームで確認しよう"
+		},
+		{
+			"messageCode": "OtherTitle",
+			"messageText": "その他"
+		},
+		{
+			"messageCode": "OtherHistory",
+			"messageText": "履歴"
+		},
+		{
+			"messageCode": "OtherOfficialSite",
+			"messageText": "公式サイト"
+		},
+		{
+			"messageCode": "OtherRight",
+			"messageText": "権利表記"
+		},
+		{
+			"messageCode": "OtherHistory-01",
+			"messageText": "デジストーン内訳"
+		},
+		{
+			"messageCode": "OtherHistory-02",
+			"messageText": "プレゼント履歴"
+		},
+		{
+			"messageCode": "OtherHistory-03",
+			"messageText": "取得日:"
+		},
+		{
+			"messageCode": "ProfileTitle",
+			"messageText": "プロフィール"
+		},
+		{
+			"messageCode": "MyProfile-01",
+			"messageText": "ユーザーコード"
+		},
+		{
+			"messageCode": "MyProfile-02",
+			"messageText": "ユーザーネーム"
+		},
+		{
+			"messageCode": "MyProfile-03",
+			"messageText": "図鑑登録数"
+		},
+		{
+			"messageCode": "MyProfile-04",
+			"messageText": "コメント"
+		},
+		{
+			"messageCode": "MyProfile-05",
+			"messageText": "※白枠タップで編集できます"
+		},
+		{
+			"messageCode": "MyProfile-06",
+			"messageText": "ユーザーコードを\nクリップボードにコピーしました"
+		},
+		{
+			"messageCode": "MyProfile-07",
+			"messageText": "コメントの変更"
+		},
+		{
+			"messageCode": "MyProfile-08",
+			"messageText": "コメントの内容が変更されています。\n変更を保存しますか？"
+		},
+		{
+			"messageCode": "MyProfile-09",
+			"messageText": "ニックネームの変更"
+		},
+		{
+			"messageCode": "MyProfile-10",
+			"messageText": "ニックネームの内容が変更されています。\n変更を保存しますか？"
+		},
+		{
+			"messageCode": "MyProfile-11",
+			"messageText": "プロフィールの変更"
+		},
+		{
+			"messageCode": "MyProfile-12",
+			"messageText": "プロフィール内容が変更されています。\n変更を保存しますか？"
+		},
+		{
+			"messageCode": "MyProfile-13",
+			"messageText": "使用できない文字が含まれています"
+		},
+		{
+			"messageCode": "MyProfile-14",
+			"messageText": "入力された文字の中に、絵文字、記号などの使用できない文字が含まれています。\n入力内容を確認の上、もう一度お試しください。"
+		},
+		{
+			"messageCode": "MyProfile-15",
+			"messageText": "文字数オーバー"
+		},
+		{
+			"messageCode": "MyProfile-16",
+			"messageText": "文字数がオーバーしています。\nニックネームは10文字以内\nコメントは30文字以内で入力してください。"
+		},
+		{
+			"messageCode": "BlockListTitle",
+			"messageText": "ブロック一覧"
+		},
+		{
+			"messageCode": "BlockListNone",
+			"messageText": "現在ブロックしているユーザーはいません"
+		},
+		{
+			"messageCode": "PlayHistoryTitle",
+			"messageText": "プレイ履歴"
+		},
+		{
+			"messageCode": "PlayHistory-01",
+			"messageText": "クエストクリア数"
+		},
+		{
+			"messageCode": "PlayHistory-02",
+			"messageText": "食事で肉をあげた数"
+		},
+		{
+			"messageCode": "PlayHistory-03",
+			"messageText": "強化回数"
+		},
+		{
+			"messageCode": "PlayHistory-04",
+			"messageText": "進化回数"
+		},
+		{
+			"messageCode": "PlayHistory-05",
+			"messageText": "継承回数"
+		},
+		{
+			"messageCode": "PlayHistory-06",
+			"messageText": "研究回数"
+		},
+		{
+			"messageCode": "PlayHistory-07",
+			"messageText": "コロシアム対戦数"
+		},
+		{
+			"messageCode": "PlayHistory-08",
+			"messageText": "コロシアム勝敗"
+		},
+		{
+			"messageCode": "PlayHistory-09",
+			"messageText": "コロシアム勝率"
+		},
+		{
+			"messageCode": "PlayHistory-10",
+			"messageText": "連続ログイン日数"
+		},
+		{
+			"messageCode": "PlayHistory-11",
+			"messageText": "累計ログイン日数"
+		},
+		{
+			"messageCode": "PlayHistory-12",
+			"messageText": "{0}戦"
+		},
+		{
+			"messageCode": "PlayHistory-13",
+			"messageText": "{0:0.0}％"
+		},
+		{
+			"messageCode": "Profile-01",
+			"messageText": "ブロック"
+		},
+		{
+			"messageCode": "Profile-02",
+			"messageText": "このユーザーをブロックしますか？\n※フレンドの場合、フレンドが解除されます。"
+		},
+		{
+			"messageCode": "Profile-03",
+			"messageText": "このユーザーをブロックしました。"
+		},
+		{
+			"messageCode": "Profile-04",
+			"messageText": "ブロック人数は最大{0}人までです。"
+		},
+		{
+			"messageCode": "Profile-05",
+			"messageText": "ブロック解除"
+		},
+		{
+			"messageCode": "Profile-06",
+			"messageText": "このユーザーのブロックを解除しますか？"
+		},
+		{
+			"messageCode": "Profile-07",
+			"messageText": "このユーザーのブロックを解除しました。"
+		},
+		{
+			"messageCode": "Profile-08",
+			"messageText": "申請取り消し完了"
+		},
+		{
+			"messageCode": "Profile-09",
+			"messageText": "フレンド申請を取り消しました"
+		},
+		{
+			"messageCode": "Profile-10",
+			"messageText": "申請する"
+		},
+		{
+			"messageCode": "Profile-11",
+			"messageText": "フレンド申請する"
+		},
+		{
+			"messageCode": "Profile-12",
+			"messageText": "フレンド申請を送りますか？"
+		},
+		{
+			"messageCode": "Profile-13",
+			"messageText": "申請送信完了"
+		},
+		{
+			"messageCode": "Profile-14",
+			"messageText": "フレンド申請を送信しました"
+		},
+		{
+			"messageCode": "Profile-15",
+			"messageText": "承認する"
+		},
+		{
+			"messageCode": "Profile-16",
+			"messageText": "フレンド登録完了"
+		},
+		{
+			"messageCode": "Profile-17",
+			"messageText": "フレンドに登録しました"
+		},
+		{
+			"messageCode": "Profile-18",
+			"messageText": "解除する"
+		},
+		{
+			"messageCode": "Profile-19",
+			"messageText": "フレンド登録解除完了"
+		},
+		{
+			"messageCode": "Profile-20",
+			"messageText": "フレンド登録を解除しました"
+		},
+		{
+			"messageCode": "Profile-21",
+			"messageText": "訪問"
+		},
+		{
+			"messageCode": "FriendTitle",
+			"messageText": "フレンド"
+		},
+		{
+			"messageCode": "Friend-01",
+			"messageText": "フレンドはいません"
+		},
+		{
+			"messageCode": "Friend-02",
+			"messageText": "申請中"
+		},
+		{
+			"messageCode": "Friend-03",
+			"messageText": "未承認"
+		},
+		{
+			"messageCode": "Friend-04",
+			"messageText": "検索"
+		},
+		{
+			"messageCode": "Friend-05",
+			"messageText": "まとめて選択"
+		},
+		{
+			"messageCode": "Friend-06",
+			"messageText": "解除"
+		},
+		{
+			"messageCode": "Friend-07",
+			"messageText": "フレンド解除確認"
+		},
+		{
+			"messageCode": "Friend-08",
+			"messageText": "{0}名のフレンドを解除しますか？"
+		},
+		{
+			"messageCode": "Friend-09",
+			"messageText": "フレンド解除"
+		},
+		{
+			"messageCode": "Friend-10",
+			"messageText": "{0}名のフレンドを解除しました。"
+		},
+		{
+			"messageCode": "Friend-11",
+			"messageText": "このフレンドを削除します。\n本当によろしいですか？"
+		},
+		{
+			"messageCode": "Friend-12",
+			"messageText": "最終ログイン "
+		},
+		{
+			"messageCode": "Friend-13",
+			"messageText": "前"
+		},
+		{
+			"messageCode": "Friend-14",
+			"messageText": "フレンド\nプロフィール"
+		},
+		{
+			"messageCode": "Friend-15",
+			"messageText": "フレンド\n解除"
+		},
+		{
+			"messageCode": "Friend-16",
+			"messageText": "ファーム\n訪問"
+		},
+		{
+			"messageCode": "FriendSearch-01",
+			"messageText": "友達のユーザーコードを入力して\n申請をおこなってください"
+		},
+		{
+			"messageCode": "FriendSearch-02",
+			"messageText": "ユーザーコード入力"
+		},
+		{
+			"messageCode": "FriendSearch-03",
+			"messageText": "検索する"
+		},
+		{
+			"messageCode": "FriendSearch-04",
+			"messageText": "このユーザーに\nフレンド申請を出しますか？"
+		},
+		{
+			"messageCode": "FriendSearch-05",
+			"messageText": "このユーザーはブロックされています\nプロフィール画面でブロックを解除しますか？"
+		},
+		{
+			"messageCode": "FriendSearch-06",
+			"messageText": "正しいIDではありません。\n再度入力してください。"
+		},
+		{
+			"messageCode": "FriendApproval-01",
+			"messageText": "フレンド未承認"
+		},
+		{
+			"messageCode": "FriendApproval-02",
+			"messageText": "未承認のユーザーはいません"
+		},
+		{
+			"messageCode": "FriendApproval-03",
+			"messageText": "拒否"
+		},
+		{
+			"messageCode": "FriendApproval-04",
+			"messageText": "承認"
+		},
+		{
+			"messageCode": "FriendApproval-05",
+			"messageText": "フレンド拒否確認"
+		},
+		{
+			"messageCode": "FriendApproval-06",
+			"messageText": "{0}名からのフレンド申請を拒否しますか？"
+		},
+		{
+			"messageCode": "FriendApproval-07",
+			"messageText": "フレンド拒否"
+		},
+		{
+			"messageCode": "FriendApproval-08",
+			"messageText": "{0}名のフレンド申請を拒否しました。"
+		},
+		{
+			"messageCode": "FriendApproval-09",
+			"messageText": "このフレンドの申請を拒否します。\n本当によろしいですか？"
+		},
+		{
+			"messageCode": "FriendApproval-10",
+			"messageText": "フレンド承認確認"
+		},
+		{
+			"messageCode": "FriendApproval-11",
+			"messageText": "{0}名からのフレンド申請を承認しますか？"
+		},
+		{
+			"messageCode": "FriendApproval-12",
+			"messageText": "フレンド承認"
+		},
+		{
+			"messageCode": "FriendApproval-13",
+			"messageText": "{0}名のフレンド申請を承認しました。"
+		},
+		{
+			"messageCode": "FriendApproval-14",
+			"messageText": "このフレンドの申請を承諾します。\n本当によろしいですか？"
+		},
+		{
+			"messageCode": "FriendApply-01",
+			"messageText": "フレンド申請中"
+		},
+		{
+			"messageCode": "FriendApply-02",
+			"messageText": "申請中のユーザーはいません"
+		},
+		{
+			"messageCode": "FriendApply-03",
+			"messageText": "申請取り消し確認"
+		},
+		{
+			"messageCode": "FriendApply-04",
+			"messageText": "{0}名への申請を取り消しますか？"
+		},
+		{
+			"messageCode": "FriendApply-05",
+			"messageText": "申請取り消し"
+		},
+		{
+			"messageCode": "FriendApply-06",
+			"messageText": "{0}名への申請を取り消しました。"
+		},
+		{
+			"messageCode": "FriendApply-07",
+			"messageText": "このフレンド申請を取り消します。\n本当によろしいですか？"
+		},
+		{
+			"messageCode": "PicturebookTitle",
+			"messageText": "図鑑"
+		},
+		{
+			"messageCode": "CharaTapFriendshipUp",
+			"messageText": "友情度がアップしたので、{0}の\nステータスがアップしました。"
+		},
+		{
+			"messageCode": "FarmEditInfo",
+			"messageText": "施設配置編成中。格納を選択すると、\nファーム内のすべての施設を画面下のエリアに一時的に格納できます。"
+		},
+		{
+			"messageCode": "FarmEditButtonLevel",
+			"messageText": "Lv{0}"
+		},
+		{
+			"messageCode": "FarmEditButtonLevelZero",
+			"messageText": "建設中"
+		},
+		{
+			"messageCode": "FarmEditButtonCount",
+			"messageText": "x{0}"
+		},
+		{
+			"messageCode": "FarmEditCloseTitle",
+			"messageText": "終了確認"
+		},
+		{
+			"messageCode": "FarmEditCloseInfo",
+			"messageText": "編集が完了していません。\n変更前の状態に戻りますが\nよろしいですか？"
+		},
+		{
+			"messageCode": "FarmEditSaveTitle",
+			"messageText": "保存確認"
+		},
+		{
+			"messageCode": "FarmEditSaveInfo",
+			"messageText": "編集した内容を保存しますか？"
+		},
+		{
+			"messageCode": "FacilityInfoLv",
+			"messageText": "{0}　Lv.{1}"
+		},
+		{
+			"messageCode": "FacilityInfoLvMax",
+			"messageText": "{0}　Lv.{1} (最大)"
+		},
+		{
+			"messageCode": "FacilitySaleComfirmInfo",
+			"messageText": "{0}を売却しますか？\nクラスタ{1}"
+		},
+		{
+			"messageCode": "FacilityMeatAlertTitle",
+			"messageText": "肉の所持上限"
+		},
+		{
+			"messageCode": "FacilityMeatAlertLvMax",
+			"messageText": "収穫できる肉の数が上限を超えています。"
+		},
+		{
+			"messageCode": "FacilityMeatAlert",
+			"messageText": "収穫できる肉の数が上限を超えています。\n倉庫のレベルを上げてください。"
+		},
+		{
+			"messageCode": "FacilityMeatAlertBuild",
+			"messageText": "収穫できる肉の数が上限を超えています。\n倉庫を建てると肉の所持上限が増えます。"
+		},
+		{
+			"messageCode": "FacilityUpgradeConfirmInfo",
+			"messageText": "アップグレードしますか？"
+		},
+		{
+			"messageCode": "FacilityUpgradeFailedShortage",
+			"messageText": "アップグレードするための{0}が\n足りません。"
+		},
+		{
+			"messageCode": "FacilityUpgradeBuildTitle",
+			"messageText": "同時建築数"
+		},
+		{
+			"messageCode": "FacilityUpgradeBuildInfo",
+			"messageText": "これ以上、同時にアップグレードできません。"
+		},
+		{
+			"messageCode": "FacilityUpgradeMeatLost",
+			"messageText": "アップグレードを行うと、\n収穫していない肉が消滅しますが\nよろしいですか？"
+		},
+		{
+			"messageCode": "FacilityUpgradeMeatOver",
+			"messageText": "肉の最大収穫数が最大所持数を超えますが\nアップグレードしますか？"
+		},
+		{
+			"messageCode": "FacilityShortcutTitle",
+			"messageText": "時間短縮"
+		},
+		{
+			"messageCode": "FacilityShortcutUpgrage",
+			"messageText": "{0}を使って\nアップグレードを完了させますか？"
+		},
+		{
+			"messageCode": "FacilityShortcutBuild",
+			"messageText": "{0}を使って\n建築を完了させますか？"
+		},
+		{
+			"messageCode": "FacilityShortcutShortage",
+			"messageText": "時間短縮するための{0}が\n足りません。"
+		},
+		{
+			"messageCode": "FacilityShortcutAlready",
+			"messageText": "すでに建設が完了しています。\nデジストーンは消費されませんでした。"
+		},
+		{
+			"messageCode": "HouseTitle",
+			"messageText": "ハウス"
+		},
+		{
+			"messageCode": "SaleTitle",
+			"messageText": "お別れ"
+		},
+		{
+			"messageCode": "SaleConfirmTitle",
+			"messageText": "お別れ確認"
+		},
+		{
+			"messageCode": "SaleConfirmInfo",
+			"messageText": "上記デジモンとお別れします。よろしいですか？\n究極体のデジモンとお別れする場合は、そのデジモンの欠片を残していきます\n無覚醒…1個、+1…3個、+2…5個、+3…7個、+4…10個、V2…14個"
+		},
+		{
+			"messageCode": "SaleConfirmGain",
+			"messageText": "取得"
+		},
+		{
+			"messageCode": "SaleCautionGrowth",
+			"messageText": "※{0}以上のデジモンが含まれています"
+		},
+		{
+			"messageCode": "SaleCautionArousal",
+			"messageText": "※覚醒済みのデジモンが含まれています"
+		},
+		{
+			"messageCode": "GardenTitle",
+			"messageText": "ガーデン"
+		},
+		{
+			"messageCode": "Garden-01",
+			"messageText": "現在育成中の幼年期デジモンはいません。\n一覧からデジモンを選ぶか、研究でデジタマにしましょう。"
+		},
+		{
+			"messageCode": "Garden-02",
+			"messageText": "デジタマ・幼年期のデジモンはいません。\nリンクキャプチャや研究をしましょう。"
+		},
+		{
+			"messageCode": "Garden-03",
+			"messageText": "育成"
+		},
+		{
+			"messageCode": "Garden-04",
+			"messageText": "このデジモンをガーデンで育成させますか？"
+		},
+		{
+			"messageCode": "Garden-05",
+			"messageText": "ふ化"
+		},
+		{
+			"messageCode": "Garden-06",
+			"messageText": "ふ化させますか？"
+		},
+		{
+			"messageCode": "Garden-07",
+			"messageText": "進化させますか？"
+		},
+		{
+			"messageCode": "Garden-08",
+			"messageText": "デジタマをなでよう"
+		},
+		{
+			"messageCode": "Garden-09",
+			"messageText": "進化まであと{0}"
+		},
+		{
+			"messageCode": "Garden-10",
+			"messageText": "デジモンが光り輝きだした"
+		},
+		{
+			"messageCode": "Garden-11",
+			"messageText": "デジストーン{0}個で今すぐ進化させますか？\n残り時間：{1}"
+		},
+		{
+			"messageCode": "Garden-12",
+			"messageText": "誕生"
+		},
+		{
+			"messageCode": "LaboratoryTitle",
+			"messageText": "研究"
+		},
+		{
+			"messageCode": "LaboratoryMaxGarden",
+			"messageText": "ガーデンが既に\n満員です。"
+		},
+		{
+			"messageCode": "LaboratoryNoUltimateTitle",
+			"messageText": "究極体未所持"
+		},
+		{
+			"messageCode": "LaboratoryNoUltimateInfo",
+			"messageText": "研究には究極体が2体必要です"
+		},
+		{
+			"messageCode": "LaboratoryNotSelectedTitle",
+			"messageText": "ベースデジモン未選択"
+		},
+		{
+			"messageCode": "LaboratoryNotSelectedInfo",
+			"messageText": "ベースデジモンを選んでから\nパートナーデジモンを選んでください"
+		},
+		{
+			"messageCode": "Laboratory-06",
+			"messageText": "ベースが選択されていません。"
+		},
+		{
+			"messageCode": "LaboratoryResearchAlertTitle",
+			"messageText": "研究アラート！"
+		},
+		{
+			"messageCode": "LaboratoryResearchAlertInfo",
+			"messageText": "パートナーデジモンが覚醒済みですが、\n本当に研究しますか？\n※研究を実行するとパートナーデジモンは\nいなくなります"
+		},
+		{
+			"messageCode": "LaboratoryResearchInfo",
+			"messageText": "研究を行いますがよろしいですか？\n※研究後はデジタマに戻ります"
+		},
+		{
+			"messageCode": "ArousalTitle",
+			"messageText": "耐性変化"
+		},
+		{
+			"messageCode": "ArousalPartner",
+			"messageText": "パートナーデジモン"
+		},
+		{
+			"messageCode": "ArousalConfirmTitle",
+			"messageText": "耐性変化確認"
+		},
+		{
+			"messageCode": "ArousalConfirmInfo",
+			"messageText": "上記のデジモンで耐性変化します。\nよろしいですか？"
+		},
+		{
+			"messageCode": "ArousalCautionLost",
+			"messageText": "\n※パートナーデジモンはデータに戻ります。"
+		},
+		{
+			"messageCode": "ArousalCautionArousal",
+			"messageText": "※覚醒済みのデジモンが含まれています"
+		},
+		{
+			"messageCode": "SuccessionTitle",
+			"messageText": "継承"
+		},
+		{
+			"messageCode": "SuccessionConfirmTitle",
+			"messageText": "継承確認"
+		},
+		{
+			"messageCode": "SuccessionConfirmInfo",
+			"messageText": "上記の継承技を継承技{0}に継承します。\nよろしいですか？\n※パートナーデジモンはデータに戻ります。"
+		},
+		{
+			"messageCode": "SuccessionSkillName",
+			"messageText": "継承技名"
+		},
+		{
+			"messageCode": "SuccessionCautionGrowth",
+			"messageText": "※{0}以上のデジモンが含まれています"
+		},
+		{
+			"messageCode": "SuccessionCautionArousal",
+			"messageText": "※覚醒済みのデジモンが含まれています"
+		},
+		{
+			"messageCode": "SuccessionFailedLv",
+			"messageText": "継承させるには、パートナーの\nデジモンのレベルが最大で\nある必要があります。"
+		},
+		{
+			"messageCode": "SuccessionFailedSame",
+			"messageText": "同一継承スキルのため\n実行できません。"
+		},
+		{
+			"messageCode": "Campaign",
+			"messageText": "キャンペーン中"
+		},
+		{
+			"messageCode": "CampaignDrop",
+			"messageText": "ドロップ率\nUP"
+		},
+		{
+			"messageCode": "CampaignDropRare",
+			"messageText": "レアドロップ率\nUP"
+		},
+		{
+			"messageCode": "CampaignExp",
+			"messageText": "EXP\n{0}倍"
+		},
+		{
+			"messageCode": "CampaignTip",
+			"messageText": "クラスタ\n{0}倍"
+		},
+		{
+			"messageCode": "CampaignFriend",
+			"messageText": "獲得友情度\n{0}倍"
+		},
+		{
+			"messageCode": "CampaignStamina",
+			"messageText": "消費スタミナ1/\n{0}"
+		},
+		{
+			"messageCode": "CampaignMeat",
+			"messageText": "肉畑の肉収穫量\n{0}倍"
+		},
+		{
+			"messageCode": "CampaignNowDrop",
+			"messageText": "獲得ドロップ率UP中"
+		},
+		{
+			"messageCode": "CampaignNowDropRare",
+			"messageText": "獲得レアドロップ率UP中"
+		},
+		{
+			"messageCode": "CampaignNowExp",
+			"messageText": "獲得EXP{0}倍"
+		},
+		{
+			"messageCode": "CampaignNowTip",
+			"messageText": "獲得クラスタ{0}倍"
+		},
+		{
+			"messageCode": "CampaignNowFriend",
+			"messageText": "獲得友情度{0}倍"
+		},
+		{
+			"messageCode": "CampaignNowStamina",
+			"messageText": "消費スタミナ1/{0}"
+		},
+		{
+			"messageCode": "CampaignEndTitle",
+			"messageText": "キャンペーン終了"
+		},
+		{
+			"messageCode": "CampaignEndInfo",
+			"messageText": "キャンペーン期間が終了しました。\nファームへ戻ります。"
+		},
+		{
+			"messageCode": "ChatTitle",
+			"messageText": "デジチャット"
+		},
+		{
+			"messageCode": "ChatTabChat",
+			"messageText": "チャット"
+		},
+		{
+			"messageCode": "ChatTabMenu",
+			"messageText": "メニュー"
+		},
+		{
+			"messageCode": "ChatTabMulti",
+			"messageText": "マルチ"
+		},
+		{
+			"messageCode": "ChatTabColosseum",
+			"messageText": "コロシアム"
+		},
+		{
+			"messageCode": "ChatNoneGroup",
+			"messageText": "表示するチャットグループはありません"
+		},
+		{
+			"messageCode": "ChatSearchButton",
+			"messageText": "検索"
+		},
+		{
+			"messageCode": "ChatMaster",
+			"messageText": "マスター"
+		},
+		{
+			"messageCode": "ChatMember",
+			"messageText": "メンバー募集"
+		},
+		{
+			"messageCode": "ChatConfirmTitle",
+			"messageText": "確認"
+		},
+		{
+			"messageCode": "ChatConfirmNo",
+			"messageText": "拒否"
+		},
+		{
+			"messageCode": "ChatConfirmYes",
+			"messageText": "参加"
+		},
+		{
+			"messageCode": "ChatColosseumNone",
+			"messageText": "現在コロシアム対戦依頼は届いていません。"
+		},
+		{
+			"messageCode": "ChatMultiNone",
+			"messageText": "現在マルチ依頼は届いていません。"
+		},
+		{
+			"messageCode": "ChatMultiConfirmInfo",
+			"messageText": "チャットを閉じてマルチへ移動します。\nよろしいですか？"
+		},
+		{
+			"messageCode": "ChatSearch-02",
+			"messageText": "このチャットグループに参加しますか？"
+		},
+		{
+			"messageCode": "ChatSearch-04",
+			"messageText": "このチャットグループに申請しますか？"
+		},
+		{
+			"messageCode": "ChatSearch-05",
+			"messageText": "これ以上チャットグループに参加することはできません。"
+		},
+		{
+			"messageCode": "ChatSearch-06",
+			"messageText": "既に申請、または勧誘されています。"
+		},
+		{
+			"messageCode": "ChatSearch-07",
+			"messageText": "申請が完了しました。"
+		},
+		{
+			"messageCode": "ChatIdSearch-01",
+			"messageText": "ID検索"
+		},
+		{
+			"messageCode": "ChatIdSearch-02",
+			"messageText": "チャットID検索"
+		},
+		{
+			"messageCode": "ChatIdSearch-03",
+			"messageText": "チャットIDを入力してください。"
+		},
+		{
+			"messageCode": "ChatIdSearch-04",
+			"messageText": "チャットグループが見つかりませんでした。"
+		},
+		{
+			"messageCode": "ChatSortFew",
+			"messageText": "メンバー少ない順"
+		},
+		{
+			"messageCode": "ChatSortMany",
+			"messageText": "メンバー多い順"
+		},
+		{
+			"messageCode": "ChatMenu-01",
+			"messageText": "グループ作成"
+		},
+		{
+			"messageCode": "ChatMenu-02",
+			"messageText": "申請中"
+		},
+		{
+			"messageCode": "ChatMenu-03",
+			"messageText": "未承認"
+		},
+		{
+			"messageCode": "ChatCategory-01",
+			"messageText": "承認制"
+		},
+		{
+			"messageCode": "ChatCategory-02",
+			"messageText": "非承認制"
+		},
+		{
+			"messageCode": "ChatCategory-03",
+			"messageText": "交流"
+		},
+		{
+			"messageCode": "ChatCategory-04",
+			"messageText": "攻略"
+		},
+		{
+			"messageCode": "ChatCategory-05",
+			"messageText": "雑談"
+		},
+		{
+			"messageCode": "ChatCategory-06",
+			"messageText": "その他"
+		},
+		{
+			"messageCode": "ChatGroup-01",
+			"messageText": "グループ名"
+		},
+		{
+			"messageCode": "ChatGroup-02",
+			"messageText": "カテゴリ"
+		},
+		{
+			"messageCode": "ChatGroup-03",
+			"messageText": "承認可否"
+		},
+		{
+			"messageCode": "ChatGroup-04",
+			"messageText": "挨拶文"
+		},
+		{
+			"messageCode": "ChatGroup-05",
+			"messageText": "よろしくお願いします。"
+		},
+		{
+			"messageCode": "ChatGroupCreateButton",
+			"messageText": "作成する"
+		},
+		{
+			"messageCode": "ChatGroupCreateSuccess",
+			"messageText": "{0}チャットグループを\n作成しました。"
+		},
+		{
+			"messageCode": "ChatGroupCreateFailed",
+			"messageText": "文字数がオーバーしています。\nグループ名は15文字以内\nコメントは30文字以内で入力してください。"
+		},
+		{
+			"messageCode": "ChatGroupUpdateButton",
+			"messageText": "変更する"
+		},
+		{
+			"messageCode": "ChatGroupUpdateSuccess",
+			"messageText": "チャットグループ設定を\n更新しました。"
+		},
+		{
+			"messageCode": "ChatLogNone",
+			"messageText": "メッセージがありません"
+		},
+		{
+			"messageCode": "ChatLog-01",
+			"messageText": "※{0}さんがグループに加入しました"
+		},
+		{
+			"messageCode": "ChatLog-02",
+			"messageText": "※{0}さんがグループマスターになりました"
+		},
+		{
+			"messageCode": "ChatLog-03",
+			"messageText": "※{0}さんがグループを退出しました"
+		},
+		{
+			"messageCode": "ChatLog-04",
+			"messageText": "※不適切なワードが含まれているため表示されません"
+		},
+		{
+			"messageCode": "ChatLog-05",
+			"messageText": "※ブロックしたユーザーの発言です"
+		},
+		{
+			"messageCode": "ChatLog-06",
+			"messageText": "M月d日 HH:mm"
+		},
+		{
+			"messageCode": "ChatLog-07",
+			"messageText": "昨日 HH:mm"
+		},
+		{
+			"messageCode": "ChatLog-08",
+			"messageText": "今日 HH:mm"
+		},
+		{
+			"messageCode": "ChatLog-09",
+			"messageText": "送信"
+		},
+		{
+			"messageCode": "ChatLog-10",
+			"messageText": "定型文"
+		},
+		{
+			"messageCode": "ChatLog-11",
+			"messageText": "[u][マルチ募集中！]\n{0}[/u]"
+		},
+		{
+			"messageCode": "ChatLogError",
+			"messageText": "接続が切れました。再接続します。"
+		},
+		{
+			"messageCode": "ChatPhrase-01",
+			"messageText": "おはよう"
+		},
+		{
+			"messageCode": "ChatPhrase-02",
+			"messageText": "こんばんは"
+		},
+		{
+			"messageCode": "ChatPhrase-03",
+			"messageText": "おやすみ"
+		},
+		{
+			"messageCode": "ChatPhrase-04",
+			"messageText": "はじめまして"
+		},
+		{
+			"messageCode": "ChatPhrase-05",
+			"messageText": "よろしく"
+		},
+		{
+			"messageCode": "ChatPhrase-06",
+			"messageText": "おつかれさま"
+		},
+		{
+			"messageCode": "ChatPhrase-07",
+			"messageText": "ありがとう"
+		},
+		{
+			"messageCode": "ChatPhrase-08",
+			"messageText": "ごめんなさい"
+		},
+		{
+			"messageCode": "ChatLogMenu-01",
+			"messageText": "参加人数:"
+		},
+		{
+			"messageCode": "ChatLogMenu-02",
+			"messageText": "チャットID"
+		},
+		{
+			"messageCode": "ChatLogMenu-03",
+			"messageText": "メンバー一覧"
+		},
+		{
+			"messageCode": "ChatLogMenu-04",
+			"messageText": "退出"
+		},
+		{
+			"messageCode": "ChatLogMenu-05",
+			"messageText": "チャットサービスに関する注意事項"
+		},
+		{
+			"messageCode": "ChatLogMenu-06",
+			"messageText": "チャット設定"
+		},
+		{
+			"messageCode": "ChatLogMenu-07",
+			"messageText": "マスター委譲"
+		},
+		{
+			"messageCode": "ChatLogMenu-08",
+			"messageText": "勧誘"
+		},
+		{
+			"messageCode": "ChatLogMenu-09",
+			"messageText": "申請未承認一覧"
+		},
+		{
+			"messageCode": "ChatLogMenu-10",
+			"messageText": "勧誘中一覧"
+		},
+		{
+			"messageCode": "ChatLogMenu-11",
+			"messageText": "チャット削除"
+		},
+		{
+			"messageCode": "ChatLeavingConfirmTitle",
+			"messageText": "退出確認"
+		},
+		{
+			"messageCode": "ChatLeavingConfirmInfo",
+			"messageText": "このチャットグループから退出しますか？"
+		},
+		{
+			"messageCode": "ChatLeavingSuccess",
+			"messageText": "チャットグループから退出しました。"
+		},
+		{
+			"messageCode": "ChatTransferConfirmInfo",
+			"messageText": "このユーザーにマスターを委譲しますか？"
+		},
+		{
+			"messageCode": "ChatTransferSuccess",
+			"messageText": "{0}にマスター権限を\n委譲しました。"
+		},
+		{
+			"messageCode": "ChatDeleteConfirmTitle",
+			"messageText": "削除確認"
+		},
+		{
+			"messageCode": "ChatDeleteConfirmInfo",
+			"messageText": "このチャットグループを削除しますか？\n※削除すると過去のデータは削除されます"
+		},
+		{
+			"messageCode": "ChatDeleteSuccess",
+			"messageText": "チャットグループを削除しました。"
+		},
+		{
+			"messageCode": "ChatInvitation-01",
+			"messageText": "勧誘できるフレンドがいません"
+		},
+		{
+			"messageCode": "ChatInvitation-02",
+			"messageText": "フレンドが選択されていません。"
+		},
+		{
+			"messageCode": "ChatInvitation-03",
+			"messageText": "これ以上選択できません。"
+		},
+		{
+			"messageCode": "ChatInvitation-04",
+			"messageText": "{0}名のフレンドを勧誘しますか？"
+		},
+		{
+			"messageCode": "ChatInvitation-05",
+			"messageText": "{0}をチャットグループへ\n勧誘しました。"
+		},
+		{
+			"messageCode": "ChatInvitation-06",
+			"messageText": "{0}名を勧誘しました。"
+		},
+		{
+			"messageCode": "ChatInvitation-07",
+			"messageText": "{0}の勧誘ができませんでした。"
+		},
+		{
+			"messageCode": "ChatInvitation-08",
+			"messageText": "{0}名の勧誘ができませんでした。"
+		},
+		{
+			"messageCode": "ChatInviteCancelTitle",
+			"messageText": "勧誘取り消し"
+		},
+		{
+			"messageCode": "ChatInviteCancelInfo",
+			"messageText": "{0}の{1}チャットグループへの\n勧誘を取り消しますか？"
+		},
+		{
+			"messageCode": "ChatInviteCancel",
+			"messageText": "{0}への勧誘を取り消しました。"
+		},
+		{
+			"messageCode": "ChatInviteReplyTitle",
+			"messageText": "{0}さんから{1}チャットグループへの\n招待が届いています\nどうしますか？"
+		},
+		{
+			"messageCode": "ChatInviteReplyOK",
+			"messageText": "{0}チャットグループに\n参加しました\nチャットから挨拶してみましょう。"
+		},
+		{
+			"messageCode": "ChatInviteReplyNG",
+			"messageText": "{0}チャットグループからの招待を\n拒否しました。"
+		},
+		{
+			"messageCode": "ChatApply-01",
+			"messageText": "{0}からの申請を承認しますか？"
+		},
+		{
+			"messageCode": "ChatApply-02",
+			"messageText": "{0}を承認しました\nさっそくメッセージを送ってみましょう。"
+		},
+		{
+			"messageCode": "ChatApply-03",
+			"messageText": "{0}からの申請を拒否しました。"
+		},
+		{
+			"messageCode": "ChatApply-04",
+			"messageText": "このチャットグループへの申請を\n取り消しますか？"
+		},
+		{
+			"messageCode": "ChatApply-05",
+			"messageText": "{0}チャットグループへの申請を\n取り消しました。"
+		},
+		{
+			"messageCode": "ChatUserNone",
+			"messageText": "対象のユーザーがいません"
+		},
+		{
+			"messageCode": "ChatUserLastLogin",
+			"messageText": "最終ログイン{0}"
+		},
+		{
+			"messageCode": "ChatInfo-01",
+			"messageText": "チャットでみんなと遊ぼう！"
+		},
+		{
+			"messageCode": "ChatInfo-02",
+			"messageText": "新着メッセージが届いています"
+		},
+		{
+			"messageCode": "ChatInfo-03",
+			"messageText": "マルチ依頼が来ています"
+		},
+		{
+			"messageCode": "ChatInfo-04",
+			"messageText": "模擬戦を挑まれています"
+		},
+		{
+			"messageCode": "ColosseumTitle",
+			"messageText": "コロシアム"
+		},
+		{
+			"messageCode": "ColosseumReward",
+			"messageText": "報酬一覧"
+		},
+		{
+			"messageCode": "ColosseumStamina",
+			"messageText": "消費なし：残り{0}回"
+		},
+		{
+			"messageCode": "ColosseumTerm",
+			"messageText": "開催期間:{0}～{1}"
+		},
+		{
+			"messageCode": "ColosseumNextRank",
+			"messageText": "次のRANKまであと{0}勝"
+		},
+		{
+			"messageCode": "ColosseumRankMax",
+			"messageText": "最高ランク到達！"
+		},
+		{
+			"messageCode": "ColosseumTips",
+			"messageText": "最高ランク到達ですね！まだまだ強敵が潜んでいるかもしれませんので、ばっちりがんばっていきましょう！"
+		},
+		{
+			"messageCode": "ColosseumCloseDay",
+			"messageText": "本日は非開催となります"
+		},
+		{
+			"messageCode": "ColosseumPenaltyTitle",
+			"messageText": "マッチングペナルティ"
+		},
+		{
+			"messageCode": "ColosseumPenaltyInfo",
+			"messageText": "既定条件により、マッチングされません。\nしばらくの間、お待ちください。"
+		},
+		{
+			"messageCode": "ColosseumLimit",
+			"messageText": "AREA 08【アクアリウムサーバ】の\nクリア後に開放されます。"
+		},
+		{
+			"messageCode": "ColosseumScoreTitle",
+			"messageText": "戦績"
+		},
+		{
+			"messageCode": "ColosseumScore",
+			"messageText": "{0}勝{1}敗"
+		},
+		{
+			"messageCode": "ColosseumDuelPoint",
+			"messageText": "現在のDP"
+		},
+		{
+			"messageCode": "ColosseumCloseTime",
+			"messageText": "現在コロシアムは開催しておりません"
+		},
+		{
+			"messageCode": "ColosseumGoTop",
+			"messageText": "再度コロシアムTOPから接続しなおしてください"
+		},
+		{
+			"messageCode": "ColosseumCancel",
+			"messageText": "取り消し"
+		},
+		{
+			"messageCode": "ColosseumWithdraw",
+			"messageText": "相手が対戦依頼を取り下げました"
+		},
+		{
+			"messageCode": "ColosseumSelect",
+			"messageText": "他の対戦相手を選択してください"
+		},
+		{
+			"messageCode": "ColosseumNotEntry",
+			"messageText": "未エントリーです"
+		},
+		{
+			"messageCode": "ColosseumNetworkError",
+			"messageText": "通信が切断されたため、\n一度パーティ編成画面へ戻ります。"
+		},
+		{
+			"messageCode": "ColosseumMockInputCode",
+			"messageText": "コード入力"
+		},
+		{
+			"messageCode": "ColosseumMockLockTitle",
+			"messageText": "対象のユーザーはコロシアム未開放です"
+		},
+		{
+			"messageCode": "ColosseumMockLockInfo",
+			"messageText": "コロシアム開放済みの対戦相手を指定してください"
+		},
+		{
+			"messageCode": "ColosseumMockInvitation",
+			"messageText": "{0}さんから模擬戦へ誘われています"
+		},
+		{
+			"messageCode": "ColosseumMockUserCode",
+			"messageText": "ユーザーコード入力"
+		},
+		{
+			"messageCode": "ColosseumMockUserCodeInfo",
+			"messageText": "友達のユーザーコードを入力して\n申請を行ってください"
+		},
+		{
+			"messageCode": "ColosseumMockNotFoundTitle",
+			"messageText": "存在しないユーザーコードです"
+		},
+		{
+			"messageCode": "ColosseumMockNotFoundInfo",
+			"messageText": "正しいユーザーコードを再入力してください"
+		},
+		{
+			"messageCode": "ColosseumRankTitle",
+			"messageText": "ランキング"
+		},
+		{
+			"messageCode": "ColosseumRankRate",
+			"messageText": "{0}戦{1}勝 勝率{2}%"
+		},
+		{
+			"messageCode": "ColosseumRankOutside",
+			"messageText": "圏外"
+		},
+		{
+			"messageCode": "ColosseumRankNotFound",
+			"messageText": "ランキングがまだ存在しません。"
+		},
+		{
+			"messageCode": "ExchangeTitle",
+			"messageText": "交換所"
+		},
+		{
+			"messageCode": "ExchangeTimeLimit",
+			"messageText": "【有効期限】{0}"
+		},
+		{
+			"messageCode": "ExchangeRemaining",
+			"messageText": "あと"
+		},
+		{
+			"messageCode": "ExchangeLimitless",
+			"messageText": "制限なし"
+		},
+		{
+			"messageCode": "ExchangeConfirmTitle",
+			"messageText": "交換確認"
+		},
+		{
+			"messageCode": "ExchangeConfirmInfo",
+			"messageText": "{0}を{1}{2}消費して\n{3}と交換しますか？"
+		},
+		{
+			"messageCode": "ExchangeSuccessTitle",
+			"messageText": "交換アイテム受け取り"
+		},
+		{
+			"messageCode": "ExchangeSuccessInfo",
+			"messageText": "{0}×{1}がプレゼントに贈られました"
+		},
+		{
+			"messageCode": "ExchangeFailedTitle",
+			"messageText": "交換失敗"
+		},
+		{
+			"messageCode": "ExchangeFailedInfo",
+			"messageText": "交換に失敗しました。"
+		},
+		{
+			"messageCode": "ExchangeTermTitle",
+			"messageText": "期間外"
+		},
+		{
+			"messageCode": "ExchangeTermInfo",
+			"messageText": "現在、開催しておりません。"
+		},
+		{
+			"messageCode": "ExchangeShortageTitle",
+			"messageText": "アイテム不足"
+		},
+		{
+			"messageCode": "ExchangeShortageInfo",
+			"messageText": "交換に必要なアイテムが足りません。"
+		},
+		{
+			"messageCode": "ExchangeLimitTitle",
+			"messageText": "交換制限"
+		},
+		{
+			"messageCode": "ExchangeLimitInfo",
+			"messageText": "交換上限数に達しているため、交換できません。"
+		},
+		{
+			"messageCode": "ExchangeCloseTitle",
+			"messageText": "期間終了"
+		},
+		{
+			"messageCode": "ExchangeCloseInfo",
+			"messageText": "交換所の期間が終了しました。"
+		},
+		{
+			"messageCode": "PossessionOverGasha",
+			"messageText": "ハウスのデジモン所持数が上限に達しているためキャプチャできません\n強化・お別れをして所持数を空けてください"
+		},
+		{
+			"messageCode": "PossessionOverQuest",
+			"messageText": "ハウスのデジモン所持数が上限に達しているためクエストに入れません\n強化・お別れをして所持数を空けてください"
+		},
+		{
+			"messageCode": "PossessionOverPresent",
+			"messageText": "ハウスのデジモン所持数が上限に達しているため受け取る事ができません\n強化・お別れをして所持数を空けてください"
+		},
+		{
+			"messageCode": "StaminaRecoveryTitle",
+			"messageText": "スタミナ回復"
+		},
+		{
+			"messageCode": "StaminaRecoveryExecution",
+			"messageText": "使用する"
+		},
+		{
+			"messageCode": "StaminaRecoveryCompleted",
+			"messageText": "スタミナを回復しました。"
+		},
+		{
+			"messageCode": "StaminaShortageTitle",
+			"messageText": "スタミナ不足"
+		},
+		{
+			"messageCode": "StaminaShortageInfo",
+			"messageText": "スタミナが足りません。\nデジストーン{0}個使用して回復しますか？\nスタミナ {1:D} -> {2:D}\nデジストーン所持数:{3:D}"
+		},
+		{
+			"messageCode": "StaminaShortageGoShop",
+			"messageText": "スタミナが足りません。\nデジストーンを所持していません。\n※デジストーン{0}個使用すると回復できます。"
+		},
+		{
+			"messageCode": "RecruitTitleNationwide",
+			"messageText": "募集板(全国)"
+		},
+		{
+			"messageCode": "RecruitTitleFriend",
+			"messageText": "募集板(フレンド)"
+		},
+		{
+			"messageCode": "RecruitNone",
+			"messageText": "パーティ募集はありません"
+		},
+		{
+			"messageCode": "Recruit-01",
+			"messageText": "PASS"
+		},
+		{
+			"messageCode": "Recruit-02",
+			"messageText": "PASSを入力してください"
+		},
+		{
+			"messageCode": "Recruit-03",
+			"messageText": "全国"
+		},
+		{
+			"messageCode": "Recruit-04",
+			"messageText": "未解放クエスト"
+		},
+		{
+			"messageCode": "Recruit-05",
+			"messageText": "参加しようとしたクエストは未開放のクエストのため\n現在は参加できません。"
+		},
+		{
+			"messageCode": "RecruitRule-01",
+			"messageText": "募集板設定"
+		},
+		{
+			"messageCode": "RecruitRule-02",
+			"messageText": "募集板掲載確認"
+		},
+		{
+			"messageCode": "RecruitRule-03",
+			"messageText": "掲載する"
+		},
+		{
+			"messageCode": "RecruitRule-04",
+			"messageText": "掲載しない"
+		},
+		{
+			"messageCode": "RecruitRule-05",
+			"messageText": "雰囲気"
+		},
+		{
+			"messageCode": "RecruitRule-06",
+			"messageText": "だれでも"
+		},
+		{
+			"messageCode": "RecruitRule-07",
+			"messageText": "上級者募集"
+		},
+		{
+			"messageCode": "RecruitRule-08",
+			"messageText": "初心者歓迎"
+		},
+		{
+			"messageCode": "RecruitRule-09",
+			"messageText": "よろしくお願いします"
+		},
+		{
+			"messageCode": "RecruitRule-10",
+			"messageText": "コメントは50文字以内で入力してください。"
+		},
+		{
+			"messageCode": "MultiRecruit-01",
+			"messageText": "[FFF000]PASS[-]▼タップでコピー"
+		},
+		{
+			"messageCode": "MultiRecruit-02",
+			"messageText": "ルームパスを\nクリップボードにコピーしました"
+		},
+		{
+			"messageCode": "MultiRecruit-03",
+			"messageText": "準備解除"
+		},
+		{
+			"messageCode": "MultiRecruit-04",
+			"messageText": "準備解除しますか？"
+		},
+		{
+			"messageCode": "MultiRecruit-05",
+			"messageText": "準備完了"
+		},
+		{
+			"messageCode": "MultiRecruit-06",
+			"messageText": "他のメンバーが揃うまで今しばらくお待ち下さい"
+		},
+		{
+			"messageCode": "MultiRecruit-07",
+			"messageText": "最終確認"
+		},
+		{
+			"messageCode": "MultiRecruit-08",
+			"messageText": "バトルを開始してよろしいですか？"
+		},
+		{
+			"messageCode": "MultiRecruit-09",
+			"messageText": "メンバーをもう一人入れることができますが\nこのままでいきますか？"
+		},
+		{
+			"messageCode": "MultiRecruit-10",
+			"messageText": "ルーム解散"
+		},
+		{
+			"messageCode": "MultiRecruit-11",
+			"messageText": "オーナーによってルームが解散されました"
+		},
+		{
+			"messageCode": "MultiRecruit-12",
+			"messageText": "ルームの期限が切れたため解散されました"
+		},
+		{
+			"messageCode": "MultiRecruit-13",
+			"messageText": "通信が切断しました"
+		},
+		{
+			"messageCode": "MultiRecruit-14",
+			"messageText": "通信が切断されたためルームから退室しました"
+		},
+		{
+			"messageCode": "MultiRecruitFriend-01",
+			"messageText": "送信可能なフレンドがいません"
+		},
+		{
+			"messageCode": "MultiRecruitFriend-02",
+			"messageText": "誘う"
+		},
+		{
+			"messageCode": "MultiRecruitFriend-03",
+			"messageText": "全選択"
+		},
+		{
+			"messageCode": "MultiRecruitFriend-04",
+			"messageText": "全解除"
+		},
+		{
+			"messageCode": "MultiRecruitFriend-05",
+			"messageText": "送信完了"
+		},
+		{
+			"messageCode": "MultiRecruitFriend-06",
+			"messageText": "参加依頼を送信しました"
+		},
+		{
+			"messageCode": "CharaIconNone",
+			"messageText": "-"
+		},
+		{
+			"messageCode": "CharaIcon-01",
+			"messageText": "進化可"
+		},
+		{
+			"messageCode": "CharaIcon-02",
+			"messageText": "進化不可"
+		},
+		{
+			"messageCode": "CharaIcon-03",
+			"messageText": "育成中"
+		},
+		{
+			"messageCode": "CharaIcon-04",
+			"messageText": "パーティ\n編成中"
+		},
+		{
+			"messageCode": "CharaStatus-01",
+			"messageText": "-"
+		},
+		{
+			"messageCode": "CharaStatus-02",
+			"messageText": "--"
+		},
+		{
+			"messageCode": "CharaStatus-03",
+			"messageText": "※該当なし"
+		},
+		{
+			"messageCode": "CharaStatus-04",
+			"messageText": "デジタマ"
+		},
+		{
+			"messageCode": "CharaStatus-05",
+			"messageText": "デジタマ(青)"
+		},
+		{
+			"messageCode": "CharaStatus-06",
+			"messageText": "デジタマ(赤)"
+		},
+		{
+			"messageCode": "CharaStatus-07",
+			"messageText": "デジタマ(緑) "
+		},
+		{
+			"messageCode": "CharaStatus-08",
+			"messageText": "ATK"
+		},
+		{
+			"messageCode": "CharaStatus-09",
+			"messageText": "DEF"
+		},
+		{
+			"messageCode": "CharaStatus-10",
+			"messageText": "HP"
+		},
+		{
+			"messageCode": "CharaStatus-11",
+			"messageText": "Lv"
+		},
+		{
+			"messageCode": "CharaStatus-12",
+			"messageText": "MAX"
+		},
+		{
+			"messageCode": "CharaStatus-13",
+			"messageText": "S-ATK"
+		},
+		{
+			"messageCode": "CharaStatus-14",
+			"messageText": "S-DEF"
+		},
+		{
+			"messageCode": "CharaStatus-15",
+			"messageText": "SPD"
+		},
+		{
+			"messageCode": "CharaStatus-16",
+			"messageText": "運"
+		},
+		{
+			"messageCode": "CharaStatus-17",
+			"messageText": "友情度"
+		},
+		{
+			"messageCode": "CharaStatus-18",
+			"messageText": "最大"
+		},
+		{
+			"messageCode": "CharaStatus-19",
+			"messageText": "固有技"
+		},
+		{
+			"messageCode": "CharaStatus-20",
+			"messageText": "継承技"
+		},
+		{
+			"messageCode": "CharaStatus-21",
+			"messageText": "リーダースキル"
+		},
+		{
+			"messageCode": "CharaStatus-22",
+			"messageText": "耐性"
+		},
+		{
+			"messageCode": "CharaDetailsTitle",
+			"messageText": "デジモン詳細"
+		},
+		{
+			"messageCode": "CharaDetailsFullScreen",
+			"messageText": "全画面"
+		},
+		{
+			"messageCode": "CharaDetailsExp",
+			"messageText": "あと{0}EXPでLvUP"
+		},
+		{
+			"messageCode": "CharaDetailsNotLock",
+			"messageText": "ロック不可"
+		},
+		{
+			"messageCode": "CharaDetailsNotLockBase",
+			"messageText": "ベースとして選択されているためロックできません "
+		},
+		{
+			"messageCode": "CharaDetailsNotLockPartner",
+			"messageText": "パートナーとして選択されているためロックできません"
+		},
+		{
+			"messageCode": "CharaDetailsNotLockSale",
+			"messageText": "お別れの対象として選択されているためロックできません"
+		},
+		{
+			"messageCode": "Sort-01",
+			"messageText": "現在：{0}"
+		},
+		{
+			"messageCode": "Sort-02",
+			"messageText": "ATK順"
+		},
+		{
+			"messageCode": "Sort-03",
+			"messageText": "DEF順"
+		},
+		{
+			"messageCode": "Sort-04",
+			"messageText": "HP順"
+		},
+		{
+			"messageCode": "Sort-05",
+			"messageText": "Lv順"
+		},
+		{
+			"messageCode": "Sort-06",
+			"messageText": "S-ATK順"
+		},
+		{
+			"messageCode": "Sort-07",
+			"messageText": "S-DEF順"
+		},
+		{
+			"messageCode": "Sort-08",
+			"messageText": "SPD順"
+		},
+		{
+			"messageCode": "Sort-09",
+			"messageText": "運順"
+		},
+		{
+			"messageCode": "Sort-10",
+			"messageText": "覚醒順"
+		},
+		{
+			"messageCode": "Sort-11",
+			"messageText": "種族順"
+		},
+		{
+			"messageCode": "Sort-12",
+			"messageText": "進化順"
+		},
+		{
+			"messageCode": "Sort-13",
+			"messageText": "入手順"
+		},
+		{
+			"messageCode": "Sort-14",
+			"messageText": "友情値順"
+		},
+		{
+			"messageCode": "BattleComebackTitle",
+			"messageText": "バトル復帰"
+		},
+		{
+			"messageCode": "BattleComebackInfo",
+			"messageText": "中断されたバトルがあります。\nバトルを再開しますか？\n※再開しない場合は、消費したデジストーンは戻りません"
+		},
+		{
+			"messageCode": "BattleUI-01",
+			"messageText": "MENU"
+		},
+		{
+			"messageCode": "BattleUI-02",
+			"messageText": "{0} / {1} WAVE Round {2:D2}"
+		},
+		{
+			"messageCode": "BattleUI-03",
+			"messageText": "獲得EXP"
+		},
+		{
+			"messageCode": "BattleUI-04",
+			"messageText": "獲得"
+		},
+		{
+			"messageCode": "BattleUI-05",
+			"messageText": "リタイア"
+		},
+		{
+			"messageCode": "BattleUI-06",
+			"messageText": "リタイアすると獲得した経験値やクラスタ、\nアイテムは手に入りません。\nそれでもリタイアしますか？"
+		},
+		{
+			"messageCode": "BattleUI-07",
+			"messageText": "コンティニュー"
+		},
+		{
+			"messageCode": "BattleUI-08",
+			"messageText": "デジストーン{0}個で復活させることができます"
+		},
+		{
+			"messageCode": "BattleUI-09",
+			"messageText": "デジストーン{0}個でコンティニューができます\n※諦めた場合、復活予約で使用したデジストーンは消費されません"
+		},
+		{
+			"messageCode": "BattleUI-10",
+			"messageText": "デジストーンが足りないため復活できません"
+		},
+		{
+			"messageCode": "BattleUI-11",
+			"messageText": "デジストーンが足りないため復活できません\n※諦めた場合、デジストーンは消費されません"
+		},
+		{
+			"messageCode": "BattleUI-12",
+			"messageText": "デジストーンが足りないため復活できません\n[FF0000]※マルチ中はショップへの移動はできません。[-]"
+		},
+		{
+			"messageCode": "BattleUI-13",
+			"messageText": "諦める"
+		},
+		{
+			"messageCode": "BattleUI-14",
+			"messageText": "復活する"
+		},
+		{
+			"messageCode": "BattleUI-15",
+			"messageText": "復活"
+		},
+		{
+			"messageCode": "BattleUI-16",
+			"messageText": "デジストーン1個消費して復活しますか？"
+		},
+		{
+			"messageCode": "BattleUI-17",
+			"messageText": "所持"
+		},
+		{
+			"messageCode": "BattleUI-18",
+			"messageText": "所有"
+		},
+		{
+			"messageCode": "BattleUI-19",
+			"messageText": "降参"
+		},
+		{
+			"messageCode": "BattleUI-20",
+			"messageText": "降参すると敗北となります。\n降参しますか？"
+		},
+		{
+			"messageCode": "BattleUI-21",
+			"messageText": "相手が降参したため、バトル終了となります"
+		},
+		{
+			"messageCode": "BattleUI-22",
+			"messageText": "相手の通信が切断されたので\n復帰を待ちます\nあと{0}秒"
+		},
+		{
+			"messageCode": "BattleUI-23",
+			"messageText": "通信が途切れています。\n規定時間内に戻れない場合、敗北となります。"
+		},
+		{
+			"messageCode": "BattleUI-24",
+			"messageText": "通信が切断されたため、コロシアムバトルが終了しました。"
+		},
+		{
+			"messageCode": "BattleUI-25",
+			"messageText": "あなた"
+		},
+		{
+			"messageCode": "BattleUI-26",
+			"messageText": "オーナーのみ\n変更可能です"
+		},
+		{
+			"messageCode": "BattleUI-27",
+			"messageText": "通信が切断されたため、\nバトルを終了します。"
+		},
+		{
+			"messageCode": "BattleUI-28",
+			"messageText": "オーナーの通信が切断されたため、\nバトルを終了します。"
+		},
+		{
+			"messageCode": "BattleUI-29",
+			"messageText": "{0}さんが退出しました。"
+		},
+		{
+			"messageCode": "BattleUI-30",
+			"messageText": "以降は、オーナーが操作できます。"
+		},
+		{
+			"messageCode": "BattleUI-31",
+			"messageText": "※リタイアしたメンバーのデジモンはオーナーが操作できます"
+		},
+		{
+			"messageCode": "BattleUI-32",
+			"messageText": "コンティニュー待機"
+		},
+		{
+			"messageCode": "BattleUI-33",
+			"messageText": "オーナーのコンティニューの選択の待機中です。\nもうしばらくお待ち下さい。"
+		},
+		{
+			"messageCode": "BattleUI-34",
+			"messageText": "￥"
+		},
+		{
+			"messageCode": "BattleSkillUI-01",
+			"messageText": "AP{0}"
+		},
+		{
+			"messageCode": "BattleSkillUI-02",
+			"messageText": "AP不足"
+		},
+		{
+			"messageCode": "BattleSkillUI-03",
+			"messageText": "威力"
+		},
+		{
+			"messageCode": "BattleSkillUI-04",
+			"messageText": "命中率"
+		},
+		{
+			"messageCode": "BattleNotice-01",
+			"messageText": "ROUND {0:D2}"
+		},
+		{
+			"messageCode": "BattleNotice-02",
+			"messageText": "ターン"
+		},
+		{
+			"messageCode": "BattleNotice-03",
+			"messageText": "AP UP!!"
+		},
+		{
+			"messageCode": "BattleNotice-04",
+			"messageText": "HP回復!!"
+		},
+		{
+			"messageCode": "BattleNotice-05",
+			"messageText": "リーダースキル発動!!"
+		},
+		{
+			"messageCode": "BattleNotice-06",
+			"messageText": "眠っていて行動できない！"
+		},
+		{
+			"messageCode": "BattleNotice-07",
+			"messageText": "力を溜めている！"
+		},
+		{
+			"messageCode": "BattleNotice-08",
+			"messageText": "あと"
+		},
+		{
+			"messageCode": "BattleNotice-09",
+			"messageText": "スタンで行動できない！"
+		},
+		{
+			"messageCode": "BattleNotice-10",
+			"messageText": "マヒして行動できない！"
+		},
+		{
+			"messageCode": "BattleNotice-11",
+			"messageText": "コマンド入力中"
+		},
+		{
+			"messageCode": "BattleNotice-12",
+			"messageText": "開始準備中"
+		},
+		{
+			"messageCode": "BattleNotice-13",
+			"messageText": "Thinking..."
+		},
+		{
+			"messageCode": "BattleNotice-14",
+			"messageText": "あなたのターンまであと"
+		},
+		{
+			"messageCode": "BattleNotice-15",
+			"messageText": "あなたのターンまで残り"
+		},
+		{
+			"messageCode": "BattleNotice-16",
+			"messageText": "あなたのターンです"
+		},
+		{
+			"messageCode": "BattleResult-01",
+			"messageText": "〜{0}〜"
+		},
+		{
+			"messageCode": "BattleResult-02",
+			"messageText": "あと"
+		},
+		{
+			"messageCode": "BattleResult-03",
+			"messageText": "期間切れ"
+		},
+		{
+			"messageCode": "BattleResult-04",
+			"messageText": "期間が切れたのでバトルの報酬は受け取れませんでした"
+		},
+		{
+			"messageCode": "BattleResult-05",
+			"messageText": "承認待ち"
+		},
+		{
+			"messageCode": "BattleResult-06",
+			"messageText": "申請済み"
+		},
+		{
+			"messageCode": "BattleResult-07",
+			"messageText": "フレンド申請する"
+		},
+		{
+			"messageCode": "BattleResult-08",
+			"messageText": "Lv."
+		},
+		{
+			"messageCode": "FirstClearBonus",
+			"messageText": "初クリア報酬で\nデジストーン{0}個獲得しました"
+		},
+		{
+			"messageCode": "FirstLinkBonus",
+			"messageText": "初リンク{0}人目達成！ {1}{2}個獲得！"
+		},
+		{
+			"messageCode": "FirstLinkBonusFriend",
+			"messageText": "フレンド初リンク{0}人目達成！ {1}{2}個獲得！"
+		},
+		{
+			"messageCode": "TitleUserCode",
+			"messageText": "USER_CODE: {0}"
+		},
+		{
+			"messageCode": "TitleAppVersion",
+			"messageText": "Version{0}"
+		},
+		{
+			"messageCode": "TitleCacheButton",
+			"messageText": "キャッシュ"
+		},
+		{
+			"messageCode": "TitleOptionButton",
+			"messageText": "オプション"
+		},
+		{
+			"messageCode": "CacheClearInfo",
+			"messageText": "キャッシュクリアしますか？"
+		},
+		{
+			"messageCode": "AgreementInfo",
+			"messageText": "ゲームを開始するには、利用規約に同意していただく\n必要があります。\n利用規約をご確認のうえ、同意するボタンを押して\nゲームを開始してください。"
+		},
+		{
+			"messageCode": "AgreementYesButtonText",
+			"messageText": "同意する"
+		},
+		{
+			"messageCode": "AgreementNoButtonText",
+			"messageText": "同意しない"
+		},
+		{
+			"messageCode": "BaseSelect-08",
+			"messageText": "研究{0}デジモン選択"
+		},
+		{
+			"messageCode": "FacilityShopBuild",
+			"messageText": "建設"
+		},
+		{
+			"messageCode": "FacilityInfoTitle",
+			"messageText": "施設名"
+		},
+		{
+			"messageCode": "FacilityInfoDescription",
+			"messageText": "施設説明"
+		},
+		{
+			"messageCode": "FacilityInfoUpgradeButton",
+			"messageText": "アップグレード"
+		},
+		{
+			"messageCode": "MultiRecruit-15",
+			"messageText": "再接続を行いますか？"
+		},
+		{
+			"messageCode": "FacilityUpgradeTimeTitle",
+			"messageText": "建築時間"
+		},
+		{
+			"messageCode": "BattleUI-35",
+			"messageText": "降 参"
+		},
+		{
+			"messageCode": "MultiRecruitQuestStage",
+			"messageText": "STAGE {0:D2} {1}"
+		},
+		{
+			"messageCode": "BattleUI-36",
+			"messageText": "ROUND {0}"
+		},
+		{
+			"messageCode": "Profile-22",
+			"messageText": "フレンド登録を解除する"
+		},
+		{
+			"messageCode": "Profile-23",
+			"messageText": "申請の取り消し"
+		},
+		{
+			"messageCode": "Profile-24",
+			"messageText": "申請の承認"
+		},
+		{
+			"messageCode": "Profile-25",
+			"messageText": "フレンド登録を解除します"
+		},
+		{
+			"messageCode": "Profile-26",
+			"messageText": "フレンド申請を送ります"
+		},
+		{
+			"messageCode": "Profile-27",
+			"messageText": "フレンド申請を取り消します"
+		},
+		{
+			"messageCode": "Profile-28",
+			"messageText": "フレンド申請を承認します"
+		},
+		{
+			"messageCode": "Profile-29",
+			"messageText": "フレンド登録解除完了"
+		},
+		{
+			"messageCode": "Profile-30",
+			"messageText": "申請送信完了"
+		},
+		{
+			"messageCode": "Profile-31",
+			"messageText": "申請取り消し完了"
+		},
+		{
+			"messageCode": "Profile-32",
+			"messageText": "フレンド登録完了"
+		},
+		{
+			"messageCode": "Profile-33",
+			"messageText": "フレンド登録を解除しました"
+		},
+		{
+			"messageCode": "Profile-34",
+			"messageText": "フレンド申請を送信しました"
+		},
+		{
+			"messageCode": "Profile-35",
+			"messageText": "フレンド申請を取り消しました"
+		},
+		{
+			"messageCode": "Profile-36",
+			"messageText": "フレンドに登録しました"
+		},
+		{
+			"messageCode": "PvpAggregate",
+			"messageText": "集計中…"
+		},
+		{
+			"messageCode": "PvPTopUI-1",
+			"messageText": "コロシアム終了まで"
+		},
+		{
+			"messageCode": "PvPTopUI-2",
+			"messageText": "戦歴"
+		},
+		{
+			"messageCode": "PvPTopUI-3",
+			"messageText": "RANK一覧"
+		},
+		{
+			"messageCode": "PvPTopUI-4",
+			"messageText": "コロシアム開催時間案内 "
+		},
+		{
+			"messageCode": "PvPTopUI-5",
+			"messageText": "現在開催中▶"
+		},
+		{
+			"messageCode": "PvPTopUI-6",
+			"messageText": "コロシアム説明"
+		},
+		{
+			"messageCode": "BattleUI-37",
+			"messageText": "スタンプ"
+		},
+		{
+			"messageCode": "GooglePlayGamesObjectsUI-1",
+			"messageText": "Sign Out"
+		},
+		{
+			"messageCode": "GooglePlayGamesObjectsUI-2",
+			"messageText": "Achievements"
+		},
+		{
+			"messageCode": "TakeOver-14",
+			"messageText": "Googleでログイン"
+		},
+		{
+			"messageCode": "TakeOver-15",
+			"messageText": "iCloudでログイン"
+		},
+		{
+			"messageCode": "TakeOver-16",
+			"messageText": "引き継ぎコード入力"
+		},
+		{
+			"messageCode": "TakeOver-17",
+			"messageText": "引き継ぎコード発行"
+		},
+		{
+			"messageCode": "TakeOver-18",
+			"messageText": "Googleからデータ引き継ぎ"
+		},
+		{
+			"messageCode": "TakeOver-19",
+			"messageText": "すでに別の端末でGoogleアカウントに\nデータの引き継ぎを行った場合のみご利用いただけます。\n\nゲームデータの同期を行ったGoogleアカウントを\n選択してください。\n\n※引き継ぎを行うと、引き継ぎ元端末のゲームデータは初期化されますのであらかじめご了承ください。"
+		},
+		{
+			"messageCode": "TakeOver-20",
+			"messageText": "Googleにデータ同期"
+		},
+		{
+			"messageCode": "TakeOver-21",
+			"messageText": "お持ちのGoogleアカウントにゲームデータを同期して\nプレイ情報を引き継いで遊ぶことができます。\n\nなお、同期後からデータ引き継ぎ完了までに\nプレイされた情報も引き継ぎ時に反映されます。\n\n※同期したアカウントにすでにゲームデータを保存している場合は上書きされますのでご注意ください。"
+		},
+		{
+			"messageCode": "TakeOver-22",
+			"messageText": "引き継ぐ"
+		},
+		{
+			"messageCode": "TakeOver-23",
+			"messageText": "古い端末で発行した引き継ぎコードを\n入力してください"
+		},
+		{
+			"messageCode": "TakeOver-24",
+			"messageText": "発行されたコードを新しい端末に入力する事で\nデータを引き継ぐ事ができます"
+		},
+		{
+			"messageCode": "TakeOver-25",
+			"messageText": "古い端末で発行した引き継ぎコードを\n入力してください"
+		},
+		{
+			"messageCode": "TakeOver-26",
+			"messageText": "コピー"
+		},
+		{
+			"messageCode": "PartyStatusChange2",
+			"messageText": "ステ\n切替"
+		},
+		{
+			"messageCode": "MealButtonText",
+			"messageText": "肉をあげる"
+		},
+		{
+			"messageCode": "BaseChange",
+			"messageText": "ベース変更"
+		},
+		{
+			"messageCode": "SystemPossession",
+			"messageText": "所持"
+		},
+		{
+			"messageCode": "BattleUI-38",
+			"messageText": "開始準備中"
+		},
+		{
+			"messageCode": "BattleUI-39",
+			"messageText": "コマンド入力中"
+		},
+		{
+			"messageCode": "CharaTapFriendshipUpStatus",
+			"messageText": "+ {0}"
+		},
+		{
+			"messageCode": "BattleResult-09",
+			"messageText": "{0} {1}獲得!\n"
+		},
+		{
+			"messageCode": "StatusUpGimmick",
+			"messageText": "効果発動UP↑"
+		},
+		{
+			"messageCode": "StatusDownGimmick",
+			"messageText": "効果発動DOWN↓"
+		},
+		{
+			"messageCode": "StaminaOverPoint",
+			"messageText": "[00ff00]{0}[ffffff]/{1}"
+		},
+		{
+			"messageCode": "CharaStatusNoneWord",
+			"messageText": "―"
+		},
+		{
+			"messageCode": "Garden-13",
+			"messageText": "進化まで23時間59分"
+		},
+		{
+			"messageCode": "CaptureTitle",
+			"messageText": "キャプチャ"
+		},
+		{
+			"messageCode": "BattleResult-10",
+			"messageText": "Lv.{0}"
+		},
+		{
+			"messageCode": "Succession-01",
+			"messageText": "ベースデジモン"
+		},
+		{
+			"messageCode": "Succession-02",
+			"messageText": "必要"
+		},
+		{
+			"messageCode": "SystemItemCount",
+			"messageText": "{0} x {1}"
+		},
+		{
+			"messageCode": "SystemItemCount2",
+			"messageText": "x{0}"
+		},
+		{
+			"messageCode": "PossessionOverGashaUpgrade",
+			"messageText": "ハウスのデジモン所持数が上限に達しているためキャプチャできません\nハウスをアップグレードするか\n強化・お別れをして所持数を空けてください"
+		},
+		{
+			"messageCode": "PossessionOverQuestUpgrade",
+			"messageText": "ハウスのデジモン所持数が上限に達しているためクエストに入れません\nハウスをアップグレードするか\n強化・お別れをして所持数を空けてください"
+		},
+		{
+			"messageCode": "PossessionOverPresentUpgrade",
+			"messageText": "ハウスのデジモン所持数が上限に達しているため受け取る事ができません\nハウスをアップグレードするか\n強化・お別れをして所持数を空けてください"
+		},
+		{
+			"messageCode": "AgreementMinorsTitle",
+			"messageText": "親権者同意"
+		},
+		{
+			"messageCode": "AgreementMinorsInfo1",
+			"messageText": "未成年の方が仮想通貨又はコンテンツを購入する場合には、\n親権者の同意が必要です。"
+		},
+		{
+			"messageCode": "AgreementMinorsInfo2",
+			"messageText": "※ないようがわからないかたは、\nおうちのひとにがめんをみせてください。"
+		},
+		{
+			"messageCode": "AgreementChatTitle",
+			"messageText": "チャットサービス同意画面"
+		},
+		{
+			"messageCode": "AgreementChatInfo",
+			"messageText": "利用規約およびチャットサービスに関する注意事項の内容を確認し、同意した上でチャットサービスをご利用ください。"
+		},
+		{
+			"messageCode": "Succession-03",
+			"messageText": "継承名"
+		},
+		{
+			"messageCode": "ShopAge-07",
+			"messageText": "登録する"
+		},
+		{
+			"messageCode": "ColosseumRankListTitle",
+			"messageText": "RANK一覧"
+		},
+		{
+			"messageCode": "ColosseumRankListDP",
+			"messageText": "現在のDP："
+		},
+		{
+			"messageCode": "ColosseumRankListNeedTitle",
+			"messageText": "必要DP"
+		},
+		{
+			"messageCode": "ColosseumRankListNeedInfo",
+			"messageText": "{0}～{1}"
+		},
+		{
+			"messageCode": "BattleUI-40",
+			"messageText": "獲得クラスタ"
+		},
+		{
+			"messageCode": "SystemCurrencyMark",
+			"messageText": "￥{0:#,0}"
+		},
+		{
+			"messageCode": "BattleResult-11",
+			"messageText": "スタミナ"
+		},
+		{
+			"messageCode": "BattleResult-12",
+			"messageText": "もう一度"
+		},
+		{
+			"messageCode": "BattleResult-13",
+			"messageText": "次へ"
+		},
+		{
+			"messageCode": "ShopBuyButton",
+			"messageText": "購入"
+		},
+		{
+			"messageCode": "ChipInstalling-01",
+			"messageText": "チップ装着"
+		},
+		{
+			"messageCode": "ChipInstalling-02",
+			"messageText": "チップ装着ベースデジモン選択"
+		},
+		{
+			"messageCode": "ChipInstalling-03",
+			"messageText": "チップが装着されていません\n装着しますか？"
+		},
+		{
+			"messageCode": "ChipInstalling-04",
+			"messageText": "装着する"
+		},
+		{
+			"messageCode": "ChipInstalling-05",
+			"messageText": "拡張"
+		},
+		{
+			"messageCode": "ChipInstalling-06",
+			"messageText": "拡張パッチを{0}枚数使用して拡張しますか？"
+		},
+		{
+			"messageCode": "ChipInstalling-07",
+			"messageText": "アイテムを使って拡張できます\n拡張しますか？"
+		},
+		{
+			"messageCode": "ChipInstalling-08",
+			"messageText": "拡張する"
+		},
+		{
+			"messageCode": "ChipInstalling-09",
+			"messageText": "チップ取外"
+		},
+		{
+			"messageCode": "ChipInstalling-10",
+			"messageText": "拡張条件を満たしていません\n{0}する事で拡張されます"
+		},
+		{
+			"messageCode": "ExchangeCanNum",
+			"messageText": "交換可能回数"
+		},
+		{
+			"messageCode": "ExchangeNeedNum",
+			"messageText": "必要数"
+		},
+		{
+			"messageCode": "ExchangeButtonText",
+			"messageText": "交換する"
+		},
+		{
+			"messageCode": "ExchangeLimit",
+			"messageText": "交換上限に達しています"
+		},
+		{
+			"messageCode": "Mission-09",
+			"messageText": "報酬"
+		},
+		{
+			"messageCode": "Present-11",
+			"messageText": "受け取る"
+		},
+		{
+			"messageCode": "Present-12",
+			"messageText": "一括受け取り"
+		},
+		{
+			"messageCode": "FarmEditStockCount",
+			"messageText": "格納数:"
+		},
+		{
+			"messageCode": "FarmEditStockTime",
+			"messageText": "建設時間:"
+		},
+		{
+			"messageCode": "SystemButtonSell",
+			"messageText": "売却"
+		},
+		{
+			"messageCode": "SystemButtonPlace",
+			"messageText": "配置"
+		},
+		{
+			"messageCode": "SaleCautionChip",
+			"messageText": "※装備したチップは同時に売却されてしまいます"
+		},
+		{
+			"messageCode": "LaboratoryCautionChip",
+			"messageText": "ベース、パートナー共に装備していたチップは、チップ一覧に格納されました。"
+		},
+		{
+			"messageCode": "CautionDisappearChip",
+			"messageText": "※パートナーデジモンが装備しているチップは消滅してしまいます"
+		},
+		{
+			"messageCode": "Friend-17",
+			"messageText": "申請\n取り消し"
+		},
+		{
+			"messageCode": "ChipSphereTitle",
+			"messageText": "チップ装着"
+		},
+		{
+			"messageCode": "ChipInstallingImpossible",
+			"messageText": "装着不可"
+		},
+		{
+			"messageCode": "ChipReinforceTitle",
+			"messageText": "チップ強化"
+		},
+		{
+			"messageCode": "DigimonListTitle",
+			"messageText": "デジモン一覧"
+		},
+		{
+			"messageCode": "TrainingMenuTitle",
+			"messageText": "育成メニュー"
+		},
+		{
+			"messageCode": "CharaStatus-23",
+			"messageText": "覚醒"
+		},
+		{
+			"messageCode": "DegistoneHistory-01",
+			"messageText": "合計所持数"
+		},
+		{
+			"messageCode": "DegistoneHistory-02",
+			"messageText": "購入デジストーン数"
+		},
+		{
+			"messageCode": "DegistoneHistory-03",
+			"messageText": "無償デジストーン数"
+		},
+		{
+			"messageCode": "PresentHistory-01",
+			"messageText": "プレゼント履歴は30日、または100件を超えるとリストから削除されます"
+		},
+		{
+			"messageCode": "TrainingMissingAlertTitle",
+			"messageText": "道場が建設されていません"
+		},
+		{
+			"messageCode": "TrainingMissingAlertInfo-01",
+			"messageText": "「道場」がないため継承できません\n「施設」から「道場」を建設しましょう"
+		},
+		{
+			"messageCode": "TrainingMissingAlertInfo-02",
+			"messageText": "「道場」がないため耐性変化できません\n「施設」から「道場」を建設しましょう"
+		},
+		{
+			"messageCode": "ChipInstallingConfirmTitle",
+			"messageText": "チップ装着確認"
+		},
+		{
+			"messageCode": "ChipInstallingConfirmInfo",
+			"messageText": "チップを装着しますか？\n一度装着すると研究かアイテム消費でしか外す事はできません\n※装備後でも強化を行うことが出来ます。"
+		},
+		{
+			"messageCode": "ChipInstallingEvolutionInfo",
+			"messageText": "{0}に進化"
+		},
+		{
+			"messageCode": "QuestTopTitle",
+			"messageText": "探索TOP"
+		},
+		{
+			"messageCode": "ChipInstalling-11",
+			"messageText": "開放条件に達していません\n開放条件を満たす事で開放されます"
+		},
+		{
+			"messageCode": "ChipInstalling-12",
+			"messageText": "取外パッチを{0}枚使用してチップを取り外しますか？"
+		},
+		{
+			"messageCode": "ChipInstalling-13",
+			"messageText": "チップは装着されていません"
+		},
+		{
+			"messageCode": "ChipSortModal-01",
+			"messageText": "ソート"
+		},
+		{
+			"messageCode": "ChipSortModal-02",
+			"messageText": "変更する"
+		},
+		{
+			"messageCode": "ChipSortModal-03",
+			"messageText": "リセット"
+		},
+		{
+			"messageCode": "ChipSortModal-04",
+			"messageText": "全て"
+		},
+		{
+			"messageCode": "ChipSortModal-05",
+			"messageText": "昇順"
+		},
+		{
+			"messageCode": "ChipSortModal-06",
+			"messageText": "降順"
+		},
+		{
+			"messageCode": "ChipSortModal-07",
+			"messageText": "レアリティ順"
+		},
+		{
+			"messageCode": "ChipSortModal-08",
+			"messageText": "入手順"
+		},
+		{
+			"messageCode": "ChipSortModal-09",
+			"messageText": "陣"
+		},
+		{
+			"messageCode": "ChipSortModal-10",
+			"messageText": "遺言ステ"
+		},
+		{
+			"messageCode": "ChipSortModal-11",
+			"messageText": "遺言状態異常"
+		},
+		{
+			"messageCode": "ChipSortModal-12",
+			"messageText": "コンボ"
+		},
+		{
+			"messageCode": "ChipSortModal-13",
+			"messageText": "特殊"
+		},
+		{
+			"messageCode": "ChipAdministration-01",
+			"messageText": "現在チップは所持していません"
+		},
+		{
+			"messageCode": "ChipReinforcement-01",
+			"messageText": "チップ強化"
+		},
+		{
+			"messageCode": "ChipReinforcementModal-01",
+			"messageText": "チップ強化確認"
+		},
+		{
+			"messageCode": "ChipReinforcementModal-02",
+			"messageText": "強化前"
+		},
+		{
+			"messageCode": "ChipReinforcementModal-03",
+			"messageText": "強化後"
+		},
+		{
+			"messageCode": "ChipReinforcementModal-04",
+			"messageText": "消費チップ"
+		},
+		{
+			"messageCode": "ChipReinforcementModal-05",
+			"messageText": "チップを消費して強化しますか？\n※消費チップは消滅します。"
+		},
+		{
+			"messageCode": "ChipReinforcementModal-06",
+			"messageText": "素材が足りないため強化できません"
+		},
+		{
+			"messageCode": "ChipSaleCheck-01",
+			"messageText": "チップ売却確認"
+		},
+		{
+			"messageCode": "ChipSaleCheck-02",
+			"messageText": "上記のチップを売却します。よろしいですか？"
+		},
+		{
+			"messageCode": "ChipSaleCheck-03",
+			"messageText": "※ランク{0}以上のチップが含まれています。"
+		},
+		{
+			"messageCode": "BattleResult-14",
+			"messageText": "あと{0:D3}PTで報酬獲得!!"
+		},
+		{
+			"messageCode": "MultiRecruit-16",
+			"messageText": "装備しているチップは\nありません"
+		},
+		{
+			"messageCode": "SystemDataMismatchTitle",
+			"messageText": "データ不整合"
+		},
+		{
+			"messageCode": "ChipDataMismatchMesage",
+			"messageText": "データ不整合が発生しました。\n解決しないときはお問い合わせ下さい。\nコード:CHIP_ERR_{0}"
+		},
+		{
+			"messageCode": "ExchangeMissingAlertTitle",
+			"messageText": "交換所が建設されていません"
+		},
+		{
+			"messageCode": "ExchangeMissingAlertInfo",
+			"messageText": "「交換所」がありません\n「施設」から「交換所」を建設しましょう"
+		},
+		{
+			"messageCode": "BattleResult-15",
+			"messageText": "【もう一度】バトル時の設定です"
+		},
+		{
+			"messageCode": "ChipListTitle",
+			"messageText": "チップ一覧"
+		},
+		{
+			"messageCode": "ChipFactoryMissingAlertTitle",
+			"messageText": "チップ工場が建設されていません"
+		},
+		{
+			"messageCode": "ChipFactoryMissingAlertInfo-1",
+			"messageText": "「チップ工場」がないためチップ装着できません\n「施設」から「チップ工場」を建設しましょう"
+		},
+		{
+			"messageCode": "ChipFactoryMissingAlertInfo-2",
+			"messageText": "「チップ工場」がないためチップ強化できません\n「施設」から「チップ工場」を建設しましょう"
+		},
+		{
+			"messageCode": "ChipFactoryMissingAlertInfo-3",
+			"messageText": "「チップ工場」がないためチップ一覧を開けません\n「施設」から「チップ工場」を建設しましょう"
+		},
+		{
+			"messageCode": "PointQuest-1",
+			"messageText": "イベント詳細"
+		},
+		{
+			"messageCode": "PointQuest-2",
+			"messageText": "イベント詳細"
+		},
+		{
+			"messageCode": "BattleUI-41",
+			"messageText": "あと{0}ROUND"
+		},
+		{
+			"messageCode": "BattleUI-42",
+			"messageText": "オーナーがリタイアしたため、\nバトルを終了します。"
+		},
+		{
+			"messageCode": "FacilityShopCostTitle",
+			"messageText": "建設コスト"
+		},
+		{
+			"messageCode": "FacilityShopBuildNum",
+			"messageText": "建設数:"
+		},
+		{
+			"messageCode": "BattleUI-43",
+			"messageText": "同期中"
+		},
+		{
+			"messageCode": "BattleUI-44",
+			"messageText": "通信が途切れています。\n規定時間内に戻れない場合、敗北となります\nあと{0}秒"
+		},
+		{
+			"messageCode": "QuestDetailsBonusPoint",
+			"messageText": "BONUS"
+		},
+		{
+			"messageCode": "CampaignFarmEndInfo",
+			"messageText": "キャンペーンが終了しました。"
+		},
+		{
+			"messageCode": "CampaignFarmStartInfo",
+			"messageText": "キャンペーンが始まりました。"
+		},
+		{
+			"messageCode": "CampaignFarmChangeInfo",
+			"messageText": "キャンペーンの内容が変わりました。"
+		},
+		{
+			"messageCode": "ChipAdministration-02",
+			"messageText": "チップ一覧"
+		},
+		{
+			"messageCode": "ChipAdministration-03",
+			"messageText": "チップ売却"
+		},
+		{
+			"messageCode": "PartyFavorite",
+			"messageText": "お気に入り"
+		},
+		{
+			"messageCode": "ShopName",
+			"messageText": "ショップ"
+		},
+		{
+			"messageCode": "TenCaptureTitle",
+			"messageText": "10連キャプチャ"
+		},
+		{
+			"messageCode": "GotoCahpture",
+			"messageText": "キャプチャTOPへ"
+		},
+		{
+			"messageCode": "SystemDetail",
+			"messageText": "詳細"
+		},
+		{
+			"messageCode": "PointQuest-3",
+			"messageText": "POINT"
+		},
+		{
+			"messageCode": "PointQuest-4",
+			"messageText": "RANKING"
+		},
+		{
+			"messageCode": "ColosseumTimes",
+			"messageText": "{0}回目"
+		},
+		{
+			"messageCode": "ColosseumRankGetDP",
+			"messageText": "獲得DP"
+		},
+		{
+			"messageCode": "SystemOn",
+			"messageText": "ON"
+		},
+		{
+			"messageCode": "SystemOff",
+			"messageText": "OFF"
+		},
+		{
+			"messageCode": "EvolutionNotEnoughFraction",
+			"messageText": "[ffffff]{0}[-]/[ffffff]{1}[-]"
+		},
+		{
+			"messageCode": "EvolutionEnoughFraction",
+			"messageText": "[fff000]{0}[-]/[ffffff]{1}[-]"
+		},
+		{
+			"messageCode": "PartyParticipate",
+			"messageText": "参加"
+		},
+		{
+			"messageCode": "PointQuestGetPT",
+			"messageText": "獲得ポイント"
+		},
+		{
+			"messageCode": "EvolutionUltimateMaterialName",
+			"messageText": "欠片"
+		},
+		{
+			"messageCode": "CampaignMedalTakeOverUp",
+			"messageText": "才能確率\n{0}倍"
+		},
+		{
+			"messageCode": "CampaignLuckUp",
+			"messageText": "運UP確率\n{0}倍"
+		},
+		{
+			"messageCode": "CampaignNowMedalTakeOverUp",
+			"messageText": "才能引き継ぎ確率{0}倍"
+		},
+		{
+			"messageCode": "CampaignNowLuckUp",
+			"messageText": "運UP確率{0}倍"
+		},
+		{
+			"messageCode": "BattleUI-45",
+			"messageText": "{0} / {1} [ffff00]EXTRA[ffffff] Round {2:D2}"
+		},
+		{
+			"messageCode": "ChipOverGasha",
+			"messageText": "チップ工場のチップ所持数が上限に達しているためキャプチャできません\n強化・売却をして所持数を空けてください"
+		},
+		{
+			"messageCode": "ChipOverQuest",
+			"messageText": "チップ工場のチップ所持数が上限に達しているためクエストに入れません\n強化・売却をして所持数を空けてください"
+		},
+		{
+			"messageCode": "ChipOverPresent",
+			"messageText": "チップ工場のチップ所持数が上限に達しているため受け取る事ができません\n強化・売却をして所持数を空けてください"
+		},
+		{
+			"messageCode": "QuestGimmick",
+			"messageText": "ステージ効果発動中"
+		},
+		{
+			"messageCode": "BattleUI-46",
+			"messageText": "追撃！"
+		},
+		{
+			"messageCode": "BattleUI-47",
+			"messageText": "かばう！"
+		},
+		{
+			"messageCode": "QuestEventReplayConfirm",
+			"messageText": "もう一度、鑑賞しますか？"
+		},
+		{
+			"messageCode": "ChipGashaLineup",
+			"messageText": "出現チップ"
+		},
+		{
+			"messageCode": "CampaignNowTipOff",
+			"messageText": "現在クラスタ{0}%OFF"
+		},
+		{
+			"messageCode": "CampaignStartTitle",
+			"messageText": "キャンペーン開催"
+		},
+		{
+			"messageCode": "CampaignStartInfo",
+			"messageText": "キャンペーンを開催しました。\nキャンペーン更新のため、一度ファームへ戻ります。"
+		},
+		{
+			"messageCode": "UserDontExistTitle",
+			"messageText": "存在しないユーザー"
+		},
+		{
+			"messageCode": "UserDontExistInfo",
+			"messageText": "存在しないユーザーです。"
+		},
+		{
+			"messageCode": "CaptureBonusTitle",
+			"messageText": "おまけ"
+		},
+		{
+			"messageCode": "CaptureBonusItem",
+			"messageText": "{0}×{1}を受け取った"
+		},
+		{
+			"messageCode": "CaptureBonusText",
+			"messageText": "アイテムはプレゼントBOXに贈られました"
+		},
+		{
+			"messageCode": "QuestEventInfo2",
+			"messageText": "クエストの解放期間が終了しています。"
+		},
+		{
+			"messageCode": "CampaignTipOff",
+			"messageText": "クラスタ\n{0}%OFF"
+		},
+		{
+			"messageCode": "GardenGrowMax",
+			"messageText": "これ以上育成できません"
+		},
+		{
+			"messageCode": "MealLvUp",
+			"messageText": "+Lv{0:000}"
+		},
+		{
+			"messageCode": "PicturebookProfile",
+			"messageText": "プロフィール"
+		},
+		{
+			"messageCode": "MissionRewardKakeru",
+			"messageText": "×"
+		},
+		{
+			"messageCode": "LeadReview01Title",
+			"messageText": "ＡＲＥＡ01クリアおめでとうございます！"
+		},
+		{
+			"messageCode": "LeadReview01Info",
+			"messageText": "AREA01クリア記念に、完全体デジモンをプレゼント！\nこの調子で、どんどんクエストをクリアしましょう！\nクリア記念に、レビューを書いてみませんか？"
+		},
+		{
+			"messageCode": "LeadReview02Title",
+			"messageText": "プレイ3日目！ありがとうございます！"
+		},
+		{
+			"messageCode": "LeadReview02Info",
+			"messageText": "いつもデジモンリンクスをプレイいただき\nありがとうございます！\nプレイの感想を、レビューでみんなに伝えませんか？"
+		},
+		{
+			"messageCode": "LeadReview03Title",
+			"messageText": "進化おめでとうございます！"
+		},
+		{
+			"messageCode": "LeadReview03Info",
+			"messageText": "進化したデジモンをさらに強化して\n自分だけのデジモンを育てましょう！\n進化の感動を、レビューでみんなに伝えませんか？"
+		},
+		{
+			"messageCode": "LeadReview04Title",
+			"messageText": "究極体進化おめでとうございます！"
+		},
+		{
+			"messageCode": "LeadReview04Info",
+			"messageText": "進化した究極体をさらに育てて、\n強力なデジモンで　強敵に挑みましょう！\n究極体進化の感動を、レビューでみんなに伝えませんか？"
+		},
+		{
+			"messageCode": "OtherHistoryNone",
+			"messageText": "履歴がありません"
+		},
+		{
+			"messageCode": "PointResultTextTap",
+			"messageText": "タップで切り替え"
+		},
+		{
+			"messageCode": "PointResultGetPoint",
+			"messageText": "獲得合計POINT"
+		},
+		{
+			"messageCode": "PointResultAllPoint",
+			"messageText": "累計POINT"
+		},
+		{
+			"messageCode": "PointResultNextReward",
+			"messageText": "次回POINT獲得報酬"
+		},
+		{
+			"messageCode": "PointResultTextPT",
+			"messageText": "PT"
+		},
+		{
+			"messageCode": "CharaIconLv",
+			"messageText": "Lv.{0}"
+		},
+		{
+			"messageCode": "QuestDetailsBoss",
+			"messageText": "ボスデジモン"
+		},
+		{
+			"messageCode": "QuestDetailsBossInfo",
+			"messageText": "▼タップで耐性表示"
+		},
+		{
+			"messageCode": "QuestDetailsDrop",
+			"messageText": "出現ドロップ"
+		},
+		{
+			"messageCode": "QuestDetailsDropInfo",
+			"messageText": "▼タップで詳細表示"
+		},
+		{
+			"messageCode": "QuestDetailsFirstClear",
+			"messageText": "初クリア報酬"
+		},
+		{
+			"messageCode": "QuestDetailsSoloButton",
+			"messageText": "ソロ"
+		},
+		{
+			"messageCode": "QuestDetailsMultiButton",
+			"messageText": "マルチ"
+		},
+		{
+			"messageCode": "SortRefine-01",
+			"messageText": "リーダースキル所持"
+		},
+		{
+			"messageCode": "SortRefine-02",
+			"messageText": "才能メダル付き"
+		},
+		{
+			"messageCode": "SortRefine-03",
+			"messageText": "攻撃系継承技"
+		},
+		{
+			"messageCode": "SortRefine-04",
+			"messageText": "補助系継承技"
+		},
+		{
+			"messageCode": "PartyFavoriteTitle",
+			"messageText": "登録完了"
+		},
+		{
+			"messageCode": "PartyFavoriteInfo",
+			"messageText": "お気に入りに登録しました"
+		},
+		{
+			"messageCode": "MultiRecruitChat-01",
+			"messageText": "送信可能なチャットがありません"
+		},
+		{
+			"messageCode": "MultiRecruitChat-02",
+			"messageText": "誘う"
+		},
+		{
+			"messageCode": "MultiRecruitChat-03",
+			"messageText": "全選択"
+		},
+		{
+			"messageCode": "MultiRecruitChat-04",
+			"messageText": "全解除"
+		},
+		{
+			"messageCode": "MultiRecruitChat-05",
+			"messageText": "送信完了"
+		},
+		{
+			"messageCode": "MultiRecruitChat-06",
+			"messageText": "参加依頼を送信しました"
+		},
+		{
+			"messageCode": "PartyMemberChange",
+			"messageText": "入れ替える"
+		},
+		{
+			"messageCode": "PartyChipTitle",
+			"messageText": "CHIP"
+		},
+		{
+			"messageCode": "SystemPlusCount",
+			"messageText": "+{0}"
+		},
+		{
+			"messageCode": "FriendshipUpTitle",
+			"messageText": "ステータスアップ！"
+		},
+		{
+			"messageCode": "MeatShortCutText1",
+			"messageText": "デジストーン{0}個使って、肉畑の収穫可能数を最大までふやしますか？"
+		},
+		{
+			"messageCode": "MeatShortCutText2",
+			"messageText": "肉畑の収穫可能数を最大まで増やしたとき、倉庫がいっぱいで収穫できません。それでも行いますか？"
+		},
+		{
+			"messageCode": "MeatShortCutText3",
+			"messageText": "既に肉畑は収穫できる最大数になっています。倉庫を拡張するか、デジヴァイスから食事を行ってください。"
+		},
+		{
+			"messageCode": "MeatShortCutTitle1",
+			"messageText": "肉畑時短"
+		},
+		{
+			"messageCode": "MeatShortCutTitle2",
+			"messageText": "肉畑時短"
+		},
+		{
+			"messageCode": "MeatShortCutTitle3",
+			"messageText": "肉畑時短"
+		},
+		{
+			"messageCode": "CharaDetailsGardenButton",
+			"messageText": "ガーデンへ"
+		},
+		{
+			"messageCode": "CharaDetailsEvolutionButton",
+			"messageText": "進化図へ"
+		},
+		{
+			"messageCode": "EvolutionDiagramTitle",
+			"messageText": "進化図"
+		},
+		{
+			"messageCode": "EvolutionDiagramAllButton",
+			"messageText": "ALL"
+		},
+		{
+			"messageCode": "EvolutionDiagramBefore",
+			"messageText": "進化元"
+		},
+		{
+			"messageCode": "EvolutionDiagramAfter",
+			"messageText": "進化先"
+		},
+		{
+			"messageCode": "EvolutionDiagramReturnTop",
+			"messageText": "進化図TOPへ"
+		},
+		{
+			"messageCode": "EvolutionDiagram3DButton",
+			"messageText": "全身表示"
+		},
+		{
+			"messageCode": "BattleUI-48",
+			"messageText": "獲得友情度【リーダー】"
+		},
+		{
+			"messageCode": "BattleUI-49",
+			"messageText": "獲得友情度"
+		},
+		{
+			"messageCode": "TicketQuestLeftNum",
+			"messageText": "あと{0}回"
+		},
+		{
+			"messageCode": "TicketGashaLineup",
+			"messageText": "出現チケット"
+		},
+		{
+			"messageCode": "PlayLimitQuestRestCT_1",
+			"messageText": "１日毎{0}/{1}回"
+		},
+		{
+			"messageCode": "PlayLimitQuestRestCT_2",
+			"messageText": "{0}/{1}回"
+		},
+		{
+			"messageCode": "PlayLimitQuestRestCT_3",
+			"messageText": "残{0}回"
+		},
+		{
+			"messageCode": "QuestPlayLimitNoneTitle",
+			"messageText": "残回数不足"
+		},
+		{
+			"messageCode": "QuestPlayLimitNoneInfo",
+			"messageText": "残回数が足りません。\nデジストーンを{0}個使用して回復しますか？\n残回数{1}->{2}"
+		},
+		{
+			"messageCode": "DigistoneShortageTitle",
+			"messageText": "デジストーン不足"
+		},
+		{
+			"messageCode": "QuestPlayLimitGoShop",
+			"messageText": "残回数を回復するためのデジストーンが\n足りません。"
+		},
+		{
+			"messageCode": "QuestPlayLimitTitle",
+			"messageText": "回数制限クエスト"
+		},
+		{
+			"messageCode": "QuestPlayLimitZeroInfo",
+			"messageText": "規定回数が終了しています。"
+		},
+		{
+			"messageCode": "TicketQuestTitle",
+			"messageText": "チケットクエスト"
+		},
+		{
+			"messageCode": "TicketQuestConfirmInfo",
+			"messageText": "チケットを使用して挑戦しますか？\n ※リタイアしてもチケットは消費されません\n{0}  {1}枚 ⇒ {2}枚"
+		},
+		{
+			"messageCode": "SystemUnowned",
+			"messageText": "不所持"
+		},
+		{
+			"messageCode": "DigistoneDetileText",
+			"messageText": "デジモンの復活やコンティニュー、レアキャプチャに必要"
+		},
+		{
+			"messageCode": "LinkPointDetileText",
+			"messageText": "リンクキャプチャをする際に使用するポイント"
+		},
+		{
+			"messageCode": "TipDetileText",
+			"messageText": "施設の建設や、デジモンの強化・進化などに必要"
+		},
+		{
+			"messageCode": "SortRefine-05",
+			"messageText": "リーダースキル不所持"
+		},
+		{
+			"messageCode": "SortRefine-06",
+			"messageText": "才能メダルなし"
+		},
+		{
+			"messageCode": "UseHQMeal",
+			"messageText": "特上肉をあげる"
+		},
+		{
+			"messageCode": "BuyHQMeal",
+			"messageText": "特上肉を買う"
+		},
+		{
+			"messageCode": "UseHQMealMessage",
+			"messageText": "特上肉を一つ使用します。\n現在のレベル、成長段階、覚醒値に問わずレベルが最大になりますがよろしいですか？"
+		},
+		{
+			"messageCode": "BuyHQMealMessage",
+			"messageText": "デジストーン{0}個を消費して、特上肉を与えます。\n現在のレベル、成長段階、覚醒値に問わずレベルが最大になりますがよろしいですか？"
+		},
+		{
+			"messageCode": "UseHQMealTitle",
+			"messageText": "特上肉使用"
+		},
+		{
+			"messageCode": "BuyHQMealTitle",
+			"messageText": "特上肉購入"
+		},
+		{
+			"messageCode": "QuestPlayLimitClear",
+			"messageText": "クリア"
+		},
+		{
+			"messageCode": "QuestPlayLimitBattle",
+			"messageText": "出撃"
+		},
+		{
+			"messageCode": "PlayLimitQuestRestNone",
+			"messageText": "本日の分は終了しました。"
+		},
+		{
+			"messageCode": "TicketQuestUpdateTime",
+			"messageText": "{0}入手"
+		},
+		{
+			"messageCode": "ConsumeUnitMonster",
+			"messageText": "体"
+		},
+		{
+			"messageCode": "ConsumeUnitTicket",
+			"messageText": "枚"
+		},
+		{
+			"messageCode": "ConsumeUnitPlugin",
+			"messageText": "個"
+		},
+		{
+			"messageCode": "NowColosseumScore",
+			"messageText": "獲得DP：{0}"
+		},
+		{
+			"messageCode": "ColosseumRankLabel",
+			"messageText": "{0}位"
+		},
+		{
+			"messageCode": "ColosseumRankingOfLastTime",
+			"messageText": "前回"
+		},
+		{
+			"messageCode": "ColosseumRankingOfThisTime",
+			"messageText": "今回"
+		},
+		{
+			"messageCode": "BattleUI-51",
+			"messageText": "残り [ffff00]{0}[-] ROUND"
+		},
+		{
+			"messageCode": "BattleUI-52",
+			"messageText": "[ff6600]残り[-] {0} [ff6600]ROUND[-]"
+		},
+		{
+			"messageCode": "BattleUI-53",
+			"messageText": "ROUND {0}"
+		},
+		{
+			"messageCode": "AgreementChangedInfo",
+			"messageText": "利用規約の変更がございます。"
+		},
+		{
+			"messageCode": "ColosseumTotalWinLabel",
+			"messageText": "通算勝利数"
+		},
+		{
+			"messageCode": "MyColosseumTotalWinNum",
+			"messageText": "{0}勝"
+		},
+		{
+			"messageCode": "NextRankupNum",
+			"messageText": "あと[FF8500FF]{0}[-]勝でランクアップ"
+		},
+		{
+			"messageCode": "BattleNotice-17",
+			"messageText": "リーダーチェンジ！！"
+		},
+		{
+			"messageCode": "BattleNotice-18",
+			"messageText": "リーダースキルなし"
+		},
+		{
+			"messageCode": "ColosseumRankListNeedTitle2",
+			"messageText": "必要勝利数"
+		},
+		{
+			"messageCode": "ColosseumRankListTotalWin",
+			"messageText": "現在の勝利数:"
+		},
+		{
+			"messageCode": "MedalInheritTitle",
+			"messageText": "才能開花"
+		},
+		{
+			"messageCode": "BaseSelect-09",
+			"messageText": "才能開花{0}デジモン選択"
+		},
+		{
+			"messageCode": "PartySortieLimitOK",
+			"messageText": "出撃可能"
+		},
+		{
+			"messageCode": "PartySortieLimitNG",
+			"messageText": "出撃不可"
+		},
+		{
+			"messageCode": "MedalInheritAlertTitle",
+			"messageText": "才能開花アラート！"
+		},
+		{
+			"messageCode": "MedalInheritAlertInfo",
+			"messageText": "パートナーデジモンが覚醒済みですが、\n本当に才能開花しますか？\n※才能開花を実行するとパートナーデジモンは\nいなくなります"
+		},
+		{
+			"messageCode": "MedalInheritEnterAlertInfo",
+			"messageText": "メダルを持っているデジモンがいません。"
+		},
+		{
+			"messageCode": "PartySortieLimitConfirmInfo",
+			"messageText": "出撃不可のデジモンが含まれています\n※ゲストが参加した場合出撃することができます。"
+		},
+		{
+			"messageCode": "SystemPercent",
+			"messageText": "{0}%"
+		},
+		{
+			"messageCode": "ColosseumRankingNextReward",
+			"messageText": "次の報酬まであと"
+		},
+		{
+			"messageCode": "AbilityAlertInfo",
+			"messageText": "才能開花を行いますがよろしいですか？\n※才能開花後はパートナーデジモンは消えます。"
+		},
+		{
+			"messageCode": "ColosseumListEmpty",
+			"messageText": "現在集計中です"
+		},
+		{
+			"messageCode": "MedalInherit_NoPossibility",
+			"messageText": "開花\n不可"
+		},
+		{
+			"messageCode": "EditUserTitle",
+			"messageText": "称号変更"
+		},
+		{
+			"messageCode": "CurrentUserTitle",
+			"messageText": "現在の称号"
+		},
+		{
+			"messageCode": "SelectedUserTitle",
+			"messageText": "選択中の称号"
+		},
+		{
+			"messageCode": "MedalInheritCautionChip",
+			"messageText": "パートナーに装備していたチップは\n消滅しました。"
+		},
+		{
+			"messageCode": "MedalInheritPrecautionChip",
+			"messageText": "※パートナーデジモンが装備しているチップは\n消滅してしまいます。"
+		},
+		{
+			"messageCode": "MedalInheritPrecautionRateZero",
+			"messageText": "※変化する可能性がない才能メダルが含まれています。"
+		},
+		{
+			"messageCode": "QuestLimited",
+			"messageText": "LIMITED"
+		},
+		{
+			"messageCode": "ColosseumRewardPercentage",
+			"messageText": "報酬BP {0}倍"
+		},
+		{
+			"messageCode": "ColosseumAllDayIconText",
+			"messageText": "一日中開催!!"
+		},
+		{
+			"messageCode": "ColosseumTitleOnEvent",
+			"messageText": "【イベント開催中!】"
+		},
+		{
+			"messageCode": "MedalInheritPrecautionGoldOver",
+			"messageText": "※金の才能メダルは、最大で{0}個までとなります。"
+		},
+		{
+			"messageCode": "Common02_menu_book",
+			"messageText": "図鑑"
+		},
+		{
+			"messageCode": "Common02_menu_Chat",
+			"messageText": "チャット"
+		},
+		{
+			"messageCode": "Common02_menu_ClearingH",
+			"messageText": "交換所"
+		},
+		{
+			"messageCode": "Common02_menu_Evolution",
+			"messageText": "進化"
+		},
+		{
+			"messageCode": "Common02_menu_Friend",
+			"messageText": "フレンド"
+		},
+		{
+			"messageCode": "Common02_menu_GASHA",
+			"messageText": "キャプチャ"
+		},
+		{
+			"messageCode": "Common02_menu_Help",
+			"messageText": "ヘルプ"
+		},
+		{
+			"messageCode": "Common02_menu_Notice",
+			"messageText": "お知らせ"
+		},
+		{
+			"messageCode": "Common02_menu_Nurture",
+			"messageText": "育成"
+		},
+		{
+			"messageCode": "Common02_menu_Others",
+			"messageText": "その他"
+		},
+		{
+			"messageCode": "Common02_menu_Party",
+			"messageText": "編成"
+		},
+		{
+			"messageCode": "Common02_menu_Profile",
+			"messageText": "プロフ"
+		},
+		{
+			"messageCode": "Common02_menu_Quest",
+			"messageText": "探索"
+		},
+		{
+			"messageCode": "Common02_menu_Setting",
+			"messageText": "設定"
+		},
+		{
+			"messageCode": "Common02_menu_Shop",
+			"messageText": "ショップ"
+		},
+		{
+			"messageCode": "Common02_menu_vs",
+			"messageText": "コロシアム"
+		},
+		{
+			"messageCode": "Farm_Chip_Installing",
+			"messageText": "装着"
+		},
+		{
+			"messageCode": "Farm_Chip_Reinforced",
+			"messageText": "強化"
+		},
+		{
+			"messageCode": "Farm02_Building_Arousal",
+			"messageText": "耐性変化"
+		},
+		{
+			"messageCode": "Farm02_Building_EvoBook",
+			"messageText": "進化図"
+		},
+		{
+			"messageCode": "Farm02_Building_Garden",
+			"messageText": "ガーデン"
+		},
+		{
+			"messageCode": "Farm02_Building_Information",
+			"messageText": "情報"
+		},
+		{
+			"messageCode": "Farm02_Building_Inheritance",
+			"messageText": "継承"
+		},
+		{
+			"messageCode": "Farm02_Building_List",
+			"messageText": "一覧"
+		},
+		{
+			"messageCode": "Farm02_Building_Meal",
+			"messageText": "食事"
+		},
+		{
+			"messageCode": "Farm02_Building_Mealget",
+			"messageText": "今すぐ収穫"
+		},
+		{
+			"messageCode": "Farm02_Building_plate",
+			"messageText": "募集板"
+		},
+		{
+			"messageCode": "Farm02_Building_Sale",
+			"messageText": "売却"
+		},
+		{
+			"messageCode": "Farm02_Building_Store",
+			"messageText": "しまう"
+		},
+		{
+			"messageCode": "Farm02_Building_study",
+			"messageText": "研究"
+		},
+		{
+			"messageCode": "Farm02_Building_Talent",
+			"messageText": "才能開花"
+		},
+		{
+			"messageCode": "Farm02_Building_Time",
+			"messageText": "時間短縮"
+		},
+		{
+			"messageCode": "Farm02_Building_Upgrade",
+			"messageText": "アップグレード"
+		},
+		{
+			"messageCode": "Farm02_closes",
+			"messageText": "閉じる"
+		},
+		{
+			"messageCode": "Farm02_D_ClearingH",
+			"messageText": "交換所"
+		},
+		{
+			"messageCode": "Farm02_D_Evolutio",
+			"messageText": "進化"
+		},
+		{
+			"messageCode": "Farm02_D_Nurture",
+			"messageText": "育成"
+		},
+		{
+			"messageCode": "Farm02_D_Party",
+			"messageText": "編成"
+		},
+		{
+			"messageCode": "Farm02_Farm1",
+			"messageText": "施設"
+		},
+		{
+			"messageCode": "Farm02_Farm2",
+			"messageText": "配置"
+		},
+		{
+			"messageCode": "Farm02_Farm3",
+			"messageText": "倉庫"
+		},
+		{
+			"messageCode": "Farm02_Farm4",
+			"messageText": "ショップ"
+		},
+		{
+			"messageCode": "Farm02_GASHA_missiontx",
+			"messageText": "ミッション"
+		},
+		{
+			"messageCode": "Farm02_GASHA_Present",
+			"messageText": "プレゼント"
+		},
+		{
+			"messageCode": "Farm02_gasyatx",
+			"messageText": "キャプチャ"
+		},
+		{
+			"messageCode": "farm02_Quest_tx",
+			"messageText": "探索"
+		},
+		{
+			"messageCode": "Farm02_Removal",
+			"messageText": "格納"
+		},
+		{
+			"messageCode": "Farm02_Save",
+			"messageText": "保存"
+		},
+		{
+			"messageCode": "Farm02_Vice",
+			"messageText": "デジヴァイス"
+		},
+		{
+			"messageCode": "Common02_text_Challenge",
+			"messageText": "チャレンジ"
+		},
+		{
+			"messageCode": "Common02_text_Luck",
+			"messageText": "運"
+		},
+		{
+			"messageCode": "Common02_text_Multi",
+			"messageText": "マルチ"
+		},
+		{
+			"messageCode": "Common02_txt_guest",
+			"messageText": "ゲスト"
+		},
+		{
+			"messageCode": "Common02_txt_owner",
+			"messageText": "オーナー"
+		},
+		{
+			"messageCode": "SuccessionCautionVersionUp",
+			"messageText": "※バージョンアップ済みのデジモンが含まれています"
+		},
+		{
+			"messageCode": "VersionUpTitle",
+			"messageText": "バージョンアップ"
+		},
+		{
+			"messageCode": "MissionTitleMidrange",
+			"messageText": "覚醒ミッション"
+		},
+		{
+			"messageCode": "AttributeResistance",
+			"messageText": "属性耐性"
+		},
+		{
+			"messageCode": "StatusResistance",
+			"messageText": "状態耐性"
+		},
+		{
+			"messageCode": "EvoItemList_VersionUp",
+			"messageText": "アップデータ"
+		},
+		{
+			"messageCode": "EvoItemList_CorePulgin",
+			"messageText": "コアプラグイン"
+		},
+		{
+			"messageCode": "EvoItemList_VerUpAttrChange",
+			"messageText": "リファクター"
+		},
+		{
+			"messageCode": "SkillInheritTitle1",
+			"messageText": "継承技１"
+		},
+		{
+			"messageCode": "SkillInheritTitle2",
+			"messageText": "継承技２"
+		},
+		{
+			"messageCode": "BaseSelect-10",
+			"messageText": "バージョンアップ{0}デジモン選択"
+		},
+		{
+			"messageCode": "VersionUpCannotVersionUp",
+			"messageText": "バージョンアップ対象のデジモンがいません。"
+		},
+		{
+			"messageCode": "EvoItemList_ItemNone",
+			"messageText": "対象の進化素材を所持していません"
+		},
+		{
+			"messageCode": "LaboratoryResearchAlertInfo2",
+			"messageText": "パートナーデジモンがバージョンアップ済みですが\n本当に研究しますか？\n※研究をするとパートナーデジモンは\nいなくなります"
+		},
+		{
+			"messageCode": "MedalInheritAlertInfo2",
+			"messageText": "パートナーデジモンがバージョンアップ済みですが、\n本当に才能開花しますか？\n※才能開花を実行するとパートナーデジモンは\nいなくなります"
+		},
+		{
+			"messageCode": "RemainingPlayCount",
+			"messageText": "残り回数 {0}"
+		},
+		{
+			"messageCode": "VersionUpAlertInfo",
+			"messageText": "バージョンアップを行いますがよろしいですか？\n※バージョンアップを行ってもデジタマには戻りません。"
+		},
+		{
+			"messageCode": "VersionUpInfo",
+			"messageText": "バージョンアップ！"
+		},
+		{
+			"messageCode": "VersionUpLevelAddInfo",
+			"messageText": "Lv上限 {0} －＞ {1}"
+		},
+		{
+			"messageCode": "VersionUpSkillAddInfo",
+			"messageText": "継承技スロット追加！"
+		},
+		{
+			"messageCode": "MissionRewardDetail",
+			"messageText": "報酬詳細"
+		},
+		{
+			"messageCode": "MissionRewardHiddenNum",
+			"messageText": "他{0}"
+		},
+		{
+			"messageCode": "SaleCautionVersionUp",
+			"messageText": "※バージョンアップ済みのデジモンが含まれています"
+		},
+		{
+			"messageCode": "ReinforcementCautionVersionUp",
+			"messageText": "※強化パートナーにバージョンアップ済みのデジモンが含まれています"
+		},
+		{
+			"messageCode": "LaboratoryResearchAlertInfo3",
+			"messageText": "ベースデジモンがバージョンアップ済みですが\n本当に研究しますか？\n※研究をすると追加された継承技2と\n変化した状態異常耐性は削除され覚醒+4の\nデジタマに戻りパートナーデジモンは\nいなくなります"
+		},
+		{
+			"messageCode": "Common02_txt_event_chip",
+			"messageText": "特効"
+		},
+		{
+			"messageCode": "SystemSlash",
+			"messageText": "/"
+		},
+		{
+			"messageCode": "CharaStatusType",
+			"messageText": "ステータス型："
+		},
+		{
+			"messageCode": "EvolutionStatusConfirm",
+			"messageText": "ステ確認"
+		},
+		{
+			"messageCode": "Mission-10",
+			"messageText": "以下の報酬がプレゼントに贈られました"
+		},
+		{
+			"messageCode": "ReinforcementLuckChance",
+			"messageText": "※運が上昇する可能性があります。"
+		},
+		{
+			"messageCode": "ReinforcementLuckMax",
+			"messageText": "※運は最大になっているため上昇しません。"
+		},
+		{
+			"messageCode": "AlMightySelectTitle",
+			"messageText": "素材選択"
+		},
+		{
+			"messageCode": "CharaDetailsResistanceNotice",
+			"messageText": "耐性変化で強化した耐性が重複しているため、進化の際にはランダムで耐性が一つ追加されます。"
+		},
+		{
+			"messageCode": "Farm02_Building_trade",
+			"messageText": "交換所\nTOP"
+		},
+		{
+			"messageCode": "ArousalNonVersionUpTitle",
+			"messageText": "バージョンアップ済みデジモン未所持"
+		},
+		{
+			"messageCode": "ArousalNonVersionUp",
+			"messageText": "状態耐性変化はバージョンアップ済みのデジモンが対象です"
+		},
+		{
+			"messageCode": "SystemFractionWide",
+			"messageText": "{0} / {1}"
+		},
+		{
+			"messageCode": "CharaIcon-05",
+			"messageText": "実行可"
+		},
+		{
+			"messageCode": "CharaIcon-06",
+			"messageText": "実行不可"
+		},
+		{
+			"messageCode": "VerUPPrecautionChip",
+			"messageText": "※装備中のチップは自動で取り外されます。"
+		},
+		{
+			"messageCode": "EvolutionDiagramVerUpNotice",
+			"messageText": "※V2デジモンの進化元は完全体以下は表示されません。"
+		},
+		{
+			"messageCode": "VersionUPCautionChip",
+			"messageText": "ベースに装備していたチップは、チップ一覧に格納されました。"
+		},
+		{
+			"messageCode": "OptionAutoTitle",
+			"messageText": "オート＆倍速設定を保存"
+		},
+		{
+			"messageCode": "OptionAutoText",
+			"messageText": "バトル終了時のオートと倍速の設定を次回のバトルでも継続します。"
+		},
+		{
+			"messageCode": "HitIconAttackUp",
+			"messageText": "ATK UP"
+		},
+		{
+			"messageCode": "HitIconAttackDown",
+			"messageText": "ATK DOWN"
+		},
+		{
+			"messageCode": "HitIconDefenceUp",
+			"messageText": "DEF UP"
+		},
+		{
+			"messageCode": "HitIconDefenceDown",
+			"messageText": "DEF DOWN"
+		},
+		{
+			"messageCode": "HitIconSpAttackUp",
+			"messageText": "S-ATK UP"
+		},
+		{
+			"messageCode": "HitIconSpAttackDown",
+			"messageText": "S-ATK DOWN"
+		},
+		{
+			"messageCode": "HitIconSpDefenceUp",
+			"messageText": "S-DEF UP"
+		},
+		{
+			"messageCode": "HitIconSpeedUp",
+			"messageText": "SPD UP"
+		},
+		{
+			"messageCode": "HitIconSpeedDown",
+			"messageText": "SPD DOWN"
+		},
+		{
+			"messageCode": "HitIconCorrectionUpReset",
+			"messageText": "補正UPクリア"
+		},
+		{
+			"messageCode": "HitIconCorrectionDownReset",
+			"messageText": "補正DOWNクリア"
+		},
+		{
+			"messageCode": "HitIconHpRevival",
+			"messageText": "HP回復"
+		},
+		{
+			"messageCode": "HitIconCounter",
+			"messageText": "カウンター"
+		},
+		{
+			"messageCode": "HitIconReflection",
+			"messageText": "リフレクション"
+		},
+		{
+			"messageCode": "HitIconProtect",
+			"messageText": "かばう"
+		},
+		{
+			"messageCode": "HitIconHateUp",
+			"messageText": "ヘイトUP"
+		},
+		{
+			"messageCode": "HitIconHateDown",
+			"messageText": "ヘイトDOWN"
+		},
+		{
+			"messageCode": "HitIconPowerCharge",
+			"messageText": "ちから溜め"
+		},
+		{
+			"messageCode": "HitIconDestruct",
+			"messageText": "自爆"
+		},
+		{
+			"messageCode": "HitIconParalysis",
+			"messageText": "マヒ"
+		},
+		{
+			"messageCode": "HitIconPoison",
+			"messageText": "毒"
+		},
+		{
+			"messageCode": "HitIconSleep",
+			"messageText": "眠り"
+		},
+		{
+			"messageCode": "HitIconSkillLock",
+			"messageText": "スキルロック"
+		},
+		{
+			"messageCode": "HitIconHitRateUp",
+			"messageText": "命中率UP"
+		},
+		{
+			"messageCode": "HitIconHitRateDown",
+			"messageText": "命中率DOWN"
+		},
+		{
+			"messageCode": "HitIconInstantDeath",
+			"messageText": "即死"
+		},
+		{
+			"messageCode": "HitIconConfusion",
+			"messageText": "混乱"
+		},
+		{
+			"messageCode": "HitIconStun",
+			"messageText": "スタン"
+		},
+		{
+			"messageCode": "HitIconSufferStatusClear",
+			"messageText": "状態異常クリア"
+		},
+		{
+			"messageCode": "HitIconSatisfactionRateUp",
+			"messageText": "CRITICAL UP"
+		},
+		{
+			"messageCode": "HitIconSatisfactionRateDown",
+			"messageText": "CRITICAL DOWN"
+		},
+		{
+			"messageCode": "HitIconApRevival",
+			"messageText": "APブースター"
+		},
+		{
+			"messageCode": "HitIconApUp",
+			"messageText": "AP UP"
+		},
+		{
+			"messageCode": "HitIconApDown",
+			"messageText": "AP DOWN"
+		},
+		{
+			"messageCode": "HitIconApConsumptionUp",
+			"messageText": "AP消費UP"
+		},
+		{
+			"messageCode": "HitIconApConsumptionDown",
+			"messageText": "AP消費DOWN"
+		},
+		{
+			"messageCode": "HitIconCountGuard",
+			"messageText": "ガード"
+		},
+		{
+			"messageCode": "HitIconTurnBarrier",
+			"messageText": "無敵"
+		},
+		{
+			"messageCode": "HitIconCountBarrier",
+			"messageText": "無敵"
+		},
+		{
+			"messageCode": "HitIconInvalid",
+			"messageText": "無効"
+		},
+		{
+			"messageCode": "HitIconDamageRateUp",
+			"messageText": "ダメージ補正UP"
+		},
+		{
+			"messageCode": "HitIconDamageRateDown",
+			"messageText": "ダメージ補正DOWN"
+		},
+		{
+			"messageCode": "HitIconRegenerate",
+			"messageText": "HP回復"
+		},
+		{
+			"messageCode": "HitIconTurnEvasion",
+			"messageText": "回避"
+		},
+		{
+			"messageCode": "HitIconCountEvasion",
+			"messageText": "回避"
+		},
+		{
+			"messageCode": "HitIconApDrain",
+			"messageText": "AP吸収"
+		},
+		{
+			"messageCode": "HitIconStageEffectUp",
+			"messageText": "特効ボーナスUP"
+		},
+		{
+			"messageCode": "HitIconStageEffectDown",
+			"messageText": "特効ボーナスDOWN"
+		},
+		{
+			"messageCode": "HitIconStrong",
+			"messageText": "効果半減"
+		},
+		{
+			"messageCode": "HitIconWeak",
+			"messageText": "効果抜群"
+		},
+		{
+			"messageCode": "HitIconDrain",
+			"messageText": "ドレイン"
+		},
+		{
+			"messageCode": "HitIconCritical",
+			"messageText": "CRITICAL"
+		},
+		{
+			"messageCode": "HitIconMiss",
+			"messageText": "MISS"
+		},
+		{
+			"messageCode": "ResultUnitLimitOver",
+			"messageText": "ハウスのデジモンの所持数が上限に達しているため\nクエストに入れません\nハウスをアップグレードするか\n強化・お別れをして所持数を空けて下さい。"
+		},
+		{
+			"messageCode": "ResultChipLimitOver",
+			"messageText": "チップ工場のチップ所持数が上限に達しているため\nクエストに入れません\n強化・売却をして所持数を空けて下さい。"
+		},
+		{
+			"messageCode": "PresentRecieveResultCode-90",
+			"messageText": "受け取り期限が切れたアイテムが含まれているので\n取得ができませんでした。\nアイテムボックスを再読み込みして、\nもう一度お試しください。"
+		},
+		{
+			"messageCode": "PresentRecieveResultCode-91",
+			"messageText": "アイテムが存在しません。\n既に受け取り済みの可能性があります。\nアイテムボックスを再読み込みして、\nもう一度お試しください。"
+		},
+		{
+			"messageCode": "PresentRecieveResultCode-92",
+			"messageText": "リクエストが不正なため、\n受け取りを実行できませんでした。\nアイテムボックスを再読み込みして、\nもう一度お試しください。"
+		},
+		{
+			"messageCode": "Present-13",
+			"messageText": "プレゼント受け取り失敗"
+		},
+		{
+			"messageCode": "ResultUnitAndChipLimitOver",
+			"messageText": "デジモンとチップの所持数が上限に達しているため\nクエストに入れません\nハウスやチップ工場から所持数を空けて下さい。"
+		},
+		{
+			"messageCode": "GoToFarm",
+			"messageText": "ファームへ"
+		},
+		{
+			"messageCode": "ColosseumRankAGroup",
+			"messageText": "現ランク直近{0}戦 勝率{1}%"
+		},
+		{
+			"messageCode": "ColosseumRankRewardTitle",
+			"messageText": "ランキング報酬"
+		},
+		{
+			"messageCode": "ColosseumInterimRankRewardName",
+			"messageText": "中間ランキング報酬"
+		},
+		{
+			"messageCode": "ColosseumNotice-1",
+			"messageText": "一定期間DPの変動がなかったため、\nランクが降格しました"
+		},
+		{
+			"messageCode": "ChatLeaveTitle",
+			"messageText": "強制退出確認"
+		},
+		{
+			"messageCode": "ChatLeaveText",
+			"messageText": "以下のユーザーを強制退出させますか？"
+		},
+		{
+			"messageCode": "ChatLeaveAdvice",
+			"messageText": "[FF0000]※このユーザーを再度チャットに追加したくない場合は\nブロックリストに追加してください。[-]"
+		},
+		{
+			"messageCode": "ChatMemberKickTitle",
+			"messageText": "キック確認"
+		},
+		{
+			"messageCode": "ChatMemberKickText",
+			"messageText": "ユーザーをチャットから退出させました。"
+		},
+		{
+			"messageCode": "ChatMemberKick",
+			"messageText": "{0}さんをマスターが退出させました"
+		},
+		{
+			"messageCode": "ChatMemberKickNotice",
+			"messageText": "マスターによって退出させられました"
+		},
+		{
+			"messageCode": "ColosseumDeckTitle",
+			"messageText": "コロシアムパーティ編成"
+		},
+		{
+			"messageCode": "ColosseumDeckColosseumParty",
+			"messageText": "コロシアムパーティ"
+		},
+		{
+			"messageCode": "ColosseumDeckChangeMonster",
+			"messageText": "パーティ変更"
+		},
+		{
+			"messageCode": "PartyEditQuestParty",
+			"messageText": "クエストパーティ"
+		},
+		{
+			"messageCode": "PartyEditColosseumButton",
+			"messageText": "コロシアム"
+		},
+		{
+			"messageCode": "MultiParticipateAgainAlert",
+			"messageText": "チケットクエストでは\nもう一度参加することはできません。"
+		},
+		{
+			"messageCode": "ColosseumDeckQuestButton",
+			"messageText": "クエスト"
+		},
+		{
+			"messageCode": "MultiAgainAlertYetClearTitle",
+			"messageText": "未開放クエスト"
+		},
+		{
+			"messageCode": "MultiAgainAlertYetClearInfo",
+			"messageText": "未開放のクエストは\nもう一度からプレイすることはできません。"
+		},
+		{
+			"messageCode": "SellRecoverItem",
+			"messageText": "欠片がプレゼントボックスに送られました。"
+		},
+		{
+			"messageCode": "ChatLeaveBtn",
+			"messageText": "強制退出"
+		},
+		{
+			"messageCode": "ColosseumDeckConfirmInfo",
+			"messageText": "全て編成されていない場合、\nコロシアムに参加はできません。\n戻りますか？"
+		},
+		{
+			"messageCode": "HitIconRecommand",
+			"messageText": "再行動"
+		},
+		{
+			"messageCode": "PvPMonsterSelectButtonOn",
+			"messageText": "出撃"
+		},
+		{
+			"messageCode": "PvPMonsterSelectButtonOff",
+			"messageText": "準備完了"
+		},
+		{
+			"messageCode": "HitIconSpDefenceDown",
+			"messageText": "S-DEF DOWN"
+		},
+		{
+			"messageCode": "RankupReward",
+			"messageText": "ランクアップ報酬"
+		},
+		{
+			"messageCode": "WinReward",
+			"messageText": "勝利報酬"
+		},
+		{
+			"messageCode": "ParicipationReward",
+			"messageText": "参加報酬"
+		},
+		{
+			"messageCode": "PVPMatchingWait",
+			"messageText": "マッチング中"
+		},
+		{
+			"messageCode": "PVPMatchingWaitFinish",
+			"messageText": "マッチング完了"
+		},
+		{
+			"messageCode": "AnimTxt_LevelUP",
+			"messageText": "LevelUP"
+		},
+		{
+			"messageCode": "AnimTxt_LuckUp",
+			"messageText": "運UP"
+		},
+		{
+			"messageCode": "AnimTxt_Resistance",
+			"messageText": "耐性変化完了"
+		},
+		{
+			"messageCode": "AnimTxt_Research",
+			"messageText": "研究完了"
+		},
+		{
+			"messageCode": "AnimTxt_TalentBloom",
+			"messageText": "才能開花"
+		},
+		{
+			"messageCode": "AnimTxt_Inheritance",
+			"messageText": "継承完了"
+		},
+		{
+			"messageCode": "AnimTxt_Awakening",
+			"messageText": "覚醒完了"
+		},
+		{
+			"messageCode": "AnimTxt_Evolution",
+			"messageText": "進化完了"
+		},
+		{
+			"messageCode": "AnimTxt_ModeChange",
+			"messageText": "モードチェンジ"
+		},
+		{
+			"messageCode": "AnimTxt_Jogless",
+			"messageText": "ジョグレス完了"
+		},
+		{
+			"messageCode": "AnimTxt_StageClear",
+			"messageText": "Stage Clear!"
+		},
+		{
+			"messageCode": "AnimTxt_MissionClear",
+			"messageText": "Mission Clear!"
+		},
+		{
+			"messageCode": "AnimTxt_VersionUP",
+			"messageText": "Version UP!!"
+		},
+		{
+			"messageCode": "ChatCategori_Interact",
+			"messageText": "【 その他 】"
+		},
+		{
+			"messageCode": "ChatCategori_Capture",
+			"messageText": "【 攻略 】"
+		},
+		{
+			"messageCode": "ChatCategori_Chat",
+			"messageText": "【 雑談 】"
+		},
+		{
+			"messageCode": "ChatCategori_Interact2",
+			"messageText": "【 交流 】"
+		},
+		{
+			"messageCode": "Status_target",
+			"messageText": "対象"
+		},
+		{
+			"messageCode": "Status_Editting",
+			"messageText": "編成中"
+		},
+		{
+			"messageCode": "Status_Equipment",
+			"messageText": "装着中"
+		},
+		{
+			"messageCode": "ListUsertype_You",
+			"messageText": "あなた"
+		},
+		{
+			"messageCode": "ListUsertype_Muilti",
+			"messageText": "マルチ"
+		},
+		{
+			"messageCode": "ListUsertype_TestMatch",
+			"messageText": "模擬戦"
+		},
+		{
+			"messageCode": "ListUsertype_Blocked",
+			"messageText": "ブロック"
+		},
+		{
+			"messageCode": "Thumbneil_Badge_Inheritance",
+			"messageText": "継承技"
+		},
+		{
+			"messageCode": "Thumbneil_Badge_LeaderSkill",
+			"messageText": "リーダーS"
+		},
+		{
+			"messageCode": "Ranking_NowPosition",
+			"messageText": "今ココ!"
+		},
+		{
+			"messageCode": "ConstructionFinish",
+			"messageText": "建設完了"
+		},
+		{
+			"messageCode": "UIAnimation_AwakeningUP",
+			"messageText": "覚醒UP"
+		},
+		{
+			"messageCode": "UIAnimation_LuckUP",
+			"messageText": "運UP"
+		},
+		{
+			"messageCode": "UIAnimation_DurabilityChange",
+			"messageText": "耐性変化"
+		},
+		{
+			"messageCode": "RankupRewardTitle",
+			"messageText": "ランクアップ報酬"
+		},
+		{
+			"messageCode": "RankingRewardTitle",
+			"messageText": "ランキング報酬"
+		},
+		{
+			"messageCode": "WinningRewardTitle",
+			"messageText": "勝利報酬"
+		},
+		{
+			"messageCode": "FirstClearRewardTitle",
+			"messageText": "初クリア報酬"
+		},
+		{
+			"messageCode": "ListUsertype_Master",
+			"messageText": "MASTER"
+		},
+		{
+			"messageCode": "gimmickDOWN",
+			"messageText": "効果"
+		},
+		{
+			"messageCode": "gimmickUP",
+			"messageText": "効果"
+		},
+		{
+			"messageCode": "PartyEdit_Boss",
+			"messageText": "ボス"
+		},
+		{
+			"messageCode": "Tribe_Blazing",
+			"messageText": "陽炎系"
+		},
+		{
+			"messageCode": "Tribe_Glacier",
+			"messageText": "氷河系"
+		},
+		{
+			"messageCode": "Tribe_Earth",
+			"messageText": "大地系"
+		},
+		{
+			"messageCode": "Tribe_Electric",
+			"messageText": "電磁系"
+		},
+		{
+			"messageCode": "Tribe_Abyss",
+			"messageText": "深淵系"
+		},
+		{
+			"messageCode": "Tribe_Radiant",
+			"messageText": "光芒系"
+		},
+		{
+			"messageCode": "Tribe_Phantom",
+			"messageText": "幻生系"
+		},
+		{
+			"messageCode": "Status_Gimmick",
+			"messageText": "効果"
+		},
+		{
+			"messageCode": "Battle_StageEffects",
+			"messageText": "ステージ効果"
+		},
+		{
+			"messageCode": "Friendship",
+			"messageText": "友情度+"
+		},
+		{
+			"messageCode": "Battle_ChipEffects",
+			"messageText": "チップ効果発動"
+		},
+		{
+			"messageCode": "BattleTxtPreeminent",
+			"messageText": "効果抜群"
+		},
+		{
+			"messageCode": "BattleTxtHalf",
+			"messageText": "効果半減"
+		},
+		{
+			"messageCode": "BattleTxtStageEffDown",
+			"messageText": "ステージ効果"
+		},
+		{
+			"messageCode": "BattleTxtStageEffUp",
+			"messageText": "ステージ効果"
+		},
+		{
+			"messageCode": "BattleTxtDamageDrain",
+			"messageText": "ダメージ吸収"
+		},
+		{
+			"messageCode": "Battle_Target",
+			"messageText": "TARGET"
+		},
+		{
+			"messageCode": "Battle_Attack1",
+			"messageText": "実行"
+		},
+		{
+			"messageCode": "Battle_Attack2",
+			"messageText": "EXECUTION"
+		},
+		{
+			"messageCode": "Battle_Strong",
+			"messageText": "有利"
+		},
+		{
+			"messageCode": "Battle_Absorb",
+			"messageText": "吸収"
+		},
+		{
+			"messageCode": "Battle_Weak",
+			"messageText": "不利"
+		},
+		{
+			"messageCode": "FirstLinkRewardTitle",
+			"messageText": "初リンクボーナス"
+		},
+		{
+			"messageCode": "WeeklyRewardTitle",
+			"messageText": "WEEKLY報酬"
+		},
+		{
+			"messageCode": "ReadyToPlay",
+			"messageText": "準備完了"
+		},
+		{
+			"messageCode": "PVP_SimulatedGame",
+			"messageText": "模擬戦"
+		},
+		{
+			"messageCode": "MultiRewardTitle",
+			"messageText": "マルチ報酬"
+		},
+		{
+			"messageCode": "PVP_NationwideBattle",
+			"messageText": "全国バトル"
+		},
+		{
+			"messageCode": "PVP_RankingBtn",
+			"messageText": "ランキング"
+		},
+		{
+			"messageCode": "MultiMemberRecruit",
+			"messageText": "参加者募集中"
+		},
+		{
+			"messageCode": "PVP_RewardBtn",
+			"messageText": "報酬"
+		},
+		{
+			"messageCode": "BattleUI_MenuBtn",
+			"messageText": "MENU"
+		},
+		{
+			"messageCode": "BattleUI_GiveUpBtn",
+			"messageText": "降参"
+		},
+		{
+			"messageCode": "ChatWindowMenu",
+			"messageText": "MENU"
+		},
+		{
+			"messageCode": "ChatWindowBack",
+			"messageText": "もどる"
+		},
+		{
+			"messageCode": "BattleStatus_StageGimmick",
+			"messageText": "特効ボーナス"
+		},
+		{
+			"messageCode": "BattleAnim_StageEffect",
+			"messageText": "ステージ効果発動!!"
+		},
+		{
+			"messageCode": "BattleAnim_GimmickBonus",
+			"messageText": "特効ボーナス発動!!"
+		},
+		{
+			"messageCode": "BattleTextStageGimmicDown",
+			"messageText": "ステージ効果\nDOWN"
+		},
+		{
+			"messageCode": "BattleTextStageGimmicUp",
+			"messageText": "特効ボーナス\nUP"
+		},
+		{
+			"messageCode": "PopupToQuest",
+			"messageText": "探索へ"
+		},
+		{
+			"messageCode": "PopupToShop",
+			"messageText": "ショップへ"
+		},
+		{
+			"messageCode": "PopupToGasha",
+			"messageText": "キャプチャへ"
+		},
+		{
+			"messageCode": "ExchangeSkillTypeDetile",
+			"messageText": "※[ff3300]タイプ{0}の固有技[-]を所持したデジモンです[詳細はお知らせに]"
+		},
+		{
+			"messageCode": "BattleTextActivateChipEffect",
+			"messageText": "チップ効果発動"
+		},
+		{
+			"messageCode": "QuestNonSpList",
+			"messageText": "なし"
+		},
+		{
+			"messageCode": "StorePackItemBuyLimit",
+			"messageText": "残り購入可能回数 {0}/{1}"
+		},
+		{
+			"messageCode": "StorePackItemAlert-01",
+			"messageText": "※おまけはプレゼントボックスへ送られます"
+		},
+		{
+			"messageCode": "NewsListEmpty",
+			"messageText": "現在お知らせはありません。"
+		},
+		{
+			"messageCode": "EquipUserTitle",
+			"messageText": "装着する"
+		},
+		{
+			"messageCode": "OptionLanguageTitle",
+			"messageText": "言語設定"
+		},
+		{
+			"messageCode": "OptionLanguageBtn",
+			"messageText": "変更"
+		},
+		{
+			"messageCode": "OptionLanguage_1",
+			"messageText": "日本語"
+		},
+		{
+			"messageCode": "OptionLanguage_2",
+			"messageText": "英語"
+		},
+		{
+			"messageCode": "OptionLanguage_3",
+			"messageText": "繁体字"
+		},
+		{
+			"messageCode": "OptionLanguage_4",
+			"messageText": "韓国語"
+		},
+		{
+			"messageCode": "SystemItem",
+			"messageText": "アイテム"
+		},
+		{
+			"messageCode": "Stamina",
+			"messageText": "スタミナ"
+		},
+		{
+			"messageCode": "BtnSpecialEffect",
+			"messageText": "特効"
+		},
+		{
+			"messageCode": "BtnSpecialEffectActivated",
+			"messageText": "発動中!"
+		},
+		{
+			"messageCode": "LoginBonus",
+			"messageText": "ログインボーナス"
+		},
+		{
+			"messageCode": "TitleStatusEquip",
+			"messageText": "装着中"
+		},
+		{
+			"messageCode": "AnimTxt_BloomFailed",
+			"messageText": "開花失敗"
+		},
+		{
+			"messageCode": "AnimTxt_Combine",
+			"messageText": "合体完了"
+		},
+		{
+			"messageCode": "PVPSortieMemberSelect",
+			"messageText": "出撃メンバー選択"
+		},
+		{
+			"messageCode": "Facebook_LoginBtn",
+			"messageText": "Facebookアカウントと連携"
+		},
+		{
+			"messageCode": "Facebook_ConfirmTitle",
+			"messageText": "Facebook連携確認"
+		},
+		{
+			"messageCode": "Facebook_ConfirmExit",
+			"messageText": "Facebookアカウントを利用して\n連携しますか？"
+		},
+		{
+			"messageCode": "Facebook_ConfirmText",
+			"messageText": "Facebook連携に失敗しました\n通信が良い所でもう一度お試しください"
+		},
+		{
+			"messageCode": "Facebook_LogoutBtn",
+			"messageText": "Facebook連携中"
+		},
+		{
+			"messageCode": "Facebook_ReleaseTitle",
+			"messageText": "Facebook連携解除確認"
+		},
+		{
+			"messageCode": "Facebook_ReleaseText",
+			"messageText": "Facebookとの連携を解除しますか？"
+		},
+		{
+			"messageCode": "Facebook_UserId",
+			"messageText": "[ff0000]{0}[-][000000]で連携中[-]"
+		},
+		{
+			"messageCode": "Facebook_TimeOut",
+			"messageText": "Facebook連携解除に失敗しました\n通信が良い所でもう一度お試しください"
+		},
+		{
+			"messageCode": "Facebook_TakeOver",
+			"messageText": "データ引き継ぎ確認"
+		},
+		{
+			"messageCode": "Facebook_UserData",
+			"messageText": "Facebookアカウントは、以下のユーザーデータと紐づけされています。"
+		},
+		{
+			"messageCode": "Facebook_TakeOverText1",
+			"messageText": "上記ユーザーでプレイしますか？\n現在プレイ中のデータではプレイできなくなります。"
+		},
+		{
+			"messageCode": "Facebook_TakeOverText2",
+			"messageText": "[ff0000]異なるOS間でデータ引き継ぎを行う場合、引き継ぎ元に残っているデジストーンは引き継がれません。アイテム等を購入して、デジストーンを消費することをおすすめいたします。[-]"
+		},
+		{
+			"messageCode": "Facebook_TakeOverText3",
+			"messageText": "新端末でゲームデータを引き継ぐと、旧端末ではプレイができなくなります。"
+		},
+		{
+			"messageCode": "Facebook_TakeOverText4",
+			"messageText": "引き継ぎを行ってよろしいですか？"
+		},
+		{
+			"messageCode": "Facebook_TakeOverText5",
+			"messageText": "Facebookに紐づいたデータがありません。\nその他の引き継ぎ方法をお試しください。"
+		},
+		{
+			"messageCode": "Inquiry_SampleText",
+			"messageText": "▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\n【発生日時】\n\n【発生した現象の詳細】（どの画面で何をしたらどうなったか）\n\n▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\nお問い合わせコード:%s\nデバイス: %s\nOSバージョン：%s %s\nアプリバージョン：%s\nユーザーエージェント: %s"
+		},
+		{
+			"messageCode": "Present-14",
+			"messageText": "おまけ"
+		},
+		{
+			"messageCode": "Present-15",
+			"messageText": "ミッション達成"
+		},
+		{
+			"messageCode": "Present-16",
+			"messageText": "お別れの際に手に入れたアイテムです"
+		},
+		{
+			"messageCode": "RankingDefaultName",
+			"messageText": "リンクス"
+		},
+		{
+			"messageCode": "Present-17",
+			"messageText": "%s日継続ボーナス"
+		},
+		{
+			"messageCode": "Present-18",
+			"messageText": "ショップ交換"
+		},
+		{
+			"messageCode": "Present-19",
+			"messageText": "ショップ購入"
+		},
+		{
+			"messageCode": "Present-20",
+			"messageText": "スペシャルチャレンジ報酬"
+		},
+		{
+			"messageCode": "MyProfile-17",
+			"messageText": "よろしくお願いします。"
+		},
+		{
+			"messageCode": "Present-21",
+			"messageText": "交換所引き換え"
+		},
+		{
+			"messageCode": "GashaTextRareLow",
+			"messageText": "激レア"
+		},
+		{
+			"messageCode": "GashaTextRareMiddle",
+			"messageText": "超激レア"
+		},
+		{
+			"messageCode": "GashaTextRareHigh",
+			"messageText": "超絶レア"
+		},
+		{
+			"messageCode": "GashaTextGrowChild1",
+			"messageText": "幼年期"
+		},
+		{
+			"messageCode": "GashaTextGrowGrowth",
+			"messageText": "成長期"
+		},
+		{
+			"messageCode": "GashaTextGrowMature",
+			"messageText": "成熟期"
+		},
+		{
+			"messageCode": "GashaTextGrowPerfect",
+			"messageText": "完全体"
+		},
+		{
+			"messageCode": "GashaTextGrowUltimate",
+			"messageText": "究極体"
+		},
+		{
+			"messageCode": "GashaTextTypeArmor",
+			"messageText": "アーマー体"
+		},
+		{
+			"messageCode": "GashaTextTypeHybrid",
+			"messageText": "ハイブリッド体"
+		},
+		{
+			"messageCode": "AwakeningText",
+			"messageText": "覚醒"
+		},
+		{
+			"messageCode": "GashaTextGrowChild2",
+			"messageText": "幼年期Ⅱ"
+		},
+		{
+			"messageCode": "MealExcution_txt",
+			"messageText": "完了"
+		},
+		{
+			"messageCode": "BossIconList_txt",
+			"messageText": "タップで耐性表示"
+		},
+		{
+			"messageCode": "ListPartsMultiRecruitlist_txt",
+			"messageText": "メンバー募集"
+		},
+		{
+			"messageCode": "Battle_UI_Root_txt5",
+			"messageText": "ショップへ移動"
+		},
+		{
+			"messageCode": "AlertDialog_battle_txt",
+			"messageText": "メンバーの通信が切断されたので\n復帰を待ちます\nあと{0}秒"
+		},
+		{
+			"messageCode": "PartsStatusElement3_txt",
+			"messageText": "チップ"
+		},
+		{
+			"messageCode": "NormalLogin_txt",
+			"messageText": "今日のボーナス"
+		},
+		{
+			"messageCode": "NormalLogin_txt2",
+			"messageText": "次回のボーナス"
+		},
+		{
+			"messageCode": "ProfileFriend_txt",
+			"messageText": "未参加"
+		},
+		{
+			"messageCode": "ProfileFriend_txt2",
+			"messageText": "最終ログイン"
+		},
+		{
+			"messageCode": "ProfileFriend_txt3",
+			"messageText": "戦歴"
+		},
+		{
+			"messageCode": "ChatInvitation_txt",
+			"messageText": "招待"
+		},
+		{
+			"messageCode": "VersionUP_txt",
+			"messageText": "Lv上限"
+		},
+		{
+			"messageCode": "VersionUP_txt2",
+			"messageText": "必要素材"
+		},
+		{
+			"messageCode": "CMDWebWindowPopup_txt",
+			"messageText": "次の更新まで表示しない"
+		},
+		{
+			"messageCode": "Present-22",
+			"messageText": "ステージクリア報酬"
+		},
+		{
+			"messageCode": "PVPPartySelect3_txt",
+			"messageText": "ステ\n切替"
+		},
+		{
+			"messageCode": "PVPPartySelect3_txt2",
+			"messageText": "相手のパーティ"
+		},
+		{
+			"messageCode": "PVPPartySelect3_txt4",
+			"messageText": "あと"
+		},
+		{
+			"messageCode": "PVPPartySelect3_txt5",
+			"messageText": "コロシアム用パーティ"
+		},
+		{
+			"messageCode": "PlayHistory_txt",
+			"messageText": "0000戦"
+		},
+		{
+			"messageCode": "PartsMenu_txt",
+			"messageText": "d MMMM yyyy 'at' H:mm"
+		},
+		{
+			"messageCode": "FacilityShop_txt",
+			"messageText": "建築数:"
+		},
+		{
+			"messageCode": "FacilityShop_txt2",
+			"messageText": "建築時間:"
+		},
+		{
+			"messageCode": "ClearingHouse_txt",
+			"messageText": "交換個数"
+		},
+		{
+			"messageCode": "PartsStatusSkill_txt",
+			"messageText": "継承技2"
+		},
+		{
+			"messageCode": "ListPartsChatGroup_txt",
+			"messageText": "【攻略】"
+		},
+		{
+			"messageCode": "ListPartsTicketQuest_txt",
+			"messageText": "所持数"
+		},
+		{
+			"messageCode": "CMD_QuestMultiDetailedPOP_txt",
+			"messageText": "▼タップで耐性表示"
+		},
+		{
+			"messageCode": "CMD_QuestMultiDetailedPOP_txt2",
+			"messageText": "▼タップで詳細表示"
+		},
+		{
+			"messageCode": "CMD_QuestMultiDetailedPOP_txt4",
+			"messageText": "表示切替"
+		},
+		{
+			"messageCode": "CMD_QuestMultiDetailedPOP_txt5",
+			"messageText": "マルチ"
+		},
+		{
+			"messageCode": "BackupModalGoogle",
+			"messageText": "Google Playで引き継ぐ"
+		},
+		{
+			"messageCode": "BackupModaliCloud",
+			"messageText": "iCloudで引き継ぎ"
+		},
+		{
+			"messageCode": "ColosseumTopLimit",
+			"messageText": "制限"
+		},
+		{
+			"messageCode": "GashaTOP_txt",
+			"messageText": "Pt"
+		},
+		{
+			"messageCode": "Cutscenes_Screen_txt",
+			"messageText": "- TAP SCREEN -"
+		},
+		{
+			"messageCode": "GardenList_txt",
+			"messageText": "+"
+		},
+		{
+			"messageCode": "GardenList_txt2",
+			"messageText": "="
+		},
+		{
+			"messageCode": "Parts_LevelUp_txt",
+			"messageText": "LevelUP"
+		},
+		{
+			"messageCode": "TutorialUI_txt",
+			"messageText": "SKIP"
+		},
+		{
+			"messageCode": "TutorialMessageWindow_txt",
+			"messageText": "TAP"
+		},
+		{
+			"messageCode": "Cutscenes_Skip_txt",
+			"messageText": "ALL SKIP"
+		},
+		{
+			"messageCode": "New_txt",
+			"messageText": "NEW"
+		},
+		{
+			"messageCode": "Percent_txt",
+			"messageText": "～%"
+		},
+		{
+			"messageCode": "Battle_UI_Root_txt",
+			"messageText": "ATTACK"
+		},
+		{
+			"messageCode": "Battle_UI_Root_txt2",
+			"messageText": "Leader"
+		},
+		{
+			"messageCode": "Battle_UI_Root_txt3",
+			"messageText": "Auto"
+		},
+		{
+			"messageCode": "Battle_UI_Root_txt4",
+			"messageText": "×２"
+		},
+		{
+			"messageCode": "HUD_txt",
+			"messageText": "HP"
+		},
+		{
+			"messageCode": "HUD_txt2",
+			"messageText": "AP"
+		},
+		{
+			"messageCode": "BattleSkillSelect_txt",
+			"messageText": "{0} :"
+		},
+		{
+			"messageCode": "Battle_UI_Root_txt6",
+			"messageText": "WIN"
+		},
+		{
+			"messageCode": "Battle_UI_Root_txt7",
+			"messageText": "― TAP SCREEN ―"
+		},
+		{
+			"messageCode": "Battle_UI_Root_txt8",
+			"messageText": "BATTLEFAILED"
+		},
+		{
+			"messageCode": "BattleResult_txt",
+			"messageText": "BATTLERESULT"
+		},
+		{
+			"messageCode": "Get_txt",
+			"messageText": "GET"
+		},
+		{
+			"messageCode": "VersionUP_txt3",
+			"messageText": "→"
+		},
+		{
+			"messageCode": "MSChangeValueList_txt",
+			"messageText": "+0;-0"
+		},
+		{
+			"messageCode": "UITitle_txt",
+			"messageText": "－TAP TO START－"
+		},
+		{
+			"messageCode": "PVPPartySelect3_txt3",
+			"messageText": "TIME"
+		},
+		{
+			"messageCode": "PVPPartySelect3_txt6",
+			"messageText": "1"
+		},
+		{
+			"messageCode": "PVPPartySelect3_txt7",
+			"messageText": "2"
+		},
+		{
+			"messageCode": "PVPPartySelect3_txt8",
+			"messageText": "3"
+		},
+		{
+			"messageCode": "Present-23",
+			"messageText": "ステージ初回クリア報酬"
+		},
+		{
+			"messageCode": "Common02_Thumbnail_Empty_txt",
+			"messageText": "Empty"
+		},
+		{
+			"messageCode": "Common02_Thumbnail_none_txt",
+			"messageText": "NONE"
+		},
+		{
+			"messageCode": "Empty_txt",
+			"messageText": "EMPTY"
+		},
+		{
+			"messageCode": "GUIListPartsA_txt",
+			"messageText": "AREA {0:D2}"
+		},
+		{
+			"messageCode": "PartsStatusAp_txt",
+			"messageText": "AP0"
+		},
+		{
+			"messageCode": "Common02_Friendship_txt",
+			"messageText": "友情度＋"
+		},
+		{
+			"messageCode": "PartyEdit_txt",
+			"messageText": "LEADER"
+		},
+		{
+			"messageCode": "PvPTop_txt2",
+			"messageText": "{0}：{1}"
+		},
+		{
+			"messageCode": "Rank_txt",
+			"messageText": "RANK"
+		},
+		{
+			"messageCode": "TXT_VS_3_txt",
+			"messageText": "VS"
+		},
+		{
+			"messageCode": "PvPTop_txt",
+			"messageText": "～"
+		},
+		{
+			"messageCode": "QuestRankingList",
+			"messageText": "{0}～{1}位"
+		},
+		{
+			"messageCode": "PRIVACY_POLICY",
+			"messageText": "プライバシーポリシー"
+		},
+		{
+			"messageCode": "Common02_text_Clear_txt",
+			"messageText": "CLEAR"
+		},
+		{
+			"messageCode": "Chip_LvUP_txt",
+			"messageText": "Level UP"
+		},
+		{
+			"messageCode": "CMD_QuestMultiDetailedPOP_txt3",
+			"messageText": "BONUS POINT"
+		},
+		{
+			"messageCode": "EndTrop_txt",
+			"messageText": "CONGRATULATIONS"
+		},
+		{
+			"messageCode": "EndTrop_txt2",
+			"messageText": "VICTORY"
+		},
+		{
+			"messageCode": "EndTrop_txt3",
+			"messageText": "GREAT"
+		},
+		{
+			"messageCode": "EndTrop_txt4",
+			"messageText": "TIME OVER"
+		},
+		{
+			"messageCode": "EndTrop_txt5",
+			"messageText": "YOU WIN"
+		},
+		{
+			"messageCode": "EndTrop_txt6",
+			"messageText": "YOU LOSE"
+		},
+		{
+			"messageCode": "MultiLangSettingMainLabel",
+			"messageText": "利用する言語を選択してください"
+		},
+		{
+			"messageCode": "MultiLangSettingCaution",
+			"messageText": "※言語を変更する場合、リソースのダウンロードが発生します\n※ダウンロードが終了するまで、アプリを終了しないでください\n※言語は再度変更することが可能です\n※ダウンロード時に一度タイトルへ戻ります"
+		},
+		{
+			"messageCode": "MaintenanceBtnInfo",
+			"messageText": "お問い合わせ"
+		},
+		{
+			"messageCode": "MaintenanceBtnReconnect",
+			"messageText": "再接続"
+		},
+		{
+			"messageCode": "Present-24",
+			"messageText": "累計獲得 %spt 達成報酬"
+		},
+		{
+			"messageCode": "PVPBattleResult_txt",
+			"messageText": "バトルパーティ"
+		},
+		{
+			"messageCode": "PVPBattleResult_txt2",
+			"messageText": "変動 DP"
+		},
+		{
+			"messageCode": "PVPBattleResult_txt3",
+			"messageText": "DP"
+		},
+		{
+			"messageCode": "PVPBattleResult_txt4",
+			"messageText": "通算勝利数"
+		},
+		{
+			"messageCode": "LoginTime-01",
+			"messageText": "5日以上"
+		},
+		{
+			"messageCode": "LoginTime-02",
+			"messageText": "%s日前"
+		},
+		{
+			"messageCode": "LoginTime-03",
+			"messageText": "%s時間前"
+		},
+		{
+			"messageCode": "LoginTime-04",
+			"messageText": "%s分前"
+		},
+		{
+			"messageCode": "MondayShortName",
+			"messageText": "月"
+		},
+		{
+			"messageCode": "TuesdayShortName",
+			"messageText": "火"
+		},
+		{
+			"messageCode": "WednesdayShortName",
+			"messageText": "水"
+		},
+		{
+			"messageCode": "ThursdayShortName",
+			"messageText": "木"
+		},
+		{
+			"messageCode": "FridayShortName",
+			"messageText": "金"
+		},
+		{
+			"messageCode": "SaturdayShortName",
+			"messageText": "土"
+		},
+		{
+			"messageCode": "SundayShortName",
+			"messageText": "日"
+		},
+		{
+			"messageCode": "MultiRecruitChat-07",
+			"messageText": "【{0}】 {1}"
+		},
+		{
+			"messageCode": "ItemTruncated",
+			"messageText": "その他"
+		},
+		{
+			"messageCode": "SpeedClearRank1",
+			"messageText": "SSS"
+		},
+		{
+			"messageCode": "SpeedClearRank2",
+			"messageText": "SS"
+		},
+		{
+			"messageCode": "SpeedClearRank3",
+			"messageText": "S"
+		},
+		{
+			"messageCode": "SpeedClearRank4",
+			"messageText": "A"
+		},
+		{
+			"messageCode": "SpeedClearRank5",
+			"messageText": "B"
+		},
+		{
+			"messageCode": "SpeedClearRank6",
+			"messageText": "C"
+		},
+		{
+			"messageCode": "SpeedClearRank7",
+			"messageText": "D"
+		},
+		{
+			"messageCode": "SpeedClearRank8",
+			"messageText": "E"
+		},
+		{
+			"messageCode": "SpeedClearRank9",
+			"messageText": "F"
+		},
+		{
+			"messageCode": "SpeedClearRank10",
+			"messageText": "G"
+		},
+		{
+			"messageCode": "PlayLimitQuestRestCT_4",
+			"messageText": "１日毎残{0}回"
+		},
+		{
+			"messageCode": "SpeedClearDetail",
+			"messageText": "{0}スペシャルチャレンジクリア"
+		},
+		{
+			"messageCode": "SpeedClearChipEffectDetail",
+			"messageText": "{0}スペシャルチャレンジクリア特攻ボーナス"
+		},
+		{
+			"messageCode": "ExchangeNone",
+			"messageText": "現在開催中の交換所はありません"
+		},
+		{
+			"messageCode": "prize-1",
+			"messageText": "サーバー障害についてのお詫び"
+		}
+	]
+}

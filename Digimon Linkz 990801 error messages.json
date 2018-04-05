@@ -1,0 +1,1978 @@
+{
+	"messageM": [
+		{
+			"messageCode": "E-AL00",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-AL00】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL01",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-AL01】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL02",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-AL02】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL03",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-AL03】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL04",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-AL04】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL05",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-AL05】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL06",
+			"messageTitle": "更新",
+			"messageText": "【E-AL06】更新情報があります。\n最新状態へ更新します。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL07",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-MA00】通信エラーが発生いたしました。\n電波の良いところでもう一度お試しください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL08",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-AL08】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL09",
+			"messageTitle": "引き継ぎ失敗",
+			"messageText": "【E-AL09】引き継ぎに失敗しました。\n引き継ぎコード・ユーザーコードを\n確認の上、もう一度入力してください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL10",
+			"messageTitle": "引き継ぎ失敗",
+			"messageText": "【E-AL10】引き継ぎに失敗しました。\n引き継ぎコード・ユーザーコードを\n確認の上、もう一度入力してください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL11",
+			"messageTitle": "同一端末",
+			"messageText": "【E-AL11】同一端末間で引き継ぎを行うことはできません。\n引き継ぎを行う場合は、別の端末で\n引き継ぎコード・ユーザーコードを入力してください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL12",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-AL12】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL15",
+			"messageTitle": "メンテナンス",
+			"messageText": "【E-AL15】ただいまメンテナンス中です。\n大変申し訳ございませんが、メンテナンス終了後に\n再度アクセスしなおしてください",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL16",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-AL16】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL17",
+			"messageTitle": "更新",
+			"messageText": "【E-AL17】更新情報があります。\n最新状態へ更新します。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL18",
+			"messageTitle": "更新",
+			"messageText": "【E-AL18】更新情報があります。\n最新状態へ更新します。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL19",
+			"messageTitle": "利用規約の更新",
+			"messageText": "【E-AL19】利用規約が更新されました。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL80",
+			"messageTitle": "重要なご報告",
+			"messageText": "【E-AL80】不正なデータを検知したため現在調査させて頂いております。\n調査の結果、不正行為が確認された場合、\nアカウントの削除の処置を行う場合がございます。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL98",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-AL98】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-AL99",
+			"messageTitle": "ユーザー認証失敗",
+			"messageText": "【E-AL99】ユーザー認証時にエラーが発生しました。\n時間をおいて再度お試しください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN000",
+			"messageTitle": "使用不可",
+			"messageText": "【E-MN000】現在この機能は使用できません。\nご迷惑をおかけして、申し訳ございません。\n復旧まで今しばらくお待ちください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN01",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-MN01】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN02",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-MN02】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN11",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN11】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN13",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN13】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN14",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN14】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN15",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN15】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN19",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN19】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN24",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN24】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN30",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN30】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN31",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN31】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN32",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN32】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN39",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN39】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN41",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN41】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN43",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN43】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN47",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN47】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN48",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN48】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN49",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN49】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN50",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN50】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN60",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN60】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN61",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN61】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN62",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN62】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN63",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN63】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN71",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN71】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN72",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN72】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN73",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN73】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN74",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN74】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN75",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN75】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN76",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN76】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN79",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN79】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN81",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN81】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN82",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN82】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN91",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN91】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN92",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN92】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN93",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN93】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN94",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN94】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN95",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN95】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN96",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN96】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN97",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN97】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN98",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN98】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN99",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN99】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN100",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN100】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN101",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN101】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN110",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN110】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN121",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN121】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN122",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN122】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN123",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN123】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN124",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-MN124】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN141",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN141】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN142",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN142】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN143",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN143】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN144",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN144】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN145",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN145】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN146 ",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN146 】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN147",
+			"messageTitle": "クラスタ不足",
+			"messageText": "【E-MN147】クラスタが不足しています。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN148",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN148 】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN150",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN150 】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN151",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN151 】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN152",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN152 】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN153",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN153 】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN154",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN154 】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MN155",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MN155 】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-US06",
+			"messageTitle": "スタミナ不足",
+			"messageText": "【E-US06】スタミナが足りません。\nデジストーンを所持していません。\n※デジストーン5個使用すると回復できます。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-US07",
+			"messageTitle": "無効なユーザー名",
+			"messageText": "【E-US07】未入力、スペースのみのユーザー名は\n設定できません。\n入力内容を確認の上、もう一度お試しください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-US08",
+			"messageTitle": "文字数オーバー",
+			"messageText": "【E-US08】文字数がオーバーしています。\nユーザー名は10文字以内で入力してください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-US12",
+			"messageTitle": "存在しないコード",
+			"messageText": "【E-US12】入力されたシリアルコードは存在しません。\n入力内容をご確認ください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-US13",
+			"messageTitle": "使用済みのコード",
+			"messageText": "【E-US13】このシリアルコードはすでに入力されています。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-US16",
+			"messageTitle": "NGワード",
+			"messageText": "【E-US16】入力された文字の中に、NGワードが含まれています。\n入力内容をご確認の上、もう一度お試しください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-US17",
+			"messageTitle": "使用できない文字",
+			"messageText": "【E-US17】入力された文字の中に、絵文字、記号などの使用できない文字が含まれています。\n入力内容をご確認の上、もう一度お試しください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-US18",
+			"messageTitle": "文字数オーバー",
+			"messageText": "【E-US18】文字数がオーバーしています。\nコメントは30文字以内で入力してください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-US19",
+			"messageTitle": "文字数オーバー",
+			"messageText": "【E-US19】文字数がオーバーしています。\nユーザー名は10文字以内で入力してください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-US21",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-US21】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-US22",
+			"messageTitle": "スタミナMAX",
+			"messageText": "【E-US22】スタミナMAXのため回復できません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-US23",
+			"messageTitle": "肉の所持上限",
+			"messageText": "【E-US23】収穫できる肉の数が上限を超えています。\n倉庫のレベルを上げると肉の所持上限が増えます。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FR01",
+			"messageTitle": "登録済みのフレンド",
+			"messageText": "【E-FR01】このユーザーは既にフレンド登録済みです。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FR02",
+			"messageTitle": "申請中のフレンド",
+			"messageText": "【E-FR02】このユーザーには既にフレンド申請中です。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FR03",
+			"messageTitle": "承認待ちのフレンド",
+			"messageText": "【E-FR03】このユーザーはフレンド承認待ちです。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FR04",
+			"messageTitle": "申請取り消し済み",
+			"messageText": "【E-FR04】このユーザーから申請を取り消されています。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FR10",
+			"messageTitle": "フレンド上限",
+			"messageText": "【E-FR10】フレンドがいっぱいか、申請数が多いため、\n申請できません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FR11",
+			"messageTitle": "相手のフレンド上限",
+			"messageText": "【E-FR11】相手のフレンドがいっぱいか、申請数が多いため、\n申請できません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FR12",
+			"messageTitle": "フレンドではないユーザー",
+			"messageText": "【E-FR12】このユーザーはフレンドではありません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-GA02",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-GA02】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-GA05",
+			"messageTitle": "デジモン所持数上限",
+			"messageText": "【E-GA05】ハウスのデジモン所持数が上限に達しているため\nキャプチャすることができません。\nハウスをアップグレードするか\n強化・お別れをしてください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-GA06",
+			"messageTitle": "デジストーン不足",
+			"messageText": "【E-GA06】デジストーンが不足しています。\nショップへ遷移しますか？",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-GA07",
+			"messageTitle": "リンクポイント不足",
+			"messageText": "【E-GA07】リンクポイントが不足しています。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-GA08",
+			"messageTitle": "開催期間終了",
+			"messageText": "【E-GA08】このキャプチャの開催期間が終了しました。\n一度キャプチャ画面を閉じてください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-GA10",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-GA10】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-GA11",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-GA11】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-GA12",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-GA12】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-GA13",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-GA13】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-GA14",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-GA14】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-GA16",
+			"messageTitle": "チップ所持上限",
+			"messageText": "【E-GA16】チップの所持数が上限に達しているため\nキャプチャすることができません。\n強化か売却をしてください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-GA17",
+			"messageTitle": "建設未完了",
+			"messageText": "【E-GA17】チップ工場が建設されていないため、キャプチャすることができません。\nチップ工場を建設してください。",
+			"actionType": "1",
+			"actionValue": "2"
+		},
+		{
+			"messageCode": "E-GA18",
+			"messageTitle": "回数制限オーバー",
+			"messageText": "【E-GA18】すでに制限された回数以上のキャプチャを行った為、制限が掛けられています。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-SH01",
+			"messageTitle": "期間終了",
+			"messageText": "【E-SH01】期間が終了しています。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-SH09",
+			"messageTitle": "商品情報の不整合",
+			"messageText": "【E-SH09】商品情報に誤りがあります。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-SH10",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-SH10】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-SH11",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-SH11】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-SH12",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-SH12】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-SH13",
+			"messageTitle": "購入回数上限",
+			"messageText": "【E-SH13】購入回数が上限に達しています。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PR01",
+			"messageTitle": "受け取り済み",
+			"messageText": "【E-PR01】既に受け取り済みです。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV01",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-PV01】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV02",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-PV02】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV03",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-PV03】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV04",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-PV04】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV05",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-PV05】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV06",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-PV06】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV07",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-PV07】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV08",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-PV08】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV09",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-PV09】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV10",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-PV10】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV11",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-PV11】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV12",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-PV12】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV13",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-PV13】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV14",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-PV14】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV15",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-PV15】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV16",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-PV16】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV19",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-PV19】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV20",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-PV20】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV21",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-PV21】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV22",
+			"messageTitle": "集計中",
+			"messageText": "【E-PV22】現在、コロシアムの集計を行っております。\n今しばらくお待ちいただいてから、再度バトルの開始をお願いします。",
+			"actionType": "1",
+			"actionValue": "2"
+		},
+		{
+			"messageCode": "E-PV42",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-PV42】予期せぬエラーが発生しました。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "97",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-PV97】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "2"
+		},
+		{
+			"messageCode": "E-PV98",
+			"messageTitle": "ランキング非開催",
+			"messageText": "現在、コロシアムランキングは開催されておりません。\n今しばらくお待ちください。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-PV99",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-PV99】ユーザーステータスに不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD01",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-WD01】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD02",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-WD02】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD03",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-WD03】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD04",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-WD04】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD05",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-WD05】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD06",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-WD06】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD10",
+			"messageTitle": "期間終了",
+			"messageText": "【E-WD10】クエストの解放期間が終了しています。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD11",
+			"messageTitle": "スタミナ不足",
+			"messageText": "【E-WD11】スタミナが足りません。\nデジストーン{}個使用して回復しますか？\nスタミナ {} -> {}\nデジストーン所持数:{}",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD12",
+			"messageTitle": "スタミナ不足",
+			"messageText": "【E-WD12】クエストに必要なスタミナが\nスタミナの最大値を超えているため挑戦できません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD13",
+			"messageTitle": "存在しないパーティ",
+			"messageText": "【E-WD13】選択されているパーティが存在しません。\n編成でパーティを編成してください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD15",
+			"messageTitle": "空のパーティ",
+			"messageText": "【E-WD15】パーティにデジモンが選択されていません。\n編成でパーティを編成してください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD16",
+			"messageTitle": "モンスター所持上限",
+			"messageText": "【E-WD16】ハウスのデジモン所持数が上限に達しているため\nクエスト参加できません。\nハウスをアップグレードするか\n強化・お別れをしてください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD17",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-WD17】データの不整合が発生しました。\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD19",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-WD19】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD20",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-WD20】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD21",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-WD21】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD23",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-WD23】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD24",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-WD24】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD28",
+			"messageTitle": "チップ所持上限",
+			"messageText": "【E-WD28】チップの所持数が上限に達しているため\nクエスト参加できません。\n強化か売却をしてください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD31",
+			"messageTitle": "コンティニュー",
+			"messageText": "【E-WD31】デジストーン5個で復活させることができます。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD32",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-WD32】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD33",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-WD33】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD34",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-WD34】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD71",
+			"messageTitle": "未開催期間",
+			"messageText": "【E-WD71】未開催のイベント、または、すでに終了したイベントです。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD72",
+			"messageTitle": "データ取得失敗",
+			"messageText": "【E-WD72】データの取得に失敗しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD84",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-WD84】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-WD85",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-WD85】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MS01",
+			"messageTitle": "受け取り済み",
+			"messageText": "【E-MS01】既に受け取り済みです。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MT01",
+			"messageTitle": "ルーム満員",
+			"messageText": "【E-MT01】すでに、このルームは満員です。",
+			"actionType": "1",
+			"actionValue": "2"
+		},
+		{
+			"messageCode": "E-MT02",
+			"messageTitle": "ルーム解散",
+			"messageText": "【E-MT02】すでに、このルームは解散されています。",
+			"actionType": "1",
+			"actionValue": "2"
+		},
+		{
+			"messageCode": "E-MT11",
+			"messageTitle": "ルーム加入済み",
+			"messageText": "【E-MT11】すでにルームに加入済みです。",
+			"actionType": "1",
+			"actionValue": "2"
+		},
+		{
+			"messageCode": "E-MT13",
+			"messageTitle": "存在しないルーム",
+			"messageText": "【E-MT13】このルームは存在しません。",
+			"actionType": "1",
+			"actionValue": "2"
+		},
+		{
+			"messageCode": "E-MT19",
+			"messageTitle": "パスワード相違",
+			"messageText": "【E-MT19】入力したパスワードが違います。ご確認の上、もう一度入力しなおしてください。",
+			"actionType": "1",
+			"actionValue": "2"
+		},
+		{
+			"messageCode": "E-MT20",
+			"messageTitle": "未解放クエスト",
+			"messageText": "【E-MT20】参加しようとしたクエストは未開放のクエストのため、現在は参加できません。",
+			"actionType": "1",
+			"actionValue": "2"
+		},
+		{
+			"messageCode": "E-MT31",
+			"messageTitle": "文字数オーバー",
+			"messageText": "【E-MT31】紹介文の文字数がオーバーしています。50文字までで設定してください。",
+			"actionType": "1",
+			"actionValue": "2"
+		},
+		{
+			"messageCode": "E-MT32",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MT32】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MT52",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MT52】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MT53",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MT53】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MT54",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MT54】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MT61",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MT61】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MT62",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MT62】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MT71",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MT71】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MT72",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MT72】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MT73",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MT73】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-MT81",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-MT81】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA01",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-FA01】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA02",
+			"messageTitle": "スペース不足",
+			"messageText": "【E-FA02】施設・飾りを配置するスペースがありません。\n新たに配置する場合は、飾りを売却してください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA03",
+			"messageTitle": "建設上限数",
+			"messageText": "【E-FA03】この飾りの建設上限数に達したため\n建設できません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA04",
+			"messageTitle": "クラスタ不足",
+			"messageText": "【E-FA04】クラスタ不足のため建設することができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA05",
+			"messageTitle": "時間短縮不可",
+			"messageText": "【E-FA05】この施設は時間短縮することができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA06",
+			"messageTitle": "時間短縮不要",
+			"messageText": "【E-FA06】すでに建設が完了しています。\nデジストーンは消費されませんでした。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA07",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-FA07】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA08",
+			"messageTitle": "建設中",
+			"messageText": "【E-FA08】この施設はまだ建設中です。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA09",
+			"messageTitle": "アップグレード済",
+			"messageText": "【E-FA09】この施設は既に最大レベルです。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA10",
+			"messageTitle": "時間短縮不可",
+			"messageText": "【E-FA10】この施設は時間短縮することができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA11",
+			"messageTitle": "時間短縮不可",
+			"messageText": "【E-FA11】この施設はアップグレード中ではないため、\n時間短縮することができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA12",
+			"messageTitle": "移動不可",
+			"messageText": "【E-FA12】この施設は移動させることができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA13",
+			"messageTitle": "売却不可",
+			"messageText": "【E-FA13】この施設は売却することができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA14",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-FA14】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA15",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-FA15】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA16",
+			"messageTitle": "収穫不可",
+			"messageText": "【E-FA16】建設中のため収穫することができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA17",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-FA17】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA19",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【E-FA19】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA20",
+			"messageTitle": "肉の所持上限",
+			"messageText": "【E-FA20】収穫できる肉の数が上限を超えています。\n倉庫を建てると肉の所持上限が増えます。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA21",
+			"messageTitle": "建設コスト上限",
+			"messageText": "【E-FA21】建設コストが上限に達しているため\nこれ以上、同時に建設できません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA23",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-FA23】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-FA24",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-FA24】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH01",
+			"messageTitle": "チャットグループ参加上限",
+			"messageText": "【E-CH01】チャットグループの参加数の上限です。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH02",
+			"messageTitle": "存在しないチャットグループ",
+			"messageText": "【E-CH02】チャットグループが存在しません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH03",
+			"messageTitle": "勧誘失敗",
+			"messageText": "【E-CH03】勧誘に失敗しました。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH04",
+			"messageTitle": "チャットグループ勧誘上限",
+			"messageText": "【E-CH04】チャットグループの勧誘数の上限です。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH05",
+			"messageTitle": "無効な勧誘",
+			"messageText": "【E-CH05】有効期限が切れた勧誘、または\nチャットグループが存在しないため\n失敗しました。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH06",
+			"messageTitle": "勧誘失敗",
+			"messageText": "【E-CH06】マスターではないため\n勧誘することができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH07",
+			"messageTitle": "加入済みのチャットグループ",
+			"messageText": "【E-CH07】すでに加入しているチャットグループです。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH08",
+			"messageTitle": "申請失敗",
+			"messageText": "【E-CH08】申請に失敗しました。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH09",
+			"messageTitle": "申請済みのチャットグループ",
+			"messageText": "【E-CH09】すでに申請しているチャットグループです。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH10",
+			"messageTitle": "チャットグループ申請上限",
+			"messageText": "【E-CH10】申請数の上限です。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH11",
+			"messageTitle": "メニュー表示に失敗",
+			"messageText": "【E-CH11】マスター権限が無いため\n見ることができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH12",
+			"messageTitle": "無効な申請",
+			"messageText": "【E-CH12】有効期限が切れた申請、または\nチャットグループが存在しないため\n失敗しました。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH13",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-CH13】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH14",
+			"messageTitle": "マスター権限の委譲失敗",
+			"messageText": "【E-CH14】メンバー以外にマスター権限を\n委譲することができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH15",
+			"messageTitle": "チャットグループ退会に失敗",
+			"messageText": "【E-CH15】マスターはチャットグループを\n退会することができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH16",
+			"messageTitle": "チャットグループ退会に失敗",
+			"messageText": "【E-CH16】チャットグループのメンバーではないため\n退会することができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH17",
+			"messageTitle": "履歴取得に失敗",
+			"messageText": "【E-CH17】チャットグループのメンバーではないため\n履歴を取得することができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH18",
+			"messageTitle": "メッセージ送信エラー",
+			"messageText": "【E-CH18】チャットグループのメンバーではないため\nメッセージを送信することができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH19",
+			"messageTitle": "グループ作成エラー",
+			"messageText": "【E-CH19】グループ名が入力されていません。\nグループ名を入力してください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH20",
+			"messageTitle": "グループ作成エラー",
+			"messageText": "【E-CH20】グループ名の文字数がオーバーしています。\nグループ名は15文字以内で入力してください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH21",
+			"messageTitle": "グループ作成エラー",
+			"messageText": "【E-CH21】コメントの文字数がオーバーしています。\nコメントは30文字以内で入力してください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH22",
+			"messageTitle": "メッセージ送信エラー",
+			"messageText": "【E-CH22】メッセージの文字数がオーバーしています。\nメッセージは100文字以内で入力してください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH23",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-CH23】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH24",
+			"messageTitle": "メッセージ送信エラー",
+			"messageText": "【E-CH24】表示できる文字がありません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH26",
+			"messageTitle": "申請失敗",
+			"messageText": "【E-CH26】すでにこのチャットグループから勧誘がきているため、\n申請することができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH27",
+			"messageTitle": "マスター権限委譲の失敗",
+			"messageText": "【E-CH27】ブロックしたユーザーのため\nこのユーザーにマスター委譲ができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-CH28",
+			"messageTitle": "申請失敗",
+			"messageText": "【E-CH28】ブロックしたユーザーがマスターのため\nこのチャッグループへの申請ができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-AL01",
+			"messageTitle": "通信エラー",
+			"messageText": "【C-AL01】通信エラーが発生しました。\n電波の良いところでもう一度お試しください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-AL02",
+			"messageTitle": "通信エラー",
+			"messageText": "【C-AL02】通信エラーが発生しました。\nご利用端末の通信設定をご確認ください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-AL03",
+			"messageTitle": "サーバー混雑",
+			"messageText": "【C-AL03】サーバーが混雑している可能性があります。\n時間を置いてもう一度お試しください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-AL04",
+			"messageTitle": "タイムアウト",
+			"messageText": "【C-AL04】接続がタイムアウトしました。\n電波の良いところでもう一度お試しください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-AL05",
+			"messageTitle": "データ取得失敗",
+			"messageText": "【C-AL05】データの取得に失敗しました。\n電波の良いところでもう一度お試しください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-AL06",
+			"messageTitle": "データ破損",
+			"messageText": "【C-AL06】取得したデータが破損しています。\nタイトルのキャッシュクリアを行い、\n電波の良いところでもう一度取得し直してください。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-AL07",
+			"messageTitle": "購入処理失敗",
+			"messageText": "【C-AL07】購入処理に失敗しました。\n電波の良いところでもう一度アクセスし直してください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-AL08",
+			"messageTitle": "初期化失敗",
+			"messageText": "【C-AL08】初期化に失敗しました。\n電波の良いところでもう一度アクセスし直してください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-AL09",
+			"messageTitle": "ユーザー認証失敗",
+			"messageText": "【C-AL09】ユーザーの認証に失敗しました。\n電波の良いところでもう一度お試しください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-AL10",
+			"messageTitle": "キャッシュクリア失敗",
+			"messageText": "【C-AL10】キャッシュクリアに失敗しました。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-AL11",
+			"messageTitle": "データ取得失敗",
+			"messageText": "【C-AL11】データの取得に失敗しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-AL12",
+			"messageTitle": "メモリ不足",
+			"messageText": "【C-AL12】メモリ不足により読み込みに失敗しました。\nメモリ容量をご確認ください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-NP100",
+			"messageTitle": "データ不整合",
+			"messageText": "【C-NP100】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-NP101",
+			"messageTitle": "購入キャンセル",
+			"messageText": "【C-NP101】購入がキャンセルされました。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-NP102",
+			"messageTitle": "ストアエラー",
+			"messageText": "【C-NP102】ストアエラーが発生しました。\n時間を置いてもう一度お試しください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-NP103",
+			"messageTitle": "ストアエラー",
+			"messageText": "【C-NP103】ストアエラーが発生しました。\n時間を置いてもう一度お試しください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-NP104",
+			"messageTitle": "購入エラー",
+			"messageText": "【C-NP104】購入処理中に通信エラーが発生しました。\n電波の良いところでもう一度お試しください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-NP105",
+			"messageTitle": "データ不整合",
+			"messageText": "【C-NP105】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-NP106",
+			"messageTitle": "データ不整合",
+			"messageText": "【C-NP106】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-NP107",
+			"messageTitle": "購入済み",
+			"messageText": "【C-NP107】このアイテムは既に購入済みです。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-NP120",
+			"messageTitle": "購入エラー",
+			"messageText": "【C-NP120】購入処理にエラーが発生しました。\nアイテムが付与されない場合は\nアプリを再起動してください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-NP199",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【C-NP199】予期せぬエラーが発生しました。\nアプリを再起動しても症状が改善しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-NP200",
+			"messageTitle": "端末の課金設定",
+			"messageText": "【C-NP200】端末の設定で課金が許可されていません。\n端末の設定をご確認ください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-NP201",
+			"messageTitle": "購入時エラー",
+			"messageText": "【C-NP201】ログインしていないか、初期化に失敗しました。\nログインし直すか、アプリを再起動してください。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-NP202",
+			"messageTitle": "購入エラー",
+			"messageText": "【C-NP202】購入処理にエラーが発生しました。\nアイテムが付与されない場合は\nアプリを再起動してください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-NP203",
+			"messageTitle": "購入エラー",
+			"messageText": "【C-NP203】購入処理にエラーが発生しました。\nアイテムが付与されない場合は\nアプリを再起動してください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-SH01",
+			"messageTitle": "購入処理エラー",
+			"messageText": "【C-SH01】購入処理中に通信エラーが発生しました。\n電波の良いところでもう一度お試しください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-SH02",
+			"messageTitle": "購入エラー",
+			"messageText": "【C-SH02】購入済の商品の有効化に失敗しました。\nリトライしても改善されない場合は\nアプリを再起動してください。",
+			"actionType": "2",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-SH03",
+			"messageTitle": "登録失敗",
+			"messageText": "【C-SH03】年齢登録に失敗しました。\n入力内容をご確認の上、\n電波の良いところでもう一度お試しください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-SH04",
+			"messageTitle": "購入金額上限",
+			"messageText": "【C-SH04】1ヶ月に購入できる金額の上限に達しました。\n今月はこれ以上購入することができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-SH05",
+			"messageTitle": "メンテナンス",
+			"messageText": "【C-SH05】現在は購入できません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-SH06",
+			"messageTitle": "最大所持数オーバー",
+			"messageText": "【C-SH06】これ以上、デジストーンは購入できません。\nデジストーンの最大所持数は9999個までとなります。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-SH07",
+			"messageTitle": "デジストーン反映",
+			"messageText": "【C-SH07】以前購入したデジストーンが反映されました。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-GA01",
+			"messageTitle": "予期せぬエラー",
+			"messageText": "【C-GA01】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-US01",
+			"messageTitle": "通信エラー",
+			"messageText": "【C-US01】通信エラーが発生しました。\n電波の良いところでもう一度お試しください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-US02",
+			"messageTitle": "存在しないユーザー",
+			"messageText": "【C-US02】入力されたユーザーコードに誤りがあります。\nユーザーコードを確認の上、もう一度入力してください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-FA01",
+			"messageTitle": "クラスタ不足",
+			"messageText": "【C-FA01】クラスタが不足しているため\n建設することができません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "C-FA02",
+			"messageTitle": "デジモン所持数上限",
+			"messageText": "【C-FA02】ガーデンのデジモン所持数が上限に達しているため\nキャプチャすることができません。\n強化・お別れをしてください。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-TR01",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-TR01】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-TR02",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-TR02】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-TR03",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-TR03】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		},
+		{
+			"messageCode": "E-GP01",
+			"messageTitle": "エラー",
+			"messageText": "【E-GP01】エラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "3",
+			"actionValue": "1"
+		}
+	]
+}

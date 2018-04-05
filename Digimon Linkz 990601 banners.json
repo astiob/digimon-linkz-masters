@@ -6489,6 +6489,50 @@
 			"dispNum": "1",
 			"startTime": "2018-03-01 16:00:00",
 			"endTime": "2018-04-12 15:59:59"
+		},
+		{
+			"bannerId": "627",
+			"actionType": "menu",
+			"name": "ミニイベント「ドットメモリーズ」開催！",
+			"img": "/events/extra/3/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1009",
+			"dispNum": "70",
+			"startTime": "2018-04-09 18:00:00",
+			"endTime": "2018-05-08 23:59:59"
+		},
+		{
+			"bannerId": "628",
+			"actionType": "menu",
+			"name": "大乱戦 特効デジモン育成キャプチャ開催！",
+			"img": "/gasha/special/10166/10166_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1011",
+			"dispNum": "19",
+			"startTime": "2018-04-05 16:00:00",
+			"endTime": "2018-04-16 15:59:59"
+		},
+		{
+			"bannerId": "629",
+			"actionType": "menu",
+			"name": "大乱戦-春嵐篇- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30066/30066_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1012",
+			"dispNum": "7",
+			"startTime": "2018-04-05 16:00:00",
+			"endTime": "2018-04-11 23:59:59"
+		},
+		{
+			"bannerId": "631",
+			"actionType": "menu",
+			"name": "イベント「大乱戦-春嵐篇-」開催！",
+			"img": "/events/syuusyuu/38/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1014",
+			"dispNum": "55",
+			"startTime": "2018-04-05 18:00:00",
+			"endTime": "2018-04-11 23:59:59"
 		}
 	]
 }

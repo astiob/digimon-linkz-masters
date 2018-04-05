@@ -1,0 +1,452 @@
+{
+	"worldEventAreaM": [
+		{
+			"worldEventId": "1",
+			"worldAreaId": "3"
+		},
+		{
+			"worldEventId": "2",
+			"worldAreaId": "8"
+		},
+		{
+			"worldEventId": "3",
+			"worldAreaId": "1001"
+		},
+		{
+			"worldEventId": "4",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "5",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "6",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "7",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "8",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "9",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "10",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "11",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "12",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "13",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "14",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "15",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "16",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "17",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "18",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "19",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "20",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "21",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "22",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "23",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "24",
+			"worldAreaId": "1002"
+		},
+		{
+			"worldEventId": "25",
+			"worldAreaId": "1003"
+		},
+		{
+			"worldEventId": "26",
+			"worldAreaId": "1004"
+		},
+		{
+			"worldEventId": "27",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "28",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "29",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "30",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "31",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "32",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "33",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "34",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "35",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "36",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "37",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "38",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "39",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "40",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "41",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "42",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "43",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "44",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "45",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "46",
+			"worldAreaId": "1005"
+		},
+		{
+			"worldEventId": "49",
+			"worldAreaId": "1006"
+		},
+		{
+			"worldEventId": "51",
+			"worldAreaId": "1007"
+		},
+		{
+			"worldEventId": "52",
+			"worldAreaId": "1008"
+		},
+		{
+			"worldEventId": "53",
+			"worldAreaId": "1009"
+		},
+		{
+			"worldEventId": "54",
+			"worldAreaId": "1011"
+		},
+		{
+			"worldEventId": "55",
+			"worldAreaId": "1010"
+		},
+		{
+			"worldEventId": "56",
+			"worldAreaId": "6"
+		},
+		{
+			"worldEventId": "58",
+			"worldAreaId": "1012"
+		},
+		{
+			"worldEventId": "59",
+			"worldAreaId": "1013"
+		},
+		{
+			"worldEventId": "60",
+			"worldAreaId": "9"
+		},
+		{
+			"worldEventId": "61",
+			"worldAreaId": "1014"
+		},
+		{
+			"worldEventId": "62",
+			"worldAreaId": "1015"
+		},
+		{
+			"worldEventId": "63",
+			"worldAreaId": "1016"
+		},
+		{
+			"worldEventId": "64",
+			"worldAreaId": "1017"
+		},
+		{
+			"worldEventId": "65",
+			"worldAreaId": "1018"
+		},
+		{
+			"worldEventId": "66",
+			"worldAreaId": "1019"
+		},
+		{
+			"worldEventId": "67",
+			"worldAreaId": "1020"
+		},
+		{
+			"worldEventId": "68",
+			"worldAreaId": "1021"
+		},
+		{
+			"worldEventId": "69",
+			"worldAreaId": "1022"
+		},
+		{
+			"worldEventId": "70",
+			"worldAreaId": "1023"
+		},
+		{
+			"worldEventId": "71",
+			"worldAreaId": "1024"
+		},
+		{
+			"worldEventId": "72",
+			"worldAreaId": "1025"
+		},
+		{
+			"worldEventId": "73",
+			"worldAreaId": "1026"
+		},
+		{
+			"worldEventId": "74",
+			"worldAreaId": "1027"
+		},
+		{
+			"worldEventId": "75",
+			"worldAreaId": "1028"
+		},
+		{
+			"worldEventId": "76",
+			"worldAreaId": "1029"
+		},
+		{
+			"worldEventId": "77",
+			"worldAreaId": "1030"
+		},
+		{
+			"worldEventId": "78",
+			"worldAreaId": "1031"
+		},
+		{
+			"worldEventId": "79",
+			"worldAreaId": "1032"
+		},
+		{
+			"worldEventId": "80",
+			"worldAreaId": "1033"
+		},
+		{
+			"worldEventId": "81",
+			"worldAreaId": "1034"
+		},
+		{
+			"worldEventId": "82",
+			"worldAreaId": "1035"
+		},
+		{
+			"worldEventId": "83",
+			"worldAreaId": "1036"
+		},
+		{
+			"worldEventId": "84",
+			"worldAreaId": "1037"
+		},
+		{
+			"worldEventId": "85",
+			"worldAreaId": "1038"
+		},
+		{
+			"worldEventId": "86",
+			"worldAreaId": "1039"
+		},
+		{
+			"worldEventId": "87",
+			"worldAreaId": "1040"
+		},
+		{
+			"worldEventId": "88",
+			"worldAreaId": "1041"
+		},
+		{
+			"worldEventId": "89",
+			"worldAreaId": "1042"
+		},
+		{
+			"worldEventId": "90",
+			"worldAreaId": "1043"
+		},
+		{
+			"worldEventId": "91",
+			"worldAreaId": "1044"
+		},
+		{
+			"worldEventId": "92",
+			"worldAreaId": "1045"
+		},
+		{
+			"worldEventId": "93",
+			"worldAreaId": "1046"
+		},
+		{
+			"worldEventId": "94",
+			"worldAreaId": "1047"
+		},
+		{
+			"worldEventId": "95",
+			"worldAreaId": "1048"
+		},
+		{
+			"worldEventId": "96",
+			"worldAreaId": "1049"
+		},
+		{
+			"worldEventId": "97",
+			"worldAreaId": "1050"
+		},
+		{
+			"worldEventId": "98",
+			"worldAreaId": "1051"
+		},
+		{
+			"worldEventId": "99",
+			"worldAreaId": "1052"
+		},
+		{
+			"worldEventId": "100",
+			"worldAreaId": "1053"
+		},
+		{
+			"worldEventId": "101",
+			"worldAreaId": "1054"
+		},
+		{
+			"worldEventId": "102",
+			"worldAreaId": "1055"
+		},
+		{
+			"worldEventId": "103",
+			"worldAreaId": "1056"
+		},
+		{
+			"worldEventId": "104",
+			"worldAreaId": "1057"
+		},
+		{
+			"worldEventId": "105",
+			"worldAreaId": "1058"
+		},
+		{
+			"worldEventId": "106",
+			"worldAreaId": "1059"
+		},
+		{
+			"worldEventId": "107",
+			"worldAreaId": "1060"
+		},
+		{
+			"worldEventId": "108",
+			"worldAreaId": "1061"
+		},
+		{
+			"worldEventId": "109",
+			"worldAreaId": "1062"
+		},
+		{
+			"worldEventId": "110",
+			"worldAreaId": "1063"
+		},
+		{
+			"worldEventId": "111",
+			"worldAreaId": "1064"
+		},
+		{
+			"worldEventId": "112",
+			"worldAreaId": "1065"
+		},
+		{
+			"worldEventId": "113",
+			"worldAreaId": "1066"
+		},
+		{
+			"worldEventId": "114",
+			"worldAreaId": "1067"
+		},
+		{
+			"worldEventId": "117",
+			"worldAreaId": "1070"
+		},
+		{
+			"worldEventId": "118",
+			"worldAreaId": "1071"
+		}
+	]
+}

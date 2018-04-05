@@ -1,0 +1,84 @@
+{
+	"assetCategoryM": [
+		{
+			"assetCategoryId": "1",
+			"assetTitle": "デジモン"
+		},
+		{
+			"assetCategoryId": "2",
+			"assetTitle": "デジストーン"
+		},
+		{
+			"assetCategoryId": "3",
+			"assetTitle": "リンクポイント"
+		},
+		{
+			"assetCategoryId": "4",
+			"assetTitle": "クラスタ"
+		},
+		{
+			"assetCategoryId": "5",
+			"assetTitle": "EXP"
+		},
+		{
+			"assetCategoryId": "6",
+			"assetTitle": "アイテム"
+		},
+		{
+			"assetCategoryId": "7",
+			"assetTitle": "デジモン所持枠"
+		},
+		{
+			"assetCategoryId": "8",
+			"assetTitle": "パーティーコスト"
+		},
+		{
+			"assetCategoryId": "9",
+			"assetTitle": "フレンド上限数"
+		},
+		{
+			"assetCategoryId": "10",
+			"assetTitle": "スタミナ上限数"
+		},
+		{
+			"assetCategoryId": "11",
+			"assetTitle": "ガチャチケット"
+		},
+		{
+			"assetCategoryId": "12",
+			"assetTitle": "共闘アイテム"
+		},
+		{
+			"assetCategoryId": "13",
+			"assetTitle": "肉"
+		},
+		{
+			"assetCategoryId": "14",
+			"assetTitle": "進化素材"
+		},
+		{
+			"assetCategoryId": "15",
+			"assetTitle": "プラグイン"
+		},
+		{
+			"assetCategoryId": "16",
+			"assetTitle": "施設鍵"
+		},
+		{
+			"assetCategoryId": "17",
+			"assetTitle": "チップ"
+		},
+		{
+			"assetCategoryId": "18",
+			"assetTitle": "降臨用チケット"
+		},
+		{
+			"assetCategoryId": "19",
+			"assetTitle": "称号"
+		},
+		{
+			"assetCategoryId": "20",
+			"assetTitle": "ポイント"
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"monsterStatusM": [
+		{
+			"monsterStatusId": "10001",
+			"name": "万能型"
+		},
+		{
+			"monsterStatusId": "10002",
+			"name": "攻撃型"
+		},
+		{
+			"monsterStatusId": "10003",
+			"name": "防御型"
+		},
+		{
+			"monsterStatusId": "10004",
+			"name": "万能型"
+		},
+		{
+			"monsterStatusId": "10005",
+			"name": "速度型"
+		},
+		{
+			"monsterStatusId": "10006",
+			"name": "物攻型"
+		},
+		{
+			"monsterStatusId": "10007",
+			"name": "魔攻型"
+		},
+		{
+			"monsterStatusId": "10008",
+			"name": "物防型"
+		},
+		{
+			"monsterStatusId": "10009",
+			"name": "魔防型"
+		},
+		{
+			"monsterStatusId": "10010",
+			"name": "万能型"
+		},
+		{
+			"monsterStatusId": "10011",
+			"name": "速物攻型"
+		},
+		{
+			"monsterStatusId": "10012",
+			"name": "速魔攻型"
+		}
+	]
+}

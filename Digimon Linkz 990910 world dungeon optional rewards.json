@@ -1,0 +1,121 @@
+{
+	"worldDungeonOptionRewardM": [
+		{
+			"worldDungeonOptionRewardId": "10001",
+			"worldDungeonId": "11923",
+			"type": "1",
+			"subType": "2",
+			"joinType": "0",
+			"clearType": "0",
+			"clearValue": "0",
+			"assetCategoryId": "6",
+			"assetValue": "41",
+			"assetNum": "10",
+			"exValue": ""
+		},
+		{
+			"worldDungeonOptionRewardId": "10002",
+			"worldDungeonId": "11924",
+			"type": "1",
+			"subType": "2",
+			"joinType": "0",
+			"clearType": "0",
+			"clearValue": "0",
+			"assetCategoryId": "6",
+			"assetValue": "41",
+			"assetNum": "50",
+			"exValue": ""
+		},
+		{
+			"worldDungeonOptionRewardId": "10003",
+			"worldDungeonId": "11955",
+			"type": "1",
+			"subType": "2",
+			"joinType": "0",
+			"clearType": "0",
+			"clearValue": "0",
+			"assetCategoryId": "6",
+			"assetValue": "46",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"worldDungeonOptionRewardId": "10004",
+			"worldDungeonId": "12020",
+			"type": "1",
+			"subType": "2",
+			"joinType": "1",
+			"clearType": "3",
+			"clearValue": "5",
+			"assetCategoryId": "6",
+			"assetValue": "55",
+			"assetNum": "10",
+			"exValue": ""
+		},
+		{
+			"worldDungeonOptionRewardId": "10005",
+			"worldDungeonId": "12020",
+			"type": "1",
+			"subType": "2",
+			"joinType": "1",
+			"clearType": "4",
+			"clearValue": "7",
+			"assetCategoryId": "6",
+			"assetValue": "55",
+			"assetNum": "2",
+			"exValue": ""
+		},
+		{
+			"worldDungeonOptionRewardId": "10006",
+			"worldDungeonId": "12020",
+			"type": "1",
+			"subType": "2",
+			"joinType": "1",
+			"clearType": "5",
+			"clearValue": "10",
+			"assetCategoryId": "6",
+			"assetValue": "55",
+			"assetNum": "1",
+			"exValue": ""
+		},
+		{
+			"worldDungeonOptionRewardId": "10007",
+			"worldDungeonId": "12048",
+			"type": "1",
+			"subType": "2",
+			"joinType": "1",
+			"clearType": "3",
+			"clearValue": "6",
+			"assetCategoryId": "6",
+			"assetValue": "59",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"worldDungeonOptionRewardId": "10008",
+			"worldDungeonId": "12048",
+			"type": "1",
+			"subType": "2",
+			"joinType": "1",
+			"clearType": "4",
+			"clearValue": "10",
+			"assetCategoryId": "6",
+			"assetValue": "59",
+			"assetNum": "10",
+			"exValue": ""
+		},
+		{
+			"worldDungeonOptionRewardId": "10009",
+			"worldDungeonId": "12048",
+			"type": "1",
+			"subType": "2",
+			"joinType": "1",
+			"clearType": "5",
+			"clearValue": "15",
+			"assetCategoryId": "6",
+			"assetValue": "59",
+			"assetNum": "5",
+			"exValue": ""
+		}
+	]
+}

@@ -1,0 +1,2279 @@
+{
+	"tutorialNaviM": [
+		{
+			"tutorialNaviId": "1",
+			"message": "[ffffff]人が使わなくなったデータが\n最後に行きつく場所\n\n「デジタルワールド」[-]",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "2",
+			"message": "[ffffff]この世界に居住する生命体\n\n「デジタルモンスター」[-]",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "3",
+			"message": "[ffffff]デジタルワールドと現実世界を繋ぐアプリ\nそれが「デジモンリンクス」である。[-]",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "4",
+			"message": "[ffffff]そして今、すべてが繋がる…[-]",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "5",
+			"message": "ようこそ、[ffd700]デジモンリンクス[-]へ。\n私は、ナビゲーターのヒナです。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "6",
+			"message": "これからデジモンたちが住む世界、\n[ffd700]デジタルワールド[-]へご招待いたします。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "7",
+			"message": "ユーザー登録しますので、\nあなたのお名前を入力してください。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "8",
+			"message": "$USER_INPUT_NAME$さんですね。\n登録させていただきました。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "9",
+			"message": "それでは、私と一緒にデジタルワールドへ向かいましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "10",
+			"message": "そろそろ、見えてきますよ！\nデジモンの住む、デジタルワールドが！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "11",
+			"message": "デジタルワールドへようこそ！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "12",
+			"message": "ここはデジモンたちが住んでいる世界で、\n全てのものがデータで構成されています。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "13",
+			"message": "実は、リアルワールドと同じように、\n大陸や海があるんです！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "14",
+			"message": "な、なに…っ！？何が起こっているの！？\nで、デジタルワールドが…",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "15",
+			"message": "…た、大変！大規模なノイズが発生して、\nデジタルワールドが断片化し始めてる…！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "16",
+			"message": "…どうにかして断片化を止めないと…っ！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "17",
+			"message": "くっ…ダメ…っ！止まらない…っ！",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "18",
+			"message": "…申し訳ありません！あなたの端末を\n隔離領域としてお借りします！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "19",
+			"message": "デジモンリンクスをバックアップ…\nプログラムの再構成…コンパイル…\nよしっ、成功…っ！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20",
+			"message": "今デジモンリンクスに接続中の端末に、\nデジタルワールドのファームデータを\nバックアップします！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "21",
+			"message": "アクティベート！！！",
+			"face": "8"
+		},
+		{
+			"tutorialNaviId": "22",
+			"message": "…っ、さ",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "23",
+			"message": "…きこえ……すか…。",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "24",
+			"message": "…$USER_INPUT_NAME$さん！\n返事をしてください！",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "25",
+			"message": "…よかった！通信が回復したみたいです！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "26",
+			"message": "ふぅ…何とかファームのバックアップに\n成功したみたい…",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "27",
+			"message": "…あっ！あなたのデジモンも無事ですね！\n良かった…！",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "28",
+			"message": "先ほどの異変なのですが…\nデジタルワールド全体でデータが\n破片[ffd700]【クラスタ】[-]に分解されていて…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "29",
+			"message": "デジタルワールドが消滅へ\n向かっているようなんです…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "30",
+			"message": "デジタルワールドを救うためには、\nデジモンたちと協力して、たくさんの\n[ffd700]【クラスタ】[-]を集めなければいけません。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "31",
+			"message": "デジモンたちを育てて、力を合わせながら\n[ffd700]【クラスタ】[-]を集めていきましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "32",
+			"message": "大丈夫っ！\n私がばっちりサポートしますから！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "33",
+			"message": "では、この「[ffd700]ファーム[-]」を、\nデジタルワールドを救うための\n私たちの拠点にしましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "34",
+			"message": "「[ffd700]ファーム[-]」は、主にデジモンを育成する\n場所になります。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "35",
+			"message": "デジモンの育成をサポートするための\nいろいろな「[ffd700]施設[-]」があるのですが…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "36",
+			"message": "あなたには、まだパートナーとなる\nデジモンがいませんね。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "37",
+			"message": "まずは「[ffd700]リンクキャプチャ[-]」でデジモンを\n呼び出しましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "38",
+			"message": "必要な「[ffd700]リンクポイント[-]」は、\n私からプレゼントしますね。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "39",
+			"message": "ここで、デジモンを呼び出すことができる\n「[ffd700]キャプチャ[-]」を行います。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "40",
+			"message": "今回は「[ffd700]リンクキャプチャ[-]」で、\n[ffd700]幼年期[-]のデジモンを呼び出しましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "41",
+			"message": "ここで今所持しているリンクポイントを\n確認することができます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "42",
+			"message": "さっきプレゼントしたリンクポイントが\n表示されていますね。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "43",
+			"message": "それでは「[ffd700]キャプチャ[-]」を\nタップしてください。",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "44",
+			"message": "新しいデジモンが仲間になりましたね！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "45",
+			"message": "デジモンが仲間になったので、\n次は「[ffd700]施設[-]」で育成しましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "46",
+			"message": "この施設を見てください。\nこれは「[ffd700]研究所[-]」です。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "47",
+			"message": "[ffd700]幼年期[-]のデジモンの育成や、より強い\nデジモンの育成ができる施設です。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "48",
+			"message": "今回は[ffd700]幼年期[-]のデジモンを育成する\n「[ffd700]ガーデン[-]」の機能を紹介します。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "49",
+			"message": "さっき「[ffd700]リンクキャプチャ[-]」で\n仲間になったデジモンが\n「[ffd700]ガーデン[-]」に預けられています。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "50",
+			"message": "様子を見に行ってみましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "51",
+			"message": "ここが「[ffd700]ガーデン[-]」です。今はまだ\nどのデジモンも育成中ではないですね。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "52",
+			"message": "育成するために「[ffd700]一覧[-]」からデジモンを\n選択して、ここに移してあげましょう。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "53",
+			"message": "デジモンアイコンをタップしてください。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "54",
+			"message": "デジモンをガーデンに移せましたね！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "55",
+			"message": "ここではデジモンたちが時間経過で\n成長し、進化します。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "56",
+			"message": "本当は時間がかかりますが、\n今回は「[ffd700]デジストーン[-]」で一気に\n進化させましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "57",
+			"message": "[ffd700]成長期[-]のデジモンに進化しましたね！\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "58",
+			"message": "今のあなたたちなら「[ffd700]危険[-]」をともなう\n「[ffd700]探索[-]」に行っても大丈夫ですね。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "59",
+			"message": "分散したデータを集めに行きましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "60",
+			"message": "ファームの周辺で異常事態発生です！\n確認しに行きましょう…っ！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "61",
+			"message": "断片化の影響で、デジモンたちの様子が\nいつもと違うみたいです…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "62",
+			"message": "「[ffd700]バトル[-]」でデジモンたちの暴走を\n止めてあげないと…！",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "63",
+			"message": "それでは「[ffd700]バトル[-]」の基本について\n学びましょう。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "64",
+			"message": "「[ffd700]バトル[-]」は、３体でパーティを組んで\n戦うターン制となります。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "65",
+			"message": "これが今のあなたの「[ffd700]パーティ[-]」です。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "66",
+			"message": "アイコンを長押しするとステータスが\n見られるので、後で確認してみましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "67",
+			"message": "次はコマンドの説明です。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "68",
+			"message": "次はステータスについて説明します。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "69",
+			"message": "まずは、通常攻撃をしてみましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "70",
+			"message": "「[ffd700]ATTACK[-]」をタップした後、\nさらに「[ffd700]実行[-]」をタップすることで\n攻撃を発動することができます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "71",
+			"message": "ダメージを与えましたね！\n敵全員の[ffd700]HP[-]を[ffd700]0[-]にすると[ffd700]バトル勝利[-]です！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "72",
+			"message": "次は技を発動させてみましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "73",
+			"message": "まずはどんな技なのか、\nその効果を確認しましょう。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "74",
+			"message": "技ボタンを「[ffd700]長押し[-]」してください。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "75",
+			"message": "技の詳細が表示されましたね。",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "76",
+			"message": "技の威力や効果を確認したい時には\n技ボタンを「[ffd700]長押し[-]」してみましょう。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "77",
+			"message": "それでは技を発動させましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "78",
+			"message": "あっ！？テントモンがやられちゃった！？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "79",
+			"message": "テントモンのアイコンがグレーに\nなっていますね。タップしてみましょう。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "80",
+			"message": "デジストーンを使って、デジモンを\n次の「[ffd700]ラウンド[-]」から復活させることが\nできるんです！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "81",
+			"message": "今回は私の持っているデジストーンを\n使ってください！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "82",
+			"message": "次はやられないように頑張りましょう！\nもう一度攻撃です！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "83",
+			"message": "良い調子です！\nここからは自由に攻撃をしてみましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "84",
+			"message": "やりましたね！！\nデジモンたちと息がピッタリでした！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "85",
+			"message": "バトルで勝利すると、\n「[ffd700]EXP[-]」や「[ffd700]進化素材[-]」を獲得できます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "86",
+			"message": "EXPを獲得し、レベルが[ffd700]MAX[-]になると、\n進化素材とクラスタを使って\nデジモンを進化させることができます！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "87",
+			"message": "お疲れ様です！\nデジモンたちとのコンビネーションで、\nバトルもばっちりでしたね！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "88",
+			"message": "最後に、私からのお礼として、\nデジストーンをプレゼントです！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "89",
+			"message": "デジストーンでも、デジモンを\nキャプチャすることができるんですよ！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "90",
+			"message": "今回は「[ffd700]レアキャプチャ[-]」です。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "91",
+			"message": "「[ffd700]レアキャプチャ[-]」では、成長期以上の\nより強いデジモンを呼び出せますよ！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "92",
+			"message": "それではキャプチャしましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "93",
+			"message": "新しく強いデジモンが仲間入りしました！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "94",
+			"message": "これでデジタルワールドを修復するための\n手順は一通りお伝えできたと思います。",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "95",
+			"message": "これからデジモンたちと協力して、\nデジタルワールドを救いましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "96",
+			"message": "それでは最後に、デジモン育成の流れを\n確認しましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "97",
+			"message": "…あっ！いけないっ！このままだと\n接続が途切れてしまいそうです…っ！\nこれも断片化の影響かしら…",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "98",
+			"message": "どうやらまだデジタルワールドと\nあなたの世界の繋がりが弱いみたいです…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "99",
+			"message": "今から急いで必要なデータをインストール\nするので、待っていてもらえますか？",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "100",
+			"message": "大丈夫っ！\n私がばっちり準備しちゃいますから！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "101",
+			"message": "では、またインストール後に！\nそれでは少々お待ちください！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "102",
+			"message": "デジモンは[ffd700]成長期[-]になると、\n戦うことができるようになります。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "103",
+			"message": "パーティーメンバーの2体は\n私からのプレゼントです！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "104",
+			"message": "ガーデンで[ffd700]成長期[-]に進化すると、\nデジモンは[ffd700]ハウス[-]に預けられます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "105",
+			"message": "デジタマと幼年期はガーデン、\n成長期からはハウス、と覚えましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "106",
+			"message": "デジモンを一番簡単に成長させるなら、\n[ffd700]肉[-]がいいですよ。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "107",
+			"message": "肉は[ffd700]肉畑[-]で収穫できます！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "108",
+			"message": "肉畑は建築していましたが\n建築中の施設を[ffd700]タップ[-]して最後の仕上げをお願いします。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "109",
+			"message": "肉畑が完成しましたね！\n次は収穫をしてみましょう。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "110",
+			"message": "収穫できましたね！\n時間が経つと肉はまた収穫できるようになります。こまめに収穫しましょうね！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "111",
+			"message": "収穫した肉は[ffd700]食事[-]で\nデジモンに与えることができます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "112",
+			"message": "「食事」では、デジモンに肉を\nあげてEXPを獲得することができます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "113",
+			"message": "たくさん肉をあげれば、デジモンを\nレベルアップさせることができますよ！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1001",
+			"message": "ここでは、「[ffd700]強化[-]」でデジモンのレベルを\n上げて、強化することができます！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1002",
+			"message": "どんどん「[ffd700]強化[-]」して、\nあなたのデジモンを強くしましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1003",
+			"message": "ここでは、デジモンを\n「[ffd700]進化[-]」させることができます！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1004",
+			"message": "デジモンを「[ffd700]進化[-]」させると、\nそのデジモンのステータスを\nアップさせることができますよ！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1005",
+			"message": "「[ffd700]パーティ編成[-]」では、クエストに連れて行くデジモンのパーティを変更できます！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1006",
+			"message": "デジモンの技、耐性を考えて編成すると、\nバトルで有利になるかもしれませんよ！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1007",
+			"message": "「[ffd700]継承[-]」では、デジモンからデジモンへ、\n継承技を受け継がせることができます！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1008",
+			"message": "回復や補助、ボスに有効な属性の\n継承技を継承させることで、\nバトルを有利に進めることができます。",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1009",
+			"message": "「[ffd700]研究[-]」では[ffd700]究極体同士[-]を掛け合わせて、\n「[ffd700]デジタマ[-]」を生成します。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1010",
+			"message": "生成した「[ffd700]デジタマ[-]」は、\nベースデジモンの優れた能力「[ffd700]才能[-]」を\n引き継ぎます！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1011",
+			"message": "友情度が[ffd700]最大[-]で研究をすると、\nベースデジモンが「[ffd700]覚醒[-]」しますよ！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1015",
+			"message": "クエストへ行く前に、\nデジモンの「[ffd700]耐性[-]」について説明します！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1016",
+			"message": "バトルを有利に進めるために、\nばっちり押さえておきましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1017",
+			"message": "ここでユーザー名の変更ができます。\nユーザーコードはフレンド検索や\nデータ引き継ぎに使用します。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1018",
+			"message": "また、ここにはお気に入りに設定している\nパーティのリーダーが表示されます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1019",
+			"message": "「[ffd700]耐性変化[-]」では、\n同名のデジモンを掛け合わせて、\n耐性を一つ増やすことができます！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1020",
+			"message": "増える耐性はランダムで、\n耐性変化の度に増やした分の耐性を\n付け直すことができます！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1021",
+			"message": "倒したいボスに合わせて耐性を付け直し、\nバトルを有利に進めましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1022",
+			"message": "最後に！「[ffd700]お気に入り[-]」に登録した\nパーティは、ファームに登場しますよ！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1023",
+			"message": "ここでは「[ffd700]施設[-]」を購入できます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1024",
+			"message": "デジモンの育成をサポートする施設を\n建設して、育成の効率化を図りましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1025",
+			"message": "「[ffd700]食事[-]」では、デジモンに肉をあげて\nEXPを獲得することができます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1026",
+			"message": "たくさん肉をあげれば、デジモンを\nレベルアップさせることができます！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1027",
+			"message": "肉は施設の「[ffd700]肉畑[-]」で収穫できるので、\n収穫したらデジモンにあげてみましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1028",
+			"message": "進化素材が足りない場合は、探索へ行って集めましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1029",
+			"message": "他のユーザーさんと通信できる機能「デジチャット」を復旧しました！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1030",
+			"message": "私たち以外にも”デジタルワールドの危機”に立ち向かっているユーザーさんたちがいます。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "1031",
+			"message": "各地で狂暴化するデジモンたちへの対抗策など、有効な情報交換にばっちり使ってみてくださいね！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1032",
+			"message": "みなさんのおかげでデジタルワールドの復旧が進み、デジモン同士で腕試しができる施設「コロシアム」が開放されました！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1033",
+			"message": "この「コロシアム」を活用して、全国のユーザーさんやデジモンたちと対戦し、切磋琢磨することが可能です。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1034",
+			"message": "「コロシアム」をうまく活用して、みんなで強くなっていきましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1035",
+			"message": "チップ装着では、持っているチップを\nデジモンに装着することができます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1036",
+			"message": "あなたの戦略に合わせて装着することで、バトルが大きく変わりますよ！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1037",
+			"message": "また、チップを装着するだけでなく、\n装着数の拡張もできるんです！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1038",
+			"message": "あっ！装着したチップは専用のアイテムを使うか、研究しないとはずすことはできません！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "1039",
+			"message": "チップを装着する場合は慎重に！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1040",
+			"message": "チップは強化することで、効果をどんどん上げることができます！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1041",
+			"message": "チップを強化して、お気に入りのデジモンを強くしましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1042",
+			"message": "[ffd700]チップ[-]は、デジモンに装着することで様々な効果を発揮するアイテムです。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1043",
+			"message": "ここでは、持っているチップを確認することができます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1044",
+			"message": "チップの効果を確認して、いろいろな戦略をばっちり考えちゃいましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1045",
+			"message": "ここには常に出現しているものや期間限定の特別なものなど、様々なクエストが表示されます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1046",
+			"message": "あなたのデジモンたちは今成長途中なので育成に必要なものを獲得できるクエストから進めるのがオススメです！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1047",
+			"message": "まずはEXP、友情度を獲得しやすい[ffd700]通常クエスト[-]」と進化素材を獲得しやすい「[ffd700]曜日クエスト[-]」にチャレンジしましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1048",
+			"message": "ここでは現在開催されている「[ffd700]降臨クエスト[-]」が表示されます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1049",
+			"message": "「[ffd700]究極体[-]」という、とても強力なデジモンへの進化に必要な素材を集めることができるクエストです！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1050",
+			"message": "ですが、とても強いデジモンたちが出現するというデータがあります…。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "1051",
+			"message": "まだ「[ffd700]降臨クエスト 入門[-]」をクリアして「究極体」に進化させていなければ、まずそちらから挑戦するのがオススメです！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1052",
+			"message": "ここは、「[ffd700]降臨クエスト 入門[-]」のエリアです。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1053",
+			"message": "「[ffd700]降臨クエスト[-]」と同じく、「[ffd700]究極体[-]」という強力なデジモンへの進化に必要な素材が獲得できるクエストですが…",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1054",
+			"message": "「入門」ということで、通常の「降臨クエスト」よりも出現するデジモンの強さが控えめで、クリアしやすくなっています！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1055",
+			"message": "「[ffd700]完全体[-]」までは進化できる、でも「降臨クエスト」は難しい！そんな時はこちらの「降臨クエスト 入門」から挑戦です！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1056",
+			"message": "各クエストに、私のばっちり一言アドバイス！をご用意したので、参考にしてみてくださいね！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1057",
+			"message": "ここではデジモンの進化に必要な進化素材を獲得することができます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1058",
+			"message": "進化素材、といっても進化以外の場面でも使用することがあり、多くの進化素材が必要になっていきます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1059",
+			"message": "進化素材が足りない！そんな時は、この\n「[ffd700]曜日クエスト[-]」に挑戦しましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1060",
+			"message": "おめでとうございます！\n全ての「初心者ミッション」クリアです！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1061",
+			"message": "あなたもデジモンたちも、とても頼もしくなっていて感激しちゃいました！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1062",
+			"message": "これで育成やバトルについて\nばっちりポイントをつかめましたね！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1063",
+			"message": "私からお伝えすべきポイントは以上です。ふふっ、免許皆伝ですね。",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1064",
+			"message": "では改めまして…デジタルワールド修復に向けて頑張りましょう！！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1065",
+			"message": "今回なんと！新しいミッションをご用意いたしました！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1066",
+			"message": "名付けて「[ffd700]初心者ミッション[-]」！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1067",
+			"message": "とはいえ…自分はもう初心者ではない、と思われたかもしれません…。",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "1068",
+			"message": "ですが！今までのミッションと同じように\nクリアすれば報酬をゲットできます！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1069",
+			"message": "育成やバトルを進めていけば、自然とクリアできるものばかりですので、ぜひチャレンジしてみてくださいね！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1070",
+			"message": "「[ffd700]才能開花[-]」では、\nデジモン同士を掛け合わせて、\n「[ffd700]才能[-]」を引き継ぎ・強化します。",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1071",
+			"message": "「[ffd700]バージョンアップ[-]」では、\n覚醒値が+4でレベル最大のデジモンを、\nさらに強化することができます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1072",
+			"message": "バージョンアップしたデジモンは\n継承技を二つ継承することができ\n最大レベルもアップします！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1073",
+			"message": "さらに！\n道場で状態異常の耐性変化が行えるようになり、状態異常に耐性付与が可能に！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1074",
+			"message": "バージョンアップや状態異常の耐性変化は強力な分、いずれも専用のアイテムが必要となってしまいます・・・。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "1075",
+			"message": "進化の欠片やプラグインに加え\nバージョンアップは「アップデータ」が必要になり",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "1076",
+			"message": "状態異常の耐性変化は「リファクター」が必要です。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "1077",
+			"message": "条件は厳しいですが、バージョンアップであなたのデジモンはもっと強くなれるはずです！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1078",
+			"message": "ぜひバージョンアップを目指してみてくださいね。",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1079",
+			"message": "この前、火山で保護した子の解析の結果が出ました！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1080",
+			"message": "名前は「ヴォ―ボモン」です！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1081",
+			"message": "かわいい名前ですねっ♪",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1082",
+			"message": "どうやら、ヴォルケニックドラモンに進化する可能性を秘めているようです…っ！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "1083",
+			"message": "進化させていくことで、今は解析できないことも、解析できるようになるかもしれません…っ！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "1084",
+			"message": "ただ…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "1085",
+			"message": "特殊な進化をするらしく…他の子たちとは育て方が違うみたいです。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "1086",
+			"message": "でも、他のデジモンとは違った能力をもった心強いデジモンになってくれるはずです！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1087",
+			"message": "がんばって育てましょうね！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1088",
+			"message": "報告書をまとめてありますので、早速ご覧になってください！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1089",
+			"message": "よろしくお願いしますね！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1090",
+			"message": "[ffd700]交換所[-]ではあなたが手に入れたアイテムと\n他のアイテムを交換することが出来ます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1091",
+			"message": "貴重なアイテムも手に入りますので、\nこまめにチェックしましょうね！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1092",
+			"message": "期限の設定されている交換所もあります。\n忘れずに交換しましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1093",
+			"message": "ここは私たち以外にも\"デジタルワールドの危機\"に立ち向かっているユーザーさんたちとつながるフレンド機能です。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1094",
+			"message": "フレンド申請などはここで確認できます！\nこまめに確認しておきましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1095",
+			"message": "ここでは、ミッションが確認できます。\n[ffd700]ミッション[-]を達成することで、\n報酬をもらえますよ！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1096",
+			"message": "デジモンの育成やバトルを進めていく上で欠かせないものをばっちりピックアップしました！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1097",
+			"message": "何をするのか迷ったら、\nここで確認してくださいね！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1098",
+			"message": "[ffd700]ガーデン[-]では幼年期のデジモンたちが、\n時間経過で成長し進化します。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1099",
+			"message": "バトルに参加できない\n幼年期のデジモンたちはここで\n成長期まで育成をしましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1100",
+			"message": "ここはマルチバトルの募集を、\n見ることが出来る[ffd700]募集板[-]です。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1101",
+			"message": "メンバー参加でのマルチバトルはスタミナを消費しないなど様々なメリットがありますよ！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1102",
+			"message": "協力して”デジタルワールドの危機”に立ち向かいましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "1103",
+			"message": "[ffd700]進化図[-]ではデジモンの進化ルートを\n確認することが出来ます！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1104",
+			"message": "お気に入りのデジモンへ進化したい場合は\nここで進化ルートを確認しましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1105",
+			"message": "まだ「究極体」に進化させていなければ、育成に必要なものを獲得できるクエストから進めるのがオススメです！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1106",
+			"message": "一覧では所持しているデジモンの確認と、\n「[ffd700]お別れ[-]」をすることができます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "1107",
+			"message": "お別れは寂しいですが、\n「クラスタ」や究極体のデジモンならば\n「進化の欠片」を残してくれます。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "1108",
+			"message": "進化の欠片が必要な時や、\nハウスがいっぱいの時は、\nお別れすることも考えてみてくださいね",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "2001",
+			"message": "まずは「[ffd700]探索[-]」でEXPやクラスタを\n獲得して、デジモンを育てましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "2002",
+			"message": "「[ffd700]探索[-]」をタップして、\nクエストに挑戦しましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "2003",
+			"message": "探索で出会うデジモンたちが\nだんだんと強くなってきましたね。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "2004",
+			"message": "なかなかバトルに勝てない！そんな時は、\nデジモンを進化させてみましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "2005",
+			"message": "「[ffd700]デジヴァイス[-]」の「[ffd700]進化[-]」を\nタップしてください。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "2006",
+			"message": "お待たせしました！追加データで接続も安定して、ばっちり準備が整いました！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "2007",
+			"message": "デジタルワールド修復に向けて頑張りましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "2008",
+			"message": "…と言いたいところですが、何から始めればいいのかと心配されていると思います。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "2009",
+			"message": "そこで！まずは何をすれば良いか、私の方でリストアップさせていただきました！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "2010",
+			"message": "名付けて「[ffd700]初心者ミッション[-]」！\n「ミッション」をタップしてください。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "2011",
+			"message": "こちらは、デジモンの育成やバトルを進めていく上で欠かせないものをピックアップしています。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "2012",
+			"message": "これら全てをクリアすれば、あなたもデジモンもばっちりレベルアップ間違いなし！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "2013",
+			"message": "進めていく上で何をするのか迷ったら、この「初心者ミッション」を確認してくださいね！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "2014",
+			"message": "あっ！「[ffd700]チップ[-]」を手に入れましたね！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "2015",
+			"message": "チップをデジモンに装着すれば、様々な効果を発揮するアイテムです！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "2016",
+			"message": "獲得したチップは、「[ffd700]チップ工場[-]」から確認し、デジモンに装着することができます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "2017",
+			"message": "「チップ工場」をまだ建設していない場合は、「[ffd700]施設[-]」の「[ffd700]ショップ[-]」から建設しましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "2018",
+			"message": "それではファームに戻って探索に向かいましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "2019",
+			"message": "探索をタップしてくださいね。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "2020",
+			"message": "一覧では所持しているデジモンの確認と、\n「[ffd700]お別れ[-]」をすることができます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "2021",
+			"message": "お別れは寂しいですが、\n「クラスタ」や究極体のデジモンならば\n「進化の欠片」を残してくれます。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "2022",
+			"message": "進化の欠片が必要な時や、\nハウスがいっぱいの時は、\nお別れすることも考えてみてくださいね",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "2101",
+			"message": "新しく倉庫が建築できるようになりましたよ！\n早速建築してみましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "2102",
+			"message": "新しく道場が建築できるようになりましたよ！\n早速建築してみましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "2103",
+			"message": "新しくレストランが建築できるようになりましたよ！\n早速建築してみましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "2104",
+			"message": "新しくチップ工場が建築できるようになりましたよ！\n早速建築してみましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "3001",
+			"message": "進化させると、今よりも\nさらに強いデジモンになりますよ！",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "3002",
+			"message": "強化すると、デジモンのレベルが\n上がって強くなりますよ！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "3003",
+			"message": "耐性変化をすると、\n有利な耐性が1つ増やせますよ！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "3004",
+			"message": "継承すると、好きな継承技をデジモンに持たせる事ができますよ！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "3005",
+			"message": "才能を引き継がせると、才能のついた\nパラメータの数値が上がりますよ！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "3006",
+			"message": "覚醒させると、全てのステータスが\nアップしますよ！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "10001",
+			"message": "お疲れ様です。おかげさまで[ffd700]【クラスタ】[-]が集まり、\nデジタルワールドの修復も進んでいます。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "10002",
+			"message": "デジチャットやマルチ機能、コロシアムも復旧し、新たな機能「チップシステム」も\n稼働させることができました。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "10003",
+			"message": "ここまで復旧が進んでいるのも、\nあなたとデジモンの協力あってこそです！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "10004",
+			"message": "いつもありがとうございます！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "10005",
+			"message": "強力な暴走デジモンもなんとか撃退できていますし、このままデジタルワールドの完全修復を目指して頑張りましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "10006",
+			"message": "ただ…一つ心配なことが…。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10007",
+			"message": "どうやら、一部のエリアの断片化が活発化しているようなんです。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10008",
+			"message": "何か嫌な予感がします…\n何もなければいいのですが…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10009",
+			"message": "なっ、なに…っ！？いったい何がおこってるの！？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "10010",
+			"message": "アラートが止まったみたいですね…\n何が起きたのか調べてみます！",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "10011",
+			"message": "エラーの発生場所を探知…座標を検出…\nよし…解析結果…出ます！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10012",
+			"message": "これは…っ！今まで見たことのない規模の断片化反応が出ています…っ！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "10013",
+			"message": "デジタルワールドの地下深くに…\n正体不明のデジモンの反応…っ！？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "10014",
+			"message": "これは調査が必要ですね…。\n情報を集めないと…！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10015",
+			"message": "すみませんが、地下へ調査に向かって\n手がかりを集めてもらえませんか？",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10016",
+			"message": "大丈夫っ！\n私がばっちりサポートしちゃいますから！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "10017",
+			"message": "何があるか分からないので、気を付けてくださいね！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "10018",
+			"message": "もしもし…聞こえますか…\n地下へ潜っているの…で…通信が切れ気味です…ね…",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "10019",
+			"message": "あな…たと…デジモンのおかげ…で、\n地下のデジ…モンの…情報データ…が…集まって…きていま…す！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "10020",
+			"message": "地下の…映像が…映せそ…うです。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "10021",
+			"message": "今、映像…を…お送り…しま…す！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "10022",
+			"message": "アクティ…ベート！",
+			"face": "8"
+		},
+		{
+			"tutorialNaviId": "10023",
+			"message": "映像…表示され…ました！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "10024",
+			"message": "ここは…マグマ地帯…でしょう…か…。",
+			"face": "1"
+		},
+		{
+			"tutorialNaviId": "10025",
+			"message": "どう…やら…地下深く…の…洞窟の…よう…ですが…。",
+			"face": "1"
+		},
+		{
+			"tutorialNaviId": "10026",
+			"message": "…っ！？洞窟内…の…温度が…すごい…数値に…っ！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "10027",
+			"message": "こんなに…熱そう…な…場所に…生息…している…デジモンが…？",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10028",
+			"message": "今までの…デジモン…とは…違い…火に…強そう…です…。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10029",
+			"message": "データを…集めて…いただき…ありがとう…ございます…。引き続き…よろしく…お願い…しま…す！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "10030",
+			"message": "…あと…は…これを…設定して…",
+			"face": "1"
+		},
+		{
+			"tutorialNaviId": "10031",
+			"message": "はい！ばっちり通信が安定しました！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "10032",
+			"message": "情報データを集めていただいたおかげで、\n地下デジモンの居場所が特定できました。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "10033",
+			"message": "また、そのデジモンの強さも少しずつ判明してきましたよ…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10034",
+			"message": "やはり「火属性」には非常に強く、効果は見込めないようです。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10035",
+			"message": "また、強大なパワーを持っているようで、\n固有技や継承技を連続して使用できる可能性があります…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10036",
+			"message": "もし戦うことになれば、壮絶なものになりそうです…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10037",
+			"message": "…っ！？デジモン出現！？\nこの位置…地下のデジモンが…っ！！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "10038",
+			"message": "映像…表示します…っ！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10039",
+			"message": "なん…でしょう…っ！？\nあのデジモンはいったい…っ！？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "10040",
+			"message": "今までの記録データには存在しないデジモンのようです…\n…「[ffd700]ヴォルケニックドラモン[-]」？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "10041",
+			"message": "出現場所はすぐ近くの階層です！\n準備を整えて向かいましょう！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10042",
+			"message": "ヴォルケニックドラモンの反応が遠ざかっていきます…。",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "10043",
+			"message": "どうやら別の場所へ移動していったようですね。",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "10044",
+			"message": "ヴォルケニックドラモン…\nとても強大なデジモンでしたね…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10045",
+			"message": "今回は無事撃退することができましたが、\nギリギリの戦いでした。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10046",
+			"message": "ヴォルケニックドラモンの傷が癒えた時、\n再び姿を現すかもしれませんね…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10047",
+			"message": "また、今回の影響で、各地に気になる反応が出ています。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10048",
+			"message": "もしかすると、新たな暴走デジモンや何らかの変異が起こるかもしれません。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10049",
+			"message": "でも大丈夫っ！今までどおり、\n私がばっちりサポートしちゃいますよ！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "10050",
+			"message": "デジタルワールドの修復に向けて、引き続き協力してくださいねっ！\nよろしくお願いします！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "10051",
+			"message": "少しご相談したいことがあるですが…\n今、大丈夫でしょうか？",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10052",
+			"message": "$USER_INPUT_NAME$さんもお気づきだとは思いますが、最近は以前にも増して強力なデジモンの暴走が多いと感じませんか？",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10053",
+			"message": "そこで、私独自に調べてみたんです。\nそうしたら…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10054",
+			"message": "以前ヴォルケニックドラモンと戦った場所を中心に、暴走の頻度が高くなっていることが判明したんです。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10055",
+			"message": "中心地では断片化とは違うデータの異常が確認されているんですが、",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10056",
+			"message": "これ以上は直接調べないとわからないんです…\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10057",
+			"message": "…$USER_INPUT_NAME$さん、調査をお願いしてもよろしいでしょうか？",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10058",
+			"message": "本当ですか！ありがとうございます！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "10059",
+			"message": "では、ナビゲートしますので、出発の準備が整ったら、声をかけてください！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "10060",
+			"message": "この火山にくるのも久しぶりですね…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10061",
+			"message": "では、地下へ向かって、手がかりを集めてもらえますか？",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10062",
+			"message": "今回も、私がばっちりサポートしちゃいますから！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "10063",
+			"message": "よし！以前は通信が不安定でしたが、今回は…大…丈夫…",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "10064",
+			"message": "あ、あ…れ？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "10065",
+			"message": "おか…しいです…ね。以…前対策を…し…たはずな…のに…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10066",
+			"message": "すぐ…解析して…直す…ので、少し時間…をくだ…さい…っ！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10067",
+			"message": "なん…となく…原因は…つかめました…\r\n…あと…は…これを…設定して…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10068",
+			"message": "アクティ…ベート！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10069",
+			"message": "はい！これでばっちりですね！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "10070",
+			"message": "どうやら凄まじい量のノイズが原因で、こちらの通信が干渉を受けていたようです。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10071",
+			"message": "でも､こんな大量のノイズを発生させるものなんて･･･",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10072",
+			"message": "この先にとんでもないものが待ち受けているのかもしれません…気を付けてください…っ！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10073",
+			"message": "データの反応がさらに強くなってきました…っ！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10074",
+			"message": "もうすぐ、ヴォルケニックドラモンと遭遇した地点です。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10075",
+			"message": "十分に気を付けてください…っ！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10076",
+			"message": "見た目は、以前来た時とあまり変わりはありませんね。",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "10077",
+			"message": "あっ！　あれは…っ！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "10078",
+			"message": "とてつもない情報量のデータみたいですね…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10079",
+			"message": "これがあればデジモンたちの暴走の原因がわかるかも…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10080",
+			"message": "解析してみるので、持って帰ってきてもらえますか？",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10081",
+			"message": "…えっ！？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "10082",
+			"message": "急に暴走したデジモンが…っ！？",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10083",
+			"message": "仕方ありません…！サポートしますので、戦う準備をお願いします！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10084",
+			"message": "ふぅ…　なんとかなりましたね…",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "10085",
+			"message": "先ほどのデータは無事ですか…？",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "10086",
+			"message": "あ！よかった！無事みたいですね…",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "10087",
+			"message": "では、解析をするので、今度こそ持ち帰って…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10088",
+			"message": "えっ！？なに！？急にデータ量が増大して…！？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "10089",
+			"message": "きゃっ…！！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "10090",
+			"message": "これは…デジモン…っ！？まさか、こんなことって…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10091",
+			"message": "……でも……",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10092",
+			"message": "……うーん……",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10093",
+			"message": "いえ…なんにせよ、その子を調べたら…うん…そうよね…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10094",
+			"message": "あっ、ごめんなさい！少し考え込んでしまって…",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "10095",
+			"message": "…$USER_INPUT_NAME$さん、その子を保護して、連れ帰ってきてもらえますか？",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10096",
+			"message": "その子のことを調べたら、暴走や断片化について、なにかわかるかもしれません。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10097",
+			"message": "それに、そんなにかわいい子を、危険な場所においておくわけにもいきませんしね。",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "10098",
+			"message": "一度ファームに戻ってきてくださいね。よろしくお願いします！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "10099",
+			"message": "ヴォーボモンは元気ですか？",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "10100",
+			"message": "大事に育ててあげてくださいね。そうすれば…",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "10101",
+			"message": "なっ、なに…っ！？いったい何が…！？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "10102",
+			"message": "何が起きているのか調べてみます！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10103",
+			"message": "これは…っ！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "10104",
+			"message": "ヴォルケニックドラモンがファームに接近中です…っ！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10105",
+			"message": "こちらに一直線に向かってきています！\nすぐに戦う準備を…っ！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10106",
+			"message": "そんなっ！もうこんな近くに…っ！",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10107",
+			"message": "またアラートっ！？今度は一体…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10108",
+			"message": "…えっ！？",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10109",
+			"message": "ファーム付近のデータが、火山地帯のデータに書き換わっていく…っ！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "10110",
+			"message": "こんなことが…ありえないです！周囲のデータを書き換えるなんて…っ！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "10111",
+			"message": "これがヴォルケニックドラモンの力…なんでしょうか…っ！",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "10112",
+			"message": "…………",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10113",
+			"message": "危険ですが、ヴォルケニックドラモンを追い払えば、今ならまだデータが復元できるかも…しれません…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10114",
+			"message": "このままにしておくと、いずれデジタルワールド全域が書き換えられてしまいます！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10115",
+			"message": "デジモンたちのためにも、戦いましょう！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10116",
+			"message": "もちろん、サポートは任せてくださいっ！\n$USER_INPUT_NAME$さん、よろしくお願いしますね！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "10117",
+			"message": "$USER_INPUT_NAME$さん、よろしくお願いしますね！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "19001",
+			"message": "うーん…どうしよう…\n困ったな…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19002",
+			"message": "…あっ！$USER_INPUT_NAME$さん！良いタイミングで来てくださいました！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19003",
+			"message": "実は1つ困ったことがありまして…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19004",
+			"message": "昨日からパルモンたちが、伝説のジュレイモンを探しに森へ行くって\n張り切っているのですが…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19005",
+			"message": "心配になって調査したら、どうやらその森は暴走したデジモンがよく出現する危険なところみたいなんです…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19006",
+			"message": "危ないので、私もパルモンたちを説得してみたのですが、どうしても行きたいって聞いてくれなくて…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19007",
+			"message": "えっ？伝説のジュレイモンですか？",
+			"face": "1"
+		},
+		{
+			"tutorialNaviId": "19008",
+			"message": "あっ！すみません！\n説明していませんでした！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "19009",
+			"message": "伝説のジュレイモンというのは、どうやら毎年この時期に現れると言われているジュレイモンのことみたいなんです。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19010",
+			"message": "私も詳しくはわからないのですが、ジュレイモンの下に1組のペアが行くと何かいい事がある…？みたいです。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19011",
+			"message": "パルモンたちはそのウワサが本当なのか確かめたいみたいなのですが、やっぱり危険ですし…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19012",
+			"message": "…あっ！そうだ！$USER_INPUT_NAME$さん！私と一緒にジュレイモンを探しに行ってくれませんか？",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19013",
+			"message": "危険なところなのでパルモンたちを連れて行く前に、私たちが先に行って確かめればいいと思うんです！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19014",
+			"message": "私と一緒に…行ってもらえませんか…？",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19015",
+			"message": "…",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19016",
+			"message": "ありがとうございます！\n$USER_INPUT_NAME$さんなら、一緒に行ってくれるって思ってました！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "19017",
+			"message": "では早速ジュレイモンを探しに行きましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19018",
+			"message": "例のジュレイモンが現れるという森に行くには、まずここの山を越えなくてはならないんです。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19019",
+			"message": "あっ！見てください！\nここからファームが見えますよ！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19020",
+			"message": "きれいな景色ですね…。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19021",
+			"message": "ふふっ、こんな景色が見られたのも、$USER_INPUT_NAME$さんが一緒に来てくれたおかげですね。",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "19022",
+			"message": "最初はどうしようかと思っていましたが、$USER_INPUT_NAME$さんが一緒に来てくれて、本当に良かったです！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19023",
+			"message": "……",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19024",
+			"message": "…え？そんなに見つめて…？\nなにか…ついていますか？",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "19025",
+			"message": "きゃっ！！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "19026",
+			"message": "あっ！あれはっ！\n暴走したデジモンみたいです！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "19027",
+			"message": "私がサポートします！\n$USER_INPUT_NAME$さん！よろしくお願いします！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "19028",
+			"message": "…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "19029",
+			"message": "…\n……",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "19030",
+			"message": "ふぅ…どうにか暴走を止めることができましたね…。",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "19031",
+			"message": "さすが$USER_INPUT_NAME$さんですね！\nとっても頼りになります♪",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "19032",
+			"message": "でも…このあたりはまだ安全なはずなんですけど…",
+			"face": "1"
+		},
+		{
+			"tutorialNaviId": "19033",
+			"message": "もしかすると…また新たな異変が起こっているのでしょうか…",
+			"face": "1"
+		},
+		{
+			"tutorialNaviId": "19034",
+			"message": "うーん…",
+			"face": "1"
+		},
+		{
+			"tutorialNaviId": "19035",
+			"message": "…ん？",
+			"face": "1"
+		},
+		{
+			"tutorialNaviId": "19036",
+			"message": "私の顔を見て…どうしたんですか？",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "19037",
+			"message": "…えっ？違う？\n……後ろ？",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "19038",
+			"message": "…って、きゃああああああああああああ！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "19039",
+			"message": "はぁ…はぁ…まさか…こんなに…暴走デジモンが…いるなんて…",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "19040",
+			"message": "なんとか森まで来られましたが…危なかったですね…",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "19041",
+			"message": "もしかしたら、やっぱり何か異変が起こっているのかもしれません。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19042",
+			"message": "パルモンたちには申し訳ないですが、ここは一回ファームに戻って調査した方が…。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19043",
+			"message": "えっ…戻らないのですか…？\nでもこのままでは危険が…。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19044",
+			"message": "パルモンたちの悲しむ顔が見たくない…からですか…？",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19045",
+			"message": "そんなにもパルモンたちのために…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19046",
+			"message": "ふふっ、$USER_INPUT_NAME$さんらしいですね。",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "19047",
+			"message": "そういうところ、ステキだと思います！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "19048",
+			"message": "では、覚悟を決めて進みましょ…えっ？",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19049",
+			"message": "ちょっと待ってください…っ！\nこの反応は…まさか…っ！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "19050",
+			"message": "あれがパルモン達の言っていたジュレイモンかもしれません！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "19051",
+			"message": "…普通のジュレイモンとは違う、特別な力を感じます！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "19052",
+			"message": "…どうやらこの力は、周囲のデジモンに作用して、酔っ払ったような状態にしてしまうみたいです。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "19053",
+			"message": "もしかして、今までのデジモンたちもこの力の影響で…？",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "19054",
+			"message": "あまりここにはいない方がいいかもしれませんね…。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "19055",
+			"message": "ちょうど今は眠っているみたいなので、パパっと試しちゃいましょうか。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19056",
+			"message": "…よし！えっと…ジュレイモンの下に1組のペアが行くと…。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19057",
+			"message": "…",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19058",
+			"message": "……",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19059",
+			"message": "あれ…？",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19060",
+			"message": "パルモンたちは、何をするつもりだったのでしょう…。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19061",
+			"message": "どうしましょう…一体何をすれば…？",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19062",
+			"message": "えっ…登って…お祈り…？",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19063",
+			"message": "…わかりました！やってみましょう！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19064",
+			"message": "では$USER_INPUT_NAME$さん、先にお願いし…。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19065",
+			"message": "きゃっ！！ジュレイモンが起きてます！しかも…臨戦態勢っ！？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "19066",
+			"message": "どうして…あ、もしかして私が大きな声を出してしまったから…。",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "19067",
+			"message": "すみません！私のせいでこんなことに…！",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19068",
+			"message": "お願いです！ジュレイモンを…止めてください…っ！",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19069",
+			"message": "ふぅ…ジュレイモンの暴走が止まりましたね…。",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "19070",
+			"message": "すみません…わたしのせいで…。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19071",
+			"message": "えっ…そんなことないって…？\n$USER_INPUT_NAME$さん…。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "19072",
+			"message": "…ふふっ、優しいんですね。",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "19073",
+			"message": "今回はうまくいきませんでしたけど…来年はパルモンたちを連れてきてあげられるように頑張りたいですね！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19074",
+			"message": "それと…危ないところを助けていただいてありがとうございます！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19075",
+			"message": "デジモンたちと一緒に戦っている$USER_INPUT_NAME$さん、とってもステキでしたよ！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "19076",
+			"message": "…お世辞じゃないです、私の素直な気持ちです。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19077",
+			"message": "デジモンたちとこんなに心を通わせることができるなんてすごいです。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19078",
+			"message": "デジモンたちもとっても幸せそうな顔をしています。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19079",
+			"message": "それに…私も$USER_INPUT_NAME$さんのおかげでとっても楽しいですよ…♪",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "19080",
+			"message": "今までいろいろありましたけど…$USER_INPUT_NAME$さんがいてくれたおかげで、ここまで来られたんですから…。",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "19081",
+			"message": "だから…その…。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19082",
+			"message": "……",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "19083",
+			"message": "なんだか照れちゃいますね…。",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "19084",
+			"message": "えーと…そうですね…なんて言ったらいいか…。",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "19085",
+			"message": "$USER_INPUT_NAME$さんは…\n本当にステキだと思います♪",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "19086",
+			"message": "ふふっ♪",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "19087",
+			"message": "今日はエイプリルフールですから、\n本気にし過ぎちゃダメ…ですよ…♪",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "19088",
+			"message": "さあ！帰りましょう♪",
+			"face": "5"
+		}
+	]
+}

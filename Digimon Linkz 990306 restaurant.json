@@ -1,0 +1,64 @@
+{
+	"facilityRestaurantM": [
+		{
+			"facilityRestaurantId": "1",
+			"level": "1",
+			"maxStamina": "40",
+			"recoveryTime": "180"
+		},
+		{
+			"facilityRestaurantId": "2",
+			"level": "2",
+			"maxStamina": "45",
+			"recoveryTime": "180"
+		},
+		{
+			"facilityRestaurantId": "3",
+			"level": "3",
+			"maxStamina": "50",
+			"recoveryTime": "180"
+		},
+		{
+			"facilityRestaurantId": "4",
+			"level": "4",
+			"maxStamina": "55",
+			"recoveryTime": "180"
+		},
+		{
+			"facilityRestaurantId": "5",
+			"level": "5",
+			"maxStamina": "60",
+			"recoveryTime": "180"
+		},
+		{
+			"facilityRestaurantId": "6",
+			"level": "6",
+			"maxStamina": "65",
+			"recoveryTime": "180"
+		},
+		{
+			"facilityRestaurantId": "7",
+			"level": "7",
+			"maxStamina": "70",
+			"recoveryTime": "180"
+		},
+		{
+			"facilityRestaurantId": "8",
+			"level": "8",
+			"maxStamina": "75",
+			"recoveryTime": "180"
+		},
+		{
+			"facilityRestaurantId": "9",
+			"level": "9",
+			"maxStamina": "80",
+			"recoveryTime": "180"
+		},
+		{
+			"facilityRestaurantId": "10",
+			"level": "10",
+			"maxStamina": "100",
+			"recoveryTime": "180"
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"monsterRareM": [
+		{
+			"monsterRareId": "1",
+			"name": "-",
+			"title": "覚醒",
+			"goldMedalMaxNum": "2"
+		},
+		{
+			"monsterRareId": "2",
+			"name": "Common02_Arousal_1",
+			"title": "覚醒",
+			"goldMedalMaxNum": "2"
+		},
+		{
+			"monsterRareId": "3",
+			"name": "Common02_Arousal_2",
+			"title": "覚醒",
+			"goldMedalMaxNum": "2"
+		},
+		{
+			"monsterRareId": "4",
+			"name": "Common02_Arousal_3",
+			"title": "覚醒",
+			"goldMedalMaxNum": "2"
+		},
+		{
+			"monsterRareId": "5",
+			"name": "Common02_Arousal_4",
+			"title": "覚醒",
+			"goldMedalMaxNum": "2"
+		},
+		{
+			"monsterRareId": "6",
+			"name": "Common02_Arousal_5",
+			"title": "Ver",
+			"goldMedalMaxNum": "2"
+		}
+	]
+}

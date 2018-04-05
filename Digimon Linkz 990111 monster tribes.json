@@ -1,0 +1,32 @@
+{
+	"monsterTribeM": [
+		{
+			"monsterTribeId": "1",
+			"monsterTribeName": "幻生系"
+		},
+		{
+			"monsterTribeId": "2",
+			"monsterTribeName": "陽炎系"
+		},
+		{
+			"monsterTribeId": "3",
+			"monsterTribeName": "氷河系"
+		},
+		{
+			"monsterTribeId": "4",
+			"monsterTribeName": "電磁系"
+		},
+		{
+			"monsterTribeId": "5",
+			"monsterTribeName": "大地系"
+		},
+		{
+			"monsterTribeId": "6",
+			"monsterTribeName": "光芒系"
+		},
+		{
+			"monsterTribeId": "7",
+			"monsterTribeName": "深淵系"
+		}
+	]
+}

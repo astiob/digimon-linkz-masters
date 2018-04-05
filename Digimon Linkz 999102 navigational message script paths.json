@@ -1,0 +1,48 @@
+{
+	"navigationMessageM": [
+		{
+			"navigationMessageId": 1,
+			"scriptPath": "GUIDANCE_FIRST_PLAY"
+		},
+		{
+			"navigationMessageId": 2,
+			"scriptPath": "Guidance_BuildMeatStore"
+		},
+		{
+			"navigationMessageId": 3,
+			"scriptPath": "Guidance_BuildRestaurant"
+		},
+		{
+			"navigationMessageId": 4,
+			"scriptPath": "Guidance_BuildTrainingHouse"
+		},
+		{
+			"navigationMessageId": 5,
+			"scriptPath": "Guidance_BuildChipFactory"
+		},
+		{
+			"navigationMessageId": 6,
+			"scriptPath": "GUIDANCE_FIRST_PLAY"
+		},
+		{
+			"navigationMessageId": 7,
+			"scriptPath": "GUIDANCE_BATTLE_LOSING"
+		},
+		{
+			"navigationMessageId": 8,
+			"scriptPath": "GUIDANCE_COLOSSEUM_OPEN"
+		},
+		{
+			"navigationMessageId": 9,
+			"scriptPath": "Guidance_UseChip"
+		},
+		{
+			"navigationMessageId": 10,
+			"scriptPath": "GUIDANCE_FIRST_PLAY_before_160user"
+		},
+		{
+			"navigationMessageId": 11,
+			"scriptPath": "Guidance_volk"
+		}
+	]
+}
