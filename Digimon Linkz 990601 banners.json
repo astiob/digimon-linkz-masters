@@ -6524,6 +6524,17 @@
 			"endTime": "2018-04-11 23:59:59"
 		},
 		{
+			"bannerId": "630",
+			"actionType": "menu",
+			"name": "強化運上昇確率アップキャンペーン開催！",
+			"img": "/campaign/10004/10004_powerluck.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1013",
+			"dispNum": "102",
+			"startTime": "2018-04-06 16:00:00",
+			"endTime": "2018-04-09 15:59:59"
+		},
+		{
 			"bannerId": "631",
 			"actionType": "menu",
 			"name": "イベント「大乱戦-春嵐篇-」開催！",
