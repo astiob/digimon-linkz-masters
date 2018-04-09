@@ -2542,6 +2542,27 @@
 			"speedAbilityFlg": 0
 		},
 		{
+			"monsterFixedValueId": "1122",
+			"monsterId": "731",
+			"level": "50",
+			"luck": "1",
+			"hpAbility": "0",
+			"attackAbility": "0",
+			"defenseAbility": "0",
+			"spAttackAbility": "0",
+			"spDefenseAbility": "0",
+			"speedAbility": "0",
+			"defaultSkillGroupSubId": "1",
+			"leaderSkillId": "0",
+			"commonSkillId": "634",
+			"hpAbilityFlg": 0,
+			"attackAbilityFlg": 0,
+			"defenseAbilityFlg": 0,
+			"spAttackAbilityFlg": 0,
+			"spDefenseAbilityFlg": 0,
+			"speedAbilityFlg": 0
+		},
+		{
 			"monsterFixedValueId": "1123",
 			"monsterId": "5002",
 			"level": "1",

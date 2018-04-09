@@ -6544,6 +6544,39 @@
 			"dispNum": "55",
 			"startTime": "2018-04-05 18:00:00",
 			"endTime": "2018-04-11 23:59:59"
+		},
+		{
+			"bannerId": "632",
+			"actionType": "menu",
+			"name": "ドットアイテムも登場！ナムコ×デジモンコラボ開催！",
+			"img": "/collaboration/13/dm_tri_web_460x120_png24.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1016",
+			"dispNum": "151",
+			"startTime": "2018-04-09 18:00:00",
+			"endTime": "2018-05-20 23:59:59"
+		},
+		{
+			"bannerId": "633",
+			"actionType": "menu",
+			"name": "アニON STATIONにて『デジモンアドベンチャー tri.』のコラボカフェ開催決定！",
+			"img": "/collaboration/14/460x120.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1017",
+			"dispNum": "150",
+			"startTime": "2018-04-09 18:00:00",
+			"endTime": "2018-05-08 23:59:59"
+		},
+		{
+			"bannerId": "634",
+			"actionType": "menu",
+			"name": "2周年記念ログインボーナスVol.2開催！",
+			"img": "/login/10020/10020_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1018",
+			"dispNum": "105",
+			"startTime": "2018-04-10 05:00:00",
+			"endTime": "2018-04-27 04:59:59"
 		}
 	]
 }

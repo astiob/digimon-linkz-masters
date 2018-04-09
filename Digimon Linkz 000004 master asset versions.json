@@ -7,8 +7,8 @@
 		},
 		{
 			"tableName": "monster_m",
-			"version": "104",
-			"cacheVersion": "104"
+			"version": "109",
+			"cacheVersion": "109"
 		},
 		{
 			"tableName": "monster_evolution_m",
@@ -237,8 +237,8 @@
 		},
 		{
 			"tableName": "monster_fixed_value_m",
-			"version": "43",
-			"cacheVersion": "43"
+			"version": "50",
+			"cacheVersion": "50"
 		},
 		{
 			"tableName": "navigation_message_m",
@@ -317,14 +317,14 @@
 		},
 		{
 			"tableName": "banner_m",
-			"version": "6",
-			"cacheVersion": "6"
+			"version": "13",
+			"cacheVersion": "13"
 		}
 	],
 	"versionManagerMaster": {
 		"versionManagerId": "5",
 		"versionManagerType": "2",
 		"osType": "2",
-		"version": "265"
+		"version": "267"
 	}
 }
