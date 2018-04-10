@@ -6496,10 +6496,10 @@
 			"name": "ミニイベント「ドットメモリーズ」開催！",
 			"img": "/events/extra/3/Holding_3.png",
 			"linkCategoryType": "4",
-			"url": "/information/InformationDetail?informationId=1009",
+			"url": "/information/InformationDetail?informationId=1015",
 			"dispNum": "70",
-			"startTime": "2018-04-09 18:00:00",
-			"endTime": "2018-05-08 23:59:59"
+			"startTime": "2018-04-10 18:00:00",
+			"endTime": "2018-05-09 23:59:59"
 		},
 		{
 			"bannerId": "628",
