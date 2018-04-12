@@ -6577,6 +6577,39 @@
 			"dispNum": "105",
 			"startTime": "2018-04-10 05:00:00",
 			"endTime": "2018-04-27 04:59:59"
+		},
+		{
+			"bannerId": "635",
+			"actionType": "menu",
+			"name": "大乱戦-夜桜篇- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30067/30067_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1021",
+			"dispNum": "7",
+			"startTime": "2018-04-12 16:00:00",
+			"endTime": "2018-04-18 23:59:59"
+		},
+		{
+			"bannerId": "636",
+			"actionType": "menu",
+			"name": "2周年記念 究極体フェスキャプチャVol.2開催！",
+			"img": "/gasha/special/10165/10165_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1022",
+			"dispNum": "3",
+			"startTime": "2018-04-12 16:00:00",
+			"endTime": "2018-04-26 15:59:59"
+		},
+		{
+			"bannerId": "637",
+			"actionType": "menu",
+			"name": "イベント「大乱戦-夜桜篇-」開催！",
+			"img": "/events/syuusyuu/39/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1023",
+			"dispNum": "55",
+			"startTime": "2018-04-12 18:00:00",
+			"endTime": "2018-04-18 23:59:59"
 		}
 	]
 }

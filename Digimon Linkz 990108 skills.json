@@ -13371,6 +13371,34 @@
 			"rank": "1"
 		},
 		{
+			"skillId": "956",
+			"name": "アルティメットフレア",
+			"simpleDescription": "",
+			"description": "火属性で敵単体に複数回魔法小ダメージ、確率で混乱にする",
+			"type": "2",
+			"skillGroupId": "340",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "340",
+			"soundEffect": "bt_917",
+			"rank": "1"
+		},
+		{
+			"skillId": "957",
+			"name": "アルティメットフレア",
+			"simpleDescription": "",
+			"description": "火属性で敵単体に複数回魔法小ダメージ、確率で混乱にする",
+			"type": "2",
+			"skillGroupId": "340",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "340",
+			"soundEffect": "bt_917",
+			"rank": "1"
+		},
+		{
 			"skillId": "9001",
 			"name": "プチフレイム",
 			"simpleDescription": "",

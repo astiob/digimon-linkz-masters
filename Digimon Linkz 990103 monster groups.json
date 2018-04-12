@@ -4846,6 +4846,23 @@
 			"modelId": "338"
 		},
 		{
+			"monsterGroupId": "340",
+			"monsterCollectionId": "60339",
+			"monsterName": "アーマゲモン",
+			"simpleDescription": "",
+			"description": "ディアボロモンの幼年期が大量に融合し、突然変異を起こし誕生した超究極体のデジモン。幼年期を大量に発生させ融合させることで、能力を分散させるのではなく、1個体に凝縮させることでディアボロモン以上のパワーを得ることができた。",
+			"growStep": "7",
+			"tribe": "7",
+			"partyCharaPosX": "-0.03",
+			"partyCharaPosY": "-0.96",
+			"partyCharaPosZ": "0.18",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "340"
+		},
+		{
 			"monsterGroupId": "5002",
 			"monsterCollectionId": "0",
 			"monsterName": "アグモン",

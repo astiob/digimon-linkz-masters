@@ -10066,6 +10066,72 @@
 			"effect": "chip_effect_10083"
 		},
 		{
+			"chipId": "100248",
+			"chipGroupId": "10084",
+			"name": "夜桜のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10084",
+			"detail": "S-ATK+20。さらに、「大乱戦 -夜桜篇-」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10084"
+		},
+		{
+			"chipId": "100249",
+			"chipGroupId": "10084",
+			"name": "夜桜のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10084",
+			"detail": "S-ATK+30。さらに、「大乱戦 -夜桜篇-」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10084"
+		},
+		{
+			"chipId": "100250",
+			"chipGroupId": "10084",
+			"name": "夜桜のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10084",
+			"detail": "S-ATK+50。さらに、「大乱戦 -夜桜篇-」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10084"
+		},
+		{
+			"chipId": "100251",
+			"chipGroupId": "10085",
+			"name": "夜桜のドロップ特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10085",
+			"detail": "ATK+20。「大乱戦 -夜桜篇-」で交換所アイテムドロップ時の取得個数が+1される。",
+			"effect": "chip_effect_10085"
+		},
+		{
+			"chipId": "100252",
+			"chipGroupId": "10085",
+			"name": "夜桜のドロップ特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10085",
+			"detail": "ATK+30。「大乱戦 -夜桜篇-」で交換所アイテムドロップ時の取得個数が+3される。",
+			"effect": "chip_effect_10085"
+		},
+		{
+			"chipId": "100253",
+			"chipGroupId": "10085",
+			"name": "夜桜のドロップ特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10085",
+			"detail": "ATK+50。「大乱戦 -夜桜篇-」で交換所アイテムドロップ時の取得個数が+9される。",
+			"effect": "chip_effect_10085"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

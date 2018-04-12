@@ -1007,6 +1007,15 @@
 			"receiveStartTime": "2016-01-01 18:00:00",
 			"receiveEndTime": "2016-01-01 18:00:00",
 			"backgroundImg": "syuusyuu/38/bg.png"
+		},
+		{
+			"worldEventId": "119",
+			"eventType": "0",
+			"startTime": "2016-01-01 18:00:00",
+			"endTime": "2030-01-01 18:00:00",
+			"receiveStartTime": "2016-01-01 18:00:00",
+			"receiveEndTime": "2016-01-01 18:00:00",
+			"backgroundImg": "syuusyuu/39/bg.png"
 		}
 	]
 }
