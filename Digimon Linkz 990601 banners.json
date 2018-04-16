@@ -6610,6 +6610,17 @@
 			"dispNum": "55",
 			"startTime": "2018-04-12 18:00:00",
 			"endTime": "2018-04-18 23:59:59"
+		},
+		{
+			"bannerId": "638",
+			"actionType": "menu",
+			"name": "大乱戦 育成デジモンキャプチャ開催！",
+			"img": "/gasha/special/10167/10167_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1027",
+			"dispNum": "19",
+			"startTime": "2018-04-16 16:00:00",
+			"endTime": "2018-04-23 15:59:59"
 		}
 	]
 }
