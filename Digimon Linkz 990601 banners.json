@@ -6559,7 +6559,7 @@
 		{
 			"bannerId": "633",
 			"actionType": "menu",
-			"name": "アニON STATIONにて『デジモンアドベンチャー tri.』のコラボカフェ開催決定！",
+			"name": "アニONで『Final Party!』開催！",
 			"img": "/collaboration/14/460x120.png",
 			"linkCategoryType": "4",
 			"url": "/information/InformationDetail?informationId=1017",
@@ -6621,6 +6621,50 @@
 			"dispNum": "19",
 			"startTime": "2018-04-16 16:00:00",
 			"endTime": "2018-04-23 15:59:59"
+		},
+		{
+			"bannerId": "639",
+			"actionType": "menu",
+			"name": "【復刻】知性と野性 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30046/30046_banner_1.png?v=1",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1028",
+			"dispNum": "7",
+			"startTime": "2018-04-19 16:00:00",
+			"endTime": "2018-04-25 23:59:59"
+		},
+		{
+			"bannerId": "640",
+			"actionType": "menu",
+			"name": "才能メダルキャプチャ開催！",
+			"img": "/gasha/special/10099/10099_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1029",
+			"dispNum": "5",
+			"startTime": "2018-04-19 16:00:00",
+			"endTime": "2018-04-26 15:59:59"
+		},
+		{
+			"bannerId": "641",
+			"actionType": "menu",
+			"name": "才能メダル引き継ぎ確率UPキャンペーン開催！",
+			"img": "/campaign/11002/11002_labomedal.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1030",
+			"dispNum": "102",
+			"startTime": "2018-04-20 16:00:00",
+			"endTime": "2018-04-25 15:59:59"
+		},
+		{
+			"bannerId": "642",
+			"actionType": "menu",
+			"name": "イベント「【復刻】知性と野性」開催！",
+			"img": "/events/syuusyuu/26/Holding_3.png?revival",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1032",
+			"dispNum": "50",
+			"startTime": "2018-04-19 18:00:00",
+			"endTime": "2018-04-25 23:59:59"
 		}
 	]
 }
