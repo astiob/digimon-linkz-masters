@@ -750,6 +750,13 @@
 			"actionValue": "1"
 		},
 		{
+			"messageCode": "E-GA09",
+			"messageTitle": "指定アイテム不足",
+			"messageText": "【E-GA09】指定のアイテムが不足しています。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
 			"messageCode": "E-GA10",
 			"messageTitle": "予期せぬエラー",
 			"messageText": "【E-GA10】予期せぬエラーが発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",

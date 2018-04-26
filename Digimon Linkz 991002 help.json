@@ -133,7 +133,7 @@
 			"helpCategoryId": "4",
 			"helpTitle": "曜日クエスト",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>曜日によって開いているクエストが変わります。</div><div class='txt margin_top_10'>各曜日ごとにドロップする<span class='fnt_emphasis fnt_bold'>プラグイン（進化素材）</span>が決まっています。</div><div class='txt margin_top_10'>曜日クエストには、「<span class='fnt_emphasis fnt_bold'>初級・中級・上級</span>」という<br/>3段階の難易度のクエストがあります。</div><div class='txt margin_top_10'>対象の曜日以外はデジストーンを5個消費することで、30分間開放されます。</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>曜日によって開いているクエストが変わります。</div><div class='txt margin_top_10'>各曜日ごとにドロップする<span class='fnt_emphasis fnt_bold'>プラグイン（進化素材）</span>が決まっています。</div><div class='txt margin_top_10'>曜日クエストには、「<span class='fnt_emphasis fnt_bold'>ver1.0・ver2.0・ver3.0・ver4.0・ver1.0＆2.0・ver3.0＆4.0</span>」という<br/>6段階の難易度のクエストがあります。</div><div class='txt margin_top_10'>対象の曜日以外はデジストーンを5個消費することで、30分間開放されます。</div></article>",
 			"helpPriority": "3"
 		},
 		{

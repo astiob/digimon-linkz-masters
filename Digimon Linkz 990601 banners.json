@@ -6665,6 +6665,94 @@
 			"dispNum": "50",
 			"startTime": "2018-04-19 18:00:00",
 			"endTime": "2018-04-25 23:59:59"
+		},
+		{
+			"bannerId": "643",
+			"actionType": "menu",
+			"name": "「しゃべる！デジモンキャプチャ」開催！",
+			"img": "/gasha/special/10169/10169_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1036",
+			"dispNum": "25",
+			"startTime": "2018-04-26 16:00:00",
+			"endTime": "2018-05-03 15:59:59"
+		},
+		{
+			"bannerId": "644",
+			"actionType": "menu",
+			"name": "爆炎竜育成チケットキャプチャ開催！",
+			"img": "/gasha/special/20010/20010_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1037",
+			"dispNum": "23",
+			"startTime": "2018-04-26 16:00:00",
+			"endTime": "2018-05-10 15:59:59"
+		},
+		{
+			"bannerId": "645",
+			"actionType": "menu",
+			"name": "白銀の慈悲 ～OMEGA～ 特効デジモンキャプチャ開催！",
+			"img": "/gasha/special/10170/10170_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1038",
+			"dispNum": "19",
+			"startTime": "2018-04-26 16:00:00",
+			"endTime": "2018-05-09 23:59:59"
+		},
+		{
+			"bannerId": "646",
+			"actionType": "menu",
+			"name": "勇気 x 友情 ～OMEGA～ 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30069/30069_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1039",
+			"dispNum": "7",
+			"startTime": "2018-04-26 16:00:00",
+			"endTime": "2018-05-09 23:59:59"
+		},
+		{
+			"bannerId": "647",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10171/10171_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1040",
+			"dispNum": "3",
+			"startTime": "2018-04-26 16:00:00",
+			"endTime": "2018-05-10 15:59:59"
+		},
+		{
+			"bannerId": "648",
+			"actionType": "menu",
+			"name": "GWログインボーナス開催！",
+			"img": "/login/10021/10021_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1041",
+			"dispNum": "105",
+			"startTime": "2018-04-27 05:00:00",
+			"endTime": "2018-05-10 04:59:59"
+		},
+		{
+			"bannerId": "649",
+			"actionType": "menu",
+			"name": "イベント「爆炎の竜影」開催！",
+			"img": "/events/syuusyuu/10001/Holding_5.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1043",
+			"dispNum": "60",
+			"startTime": "2018-04-26 18:00:00",
+			"endTime": "2018-05-10 17:59:59"
+		},
+		{
+			"bannerId": "650",
+			"actionType": "menu",
+			"name": "イベント「勇気 x 友情 ～OMEGA～」開催！",
+			"img": "/events/syuusyuu/40/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1044",
+			"dispNum": "55",
+			"startTime": "2018-04-26 18:00:00",
+			"endTime": "2018-05-09 23:59:59"
 		}
 	]
 }

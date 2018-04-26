@@ -4232,7 +4232,7 @@
 			"multiNum": "1",
 			"needChip": "10",
 			"icon": "chip_65",
-			"detail": "無属性スキルの威力+5",
+			"detail": "無属性の攻撃技の威力+5",
 			"effect": "chip_effect_65"
 		},
 		{
@@ -4243,7 +4243,7 @@
 			"multiNum": "1",
 			"needChip": "9",
 			"icon": "chip_65",
-			"detail": "無属性スキルの威力+10",
+			"detail": "無属性の攻撃技の威力+10",
 			"effect": "chip_effect_65"
 		},
 		{
@@ -4254,7 +4254,7 @@
 			"multiNum": "1",
 			"needChip": "8",
 			"icon": "chip_65",
-			"detail": "無属性スキルの威力+15",
+			"detail": "無属性の攻撃技の威力+15",
 			"effect": "chip_effect_65"
 		},
 		{
@@ -4265,7 +4265,7 @@
 			"multiNum": "1",
 			"needChip": "7",
 			"icon": "chip_65",
-			"detail": "無属性スキルの威力+20",
+			"detail": "無属性の攻撃技の威力+20",
 			"effect": "chip_effect_65"
 		},
 		{
@@ -4276,7 +4276,7 @@
 			"multiNum": "1",
 			"needChip": "6",
 			"icon": "chip_65",
-			"detail": "無属性スキルの威力+25",
+			"detail": "無属性の攻撃技の威力+25",
 			"effect": "chip_effect_65"
 		},
 		{
@@ -4287,7 +4287,7 @@
 			"multiNum": "1",
 			"needChip": "5",
 			"icon": "chip_65",
-			"detail": "無属性スキルの威力+30",
+			"detail": "無属性の攻撃技の威力+30",
 			"effect": "chip_effect_65"
 		},
 		{
@@ -4298,7 +4298,7 @@
 			"multiNum": "1",
 			"needChip": "4",
 			"icon": "chip_65",
-			"detail": "無属性スキルの威力+35",
+			"detail": "無属性の攻撃技の威力+35",
 			"effect": "chip_effect_65"
 		},
 		{
@@ -4309,7 +4309,7 @@
 			"multiNum": "1",
 			"needChip": "3",
 			"icon": "chip_65",
-			"detail": "無属性スキルの威力+40",
+			"detail": "無属性の攻撃技の威力+40",
 			"effect": "chip_effect_65"
 		},
 		{
@@ -4320,7 +4320,7 @@
 			"multiNum": "1",
 			"needChip": "10",
 			"icon": "chip_66",
-			"detail": "火属性スキルの威力+5",
+			"detail": "火属性の攻撃技の威力+5",
 			"effect": "chip_effect_66"
 		},
 		{
@@ -4331,7 +4331,7 @@
 			"multiNum": "1",
 			"needChip": "9",
 			"icon": "chip_66",
-			"detail": "火属性スキルの威力+10",
+			"detail": "火属性の攻撃技の威力+10",
 			"effect": "chip_effect_66"
 		},
 		{
@@ -4342,7 +4342,7 @@
 			"multiNum": "1",
 			"needChip": "8",
 			"icon": "chip_66",
-			"detail": "火属性スキルの威力+15",
+			"detail": "火属性の攻撃技の威力+15",
 			"effect": "chip_effect_66"
 		},
 		{
@@ -4353,7 +4353,7 @@
 			"multiNum": "1",
 			"needChip": "7",
 			"icon": "chip_66",
-			"detail": "火属性スキルの威力+20",
+			"detail": "火属性の攻撃技の威力+20",
 			"effect": "chip_effect_66"
 		},
 		{
@@ -4364,7 +4364,7 @@
 			"multiNum": "1",
 			"needChip": "6",
 			"icon": "chip_66",
-			"detail": "火属性スキルの威力+25",
+			"detail": "火属性の攻撃技の威力+25",
 			"effect": "chip_effect_66"
 		},
 		{
@@ -4375,7 +4375,7 @@
 			"multiNum": "1",
 			"needChip": "5",
 			"icon": "chip_66",
-			"detail": "火属性スキルの威力+30",
+			"detail": "火属性の攻撃技の威力+30",
 			"effect": "chip_effect_66"
 		},
 		{
@@ -4386,7 +4386,7 @@
 			"multiNum": "1",
 			"needChip": "4",
 			"icon": "chip_66",
-			"detail": "火属性スキルの威力+35",
+			"detail": "火属性の攻撃技の威力+35",
 			"effect": "chip_effect_66"
 		},
 		{
@@ -4397,7 +4397,7 @@
 			"multiNum": "1",
 			"needChip": "3",
 			"icon": "chip_66",
-			"detail": "火属性スキルの威力+40",
+			"detail": "火属性の攻撃技の威力+40",
 			"effect": "chip_effect_66"
 		},
 		{
@@ -4408,7 +4408,7 @@
 			"multiNum": "1",
 			"needChip": "10",
 			"icon": "chip_67",
-			"detail": "水属性スキルの威力+5",
+			"detail": "水属性の攻撃技の威力+5",
 			"effect": "chip_effect_67"
 		},
 		{
@@ -4419,7 +4419,7 @@
 			"multiNum": "1",
 			"needChip": "9",
 			"icon": "chip_67",
-			"detail": "水属性スキルの威力+10",
+			"detail": "水属性の攻撃技の威力+10",
 			"effect": "chip_effect_67"
 		},
 		{
@@ -4430,7 +4430,7 @@
 			"multiNum": "1",
 			"needChip": "8",
 			"icon": "chip_67",
-			"detail": "水属性スキルの威力+15",
+			"detail": "水属性の攻撃技の威力+15",
 			"effect": "chip_effect_67"
 		},
 		{
@@ -4441,7 +4441,7 @@
 			"multiNum": "1",
 			"needChip": "7",
 			"icon": "chip_67",
-			"detail": "水属性スキルの威力+20",
+			"detail": "水属性の攻撃技の威力+20",
 			"effect": "chip_effect_67"
 		},
 		{
@@ -4452,7 +4452,7 @@
 			"multiNum": "1",
 			"needChip": "6",
 			"icon": "chip_67",
-			"detail": "水属性スキルの威力+25",
+			"detail": "水属性の攻撃技の威力+25",
 			"effect": "chip_effect_67"
 		},
 		{
@@ -4463,7 +4463,7 @@
 			"multiNum": "1",
 			"needChip": "5",
 			"icon": "chip_67",
-			"detail": "水属性スキルの威力+30",
+			"detail": "水属性の攻撃技の威力+30",
 			"effect": "chip_effect_67"
 		},
 		{
@@ -4474,7 +4474,7 @@
 			"multiNum": "1",
 			"needChip": "4",
 			"icon": "chip_67",
-			"detail": "水属性スキルの威力+35",
+			"detail": "水属性の攻撃技の威力+35",
 			"effect": "chip_effect_67"
 		},
 		{
@@ -4485,7 +4485,7 @@
 			"multiNum": "1",
 			"needChip": "3",
 			"icon": "chip_67",
-			"detail": "水属性スキルの威力+40",
+			"detail": "水属性の攻撃技の威力+40",
 			"effect": "chip_effect_67"
 		},
 		{
@@ -4496,7 +4496,7 @@
 			"multiNum": "1",
 			"needChip": "10",
 			"icon": "chip_68",
-			"detail": "雷属性スキルの威力+5",
+			"detail": "雷属性の攻撃技の威力+5",
 			"effect": "chip_effect_68"
 		},
 		{
@@ -4507,7 +4507,7 @@
 			"multiNum": "1",
 			"needChip": "9",
 			"icon": "chip_68",
-			"detail": "雷属性スキルの威力+10",
+			"detail": "雷属性の攻撃技の威力+10",
 			"effect": "chip_effect_68"
 		},
 		{
@@ -4518,7 +4518,7 @@
 			"multiNum": "1",
 			"needChip": "8",
 			"icon": "chip_68",
-			"detail": "雷属性スキルの威力+15",
+			"detail": "雷属性の攻撃技の威力+15",
 			"effect": "chip_effect_68"
 		},
 		{
@@ -4529,7 +4529,7 @@
 			"multiNum": "1",
 			"needChip": "7",
 			"icon": "chip_68",
-			"detail": "雷属性スキルの威力+20",
+			"detail": "雷属性の攻撃技の威力+20",
 			"effect": "chip_effect_68"
 		},
 		{
@@ -4540,7 +4540,7 @@
 			"multiNum": "1",
 			"needChip": "6",
 			"icon": "chip_68",
-			"detail": "雷属性スキルの威力+25",
+			"detail": "雷属性の攻撃技の威力+25",
 			"effect": "chip_effect_68"
 		},
 		{
@@ -4551,7 +4551,7 @@
 			"multiNum": "1",
 			"needChip": "5",
 			"icon": "chip_68",
-			"detail": "雷属性スキルの威力+30",
+			"detail": "雷属性の攻撃技の威力+30",
 			"effect": "chip_effect_68"
 		},
 		{
@@ -4562,7 +4562,7 @@
 			"multiNum": "1",
 			"needChip": "4",
 			"icon": "chip_68",
-			"detail": "雷属性スキルの威力+35",
+			"detail": "雷属性の攻撃技の威力+35",
 			"effect": "chip_effect_68"
 		},
 		{
@@ -4573,7 +4573,7 @@
 			"multiNum": "1",
 			"needChip": "3",
 			"icon": "chip_68",
-			"detail": "雷属性スキルの威力+40",
+			"detail": "雷属性の攻撃技の威力+40",
 			"effect": "chip_effect_68"
 		},
 		{
@@ -4584,7 +4584,7 @@
 			"multiNum": "1",
 			"needChip": "10",
 			"icon": "chip_69",
-			"detail": "自然属性スキルの威力+5",
+			"detail": "自然属性の攻撃技の威力+5",
 			"effect": "chip_effect_69"
 		},
 		{
@@ -4595,7 +4595,7 @@
 			"multiNum": "1",
 			"needChip": "9",
 			"icon": "chip_69",
-			"detail": "自然属性スキルの威力+10",
+			"detail": "自然属性の攻撃技の威力+10",
 			"effect": "chip_effect_69"
 		},
 		{
@@ -4606,7 +4606,7 @@
 			"multiNum": "1",
 			"needChip": "8",
 			"icon": "chip_69",
-			"detail": "自然属性スキルの威力+15",
+			"detail": "自然属性の攻撃技の威力+15",
 			"effect": "chip_effect_69"
 		},
 		{
@@ -4617,7 +4617,7 @@
 			"multiNum": "1",
 			"needChip": "7",
 			"icon": "chip_69",
-			"detail": "自然属性スキルの威力+20",
+			"detail": "自然属性の攻撃技の威力+20",
 			"effect": "chip_effect_69"
 		},
 		{
@@ -4628,7 +4628,7 @@
 			"multiNum": "1",
 			"needChip": "6",
 			"icon": "chip_69",
-			"detail": "自然属性スキルの威力+25",
+			"detail": "自然属性の攻撃技の威力+25",
 			"effect": "chip_effect_69"
 		},
 		{
@@ -4639,7 +4639,7 @@
 			"multiNum": "1",
 			"needChip": "5",
 			"icon": "chip_69",
-			"detail": "自然属性スキルの威力+30",
+			"detail": "自然属性の攻撃技の威力+30",
 			"effect": "chip_effect_69"
 		},
 		{
@@ -4650,7 +4650,7 @@
 			"multiNum": "1",
 			"needChip": "4",
 			"icon": "chip_69",
-			"detail": "自然属性スキルの威力+35",
+			"detail": "自然属性の攻撃技の威力+35",
 			"effect": "chip_effect_69"
 		},
 		{
@@ -4661,7 +4661,7 @@
 			"multiNum": "1",
 			"needChip": "3",
 			"icon": "chip_69",
-			"detail": "自然属性スキルの威力+40",
+			"detail": "自然属性の攻撃技の威力+40",
 			"effect": "chip_effect_69"
 		},
 		{
@@ -4672,7 +4672,7 @@
 			"multiNum": "1",
 			"needChip": "10",
 			"icon": "chip_70",
-			"detail": "闇属性スキルの威力+5",
+			"detail": "闇属性の攻撃技の威力+5",
 			"effect": "chip_effect_70"
 		},
 		{
@@ -4683,7 +4683,7 @@
 			"multiNum": "1",
 			"needChip": "9",
 			"icon": "chip_70",
-			"detail": "闇属性スキルの威力+10",
+			"detail": "闇属性の攻撃技の威力+10",
 			"effect": "chip_effect_70"
 		},
 		{
@@ -4694,7 +4694,7 @@
 			"multiNum": "1",
 			"needChip": "8",
 			"icon": "chip_70",
-			"detail": "闇属性スキルの威力+15",
+			"detail": "闇属性の攻撃技の威力+15",
 			"effect": "chip_effect_70"
 		},
 		{
@@ -4705,7 +4705,7 @@
 			"multiNum": "1",
 			"needChip": "7",
 			"icon": "chip_70",
-			"detail": "闇属性スキルの威力+20",
+			"detail": "闇属性の攻撃技の威力+20",
 			"effect": "chip_effect_70"
 		},
 		{
@@ -4716,7 +4716,7 @@
 			"multiNum": "1",
 			"needChip": "6",
 			"icon": "chip_70",
-			"detail": "闇属性スキルの威力+25",
+			"detail": "闇属性の攻撃技の威力+25",
 			"effect": "chip_effect_70"
 		},
 		{
@@ -4727,7 +4727,7 @@
 			"multiNum": "1",
 			"needChip": "5",
 			"icon": "chip_70",
-			"detail": "闇属性スキルの威力+30",
+			"detail": "闇属性の攻撃技の威力+30",
 			"effect": "chip_effect_70"
 		},
 		{
@@ -4738,7 +4738,7 @@
 			"multiNum": "1",
 			"needChip": "4",
 			"icon": "chip_70",
-			"detail": "闇属性スキルの威力+35",
+			"detail": "闇属性の攻撃技の威力+35",
 			"effect": "chip_effect_70"
 		},
 		{
@@ -4749,7 +4749,7 @@
 			"multiNum": "1",
 			"needChip": "3",
 			"icon": "chip_70",
-			"detail": "闇属性スキルの威力+40",
+			"detail": "闇属性の攻撃技の威力+40",
 			"effect": "chip_effect_70"
 		},
 		{
@@ -4760,7 +4760,7 @@
 			"multiNum": "1",
 			"needChip": "10",
 			"icon": "chip_71",
-			"detail": "光属性スキルの威力+5",
+			"detail": "光属性の攻撃技の威力+5",
 			"effect": "chip_effect_71"
 		},
 		{
@@ -4771,7 +4771,7 @@
 			"multiNum": "1",
 			"needChip": "9",
 			"icon": "chip_71",
-			"detail": "光属性スキルの威力+10",
+			"detail": "光属性の攻撃技の威力+10",
 			"effect": "chip_effect_71"
 		},
 		{
@@ -4782,7 +4782,7 @@
 			"multiNum": "1",
 			"needChip": "8",
 			"icon": "chip_71",
-			"detail": "光属性スキルの威力+15",
+			"detail": "光属性の攻撃技の威力+15",
 			"effect": "chip_effect_71"
 		},
 		{
@@ -4793,7 +4793,7 @@
 			"multiNum": "1",
 			"needChip": "7",
 			"icon": "chip_71",
-			"detail": "光属性スキルの威力+20",
+			"detail": "光属性の攻撃技の威力+20",
 			"effect": "chip_effect_71"
 		},
 		{
@@ -4804,7 +4804,7 @@
 			"multiNum": "1",
 			"needChip": "6",
 			"icon": "chip_71",
-			"detail": "光属性スキルの威力+25",
+			"detail": "光属性の攻撃技の威力+25",
 			"effect": "chip_effect_71"
 		},
 		{
@@ -4815,7 +4815,7 @@
 			"multiNum": "1",
 			"needChip": "5",
 			"icon": "chip_71",
-			"detail": "光属性スキルの威力+30",
+			"detail": "光属性の攻撃技の威力+30",
 			"effect": "chip_effect_71"
 		},
 		{
@@ -4826,7 +4826,7 @@
 			"multiNum": "1",
 			"needChip": "4",
 			"icon": "chip_71",
-			"detail": "光属性スキルの威力+35",
+			"detail": "光属性の攻撃技の威力+35",
 			"effect": "chip_effect_71"
 		},
 		{
@@ -4837,7 +4837,7 @@
 			"multiNum": "1",
 			"needChip": "3",
 			"icon": "chip_71",
-			"detail": "光属性スキルの威力+40",
+			"detail": "光属性の攻撃技の威力+40",
 			"effect": "chip_effect_71"
 		},
 		{
@@ -5420,7 +5420,7 @@
 			"multiNum": "1",
 			"needChip": "10",
 			"icon": "chip_105",
-			"detail": "ラウンド開始時、自身以外の味方単体のスキル封印をバトル中に1回まで解除。装着時最大HP-35%",
+			"detail": "ラウンド開始時、自身以外の味方単体のスキルロックをバトル中に1回まで解除。装着時最大HP-35%",
 			"effect": "chip_effect_105"
 		},
 		{
@@ -5431,7 +5431,7 @@
 			"multiNum": "1",
 			"needChip": "9",
 			"icon": "chip_105",
-			"detail": "ラウンド開始時、自身以外の味方単体のスキル封印をバトル中に1回まで解除。装着時最大HP-30%",
+			"detail": "ラウンド開始時、自身以外の味方単体のスキルロックをバトル中に1回まで解除。装着時最大HP-30%",
 			"effect": "chip_effect_105"
 		},
 		{
@@ -5442,7 +5442,7 @@
 			"multiNum": "1",
 			"needChip": "8",
 			"icon": "chip_105",
-			"detail": "ラウンド開始時、自身以外の味方単体のスキル封印をバトル中に1回まで解除。装着時最大HP-25%",
+			"detail": "ラウンド開始時、自身以外の味方単体のスキルロックをバトル中に1回まで解除。装着時最大HP-25%",
 			"effect": "chip_effect_105"
 		},
 		{
@@ -5453,7 +5453,7 @@
 			"multiNum": "1",
 			"needChip": "7",
 			"icon": "chip_105",
-			"detail": "ラウンド開始時、自身以外の味方単体のスキル封印をバトル中に1回まで解除。装着時最大HP-20%",
+			"detail": "ラウンド開始時、自身以外の味方単体のスキルロックをバトル中に1回まで解除。装着時最大HP-20%",
 			"effect": "chip_effect_105"
 		},
 		{
@@ -5464,7 +5464,7 @@
 			"multiNum": "1",
 			"needChip": "6",
 			"icon": "chip_105",
-			"detail": "ラウンド開始時、自身以外の味方単体のスキル封印をバトル中に1回まで解除。装着時最大HP-15%",
+			"detail": "ラウンド開始時、自身以外の味方単体のスキルロックをバトル中に1回まで解除。装着時最大HP-15%",
 			"effect": "chip_effect_105"
 		},
 		{
@@ -5475,7 +5475,7 @@
 			"multiNum": "1",
 			"needChip": "5",
 			"icon": "chip_105",
-			"detail": "ラウンド開始時、自身以外の味方単体のスキル封印をバトル中に1回まで解除。装着時最大HP-10%",
+			"detail": "ラウンド開始時、自身以外の味方単体のスキルロックをバトル中に1回まで解除。装着時最大HP-10%",
 			"effect": "chip_effect_105"
 		},
 		{
@@ -5486,7 +5486,7 @@
 			"multiNum": "1",
 			"needChip": "4",
 			"icon": "chip_105",
-			"detail": "ラウンド開始時、自身以外の味方単体のスキル封印をバトル中に2回まで解除。装着時最大HP-10%",
+			"detail": "ラウンド開始時、自身以外の味方単体のスキルロックをバトル中に2回まで解除。装着時最大HP-10%",
 			"effect": "chip_effect_105"
 		},
 		{
@@ -5497,7 +5497,7 @@
 			"multiNum": "1",
 			"needChip": "3",
 			"icon": "chip_105",
-			"detail": "ラウンド開始時、自身以外の味方単体のスキル封印をバトル中に2回まで解除。装着時最大HP-7%",
+			"detail": "ラウンド開始時、自身以外の味方単体のスキルロックをバトル中に2回まで解除。装着時最大HP-7%",
 			"effect": "chip_effect_105"
 		},
 		{
@@ -6212,7 +6212,7 @@
 			"multiNum": "1",
 			"needChip": "6",
 			"icon": "chip_92",
-			"detail": "戦闘不能になった時、15%の確率で敵全体のスキルを封じる",
+			"detail": "戦闘不能になった時、15%の確率で敵全体の技を封じる",
 			"effect": "chip_effect_92"
 		},
 		{
@@ -6223,7 +6223,7 @@
 			"multiNum": "1",
 			"needChip": "5",
 			"icon": "chip_92",
-			"detail": "戦闘不能になった時、20%の確率で敵全体のスキルを封じる",
+			"detail": "戦闘不能になった時、20%の確率で敵全体の技を封じる",
 			"effect": "chip_effect_92"
 		},
 		{
@@ -6234,7 +6234,7 @@
 			"multiNum": "1",
 			"needChip": "4",
 			"icon": "chip_92",
-			"detail": "戦闘不能になった時、25%の確率で敵全体のスキルを封じる",
+			"detail": "戦闘不能になった時、25%の確率で敵全体の技を封じる",
 			"effect": "chip_effect_92"
 		},
 		{
@@ -6245,7 +6245,7 @@
 			"multiNum": "1",
 			"needChip": "3",
 			"icon": "chip_92",
-			"detail": "戦闘不能になった時、30%の確率で敵全体のスキルを封じる",
+			"detail": "戦闘不能になった時、30%の確率で敵全体の技を封じる",
 			"effect": "chip_effect_92"
 		},
 		{
@@ -7400,7 +7400,7 @@
 			"multiNum": "1",
 			"needChip": "10",
 			"icon": "chip_131",
-			"detail": "自身の行動開始時、自身のスキル封印をバトル中に1回まで解除。装着時最大HP-20%",
+			"detail": "自身の行動開始時、自身のスキルロックをバトル中に1回まで解除。装着時最大HP-20%",
 			"effect": "chip_effect_131"
 		},
 		{
@@ -7411,7 +7411,7 @@
 			"multiNum": "1",
 			"needChip": "9",
 			"icon": "chip_131",
-			"detail": "自身の行動開始時、自身のスキル封印をバトル中に1回まで解除。装着時最大HP-18%",
+			"detail": "自身の行動開始時、自身のスキルロックをバトル中に1回まで解除。装着時最大HP-18%",
 			"effect": "chip_effect_131"
 		},
 		{
@@ -7422,7 +7422,7 @@
 			"multiNum": "1",
 			"needChip": "8",
 			"icon": "chip_131",
-			"detail": "自身の行動開始時、自身のスキル封印をバトル中に1回まで解除。装着時最大HP-15%",
+			"detail": "自身の行動開始時、自身のスキルロックをバトル中に1回まで解除。装着時最大HP-15%",
 			"effect": "chip_effect_131"
 		},
 		{
@@ -7433,7 +7433,7 @@
 			"multiNum": "1",
 			"needChip": "7",
 			"icon": "chip_131",
-			"detail": "自身の行動開始時、自身のスキル封印をバトル中に1回まで解除。装着時最大HP-12%",
+			"detail": "自身の行動開始時、自身のスキルロックをバトル中に1回まで解除。装着時最大HP-12%",
 			"effect": "chip_effect_131"
 		},
 		{
@@ -7444,7 +7444,7 @@
 			"multiNum": "1",
 			"needChip": "6",
 			"icon": "chip_131",
-			"detail": "自身の行動開始時、自身のスキル封印をバトル中に1回まで解除。装着時最大HP-10%",
+			"detail": "自身の行動開始時、自身のスキルロックをバトル中に1回まで解除。装着時最大HP-10%",
 			"effect": "chip_effect_131"
 		},
 		{
@@ -7455,7 +7455,7 @@
 			"multiNum": "1",
 			"needChip": "5",
 			"icon": "chip_131",
-			"detail": "自身の行動開始時、自身のスキル封印をバトル中に1回まで解除。装着時最大HP-7%",
+			"detail": "自身の行動開始時、自身のスキルロックをバトル中に1回まで解除。装着時最大HP-7%",
 			"effect": "chip_effect_131"
 		},
 		{
@@ -7466,7 +7466,7 @@
 			"multiNum": "1",
 			"needChip": "4",
 			"icon": "chip_131",
-			"detail": "自身の行動開始時、自身のスキル封印をバトル中に2回まで解除。装着時最大HP-7%",
+			"detail": "自身の行動開始時、自身のスキルロックをバトル中に2回まで解除。装着時最大HP-7%",
 			"effect": "chip_effect_131"
 		},
 		{
@@ -7477,7 +7477,7 @@
 			"multiNum": "1",
 			"needChip": "3",
 			"icon": "chip_131",
-			"detail": "自身の行動開始時、自身のスキル封印をバトル中に2回まで解除。装着時最大HP-5%",
+			"detail": "自身の行動開始時、自身のスキルロックをバトル中に2回まで解除。装着時最大HP-5%",
 			"effect": "chip_effect_131"
 		},
 		{
@@ -10746,6 +10746,83 @@
 			"icon": "chip_10085",
 			"detail": "ATK+50。「大乱戦 -夜桜篇-」で交換所アイテムドロップ時の取得個数が+9される。",
 			"effect": "chip_effect_10085"
+		},
+		{
+			"chipId": "100254",
+			"chipGroupId": "10086",
+			"name": "勇気 x 友情のステータス特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10086",
+			"detail": "ATK+20。さらに、「勇気 x 友情 ～OMEGA～」でATK・S-ATK・SPDが1.5倍になる。",
+			"effect": "chip_effect_10086"
+		},
+		{
+			"chipId": "100255",
+			"chipGroupId": "10086",
+			"name": "勇気 x 友情のステータス特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10086",
+			"detail": "ATK+30。さらに、「勇気 x 友情 ～OMEGA～」でATK・S-ATK・SPDが2倍になる。",
+			"effect": "chip_effect_10086"
+		},
+		{
+			"chipId": "100256",
+			"chipGroupId": "10086",
+			"name": "勇気 x 友情のステータス特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10086",
+			"detail": "ATK+50。さらに、「勇気 x 友情 ～OMEGA～」でATK・S-ATK・SPDが3倍になる。",
+			"effect": "chip_effect_10086"
+		},
+		{
+			"chipId": "100257",
+			"chipGroupId": "10087",
+			"name": "勇気 x 友情のドロップ特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10087",
+			"detail": "S-ATK+20。「勇気 x 友情 ～OMEGA～」で交換所アイテムドロップ時の取得個数が+1される。",
+			"effect": "chip_effect_10087"
+		},
+		{
+			"chipId": "100258",
+			"chipGroupId": "10087",
+			"name": "勇気 x 友情のドロップ特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10087",
+			"detail": "S-ATK+30。「勇気 x 友情 ～OMEGA～」で交換所アイテムドロップ時の取得個数が+3される。",
+			"effect": "chip_effect_10087"
+		},
+		{
+			"chipId": "100259",
+			"chipGroupId": "10087",
+			"name": "勇気 x 友情のドロップ特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10087",
+			"detail": "S-ATK+50。「勇気 x 友情 ～OMEGA～」で交換所アイテムドロップ時の取得個数が+9される。",
+			"effect": "chip_effect_10087"
+		},
+		{
+			"chipId": "100260",
+			"chipGroupId": "10088",
+			"name": "慈悲のステータス特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10088",
+			"detail": "ATK+50。「白銀の慈悲 ～OMEGA～」でHPが2倍、ATK・S-ATKが3倍になる。",
+			"effect": "chip_effect_10088"
 		},
 		{
 			"chipId": "200001",

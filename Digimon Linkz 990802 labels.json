@@ -6473,6 +6473,22 @@
 			"messageText": "現在開催中の交換所はありません"
 		},
 		{
+			"messageCode": "BattleNotice-19",
+			"messageText": "逃げ出す準備をしている！　あと{0}ターン"
+		},
+		{
+			"messageCode": "BattleNotice-20",
+			"messageText": "{0}は逃亡した"
+		},
+		{
+			"messageCode": "BattleNotice-21",
+			"messageText": "{0}は逃げなかった"
+		},
+		{
+			"messageCode": "HitIconEscape",
+			"messageText": "逃亡"
+		},
+		{
 			"messageCode": "prize-1",
 			"messageText": "サーバー障害についてのお詫び"
 		}

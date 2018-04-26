@@ -554,6 +554,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1061",
+			"name": "第13回覇者",
+			"detail": "第13回コロシアムの覇者に送られる栄光の証",
+			"img": "honorific_colosseum_61",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1062",
+			"name": "第13回SSSランカー",
+			"detail": "第13回コロシアムの最上位ランカーに送られる栄誉の証",
+			"img": "honorific_colosseum_62",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1063",
+			"name": "第13回SSランカー",
+			"detail": "第13回コロシアムの上位ランカーに送られる名誉の証",
+			"img": "honorific_colosseum_63",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1064",
+			"name": "第13回Sランカー",
+			"detail": "第13回コロシアムのランカーに送られる名声の証",
+			"img": "honorific_colosseum_64",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1065",
+			"name": "第13回挑戦者",
+			"detail": "第13回コロシアムの挑戦者に送られる証",
+			"img": "honorific_colosseum_65",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10001",
 			"name": "竜帝の系譜トップ100",
 			"detail": "イベント「竜帝の系譜」トップ100位に送られる栄誉の証",
