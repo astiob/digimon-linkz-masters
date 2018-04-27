@@ -6753,6 +6753,39 @@
 			"dispNum": "55",
 			"startTime": "2018-04-26 18:00:00",
 			"endTime": "2018-05-09 23:59:59"
+		},
+		{
+			"bannerId": "653",
+			"actionType": "menu",
+			"name": "強化運上昇確率アップキャンペーン開催！",
+			"img": "/campaign/10004/10004_powerluck.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1048",
+			"dispNum": "100",
+			"startTime": "2018-04-27 16:00:00",
+			"endTime": "2018-05-01 15:59:59"
+		},
+		{
+			"bannerId": "654",
+			"actionType": "menu",
+			"name": "クラスタクエスト開催！",
+			"img": "/events/extra/6007.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1049",
+			"dispNum": "101",
+			"startTime": "2018-04-27 16:00:00",
+			"endTime": "2018-05-07 15:59:59"
+		},
+		{
+			"bannerId": "655",
+			"actionType": "menu",
+			"name": "EXPクエスト開催！",
+			"img": "/events/extra/6008.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1050",
+			"dispNum": "102",
+			"startTime": "2018-04-27 16:00:00",
+			"endTime": "2018-05-07 15:59:59"
 		}
 	]
 }

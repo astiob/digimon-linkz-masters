@@ -881,6 +881,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1076054",
+			"soulName": "バルバモンのデータの欠片",
+			"description": "バルバモンへの進化の際に必要となるデータの欠片",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "2000001",
 			"soulName": "無のプラグインver1.0",
 			"description": "「無」属性のわずかな力が組み込まれたプログラムで進化時に必要。",

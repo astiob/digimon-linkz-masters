@@ -3241,6 +3241,36 @@
 			"num": "10"
 		},
 		{
+			"monsterTranceId": "10041",
+			"monsterId": "6266",
+			"soulId": "1076054",
+			"num": "2"
+		},
+		{
+			"monsterTranceId": "10042",
+			"monsterId": "6267",
+			"soulId": "1076054",
+			"num": "3"
+		},
+		{
+			"monsterTranceId": "10043",
+			"monsterId": "6268",
+			"soulId": "1076054",
+			"num": "5"
+		},
+		{
+			"monsterTranceId": "10044",
+			"monsterId": "6269",
+			"soulId": "1076054",
+			"num": "7"
+		},
+		{
+			"monsterTranceId": "10045",
+			"monsterId": "6270",
+			"soulId": "1076054",
+			"num": "10"
+		},
+		{
 			"monsterTranceId": "13001",
 			"monsterId": "10021",
 			"soulId": "3000001",

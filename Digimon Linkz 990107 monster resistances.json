@@ -2197,6 +2197,24 @@
 			"death": "-1"
 		},
 		{
+			"monsterResistanceId": "1022",
+			"description": "バルバモン",
+			"fire": "0",
+			"water": "0",
+			"thunder": "0",
+			"nature": "0",
+			"none": "0",
+			"light": "-1",
+			"dark": "1",
+			"poison": "0",
+			"confusion": "1",
+			"paralysis": "-1",
+			"sleep": "-1",
+			"stun": "-1",
+			"skillLock": "-1",
+			"death": "1"
+		},
+		{
 			"monsterResistanceId": "1023",
 			"description": "ベルゼブモン",
 			"fire": "0",
