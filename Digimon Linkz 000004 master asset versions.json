@@ -162,13 +162,13 @@
 		},
 		{
 			"tableName": "colosseum_m",
-			"version": "85",
-			"cacheVersion": "85"
+			"version": "87",
+			"cacheVersion": "87"
 		},
 		{
 			"tableName": "colosseum_time_schedule_m",
-			"version": "95",
-			"cacheVersion": "95"
+			"version": "96",
+			"cacheVersion": "96"
 		},
 		{
 			"tableName": "world_dungeon_extra_effect_m",
@@ -325,6 +325,6 @@
 		"versionManagerId": "5",
 		"versionManagerType": "2",
 		"osType": "2",
-		"version": "277"
+		"version": "279"
 	}
 }
