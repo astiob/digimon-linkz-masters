@@ -14356,6 +14356,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "958",
+			"name": "虞玲刀",
+			"simpleDescription": "",
+			"description": "無属性で敵単体に複数回物理小ダメージ、さらに敵全体を確率で眠りにする",
+			"type": "2",
+			"skillGroupId": "339",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "339",
+			"soundEffect": "bt_918",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "959",
+			"name": "虞玲刀",
+			"simpleDescription": "",
+			"description": "無属性で敵単体に複数回物理小ダメージ、さらに敵全体を確率で眠りにする",
+			"type": "2",
+			"skillGroupId": "339",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "339",
+			"soundEffect": "bt_918",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "プチフレイム",
 			"simpleDescription": "",

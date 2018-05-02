@@ -10825,6 +10825,72 @@
 			"effect": "chip_effect_10088"
 		},
 		{
+			"chipId": "100261",
+			"chipGroupId": "10089",
+			"name": "慈悲のPt特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10089",
+			"detail": "S-ATK+20。さらに、「白銀の慈悲 ～OMEGA～」で獲得ポイントが1.5倍になる。",
+			"effect": "chip_effect_10089"
+		},
+		{
+			"chipId": "100262",
+			"chipGroupId": "10089",
+			"name": "慈悲のPt特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10089",
+			"detail": "S-ATK+30。さらに、「白銀の慈悲 ～OMEGA～」で獲得ポイントが2.5倍になる。",
+			"effect": "chip_effect_10089"
+		},
+		{
+			"chipId": "100263",
+			"chipGroupId": "10089",
+			"name": "慈悲のPt特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10089",
+			"detail": "S-ATK+50。さらに、「白銀の慈悲 ～OMEGA～」で獲得ポイントが5.5倍になる。",
+			"effect": "chip_effect_10089"
+		},
+		{
+			"chipId": "100264",
+			"chipGroupId": "10090",
+			"name": "慈悲のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10090",
+			"detail": "S-ATK+20。さらに、「白銀の慈悲 ～OMEGA～」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10090"
+		},
+		{
+			"chipId": "100265",
+			"chipGroupId": "10090",
+			"name": "慈悲のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10090",
+			"detail": "S-ATK+30。さらに、「白銀の慈悲 ～OMEGA～」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10090"
+		},
+		{
+			"chipId": "100266",
+			"chipGroupId": "10090",
+			"name": "慈悲のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10090",
+			"detail": "S-ATK+50。さらに、「白銀の慈悲 ～OMEGA～」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10090"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

@@ -809,6 +809,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070339",
+			"soulName": "オメガモンMMのデータの欠片",
+			"description": "オメガモンMMへの進化の際に必要となるデータの欠片",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070340",
 			"soulName": "アーマゲモンのデータの欠片",
 			"description": "アーマゲモンへの進化の際に必要となるデータの欠片",

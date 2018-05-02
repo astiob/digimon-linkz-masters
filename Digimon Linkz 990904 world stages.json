@@ -3291,6 +3291,20 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6127",
+			"worldAreaId": "1074",
+			"priority": "1055",
+			"name": "白銀の慈悲 ～OMEGA～",
+			"description": "ポイントや断片データを集めて究極体を手に入れよう！",
+			"type": "1",
+			"forceOpenNum": "0",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "point/28/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",

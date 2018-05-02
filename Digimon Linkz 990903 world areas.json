@@ -959,6 +959,18 @@
 			"prerequisiteWorldAreaId": "0",
 			"openTime": "2015-05-01 00:00:00",
 			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "1074",
+			"worldId": "6",
+			"priority": "5",
+			"name": "白銀の慈悲 ～OMEGA～",
+			"img": "point/28/Holding_1.png",
+			"description": "ポイントや断片データを集めて究極体を手に入れよう！",
+			"type": "3",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
 		}
 	]
 }

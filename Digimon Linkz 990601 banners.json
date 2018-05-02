@@ -6755,6 +6755,28 @@
 			"endTime": "2018-05-09 23:59:59"
 		},
 		{
+			"bannerId": "651",
+			"actionType": "menu",
+			"name": "白銀の慈悲 ～OMEGA～ 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30070/30070_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1046",
+			"dispNum": "6",
+			"startTime": "2018-05-03 16:00:00",
+			"endTime": "2018-05-09 23:59:59"
+		},
+		{
+			"bannerId": "652",
+			"actionType": "menu",
+			"name": "白銀の慈悲 ～OMEGA～ 育成デジモンキャプチャ開催！",
+			"img": "/gasha/special/10172/10172_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1047",
+			"dispNum": "5",
+			"startTime": "2018-05-07 16:00:00",
+			"endTime": "2018-05-14 15:59:59"
+		},
+		{
 			"bannerId": "653",
 			"actionType": "menu",
 			"name": "強化運上昇確率アップキャンペーン開催！",
@@ -6786,6 +6808,17 @@
 			"dispNum": "102",
 			"startTime": "2018-04-27 16:00:00",
 			"endTime": "2018-05-07 15:59:59"
+		},
+		{
+			"bannerId": "656",
+			"actionType": "menu",
+			"name": "イベント「白銀の慈悲 ～OMEGA～」開催！",
+			"img": "/events/point/28/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1054",
+			"dispNum": "55",
+			"startTime": "2018-05-03 18:00:00",
+			"endTime": "2018-05-09 23:59:59"
 		}
 	]
 }

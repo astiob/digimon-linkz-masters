@@ -4846,6 +4846,23 @@
 			"modelId": "338"
 		},
 		{
+			"monsterGroupId": "339",
+			"monsterCollectionId": "60340",
+			"monsterName": "オメガモンMM",
+			"simpleDescription": "",
+			"description": "白い翼をもった、まるで天使のようなオメガモン。悲しみと決意をもって変化した姿で、まるで涙が頬を伝うような青白い光のラインは全身にも浮かび上がっている。オメガモンが装備する『グレイソード』も『虞玲刀』へと日本刀の姿に変化している。",
+			"growStep": "7",
+			"tribe": "6",
+			"partyCharaPosX": "0.06",
+			"partyCharaPosY": "-1.14",
+			"partyCharaPosZ": "-0.51",
+			"partyCharaRotY": "-180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "339"
+		},
+		{
 			"monsterGroupId": "340",
 			"monsterCollectionId": "60339",
 			"monsterName": "アーマゲモン",

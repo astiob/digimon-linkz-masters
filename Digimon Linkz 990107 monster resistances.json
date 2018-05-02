@@ -1081,6 +1081,24 @@
 			"death": "1"
 		},
 		{
+			"monsterResistanceId": "62",
+			"description": "オメガモンMM",
+			"fire": "0",
+			"water": "0",
+			"thunder": "0",
+			"nature": "0",
+			"none": "0",
+			"light": "1",
+			"dark": "1",
+			"poison": "-1",
+			"confusion": "-1",
+			"paralysis": "0",
+			"sleep": "0",
+			"stun": "1",
+			"skillLock": "1",
+			"death": "1"
+		},
+		{
 			"monsterResistanceId": "101",
 			"description": "幻生系降臨初級",
 			"fire": "0",
@@ -6443,6 +6461,24 @@
 			"stun": "-1",
 			"skillLock": "1",
 			"death": "1"
+		},
+		{
+			"monsterResistanceId": "30146",
+			"description": "白銀の慈悲",
+			"fire": "-1",
+			"water": "0",
+			"thunder": "0",
+			"nature": "0",
+			"none": "-1",
+			"light": "0",
+			"dark": "0",
+			"poison": "0",
+			"confusion": "0",
+			"paralysis": "-1",
+			"sleep": "0",
+			"stun": "0",
+			"skillLock": "1",
+			"death": "99"
 		},
 		{
 			"monsterResistanceId": "40001",
