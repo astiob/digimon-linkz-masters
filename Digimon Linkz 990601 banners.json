@@ -6819,6 +6819,17 @@
 			"dispNum": "55",
 			"startTime": "2018-05-03 18:00:00",
 			"endTime": "2018-05-09 23:59:59"
+		},
+		{
+			"bannerId": "661",
+			"actionType": "menu",
+			"name": "才能メダル引き継ぎ確率UPキャンペーン開催！",
+			"img": "/campaign/11002/11002_labomedal.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1060",
+			"dispNum": "102",
+			"startTime": "2018-05-10 16:00:00",
+			"endTime": "2018-05-17 15:59:59"
 		}
 	]
 }
