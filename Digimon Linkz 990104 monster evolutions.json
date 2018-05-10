@@ -30520,6 +30520,24 @@
 			"monsterEvolutionMaterialId": 20191
 		},
 		{
+			"monsterEvolutionId": "200196",
+			"baseMonsterId": "1030",
+			"nextMonsterId": "20196",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20196
+		},
+		{
+			"monsterEvolutionId": "200206",
+			"baseMonsterId": "1040",
+			"nextMonsterId": "20206",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20206
+		},
+		{
 			"monsterEvolutionId": "200231",
 			"baseMonsterId": "1065",
 			"nextMonsterId": "20231",
