@@ -6821,6 +6821,50 @@
 			"endTime": "2018-05-09 23:59:59"
 		},
 		{
+			"bannerId": "657",
+			"actionType": "menu",
+			"name": "イベント「【復刻】忠誠の聖騎士」開催！",
+			"img": "/events/syuusyuu/17/Holding_3.png?revival",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1056",
+			"dispNum": "50",
+			"startTime": "2018-05-10 18:00:00",
+			"endTime": "2018-05-16 23:59:59"
+		},
+		{
+			"bannerId": "658",
+			"actionType": "menu",
+			"name": "【復刻】忠誠の聖騎士 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30027/30027_banner_1.png?v=1",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1057",
+			"dispNum": "7",
+			"startTime": "2018-05-10 16:00:00",
+			"endTime": "2018-05-16 23:59:59"
+		},
+		{
+			"bannerId": "659",
+			"actionType": "menu",
+			"name": "才能メダルキャプチャ開催！",
+			"img": "/gasha/special/10099/10099_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1058",
+			"dispNum": "5",
+			"startTime": "2018-05-10 16:00:00",
+			"endTime": "2018-05-17 15:59:59"
+		},
+		{
+			"bannerId": "660",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10174/10174_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1059",
+			"dispNum": "3",
+			"startTime": "2018-05-10 16:00:00",
+			"endTime": "2018-05-24 15:59:59"
+		},
+		{
 			"bannerId": "661",
 			"actionType": "menu",
 			"name": "才能メダル引き継ぎ確率UPキャンペーン開催！",
