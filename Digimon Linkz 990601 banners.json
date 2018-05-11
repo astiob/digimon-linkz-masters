@@ -6125,7 +6125,7 @@
 			"url": "/information/InformationDetail?informationId=955",
 			"dispNum": "70",
 			"startTime": "2018-01-19 18:00:00",
-			"endTime": "2018-05-21 17:59:59"
+			"endTime": "2018-05-11 17:59:59"
 		},
 		{
 			"bannerId": "593",
@@ -6874,6 +6874,17 @@
 			"dispNum": "102",
 			"startTime": "2018-05-10 16:00:00",
 			"endTime": "2018-05-17 15:59:59"
+		},
+		{
+			"bannerId": "662",
+			"actionType": "menu",
+			"name": "降臨のスケジュールについて",
+			"img": "/events/advent/info_adventschedule.png",
+			"linkCategoryType": "9",
+			"url": "/information/InformationDetail?informationId=1062",
+			"dispNum": "70",
+			"startTime": "2018-05-11 18:00:00",
+			"endTime": "2018-07-30 17:59:59"
 		}
 	]
 }
