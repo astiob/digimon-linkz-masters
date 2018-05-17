@@ -6885,6 +6885,28 @@
 			"dispNum": "70",
 			"startTime": "2018-05-11 18:00:00",
 			"endTime": "2018-07-30 17:59:59"
+		},
+		{
+			"bannerId": "663",
+			"actionType": "menu",
+			"name": "破滅の砲撃 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30072/30072_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1070",
+			"dispNum": "7",
+			"startTime": "2018-05-17 16:00:00",
+			"endTime": "2018-05-23 23:59:59"
+		},
+		{
+			"bannerId": "664",
+			"actionType": "menu",
+			"name": "イベント「破滅の砲撃」開催！",
+			"img": "/events/point/29/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1069",
+			"dispNum": "50",
+			"startTime": "2018-05-17 18:00:00",
+			"endTime": "2018-05-23 23:59:59"
 		}
 	]
 }

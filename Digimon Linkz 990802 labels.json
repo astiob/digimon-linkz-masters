@@ -6466,7 +6466,7 @@
 		},
 		{
 			"messageCode": "SpeedClearChipEffectDetail",
-			"messageText": "{0}スペシャルチャレンジクリア特攻ボーナス"
+			"messageText": "{0}スペシャルチャレンジクリア特効ボーナス"
 		},
 		{
 			"messageCode": "ExchangeNone",

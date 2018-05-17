@@ -26202,6 +26202,538 @@
 			"isMissTrough": "0"
 		},
 		{
+			"skillDetailId": "40025",
+			"skillId": "40025",
+			"subId": "1",
+			"effectType": "1",
+			"effect": "750",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "1",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9700",
+			"subRate": "500",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40026",
+			"skillId": "40026",
+			"subId": "1",
+			"effectType": "1",
+			"effect": "750",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "2",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9700",
+			"subRate": "500",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40027",
+			"skillId": "40027",
+			"subId": "1",
+			"effectType": "1",
+			"effect": "750",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "3",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9700",
+			"subRate": "500",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40028",
+			"skillId": "40028",
+			"subId": "1",
+			"effectType": "1",
+			"effect": "750",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "4",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9700",
+			"subRate": "500",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40029",
+			"skillId": "40029",
+			"subId": "1",
+			"effectType": "1",
+			"effect": "750",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "5",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9700",
+			"subRate": "500",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40030",
+			"skillId": "40030",
+			"subId": "1",
+			"effectType": "1",
+			"effect": "750",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "6",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9700",
+			"subRate": "500",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40031",
+			"skillId": "40031",
+			"subId": "1",
+			"effectType": "1",
+			"effect": "750",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "7",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9700",
+			"subRate": "500",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40032",
+			"skillId": "40032",
+			"subId": "1",
+			"effectType": "1",
+			"effect": "375",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "2",
+			"attribute": "1",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9200",
+			"subRate": "300",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40033",
+			"skillId": "40033",
+			"subId": "1",
+			"effectType": "1",
+			"effect": "375",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "2",
+			"attribute": "2",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9200",
+			"subRate": "300",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40034",
+			"skillId": "40034",
+			"subId": "1",
+			"effectType": "1",
+			"effect": "375",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "2",
+			"attribute": "3",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9200",
+			"subRate": "300",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40035",
+			"skillId": "40035",
+			"subId": "1",
+			"effectType": "1",
+			"effect": "375",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "2",
+			"attribute": "4",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9200",
+			"subRate": "300",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40036",
+			"skillId": "40036",
+			"subId": "1",
+			"effectType": "1",
+			"effect": "375",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "2",
+			"attribute": "5",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9200",
+			"subRate": "300",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40037",
+			"skillId": "40037",
+			"subId": "1",
+			"effectType": "1",
+			"effect": "375",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "2",
+			"attribute": "6",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9200",
+			"subRate": "300",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40038",
+			"skillId": "40038",
+			"subId": "1",
+			"effectType": "1",
+			"effect": "375",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "2",
+			"attribute": "7",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9200",
+			"subRate": "300",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40039",
+			"skillId": "40039",
+			"subId": "1",
+			"effectType": "34",
+			"effect": "750",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "1",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9700",
+			"subRate": "500",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40040",
+			"skillId": "40040",
+			"subId": "1",
+			"effectType": "34",
+			"effect": "750",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "2",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9700",
+			"subRate": "500",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40041",
+			"skillId": "40041",
+			"subId": "1",
+			"effectType": "34",
+			"effect": "750",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "3",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9700",
+			"subRate": "500",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40042",
+			"skillId": "40042",
+			"subId": "1",
+			"effectType": "34",
+			"effect": "750",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "4",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9700",
+			"subRate": "500",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40043",
+			"skillId": "40043",
+			"subId": "1",
+			"effectType": "34",
+			"effect": "750",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "5",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9700",
+			"subRate": "500",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40044",
+			"skillId": "40044",
+			"subId": "1",
+			"effectType": "34",
+			"effect": "750",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "6",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9700",
+			"subRate": "500",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40045",
+			"skillId": "40045",
+			"subId": "1",
+			"effectType": "34",
+			"effect": "750",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "7",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9700",
+			"subRate": "500",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40046",
+			"skillId": "40046",
+			"subId": "1",
+			"effectType": "34",
+			"effect": "375",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "2",
+			"attribute": "1",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9200",
+			"subRate": "300",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40047",
+			"skillId": "40047",
+			"subId": "1",
+			"effectType": "34",
+			"effect": "375",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "2",
+			"attribute": "2",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9200",
+			"subRate": "300",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40048",
+			"skillId": "40048",
+			"subId": "1",
+			"effectType": "34",
+			"effect": "375",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "2",
+			"attribute": "3",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9200",
+			"subRate": "300",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40049",
+			"skillId": "40049",
+			"subId": "1",
+			"effectType": "34",
+			"effect": "375",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "2",
+			"attribute": "4",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9200",
+			"subRate": "300",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40050",
+			"skillId": "40050",
+			"subId": "1",
+			"effectType": "34",
+			"effect": "375",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "2",
+			"attribute": "5",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9200",
+			"subRate": "300",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40051",
+			"skillId": "40051",
+			"subId": "1",
+			"effectType": "34",
+			"effect": "375",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "2",
+			"attribute": "6",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9200",
+			"subRate": "300",
+			"isMissTrough": "0"
+		},
+		{
+			"skillDetailId": "40052",
+			"skillId": "40052",
+			"subId": "1",
+			"effectType": "34",
+			"effect": "375",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "2",
+			"attribute": "7",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9200",
+			"subRate": "300",
+			"isMissTrough": "0"
+		},
+		{
 			"skillDetailId": "50001",
 			"skillId": "50001",
 			"subId": "1",
@@ -28402,7 +28934,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28421,7 +28953,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28440,7 +28972,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28459,7 +28991,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28478,7 +29010,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28497,7 +29029,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28516,7 +29048,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28535,7 +29067,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28554,7 +29086,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28573,7 +29105,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28592,7 +29124,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28611,7 +29143,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28630,7 +29162,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28649,7 +29181,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28668,7 +29200,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28687,7 +29219,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28706,7 +29238,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28725,7 +29257,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28744,7 +29276,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28763,7 +29295,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28782,7 +29314,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28801,7 +29333,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28820,7 +29352,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28839,7 +29371,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28858,7 +29390,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28877,7 +29409,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28896,7 +29428,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28915,7 +29447,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28934,7 +29466,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28953,7 +29485,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28972,7 +29504,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -28991,7 +29523,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29010,7 +29542,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29029,7 +29561,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29048,7 +29580,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29067,7 +29599,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29086,7 +29618,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29105,7 +29637,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29124,7 +29656,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29143,7 +29675,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29162,7 +29694,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29181,7 +29713,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29200,7 +29732,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29219,7 +29751,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29238,7 +29770,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29257,7 +29789,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29276,7 +29808,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29295,7 +29827,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29314,7 +29846,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29333,7 +29865,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29352,7 +29884,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29371,7 +29903,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29390,7 +29922,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29409,7 +29941,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29428,7 +29960,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{
@@ -29447,7 +29979,7 @@
 			"continuousRound": "100",
 			"motionCount": "10000",
 			"hitRate": "10000",
-			"subRate": "0",
+			"subRate": "10000",
 			"isMissTrough": "0"
 		},
 		{

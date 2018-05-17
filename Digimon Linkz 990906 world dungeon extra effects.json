@@ -3407,6 +3407,38 @@
 			"effectSubType": "2",
 			"effectValue": "50",
 			"detail": "メタルガルルモンX抗体のHPが1.5倍"
+		},
+		{
+			"worldDungeonExtraEffectId": "221",
+			"targetType": "1",
+			"targetSubType": "3",
+			"effectTrigger": "0",
+			"effectTriggerValue": "0",
+			"effectTurnType": "0",
+			"effectTurn": "0",
+			"effectCount": "0",
+			"targetValue": "305",
+			"targetValue2": "0",
+			"effectType": "23",
+			"effectSubType": "2",
+			"effectValue": "150",
+			"detail": "レイヴモンBMのHPが2.5倍"
+		},
+		{
+			"worldDungeonExtraEffectId": "222",
+			"targetType": "1",
+			"targetSubType": "3",
+			"effectTrigger": "0",
+			"effectTriggerValue": "0",
+			"effectTurnType": "0",
+			"effectTurn": "0",
+			"effectCount": "0",
+			"targetValue": "305",
+			"targetValue2": "0",
+			"effectType": "24",
+			"effectSubType": "2",
+			"effectValue": "150",
+			"detail": "レイヴモンBMのSPDが2.5倍"
 		}
 	]
 }

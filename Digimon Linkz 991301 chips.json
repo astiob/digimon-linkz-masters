@@ -10891,6 +10891,72 @@
 			"effect": "chip_effect_10090"
 		},
 		{
+			"chipId": "100267",
+			"chipGroupId": "10091",
+			"name": "破滅のPt特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10091",
+			"detail": "S-ATK+20。さらに、「破滅の砲撃」で獲得ポイントが1.5倍になる。",
+			"effect": "chip_effect_10091"
+		},
+		{
+			"chipId": "100268",
+			"chipGroupId": "10091",
+			"name": "破滅のPt特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10091",
+			"detail": "S-ATK+30。さらに、「破滅の砲撃」で獲得ポイントが2倍になる。",
+			"effect": "chip_effect_10091"
+		},
+		{
+			"chipId": "100269",
+			"chipGroupId": "10091",
+			"name": "破滅のPt特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10091",
+			"detail": "S-ATK+50。さらに、「破滅の砲撃」で獲得ポイントが4倍になる。",
+			"effect": "chip_effect_10091"
+		},
+		{
+			"chipId": "100270",
+			"chipGroupId": "10092",
+			"name": "破滅のステータス特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10092",
+			"detail": "ATK+20。さらに、「破滅の砲撃」でATK・S-ATKが1.5倍になる。",
+			"effect": "chip_effect_10092"
+		},
+		{
+			"chipId": "100271",
+			"chipGroupId": "10092",
+			"name": "破滅のステータス特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10092",
+			"detail": "ATK+30。さらに、「破滅の砲撃」でATK・S-ATKが2倍になる。",
+			"effect": "chip_effect_10092"
+		},
+		{
+			"chipId": "100272",
+			"chipGroupId": "10092",
+			"name": "破滅のステータス特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10092",
+			"detail": "ATK+50。さらに、「破滅の砲撃」でATK・S-ATKが3倍になる。",
+			"effect": "chip_effect_10092"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

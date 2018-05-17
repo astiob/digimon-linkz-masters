@@ -3305,6 +3305,20 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6128",
+			"worldAreaId": "1075",
+			"priority": "1050",
+			"name": "破滅の砲撃",
+			"description": "ポイントを集めて究極体を手に入れよう！",
+			"type": "1",
+			"forceOpenNum": "0",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "point/29/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",

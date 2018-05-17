@@ -1156,6 +1156,13 @@
 			"actionValue": "1"
 		},
 		{
+			"messageCode": "E-WD26",
+			"messageTitle": "データ不整合",
+			"messageText": "【E-WD26】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
 			"messageCode": "E-WD28",
 			"messageTitle": "チップ所持上限",
 			"messageText": "【E-WD28】チップの所持数が上限に達しているため\nクエスト参加できません。\n強化か売却をしてください。",
