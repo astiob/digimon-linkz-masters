@@ -6907,6 +6907,83 @@
 			"dispNum": "50",
 			"startTime": "2018-05-17 18:00:00",
 			"endTime": "2018-05-23 23:59:59"
+		},
+		{
+			"bannerId": "665",
+			"actionType": "menu",
+			"name": "イベント「爆炎の竜影」開催！",
+			"img": "/events/syuusyuu/10001/Holding_5.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1073",
+			"dispNum": "60",
+			"startTime": "2018-05-24 18:00:00",
+			"endTime": "2018-05-31 17:59:59"
+		},
+		{
+			"bannerId": "666",
+			"actionType": "menu",
+			"name": "爆炎竜育成チケットキャプチャ開催！",
+			"img": "/gasha/special/20010/20010_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1077",
+			"dispNum": "23",
+			"startTime": "2018-05-24 16:00:00",
+			"endTime": "2018-06-04 15:59:59"
+		},
+		{
+			"bannerId": "667",
+			"actionType": "menu",
+			"name": "乱戦-焔- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30073/30073_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1078",
+			"dispNum": "7",
+			"startTime": "2018-05-24 16:00:00",
+			"endTime": "2018-05-30 23:59:59"
+		},
+		{
+			"bannerId": "668",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10175/10175_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1079",
+			"dispNum": "3",
+			"startTime": "2018-05-24 16:00:00",
+			"endTime": "2018-06-07 15:59:59"
+		},
+		{
+			"bannerId": "669",
+			"actionType": "menu",
+			"name": "クラスタクエスト開催！",
+			"img": "/events/extra/6007.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1080",
+			"dispNum": "102",
+			"startTime": "2018-05-24 16:00:00",
+			"endTime": "2018-05-31 15:59:59"
+		},
+		{
+			"bannerId": "670",
+			"actionType": "menu",
+			"name": "EXPクエスト開催！",
+			"img": "/events/extra/6008.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1081",
+			"dispNum": "101",
+			"startTime": "2018-05-24 16:00:00",
+			"endTime": "2018-05-31 15:59:59"
+		},
+		{
+			"bannerId": "671",
+			"actionType": "menu",
+			"name": "イベント「乱戦 -焔-」開催！",
+			"img": "/events/syuusyuu/41/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1075",
+			"dispNum": "50",
+			"startTime": "2018-05-24 18:00:00",
+			"endTime": "2018-05-30 23:59:59"
 		}
 	]
 }

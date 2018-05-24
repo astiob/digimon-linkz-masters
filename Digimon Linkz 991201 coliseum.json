@@ -558,6 +558,19 @@
 			"worldDungeonId": "10001",
 			"rewardGroupId": "15",
 			"extraRewardRate": "3"
+		},
+		{
+			"colosseumId": "44",
+			"title": "第14回",
+			"openStatus": "1",
+			"prevColosseumId": "43",
+			"openTime": "2018-06-01 00:00:00",
+			"startDate": "2018-06-01",
+			"endDate": "2018-06-30",
+			"closeTime": "2018-06-30 23:59:59",
+			"worldDungeonId": "10001",
+			"rewardGroupId": "16",
+			"extraRewardRate": "3"
 		}
 	]
 }
