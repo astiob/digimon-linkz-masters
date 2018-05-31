@@ -11023,6 +11023,72 @@
 			"effect": "chip_effect_10094"
 		},
 		{
+			"chipId": "100279",
+			"chipGroupId": "10095",
+			"name": "衝天のPt特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10095",
+			"detail": "ATK+20。さらに、「飛竜 X 衝天」で獲得ポイントが1.5倍になる。",
+			"effect": "chip_effect_10095"
+		},
+		{
+			"chipId": "100280",
+			"chipGroupId": "10095",
+			"name": "衝天のPt特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10095",
+			"detail": "ATK+30。さらに、「飛竜 X 衝天」で獲得ポイントが2.5倍になる。",
+			"effect": "chip_effect_10095"
+		},
+		{
+			"chipId": "100281",
+			"chipGroupId": "10095",
+			"name": "衝天のPt特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10095",
+			"detail": "ATK+50。さらに、「飛竜 X 衝天」で獲得ポイントが5.5倍になる。",
+			"effect": "chip_effect_10095"
+		},
+		{
+			"chipId": "100282",
+			"chipGroupId": "10096",
+			"name": "衝天のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10096",
+			"detail": "S-ATK+20。さらに、「飛竜 X 衝天」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10096"
+		},
+		{
+			"chipId": "100283",
+			"chipGroupId": "10096",
+			"name": "衝天のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10096",
+			"detail": "S-ATK+30。さらに、「飛竜 X 衝天」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10096"
+		},
+		{
+			"chipId": "100284",
+			"chipGroupId": "10096",
+			"name": "衝天のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10096",
+			"detail": "S-ATK+50。さらに、「飛竜 X 衝天」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10096"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

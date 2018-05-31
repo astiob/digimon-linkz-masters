@@ -14386,6 +14386,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "960",
+			"name": "ドラゴンズガスト",
+			"simpleDescription": "",
+			"description": "自然属性で敵単体に魔法特大ダメージ",
+			"type": "2",
+			"skillGroupId": "341",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "341",
+			"soundEffect": "bt_919",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "961",
+			"name": "ドラゴンズガスト",
+			"simpleDescription": "",
+			"description": "自然属性で敵単体に魔法特大ダメージ",
+			"type": "2",
+			"skillGroupId": "341",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "341",
+			"soundEffect": "bt_919",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "プチフレイム",
 			"simpleDescription": "",

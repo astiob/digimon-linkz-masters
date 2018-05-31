@@ -3031,6 +3031,36 @@
 			"num": "10"
 		},
 		{
+			"monsterTranceId": "506",
+			"monsterId": "1696",
+			"soulId": "1070341",
+			"num": "2"
+		},
+		{
+			"monsterTranceId": "507",
+			"monsterId": "1697",
+			"soulId": "1070341",
+			"num": "3"
+		},
+		{
+			"monsterTranceId": "508",
+			"monsterId": "1698",
+			"soulId": "1070341",
+			"num": "5"
+		},
+		{
+			"monsterTranceId": "509",
+			"monsterId": "1699",
+			"soulId": "1070341",
+			"num": "7"
+		},
+		{
+			"monsterTranceId": "510",
+			"monsterId": "1700",
+			"soulId": "1070341",
+			"num": "10"
+		},
+		{
 			"monsterTranceId": "10001",
 			"monsterId": "6026",
 			"soulId": "1076006",

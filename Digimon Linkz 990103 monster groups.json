@@ -4880,6 +4880,23 @@
 			"modelId": "340"
 		},
 		{
+			"monsterGroupId": "341",
+			"monsterCollectionId": "60341",
+			"monsterName": "デュナスモンX抗体",
+			"simpleDescription": "",
+			"description": "Ｘ抗体により飛竜の能力が格段に引き出され、禍々しいまでの姿に変貌を遂げた。有り余る強靭なパワーが故に、その翼の一振りは一瞬にして高高度まで到達させる。空の戦いにおいてはロイヤルナイツの中でも随一の実力を持つに至っている。",
+			"growStep": "7",
+			"tribe": "1",
+			"partyCharaPosX": "0",
+			"partyCharaPosY": "-1.4",
+			"partyCharaPosZ": "-0.1",
+			"partyCharaRotY": "-180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "341"
+		},
+		{
 			"monsterGroupId": "5002",
 			"monsterCollectionId": "0",
 			"monsterName": "アグモン",
