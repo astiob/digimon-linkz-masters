@@ -10042,7 +10042,7 @@
 			"effectType": "3",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "ロードナイトモンボーナス"
+			"detail": "ロードナイトモン：ターゲットボーナス"
 		},
 		{
 			"eventPointBonusId": "900",
@@ -10054,7 +10054,7 @@
 			"effectType": "4",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "デュナスモンボーナス"
+			"detail": "デュナスモン：ターゲットボーナス"
 		},
 		{
 			"eventPointBonusId": "901",
@@ -10066,7 +10066,7 @@
 			"effectType": "5",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "デュナスモンX抗体ボーナス"
+			"detail": "デュナスモンX抗体：ターゲットボーナス"
 		},
 		{
 			"eventPointBonusId": "902",
@@ -10150,7 +10150,7 @@
 			"effectType": "3",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "ロードナイトモンボーナス"
+			"detail": "ロードナイトモン：ターゲットボーナス"
 		},
 		{
 			"eventPointBonusId": "909",
@@ -10162,7 +10162,7 @@
 			"effectType": "4",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "デュナスモンボーナス"
+			"detail": "デュナスモン：ターゲットボーナス"
 		},
 		{
 			"eventPointBonusId": "910",
@@ -10174,7 +10174,7 @@
 			"effectType": "5",
 			"effectSubType": "3",
 			"effectValue": "60",
-			"detail": "デュナスモンX抗体ボーナス"
+			"detail": "デュナスモンX抗体：ターゲットボーナス"
 		},
 		{
 			"eventPointBonusId": "911",
@@ -10246,7 +10246,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "ロードナイトモンボーナス"
+			"detail": "ロードナイトモン：ターゲットボーナス"
 		},
 		{
 			"eventPointBonusId": "917",
@@ -10258,7 +10258,7 @@
 			"effectType": "3",
 			"effectSubType": "3",
 			"effectValue": "40",
-			"detail": "デュナスモンボーナス"
+			"detail": "デュナスモン：ターゲットボーナス"
 		},
 		{
 			"eventPointBonusId": "918",
@@ -10270,7 +10270,7 @@
 			"effectType": "4",
 			"effectSubType": "3",
 			"effectValue": "150",
-			"detail": "デュナスモンX抗体ボーナス"
+			"detail": "デュナスモンX抗体：ターゲットボーナス"
 		},
 		{
 			"eventPointBonusId": "919",
