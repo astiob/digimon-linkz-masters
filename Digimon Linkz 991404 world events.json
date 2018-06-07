@@ -847,15 +847,6 @@
 			"backgroundImg": "syuusyuu/27/bg.png"
 		},
 		{
-			"worldEventId": "99",
-			"eventType": "1",
-			"startTime": "2016-01-01 18:00:00",
-			"endTime": "2030-01-01 18:00:00",
-			"receiveStartTime": "2030-01-02 05:00:00",
-			"receiveEndTime": "2030-01-10 04:59:59",
-			"backgroundImg": "point/21/bg.png"
-		},
-		{
 			"worldEventId": "100",
 			"eventType": "0",
 			"startTime": "2016-01-01 18:00:00",
@@ -1061,6 +1052,15 @@
 			"receiveStartTime": "2018-06-07 05:00:00",
 			"receiveEndTime": "2018-06-13 04:59:59",
 			"backgroundImg": "point/30/bg.png"
+		},
+		{
+			"worldEventId": "125",
+			"eventType": "1",
+			"startTime": "2016-01-01 18:00:00",
+			"endTime": "2030-01-01 18:00:00",
+			"receiveStartTime": "2030-01-02 05:00:00",
+			"receiveEndTime": "2030-01-10 04:59:59",
+			"backgroundImg": "point/21/bg.png?revival"
 		}
 	]
 }

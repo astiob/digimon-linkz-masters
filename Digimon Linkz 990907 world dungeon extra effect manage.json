@@ -6374,6 +6374,31 @@
 			"worldDungeonExtraEffectManageId": "1307",
 			"worldDungeonId": "12084",
 			"worldDungeonExtraEffectId": "228"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1308",
+			"worldDungeonId": "11972",
+			"worldDungeonExtraEffectId": "229"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1309",
+			"worldDungeonId": "11973",
+			"worldDungeonExtraEffectId": "229"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1310",
+			"worldDungeonId": "11974",
+			"worldDungeonExtraEffectId": "229"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1311",
+			"worldDungeonId": "11975",
+			"worldDungeonExtraEffectId": "229"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1312",
+			"worldDungeonId": "11976",
+			"worldDungeonExtraEffectId": "229"
 		}
 	]
 }

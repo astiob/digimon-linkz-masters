@@ -2493,8 +2493,8 @@
 			"targetValue2": "0",
 			"effectType": "21",
 			"effectSubType": "2",
-			"effectValue": "200",
-			"detail": "ナイトモンのATKが3倍"
+			"effectValue": "300",
+			"detail": "ナイトモンのATKが4倍"
 		},
 		{
 			"worldDungeonExtraEffectId": "157",
@@ -2509,8 +2509,8 @@
 			"targetValue2": "0",
 			"effectType": "25",
 			"effectSubType": "2",
-			"effectValue": "200",
-			"detail": "ナイトモンのS-ATKが3倍"
+			"effectValue": "300",
+			"detail": "ナイトモンのS-ATKが4倍"
 		},
 		{
 			"worldDungeonExtraEffectId": "159",
@@ -3535,6 +3535,22 @@
 			"effectSubType": "2",
 			"effectValue": "50",
 			"detail": "ムゲンドラモンのHPが1.5倍"
+		},
+		{
+			"worldDungeonExtraEffectId": "229",
+			"targetType": "1",
+			"targetSubType": "3",
+			"effectTrigger": "0",
+			"effectTriggerValue": "0",
+			"effectTurnType": "0",
+			"effectTurn": "0",
+			"effectCount": "0",
+			"targetValue": "136",
+			"targetValue2": "0",
+			"effectType": "23",
+			"effectSubType": "2",
+			"effectValue": "600",
+			"detail": "ナイトモンのHPが7倍"
 		}
 	]
 }
