@@ -50,6 +50,13 @@
 			"monsterStatusAilmentMaterialId": "6"
 		},
 		{
+			"monsterId": "20096",
+			"assetCategoryId": "14",
+			"assetValue": "1070186",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "6"
+		},
+		{
 			"monsterId": "20111",
 			"assetCategoryId": "14",
 			"assetValue": "1070189",

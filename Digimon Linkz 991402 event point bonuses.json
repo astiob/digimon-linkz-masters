@@ -3926,7 +3926,7 @@
 		},
 		{
 			"eventPointBonusId": "356",
-			"worldEventId": "84",
+			"worldEventId": "126",
 			"worldDungeonId": "11842",
 			"targetSubType": "0",
 			"targetValue": "0",
@@ -3938,7 +3938,7 @@
 		},
 		{
 			"eventPointBonusId": "357",
-			"worldEventId": "84",
+			"worldEventId": "126",
 			"worldDungeonId": "11842",
 			"targetSubType": "12",
 			"targetValue": "0",
@@ -3950,7 +3950,7 @@
 		},
 		{
 			"eventPointBonusId": "358",
-			"worldEventId": "84",
+			"worldEventId": "126",
 			"worldDungeonId": "11842",
 			"targetSubType": "10",
 			"targetValue": "0",
@@ -3962,7 +3962,7 @@
 		},
 		{
 			"eventPointBonusId": "359",
-			"worldEventId": "84",
+			"worldEventId": "126",
 			"worldDungeonId": "11843",
 			"targetSubType": "0",
 			"targetValue": "0",
@@ -3974,7 +3974,7 @@
 		},
 		{
 			"eventPointBonusId": "360",
-			"worldEventId": "84",
+			"worldEventId": "126",
 			"worldDungeonId": "11843",
 			"targetSubType": "12",
 			"targetValue": "0",
@@ -3986,7 +3986,7 @@
 		},
 		{
 			"eventPointBonusId": "361",
-			"worldEventId": "84",
+			"worldEventId": "126",
 			"worldDungeonId": "11843",
 			"targetSubType": "10",
 			"targetValue": "0",
@@ -3998,7 +3998,7 @@
 		},
 		{
 			"eventPointBonusId": "362",
-			"worldEventId": "84",
+			"worldEventId": "126",
 			"worldDungeonId": "11844",
 			"targetSubType": "0",
 			"targetValue": "0",
@@ -4010,7 +4010,7 @@
 		},
 		{
 			"eventPointBonusId": "363",
-			"worldEventId": "84",
+			"worldEventId": "126",
 			"worldDungeonId": "11844",
 			"targetSubType": "12",
 			"targetValue": "0",
@@ -4022,7 +4022,7 @@
 		},
 		{
 			"eventPointBonusId": "364",
-			"worldEventId": "84",
+			"worldEventId": "126",
 			"worldDungeonId": "11844",
 			"targetSubType": "10",
 			"targetValue": "0",
@@ -4034,7 +4034,7 @@
 		},
 		{
 			"eventPointBonusId": "365",
-			"worldEventId": "84",
+			"worldEventId": "126",
 			"worldDungeonId": "11845",
 			"targetSubType": "0",
 			"targetValue": "0",
@@ -4046,7 +4046,7 @@
 		},
 		{
 			"eventPointBonusId": "366",
-			"worldEventId": "84",
+			"worldEventId": "126",
 			"worldDungeonId": "11845",
 			"targetSubType": "12",
 			"targetValue": "0",
@@ -4058,7 +4058,7 @@
 		},
 		{
 			"eventPointBonusId": "367",
-			"worldEventId": "84",
+			"worldEventId": "126",
 			"worldDungeonId": "11845",
 			"targetSubType": "10",
 			"targetValue": "0",

@@ -12643,6 +12643,12 @@
 			"num": "15"
 		},
 		{
+			"monsterTranceId": "20096",
+			"monsterId": "20096",
+			"soulId": "1070186",
+			"num": "15"
+		},
+		{
 			"monsterTranceId": "20111",
 			"monsterId": "20111",
 			"soulId": "1070189",
