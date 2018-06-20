@@ -902,6 +902,19 @@
 			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
+		},
+		{
+			"itemId": "70001",
+			"name": "1000万DL記念キャプチャ券",
+			"description": "全世界1000万DL記念キャプチャを行うことができるキャプチャ券。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_70001",
+				"EventResource/Item/item_70001"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
 		}
 	]
 }

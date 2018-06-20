@@ -7149,6 +7149,50 @@
 			"dispNum": "50",
 			"startTime": "2018-06-14 18:00:00",
 			"endTime": "2018-06-20 23:59:59"
+		},
+		{
+			"bannerId": "687",
+			"actionType": "menu",
+			"name": "全世界1000万DL記念ログインボーナス開催！",
+			"img": "/login/10022/10022_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1105",
+			"dispNum": "102",
+			"startTime": "2018-06-21 05:00:00",
+			"endTime": "2018-07-12 04:59:59"
+		},
+		{
+			"bannerId": "688",
+			"actionType": "menu",
+			"name": "全世界1000万DL記念キャプチャ開催！",
+			"img": "/gasha/special/80001/80001_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1107",
+			"dispNum": "25",
+			"startTime": "2018-06-21 05:00:00",
+			"endTime": "2018-07-19 15:59:59"
+		},
+		{
+			"bannerId": "689",
+			"actionType": "menu",
+			"name": "前哨戦 古の伝承篇 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30077/30077_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1108",
+			"dispNum": "7",
+			"startTime": "2018-06-21 16:00:00",
+			"endTime": "2018-07-04 23:59:59"
+		},
+		{
+			"bannerId": "690",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10179/10179_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1109",
+			"dispNum": "3",
+			"startTime": "2018-06-21 16:00:00",
+			"endTime": "2018-07-05 15:59:59"
 		}
 	]
 }
