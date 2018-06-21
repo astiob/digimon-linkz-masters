@@ -4897,6 +4897,23 @@
 			"modelId": "341"
 		},
 		{
+			"monsterGroupId": "342",
+			"monsterCollectionId": "60342",
+			"monsterName": "エンシェントガルルモン",
+			"simpleDescription": "",
+			"description": "“光”の属性をもつ、古代デジタルワールドを救った伝説の十闘士デジモン。遥か古代に存在した初めての究極体で、「光り輝く至高の獣」と呼ばれていた。エンシェントガルルモンの能力は、その後“獣型デジモン”に引き継がれていった。",
+			"growStep": "7",
+			"tribe": "6",
+			"partyCharaPosX": "0.05",
+			"partyCharaPosY": "-1.02",
+			"partyCharaPosZ": "-0.42",
+			"partyCharaRotY": "-180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "342"
+		},
+		{
 			"monsterGroupId": "5002",
 			"monsterCollectionId": "0",
 			"monsterName": "アグモン",

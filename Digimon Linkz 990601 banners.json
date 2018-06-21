@@ -7193,6 +7193,17 @@
 			"dispNum": "3",
 			"startTime": "2018-06-21 16:00:00",
 			"endTime": "2018-07-05 15:59:59"
+		},
+		{
+			"bannerId": "691",
+			"actionType": "menu",
+			"name": "イベント「前哨戦 古の伝承篇」開催！",
+			"img": "/events/syuusyuu/42/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1111",
+			"dispNum": "50",
+			"startTime": "2018-06-21 18:00:00",
+			"endTime": "2018-07-04 23:59:59"
 		}
 	]
 }

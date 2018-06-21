@@ -624,6 +624,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1071",
+			"name": "第15回覇者",
+			"detail": "第15回コロシアムの覇者に送られる栄光の証",
+			"img": "honorific_colosseum_71",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1072",
+			"name": "第15回SSSランカー",
+			"detail": "第15回コロシアムの最上位ランカーに送られる栄誉の証",
+			"img": "honorific_colosseum_72",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1073",
+			"name": "第15回SSランカー",
+			"detail": "第15回コロシアムの上位ランカーに送られる名誉の証",
+			"img": "honorific_colosseum_73",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1074",
+			"name": "第15回Sランカー",
+			"detail": "第15回コロシアムのランカーに送られる名声の証",
+			"img": "honorific_colosseum_74",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1075",
+			"name": "第15回挑戦者",
+			"detail": "第15回コロシアムの挑戦者に送られる証",
+			"img": "honorific_colosseum_75",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10001",
 			"name": "竜帝の系譜トップ100",
 			"detail": "イベント「竜帝の系譜」トップ100位に送られる栄誉の証",

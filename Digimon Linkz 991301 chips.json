@@ -11089,6 +11089,50 @@
 			"effect": "chip_effect_10096"
 		},
 		{
+			"chipId": "100285",
+			"chipGroupId": "10097",
+			"name": "伝承のドロップ特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10097",
+			"detail": "ATK+20。「前哨戦 古の伝承篇」で交換所アイテムドロップ時の取得個数が+1される。",
+			"effect": "chip_effect_10097"
+		},
+		{
+			"chipId": "100286",
+			"chipGroupId": "10097",
+			"name": "伝承のドロップ特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10097",
+			"detail": "ATK+30。「前哨戦 古の伝承篇」で交換所アイテムドロップ時の取得個数が+3される。",
+			"effect": "chip_effect_10097"
+		},
+		{
+			"chipId": "100287",
+			"chipGroupId": "10097",
+			"name": "伝承のドロップ特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10097",
+			"detail": "ATK+50。「前哨戦 古の伝承篇」で交換所アイテムドロップ時の取得個数が+9される。",
+			"effect": "chip_effect_10097"
+		},
+		{
+			"chipId": "100288",
+			"chipGroupId": "10098",
+			"name": "魔神のステータス特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10098",
+			"detail": "S-ATK+50。さらに、「大乱戦 堕天の魔神篇」でHPが1.5倍、ATK・S-ATKが3倍になる。",
+			"effect": "chip_effect_10098"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

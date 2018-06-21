@@ -685,6 +685,24 @@
 			"death": "1"
 		},
 		{
+			"monsterResistanceId": "39",
+			"description": "ルーチェモンSM",
+			"fire": "-1",
+			"water": "0",
+			"thunder": "0",
+			"nature": "0",
+			"none": "0",
+			"light": "-1",
+			"dark": "1",
+			"poison": "1",
+			"confusion": "-1",
+			"paralysis": "-1",
+			"sleep": "1",
+			"stun": "-1",
+			"skillLock": "1",
+			"death": "-1"
+		},
+		{
 			"monsterResistanceId": "40",
 			"description": "デュークモンCM",
 			"fire": "1",
