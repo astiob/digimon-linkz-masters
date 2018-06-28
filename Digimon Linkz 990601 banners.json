@@ -7179,7 +7179,7 @@
 			"img": "/gasha/special/30077/30077_banner_1.png",
 			"linkCategoryType": "4",
 			"url": "/information/InformationDetail?informationId=1108",
-			"dispNum": "7",
+			"dispNum": "20",
 			"startTime": "2018-06-21 16:00:00",
 			"endTime": "2018-07-04 23:59:59"
 		},
@@ -7203,6 +7203,39 @@
 			"url": "/information/InformationDetail?informationId=1111",
 			"dispNum": "50",
 			"startTime": "2018-06-21 18:00:00",
+			"endTime": "2018-07-04 23:59:59"
+		},
+		{
+			"bannerId": "692",
+			"actionType": "menu",
+			"name": "大乱戦 堕天の魔神篇 育成デジモンキャプチャ開催！",
+			"img": "/gasha/special/10180/10180_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1112",
+			"dispNum": "19",
+			"startTime": "2018-06-28 16:00:00",
+			"endTime": "2018-07-09 15:59:59"
+		},
+		{
+			"bannerId": "693",
+			"actionType": "menu",
+			"name": "イベント「大乱戦 堕天の魔神篇 」開催！",
+			"img": "/events/syuusyuu/43/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1115",
+			"dispNum": "49",
+			"startTime": "2018-06-28 18:00:00",
+			"endTime": "2018-07-04 23:59:59"
+		},
+		{
+			"bannerId": "694",
+			"actionType": "menu",
+			"name": "大乱戦 堕天の魔神篇 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30078/30078_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1116",
+			"dispNum": "18",
+			"startTime": "2018-06-28 16:00:00",
 			"endTime": "2018-07-04 23:59:59"
 		}
 	]
