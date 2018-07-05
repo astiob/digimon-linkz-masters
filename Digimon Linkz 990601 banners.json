@@ -7237,6 +7237,39 @@
 			"dispNum": "18",
 			"startTime": "2018-06-28 16:00:00",
 			"endTime": "2018-07-04 23:59:59"
+		},
+		{
+			"bannerId": "695",
+			"actionType": "menu",
+			"name": "イベント「紫電と薔薇の双舞」開催！",
+			"img": "/events/point/31/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1114",
+			"dispNum": "50",
+			"startTime": "2018-07-05 18:00:00",
+			"endTime": "2018-07-11 23:59:59"
+		},
+		{
+			"bannerId": "696",
+			"actionType": "menu",
+			"name": "紫電と薔薇の双舞 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30079/30079_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1118",
+			"dispNum": "7",
+			"startTime": "2018-07-05 16:00:00",
+			"endTime": "2018-07-11 23:59:59"
+		},
+		{
+			"bannerId": "697",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10181/10181_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1119",
+			"dispNum": "3",
+			"startTime": "2018-07-05 16:00:00",
+			"endTime": "2018-07-19 15:59:59"
 		}
 	]
 }

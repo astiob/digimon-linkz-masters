@@ -11199,6 +11199,39 @@
 			"effect": "chip_effect_10101"
 		},
 		{
+			"chipId": "100295",
+			"chipGroupId": "10102",
+			"name": "双舞のPt特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10102",
+			"detail": "S-ATK+20。さらに、「紫電と薔薇の双舞」で獲得ポイントが2倍になる。",
+			"effect": "chip_effect_10102"
+		},
+		{
+			"chipId": "100296",
+			"chipGroupId": "10102",
+			"name": "双舞のPt特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10102",
+			"detail": "S-ATK+30。さらに、「紫電と薔薇の双舞」で獲得ポイントが4倍になる。",
+			"effect": "chip_effect_10102"
+		},
+		{
+			"chipId": "100297",
+			"chipGroupId": "10102",
+			"name": "双舞のPt特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10102",
+			"detail": "S-ATK+50。さらに、「紫電と薔薇の双舞」で獲得ポイントが10倍になる。",
+			"effect": "chip_effect_10102"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

@@ -3375,6 +3375,20 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6133",
+			"worldAreaId": "1080",
+			"priority": "1050",
+			"name": "紫電と薔薇の双舞",
+			"description": "ポイントを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"forceOpenNum": "0",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "point/31/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",
