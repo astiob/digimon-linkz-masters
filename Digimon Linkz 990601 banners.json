@@ -7270,6 +7270,17 @@
 			"dispNum": "3",
 			"startTime": "2018-07-05 16:00:00",
 			"endTime": "2018-07-19 15:59:59"
+		},
+		{
+			"bannerId": "699",
+			"actionType": "menu",
+			"name": "降臨チケットキャプチャ開催！",
+			"img": "/gasha/special/20016/20016_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1100",
+			"dispNum": "6",
+			"startTime": "2018-07-06 16:00:00",
+			"endTime": "2018-07-12 15:59:59"
 		}
 	]
 }
