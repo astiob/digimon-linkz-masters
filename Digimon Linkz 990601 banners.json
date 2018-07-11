@@ -7281,6 +7281,17 @@
 			"dispNum": "6",
 			"startTime": "2018-07-06 16:00:00",
 			"endTime": "2018-07-12 15:59:59"
+		},
+		{
+			"bannerId": "706",
+			"actionType": "menu",
+			"name": "次回アップデートのお知らせ",
+			"img": "/update/160610/update_info_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1132",
+			"dispNum": "150",
+			"startTime": "2018-07-10 18:00:00",
+			"endTime": "2018-08-01 12:59:59"
 		}
 	]
 }
