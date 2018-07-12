@@ -3389,6 +3389,20 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6134",
+			"worldAreaId": "1081",
+			"priority": "1050",
+			"name": "乱戦 -雷轟-",
+			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"forceOpenNum": "0",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/44/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",

@@ -11232,6 +11232,72 @@
 			"effect": "chip_effect_10102"
 		},
 		{
+			"chipId": "100298",
+			"chipGroupId": "10103",
+			"name": "雷轟のドロップ特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10103",
+			"detail": "ATK+20。「乱戦 -雷轟-」で交換所アイテムドロップ時の取得個数が+1される。",
+			"effect": "chip_effect_10103"
+		},
+		{
+			"chipId": "100299",
+			"chipGroupId": "10103",
+			"name": "雷轟のドロップ特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10103",
+			"detail": "ATK+30。「乱戦 -雷轟-」で交換所アイテムドロップ時の取得個数が+3される。",
+			"effect": "chip_effect_10103"
+		},
+		{
+			"chipId": "100300",
+			"chipGroupId": "10103",
+			"name": "雷轟のドロップ特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10103",
+			"detail": "ATK+50。「乱戦 -雷轟-」で交換所アイテムドロップ時の取得個数が+9される。",
+			"effect": "chip_effect_10103"
+		},
+		{
+			"chipId": "100301",
+			"chipGroupId": "10104",
+			"name": "雷轟のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10104",
+			"detail": "S-ATK+20。さらに、「乱戦 -雷轟-」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10104"
+		},
+		{
+			"chipId": "100302",
+			"chipGroupId": "10104",
+			"name": "雷轟のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10104",
+			"detail": "S-ATK+30。さらに、「乱戦 -雷轟-」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10104"
+		},
+		{
+			"chipId": "100303",
+			"chipGroupId": "10104",
+			"name": "雷轟のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10104",
+			"detail": "S-ATK+50。さらに、「乱戦 -雷轟-」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10104"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

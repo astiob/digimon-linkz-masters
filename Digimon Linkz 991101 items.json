@@ -891,6 +891,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "72",
+			"name": "雷轟の断片データ",
+			"description": "雷轟のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_72",
+				"EventResource/Item/item_72"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "50001",
 			"name": "特上肉",
 			"description": "特別な畑で取れた特上の肉。これでデジモンも気分上々。",

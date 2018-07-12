@@ -7272,6 +7272,17 @@
 			"endTime": "2018-07-19 15:59:59"
 		},
 		{
+			"bannerId": "698",
+			"actionType": "menu",
+			"name": "才能メダルキャプチャ開催！",
+			"img": "/gasha/special/10099/10099_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1120",
+			"dispNum": "5",
+			"startTime": "2018-07-12 16:00:00",
+			"endTime": "2018-07-19 15:59:59"
+		},
+		{
 			"bannerId": "699",
 			"actionType": "menu",
 			"name": "降臨チケットキャプチャ開催！",
@@ -7281,6 +7292,39 @@
 			"dispNum": "6",
 			"startTime": "2018-07-06 16:00:00",
 			"endTime": "2018-07-12 15:59:59"
+		},
+		{
+			"bannerId": "700",
+			"actionType": "menu",
+			"name": "イベント「乱戦 -雷轟-」開催！",
+			"img": "/events/syuusyuu/44/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1125",
+			"dispNum": "50",
+			"startTime": "2018-07-12 18:00:00",
+			"endTime": "2018-07-18 23:59:59"
+		},
+		{
+			"bannerId": "701",
+			"actionType": "menu",
+			"name": "才能メダル引き継ぎ確率UPキャンペーン開催！",
+			"img": "/campaign/11002/11002_labomedal.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1126",
+			"dispNum": "102",
+			"startTime": "2018-07-12 16:00:00",
+			"endTime": "2018-07-19 15:59:59"
+		},
+		{
+			"bannerId": "705",
+			"actionType": "menu",
+			"name": "乱戦 -雷轟- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30080/30080_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1131",
+			"dispNum": "3",
+			"startTime": "2018-07-12 16:00:00",
+			"endTime": "2018-07-18 23:59:59"
 		},
 		{
 			"bannerId": "706",
