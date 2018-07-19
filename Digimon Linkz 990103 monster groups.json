@@ -4914,6 +4914,23 @@
 			"modelId": "342"
 		},
 		{
+			"monsterGroupId": "344",
+			"monsterCollectionId": "60344",
+			"monsterName": "ブリッツグレイモン",
+			"simpleDescription": "",
+			"description": "グレイモン系デジモンの究極形態であり、電流火器が備わったウォーグレイモンの亜種。どっしりとした格闘戦に電撃を加え、強固なものであっても両腕の『プラズマステーク』から電撃を流し込み内側から破壊する。",
+			"growStep": "7",
+			"tribe": "4",
+			"partyCharaPosX": "0",
+			"partyCharaPosY": "-0.95",
+			"partyCharaPosZ": "0.04",
+			"partyCharaRotY": "-180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "344"
+		},
+		{
 			"monsterGroupId": "5002",
 			"monsterCollectionId": "0",
 			"monsterName": "アグモン",

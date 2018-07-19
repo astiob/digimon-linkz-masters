@@ -11298,6 +11298,72 @@
 			"effect": "chip_effect_10104"
 		},
 		{
+			"chipId": "100304",
+			"chipGroupId": "10105",
+			"name": "雷竜のドロップ特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10105",
+			"detail": "ATK+20。「赫の雷竜 -OMEGA-」で交換所アイテムドロップ時の取得個数が+1される。",
+			"effect": "chip_effect_10105"
+		},
+		{
+			"chipId": "100305",
+			"chipGroupId": "10105",
+			"name": "雷竜のドロップ特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10105",
+			"detail": "ATK+30。「赫の雷竜 -OMEGA-」で交換所アイテムドロップ時の取得個数が+3される。",
+			"effect": "chip_effect_10105"
+		},
+		{
+			"chipId": "100306",
+			"chipGroupId": "10105",
+			"name": "雷竜のドロップ特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10105",
+			"detail": "ATK+50。「赫の雷竜 -OMEGA-」で交換所アイテムドロップ時の取得個数が+9される。",
+			"effect": "chip_effect_10105"
+		},
+		{
+			"chipId": "100313",
+			"chipGroupId": "10108",
+			"name": "釿赫のステータス特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10108",
+			"detail": "ATK+20。「釿刃と赫弾 -OMEGA-」でHPが1.5倍になる。",
+			"effect": "chip_effect_10108"
+		},
+		{
+			"chipId": "100314",
+			"chipGroupId": "10108",
+			"name": "釿赫のステータス特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10108",
+			"detail": "ATK+30。「釿刃と赫弾 -OMEGA-」でHPが1.5倍、ATK・S-ATKが1.5倍になる。",
+			"effect": "chip_effect_10108"
+		},
+		{
+			"chipId": "100315",
+			"chipGroupId": "10108",
+			"name": "釿赫のステータス特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10108",
+			"detail": "ATK+50。「釿刃と赫弾 -OMEGA-」でHPが2倍、ATK・S-ATKが3倍になる。",
+			"effect": "chip_effect_10108"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

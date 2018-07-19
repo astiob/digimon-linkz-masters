@@ -14446,6 +14446,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "966",
+			"name": "プラズマステーク",
+			"simpleDescription": "",
+			"description": "雷属性で敵単体に魔法特大ダメージ、確率でマヒにする",
+			"type": "2",
+			"skillGroupId": "344",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "344",
+			"soundEffect": "bt_922",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "967",
+			"name": "プラズマステーク",
+			"simpleDescription": "",
+			"description": "雷属性で敵単体に魔法特大ダメージ、確率でマヒにする",
+			"type": "2",
+			"skillGroupId": "344",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "344",
+			"soundEffect": "bt_922",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "プチフレイム",
 			"simpleDescription": "",

@@ -3403,6 +3403,20 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6135",
+			"worldAreaId": "1082",
+			"priority": "1050",
+			"name": "赫の雷竜 -OMEGA-",
+			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"forceOpenNum": "0",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/45/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",
