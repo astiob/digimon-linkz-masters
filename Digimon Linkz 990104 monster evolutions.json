@@ -26236,6 +26236,51 @@
 			"monsterEvolutionMaterialId": 489
 		},
 		{
+			"monsterEvolutionId": "2931",
+			"baseMonsterId": "1051",
+			"nextMonsterId": "1706",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 490
+		},
+		{
+			"monsterEvolutionId": "2932",
+			"baseMonsterId": "1052",
+			"nextMonsterId": "1707",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 491
+		},
+		{
+			"monsterEvolutionId": "2933",
+			"baseMonsterId": "1053",
+			"nextMonsterId": "1708",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 492
+		},
+		{
+			"monsterEvolutionId": "2934",
+			"baseMonsterId": "1054",
+			"nextMonsterId": "1709",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 493
+		},
+		{
+			"monsterEvolutionId": "2935",
+			"baseMonsterId": "1055",
+			"nextMonsterId": "1710",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 493
+		},
+		{
 			"monsterEvolutionId": "2936",
 			"baseMonsterId": "756",
 			"nextMonsterId": "1711",
@@ -26279,6 +26324,51 @@
 			"effectType": "1",
 			"effectMonsterId": "0",
 			"monsterEvolutionMaterialId": 497
+		},
+		{
+			"monsterEvolutionId": "2941",
+			"baseMonsterId": "816",
+			"nextMonsterId": "1716",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 498
+		},
+		{
+			"monsterEvolutionId": "2942",
+			"baseMonsterId": "817",
+			"nextMonsterId": "1717",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 499
+		},
+		{
+			"monsterEvolutionId": "2943",
+			"baseMonsterId": "818",
+			"nextMonsterId": "1718",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 500
+		},
+		{
+			"monsterEvolutionId": "2944",
+			"baseMonsterId": "819",
+			"nextMonsterId": "1719",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 501
+		},
+		{
+			"monsterEvolutionId": "2945",
+			"baseMonsterId": "820",
+			"nextMonsterId": "1720",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 501
 		},
 		{
 			"monsterEvolutionId": "100001",

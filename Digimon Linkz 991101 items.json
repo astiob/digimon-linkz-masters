@@ -917,6 +917,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "74",
+			"name": "月狼の断片データ",
+			"description": "月狼のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_74",
+				"EventResource/Item/item_74"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "50001",
 			"name": "特上肉",
 			"description": "特別な畑で取れた特上の肉。これでデジモンも気分上々。",

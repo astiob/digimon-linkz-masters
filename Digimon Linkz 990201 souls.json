@@ -841,9 +841,25 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070343",
+			"soulName": "ベルゼブモンX抗体のデータの欠片",
+			"description": "ベルゼブモンX抗体への進化の際に必要となるデータの欠片",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070344",
 			"soulName": "ブリッツグレイモンのデータの欠片",
 			"description": "ブリッツグレイモンへの進化の際に必要となるデータの欠片",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
+			"soulId": "1070345",
+			"soulName": "クーレスガルルモンのデータの欠片",
+			"description": "クーレスガルルモンへの進化の際に必要となるデータの欠片",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"

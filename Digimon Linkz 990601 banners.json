@@ -7322,7 +7322,7 @@
 			"img": "/events/syuusyuu/45/Holding_3.png",
 			"linkCategoryType": "4",
 			"url": "/information/InformationDetail?informationId=1128",
-			"dispNum": "50",
+			"dispNum": "58",
 			"startTime": "2018-07-19 18:00:00",
 			"endTime": "2018-08-08 23:59:59"
 		},
@@ -7424,6 +7424,39 @@
 			"dispNum": "110",
 			"startTime": "2018-07-20 05:00:00",
 			"endTime": "2018-08-01 04:59:59"
+		},
+		{
+			"bannerId": "712",
+			"actionType": "menu",
+			"name": "釿の月狼 -OMEGA- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30082/30082_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1140",
+			"dispNum": "6",
+			"startTime": "2018-07-25 16:00:00",
+			"endTime": "2018-08-08 23:59:59"
+		},
+		{
+			"bannerId": "713",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10184/10184_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1141",
+			"dispNum": "3",
+			"startTime": "2018-07-25 16:00:00",
+			"endTime": "2018-08-09 15:59:59"
+		},
+		{
+			"bannerId": "714",
+			"actionType": "menu",
+			"name": "イベント「釿の月狼 -OMEGA-」開催！",
+			"img": "/events/syuusyuu/46/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1142",
+			"dispNum": "55",
+			"startTime": "2018-07-25 18:00:00",
+			"endTime": "2018-08-08 23:59:59"
 		}
 	]
 }

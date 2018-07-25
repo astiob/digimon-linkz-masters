@@ -4914,6 +4914,23 @@
 			"modelId": "342"
 		},
 		{
+			"monsterGroupId": "343",
+			"monsterCollectionId": "60343",
+			"monsterName": "ベルゼブモンX抗体",
+			"simpleDescription": "",
+			"description": "ベルゼブモンのデータがX抗体により書き換えられた結果、紅蓮の炎「エル：エヴァンヘーリオ」を召喚する能力を手に入れた。X抗体を身に宿したベルゼブモンはその身を灼かれることなく、自分の力として「エル：エヴァンヘーリオ」を操ることが出来る。",
+			"growStep": "7",
+			"tribe": "7",
+			"partyCharaPosX": "0.03",
+			"partyCharaPosY": "-1.31",
+			"partyCharaPosZ": "-0.5",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "343"
+		},
+		{
 			"monsterGroupId": "344",
 			"monsterCollectionId": "60344",
 			"monsterName": "ブリッツグレイモン",
@@ -4929,6 +4946,23 @@
 			"monsterStatusId": "0",
 			"leaderSkillId": "0",
 			"modelId": "344"
+		},
+		{
+			"monsterGroupId": "345",
+			"monsterCollectionId": "60345",
+			"monsterName": "クーレスガルルモン",
+			"simpleDescription": "",
+			"description": "ガルルモンの最終形態で、同じ最終形態のズィードガルルモンとは異なる人型になったメタルガルルモンの亜種。攻撃を跳ね返す黄金のクロンデジゾイト製の装甲を身に纏い、『黄獣偃月刀』を武器に持ち剣劇を得意とする。",
+			"growStep": "7",
+			"tribe": "5",
+			"partyCharaPosX": "0.01",
+			"partyCharaPosY": "-1",
+			"partyCharaPosZ": "-0.29",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "345"
 		},
 		{
 			"monsterGroupId": "5002",
