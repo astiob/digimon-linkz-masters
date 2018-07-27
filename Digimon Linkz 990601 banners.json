@@ -7457,6 +7457,17 @@
 			"dispNum": "55",
 			"startTime": "2018-07-25 18:00:00",
 			"endTime": "2018-08-08 23:59:59"
+		},
+		{
+			"bannerId": "715",
+			"actionType": "menu",
+			"name": "デジモンの日記念キャプチャ開催！",
+			"img": "/gasha/special/10185/10185_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1143",
+			"dispNum": "1",
+			"startTime": "2018-07-30 16:00:00",
+			"endTime": "2018-08-02 15:59:59"
 		}
 	]
 }
