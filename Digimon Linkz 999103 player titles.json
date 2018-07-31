@@ -659,6 +659,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1076",
+			"name": "第16回覇者",
+			"detail": "第16回コロシアムの覇者に送られる栄光の証",
+			"img": "honorific_colosseum_76",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1077",
+			"name": "第16回SSSランカー",
+			"detail": "第16回コロシアムの最上位ランカーに送られる栄誉の証",
+			"img": "honorific_colosseum_77",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1078",
+			"name": "第16回SSランカー",
+			"detail": "第16回コロシアムの上位ランカーに送られる名誉の証",
+			"img": "honorific_colosseum_78",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1079",
+			"name": "第16回Sランカー",
+			"detail": "第16回コロシアムのランカーに送られる名声の証",
+			"img": "honorific_colosseum_79",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1080",
+			"name": "第16回挑戦者",
+			"detail": "第16回コロシアムの挑戦者に送られる証",
+			"img": "honorific_colosseum_80",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10001",
 			"name": "竜帝の系譜トップ100",
 			"detail": "イベント「竜帝の系譜」トップ100位に送られる栄誉の証",

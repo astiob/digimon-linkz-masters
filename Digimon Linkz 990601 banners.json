@@ -7368,7 +7368,7 @@
 			"url": "/information/InformationDetail?informationId=1132",
 			"dispNum": "150",
 			"startTime": "2018-07-10 18:00:00",
-			"endTime": "2018-08-01 12:59:59"
+			"endTime": "2018-08-14 12:59:59"
 		},
 		{
 			"bannerId": "707",
@@ -7468,6 +7468,17 @@
 			"dispNum": "1",
 			"startTime": "2018-07-30 16:00:00",
 			"endTime": "2018-08-02 15:59:59"
+		},
+		{
+			"bannerId": "717",
+			"actionType": "menu",
+			"name": "サマーバケーションログインボーナス 第1弾開催！",
+			"img": "/login/10024/10024_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1147",
+			"dispNum": "110",
+			"startTime": "2018-08-01 05:00:00",
+			"endTime": "2018-08-16 04:59:59"
 		}
 	]
 }
