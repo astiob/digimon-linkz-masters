@@ -3431,6 +3431,20 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6137",
+			"worldAreaId": "1084",
+			"priority": "1052",
+			"name": "釿刃と赫弾 -OMEGA-",
+			"description": "ポイントを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"forceOpenNum": "0",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "point/32/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",

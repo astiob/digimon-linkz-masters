@@ -1071,11 +1071,23 @@
 		{
 			"worldAreaId": "1083",
 			"worldId": "6",
-			"priority": "10",
+			"priority": "9",
 			"name": "釿の月狼 -OMEGA-",
 			"img": "syuusyuu/46/Holding_1.png",
 			"description": "断片データを集めて、さまざまな報酬を手に入れよう！",
 			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "1084",
+			"worldId": "6",
+			"priority": "8",
+			"name": "釿刃と赫弾 -OMEGA-",
+			"img": "point/32/Holding_1.png",
+			"description": "ポイントや断片データを集めて究極体を手に入れよう！",
+			"type": "3",
 			"prerequisiteWorldAreaId": "0",
 			"openTime": "2015-05-01 00:00:00",
 			"closeTime": "2030-05-01 00:00:00"

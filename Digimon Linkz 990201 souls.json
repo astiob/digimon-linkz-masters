@@ -865,6 +865,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070346",
+			"soulName": "オメガモンAlter-Sのデータの欠片",
+			"description": "オメガモンAlter-Sへの進化の際に必要となるデータの欠片",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1076006",
 			"soulName": "シャイングレイモンのデータの欠片",
 			"description": "シャイングレイモンへの進化の際に必要となるデータの欠片",

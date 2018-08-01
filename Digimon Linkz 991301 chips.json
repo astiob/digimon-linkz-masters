@@ -11430,6 +11430,72 @@
 			"effect": "chip_effect_10108"
 		},
 		{
+			"chipId": "100316",
+			"chipGroupId": "10109",
+			"name": "釿赫のPt特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10109",
+			"detail": "ATK+20。さらに、「釿刃と赫弾 -OMEGA-」で獲得ポイントが1.3倍になる。",
+			"effect": "chip_effect_10109"
+		},
+		{
+			"chipId": "100317",
+			"chipGroupId": "10109",
+			"name": "釿赫のPt特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10109",
+			"detail": "ATK+30。さらに、「釿刃と赫弾 -OMEGA-」で獲得ポイントが2倍になる。",
+			"effect": "chip_effect_10109"
+		},
+		{
+			"chipId": "100318",
+			"chipGroupId": "10109",
+			"name": "釿赫のPt特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10109",
+			"detail": "ATK+50。さらに、「釿刃と赫弾 -OMEGA-」で獲得ポイントが4倍になる。",
+			"effect": "chip_effect_10109"
+		},
+		{
+			"chipId": "100319",
+			"chipGroupId": "10110",
+			"name": "釿赫のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10110",
+			"detail": "S-ATK+20。さらに、「釿刃と赫弾 -OMEGA -」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10110"
+		},
+		{
+			"chipId": "100320",
+			"chipGroupId": "10110",
+			"name": "釿赫のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10110",
+			"detail": "S-ATK+30。さらに、「釿刃と赫弾 -OMEGA -」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10110"
+		},
+		{
+			"chipId": "100321",
+			"chipGroupId": "10110",
+			"name": "釿赫のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10110",
+			"detail": "S-ATK+50。さらに、「釿刃と赫弾 -OMEGA -」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10110"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

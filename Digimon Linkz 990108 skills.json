@@ -14536,6 +14536,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "970",
+			"name": "ガルルソード",
+			"simpleDescription": "",
+			"description": "無属性で敵単体に複数回物理中ダメージ、確率でスタンにする",
+			"type": "2",
+			"skillGroupId": "346",
+			"skillGroupSubId": "1",
+			"needPoint": "2",
+			"inheritancePrice": "300",
+			"attackEffect": "346",
+			"soundEffect": "bt_924",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "971",
+			"name": "グレイキャノン",
+			"simpleDescription": "",
+			"description": "雷属性で敵単体に物理特大ダメージ、確率でAPを1減らす",
+			"type": "2",
+			"skillGroupId": "346",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "346_2",
+			"soundEffect": "bt_925",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "プチフレイム",
 			"simpleDescription": "",

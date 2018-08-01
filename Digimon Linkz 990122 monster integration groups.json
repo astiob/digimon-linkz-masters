@@ -2019,6 +2019,126 @@
 		{
 			"monsterIntegrationId": "10012",
 			"monsterId": "1625"
+		},
+		{
+			"monsterIntegrationId": "10013",
+			"monsterId": "1706"
+		},
+		{
+			"monsterIntegrationId": "10014",
+			"monsterId": "1707"
+		},
+		{
+			"monsterIntegrationId": "10015",
+			"monsterId": "1708"
+		},
+		{
+			"monsterIntegrationId": "10016",
+			"monsterId": "1709"
+		},
+		{
+			"monsterIntegrationId": "10017",
+			"monsterId": "1710"
+		},
+		{
+			"monsterIntegrationId": "10018",
+			"monsterId": "1711"
+		},
+		{
+			"monsterIntegrationId": "10019",
+			"monsterId": "1712"
+		},
+		{
+			"monsterIntegrationId": "10020",
+			"monsterId": "1713"
+		},
+		{
+			"monsterIntegrationId": "10021",
+			"monsterId": "1714"
+		},
+		{
+			"monsterIntegrationId": "10022",
+			"monsterId": "1715"
+		},
+		{
+			"monsterIntegrationId": "10023",
+			"monsterId": "1716"
+		},
+		{
+			"monsterIntegrationId": "10024",
+			"monsterId": "1717"
+		},
+		{
+			"monsterIntegrationId": "10025",
+			"monsterId": "1718"
+		},
+		{
+			"monsterIntegrationId": "10026",
+			"monsterId": "1719"
+		},
+		{
+			"monsterIntegrationId": "10027",
+			"monsterId": "1720"
+		},
+		{
+			"monsterIntegrationId": "10028",
+			"monsterId": "1421"
+		},
+		{
+			"monsterIntegrationId": "10029",
+			"monsterId": "1422"
+		},
+		{
+			"monsterIntegrationId": "10030",
+			"monsterId": "1423"
+		},
+		{
+			"monsterIntegrationId": "10031",
+			"monsterId": "1424"
+		},
+		{
+			"monsterIntegrationId": "10032",
+			"monsterId": "1425"
+		},
+		{
+			"monsterIntegrationId": "10033",
+			"monsterId": "1431"
+		},
+		{
+			"monsterIntegrationId": "10034",
+			"monsterId": "1432"
+		},
+		{
+			"monsterIntegrationId": "10035",
+			"monsterId": "1433"
+		},
+		{
+			"monsterIntegrationId": "10036",
+			"monsterId": "1434"
+		},
+		{
+			"monsterIntegrationId": "10037",
+			"monsterId": "1435"
+		},
+		{
+			"monsterIntegrationId": "10038",
+			"monsterId": "1051"
+		},
+		{
+			"monsterIntegrationId": "10039",
+			"monsterId": "1052"
+		},
+		{
+			"monsterIntegrationId": "10040",
+			"monsterId": "1053"
+		},
+		{
+			"monsterIntegrationId": "10041",
+			"monsterId": "1054"
+		},
+		{
+			"monsterIntegrationId": "10042",
+			"monsterId": "1055"
 		}
 	]
 }

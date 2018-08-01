@@ -4965,6 +4965,23 @@
 			"modelId": "345"
 		},
 		{
+			"monsterGroupId": "346",
+			"monsterCollectionId": "60346",
+			"monsterName": "オメガモンAlter-S",
+			"simpleDescription": "",
+			"description": "ウォーグレイモンの亜種“ブリッツグレイモン”、メタルガルルモンの亜種“クーレスガルルモン”が融合し誕生したオメガモンの新たな一面。ロイヤルナイツに所属するオメガモンとは別の個体であるが、２体の特性を併せ持ちマルチタイプな性能は変わらず、強さも同等である。",
+			"growStep": "7",
+			"tribe": "6",
+			"partyCharaPosX": "-0.02",
+			"partyCharaPosY": "-1.52",
+			"partyCharaPosZ": "-0.45",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "346"
+		},
+		{
 			"monsterGroupId": "5002",
 			"monsterCollectionId": "0",
 			"monsterName": "アグモン",

@@ -930,6 +930,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "75",
+			"name": "釿赫の断片ﾃﾞｰﾀ",
+			"description": "釿赫のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_75",
+				"EventResource/Item/item_75"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "50001",
 			"name": "特上肉",
 			"description": "特別な畑で取れた特上の肉。これでデジモンも気分上々。",
