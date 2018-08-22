@@ -1074,7 +1074,7 @@
 		{
 			"messageCode": "E-WD10",
 			"messageTitle": "期間終了",
-			"messageText": "【E-WD10】クエストの解放期間が終了しています。",
+			"messageText": "【E-WD10】クエストの開放期間が終了しています。",
 			"actionType": "1",
 			"actionValue": "1"
 		},

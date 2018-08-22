@@ -1091,6 +1091,30 @@
 			"prerequisiteWorldAreaId": "0",
 			"openTime": "2015-05-01 00:00:00",
 			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "1085",
+			"worldId": "6",
+			"priority": "10",
+			"name": "乱戦 -極夏-",
+			"img": "syuusyuu/47/Holding_1.png",
+			"description": "断片データを集めて、さまざまな報酬を手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "1086",
+			"worldId": "6",
+			"priority": "10",
+			"name": "蒼炎 x 冥炎",
+			"img": "point/33/Holding_1.png",
+			"description": "ポイントや断片データを集めて究極体を手に入れよう！",
+			"type": "4",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
 		}
 	]
 }

@@ -11496,6 +11496,105 @@
 			"effect": "chip_effect_10110"
 		},
 		{
+			"chipId": "100322",
+			"chipGroupId": "10111",
+			"name": "極夏のドロップ&EXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10111",
+			"detail": "DEF+20。「乱戦 -極夏-」で交換所アイテムドロップ時の取得個数が+1。さらにEXTRA STAGE発生率が小アップ。",
+			"effect": "chip_effect_10111"
+		},
+		{
+			"chipId": "100323",
+			"chipGroupId": "10111",
+			"name": "極夏のドロップ&EXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10111",
+			"detail": "DEF+30。「乱戦 -極夏-」で交換所アイテムドロップ時の取得個数が+3。さらにEXTRA STAGE発生率が中アップ。",
+			"effect": "chip_effect_10111"
+		},
+		{
+			"chipId": "100324",
+			"chipGroupId": "10111",
+			"name": "極夏のドロップ&EXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10111",
+			"detail": "DEF+50。「乱戦 -極夏-」で交換所アイテムドロップ時の取得個数が+9。さらにEXTRA STAGE発生率が大アップ。",
+			"effect": "chip_effect_10111"
+		},
+		{
+			"chipId": "100325",
+			"chipGroupId": "10112",
+			"name": "蒼炎のドロップ&EXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10112",
+			"detail": "ATK+20。「蒼炎 x 冥炎」で交換所アイテムドロップ時の取得個数が+1。さらにEXTRA STAGE発生率が小アップ。",
+			"effect": "chip_effect_10112"
+		},
+		{
+			"chipId": "100326",
+			"chipGroupId": "10112",
+			"name": "蒼炎のドロップ&EXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10112",
+			"detail": "ATK+30。「蒼炎 x 冥炎」で交換所アイテムドロップ時の取得個数が+3。さらにEXTRA STAGE発生率が中アップ。",
+			"effect": "chip_effect_10112"
+		},
+		{
+			"chipId": "100327",
+			"chipGroupId": "10112",
+			"name": "蒼炎のドロップ&EXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10112",
+			"detail": "ATK+50。「蒼炎 x 冥炎」で交換所アイテムドロップ時の取得個数が+9。さらにEXTRA STAGE発生率が大アップ。",
+			"effect": "chip_effect_10112"
+		},
+		{
+			"chipId": "100328",
+			"chipGroupId": "10113",
+			"name": "冥炎のPt&EXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10113",
+			"detail": "ATK+20。「蒼炎 x 冥炎」で獲得Ptが1.5倍になる。さらにEXTRA STAGE発生率が小アップ。",
+			"effect": "chip_effect_10113"
+		},
+		{
+			"chipId": "100329",
+			"chipGroupId": "10113",
+			"name": "冥炎のPt&EXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10113",
+			"detail": "ATK+30。「蒼炎 x 冥炎」で獲得Ptが2倍になる。さらにEXTRA STAGE発生率が中アップ。",
+			"effect": "chip_effect_10113"
+		},
+		{
+			"chipId": "100330",
+			"chipGroupId": "10113",
+			"name": "冥炎のPt&EXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10113",
+			"detail": "ATK+50。「蒼炎 x 冥炎」で獲得Ptが4倍になる。さらにEXTRA STAGE発生率が大アップ。",
+			"effect": "chip_effect_10113"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",
