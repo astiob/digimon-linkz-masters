@@ -1,0 +1,868 @@
+{
+	"abilityUpgradeRateM": [
+		{
+			"abilityUpgradeRateId": "1",
+			"baseAbility": "5",
+			"materialAbility": "5",
+			"rate": "2000"
+		},
+		{
+			"abilityUpgradeRateId": "2",
+			"baseAbility": "5",
+			"materialAbility": "6",
+			"rate": "3000"
+		},
+		{
+			"abilityUpgradeRateId": "3",
+			"baseAbility": "5",
+			"materialAbility": "7",
+			"rate": "4000"
+		},
+		{
+			"abilityUpgradeRateId": "4",
+			"baseAbility": "5",
+			"materialAbility": "8",
+			"rate": "6000"
+		},
+		{
+			"abilityUpgradeRateId": "5",
+			"baseAbility": "5",
+			"materialAbility": "9",
+			"rate": "8000"
+		},
+		{
+			"abilityUpgradeRateId": "6",
+			"baseAbility": "5",
+			"materialAbility": "10",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "7",
+			"baseAbility": "5",
+			"materialAbility": "15",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "8",
+			"baseAbility": "5",
+			"materialAbility": "16",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "9",
+			"baseAbility": "5",
+			"materialAbility": "17",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "10",
+			"baseAbility": "5",
+			"materialAbility": "18",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "11",
+			"baseAbility": "5",
+			"materialAbility": "19",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "12",
+			"baseAbility": "5",
+			"materialAbility": "20",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "13",
+			"baseAbility": "6",
+			"materialAbility": "5",
+			"rate": "1600"
+		},
+		{
+			"abilityUpgradeRateId": "14",
+			"baseAbility": "6",
+			"materialAbility": "6",
+			"rate": "2500"
+		},
+		{
+			"abilityUpgradeRateId": "15",
+			"baseAbility": "6",
+			"materialAbility": "7",
+			"rate": "3400"
+		},
+		{
+			"abilityUpgradeRateId": "16",
+			"baseAbility": "6",
+			"materialAbility": "8",
+			"rate": "5100"
+		},
+		{
+			"abilityUpgradeRateId": "17",
+			"baseAbility": "6",
+			"materialAbility": "9",
+			"rate": "6800"
+		},
+		{
+			"abilityUpgradeRateId": "18",
+			"baseAbility": "6",
+			"materialAbility": "10",
+			"rate": "8500"
+		},
+		{
+			"abilityUpgradeRateId": "19",
+			"baseAbility": "6",
+			"materialAbility": "15",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "20",
+			"baseAbility": "6",
+			"materialAbility": "16",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "21",
+			"baseAbility": "6",
+			"materialAbility": "17",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "22",
+			"baseAbility": "6",
+			"materialAbility": "18",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "23",
+			"baseAbility": "6",
+			"materialAbility": "19",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "24",
+			"baseAbility": "6",
+			"materialAbility": "20",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "28",
+			"baseAbility": "7",
+			"materialAbility": "5",
+			"rate": "1200"
+		},
+		{
+			"abilityUpgradeRateId": "29",
+			"baseAbility": "7",
+			"materialAbility": "6",
+			"rate": "2000"
+		},
+		{
+			"abilityUpgradeRateId": "30",
+			"baseAbility": "7",
+			"materialAbility": "7",
+			"rate": "2800"
+		},
+		{
+			"abilityUpgradeRateId": "31",
+			"baseAbility": "7",
+			"materialAbility": "8",
+			"rate": "4200"
+		},
+		{
+			"abilityUpgradeRateId": "32",
+			"baseAbility": "7",
+			"materialAbility": "9",
+			"rate": "5600"
+		},
+		{
+			"abilityUpgradeRateId": "33",
+			"baseAbility": "7",
+			"materialAbility": "10",
+			"rate": "7000"
+		},
+		{
+			"abilityUpgradeRateId": "34",
+			"baseAbility": "7",
+			"materialAbility": "15",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "35",
+			"baseAbility": "7",
+			"materialAbility": "16",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "36",
+			"baseAbility": "7",
+			"materialAbility": "17",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "37",
+			"baseAbility": "7",
+			"materialAbility": "18",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "38",
+			"baseAbility": "7",
+			"materialAbility": "19",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "39",
+			"baseAbility": "7",
+			"materialAbility": "20",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "43",
+			"baseAbility": "8",
+			"materialAbility": "5",
+			"rate": "800"
+		},
+		{
+			"abilityUpgradeRateId": "44",
+			"baseAbility": "8",
+			"materialAbility": "6",
+			"rate": "1500"
+		},
+		{
+			"abilityUpgradeRateId": "45",
+			"baseAbility": "8",
+			"materialAbility": "7",
+			"rate": "2200"
+		},
+		{
+			"abilityUpgradeRateId": "46",
+			"baseAbility": "8",
+			"materialAbility": "8",
+			"rate": "3300"
+		},
+		{
+			"abilityUpgradeRateId": "47",
+			"baseAbility": "8",
+			"materialAbility": "9",
+			"rate": "4400"
+		},
+		{
+			"abilityUpgradeRateId": "48",
+			"baseAbility": "8",
+			"materialAbility": "10",
+			"rate": "5500"
+		},
+		{
+			"abilityUpgradeRateId": "49",
+			"baseAbility": "8",
+			"materialAbility": "15",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "50",
+			"baseAbility": "8",
+			"materialAbility": "16",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "51",
+			"baseAbility": "8",
+			"materialAbility": "17",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "52",
+			"baseAbility": "8",
+			"materialAbility": "18",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "53",
+			"baseAbility": "8",
+			"materialAbility": "19",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "54",
+			"baseAbility": "8",
+			"materialAbility": "20",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "58",
+			"baseAbility": "9",
+			"materialAbility": "5",
+			"rate": "400"
+		},
+		{
+			"abilityUpgradeRateId": "59",
+			"baseAbility": "9",
+			"materialAbility": "6",
+			"rate": "1000"
+		},
+		{
+			"abilityUpgradeRateId": "60",
+			"baseAbility": "9",
+			"materialAbility": "7",
+			"rate": "1600"
+		},
+		{
+			"abilityUpgradeRateId": "61",
+			"baseAbility": "9",
+			"materialAbility": "8",
+			"rate": "2400"
+		},
+		{
+			"abilityUpgradeRateId": "62",
+			"baseAbility": "9",
+			"materialAbility": "9",
+			"rate": "3200"
+		},
+		{
+			"abilityUpgradeRateId": "63",
+			"baseAbility": "9",
+			"materialAbility": "10",
+			"rate": "4000"
+		},
+		{
+			"abilityUpgradeRateId": "64",
+			"baseAbility": "9",
+			"materialAbility": "15",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "65",
+			"baseAbility": "9",
+			"materialAbility": "16",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "66",
+			"baseAbility": "9",
+			"materialAbility": "17",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "67",
+			"baseAbility": "9",
+			"materialAbility": "18",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "68",
+			"baseAbility": "9",
+			"materialAbility": "19",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "69",
+			"baseAbility": "9",
+			"materialAbility": "20",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "73",
+			"baseAbility": "10",
+			"materialAbility": "5",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "74",
+			"baseAbility": "10",
+			"materialAbility": "6",
+			"rate": "500"
+		},
+		{
+			"abilityUpgradeRateId": "75",
+			"baseAbility": "10",
+			"materialAbility": "7",
+			"rate": "1000"
+		},
+		{
+			"abilityUpgradeRateId": "76",
+			"baseAbility": "10",
+			"materialAbility": "8",
+			"rate": "1500"
+		},
+		{
+			"abilityUpgradeRateId": "77",
+			"baseAbility": "10",
+			"materialAbility": "9",
+			"rate": "2000"
+		},
+		{
+			"abilityUpgradeRateId": "78",
+			"baseAbility": "10",
+			"materialAbility": "10",
+			"rate": "2500"
+		},
+		{
+			"abilityUpgradeRateId": "79",
+			"baseAbility": "10",
+			"materialAbility": "15",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "80",
+			"baseAbility": "10",
+			"materialAbility": "16",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "81",
+			"baseAbility": "10",
+			"materialAbility": "17",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "82",
+			"baseAbility": "10",
+			"materialAbility": "18",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "83",
+			"baseAbility": "10",
+			"materialAbility": "19",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "84",
+			"baseAbility": "10",
+			"materialAbility": "20",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "88",
+			"baseAbility": "15",
+			"materialAbility": "5",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "89",
+			"baseAbility": "15",
+			"materialAbility": "6",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "90",
+			"baseAbility": "15",
+			"materialAbility": "7",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "91",
+			"baseAbility": "15",
+			"materialAbility": "8",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "92",
+			"baseAbility": "15",
+			"materialAbility": "9",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "93",
+			"baseAbility": "15",
+			"materialAbility": "10",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "94",
+			"baseAbility": "15",
+			"materialAbility": "15",
+			"rate": "2000"
+		},
+		{
+			"abilityUpgradeRateId": "95",
+			"baseAbility": "15",
+			"materialAbility": "16",
+			"rate": "4000"
+		},
+		{
+			"abilityUpgradeRateId": "96",
+			"baseAbility": "15",
+			"materialAbility": "17",
+			"rate": "6000"
+		},
+		{
+			"abilityUpgradeRateId": "97",
+			"baseAbility": "15",
+			"materialAbility": "18",
+			"rate": "8000"
+		},
+		{
+			"abilityUpgradeRateId": "98",
+			"baseAbility": "15",
+			"materialAbility": "19",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "99",
+			"baseAbility": "15",
+			"materialAbility": "20",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "103",
+			"baseAbility": "16",
+			"materialAbility": "5",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "104",
+			"baseAbility": "16",
+			"materialAbility": "6",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "105",
+			"baseAbility": "16",
+			"materialAbility": "7",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "106",
+			"baseAbility": "16",
+			"materialAbility": "8",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "107",
+			"baseAbility": "16",
+			"materialAbility": "9",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "108",
+			"baseAbility": "16",
+			"materialAbility": "10",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "109",
+			"baseAbility": "16",
+			"materialAbility": "15",
+			"rate": "2500"
+		},
+		{
+			"abilityUpgradeRateId": "110",
+			"baseAbility": "16",
+			"materialAbility": "16",
+			"rate": "3400"
+		},
+		{
+			"abilityUpgradeRateId": "111",
+			"baseAbility": "16",
+			"materialAbility": "17",
+			"rate": "5100"
+		},
+		{
+			"abilityUpgradeRateId": "112",
+			"baseAbility": "16",
+			"materialAbility": "18",
+			"rate": "6800"
+		},
+		{
+			"abilityUpgradeRateId": "113",
+			"baseAbility": "16",
+			"materialAbility": "19",
+			"rate": "8500"
+		},
+		{
+			"abilityUpgradeRateId": "114",
+			"baseAbility": "16",
+			"materialAbility": "20",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "118",
+			"baseAbility": "17",
+			"materialAbility": "5",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "119",
+			"baseAbility": "17",
+			"materialAbility": "6",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "120",
+			"baseAbility": "17",
+			"materialAbility": "7",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "121",
+			"baseAbility": "17",
+			"materialAbility": "8",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "122",
+			"baseAbility": "17",
+			"materialAbility": "9",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "123",
+			"baseAbility": "17",
+			"materialAbility": "10",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "124",
+			"baseAbility": "17",
+			"materialAbility": "15",
+			"rate": "1800"
+		},
+		{
+			"abilityUpgradeRateId": "125",
+			"baseAbility": "17",
+			"materialAbility": "16",
+			"rate": "2500"
+		},
+		{
+			"abilityUpgradeRateId": "126",
+			"baseAbility": "17",
+			"materialAbility": "17",
+			"rate": "4000"
+		},
+		{
+			"abilityUpgradeRateId": "127",
+			"baseAbility": "17",
+			"materialAbility": "18",
+			"rate": "5200"
+		},
+		{
+			"abilityUpgradeRateId": "128",
+			"baseAbility": "17",
+			"materialAbility": "19",
+			"rate": "6500"
+		},
+		{
+			"abilityUpgradeRateId": "129",
+			"baseAbility": "17",
+			"materialAbility": "20",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "133",
+			"baseAbility": "18",
+			"materialAbility": "5",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "134",
+			"baseAbility": "18",
+			"materialAbility": "6",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "135",
+			"baseAbility": "18",
+			"materialAbility": "7",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "136",
+			"baseAbility": "18",
+			"materialAbility": "8",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "137",
+			"baseAbility": "18",
+			"materialAbility": "9",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "138",
+			"baseAbility": "18",
+			"materialAbility": "10",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "139",
+			"baseAbility": "18",
+			"materialAbility": "15",
+			"rate": "1200"
+		},
+		{
+			"abilityUpgradeRateId": "140",
+			"baseAbility": "18",
+			"materialAbility": "16",
+			"rate": "1600"
+		},
+		{
+			"abilityUpgradeRateId": "141",
+			"baseAbility": "18",
+			"materialAbility": "17",
+			"rate": "3000"
+		},
+		{
+			"abilityUpgradeRateId": "142",
+			"baseAbility": "18",
+			"materialAbility": "18",
+			"rate": "3600"
+		},
+		{
+			"abilityUpgradeRateId": "143",
+			"baseAbility": "18",
+			"materialAbility": "19",
+			"rate": "4500"
+		},
+		{
+			"abilityUpgradeRateId": "144",
+			"baseAbility": "18",
+			"materialAbility": "20",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "148",
+			"baseAbility": "19",
+			"materialAbility": "5",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "149",
+			"baseAbility": "19",
+			"materialAbility": "6",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "150",
+			"baseAbility": "19",
+			"materialAbility": "7",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "151",
+			"baseAbility": "19",
+			"materialAbility": "8",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "152",
+			"baseAbility": "19",
+			"materialAbility": "9",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "153",
+			"baseAbility": "19",
+			"materialAbility": "10",
+			"rate": "100"
+		},
+		{
+			"abilityUpgradeRateId": "154",
+			"baseAbility": "19",
+			"materialAbility": "15",
+			"rate": "500"
+		},
+		{
+			"abilityUpgradeRateId": "155",
+			"baseAbility": "19",
+			"materialAbility": "16",
+			"rate": "1000"
+		},
+		{
+			"abilityUpgradeRateId": "156",
+			"baseAbility": "19",
+			"materialAbility": "17",
+			"rate": "1500"
+		},
+		{
+			"abilityUpgradeRateId": "157",
+			"baseAbility": "19",
+			"materialAbility": "18",
+			"rate": "2000"
+		},
+		{
+			"abilityUpgradeRateId": "158",
+			"baseAbility": "19",
+			"materialAbility": "19",
+			"rate": "2500"
+		},
+		{
+			"abilityUpgradeRateId": "159",
+			"baseAbility": "19",
+			"materialAbility": "20",
+			"rate": "10000"
+		},
+		{
+			"abilityUpgradeRateId": "163",
+			"baseAbility": "20",
+			"materialAbility": "5",
+			"rate": "0"
+		},
+		{
+			"abilityUpgradeRateId": "164",
+			"baseAbility": "20",
+			"materialAbility": "6",
+			"rate": "0"
+		},
+		{
+			"abilityUpgradeRateId": "165",
+			"baseAbility": "20",
+			"materialAbility": "7",
+			"rate": "0"
+		},
+		{
+			"abilityUpgradeRateId": "166",
+			"baseAbility": "20",
+			"materialAbility": "8",
+			"rate": "0"
+		},
+		{
+			"abilityUpgradeRateId": "167",
+			"baseAbility": "20",
+			"materialAbility": "9",
+			"rate": "0"
+		},
+		{
+			"abilityUpgradeRateId": "168",
+			"baseAbility": "20",
+			"materialAbility": "10",
+			"rate": "0"
+		},
+		{
+			"abilityUpgradeRateId": "169",
+			"baseAbility": "20",
+			"materialAbility": "15",
+			"rate": "0"
+		},
+		{
+			"abilityUpgradeRateId": "170",
+			"baseAbility": "20",
+			"materialAbility": "16",
+			"rate": "0"
+		},
+		{
+			"abilityUpgradeRateId": "171",
+			"baseAbility": "20",
+			"materialAbility": "17",
+			"rate": "0"
+		},
+		{
+			"abilityUpgradeRateId": "172",
+			"baseAbility": "20",
+			"materialAbility": "18",
+			"rate": "0"
+		},
+		{
+			"abilityUpgradeRateId": "173",
+			"baseAbility": "20",
+			"materialAbility": "19",
+			"rate": "0"
+		},
+		{
+			"abilityUpgradeRateId": "174",
+			"baseAbility": "20",
+			"materialAbility": "20",
+			"rate": "0"
+		}
+	]
+}
