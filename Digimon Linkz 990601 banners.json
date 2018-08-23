@@ -7611,6 +7611,50 @@
 			"dispNum": "7",
 			"startTime": "2018-08-16 16:00:00",
 			"endTime": "2018-08-22 23:59:59"
+		},
+		{
+			"bannerId": "729",
+			"actionType": "menu",
+			"name": "降臨チケットキャプチャ開催！",
+			"img": "/gasha/special/20016/20016_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1168",
+			"dispNum": "23",
+			"startTime": "2018-08-23 16:00:00",
+			"endTime": "2018-08-30 15:59:59"
+		},
+		{
+			"bannerId": "730",
+			"actionType": "menu",
+			"name": "冥府の咆哮 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30086/30086_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1169",
+			"dispNum": "7",
+			"startTime": "2018-08-23 16:00:00",
+			"endTime": "2018-08-29 23:59:59"
+		},
+		{
+			"bannerId": "731",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10188/10188_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1170",
+			"dispNum": "3",
+			"startTime": "2018-08-23 16:00:00",
+			"endTime": "2018-09-06 15:59:59"
+		},
+		{
+			"bannerId": "732",
+			"actionType": "menu",
+			"name": "イベント「冥府の咆哮」開催！",
+			"img": "/events/syuusyuu/48/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1171",
+			"dispNum": "50",
+			"startTime": "2018-08-23 18:00:00",
+			"endTime": "2018-08-29 23:59:59"
 		}
 	]
 }

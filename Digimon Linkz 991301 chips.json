@@ -11595,6 +11595,39 @@
 			"effect": "chip_effect_10113"
 		},
 		{
+			"chipId": "100331",
+			"chipGroupId": "10114",
+			"name": "咆哮のSPチャレンジ＆ステータス特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10114",
+			"detail": "DEF+20。「冥府の咆哮」でスペシャルチャレンジクリア報酬が1.5倍になる。さらにATK・S-ATKが1.5倍になる。",
+			"effect": "chip_effect_10114"
+		},
+		{
+			"chipId": "100332",
+			"chipGroupId": "10114",
+			"name": "咆哮のSPチャレンジ＆ステータス特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10114",
+			"detail": "DEF+30。「冥府の咆哮」でスペシャルチャレンジクリア報酬が2.5倍になる。さらにATK・S-ATKが2倍になる。",
+			"effect": "chip_effect_10114"
+		},
+		{
+			"chipId": "100333",
+			"chipGroupId": "10114",
+			"name": "咆哮のSPチャレンジ＆ステータス特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10114",
+			"detail": "DEF+50。「冥府の咆哮」でスペシャルチャレンジクリア報酬が5.5倍になる。さらにATK・S-ATKが4倍になる。",
+			"effect": "chip_effect_10114"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

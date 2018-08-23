@@ -701,7 +701,7 @@
 			"helpCategoryId": "14",
 			"helpTitle": "チップについて",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>デジモンに装着させることで、各チップの能力をデジモンが発揮できるようになります。<br />効果はステータス上昇だけでなく、バトル中に特殊なスキルを発動するものもあります。<br /><br /><span class='fnt_emphasis fnt_bold'>チップはランクが異なっていても、同名のチップを装着することはできません。</span><br /><br />チップは売却することでクラスタへと変換されます。<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>デジモンに装着させることで、各チップの能力をデジモンが発揮できるようになります。<br />効果はステータス上昇だけでなく、バトル中に特殊なスキルを発動するものもあります。<br /><br /><span class='fnt_emphasis fnt_bold'>チップはランクが異なっていても、同名のチップを装着することはできません。</span><br /><br />チップは売却することでクラスタへと変換されます。<br />また､特定のチップ売却時にアイテムが入手できることがあります。<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
@@ -719,14 +719,6 @@
 			"tplPath": "",
 			"detail": "<article id='help'><div class='txt margin_top_10'>チップは強化することでランクが上がり、それに伴いチップの能力が上がります。<br /><br />チップの強化には、<span class='fnt_emphasis fnt_bold'>同じランク、同じ名前のチップが必要</span>となります。<br />強化に必要な素材の個数はランクやチップよって異なります。<br /></div></article>",
 			"helpPriority": "3"
-		},
-		{
-			"helpId": "93",
-			"helpCategoryId": "14",
-			"helpTitle": "チップの取り外しについて",
-			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>一度デジモンに装着したチップは、<span class='fnt_emphasis fnt_bold'>専用アイテムを使用</span>する、もしくは、<span class='fnt_emphasis fnt_bold'>研究によってベースデジモンは取り外しが可能</span>となります。<br /><br />取り外したチップは、他のデジモンのスロットに装着することが出来ます。<br /></div></article>",
-			"helpPriority": "4"
 		},
 		{
 			"helpId": "94",
@@ -757,7 +749,7 @@
 			"helpCategoryId": "8",
 			"helpTitle": "才能開花とは",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>ベースデジモンに、パートナーデジモンの才能を<span class='fnt_emphasis fnt_bold'>確率</span>で引継ぎすることができます。</div>\r\n<div class='txt margin_top_10'>引継ぎの成功率はパートナーデジモンの成長段階によって変化し、<span class='fnt_emphasis fnt_bold'>成長段階が高い</span>ほど成功率がアップします。</div>\r\n<div class='txt margin_top_10'>また、同じ才能を持っているベースデジモンとパートナーデジモンを選択して才能開花した場合、ベースデジモンの才能が<span class='fnt_emphasis fnt_bold'>1段階強化</span>されることがあります。</div>\r\n<br/>\r\n<div class='txt margin_top_10'>※才能開花をすると、パートナーに選択したデジモンはいなくなります。</div><div class='txt margin_top_10'>※才能開花をすると、パートナーに選択したデジモンのチップは消滅します。</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>ベースデジモンに、パートナーデジモンの才能を<span class='fnt_emphasis fnt_bold'>確率</span>で引継ぎすることができます。</div>\r\n<div class='txt margin_top_10'>引継ぎの成功率はパートナーデジモンの成長段階によって変化し、<span class='fnt_emphasis fnt_bold'>成長段階が高い</span>ほど成功率がアップします。</div>\r\n<div class='txt margin_top_10'>また、同じ才能を持っているベースデジモンとパートナーデジモンを選択して才能開花した場合、ベースデジモンの才能が<span class='fnt_emphasis fnt_bold'>1段階強化</span>されることがあります。</div>\r\n<br/>\r\n<div class='txt margin_top_10'>※才能開花をすると、パートナーに選択したデジモンはいなくなります。</div>",
 			"helpPriority": "5"
 		},
 		{

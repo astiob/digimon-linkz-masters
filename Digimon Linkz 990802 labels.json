@@ -186,7 +186,7 @@
 		},
 		{
 			"messageCode": "AlertNetworkErrorRetry",
-			"messageText": "電波の良いところで\n再度実行してください。"
+			"messageText": "電波の良いところで再実行していただくか\nタイトル画面よりキャッシュクリアをご試行ください"
 		},
 		{
 			"messageCode": "AlertNetworkErrorTimeOut",
@@ -418,7 +418,7 @@
 		},
 		{
 			"messageCode": "SaveFailed-02",
-			"messageText": "データの書き込みに失敗しました。ストレージの空き容量をお確かめください。"
+			"messageText": "書き込みに失敗しました。空き容量をご確認ください\nまた、タイトル画面よりキャッシュクリアを行うことで\n改善する場合もございます"
 		},
 		{
 			"messageCode": "SaveFailed-03",
@@ -3674,15 +3674,15 @@
 		},
 		{
 			"messageCode": "SaleCautionChip",
-			"messageText": "※装備したチップは同時に売却されてしまいます"
+			"messageText": "※装着していたチップは、チップ一覧に格納されます。"
 		},
 		{
 			"messageCode": "LaboratoryCautionChip",
-			"messageText": "ベース、パートナー共に装備していたチップは、チップ一覧に格納されました。"
+			"messageText": "ベース、パートナーに装着していたチップは、チップ一覧に格納されました。"
 		},
 		{
 			"messageCode": "CautionDisappearChip",
-			"messageText": "※パートナーデジモンが装備しているチップは消滅してしまいます"
+			"messageText": "※パートナーに装着していたチップは、チップ一覧に格納されます。"
 		},
 		{
 			"messageCode": "Friend-17",
@@ -3746,7 +3746,7 @@
 		},
 		{
 			"messageCode": "ChipInstallingConfirmInfo",
-			"messageText": "チップを装着しますか？\n一度装着すると研究かアイテム消費でしか外す事はできません\n※装備後でも強化を行うことが出来ます。"
+			"messageText": "チップを装着しますか？\n※装着後でも強化を行うことが出来ます。"
 		},
 		{
 			"messageCode": "ChipInstallingEvolutionInfo",
@@ -3762,7 +3762,7 @@
 		},
 		{
 			"messageCode": "ChipInstalling-12",
-			"messageText": "取外パッチを{0}枚使用してチップを取り外しますか？"
+			"messageText": "チップを取り外しますか？"
 		},
 		{
 			"messageCode": "ChipInstalling-13",
@@ -3858,7 +3858,7 @@
 		},
 		{
 			"messageCode": "ChipSaleCheck-02",
-			"messageText": "上記のチップを売却します。よろしいですか？"
+			"messageText": "上記のチップを売却します。よろしいですか？\n※｢EVENT｣と記載されたチップは､種類に応じて\nアイテムがもらえます。"
 		},
 		{
 			"messageCode": "ChipSaleCheck-03",
@@ -4110,7 +4110,7 @@
 		},
 		{
 			"messageCode": "CaptureBonusItem",
-			"messageText": "{0}×{1}を受け取った"
+			"messageText": "{0}×{1}を\n受け取った"
 		},
 		{
 			"messageCode": "CaptureBonusText",
@@ -4610,11 +4610,11 @@
 		},
 		{
 			"messageCode": "MedalInheritCautionChip",
-			"messageText": "パートナーに装備していたチップは\n消滅しました。"
+			"messageText": "パートナーに装着していたチップは\nチップ一覧に格納されました。"
 		},
 		{
 			"messageCode": "MedalInheritPrecautionChip",
-			"messageText": "※パートナーデジモンが装備しているチップは\n消滅してしまいます。"
+			"messageText": "※パートナーデジモンが装着しているチップは\nチップ一覧に格納されます。"
 		},
 		{
 			"messageCode": "MedalInheritPrecautionRateZero",
@@ -4638,7 +4638,7 @@
 		},
 		{
 			"messageCode": "MedalInheritPrecautionGoldOver",
-			"messageText": "※金の才能メダルは、最大で{0}個までとなります。"
+			"messageText": "※金の才能メダルは、最大で{0}個までとなり､\n引き継ぎ>強化の順で判定されます。"
 		},
 		{
 			"messageCode": "Common02_menu_book",
@@ -5258,15 +5258,15 @@
 		},
 		{
 			"messageCode": "PresentRecieveResultCode-90",
-			"messageText": "受け取り期限が切れたアイテムが含まれているので\n取得ができませんでした。\nアイテムボックスを再読み込みして、\nもう一度お試しください。"
+			"messageText": "受け取り期限が切れたアイテムが含まれているので\n取得ができませんでした。\nプレゼントBOXを再読み込みして、\nもう一度お試しください。"
 		},
 		{
 			"messageCode": "PresentRecieveResultCode-91",
-			"messageText": "アイテムが存在しません。\n既に受け取り済みの可能性があります。\nアイテムボックスを再読み込みして、\nもう一度お試しください。"
+			"messageText": "アイテムが存在しません。\n既に受け取り済みの可能性があります。\nプレゼントBOXを再読み込みして、\nもう一度お試しください。"
 		},
 		{
 			"messageCode": "PresentRecieveResultCode-92",
-			"messageText": "リクエストが不正なため、\n受け取りを実行できませんでした。\nアイテムボックスを再読み込みして、\nもう一度お試しください。"
+			"messageText": "リクエストが不正なため、\n受け取りを実行できませんでした。\nプレゼントBOXを再読み込みして、\nもう一度お試しください。"
 		},
 		{
 			"messageCode": "Present-13",
@@ -5362,7 +5362,7 @@
 		},
 		{
 			"messageCode": "SellRecoverItem",
-			"messageText": "欠片がプレゼントボックスに送られました。"
+			"messageText": "欠片がプレゼントBOXに送られました。"
 		},
 		{
 			"messageCode": "ChatLeaveBtn",
@@ -5754,7 +5754,7 @@
 		},
 		{
 			"messageCode": "StorePackItemAlert-01",
-			"messageText": "※おまけはプレゼントボックスへ送られます"
+			"messageText": "※おまけはプレゼントBOXへ送られます"
 		},
 		{
 			"messageCode": "NewsListEmpty",
@@ -6491,6 +6491,30 @@
 		{
 			"messageCode": "prize-1",
 			"messageText": "サーバー障害についてのお詫び"
+		},
+		{
+			"messageCode": "Present-25",
+			"messageText": "【%s】｢お別れ｣or｢売却｣時に入手したアイテムです"
+		},
+		{
+			"messageCode": "ChipSellRecoverItem",
+			"messageText": "アイテムがプレゼントBOXに\n送られました。"
+		},
+		{
+			"messageCode": "ReplacementTitle",
+			"messageText": "チップ入替"
+		},
+		{
+			"messageCode": "QuestForceOpenConfirmInfo",
+			"messageText": "{0}を使って {1}分開放できます。\nダンジョンを開放しますか？\n※イベント終了時刻にご注意ください"
+		},
+		{
+			"messageCode": "AssetSalesBonusConfirmInfo",
+			"messageText": "本当に引き換えますか？"
+		},
+		{
+			"messageCode": "AssetSalesBonusCount",
+			"messageText": "x {0}"
 		}
 	]
 }

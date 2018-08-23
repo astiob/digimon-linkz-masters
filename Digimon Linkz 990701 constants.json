@@ -10,7 +10,7 @@
 		"maxRare": "5",
 		"enableMonsterSpaceToexecGasha1": "0",
 		"enableMonsterSpaceToexecGasha10": "0",
-		"enableMonsterSpaceToexecDungeon": "0",
+		"enableSpaceToexecDungeon": "0",
 		"rareGashaType": "1",
 		"linkGashaType": "2",
 		"evolveItemMons": "1",

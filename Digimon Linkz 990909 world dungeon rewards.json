@@ -20888,6 +20888,33 @@
 			"assetNum": "1",
 			"exValue": "",
 			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8582",
+			"worldDungeonId": "12119",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "1",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8583",
+			"worldDungeonId": "12120",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "1",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8584",
+			"worldDungeonId": "12121",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "1",
+			"exValue": "",
+			"everyTimeFlg": "0"
 		}
 	]
 }

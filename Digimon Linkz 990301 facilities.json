@@ -293,7 +293,7 @@
 			"initialX": "17",
 			"initialY": "11",
 			"buildingTime": "0",
-			"maxLevel": "10",
+			"maxLevel": "20",
 			"maxNum": "1",
 			"modelResource": "farm_build_07/farm_build_07",
 			"iconResource": "Facility_House",
