@@ -1,0 +1,81 @@
+{
+	"worldM": [
+		{
+			"worldId": "1",
+			"worldStarId": "1",
+			"priority": "1",
+			"name": "ノーマルワールド",
+			"description": "ノーマルワールド",
+			"type": "1",
+			"prerequisiteWorldId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-12-31 23:59:59"
+		},
+		{
+			"worldId": "2",
+			"worldStarId": "2",
+			"priority": "2",
+			"name": "曜日ワールド",
+			"description": "曜日ワールド",
+			"type": "1",
+			"prerequisiteWorldId": "0",
+			"openTime": "2015-05-01 00:00:01",
+			"closeTime": "2030-12-31 23:59:59"
+		},
+		{
+			"worldId": "3",
+			"worldStarId": "3",
+			"priority": "3",
+			"name": "降臨ワールド",
+			"description": "降臨ワールド",
+			"type": "1",
+			"prerequisiteWorldId": "0",
+			"openTime": "2015-05-01 00:00:02",
+			"closeTime": "2030-12-31 23:59:59"
+		},
+		{
+			"worldId": "4",
+			"worldStarId": "4",
+			"priority": "4",
+			"name": "チュートリアルワールド",
+			"description": "チュートリアルのワールド",
+			"type": "1",
+			"prerequisiteWorldId": "0",
+			"openTime": "2015-05-01 00:00:03",
+			"closeTime": "2030-12-31 23:59:59"
+		},
+		{
+			"worldId": "5",
+			"worldStarId": "5",
+			"priority": "5",
+			"name": "コロシアムワールド",
+			"description": "コロシアムワールド",
+			"type": "1",
+			"prerequisiteWorldId": "0",
+			"openTime": "2015-06-01 00:00:00",
+			"closeTime": "2030-12-31 23:59:59"
+		},
+		{
+			"worldId": "6",
+			"worldStarId": "6",
+			"priority": "6",
+			"name": "イベントクエスト",
+			"description": "イベントクエストのワールド",
+			"type": "1",
+			"prerequisiteWorldId": "0",
+			"openTime": "2015-06-01 00:00:00",
+			"closeTime": "2030-12-31 23:59:59"
+		},
+		{
+			"worldId": "7",
+			"worldStarId": "7",
+			"priority": "7",
+			"name": "チケットクエスト",
+			"description": "チケットクエスト",
+			"type": "1",
+			"prerequisiteWorldId": "0",
+			"openTime": "2015-06-01 00:00:00",
+			"closeTime": "2030-12-31 23:59:59"
+		}
+	]
+}

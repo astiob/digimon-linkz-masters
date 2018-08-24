@@ -1,0 +1,4491 @@
+{
+	"monsterSellRecoverItemM": [
+		{
+			"monsterSellRecoverItemId": "1",
+			"monsterId": "831",
+			"assetCategoryId": "14",
+			"assetValue": "1070167",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "2",
+			"monsterId": "832",
+			"assetCategoryId": "14",
+			"assetValue": "1070167",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "3",
+			"monsterId": "833",
+			"assetCategoryId": "14",
+			"assetValue": "1070167",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "4",
+			"monsterId": "834",
+			"assetCategoryId": "14",
+			"assetValue": "1070167",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "5",
+			"monsterId": "835",
+			"assetCategoryId": "14",
+			"assetValue": "1070167",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "6",
+			"monsterId": "836",
+			"assetCategoryId": "14",
+			"assetValue": "1070168",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "7",
+			"monsterId": "837",
+			"assetCategoryId": "14",
+			"assetValue": "1070168",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "8",
+			"monsterId": "838",
+			"assetCategoryId": "14",
+			"assetValue": "1070168",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "9",
+			"monsterId": "839",
+			"assetCategoryId": "14",
+			"assetValue": "1070168",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "10",
+			"monsterId": "840",
+			"assetCategoryId": "14",
+			"assetValue": "1070168",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "11",
+			"monsterId": "841",
+			"assetCategoryId": "14",
+			"assetValue": "1070169",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "12",
+			"monsterId": "842",
+			"assetCategoryId": "14",
+			"assetValue": "1070169",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "13",
+			"monsterId": "843",
+			"assetCategoryId": "14",
+			"assetValue": "1070169",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "14",
+			"monsterId": "844",
+			"assetCategoryId": "14",
+			"assetValue": "1070169",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "15",
+			"monsterId": "845",
+			"assetCategoryId": "14",
+			"assetValue": "1070169",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "16",
+			"monsterId": "846",
+			"assetCategoryId": "14",
+			"assetValue": "1070170",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "17",
+			"monsterId": "847",
+			"assetCategoryId": "14",
+			"assetValue": "1070170",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "18",
+			"monsterId": "848",
+			"assetCategoryId": "14",
+			"assetValue": "1070170",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "19",
+			"monsterId": "849",
+			"assetCategoryId": "14",
+			"assetValue": "1070170",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "20",
+			"monsterId": "850",
+			"assetCategoryId": "14",
+			"assetValue": "1070170",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "21",
+			"monsterId": "851",
+			"assetCategoryId": "14",
+			"assetValue": "1070170",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "22",
+			"monsterId": "852",
+			"assetCategoryId": "14",
+			"assetValue": "1070170",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "23",
+			"monsterId": "853",
+			"assetCategoryId": "14",
+			"assetValue": "1070170",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "24",
+			"monsterId": "854",
+			"assetCategoryId": "14",
+			"assetValue": "1070170",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "25",
+			"monsterId": "855",
+			"assetCategoryId": "14",
+			"assetValue": "1070170",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "26",
+			"monsterId": "856",
+			"assetCategoryId": "14",
+			"assetValue": "1070172",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "27",
+			"monsterId": "857",
+			"assetCategoryId": "14",
+			"assetValue": "1070172",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "28",
+			"monsterId": "858",
+			"assetCategoryId": "14",
+			"assetValue": "1070172",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "29",
+			"monsterId": "859",
+			"assetCategoryId": "14",
+			"assetValue": "1070172",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "30",
+			"monsterId": "860",
+			"assetCategoryId": "14",
+			"assetValue": "1070172",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "31",
+			"monsterId": "861",
+			"assetCategoryId": "14",
+			"assetValue": "1070173",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "32",
+			"monsterId": "862",
+			"assetCategoryId": "14",
+			"assetValue": "1070173",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "33",
+			"monsterId": "863",
+			"assetCategoryId": "14",
+			"assetValue": "1070173",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "34",
+			"monsterId": "864",
+			"assetCategoryId": "14",
+			"assetValue": "1070173",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "35",
+			"monsterId": "865",
+			"assetCategoryId": "14",
+			"assetValue": "1070173",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "36",
+			"monsterId": "866",
+			"assetCategoryId": "14",
+			"assetValue": "1070174",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "37",
+			"monsterId": "867",
+			"assetCategoryId": "14",
+			"assetValue": "1070174",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "38",
+			"monsterId": "868",
+			"assetCategoryId": "14",
+			"assetValue": "1070174",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "39",
+			"monsterId": "869",
+			"assetCategoryId": "14",
+			"assetValue": "1070174",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "40",
+			"monsterId": "870",
+			"assetCategoryId": "14",
+			"assetValue": "1070174",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "41",
+			"monsterId": "871",
+			"assetCategoryId": "14",
+			"assetValue": "1070175",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "42",
+			"monsterId": "872",
+			"assetCategoryId": "14",
+			"assetValue": "1070175",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "43",
+			"monsterId": "873",
+			"assetCategoryId": "14",
+			"assetValue": "1070175",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "44",
+			"monsterId": "874",
+			"assetCategoryId": "14",
+			"assetValue": "1070175",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "45",
+			"monsterId": "875",
+			"assetCategoryId": "14",
+			"assetValue": "1070175",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "46",
+			"monsterId": "876",
+			"assetCategoryId": "14",
+			"assetValue": "1070176",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "47",
+			"monsterId": "877",
+			"assetCategoryId": "14",
+			"assetValue": "1070176",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "48",
+			"monsterId": "878",
+			"assetCategoryId": "14",
+			"assetValue": "1070176",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "49",
+			"monsterId": "879",
+			"assetCategoryId": "14",
+			"assetValue": "1070176",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "50",
+			"monsterId": "880",
+			"assetCategoryId": "14",
+			"assetValue": "1070176",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "51",
+			"monsterId": "881",
+			"assetCategoryId": "14",
+			"assetValue": "1070177",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "52",
+			"monsterId": "882",
+			"assetCategoryId": "14",
+			"assetValue": "1070177",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "53",
+			"monsterId": "883",
+			"assetCategoryId": "14",
+			"assetValue": "1070177",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "54",
+			"monsterId": "884",
+			"assetCategoryId": "14",
+			"assetValue": "1070177",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "55",
+			"monsterId": "885",
+			"assetCategoryId": "14",
+			"assetValue": "1070177",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "56",
+			"monsterId": "886",
+			"assetCategoryId": "14",
+			"assetValue": "1070178",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "57",
+			"monsterId": "887",
+			"assetCategoryId": "14",
+			"assetValue": "1070178",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "58",
+			"monsterId": "888",
+			"assetCategoryId": "14",
+			"assetValue": "1070178",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "59",
+			"monsterId": "889",
+			"assetCategoryId": "14",
+			"assetValue": "1070178",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "60",
+			"monsterId": "890",
+			"assetCategoryId": "14",
+			"assetValue": "1070178",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "61",
+			"monsterId": "891",
+			"assetCategoryId": "14",
+			"assetValue": "1070179",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "62",
+			"monsterId": "892",
+			"assetCategoryId": "14",
+			"assetValue": "1070179",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "63",
+			"monsterId": "893",
+			"assetCategoryId": "14",
+			"assetValue": "1070179",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "64",
+			"monsterId": "894",
+			"assetCategoryId": "14",
+			"assetValue": "1070179",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "65",
+			"monsterId": "895",
+			"assetCategoryId": "14",
+			"assetValue": "1070179",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "66",
+			"monsterId": "896",
+			"assetCategoryId": "14",
+			"assetValue": "1070180",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "67",
+			"monsterId": "897",
+			"assetCategoryId": "14",
+			"assetValue": "1070180",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "68",
+			"monsterId": "898",
+			"assetCategoryId": "14",
+			"assetValue": "1070180",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "69",
+			"monsterId": "899",
+			"assetCategoryId": "14",
+			"assetValue": "1070180",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "70",
+			"monsterId": "900",
+			"assetCategoryId": "14",
+			"assetValue": "1070180",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "71",
+			"monsterId": "901",
+			"assetCategoryId": "14",
+			"assetValue": "1070181",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "72",
+			"monsterId": "902",
+			"assetCategoryId": "14",
+			"assetValue": "1070181",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "73",
+			"monsterId": "903",
+			"assetCategoryId": "14",
+			"assetValue": "1070181",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "74",
+			"monsterId": "904",
+			"assetCategoryId": "14",
+			"assetValue": "1070181",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "75",
+			"monsterId": "905",
+			"assetCategoryId": "14",
+			"assetValue": "1070181",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "76",
+			"monsterId": "906",
+			"assetCategoryId": "14",
+			"assetValue": "1070182",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "77",
+			"monsterId": "907",
+			"assetCategoryId": "14",
+			"assetValue": "1070182",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "78",
+			"monsterId": "908",
+			"assetCategoryId": "14",
+			"assetValue": "1070182",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "79",
+			"monsterId": "909",
+			"assetCategoryId": "14",
+			"assetValue": "1070182",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "80",
+			"monsterId": "910",
+			"assetCategoryId": "14",
+			"assetValue": "1070182",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "81",
+			"monsterId": "911",
+			"assetCategoryId": "14",
+			"assetValue": "1070183",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "82",
+			"monsterId": "912",
+			"assetCategoryId": "14",
+			"assetValue": "1070183",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "83",
+			"monsterId": "913",
+			"assetCategoryId": "14",
+			"assetValue": "1070183",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "84",
+			"monsterId": "914",
+			"assetCategoryId": "14",
+			"assetValue": "1070183",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "85",
+			"monsterId": "915",
+			"assetCategoryId": "14",
+			"assetValue": "1070183",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "86",
+			"monsterId": "916",
+			"assetCategoryId": "14",
+			"assetValue": "1070184",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "87",
+			"monsterId": "917",
+			"assetCategoryId": "14",
+			"assetValue": "1070184",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "88",
+			"monsterId": "918",
+			"assetCategoryId": "14",
+			"assetValue": "1070184",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "89",
+			"monsterId": "919",
+			"assetCategoryId": "14",
+			"assetValue": "1070184",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "90",
+			"monsterId": "920",
+			"assetCategoryId": "14",
+			"assetValue": "1070184",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "91",
+			"monsterId": "921",
+			"assetCategoryId": "14",
+			"assetValue": "1070185",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "92",
+			"monsterId": "922",
+			"assetCategoryId": "14",
+			"assetValue": "1070185",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "93",
+			"monsterId": "923",
+			"assetCategoryId": "14",
+			"assetValue": "1070185",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "94",
+			"monsterId": "924",
+			"assetCategoryId": "14",
+			"assetValue": "1070185",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "95",
+			"monsterId": "925",
+			"assetCategoryId": "14",
+			"assetValue": "1070185",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "96",
+			"monsterId": "926",
+			"assetCategoryId": "14",
+			"assetValue": "1070186",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "97",
+			"monsterId": "927",
+			"assetCategoryId": "14",
+			"assetValue": "1070186",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "98",
+			"monsterId": "928",
+			"assetCategoryId": "14",
+			"assetValue": "1070186",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "99",
+			"monsterId": "929",
+			"assetCategoryId": "14",
+			"assetValue": "1070186",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "100",
+			"monsterId": "930",
+			"assetCategoryId": "14",
+			"assetValue": "1070186",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "101",
+			"monsterId": "931",
+			"assetCategoryId": "14",
+			"assetValue": "1070187",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "102",
+			"monsterId": "932",
+			"assetCategoryId": "14",
+			"assetValue": "1070187",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "103",
+			"monsterId": "933",
+			"assetCategoryId": "14",
+			"assetValue": "1070187",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "104",
+			"monsterId": "934",
+			"assetCategoryId": "14",
+			"assetValue": "1070187",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "105",
+			"monsterId": "935",
+			"assetCategoryId": "14",
+			"assetValue": "1070187",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "106",
+			"monsterId": "936",
+			"assetCategoryId": "14",
+			"assetValue": "1070188",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "107",
+			"monsterId": "937",
+			"assetCategoryId": "14",
+			"assetValue": "1070188",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "108",
+			"monsterId": "938",
+			"assetCategoryId": "14",
+			"assetValue": "1070188",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "109",
+			"monsterId": "939",
+			"assetCategoryId": "14",
+			"assetValue": "1070188",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "110",
+			"monsterId": "940",
+			"assetCategoryId": "14",
+			"assetValue": "1070188",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "111",
+			"monsterId": "941",
+			"assetCategoryId": "14",
+			"assetValue": "1070189",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "112",
+			"monsterId": "942",
+			"assetCategoryId": "14",
+			"assetValue": "1070189",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "113",
+			"monsterId": "943",
+			"assetCategoryId": "14",
+			"assetValue": "1070189",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "114",
+			"monsterId": "944",
+			"assetCategoryId": "14",
+			"assetValue": "1070189",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "115",
+			"monsterId": "945",
+			"assetCategoryId": "14",
+			"assetValue": "1070189",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "116",
+			"monsterId": "946",
+			"assetCategoryId": "14",
+			"assetValue": "1070190",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "117",
+			"monsterId": "947",
+			"assetCategoryId": "14",
+			"assetValue": "1070190",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "118",
+			"monsterId": "948",
+			"assetCategoryId": "14",
+			"assetValue": "1070190",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "119",
+			"monsterId": "949",
+			"assetCategoryId": "14",
+			"assetValue": "1070190",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "120",
+			"monsterId": "950",
+			"assetCategoryId": "14",
+			"assetValue": "1070190",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "121",
+			"monsterId": "951",
+			"assetCategoryId": "14",
+			"assetValue": "1070191",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "122",
+			"monsterId": "952",
+			"assetCategoryId": "14",
+			"assetValue": "1070191",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "123",
+			"monsterId": "953",
+			"assetCategoryId": "14",
+			"assetValue": "1070191",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "124",
+			"monsterId": "954",
+			"assetCategoryId": "14",
+			"assetValue": "1070191",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "125",
+			"monsterId": "955",
+			"assetCategoryId": "14",
+			"assetValue": "1070191",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "126",
+			"monsterId": "956",
+			"assetCategoryId": "14",
+			"assetValue": "1070192",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "127",
+			"monsterId": "957",
+			"assetCategoryId": "14",
+			"assetValue": "1070192",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "128",
+			"monsterId": "958",
+			"assetCategoryId": "14",
+			"assetValue": "1070192",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "129",
+			"monsterId": "959",
+			"assetCategoryId": "14",
+			"assetValue": "1070192",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "130",
+			"monsterId": "960",
+			"assetCategoryId": "14",
+			"assetValue": "1070192",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "131",
+			"monsterId": "961",
+			"assetCategoryId": "14",
+			"assetValue": "1070193",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "132",
+			"monsterId": "962",
+			"assetCategoryId": "14",
+			"assetValue": "1070193",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "133",
+			"monsterId": "963",
+			"assetCategoryId": "14",
+			"assetValue": "1070193",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "134",
+			"monsterId": "964",
+			"assetCategoryId": "14",
+			"assetValue": "1070193",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "135",
+			"monsterId": "965",
+			"assetCategoryId": "14",
+			"assetValue": "1070193",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "136",
+			"monsterId": "966",
+			"assetCategoryId": "14",
+			"assetValue": "1070194",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "137",
+			"monsterId": "967",
+			"assetCategoryId": "14",
+			"assetValue": "1070194",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "138",
+			"monsterId": "968",
+			"assetCategoryId": "14",
+			"assetValue": "1070194",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "139",
+			"monsterId": "969",
+			"assetCategoryId": "14",
+			"assetValue": "1070194",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "140",
+			"monsterId": "970",
+			"assetCategoryId": "14",
+			"assetValue": "1070194",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "141",
+			"monsterId": "971",
+			"assetCategoryId": "14",
+			"assetValue": "1070195",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "142",
+			"monsterId": "972",
+			"assetCategoryId": "14",
+			"assetValue": "1070195",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "143",
+			"monsterId": "973",
+			"assetCategoryId": "14",
+			"assetValue": "1070195",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "144",
+			"monsterId": "974",
+			"assetCategoryId": "14",
+			"assetValue": "1070195",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "145",
+			"monsterId": "975",
+			"assetCategoryId": "14",
+			"assetValue": "1070195",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "146",
+			"monsterId": "976",
+			"assetCategoryId": "14",
+			"assetValue": "1070196",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "147",
+			"monsterId": "977",
+			"assetCategoryId": "14",
+			"assetValue": "1070196",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "148",
+			"monsterId": "978",
+			"assetCategoryId": "14",
+			"assetValue": "1070196",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "149",
+			"monsterId": "979",
+			"assetCategoryId": "14",
+			"assetValue": "1070196",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "150",
+			"monsterId": "980",
+			"assetCategoryId": "14",
+			"assetValue": "1070196",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "151",
+			"monsterId": "981",
+			"assetCategoryId": "14",
+			"assetValue": "1070197",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "152",
+			"monsterId": "982",
+			"assetCategoryId": "14",
+			"assetValue": "1070197",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "153",
+			"monsterId": "983",
+			"assetCategoryId": "14",
+			"assetValue": "1070197",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "154",
+			"monsterId": "984",
+			"assetCategoryId": "14",
+			"assetValue": "1070197",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "155",
+			"monsterId": "985",
+			"assetCategoryId": "14",
+			"assetValue": "1070197",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "156",
+			"monsterId": "986",
+			"assetCategoryId": "14",
+			"assetValue": "1070198",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "157",
+			"monsterId": "987",
+			"assetCategoryId": "14",
+			"assetValue": "1070198",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "158",
+			"monsterId": "988",
+			"assetCategoryId": "14",
+			"assetValue": "1070198",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "159",
+			"monsterId": "989",
+			"assetCategoryId": "14",
+			"assetValue": "1070198",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "160",
+			"monsterId": "990",
+			"assetCategoryId": "14",
+			"assetValue": "1070198",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "161",
+			"monsterId": "991",
+			"assetCategoryId": "14",
+			"assetValue": "1070199",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "162",
+			"monsterId": "992",
+			"assetCategoryId": "14",
+			"assetValue": "1070199",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "163",
+			"monsterId": "993",
+			"assetCategoryId": "14",
+			"assetValue": "1070199",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "164",
+			"monsterId": "994",
+			"assetCategoryId": "14",
+			"assetValue": "1070199",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "165",
+			"monsterId": "995",
+			"assetCategoryId": "14",
+			"assetValue": "1070199",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "166",
+			"monsterId": "996",
+			"assetCategoryId": "14",
+			"assetValue": "1070200",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "167",
+			"monsterId": "997",
+			"assetCategoryId": "14",
+			"assetValue": "1070200",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "168",
+			"monsterId": "998",
+			"assetCategoryId": "14",
+			"assetValue": "1070200",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "169",
+			"monsterId": "999",
+			"assetCategoryId": "14",
+			"assetValue": "1070200",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "170",
+			"monsterId": "1000",
+			"assetCategoryId": "14",
+			"assetValue": "1070200",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "171",
+			"monsterId": "1001",
+			"assetCategoryId": "14",
+			"assetValue": "1070201",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "172",
+			"monsterId": "1002",
+			"assetCategoryId": "14",
+			"assetValue": "1070201",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "173",
+			"monsterId": "1003",
+			"assetCategoryId": "14",
+			"assetValue": "1070201",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "174",
+			"monsterId": "1004",
+			"assetCategoryId": "14",
+			"assetValue": "1070201",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "175",
+			"monsterId": "1005",
+			"assetCategoryId": "14",
+			"assetValue": "1070201",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "176",
+			"monsterId": "1006",
+			"assetCategoryId": "14",
+			"assetValue": "1070202",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "177",
+			"monsterId": "1007",
+			"assetCategoryId": "14",
+			"assetValue": "1070202",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "178",
+			"monsterId": "1008",
+			"assetCategoryId": "14",
+			"assetValue": "1070202",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "179",
+			"monsterId": "1009",
+			"assetCategoryId": "14",
+			"assetValue": "1070202",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "180",
+			"monsterId": "1010",
+			"assetCategoryId": "14",
+			"assetValue": "1070202",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "181",
+			"monsterId": "1011",
+			"assetCategoryId": "14",
+			"assetValue": "1070203",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "182",
+			"monsterId": "1012",
+			"assetCategoryId": "14",
+			"assetValue": "1070203",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "183",
+			"monsterId": "1013",
+			"assetCategoryId": "14",
+			"assetValue": "1070203",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "184",
+			"monsterId": "1014",
+			"assetCategoryId": "14",
+			"assetValue": "1070203",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "185",
+			"monsterId": "1015",
+			"assetCategoryId": "14",
+			"assetValue": "1070203",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "186",
+			"monsterId": "1016",
+			"assetCategoryId": "14",
+			"assetValue": "1070204",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "187",
+			"monsterId": "1017",
+			"assetCategoryId": "14",
+			"assetValue": "1070204",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "188",
+			"monsterId": "1018",
+			"assetCategoryId": "14",
+			"assetValue": "1070204",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "189",
+			"monsterId": "1019",
+			"assetCategoryId": "14",
+			"assetValue": "1070204",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "190",
+			"monsterId": "1020",
+			"assetCategoryId": "14",
+			"assetValue": "1070204",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "191",
+			"monsterId": "1021",
+			"assetCategoryId": "14",
+			"assetValue": "1070205",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "192",
+			"monsterId": "1022",
+			"assetCategoryId": "14",
+			"assetValue": "1070205",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "193",
+			"monsterId": "1023",
+			"assetCategoryId": "14",
+			"assetValue": "1070205",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "194",
+			"monsterId": "1024",
+			"assetCategoryId": "14",
+			"assetValue": "1070205",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "195",
+			"monsterId": "1025",
+			"assetCategoryId": "14",
+			"assetValue": "1070205",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "196",
+			"monsterId": "1026",
+			"assetCategoryId": "14",
+			"assetValue": "1070206",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "197",
+			"monsterId": "1027",
+			"assetCategoryId": "14",
+			"assetValue": "1070206",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "198",
+			"monsterId": "1028",
+			"assetCategoryId": "14",
+			"assetValue": "1070206",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "199",
+			"monsterId": "1029",
+			"assetCategoryId": "14",
+			"assetValue": "1070206",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "200",
+			"monsterId": "1030",
+			"assetCategoryId": "14",
+			"assetValue": "1070206",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "201",
+			"monsterId": "1031",
+			"assetCategoryId": "14",
+			"assetValue": "1070207",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "202",
+			"monsterId": "1032",
+			"assetCategoryId": "14",
+			"assetValue": "1070207",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "203",
+			"monsterId": "1033",
+			"assetCategoryId": "14",
+			"assetValue": "1070207",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "204",
+			"monsterId": "1034",
+			"assetCategoryId": "14",
+			"assetValue": "1070207",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "205",
+			"monsterId": "1035",
+			"assetCategoryId": "14",
+			"assetValue": "1070207",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "206",
+			"monsterId": "1036",
+			"assetCategoryId": "14",
+			"assetValue": "1070208",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "207",
+			"monsterId": "1037",
+			"assetCategoryId": "14",
+			"assetValue": "1070208",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "208",
+			"monsterId": "1038",
+			"assetCategoryId": "14",
+			"assetValue": "1070208",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "209",
+			"monsterId": "1039",
+			"assetCategoryId": "14",
+			"assetValue": "1070208",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "210",
+			"monsterId": "1040",
+			"assetCategoryId": "14",
+			"assetValue": "1070208",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "211",
+			"monsterId": "1041",
+			"assetCategoryId": "14",
+			"assetValue": "1070209",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "212",
+			"monsterId": "1042",
+			"assetCategoryId": "14",
+			"assetValue": "1070209",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "213",
+			"monsterId": "1043",
+			"assetCategoryId": "14",
+			"assetValue": "1070209",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "214",
+			"monsterId": "1044",
+			"assetCategoryId": "14",
+			"assetValue": "1070209",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "215",
+			"monsterId": "1045",
+			"assetCategoryId": "14",
+			"assetValue": "1070209",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "216",
+			"monsterId": "1046",
+			"assetCategoryId": "14",
+			"assetValue": "1070210",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "217",
+			"monsterId": "1047",
+			"assetCategoryId": "14",
+			"assetValue": "1070210",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "218",
+			"monsterId": "1048",
+			"assetCategoryId": "14",
+			"assetValue": "1070210",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "219",
+			"monsterId": "1049",
+			"assetCategoryId": "14",
+			"assetValue": "1070210",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "220",
+			"monsterId": "1050",
+			"assetCategoryId": "14",
+			"assetValue": "1070210",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "221",
+			"monsterId": "1051",
+			"assetCategoryId": "14",
+			"assetValue": "1070211",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "222",
+			"monsterId": "1052",
+			"assetCategoryId": "14",
+			"assetValue": "1070211",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "223",
+			"monsterId": "1053",
+			"assetCategoryId": "14",
+			"assetValue": "1070211",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "224",
+			"monsterId": "1054",
+			"assetCategoryId": "14",
+			"assetValue": "1070211",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "225",
+			"monsterId": "1055",
+			"assetCategoryId": "14",
+			"assetValue": "1070211",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "226",
+			"monsterId": "1056",
+			"assetCategoryId": "14",
+			"assetValue": "1070212",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "227",
+			"monsterId": "1057",
+			"assetCategoryId": "14",
+			"assetValue": "1070212",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "228",
+			"monsterId": "1058",
+			"assetCategoryId": "14",
+			"assetValue": "1070212",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "229",
+			"monsterId": "1059",
+			"assetCategoryId": "14",
+			"assetValue": "1070212",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "230",
+			"monsterId": "1060",
+			"assetCategoryId": "14",
+			"assetValue": "1070212",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "231",
+			"monsterId": "1061",
+			"assetCategoryId": "14",
+			"assetValue": "1070213",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "232",
+			"monsterId": "1062",
+			"assetCategoryId": "14",
+			"assetValue": "1070213",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "233",
+			"monsterId": "1063",
+			"assetCategoryId": "14",
+			"assetValue": "1070213",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "234",
+			"monsterId": "1064",
+			"assetCategoryId": "14",
+			"assetValue": "1070213",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "235",
+			"monsterId": "1065",
+			"assetCategoryId": "14",
+			"assetValue": "1070213",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "236",
+			"monsterId": "1066",
+			"assetCategoryId": "14",
+			"assetValue": "1070214",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "237",
+			"monsterId": "1067",
+			"assetCategoryId": "14",
+			"assetValue": "1070214",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "238",
+			"monsterId": "1068",
+			"assetCategoryId": "14",
+			"assetValue": "1070214",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "239",
+			"monsterId": "1069",
+			"assetCategoryId": "14",
+			"assetValue": "1070214",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "240",
+			"monsterId": "1070",
+			"assetCategoryId": "14",
+			"assetValue": "1070214",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "241",
+			"monsterId": "1071",
+			"assetCategoryId": "14",
+			"assetValue": "1070215",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "242",
+			"monsterId": "1072",
+			"assetCategoryId": "14",
+			"assetValue": "1070215",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "243",
+			"monsterId": "1073",
+			"assetCategoryId": "14",
+			"assetValue": "1070215",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "244",
+			"monsterId": "1074",
+			"assetCategoryId": "14",
+			"assetValue": "1070215",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "245",
+			"monsterId": "1075",
+			"assetCategoryId": "14",
+			"assetValue": "1070215",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "246",
+			"monsterId": "1076",
+			"assetCategoryId": "14",
+			"assetValue": "1070216",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "247",
+			"monsterId": "1077",
+			"assetCategoryId": "14",
+			"assetValue": "1070216",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "248",
+			"monsterId": "1078",
+			"assetCategoryId": "14",
+			"assetValue": "1070216",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "249",
+			"monsterId": "1079",
+			"assetCategoryId": "14",
+			"assetValue": "1070216",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "250",
+			"monsterId": "1080",
+			"assetCategoryId": "14",
+			"assetValue": "1070216",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "251",
+			"monsterId": "1081",
+			"assetCategoryId": "14",
+			"assetValue": "1070217",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "252",
+			"monsterId": "1082",
+			"assetCategoryId": "14",
+			"assetValue": "1070217",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "253",
+			"monsterId": "1083",
+			"assetCategoryId": "14",
+			"assetValue": "1070217",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "254",
+			"monsterId": "1084",
+			"assetCategoryId": "14",
+			"assetValue": "1070217",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "255",
+			"monsterId": "1085",
+			"assetCategoryId": "14",
+			"assetValue": "1070217",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "256",
+			"monsterId": "1086",
+			"assetCategoryId": "14",
+			"assetValue": "1070218",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "257",
+			"monsterId": "1087",
+			"assetCategoryId": "14",
+			"assetValue": "1070218",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "258",
+			"monsterId": "1088",
+			"assetCategoryId": "14",
+			"assetValue": "1070218",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "259",
+			"monsterId": "1089",
+			"assetCategoryId": "14",
+			"assetValue": "1070218",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "260",
+			"monsterId": "1090",
+			"assetCategoryId": "14",
+			"assetValue": "1070218",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "261",
+			"monsterId": "1091",
+			"assetCategoryId": "14",
+			"assetValue": "1070219",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "262",
+			"monsterId": "1092",
+			"assetCategoryId": "14",
+			"assetValue": "1070219",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "263",
+			"monsterId": "1093",
+			"assetCategoryId": "14",
+			"assetValue": "1070219",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "264",
+			"monsterId": "1094",
+			"assetCategoryId": "14",
+			"assetValue": "1070219",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "265",
+			"monsterId": "1095",
+			"assetCategoryId": "14",
+			"assetValue": "1070219",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "266",
+			"monsterId": "1096",
+			"assetCategoryId": "14",
+			"assetValue": "1070220",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "267",
+			"monsterId": "1097",
+			"assetCategoryId": "14",
+			"assetValue": "1070220",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "268",
+			"monsterId": "1098",
+			"assetCategoryId": "14",
+			"assetValue": "1070220",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "269",
+			"monsterId": "1099",
+			"assetCategoryId": "14",
+			"assetValue": "1070220",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "270",
+			"monsterId": "1100",
+			"assetCategoryId": "14",
+			"assetValue": "1070220",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "271",
+			"monsterId": "1101",
+			"assetCategoryId": "14",
+			"assetValue": "1070221",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "272",
+			"monsterId": "1102",
+			"assetCategoryId": "14",
+			"assetValue": "1070221",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "273",
+			"monsterId": "1103",
+			"assetCategoryId": "14",
+			"assetValue": "1070221",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "274",
+			"monsterId": "1104",
+			"assetCategoryId": "14",
+			"assetValue": "1070221",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "275",
+			"monsterId": "1105",
+			"assetCategoryId": "14",
+			"assetValue": "1070221",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "276",
+			"monsterId": "1106",
+			"assetCategoryId": "14",
+			"assetValue": "1070222",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "277",
+			"monsterId": "1107",
+			"assetCategoryId": "14",
+			"assetValue": "1070222",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "278",
+			"monsterId": "1108",
+			"assetCategoryId": "14",
+			"assetValue": "1070222",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "279",
+			"monsterId": "1109",
+			"assetCategoryId": "14",
+			"assetValue": "1070222",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "280",
+			"monsterId": "1110",
+			"assetCategoryId": "14",
+			"assetValue": "1070222",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "281",
+			"monsterId": "1111",
+			"assetCategoryId": "14",
+			"assetValue": "1070223",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "282",
+			"monsterId": "1112",
+			"assetCategoryId": "14",
+			"assetValue": "1070223",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "283",
+			"monsterId": "1113",
+			"assetCategoryId": "14",
+			"assetValue": "1070223",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "284",
+			"monsterId": "1114",
+			"assetCategoryId": "14",
+			"assetValue": "1070223",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "285",
+			"monsterId": "1115",
+			"assetCategoryId": "14",
+			"assetValue": "1070223",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "286",
+			"monsterId": "1116",
+			"assetCategoryId": "14",
+			"assetValue": "1070224",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "287",
+			"monsterId": "1117",
+			"assetCategoryId": "14",
+			"assetValue": "1070224",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "288",
+			"monsterId": "1118",
+			"assetCategoryId": "14",
+			"assetValue": "1070224",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "289",
+			"monsterId": "1119",
+			"assetCategoryId": "14",
+			"assetValue": "1070224",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "290",
+			"monsterId": "1120",
+			"assetCategoryId": "14",
+			"assetValue": "1070224",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "291",
+			"monsterId": "1121",
+			"assetCategoryId": "14",
+			"assetValue": "1070225",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "292",
+			"monsterId": "1122",
+			"assetCategoryId": "14",
+			"assetValue": "1070225",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "293",
+			"monsterId": "1123",
+			"assetCategoryId": "14",
+			"assetValue": "1070225",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "294",
+			"monsterId": "1124",
+			"assetCategoryId": "14",
+			"assetValue": "1070225",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "295",
+			"monsterId": "1125",
+			"assetCategoryId": "14",
+			"assetValue": "1070225",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "296",
+			"monsterId": "1126",
+			"assetCategoryId": "14",
+			"assetValue": "1070226",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "297",
+			"monsterId": "1127",
+			"assetCategoryId": "14",
+			"assetValue": "1070226",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "298",
+			"monsterId": "1128",
+			"assetCategoryId": "14",
+			"assetValue": "1070226",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "299",
+			"monsterId": "1129",
+			"assetCategoryId": "14",
+			"assetValue": "1070226",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "300",
+			"monsterId": "1130",
+			"assetCategoryId": "14",
+			"assetValue": "1070226",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "301",
+			"monsterId": "1131",
+			"assetCategoryId": "14",
+			"assetValue": "1070227",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "302",
+			"monsterId": "1132",
+			"assetCategoryId": "14",
+			"assetValue": "1070227",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "303",
+			"monsterId": "1133",
+			"assetCategoryId": "14",
+			"assetValue": "1070227",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "304",
+			"monsterId": "1134",
+			"assetCategoryId": "14",
+			"assetValue": "1070227",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "305",
+			"monsterId": "1135",
+			"assetCategoryId": "14",
+			"assetValue": "1070227",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "306",
+			"monsterId": "1136",
+			"assetCategoryId": "14",
+			"assetValue": "1070228",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "307",
+			"monsterId": "1137",
+			"assetCategoryId": "14",
+			"assetValue": "1070228",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "308",
+			"monsterId": "1138",
+			"assetCategoryId": "14",
+			"assetValue": "1070228",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "309",
+			"monsterId": "1139",
+			"assetCategoryId": "14",
+			"assetValue": "1070228",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "310",
+			"monsterId": "1140",
+			"assetCategoryId": "14",
+			"assetValue": "1070228",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "311",
+			"monsterId": "1141",
+			"assetCategoryId": "14",
+			"assetValue": "1070229",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "312",
+			"monsterId": "1142",
+			"assetCategoryId": "14",
+			"assetValue": "1070229",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "313",
+			"monsterId": "1143",
+			"assetCategoryId": "14",
+			"assetValue": "1070229",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "314",
+			"monsterId": "1144",
+			"assetCategoryId": "14",
+			"assetValue": "1070229",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "315",
+			"monsterId": "1145",
+			"assetCategoryId": "14",
+			"assetValue": "1070229",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "316",
+			"monsterId": "1146",
+			"assetCategoryId": "14",
+			"assetValue": "1070230",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "317",
+			"monsterId": "1147",
+			"assetCategoryId": "14",
+			"assetValue": "1070230",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "318",
+			"monsterId": "1148",
+			"assetCategoryId": "14",
+			"assetValue": "1070230",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "319",
+			"monsterId": "1149",
+			"assetCategoryId": "14",
+			"assetValue": "1070230",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "320",
+			"monsterId": "1150",
+			"assetCategoryId": "14",
+			"assetValue": "1070230",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "321",
+			"monsterId": "1151",
+			"assetCategoryId": "14",
+			"assetValue": "1070231",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "322",
+			"monsterId": "1152",
+			"assetCategoryId": "14",
+			"assetValue": "1070231",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "323",
+			"monsterId": "1153",
+			"assetCategoryId": "14",
+			"assetValue": "1070231",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "324",
+			"monsterId": "1154",
+			"assetCategoryId": "14",
+			"assetValue": "1070231",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "325",
+			"monsterId": "1155",
+			"assetCategoryId": "14",
+			"assetValue": "1070231",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "326",
+			"monsterId": "1156",
+			"assetCategoryId": "14",
+			"assetValue": "1070232",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "327",
+			"monsterId": "1157",
+			"assetCategoryId": "14",
+			"assetValue": "1070232",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "328",
+			"monsterId": "1158",
+			"assetCategoryId": "14",
+			"assetValue": "1070232",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "329",
+			"monsterId": "1159",
+			"assetCategoryId": "14",
+			"assetValue": "1070232",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "330",
+			"monsterId": "1160",
+			"assetCategoryId": "14",
+			"assetValue": "1070232",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "331",
+			"monsterId": "1161",
+			"assetCategoryId": "14",
+			"assetValue": "1070233",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "332",
+			"monsterId": "1162",
+			"assetCategoryId": "14",
+			"assetValue": "1070233",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "333",
+			"monsterId": "1163",
+			"assetCategoryId": "14",
+			"assetValue": "1070233",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "334",
+			"monsterId": "1164",
+			"assetCategoryId": "14",
+			"assetValue": "1070233",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "335",
+			"monsterId": "1165",
+			"assetCategoryId": "14",
+			"assetValue": "1070233",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "336",
+			"monsterId": "1166",
+			"assetCategoryId": "14",
+			"assetValue": "1070234",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "337",
+			"monsterId": "1167",
+			"assetCategoryId": "14",
+			"assetValue": "1070234",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "338",
+			"monsterId": "1168",
+			"assetCategoryId": "14",
+			"assetValue": "1070234",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "339",
+			"monsterId": "1169",
+			"assetCategoryId": "14",
+			"assetValue": "1070234",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "340",
+			"monsterId": "1170",
+			"assetCategoryId": "14",
+			"assetValue": "1070234",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "341",
+			"monsterId": "1171",
+			"assetCategoryId": "14",
+			"assetValue": "1070200",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "342",
+			"monsterId": "1172",
+			"assetCategoryId": "14",
+			"assetValue": "1070200",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "343",
+			"monsterId": "1173",
+			"assetCategoryId": "14",
+			"assetValue": "1070200",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "344",
+			"monsterId": "1174",
+			"assetCategoryId": "14",
+			"assetValue": "1070200",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "345",
+			"monsterId": "1175",
+			"assetCategoryId": "14",
+			"assetValue": "1070200",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "346",
+			"monsterId": "1176",
+			"assetCategoryId": "14",
+			"assetValue": "1070212",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "347",
+			"monsterId": "1177",
+			"assetCategoryId": "14",
+			"assetValue": "1070212",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "348",
+			"monsterId": "1178",
+			"assetCategoryId": "14",
+			"assetValue": "1070212",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "349",
+			"monsterId": "1179",
+			"assetCategoryId": "14",
+			"assetValue": "1070212",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "350",
+			"monsterId": "1180",
+			"assetCategoryId": "14",
+			"assetValue": "1070212",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "351",
+			"monsterId": "1181",
+			"assetCategoryId": "14",
+			"assetValue": "1070237",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "352",
+			"monsterId": "1182",
+			"assetCategoryId": "14",
+			"assetValue": "1070237",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "353",
+			"monsterId": "1183",
+			"assetCategoryId": "14",
+			"assetValue": "1070237",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "354",
+			"monsterId": "1184",
+			"assetCategoryId": "14",
+			"assetValue": "1070237",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "355",
+			"monsterId": "1185",
+			"assetCategoryId": "14",
+			"assetValue": "1070237",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "356",
+			"monsterId": "1191",
+			"assetCategoryId": "14",
+			"assetValue": "1070239",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "357",
+			"monsterId": "1192",
+			"assetCategoryId": "14",
+			"assetValue": "1070239",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "358",
+			"monsterId": "1193",
+			"assetCategoryId": "14",
+			"assetValue": "1070239",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "359",
+			"monsterId": "1194",
+			"assetCategoryId": "14",
+			"assetValue": "1070239",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "360",
+			"monsterId": "1195",
+			"assetCategoryId": "14",
+			"assetValue": "1070239",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "361",
+			"monsterId": "1406",
+			"assetCategoryId": "14",
+			"assetValue": "1070283",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "362",
+			"monsterId": "1407",
+			"assetCategoryId": "14",
+			"assetValue": "1070283",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "363",
+			"monsterId": "1408",
+			"assetCategoryId": "14",
+			"assetValue": "1070283",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "364",
+			"monsterId": "1409",
+			"assetCategoryId": "14",
+			"assetValue": "1070283",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "365",
+			"monsterId": "1410",
+			"assetCategoryId": "14",
+			"assetValue": "1070283",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "376",
+			"monsterId": "1421",
+			"assetCategoryId": "14",
+			"assetValue": "1070286",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "377",
+			"monsterId": "1422",
+			"assetCategoryId": "14",
+			"assetValue": "1070286",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "378",
+			"monsterId": "1423",
+			"assetCategoryId": "14",
+			"assetValue": "1070286",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "379",
+			"monsterId": "1424",
+			"assetCategoryId": "14",
+			"assetValue": "1070286",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "380",
+			"monsterId": "1425",
+			"assetCategoryId": "14",
+			"assetValue": "1070286",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "386",
+			"monsterId": "1431",
+			"assetCategoryId": "14",
+			"assetValue": "1070288",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "387",
+			"monsterId": "1432",
+			"assetCategoryId": "14",
+			"assetValue": "1070288",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "388",
+			"monsterId": "1433",
+			"assetCategoryId": "14",
+			"assetValue": "1070288",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "389",
+			"monsterId": "1434",
+			"assetCategoryId": "14",
+			"assetValue": "1070288",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "390",
+			"monsterId": "1435",
+			"assetCategoryId": "14",
+			"assetValue": "1070288",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "391",
+			"monsterId": "1436",
+			"assetCategoryId": "14",
+			"assetValue": "1070289",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "392",
+			"monsterId": "1437",
+			"assetCategoryId": "14",
+			"assetValue": "1070289",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "393",
+			"monsterId": "1438",
+			"assetCategoryId": "14",
+			"assetValue": "1070289",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "394",
+			"monsterId": "1439",
+			"assetCategoryId": "14",
+			"assetValue": "1070289",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "395",
+			"monsterId": "1440",
+			"assetCategoryId": "14",
+			"assetValue": "1070289",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "396",
+			"monsterId": "1446",
+			"assetCategoryId": "14",
+			"assetValue": "1070291",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "397",
+			"monsterId": "1447",
+			"assetCategoryId": "14",
+			"assetValue": "1070291",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "398",
+			"monsterId": "1448",
+			"assetCategoryId": "14",
+			"assetValue": "1070291",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "399",
+			"monsterId": "1449",
+			"assetCategoryId": "14",
+			"assetValue": "1070291",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "400",
+			"monsterId": "1450",
+			"assetCategoryId": "14",
+			"assetValue": "1070291",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "401",
+			"monsterId": "1456",
+			"assetCategoryId": "14",
+			"assetValue": "1070293",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "402",
+			"monsterId": "1457",
+			"assetCategoryId": "14",
+			"assetValue": "1070293",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "403",
+			"monsterId": "1458",
+			"assetCategoryId": "14",
+			"assetValue": "1070293",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "404",
+			"monsterId": "1459",
+			"assetCategoryId": "14",
+			"assetValue": "1070293",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "405",
+			"monsterId": "1460",
+			"assetCategoryId": "14",
+			"assetValue": "1070293",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "406",
+			"monsterId": "1506",
+			"assetCategoryId": "14",
+			"assetValue": "1070303",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "407",
+			"monsterId": "1507",
+			"assetCategoryId": "14",
+			"assetValue": "1070303",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "408",
+			"monsterId": "1508",
+			"assetCategoryId": "14",
+			"assetValue": "1070303",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "409",
+			"monsterId": "1509",
+			"assetCategoryId": "14",
+			"assetValue": "1070303",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "410",
+			"monsterId": "1510",
+			"assetCategoryId": "14",
+			"assetValue": "1070303",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "411",
+			"monsterId": "1511",
+			"assetCategoryId": "14",
+			"assetValue": "1070304",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "412",
+			"monsterId": "1512",
+			"assetCategoryId": "14",
+			"assetValue": "1070304",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "413",
+			"monsterId": "1513",
+			"assetCategoryId": "14",
+			"assetValue": "1070304",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "414",
+			"monsterId": "1514",
+			"assetCategoryId": "14",
+			"assetValue": "1070304",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "415",
+			"monsterId": "1515",
+			"assetCategoryId": "14",
+			"assetValue": "1070304",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "416",
+			"monsterId": "1516",
+			"assetCategoryId": "14",
+			"assetValue": "1070305",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "417",
+			"monsterId": "1517",
+			"assetCategoryId": "14",
+			"assetValue": "1070305",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "418",
+			"monsterId": "1518",
+			"assetCategoryId": "14",
+			"assetValue": "1070305",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "419",
+			"monsterId": "1519",
+			"assetCategoryId": "14",
+			"assetValue": "1070305",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "420",
+			"monsterId": "1520",
+			"assetCategoryId": "14",
+			"assetValue": "1070305",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "421",
+			"monsterId": "1521",
+			"assetCategoryId": "14",
+			"assetValue": "1070306",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "422",
+			"monsterId": "1522",
+			"assetCategoryId": "14",
+			"assetValue": "1070306",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "423",
+			"monsterId": "1523",
+			"assetCategoryId": "14",
+			"assetValue": "1070306",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "424",
+			"monsterId": "1524",
+			"assetCategoryId": "14",
+			"assetValue": "1070306",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "425",
+			"monsterId": "1525",
+			"assetCategoryId": "14",
+			"assetValue": "1070306",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "426",
+			"monsterId": "1551",
+			"assetCategoryId": "14",
+			"assetValue": "1070312",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "427",
+			"monsterId": "1552",
+			"assetCategoryId": "14",
+			"assetValue": "1070312",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "428",
+			"monsterId": "1553",
+			"assetCategoryId": "14",
+			"assetValue": "1070312",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "429",
+			"monsterId": "1554",
+			"assetCategoryId": "14",
+			"assetValue": "1070312",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "430",
+			"monsterId": "1555",
+			"assetCategoryId": "14",
+			"assetValue": "1070312",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "431",
+			"monsterId": "1556",
+			"assetCategoryId": "14",
+			"assetValue": "1070313",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "432",
+			"monsterId": "1557",
+			"assetCategoryId": "14",
+			"assetValue": "1070313",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "433",
+			"monsterId": "1558",
+			"assetCategoryId": "14",
+			"assetValue": "1070313",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "434",
+			"monsterId": "1559",
+			"assetCategoryId": "14",
+			"assetValue": "1070313",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "435",
+			"monsterId": "1560",
+			"assetCategoryId": "14",
+			"assetValue": "1070313",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "436",
+			"monsterId": "1576",
+			"assetCategoryId": "14",
+			"assetValue": "1070317",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "437",
+			"monsterId": "1577",
+			"assetCategoryId": "14",
+			"assetValue": "1070317",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "438",
+			"monsterId": "1578",
+			"assetCategoryId": "14",
+			"assetValue": "1070317",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "439",
+			"monsterId": "1579",
+			"assetCategoryId": "14",
+			"assetValue": "1070317",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "440",
+			"monsterId": "1580",
+			"assetCategoryId": "14",
+			"assetValue": "1070317",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "441",
+			"monsterId": "1591",
+			"assetCategoryId": "14",
+			"assetValue": "1070320",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "442",
+			"monsterId": "1592",
+			"assetCategoryId": "14",
+			"assetValue": "1070320",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "443",
+			"monsterId": "1593",
+			"assetCategoryId": "14",
+			"assetValue": "1070320",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "444",
+			"monsterId": "1594",
+			"assetCategoryId": "14",
+			"assetValue": "1070320",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "445",
+			"monsterId": "1595",
+			"assetCategoryId": "14",
+			"assetValue": "1070320",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "451",
+			"monsterId": "1626",
+			"assetCategoryId": "14",
+			"assetValue": "1070327",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "452",
+			"monsterId": "1627",
+			"assetCategoryId": "14",
+			"assetValue": "1070327",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "453",
+			"monsterId": "1628",
+			"assetCategoryId": "14",
+			"assetValue": "1070327",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "454",
+			"monsterId": "1629",
+			"assetCategoryId": "14",
+			"assetValue": "1070327",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "455",
+			"monsterId": "1630",
+			"assetCategoryId": "14",
+			"assetValue": "1070327",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "456",
+			"monsterId": "1631",
+			"assetCategoryId": "14",
+			"assetValue": "1070328",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "457",
+			"monsterId": "1632",
+			"assetCategoryId": "14",
+			"assetValue": "1070328",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "458",
+			"monsterId": "1633",
+			"assetCategoryId": "14",
+			"assetValue": "1070328",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "459",
+			"monsterId": "1634",
+			"assetCategoryId": "14",
+			"assetValue": "1070328",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "460",
+			"monsterId": "1635",
+			"assetCategoryId": "14",
+			"assetValue": "1070328",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "461",
+			"monsterId": "1636",
+			"assetCategoryId": "14",
+			"assetValue": "1070329",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "462",
+			"monsterId": "1637",
+			"assetCategoryId": "14",
+			"assetValue": "1070329",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "463",
+			"monsterId": "1638",
+			"assetCategoryId": "14",
+			"assetValue": "1070329",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "464",
+			"monsterId": "1639",
+			"assetCategoryId": "14",
+			"assetValue": "1070329",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "465",
+			"monsterId": "1640",
+			"assetCategoryId": "14",
+			"assetValue": "1070329",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "466",
+			"monsterId": "1641",
+			"assetCategoryId": "14",
+			"assetValue": "1070330",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "467",
+			"monsterId": "1642",
+			"assetCategoryId": "14",
+			"assetValue": "1070330",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "468",
+			"monsterId": "1643",
+			"assetCategoryId": "14",
+			"assetValue": "1070330",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "469",
+			"monsterId": "1644",
+			"assetCategoryId": "14",
+			"assetValue": "1070330",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "470",
+			"monsterId": "1645",
+			"assetCategoryId": "14",
+			"assetValue": "1070330",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "471",
+			"monsterId": "1646",
+			"assetCategoryId": "14",
+			"assetValue": "1070331",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "472",
+			"monsterId": "1647",
+			"assetCategoryId": "14",
+			"assetValue": "1070331",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "473",
+			"monsterId": "1648",
+			"assetCategoryId": "14",
+			"assetValue": "1070331",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "474",
+			"monsterId": "1649",
+			"assetCategoryId": "14",
+			"assetValue": "1070331",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "475",
+			"monsterId": "1650",
+			"assetCategoryId": "14",
+			"assetValue": "1070331",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "476",
+			"monsterId": "1651",
+			"assetCategoryId": "14",
+			"assetValue": "1070332",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "477",
+			"monsterId": "1652",
+			"assetCategoryId": "14",
+			"assetValue": "1070332",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "478",
+			"monsterId": "1653",
+			"assetCategoryId": "14",
+			"assetValue": "1070332",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "479",
+			"monsterId": "1654",
+			"assetCategoryId": "14",
+			"assetValue": "1070332",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "480",
+			"monsterId": "1655",
+			"assetCategoryId": "14",
+			"assetValue": "1070332",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "481",
+			"monsterId": "1656",
+			"assetCategoryId": "14",
+			"assetValue": "1070333",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "482",
+			"monsterId": "1657",
+			"assetCategoryId": "14",
+			"assetValue": "1070333",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "483",
+			"monsterId": "1658",
+			"assetCategoryId": "14",
+			"assetValue": "1070333",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "484",
+			"monsterId": "1659",
+			"assetCategoryId": "14",
+			"assetValue": "1070333",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "485",
+			"monsterId": "1660",
+			"assetCategoryId": "14",
+			"assetValue": "1070333",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "486",
+			"monsterId": "1661",
+			"assetCategoryId": "14",
+			"assetValue": "1070334",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "487",
+			"monsterId": "1662",
+			"assetCategoryId": "14",
+			"assetValue": "1070334",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "488",
+			"monsterId": "1663",
+			"assetCategoryId": "14",
+			"assetValue": "1070334",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "489",
+			"monsterId": "1664",
+			"assetCategoryId": "14",
+			"assetValue": "1070334",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "490",
+			"monsterId": "1665",
+			"assetCategoryId": "14",
+			"assetValue": "1070334",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "491",
+			"monsterId": "1621",
+			"assetCategoryId": "14",
+			"assetValue": "1070326",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "492",
+			"monsterId": "1622",
+			"assetCategoryId": "14",
+			"assetValue": "1070326",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "493",
+			"monsterId": "1623",
+			"assetCategoryId": "14",
+			"assetValue": "1070326",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "494",
+			"monsterId": "1624",
+			"assetCategoryId": "14",
+			"assetValue": "1070326",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "495",
+			"monsterId": "1625",
+			"assetCategoryId": "14",
+			"assetValue": "1070326",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "496",
+			"monsterId": "1666",
+			"assetCategoryId": "14",
+			"assetValue": "1070335",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "497",
+			"monsterId": "1667",
+			"assetCategoryId": "14",
+			"assetValue": "1070335",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "498",
+			"monsterId": "1668",
+			"assetCategoryId": "14",
+			"assetValue": "1070335",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "499",
+			"monsterId": "1669",
+			"assetCategoryId": "14",
+			"assetValue": "1070335",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "500",
+			"monsterId": "1670",
+			"assetCategoryId": "14",
+			"assetValue": "1070335",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "501",
+			"monsterId": "1671",
+			"assetCategoryId": "14",
+			"assetValue": "1070336",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "502",
+			"monsterId": "1672",
+			"assetCategoryId": "14",
+			"assetValue": "1070336",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "503",
+			"monsterId": "1673",
+			"assetCategoryId": "14",
+			"assetValue": "1070336",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "504",
+			"monsterId": "1674",
+			"assetCategoryId": "14",
+			"assetValue": "1070336",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "505",
+			"monsterId": "1675",
+			"assetCategoryId": "14",
+			"assetValue": "1070336",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "506",
+			"monsterId": "1676",
+			"assetCategoryId": "14",
+			"assetValue": "1070337",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "507",
+			"monsterId": "1677",
+			"assetCategoryId": "14",
+			"assetValue": "1070337",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "508",
+			"monsterId": "1678",
+			"assetCategoryId": "14",
+			"assetValue": "1070337",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "509",
+			"monsterId": "1679",
+			"assetCategoryId": "14",
+			"assetValue": "1070337",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "510",
+			"monsterId": "1680",
+			"assetCategoryId": "14",
+			"assetValue": "1070337",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "511",
+			"monsterId": "1681",
+			"assetCategoryId": "14",
+			"assetValue": "1070338",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "512",
+			"monsterId": "1682",
+			"assetCategoryId": "14",
+			"assetValue": "1070338",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "513",
+			"monsterId": "1683",
+			"assetCategoryId": "14",
+			"assetValue": "1070338",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "514",
+			"monsterId": "1684",
+			"assetCategoryId": "14",
+			"assetValue": "1070338",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "515",
+			"monsterId": "1685",
+			"assetCategoryId": "14",
+			"assetValue": "1070338",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "516",
+			"monsterId": "1691",
+			"assetCategoryId": "14",
+			"assetValue": "1070340",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "517",
+			"monsterId": "1692",
+			"assetCategoryId": "14",
+			"assetValue": "1070340",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "518",
+			"monsterId": "1693",
+			"assetCategoryId": "14",
+			"assetValue": "1070340",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "519",
+			"monsterId": "1694",
+			"assetCategoryId": "14",
+			"assetValue": "1070340",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "520",
+			"monsterId": "1695",
+			"assetCategoryId": "14",
+			"assetValue": "1070340",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "521",
+			"monsterId": "1686",
+			"assetCategoryId": "14",
+			"assetValue": "1070339",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "522",
+			"monsterId": "1687",
+			"assetCategoryId": "14",
+			"assetValue": "1070339",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "523",
+			"monsterId": "1688",
+			"assetCategoryId": "14",
+			"assetValue": "1070339",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "524",
+			"monsterId": "1689",
+			"assetCategoryId": "14",
+			"assetValue": "1070339",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "525",
+			"monsterId": "1690",
+			"assetCategoryId": "14",
+			"assetValue": "1070339",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "526",
+			"monsterId": "1696",
+			"assetCategoryId": "14",
+			"assetValue": "1070341",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "527",
+			"monsterId": "1697",
+			"assetCategoryId": "14",
+			"assetValue": "1070341",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "528",
+			"monsterId": "1698",
+			"assetCategoryId": "14",
+			"assetValue": "1070341",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "529",
+			"monsterId": "1699",
+			"assetCategoryId": "14",
+			"assetValue": "1070341",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "530",
+			"monsterId": "1700",
+			"assetCategoryId": "14",
+			"assetValue": "1070341",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "531",
+			"monsterId": "1701",
+			"assetCategoryId": "14",
+			"assetValue": "1070342",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "532",
+			"monsterId": "1702",
+			"assetCategoryId": "14",
+			"assetValue": "1070342",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "533",
+			"monsterId": "1703",
+			"assetCategoryId": "14",
+			"assetValue": "1070342",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "534",
+			"monsterId": "1704",
+			"assetCategoryId": "14",
+			"assetValue": "1070342",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "535",
+			"monsterId": "1705",
+			"assetCategoryId": "14",
+			"assetValue": "1070342",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "536",
+			"monsterId": "1706",
+			"assetCategoryId": "14",
+			"assetValue": "1070343",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "537",
+			"monsterId": "1707",
+			"assetCategoryId": "14",
+			"assetValue": "1070343",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "538",
+			"monsterId": "1708",
+			"assetCategoryId": "14",
+			"assetValue": "1070343",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "539",
+			"monsterId": "1709",
+			"assetCategoryId": "14",
+			"assetValue": "1070343",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "540",
+			"monsterId": "1710",
+			"assetCategoryId": "14",
+			"assetValue": "1070343",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "541",
+			"monsterId": "1711",
+			"assetCategoryId": "14",
+			"assetValue": "1070344",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "542",
+			"monsterId": "1712",
+			"assetCategoryId": "14",
+			"assetValue": "1070344",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "543",
+			"monsterId": "1713",
+			"assetCategoryId": "14",
+			"assetValue": "1070344",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "544",
+			"monsterId": "1714",
+			"assetCategoryId": "14",
+			"assetValue": "1070344",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "545",
+			"monsterId": "1715",
+			"assetCategoryId": "14",
+			"assetValue": "1070344",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "546",
+			"monsterId": "1716",
+			"assetCategoryId": "14",
+			"assetValue": "1070345",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "547",
+			"monsterId": "1717",
+			"assetCategoryId": "14",
+			"assetValue": "1070345",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "548",
+			"monsterId": "1718",
+			"assetCategoryId": "14",
+			"assetValue": "1070345",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "549",
+			"monsterId": "1719",
+			"assetCategoryId": "14",
+			"assetValue": "1070345",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "550",
+			"monsterId": "1720",
+			"assetCategoryId": "14",
+			"assetValue": "1070345",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "551",
+			"monsterId": "1721",
+			"assetCategoryId": "14",
+			"assetValue": "1070346",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "552",
+			"monsterId": "1722",
+			"assetCategoryId": "14",
+			"assetValue": "1070346",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "553",
+			"monsterId": "1723",
+			"assetCategoryId": "14",
+			"assetValue": "1070346",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "554",
+			"monsterId": "1724",
+			"assetCategoryId": "14",
+			"assetValue": "1070346",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "555",
+			"monsterId": "1725",
+			"assetCategoryId": "14",
+			"assetValue": "1070346",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "10000",
+			"monsterId": "6026",
+			"assetCategoryId": "14",
+			"assetValue": "1076006",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "10001",
+			"monsterId": "6027",
+			"assetCategoryId": "14",
+			"assetValue": "1076006",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "10002",
+			"monsterId": "6028",
+			"assetCategoryId": "14",
+			"assetValue": "1076006",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "10003",
+			"monsterId": "6029",
+			"assetCategoryId": "14",
+			"assetValue": "1076006",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "10004",
+			"monsterId": "6030",
+			"assetCategoryId": "14",
+			"assetValue": "1076006",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "10005",
+			"monsterId": "6056",
+			"assetCategoryId": "14",
+			"assetValue": "1076012",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "10006",
+			"monsterId": "6057",
+			"assetCategoryId": "14",
+			"assetValue": "1076012",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "10007",
+			"monsterId": "6058",
+			"assetCategoryId": "14",
+			"assetValue": "1076012",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "10008",
+			"monsterId": "6059",
+			"assetCategoryId": "14",
+			"assetValue": "1076012",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "10009",
+			"monsterId": "6060",
+			"assetCategoryId": "14",
+			"assetValue": "1076012",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "10010",
+			"monsterId": "6086",
+			"assetCategoryId": "14",
+			"assetValue": "1076018",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "10011",
+			"monsterId": "6087",
+			"assetCategoryId": "14",
+			"assetValue": "1076018",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "10012",
+			"monsterId": "6088",
+			"assetCategoryId": "14",
+			"assetValue": "1076018",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "10013",
+			"monsterId": "6089",
+			"assetCategoryId": "14",
+			"assetValue": "1076018",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "10014",
+			"monsterId": "6090",
+			"assetCategoryId": "14",
+			"assetValue": "1076018",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "10015",
+			"monsterId": "6116",
+			"assetCategoryId": "14",
+			"assetValue": "1076024",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "10016",
+			"monsterId": "6117",
+			"assetCategoryId": "14",
+			"assetValue": "1076024",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "10017",
+			"monsterId": "6118",
+			"assetCategoryId": "14",
+			"assetValue": "1076024",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "10018",
+			"monsterId": "6119",
+			"assetCategoryId": "14",
+			"assetValue": "1076024",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "10019",
+			"monsterId": "6120",
+			"assetCategoryId": "14",
+			"assetValue": "1076024",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "10020",
+			"monsterId": "6146",
+			"assetCategoryId": "14",
+			"assetValue": "1076030",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "10021",
+			"monsterId": "6147",
+			"assetCategoryId": "14",
+			"assetValue": "1076030",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "10022",
+			"monsterId": "6148",
+			"assetCategoryId": "14",
+			"assetValue": "1076030",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "10023",
+			"monsterId": "6149",
+			"assetCategoryId": "14",
+			"assetValue": "1076030",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "10024",
+			"monsterId": "6150",
+			"assetCategoryId": "14",
+			"assetValue": "1076030",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "10025",
+			"monsterId": "6176",
+			"assetCategoryId": "14",
+			"assetValue": "1076036",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "10026",
+			"monsterId": "6177",
+			"assetCategoryId": "14",
+			"assetValue": "1076036",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "10027",
+			"monsterId": "6178",
+			"assetCategoryId": "14",
+			"assetValue": "1076036",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "10028",
+			"monsterId": "6179",
+			"assetCategoryId": "14",
+			"assetValue": "1076036",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "10029",
+			"monsterId": "6180",
+			"assetCategoryId": "14",
+			"assetValue": "1076036",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "10030",
+			"monsterId": "6206",
+			"assetCategoryId": "14",
+			"assetValue": "1076042",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "10031",
+			"monsterId": "6207",
+			"assetCategoryId": "14",
+			"assetValue": "1076042",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "10032",
+			"monsterId": "6208",
+			"assetCategoryId": "14",
+			"assetValue": "1076042",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "10033",
+			"monsterId": "6209",
+			"assetCategoryId": "14",
+			"assetValue": "1076042",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "10034",
+			"monsterId": "6210",
+			"assetCategoryId": "14",
+			"assetValue": "1076042",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "10035",
+			"monsterId": "6236",
+			"assetCategoryId": "14",
+			"assetValue": "1076048",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "10036",
+			"monsterId": "6237",
+			"assetCategoryId": "14",
+			"assetValue": "1076048",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "10037",
+			"monsterId": "6238",
+			"assetCategoryId": "14",
+			"assetValue": "1076048",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "10038",
+			"monsterId": "6239",
+			"assetCategoryId": "14",
+			"assetValue": "1076048",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "10039",
+			"monsterId": "6240",
+			"assetCategoryId": "14",
+			"assetValue": "1076048",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "10040",
+			"monsterId": "6266",
+			"assetCategoryId": "14",
+			"assetValue": "1076054",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "10041",
+			"monsterId": "6267",
+			"assetCategoryId": "14",
+			"assetValue": "1076054",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "10042",
+			"monsterId": "6268",
+			"assetCategoryId": "14",
+			"assetValue": "1076054",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "10043",
+			"monsterId": "6269",
+			"assetCategoryId": "14",
+			"assetValue": "1076054",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "10044",
+			"monsterId": "6270",
+			"assetCategoryId": "14",
+			"assetValue": "1076054",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "10045",
+			"monsterId": "6296",
+			"assetCategoryId": "14",
+			"assetValue": "1076060",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "10046",
+			"monsterId": "6297",
+			"assetCategoryId": "14",
+			"assetValue": "1076060",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "10047",
+			"monsterId": "6298",
+			"assetCategoryId": "14",
+			"assetValue": "1076060",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "10048",
+			"monsterId": "6299",
+			"assetCategoryId": "14",
+			"assetValue": "1076060",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "10049",
+			"monsterId": "6300",
+			"assetCategoryId": "14",
+			"assetValue": "1076060",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "10050",
+			"monsterId": "6326",
+			"assetCategoryId": "14",
+			"assetValue": "1076066",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "10051",
+			"monsterId": "6327",
+			"assetCategoryId": "14",
+			"assetValue": "1076066",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "10052",
+			"monsterId": "6328",
+			"assetCategoryId": "14",
+			"assetValue": "1076066",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "10053",
+			"monsterId": "6329",
+			"assetCategoryId": "14",
+			"assetValue": "1076066",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "10054",
+			"monsterId": "6330",
+			"assetCategoryId": "14",
+			"assetValue": "1076066",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "10055",
+			"monsterId": "6356",
+			"assetCategoryId": "14",
+			"assetValue": "1076072",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "10056",
+			"monsterId": "6357",
+			"assetCategoryId": "14",
+			"assetValue": "1076072",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "10057",
+			"monsterId": "6358",
+			"assetCategoryId": "14",
+			"assetValue": "1076072",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "10058",
+			"monsterId": "6359",
+			"assetCategoryId": "14",
+			"assetValue": "1076072",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "10059",
+			"monsterId": "6360",
+			"assetCategoryId": "14",
+			"assetValue": "1076072",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "10060",
+			"monsterId": "6361",
+			"assetCategoryId": "14",
+			"assetValue": "1076072",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "10061",
+			"monsterId": "6362",
+			"assetCategoryId": "14",
+			"assetValue": "1076072",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "10062",
+			"monsterId": "6363",
+			"assetCategoryId": "14",
+			"assetValue": "1076072",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "10063",
+			"monsterId": "6364",
+			"assetCategoryId": "14",
+			"assetValue": "1076072",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "10064",
+			"monsterId": "6365",
+			"assetCategoryId": "14",
+			"assetValue": "1076072",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "15001",
+			"monsterId": "15026",
+			"assetCategoryId": "14",
+			"assetValue": "1070174",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "15002",
+			"monsterId": "15027",
+			"assetCategoryId": "14",
+			"assetValue": "1070174",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "15003",
+			"monsterId": "15028",
+			"assetCategoryId": "14",
+			"assetValue": "1070174",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "15004",
+			"monsterId": "15029",
+			"assetCategoryId": "14",
+			"assetValue": "1070174",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "15005",
+			"monsterId": "15030",
+			"assetCategoryId": "14",
+			"assetValue": "1070174",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "15006",
+			"monsterId": "15056",
+			"assetCategoryId": "14",
+			"assetValue": "1070222",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "15007",
+			"monsterId": "15057",
+			"assetCategoryId": "14",
+			"assetValue": "1070222",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "15008",
+			"monsterId": "15058",
+			"assetCategoryId": "14",
+			"assetValue": "1070222",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "15009",
+			"monsterId": "15059",
+			"assetCategoryId": "14",
+			"assetValue": "1070222",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "15010",
+			"monsterId": "15060",
+			"assetCategoryId": "14",
+			"assetValue": "1070222",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "15011",
+			"monsterId": "15061",
+			"assetCategoryId": "14",
+			"assetValue": "1070233",
+			"assetNum": "1"
+		},
+		{
+			"monsterSellRecoverItemId": "15012",
+			"monsterId": "15062",
+			"assetCategoryId": "14",
+			"assetValue": "1070233",
+			"assetNum": "3"
+		},
+		{
+			"monsterSellRecoverItemId": "15013",
+			"monsterId": "15063",
+			"assetCategoryId": "14",
+			"assetValue": "1070233",
+			"assetNum": "5"
+		},
+		{
+			"monsterSellRecoverItemId": "15014",
+			"monsterId": "15064",
+			"assetCategoryId": "14",
+			"assetValue": "1070233",
+			"assetNum": "7"
+		},
+		{
+			"monsterSellRecoverItemId": "15015",
+			"monsterId": "15065",
+			"assetCategoryId": "14",
+			"assetValue": "1070233",
+			"assetNum": "10"
+		},
+		{
+			"monsterSellRecoverItemId": "20010",
+			"monsterId": "20011",
+			"assetCategoryId": "14",
+			"assetValue": "1070169",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20025",
+			"monsterId": "20026",
+			"assetCategoryId": "14",
+			"assetValue": "1070172",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20055",
+			"monsterId": "20056",
+			"assetCategoryId": "14",
+			"assetValue": "1070178",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20065",
+			"monsterId": "20066",
+			"assetCategoryId": "14",
+			"assetValue": "1070180",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20070",
+			"monsterId": "20071",
+			"assetCategoryId": "14",
+			"assetValue": "1070181",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20075",
+			"monsterId": "20076",
+			"assetCategoryId": "14",
+			"assetValue": "1070182",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20085",
+			"monsterId": "20086",
+			"assetCategoryId": "14",
+			"assetValue": "1070184",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20090",
+			"monsterId": "20091",
+			"assetCategoryId": "14",
+			"assetValue": "1070185",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20095",
+			"monsterId": "20096",
+			"assetCategoryId": "14",
+			"assetValue": "1070186",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20110",
+			"monsterId": "20111",
+			"assetCategoryId": "14",
+			"assetValue": "1070189",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20125",
+			"monsterId": "20126",
+			"assetCategoryId": "14",
+			"assetValue": "1070192",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20135",
+			"monsterId": "20136",
+			"assetCategoryId": "14",
+			"assetValue": "1070194",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20140",
+			"monsterId": "20141",
+			"assetCategoryId": "14",
+			"assetValue": "1070195",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20170",
+			"monsterId": "20171",
+			"assetCategoryId": "14",
+			"assetValue": "1070201",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20190",
+			"monsterId": "20191",
+			"assetCategoryId": "14",
+			"assetValue": "1070205",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20195",
+			"monsterId": "20196",
+			"assetCategoryId": "14",
+			"assetValue": "1070206",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20205",
+			"monsterId": "20206",
+			"assetCategoryId": "14",
+			"assetValue": "1070208",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20215",
+			"monsterId": "20216",
+			"assetCategoryId": "14",
+			"assetValue": "1070210",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20230",
+			"monsterId": "20231",
+			"assetCategoryId": "14",
+			"assetValue": "1070213",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20235",
+			"monsterId": "20236",
+			"assetCategoryId": "14",
+			"assetValue": "1070214",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20240",
+			"monsterId": "20241",
+			"assetCategoryId": "14",
+			"assetValue": "1070215",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20245",
+			"monsterId": "20246",
+			"assetCategoryId": "14",
+			"assetValue": "1070216",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20255",
+			"monsterId": "20256",
+			"assetCategoryId": "14",
+			"assetValue": "1070218",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20270",
+			"monsterId": "20271",
+			"assetCategoryId": "14",
+			"assetValue": "1070221",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20285",
+			"monsterId": "20286",
+			"assetCategoryId": "14",
+			"assetValue": "1070224",
+			"assetNum": "14"
+		},
+		{
+			"monsterSellRecoverItemId": "20290",
+			"monsterId": "20291",
+			"assetCategoryId": "14",
+			"assetValue": "1070225",
+			"assetNum": "14"
+		}
+	]
+}
