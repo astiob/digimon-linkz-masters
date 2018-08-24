@@ -1,0 +1,67 @@
+{
+	"worldStageForceOpenM": [
+		{
+			"worldStageId": 3001,
+			"forceOpenMinute": 30,
+			"assetCategoryId": 2,
+			"assetValue": 1,
+			"assetNum": 5
+		},
+		{
+			"worldStageId": 3002,
+			"forceOpenMinute": 30,
+			"assetCategoryId": 2,
+			"assetValue": 1,
+			"assetNum": 5
+		},
+		{
+			"worldStageId": 3003,
+			"forceOpenMinute": 30,
+			"assetCategoryId": 2,
+			"assetValue": 1,
+			"assetNum": 5
+		},
+		{
+			"worldStageId": 3004,
+			"forceOpenMinute": 30,
+			"assetCategoryId": 2,
+			"assetValue": 1,
+			"assetNum": 5
+		},
+		{
+			"worldStageId": 3005,
+			"forceOpenMinute": 30,
+			"assetCategoryId": 2,
+			"assetValue": 1,
+			"assetNum": 5
+		},
+		{
+			"worldStageId": 3006,
+			"forceOpenMinute": 30,
+			"assetCategoryId": 2,
+			"assetValue": 1,
+			"assetNum": 5
+		},
+		{
+			"worldStageId": 3007,
+			"forceOpenMinute": 30,
+			"assetCategoryId": 2,
+			"assetValue": 1,
+			"assetNum": 5
+		},
+		{
+			"worldStageId": 6044,
+			"forceOpenMinute": 30,
+			"assetCategoryId": 2,
+			"assetValue": 1,
+			"assetNum": 5
+		},
+		{
+			"worldStageId": 6045,
+			"forceOpenMinute": 30,
+			"assetCategoryId": 2,
+			"assetValue": 1,
+			"assetNum": 5
+		}
+	]
+}
