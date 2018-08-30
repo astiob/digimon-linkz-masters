@@ -25271,6 +25271,82 @@
 			"isMissTrough": "0"
 		},
 		{
+			"skillDetailId": "1397",
+			"skillId": "972",
+			"subId": "1",
+			"effectType": "71",
+			"effect": "3000",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "6",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9700",
+			"subRate": "0",
+			"isMissTrough": "1"
+		},
+		{
+			"skillDetailId": "1398",
+			"skillId": "972",
+			"subId": "2",
+			"effectType": "1",
+			"effect": "75",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "6",
+			"continuousRound": "1",
+			"motionCount": "4",
+			"hitRate": "9300",
+			"subRate": "300",
+			"isMissTrough": "1"
+		},
+		{
+			"skillDetailId": "1399",
+			"skillId": "973",
+			"subId": "1",
+			"effectType": "71",
+			"effect": "3000",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "6",
+			"continuousRound": "1",
+			"motionCount": "1",
+			"hitRate": "9700",
+			"subRate": "0",
+			"isMissTrough": "1"
+		},
+		{
+			"skillDetailId": "1400",
+			"skillId": "973",
+			"subId": "2",
+			"effectType": "1",
+			"effect": "75",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "1",
+			"targetType": "1",
+			"attribute": "6",
+			"continuousRound": "1",
+			"motionCount": "4",
+			"hitRate": "9300",
+			"subRate": "300",
+			"isMissTrough": "1"
+		},
+		{
 			"skillDetailId": "9001",
 			"skillId": "9001",
 			"subId": "1",
@@ -26919,7 +26995,7 @@
 			"attribute": "1",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9700",
+			"hitRate": "9400",
 			"subRate": "500",
 			"isMissTrough": "0"
 		},
@@ -26938,7 +27014,7 @@
 			"attribute": "2",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9700",
+			"hitRate": "9400",
 			"subRate": "500",
 			"isMissTrough": "0"
 		},
@@ -26957,7 +27033,7 @@
 			"attribute": "3",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9700",
+			"hitRate": "9400",
 			"subRate": "500",
 			"isMissTrough": "0"
 		},
@@ -26976,7 +27052,7 @@
 			"attribute": "4",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9700",
+			"hitRate": "9400",
 			"subRate": "500",
 			"isMissTrough": "0"
 		},
@@ -26995,7 +27071,7 @@
 			"attribute": "5",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9700",
+			"hitRate": "9400",
 			"subRate": "500",
 			"isMissTrough": "0"
 		},
@@ -27014,7 +27090,7 @@
 			"attribute": "6",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9700",
+			"hitRate": "9400",
 			"subRate": "500",
 			"isMissTrough": "0"
 		},
@@ -27033,7 +27109,7 @@
 			"attribute": "7",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9700",
+			"hitRate": "9400",
 			"subRate": "500",
 			"isMissTrough": "0"
 		},
@@ -27052,7 +27128,7 @@
 			"attribute": "1",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9200",
+			"hitRate": "9000",
 			"subRate": "300",
 			"isMissTrough": "0"
 		},
@@ -27071,7 +27147,7 @@
 			"attribute": "2",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9200",
+			"hitRate": "9000",
 			"subRate": "300",
 			"isMissTrough": "0"
 		},
@@ -27090,7 +27166,7 @@
 			"attribute": "3",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9200",
+			"hitRate": "9000",
 			"subRate": "300",
 			"isMissTrough": "0"
 		},
@@ -27109,7 +27185,7 @@
 			"attribute": "4",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9200",
+			"hitRate": "9000",
 			"subRate": "300",
 			"isMissTrough": "0"
 		},
@@ -27128,7 +27204,7 @@
 			"attribute": "5",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9200",
+			"hitRate": "9000",
 			"subRate": "300",
 			"isMissTrough": "0"
 		},
@@ -27147,7 +27223,7 @@
 			"attribute": "6",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9200",
+			"hitRate": "9000",
 			"subRate": "300",
 			"isMissTrough": "0"
 		},
@@ -27166,7 +27242,7 @@
 			"attribute": "7",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9200",
+			"hitRate": "9000",
 			"subRate": "300",
 			"isMissTrough": "0"
 		},
@@ -27185,7 +27261,7 @@
 			"attribute": "1",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9700",
+			"hitRate": "9400",
 			"subRate": "500",
 			"isMissTrough": "0"
 		},
@@ -27204,7 +27280,7 @@
 			"attribute": "2",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9700",
+			"hitRate": "9400",
 			"subRate": "500",
 			"isMissTrough": "0"
 		},
@@ -27223,7 +27299,7 @@
 			"attribute": "3",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9700",
+			"hitRate": "9400",
 			"subRate": "500",
 			"isMissTrough": "0"
 		},
@@ -27242,7 +27318,7 @@
 			"attribute": "4",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9700",
+			"hitRate": "9400",
 			"subRate": "500",
 			"isMissTrough": "0"
 		},
@@ -27261,7 +27337,7 @@
 			"attribute": "5",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9700",
+			"hitRate": "9400",
 			"subRate": "500",
 			"isMissTrough": "0"
 		},
@@ -27280,7 +27356,7 @@
 			"attribute": "6",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9700",
+			"hitRate": "9400",
 			"subRate": "500",
 			"isMissTrough": "0"
 		},
@@ -27299,7 +27375,7 @@
 			"attribute": "7",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9700",
+			"hitRate": "9400",
 			"subRate": "500",
 			"isMissTrough": "0"
 		},
@@ -27318,7 +27394,7 @@
 			"attribute": "1",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9200",
+			"hitRate": "9000",
 			"subRate": "300",
 			"isMissTrough": "0"
 		},
@@ -27337,7 +27413,7 @@
 			"attribute": "2",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9200",
+			"hitRate": "9000",
 			"subRate": "300",
 			"isMissTrough": "0"
 		},
@@ -27356,7 +27432,7 @@
 			"attribute": "3",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9200",
+			"hitRate": "9000",
 			"subRate": "300",
 			"isMissTrough": "0"
 		},
@@ -27375,7 +27451,7 @@
 			"attribute": "4",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9200",
+			"hitRate": "9000",
 			"subRate": "300",
 			"isMissTrough": "0"
 		},
@@ -27394,7 +27470,7 @@
 			"attribute": "5",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9200",
+			"hitRate": "9000",
 			"subRate": "300",
 			"isMissTrough": "0"
 		},
@@ -27413,7 +27489,7 @@
 			"attribute": "6",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9200",
+			"hitRate": "9000",
 			"subRate": "300",
 			"isMissTrough": "0"
 		},
@@ -27432,7 +27508,7 @@
 			"attribute": "7",
 			"continuousRound": "1",
 			"motionCount": "1",
-			"hitRate": "9200",
+			"hitRate": "9000",
 			"subRate": "300",
 			"isMissTrough": "0"
 		},

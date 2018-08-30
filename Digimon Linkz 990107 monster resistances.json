@@ -1171,6 +1171,24 @@
 			"death": "0"
 		},
 		{
+			"monsterResistanceId": "66",
+			"description": "ドゥフトモンX抗体",
+			"fire": "0",
+			"water": "0",
+			"thunder": "0",
+			"nature": "-1",
+			"none": "0",
+			"light": "1",
+			"dark": "-1",
+			"poison": "1",
+			"confusion": "1",
+			"paralysis": "0",
+			"sleep": "-1",
+			"stun": "-1",
+			"skillLock": "-1",
+			"death": "0"
+		},
+		{
 			"monsterResistanceId": "101",
 			"description": "幻生系降臨初級",
 			"fire": "0",
@@ -2411,6 +2429,24 @@
 			"stun": "-1",
 			"skillLock": "0",
 			"death": "1"
+		},
+		{
+			"monsterResistanceId": "1028",
+			"description": "ルーチェモンSM",
+			"fire": "0",
+			"water": "0",
+			"thunder": "0",
+			"nature": "0",
+			"none": "0",
+			"light": "-1",
+			"dark": "1",
+			"poison": "1",
+			"confusion": "-1",
+			"paralysis": "-1",
+			"sleep": "1",
+			"stun": "-1",
+			"skillLock": "1",
+			"death": "-1"
 		},
 		{
 			"monsterResistanceId": "10001",
@@ -7145,6 +7181,24 @@
 			"stun": "0",
 			"skillLock": "0",
 			"death": "99"
+		},
+		{
+			"monsterResistanceId": "30176",
+			"description": "ドゥフトモンX抗体 兵貴級",
+			"fire": "1",
+			"water": "1",
+			"thunder": "1",
+			"nature": "0",
+			"none": "1",
+			"light": "99",
+			"dark": "0",
+			"poison": "99",
+			"confusion": "99",
+			"paralysis": "1",
+			"sleep": "0",
+			"stun": "0",
+			"skillLock": "0",
+			"death": "1"
 		},
 		{
 			"monsterResistanceId": "40001",

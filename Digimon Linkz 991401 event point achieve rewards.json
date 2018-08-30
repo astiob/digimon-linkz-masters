@@ -16069,6 +16069,1186 @@
 			"assetValue": "78",
 			"assetNum": "15",
 			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1641",
+			"worldEventId": "137",
+			"point": "5",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1642",
+			"worldEventId": "137",
+			"point": "10",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1643",
+			"worldEventId": "137",
+			"point": "25",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1644",
+			"worldEventId": "137",
+			"point": "50",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1645",
+			"worldEventId": "137",
+			"point": "75",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1646",
+			"worldEventId": "137",
+			"point": "100",
+			"loopFlg": "0",
+			"assetCategoryId": "14",
+			"assetValue": "1070200",
+			"assetNum": "1",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1647",
+			"worldEventId": "137",
+			"point": "150",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1648",
+			"worldEventId": "137",
+			"point": "200",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1649",
+			"worldEventId": "137",
+			"point": "250",
+			"loopFlg": "0",
+			"assetCategoryId": "17",
+			"assetValue": "100340",
+			"assetNum": "1",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1650",
+			"worldEventId": "137",
+			"point": "300",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1651",
+			"worldEventId": "137",
+			"point": "350",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1652",
+			"worldEventId": "137",
+			"point": "400",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1653",
+			"worldEventId": "137",
+			"point": "450",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1654",
+			"worldEventId": "137",
+			"point": "500",
+			"loopFlg": "0",
+			"assetCategoryId": "14",
+			"assetValue": "1070200",
+			"assetNum": "1",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1655",
+			"worldEventId": "137",
+			"point": "550",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1656",
+			"worldEventId": "137",
+			"point": "600",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1657",
+			"worldEventId": "137",
+			"point": "650",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1658",
+			"worldEventId": "137",
+			"point": "700",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1659",
+			"worldEventId": "137",
+			"point": "750",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1660",
+			"worldEventId": "137",
+			"point": "800",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1661",
+			"worldEventId": "137",
+			"point": "850",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1662",
+			"worldEventId": "137",
+			"point": "900",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1663",
+			"worldEventId": "137",
+			"point": "950",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1664",
+			"worldEventId": "137",
+			"point": "1000",
+			"loopFlg": "0",
+			"assetCategoryId": "14",
+			"assetValue": "1070200",
+			"assetNum": "1",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1665",
+			"worldEventId": "137",
+			"point": "1100",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "10",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1666",
+			"worldEventId": "137",
+			"point": "1200",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "10",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1667",
+			"worldEventId": "137",
+			"point": "1300",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "10",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1668",
+			"worldEventId": "137",
+			"point": "1400",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "10",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1669",
+			"worldEventId": "137",
+			"point": "1500",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "10",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1670",
+			"worldEventId": "137",
+			"point": "1600",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "10",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1671",
+			"worldEventId": "137",
+			"point": "1700",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "10",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1672",
+			"worldEventId": "137",
+			"point": "1800",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "10",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1673",
+			"worldEventId": "137",
+			"point": "1900",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "10",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1674",
+			"worldEventId": "137",
+			"point": "2000",
+			"loopFlg": "0",
+			"assetCategoryId": "14",
+			"assetValue": "1070200",
+			"assetNum": "1",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1675",
+			"worldEventId": "137",
+			"point": "2200",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1676",
+			"worldEventId": "137",
+			"point": "2400",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1677",
+			"worldEventId": "137",
+			"point": "2600",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1678",
+			"worldEventId": "137",
+			"point": "2800",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1679",
+			"worldEventId": "137",
+			"point": "3000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1680",
+			"worldEventId": "137",
+			"point": "3200",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1681",
+			"worldEventId": "137",
+			"point": "3400",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1682",
+			"worldEventId": "137",
+			"point": "3600",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1683",
+			"worldEventId": "137",
+			"point": "3800",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1684",
+			"worldEventId": "137",
+			"point": "4000",
+			"loopFlg": "0",
+			"assetCategoryId": "14",
+			"assetValue": "1070200",
+			"assetNum": "1",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1685",
+			"worldEventId": "137",
+			"point": "4200",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1686",
+			"worldEventId": "137",
+			"point": "4400",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1687",
+			"worldEventId": "137",
+			"point": "4600",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1688",
+			"worldEventId": "137",
+			"point": "4800",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1689",
+			"worldEventId": "137",
+			"point": "5000",
+			"loopFlg": "0",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1690",
+			"worldEventId": "137",
+			"point": "5200",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1691",
+			"worldEventId": "137",
+			"point": "5400",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1692",
+			"worldEventId": "137",
+			"point": "5600",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1693",
+			"worldEventId": "137",
+			"point": "5800",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1694",
+			"worldEventId": "137",
+			"point": "6000",
+			"loopFlg": "0",
+			"assetCategoryId": "14",
+			"assetValue": "1070200",
+			"assetNum": "1",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1695",
+			"worldEventId": "137",
+			"point": "6200",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1696",
+			"worldEventId": "137",
+			"point": "6400",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1697",
+			"worldEventId": "137",
+			"point": "6600",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1698",
+			"worldEventId": "137",
+			"point": "6800",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1699",
+			"worldEventId": "137",
+			"point": "7000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1700",
+			"worldEventId": "137",
+			"point": "7200",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1701",
+			"worldEventId": "137",
+			"point": "7400",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1702",
+			"worldEventId": "137",
+			"point": "7600",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1703",
+			"worldEventId": "137",
+			"point": "7800",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1704",
+			"worldEventId": "137",
+			"point": "8000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1705",
+			"worldEventId": "137",
+			"point": "8200",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1706",
+			"worldEventId": "137",
+			"point": "8400",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1707",
+			"worldEventId": "137",
+			"point": "8600",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1708",
+			"worldEventId": "137",
+			"point": "8800",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1709",
+			"worldEventId": "137",
+			"point": "9000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1710",
+			"worldEventId": "137",
+			"point": "9200",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1711",
+			"worldEventId": "137",
+			"point": "9400",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1712",
+			"worldEventId": "137",
+			"point": "9600",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1713",
+			"worldEventId": "137",
+			"point": "9800",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1714",
+			"worldEventId": "137",
+			"point": "10000",
+			"loopFlg": "0",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "5",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1715",
+			"worldEventId": "137",
+			"point": "10400",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1716",
+			"worldEventId": "137",
+			"point": "10800",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1717",
+			"worldEventId": "137",
+			"point": "11200",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1718",
+			"worldEventId": "137",
+			"point": "11600",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1719",
+			"worldEventId": "137",
+			"point": "12000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1720",
+			"worldEventId": "137",
+			"point": "12400",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1721",
+			"worldEventId": "137",
+			"point": "12800",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1722",
+			"worldEventId": "137",
+			"point": "13200",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1723",
+			"worldEventId": "137",
+			"point": "13600",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1724",
+			"worldEventId": "137",
+			"point": "14000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1725",
+			"worldEventId": "137",
+			"point": "14400",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1726",
+			"worldEventId": "137",
+			"point": "14800",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1727",
+			"worldEventId": "137",
+			"point": "15000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1728",
+			"worldEventId": "137",
+			"point": "15500",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1729",
+			"worldEventId": "137",
+			"point": "16000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1730",
+			"worldEventId": "137",
+			"point": "16500",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1731",
+			"worldEventId": "137",
+			"point": "17000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1732",
+			"worldEventId": "137",
+			"point": "17500",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1733",
+			"worldEventId": "137",
+			"point": "18000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1734",
+			"worldEventId": "137",
+			"point": "18500",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1735",
+			"worldEventId": "137",
+			"point": "19000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1736",
+			"worldEventId": "137",
+			"point": "19500",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "30",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1737",
+			"worldEventId": "137",
+			"point": "20000",
+			"loopFlg": "0",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "10",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1738",
+			"worldEventId": "137",
+			"point": "21000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "40",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1739",
+			"worldEventId": "137",
+			"point": "22000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "40",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1740",
+			"worldEventId": "137",
+			"point": "23000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "40",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1741",
+			"worldEventId": "137",
+			"point": "24000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "40",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1742",
+			"worldEventId": "137",
+			"point": "25000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "40",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1743",
+			"worldEventId": "137",
+			"point": "26000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "40",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1744",
+			"worldEventId": "137",
+			"point": "27000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "40",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1745",
+			"worldEventId": "137",
+			"point": "28000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "40",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1746",
+			"worldEventId": "137",
+			"point": "29000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "40",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1747",
+			"worldEventId": "137",
+			"point": "30000",
+			"loopFlg": "0",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "20",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1748",
+			"worldEventId": "137",
+			"point": "32000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "60",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1749",
+			"worldEventId": "137",
+			"point": "34000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "60",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1750",
+			"worldEventId": "137",
+			"point": "36000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "60",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1751",
+			"worldEventId": "137",
+			"point": "38000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "60",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1752",
+			"worldEventId": "137",
+			"point": "40000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "60",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1753",
+			"worldEventId": "137",
+			"point": "42000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "60",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1754",
+			"worldEventId": "137",
+			"point": "44000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "60",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1755",
+			"worldEventId": "137",
+			"point": "46000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "60",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1756",
+			"worldEventId": "137",
+			"point": "48000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "60",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1757",
+			"worldEventId": "137",
+			"point": "50000",
+			"loopFlg": "0",
+			"assetCategoryId": "6",
+			"assetValue": "80",
+			"assetNum": "60",
+			"exValue": ""
+		},
+		{
+			"eventPointAchieveRewardId": "1758",
+			"worldEventId": "137",
+			"point": "2500",
+			"loopFlg": "1",
+			"assetCategoryId": "4",
+			"assetValue": "1",
+			"assetNum": "10000",
+			"exValue": ""
 		}
 	]
 }

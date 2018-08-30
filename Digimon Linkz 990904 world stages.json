@@ -3238,6 +3238,19 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6141",
+			"worldAreaId": "1088",
+			"priority": "1050",
+			"name": "兵貴神速",
+			"description": "ポイントや断片データを集めて究極体を手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "point/34/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",

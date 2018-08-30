@@ -7655,6 +7655,28 @@
 			"dispNum": "50",
 			"startTime": "2018-08-23 18:00:00",
 			"endTime": "2018-08-29 23:59:59"
+		},
+		{
+			"bannerId": "733",
+			"actionType": "menu",
+			"name": "兵貴神速 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30087/30087_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1176",
+			"dispNum": "7",
+			"startTime": "2018-08-30 16:00:00",
+			"endTime": "2018-09-05 23:59:59"
+		},
+		{
+			"bannerId": "734",
+			"actionType": "menu",
+			"name": "イベント「兵貴神速」開催！",
+			"img": "/events/point/34/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1177",
+			"dispNum": "50",
+			"startTime": "2018-08-30 18:00:00",
+			"endTime": "2018-09-05 23:59:59"
 		}
 	]
 }

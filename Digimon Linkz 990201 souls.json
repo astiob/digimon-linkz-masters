@@ -873,6 +873,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070347",
+			"soulName": "ドゥフトモンX抗体のデータの欠片",
+			"description": "ドゥフトモンX抗体への進化の際に必要となるデータの欠片",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1076006",
 			"soulName": "シャイングレイモンのデータの欠片",
 			"description": "シャイングレイモンへの進化の際に必要となるデータの欠片",
@@ -964,6 +972,14 @@
 			"soulId": "1076072",
 			"soulName": "ベルフェモンSMのデータの欠片",
 			"description": "ベルフェモンSMへの進化の際に必要となるデータの欠片",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
+			"soulId": "1076078",
+			"soulName": "ルーチェモンSMのデータの欠片",
+			"description": "ルーチェモンSMへの進化の際に必要となるデータの欠片",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"

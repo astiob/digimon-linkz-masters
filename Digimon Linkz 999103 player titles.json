@@ -694,6 +694,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1081",
+			"name": "第17回覇者",
+			"detail": "第17回コロシアムの覇者に送られる栄光の証",
+			"img": "honorific_colosseum_81",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1082",
+			"name": "第17回SSSランカー",
+			"detail": "第17回コロシアムの最上位ランカーに送られる栄誉の証",
+			"img": "honorific_colosseum_82",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1083",
+			"name": "第17回SSランカー",
+			"detail": "第17回コロシアムの上位ランカーに送られる名誉の証",
+			"img": "honorific_colosseum_83",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1084",
+			"name": "第17回Sランカー",
+			"detail": "第17回コロシアムのランカーに送られる名声の証",
+			"img": "honorific_colosseum_84",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1085",
+			"name": "第17回挑戦者",
+			"detail": "第17回コロシアムの挑戦者に送られる証",
+			"img": "honorific_colosseum_85",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10001",
 			"name": "竜帝の系譜トップ100",
 			"detail": "イベント「竜帝の系譜」トップ100位に送られる栄誉の証",
@@ -712,6 +747,13 @@
 			"name": "竜帝の系譜トップ1000",
 			"detail": "イベント「竜帝の系譜」トップ1000位に送られる名声の証",
 			"img": "honorific_event_3",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10004",
+			"name": "兵貴神速 十傑",
+			"detail": "イベント「兵貴神速」トップ10位に送られる英傑の証",
+			"img": "honorific_event_4",
 			"dispFlg": "0"
 		}
 	]

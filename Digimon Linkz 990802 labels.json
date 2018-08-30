@@ -4158,19 +4158,19 @@
 		},
 		{
 			"messageCode": "LeadReview03Title",
-			"messageText": "進化おめでとうございます！"
-		},
-		{
-			"messageCode": "LeadReview03Info",
-			"messageText": "進化したデジモンをさらに強化して\n自分だけのデジモンを育てましょう！\n進化の感動を、レビューでみんなに伝えませんか？"
-		},
-		{
-			"messageCode": "LeadReview04Title",
 			"messageText": "究極体進化おめでとうございます！"
 		},
 		{
-			"messageCode": "LeadReview04Info",
+			"messageCode": "LeadReview03Info",
 			"messageText": "進化した究極体をさらに育てて、\n強力なデジモンで　強敵に挑みましょう！\n究極体進化の感動を、レビューでみんなに伝えませんか？"
+		},
+		{
+			"messageCode": "LeadReview04Title",
+			"messageText": "進化おめでとうございます！"
+		},
+		{
+			"messageCode": "LeadReview04Info",
+			"messageText": "進化したデジモンをさらに強化して\n自分だけのデジモンを育てましょう！\n進化の感動を、レビューでみんなに伝えませんか？"
 		},
 		{
 			"messageCode": "OtherHistoryNone",

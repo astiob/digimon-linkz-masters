@@ -11628,6 +11628,83 @@
 			"effect": "chip_effect_10114"
 		},
 		{
+			"chipId": "100334",
+			"chipGroupId": "10115",
+			"name": "兵貴のPt＆ステータス特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10115",
+			"detail": "ATK+20。「兵貴神速」で獲得ポイントが1.5倍になる。さらにATKが1.5倍、HPが1.1倍になる。",
+			"effect": "chip_effect_10115"
+		},
+		{
+			"chipId": "100335",
+			"chipGroupId": "10115",
+			"name": "兵貴のPt＆ステータス特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10115",
+			"detail": "ATK+30。「兵貴神速」で獲得ポイントが2.5倍になる。さらにATKが2倍、HPが1.1倍になる。",
+			"effect": "chip_effect_10115"
+		},
+		{
+			"chipId": "100336",
+			"chipGroupId": "10115",
+			"name": "兵貴のPt＆ステータス特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10115",
+			"detail": "ATK+50。「兵貴神速」で獲得ポイントが6倍になる。さらにATKが3倍、HPが1.2倍になる。",
+			"effect": "chip_effect_10115"
+		},
+		{
+			"chipId": "100337",
+			"chipGroupId": "10116",
+			"name": "兵貴のEXTRA STAGE＆ステータス特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10116",
+			"detail": "S-ATK+20。「兵貴神速」でEXTRA STAGE発生率が小アップする。さらにS-ATKが1.5倍、HPが1.1倍になる。",
+			"effect": "chip_effect_10116"
+		},
+		{
+			"chipId": "100338",
+			"chipGroupId": "10116",
+			"name": "兵貴のEXTRA STAGE＆ステータス特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10116",
+			"detail": "S-ATK+30。「兵貴神速」でEXTRA STAGE発生率が中アップする。さらにS-ATKが2倍、HPが1.1倍になる。",
+			"effect": "chip_effect_10116"
+		},
+		{
+			"chipId": "100339",
+			"chipGroupId": "10116",
+			"name": "兵貴のEXTRA STAGE＆ステータス特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10116",
+			"detail": "S-ATK+50。「兵貴神速」でEXTRA STAGE発生率が大アップする。さらにS-ATKが3倍、HPが1.2倍になる。",
+			"effect": "chip_effect_10116"
+		},
+		{
+			"chipId": "100340",
+			"chipGroupId": "10117",
+			"name": "兵貴のHPステータス特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10117",
+			"detail": "HP+20。「兵貴神速」でHPが1.5倍になる。",
+			"effect": "chip_effect_10117"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

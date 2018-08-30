@@ -14566,6 +14566,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "972",
+			"name": "アイネ・ビリオン",
+			"simpleDescription": "",
+			"description": "敵単体の残HP30%を固定ダメージとして与え、さらに光属性で複数回物理小ダメージ",
+			"type": "2",
+			"skillGroupId": "347",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "347",
+			"soundEffect": "bt_926",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "973",
+			"name": "アイネ・ビリオン",
+			"simpleDescription": "",
+			"description": "敵単体の残HP30%を固定ダメージとして与え、さらに光属性で複数回物理小ダメージ",
+			"type": "2",
+			"skillGroupId": "347",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "347",
+			"soundEffect": "bt_926",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "プチフレイム",
 			"simpleDescription": "",
