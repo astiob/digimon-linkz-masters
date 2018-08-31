@@ -319,6 +319,21 @@
 			"tableName": "banner_m",
 			"version": "351",
 			"cacheVersion": "351"
+		},
+		{
+			"tableName": "world_stage_force_open_m",
+			"version": "2",
+			"cacheVersion": "2"
+		},
+		{
+			"tableName": "asset_sales_bonus_m",
+			"version": "2",
+			"cacheVersion": "2"
+		},
+		{
+			"tableName": "monster_auto_load_chip_m",
+			"version": "2",
+			"cacheVersion": "2"
 		}
 	],
 	"versionManagerMaster": {
