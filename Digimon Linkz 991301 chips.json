@@ -11705,6 +11705,72 @@
 			"effect": "chip_effect_10117"
 		},
 		{
+			"chipId": "100341",
+			"chipGroupId": "10118",
+			"name": "氷巌のドロップ特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10118",
+			"detail": "ATK+20。「乱戦 -氷巌-」で交換所アイテムドロップ時の取得個数が+1される。",
+			"effect": "chip_effect_10118"
+		},
+		{
+			"chipId": "100342",
+			"chipGroupId": "10118",
+			"name": "氷巌のドロップ特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10118",
+			"detail": "ATK+30。「乱戦 -氷巌-」で交換所アイテムドロップ時の取得個数が+3される。",
+			"effect": "chip_effect_10118"
+		},
+		{
+			"chipId": "100343",
+			"chipGroupId": "10118",
+			"name": "氷巌のドロップ特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10118",
+			"detail": "ATK+50。「乱戦 -氷巌-」で交換所アイテムドロップ時の取得個数が+9される。",
+			"effect": "chip_effect_10118"
+		},
+		{
+			"chipId": "100344",
+			"chipGroupId": "10119",
+			"name": "氷巌のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10119",
+			"detail": "S-ATK+20。さらに、「乱戦 -氷巌-」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10119"
+		},
+		{
+			"chipId": "100345",
+			"chipGroupId": "10119",
+			"name": "氷巌のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10119",
+			"detail": "S-ATK+30。さらに、「乱戦 -氷巌-」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10119"
+		},
+		{
+			"chipId": "100346",
+			"chipGroupId": "10119",
+			"name": "氷巌のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10119",
+			"detail": "S-ATK+50。さらに、「乱戦 -氷巌-」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10119"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

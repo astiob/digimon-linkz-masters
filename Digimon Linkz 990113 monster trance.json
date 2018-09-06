@@ -13003,6 +13003,12 @@
 			"num": "15"
 		},
 		{
+			"monsterTranceId": "20211",
+			"monsterId": "20211",
+			"soulId": "1070209",
+			"num": "15"
+		},
+		{
 			"monsterTranceId": "20216",
 			"monsterId": "20216",
 			"soulId": "1070210",
@@ -13054,6 +13060,12 @@
 			"monsterTranceId": "20291",
 			"monsterId": "20291",
 			"soulId": "1070225",
+			"num": "15"
+		},
+		{
+			"monsterTranceId": "20456",
+			"monsterId": "20486",
+			"soulId": "1070332",
 			"num": "15"
 		}
 	]

@@ -7677,6 +7677,39 @@
 			"dispNum": "50",
 			"startTime": "2018-08-30 18:00:00",
 			"endTime": "2018-09-05 23:59:59"
+		},
+		{
+			"bannerId": "735",
+			"actionType": "menu",
+			"name": "イベント「乱戦 -氷巌-」開催！",
+			"img": "/events/syuusyuu/49/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1180",
+			"dispNum": "50",
+			"startTime": "2018-09-06 18:00:00",
+			"endTime": "2018-09-12 23:59:59"
+		},
+		{
+			"bannerId": "736",
+			"actionType": "menu",
+			"name": "乱戦 -氷巌- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30088/30088_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1181",
+			"dispNum": "7",
+			"startTime": "2018-09-06 16:00:00",
+			"endTime": "2018-09-12 23:59:59"
+		},
+		{
+			"bannerId": "737",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10189/10189_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1182",
+			"dispNum": "3",
+			"startTime": "2018-09-06 16:00:00",
+			"endTime": "2018-09-20 15:59:59"
 		}
 	]
 }
