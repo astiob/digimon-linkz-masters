@@ -821,7 +821,7 @@
 			"worldId": "6",
 			"priority": "10",
 			"name": "激流を穿つ神獣",
-			"img": "syuusyuu/32/Holding_1.png",
+			"img": "syuusyuu/32/Holding_1.png?revival",
 			"description": "断片データを集めて、さまざまな報酬を手に入れよう！",
 			"type": "1",
 			"prerequisiteWorldAreaId": "0",
@@ -1148,6 +1148,18 @@
 			"img": "syuusyuu/49/Holding_1.png",
 			"description": "断片データを集めて、さまざまな報酬を手に入れよう！",
 			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "1090",
+			"worldId": "6",
+			"priority": "10",
+			"name": "究極の融合",
+			"img": "point/35/Holding_1.png",
+			"description": "ポイントを集めてさまざまな報酬を手に入れよう！",
+			"type": "4",
 			"prerequisiteWorldAreaId": "0",
 			"openTime": "2015-05-01 00:00:00",
 			"closeTime": "2030-05-01 00:00:00"

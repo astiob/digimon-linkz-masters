@@ -2907,7 +2907,7 @@
 			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
 			"type": "1",
 			"prerequisiteWorldStageId": "0",
-			"stageImage": "syuusyuu/32/Holding_2.png",
+			"stageImage": "syuusyuu/32/Holding_2.png?revival",
 			"openTime": "2015-04-01 00:00:00",
 			"closeTime": "2030-05-01 00:00:00",
 			"adminOpenFlg": "0"
@@ -3259,6 +3259,32 @@
 			"type": "1",
 			"prerequisiteWorldStageId": "0",
 			"stageImage": "syuusyuu/49/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
+			"worldStageId": "6143",
+			"worldAreaId": "1090",
+			"priority": "1050",
+			"name": "究極の融合",
+			"description": "ポイントを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "point/35/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
+			"worldStageId": "6144",
+			"worldAreaId": "1090",
+			"priority": "1051",
+			"name": "究極の融合",
+			"description": "ポイントを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "point/35/Holding_3.png",
 			"openTime": "2015-04-01 00:00:00",
 			"closeTime": "2030-05-01 00:00:00",
 			"adminOpenFlg": "0"

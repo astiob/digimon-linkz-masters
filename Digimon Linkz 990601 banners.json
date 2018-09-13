@@ -7710,6 +7710,83 @@
 			"dispNum": "3",
 			"startTime": "2018-09-06 16:00:00",
 			"endTime": "2018-09-20 15:59:59"
+		},
+		{
+			"bannerId": "738",
+			"actionType": "menu",
+			"name": "才能メダルキャプチャ開催！",
+			"img": "/gasha/special/10099/10099_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1183",
+			"dispNum": "5",
+			"startTime": "2018-09-13 16:00:00",
+			"endTime": "2018-09-19 15:59:59"
+		},
+		{
+			"bannerId": "739",
+			"actionType": "menu",
+			"name": "爆炎竜育成チケットキャプチャ開催！",
+			"img": "/gasha/special/20010/20010_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1184",
+			"dispNum": "23",
+			"startTime": "2018-09-13 16:00:00",
+			"endTime": "2018-09-20 15:59:59"
+		},
+		{
+			"bannerId": "741",
+			"actionType": "menu",
+			"name": "イベント「究極の融合」開催！",
+			"img": "/events/point/35/Holding_4.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1188",
+			"dispNum": "51",
+			"startTime": "2018-09-13 18:00:00",
+			"endTime": "2018-09-19 23:59:59"
+		},
+		{
+			"bannerId": "742",
+			"actionType": "menu",
+			"name": "才能メダル引き継ぎ確率UPキャンペーン開催",
+			"img": "/campaign/11002/11002_labomedal.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1189",
+			"dispNum": "100",
+			"startTime": "2018-09-13 16:00:00",
+			"endTime": "2018-09-20 15:59:59"
+		},
+		{
+			"bannerId": "743",
+			"actionType": "menu",
+			"name": "イベント「爆炎の竜影」開催！",
+			"img": "/events/syuusyuu/10001/Holding_5.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1190",
+			"dispNum": "52",
+			"startTime": "2018-09-13 18:00:00",
+			"endTime": "2018-09-20 15:59:59"
+		},
+		{
+			"bannerId": "744",
+			"actionType": "menu",
+			"name": "【復刻】激流を穿つ神獣 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30057/30057_banner_1.png?v=1",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1193",
+			"dispNum": "7",
+			"startTime": "2018-09-13 16:00:00",
+			"endTime": "2018-09-19 23:59:59"
+		},
+		{
+			"bannerId": "745",
+			"actionType": "menu",
+			"name": "イベント「【復刻】激流を穿つ神獣」開催！",
+			"img": "/events/syuusyuu/32/Holding_3.png?rivival",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1186",
+			"dispNum": "50",
+			"startTime": "2018-09-13 18:00:00",
+			"endTime": "2018-09-19 23:59:59"
 		}
 	]
 }

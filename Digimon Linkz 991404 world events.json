@@ -907,7 +907,7 @@
 			"endTime": "2030-01-01 18:00:00",
 			"receiveStartTime": "2016-01-01 18:00:00",
 			"receiveEndTime": "2016-01-01 18:00:00",
-			"backgroundImg": "syuusyuu/32/bg.png"
+			"backgroundImg": "syuusyuu/32/bg.png?revival"
 		},
 		{
 			"worldEventId": "108",
@@ -1169,6 +1169,15 @@
 			"receiveStartTime": "2030-01-02 05:00:00",
 			"receiveEndTime": "2030-01-10 04:59:59",
 			"backgroundImg": "syuusyuu/49/bg.png"
+		},
+		{
+			"worldEventId": "139",
+			"eventType": "1",
+			"startTime": "2016-01-01 18:00:00",
+			"endTime": "2030-01-01 18:00:00",
+			"receiveStartTime": "2030-01-02 05:00:00",
+			"receiveEndTime": "2030-01-10 04:59:59",
+			"backgroundImg": "point/35/bg.png"
 		}
 	]
 }

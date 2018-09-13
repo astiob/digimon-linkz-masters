@@ -13931,6 +13931,78 @@
 			"effectSubType": "2",
 			"effectValue": "5",
 			"detail": "特効チップボーナス A"
+		},
+		{
+			"eventPointBonusId": "1279",
+			"worldEventId": "139",
+			"worldDungeonId": "12130",
+			"targetSubType": "0",
+			"targetValue": "0",
+			"targetValue2": "NULL",
+			"effectType": "0",
+			"effectSubType": "0",
+			"effectValue": "10",
+			"detail": "基本ポイント"
+		},
+		{
+			"eventPointBonusId": "1280",
+			"worldEventId": "139",
+			"worldDungeonId": "12130",
+			"targetSubType": "3",
+			"targetValue": "338",
+			"targetValue2": "NULL",
+			"effectType": "1",
+			"effectSubType": "3",
+			"effectValue": "2",
+			"detail": "アルフォースVドラモンＸボーナス"
+		},
+		{
+			"eventPointBonusId": "1281",
+			"worldEventId": "139",
+			"worldDungeonId": "12131",
+			"targetSubType": "0",
+			"targetValue": "0",
+			"targetValue2": "NULL",
+			"effectType": "0",
+			"effectSubType": "0",
+			"effectValue": "170",
+			"detail": "基本ポイント"
+		},
+		{
+			"eventPointBonusId": "1282",
+			"worldEventId": "139",
+			"worldDungeonId": "12131",
+			"targetSubType": "3",
+			"targetValue": "338",
+			"targetValue2": "NULL",
+			"effectType": "1",
+			"effectSubType": "3",
+			"effectValue": "4",
+			"detail": "アルフォースVドラモンＸボーナス"
+		},
+		{
+			"eventPointBonusId": "1283",
+			"worldEventId": "139",
+			"worldDungeonId": "12132",
+			"targetSubType": "0",
+			"targetValue": "0",
+			"targetValue2": "NULL",
+			"effectType": "0",
+			"effectSubType": "0",
+			"effectValue": "200",
+			"detail": "基本ポイント"
+		},
+		{
+			"eventPointBonusId": "1284",
+			"worldEventId": "139",
+			"worldDungeonId": "12132",
+			"targetSubType": "3",
+			"targetValue": "338",
+			"targetValue2": "NULL",
+			"effectType": "1",
+			"effectSubType": "3",
+			"effectValue": "4",
+			"detail": "アルフォースVドラモンＸボーナス"
 		}
 	]
 }
