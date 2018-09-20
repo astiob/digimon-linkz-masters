@@ -11771,6 +11771,83 @@
 			"effect": "chip_effect_10119"
 		},
 		{
+			"chipId": "100347",
+			"chipGroupId": "10120",
+			"name": "究極騎士のステータス特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10120",
+			"detail": "HP+50。「究極X騎士 -OMEGA-」でHPが2倍、ATK・S-ATKが3倍になる。",
+			"effect": "chip_effect_10120"
+		},
+		{
+			"chipId": "100348",
+			"chipGroupId": "10121",
+			"name": "逆襲のドロップ特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10121",
+			"detail": "ATK+20。「聖剣X逆襲 -OMEGA-」で交換所アイテムドロップ時の取得個数が+1される。",
+			"effect": "chip_effect_10121"
+		},
+		{
+			"chipId": "100349",
+			"chipGroupId": "10121",
+			"name": "逆襲のドロップ特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10121",
+			"detail": "ATK+30。「聖剣X逆襲 -OMEGA-」で交換所アイテムドロップ時の取得個数が+3される。",
+			"effect": "chip_effect_10121"
+		},
+		{
+			"chipId": "100350",
+			"chipGroupId": "10121",
+			"name": "逆襲のドロップ特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10121",
+			"detail": "ATK+50。「聖剣X逆襲 -OMEGA-」で交換所アイテムドロップ時の取得個数が+12される。",
+			"effect": "chip_effect_10121"
+		},
+		{
+			"chipId": "100351",
+			"chipGroupId": "10122",
+			"name": "逆襲のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10122",
+			"detail": "S-ATK+20。さらに、「聖剣X逆襲 -OMEGA-」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10122"
+		},
+		{
+			"chipId": "100352",
+			"chipGroupId": "10122",
+			"name": "逆襲のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10122",
+			"detail": "S-ATK+30。さらに、「聖剣X逆襲 -OMEGA-」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10122"
+		},
+		{
+			"chipId": "100353",
+			"chipGroupId": "10122",
+			"name": "逆襲のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10122",
+			"detail": "S-ATK+50。さらに、「聖剣X逆襲 -OMEGA-」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10122"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

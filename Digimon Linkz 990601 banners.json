@@ -7787,6 +7787,50 @@
 			"dispNum": "50",
 			"startTime": "2018-09-13 18:00:00",
 			"endTime": "2018-09-19 23:59:59"
+		},
+		{
+			"bannerId": "746",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10191/10191_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1197",
+			"dispNum": "3",
+			"startTime": "2018-09-20 16:00:00",
+			"endTime": "2018-10-04 15:59:59"
+		},
+		{
+			"bannerId": "747",
+			"actionType": "menu",
+			"name": "聖剣X逆襲 -OMEGA- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30090/30090_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1198",
+			"dispNum": "7",
+			"startTime": "2018-09-20 16:00:00",
+			"endTime": "2018-10-03 23:59:59"
+		},
+		{
+			"bannerId": "748",
+			"actionType": "menu",
+			"name": "イベント「聖剣X逆襲 -OMEGA-」開催！",
+			"img": "/events/syuusyuu/50/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1192",
+			"dispNum": "50",
+			"startTime": "2018-09-20 18:00:00",
+			"endTime": "2018-10-03 23:59:59"
+		},
+		{
+			"bannerId": "749",
+			"actionType": "menu",
+			"name": "食事経験値アップキャンペーン",
+			"img": "/campaign/10003/10003_mealexp_99.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1199",
+			"dispNum": "100",
+			"startTime": "2018-09-20 16:00:00",
+			"endTime": "2018-10-11 15:59:59"
 		}
 	]
 }

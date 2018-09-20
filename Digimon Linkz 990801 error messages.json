@@ -855,6 +855,13 @@
 			"actionValue": "1"
 		},
 		{
+			"messageCode": "E-SH40",
+			"messageTitle": "課金非対応国からの購入",
+			"messageText": "【E-SH13】課金非対応国からは購入できません",
+			"actionType": "4",
+			"actionValue": "1"
+		},
+		{
 			"messageCode": "E-PR01",
 			"messageTitle": "受け取り済み",
 			"messageText": "【E-PR01】既に受け取り済みです。",

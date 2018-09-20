@@ -222,11 +222,11 @@
 		},
 		{
 			"messageCode": "Maintenance-03",
-			"messageText": "メンテナンス中"
+			"messageText": "課金非対応国からの購入"
 		},
 		{
 			"messageCode": "Maintenance-04",
-			"messageText": "現在は購入できません。"
+			"messageText": "課金非対応国からは購入できません"
 		},
 		{
 			"messageCode": "GoogleLoginFailedTitle",
