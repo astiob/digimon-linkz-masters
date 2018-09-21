@@ -1,18 +1,9 @@
 {
 	"dungeonTicketM": [
 		{
-			"dungeonTicketId": "100168",
-			"name": "アルフォースブイドラモン降臨",
-			"description": "アルフォースブイドラモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100168",
-			"worldDungeonId": "50031",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "100169",
-			"name": "イーバモン降臨",
-			"description": "イーバモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Ebemon",
+			"description": "A ticket for attempting the Ebemon Advent stage",
 			"img": "TicketThumbnail/100169",
 			"worldDungeonId": "50001",
 			"freeFlg": "1",
@@ -20,44 +11,17 @@
 		},
 		{
 			"dungeonTicketId": "100172",
-			"name": "ヴァイクモン降臨",
-			"description": "ヴァイクモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Vikemon",
+			"description": "A ticket for attempting the Vikemon Advent stage",
 			"img": "TicketThumbnail/100172",
 			"worldDungeonId": "50002",
 			"freeFlg": "1",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "100174",
-			"name": "ウォーグレイモン降臨",
-			"description": "ウォーグレイモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100174",
-			"worldDungeonId": "50025",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "100176",
-			"name": "オファニモン降臨",
-			"description": "オファニモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100176",
-			"worldDungeonId": "50039",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "100178",
-			"name": "カオスデュークモン降臨",
-			"description": "カオスデュークモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100178",
-			"worldDungeonId": "50033",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "100180",
-			"name": "クズハモン降臨",
-			"description": "クズハモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Kuzuhamon",
+			"description": "A ticket for attempting the Kuzuhamon Advent stage",
 			"img": "TicketThumbnail/100180",
 			"worldDungeonId": "50003",
 			"freeFlg": "1",
@@ -65,8 +29,8 @@
 		},
 		{
 			"dungeonTicketId": "100181",
-			"name": "グランクワガーモン降臨",
-			"description": "グランクワガーモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: GranKuwagamon",
+			"description": "A ticket for attempting the GranKuwagamon Advent stage",
 			"img": "TicketThumbnail/100181",
 			"worldDungeonId": "50004",
 			"freeFlg": "1",
@@ -74,8 +38,8 @@
 		},
 		{
 			"dungeonTicketId": "100182",
-			"name": "グランドロコモン降臨",
-			"description": "グランドロコモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: GroundLocomon",
+			"description": "A ticket for attempting the GroundLocomon Advent stage",
 			"img": "TicketThumbnail/100182",
 			"worldDungeonId": "50005",
 			"freeFlg": "1",
@@ -83,8 +47,8 @@
 		},
 		{
 			"dungeonTicketId": "100184",
-			"name": "ケルビモン(善)降臨",
-			"description": "ケルビモン(善)が降臨するステージに挑むためのチケット",
+			"name": "Advent: Cherubimon (Good)",
+			"description": "A ticket for attempting the Cherubimon (Good) Advent stage",
 			"img": "TicketThumbnail/100184",
 			"worldDungeonId": "50006",
 			"freeFlg": "1",
@@ -92,8 +56,8 @@
 		},
 		{
 			"dungeonTicketId": "100185",
-			"name": "サーベルレオモン降臨",
-			"description": "サーベルレオモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: SaberLeomon",
+			"description": "A ticket for attempting the SaberLeomon Advent stage",
 			"img": "TicketThumbnail/100185",
 			"worldDungeonId": "50007",
 			"freeFlg": "1",
@@ -101,8 +65,8 @@
 		},
 		{
 			"dungeonTicketId": "100186",
-			"name": "サクヤモン降臨",
-			"description": "サクヤモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Sakuyamon",
+			"description": "A ticket for attempting the Sakuyamon Advent stage",
 			"img": "TicketThumbnail/100186",
 			"worldDungeonId": "50008",
 			"freeFlg": "1",
@@ -110,53 +74,26 @@
 		},
 		{
 			"dungeonTicketId": "100189",
-			"name": "ジャスティモン降臨",
-			"description": "ジャスティモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Justimon",
+			"description": "A ticket for attempting the Justimon Advent stage",
 			"img": "TicketThumbnail/100189",
 			"worldDungeonId": "50009",
 			"freeFlg": "1",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "100190",
-			"name": "スレイプモン降臨",
-			"description": "スレイプモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100190",
-			"worldDungeonId": "50032",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "100191",
-			"name": "セラフィモン降臨",
-			"description": "セラフィモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100191",
-			"worldDungeonId": "50026",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "100192",
-			"name": "セントガルゴモン降臨",
-			"description": "セントガルゴモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: MegaGargomon",
+			"description": "A ticket for attempting the MegaGargomon Advent stage",
 			"img": "TicketThumbnail/100192",
 			"worldDungeonId": "50010",
 			"freeFlg": "1",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "100193",
-			"name": "タイガーヴェスパモン降臨",
-			"description": "タイガーヴェスパモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100193",
-			"worldDungeonId": "50041",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "100194",
-			"name": "タイタモン降臨",
-			"description": "タイタモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Titamon",
+			"description": "A ticket for attempting the Titamon Advent stage",
 			"img": "TicketThumbnail/100194",
 			"worldDungeonId": "50011",
 			"freeFlg": "1",
@@ -164,53 +101,26 @@
 		},
 		{
 			"dungeonTicketId": "100195",
-			"name": "ディアナモン降臨",
-			"description": "ディアナモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Dianamon",
+			"description": "A ticket for attempting the Dianamon Advent stage",
 			"img": "TicketThumbnail/100195",
 			"worldDungeonId": "50012",
 			"freeFlg": "1",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "100196",
-			"name": "ディアボロモン降臨",
-			"description": "ディアボロモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100196",
-			"worldDungeonId": "50036",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "100201",
-			"name": "ハイアンドロモン降臨",
-			"description": "ハイアンドロモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: HiAndromon",
+			"description": "A ticket for attempting the HiAndromon Advent stage",
 			"img": "TicketThumbnail/100201",
 			"worldDungeonId": "50013",
 			"freeFlg": "1",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "100203",
-			"name": "バンチョーレオモン降臨",
-			"description": "バンチョーレオモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100203",
-			"worldDungeonId": "50042",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "100204",
-			"name": "ピエモン降臨",
-			"description": "ピエモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100204",
-			"worldDungeonId": "50043",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "100205",
-			"name": "ピノッキモン降臨",
-			"description": "ピノッキモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Puppetmon",
+			"description": "A ticket for attempting the Puppetmon Advent stage",
 			"img": "TicketThumbnail/100205",
 			"worldDungeonId": "50014",
 			"freeFlg": "1",
@@ -218,8 +128,8 @@
 		},
 		{
 			"dungeonTicketId": "100206",
-			"name": "プラチナヌメモン降臨",
-			"description": "プラチナヌメモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: PlatinumNumemon",
+			"description": "A ticket for attempting the PlatinumNumemon Advent stage",
 			"img": "TicketThumbnail/100206",
 			"worldDungeonId": "50015",
 			"freeFlg": "1",
@@ -227,26 +137,17 @@
 		},
 		{
 			"dungeonTicketId": "100208",
-			"name": "プリンスマメモン降臨",
-			"description": "プリンスマメモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: PrinceMamemon",
+			"description": "A ticket for attempting the PrinceMamemon Advent stage",
 			"img": "TicketThumbnail/100208",
 			"worldDungeonId": "50016",
 			"freeFlg": "1",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "100209",
-			"name": "プレシオモン降臨",
-			"description": "プレシオモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100209",
-			"worldDungeonId": "50037",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "100210",
-			"name": "ヘラクルカブテリモン降臨",
-			"description": "ヘラクルカブテリモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: HerculesKabuterimon",
+			"description": "A ticket for attempting the HerculesKabuterimon Advent stage",
 			"img": "TicketThumbnail/100210",
 			"worldDungeonId": "50017",
 			"freeFlg": "1",
@@ -254,8 +155,8 @@
 		},
 		{
 			"dungeonTicketId": "100213",
-			"name": "ホウオウモン降臨",
-			"description": "ホウオウモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Phoenixmon",
+			"description": "A ticket for attempting the Phoenixmon Advent stage",
 			"img": "TicketThumbnail/100213",
 			"worldDungeonId": "50018",
 			"freeFlg": "1",
@@ -263,8 +164,8 @@
 		},
 		{
 			"dungeonTicketId": "100214",
-			"name": "ホーリードラモン降臨",
-			"description": "ホーリードラモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Magnadramon",
+			"description": "A ticket for attempting the Magnadramon Advent stage",
 			"img": "TicketThumbnail/100214",
 			"worldDungeonId": "50019",
 			"freeFlg": "1",
@@ -272,35 +173,17 @@
 		},
 		{
 			"dungeonTicketId": "100215",
-			"name": "ボルトモン降臨",
-			"description": "ボルトモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Boltmon",
+			"description": "A ticket for attempting the Boltmon Advent stage",
 			"img": "TicketThumbnail/100215",
 			"worldDungeonId": "50020",
 			"freeFlg": "1",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "100216",
-			"name": "マスティモン降臨",
-			"description": "マスティモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100216",
-			"worldDungeonId": "50038",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "100217",
-			"name": "マリンエンジェモン降臨",
-			"description": "マリンエンジェモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100217",
-			"worldDungeonId": "50034",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "100218",
-			"name": "ミネルヴァモン降臨",
-			"description": "ミネルヴァモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Minervamon",
+			"description": "A ticket for attempting the Minervamon Advent stage",
 			"img": "TicketThumbnail/100218",
 			"worldDungeonId": "50021",
 			"freeFlg": "1",
@@ -308,116 +191,35 @@
 		},
 		{
 			"dungeonTicketId": "100221",
-			"name": "メタルエテモン降臨",
-			"description": "メタルエテモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: MetalEtemon",
+			"description": "A ticket for attempting the MetalEtemon Advent stage",
 			"img": "TicketThumbnail/100221",
 			"worldDungeonId": "50022",
 			"freeFlg": "1",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "100222",
-			"name": "メタルガルルモン降臨",
-			"description": "メタルガルルモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100222",
-			"worldDungeonId": "50027",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "100224",
-			"name": "メタルシードラモン降臨",
-			"description": "メタルシードラモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: MetalSeadramon",
+			"description": "A ticket for attempting the MetalSeadramon Advent stage",
 			"img": "TicketThumbnail/100224",
 			"worldDungeonId": "50023",
 			"freeFlg": "1",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "100225",
-			"name": "ラストティラノモン降臨",
-			"description": "ラストティラノモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100225",
-			"worldDungeonId": "50045",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "100228",
-			"name": "レイヴモン降臨",
-			"description": "レイヴモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Ravemon",
+			"description": "A ticket for attempting the Ravemon Advent stage",
 			"img": "TicketThumbnail/100228",
 			"worldDungeonId": "50024",
 			"freeFlg": "1",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "100230",
-			"name": "ロゼモン降臨",
-			"description": "ロゼモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100230",
-			"worldDungeonId": "50028",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "100231",
-			"name": "ロトスモン降臨",
-			"description": "ロトスモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100231",
-			"worldDungeonId": "50046",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "100291",
-			"name": "オメガシャウトモン降臨",
-			"description": "オメガシャウトモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100291",
-			"worldDungeonId": "50029",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "100293",
-			"name": "アレスタードラモン降臨",
-			"description": "アレスタードラモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100293",
-			"worldDungeonId": "50030",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "100317",
-			"name": "スレイヤードラモン降臨",
-			"description": "スレイヤードラモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100317",
-			"worldDungeonId": "50040",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "100320",
-			"name": "ブレイクドラモン降臨",
-			"description": "ブレイクドラモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100320",
-			"worldDungeonId": "50044",
-			"freeFlg": "1",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "200168",
-			"name": "アルフォースブイドラモン降臨",
-			"description": "アルフォースブイドラモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100168",
-			"worldDungeonId": "50031",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "200169",
-			"name": "イーバモン降臨",
-			"description": "イーバモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Ebemon",
+			"description": "A ticket for attempting the Ebemon Advent stage",
 			"img": "TicketThumbnail/100169",
 			"worldDungeonId": "50001",
 			"freeFlg": "0",
@@ -425,44 +227,17 @@
 		},
 		{
 			"dungeonTicketId": "200172",
-			"name": "ヴァイクモン降臨",
-			"description": "ヴァイクモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Vikemon",
+			"description": "A ticket for attempting the Vikemon Advent stage",
 			"img": "TicketThumbnail/100172",
 			"worldDungeonId": "50002",
 			"freeFlg": "0",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "200174",
-			"name": "ウォーグレイモン降臨",
-			"description": "ウォーグレイモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100174",
-			"worldDungeonId": "50025",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "200176",
-			"name": "オファニモン降臨",
-			"description": "オファニモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100176",
-			"worldDungeonId": "50039",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "200178",
-			"name": "カオスデュークモン降臨",
-			"description": "カオスデュークモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100178",
-			"worldDungeonId": "50033",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "200180",
-			"name": "クズハモン降臨",
-			"description": "クズハモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Kuzuhamon",
+			"description": "A ticket for attempting the Kuzuhamon Advent stage",
 			"img": "TicketThumbnail/100180",
 			"worldDungeonId": "50003",
 			"freeFlg": "0",
@@ -470,8 +245,8 @@
 		},
 		{
 			"dungeonTicketId": "200181",
-			"name": "グランクワガーモン降臨",
-			"description": "グランクワガーモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: GranKuwagamon",
+			"description": "A ticket for attempting the GranKuwagamon Advent stage",
 			"img": "TicketThumbnail/100181",
 			"worldDungeonId": "50004",
 			"freeFlg": "0",
@@ -479,8 +254,8 @@
 		},
 		{
 			"dungeonTicketId": "200182",
-			"name": "グランドロコモン降臨",
-			"description": "グランドロコモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: GroundLocomon",
+			"description": "A ticket for attempting the GroundLocomon Advent stage",
 			"img": "TicketThumbnail/100182",
 			"worldDungeonId": "50005",
 			"freeFlg": "0",
@@ -488,8 +263,8 @@
 		},
 		{
 			"dungeonTicketId": "200184",
-			"name": "ケルビモン(善)降臨",
-			"description": "ケルビモン(善)が降臨するステージに挑むためのチケット",
+			"name": "Advent: Cherubimon (Good)",
+			"description": "A ticket for attempting the Cherubimon (Good) Advent stage",
 			"img": "TicketThumbnail/100184",
 			"worldDungeonId": "50006",
 			"freeFlg": "0",
@@ -497,8 +272,8 @@
 		},
 		{
 			"dungeonTicketId": "200185",
-			"name": "サーベルレオモン降臨",
-			"description": "サーベルレオモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: SaberLeomon",
+			"description": "A ticket for attempting the SaberLeomon Advent stage",
 			"img": "TicketThumbnail/100185",
 			"worldDungeonId": "50007",
 			"freeFlg": "0",
@@ -506,8 +281,8 @@
 		},
 		{
 			"dungeonTicketId": "200186",
-			"name": "サクヤモン降臨",
-			"description": "サクヤモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Sakuyamon",
+			"description": "A ticket for attempting the Sakuyamon Advent stage",
 			"img": "TicketThumbnail/100186",
 			"worldDungeonId": "50008",
 			"freeFlg": "0",
@@ -515,53 +290,26 @@
 		},
 		{
 			"dungeonTicketId": "200189",
-			"name": "ジャスティモン降臨",
-			"description": "ジャスティモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Justimon",
+			"description": "A ticket for attempting the Justimon Advent stage",
 			"img": "TicketThumbnail/100189",
 			"worldDungeonId": "50009",
 			"freeFlg": "0",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "200190",
-			"name": "スレイプモン降臨",
-			"description": "スレイプモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100190",
-			"worldDungeonId": "50032",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "200191",
-			"name": "セラフィモン降臨",
-			"description": "セラフィモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100191",
-			"worldDungeonId": "50026",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "200192",
-			"name": "セントガルゴモン降臨",
-			"description": "セントガルゴモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: MegaGargomon",
+			"description": "A ticket for attempting the MegaGargomon Advent stage",
 			"img": "TicketThumbnail/100192",
 			"worldDungeonId": "50010",
 			"freeFlg": "0",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "200193",
-			"name": "タイガーヴェスパモン降臨",
-			"description": "タイガーヴェスパモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100193",
-			"worldDungeonId": "50041",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "200194",
-			"name": "タイタモン降臨",
-			"description": "タイタモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Titamon",
+			"description": "A ticket for attempting the Titamon Advent stage",
 			"img": "TicketThumbnail/100194",
 			"worldDungeonId": "50011",
 			"freeFlg": "0",
@@ -569,53 +317,26 @@
 		},
 		{
 			"dungeonTicketId": "200195",
-			"name": "ディアナモン降臨",
-			"description": "ディアナモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Dianamon",
+			"description": "A ticket for attempting the Dianamon Advent stage",
 			"img": "TicketThumbnail/100195",
 			"worldDungeonId": "50012",
 			"freeFlg": "0",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "200196",
-			"name": "ディアボロモン降臨",
-			"description": "ディアボロモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100196",
-			"worldDungeonId": "50036",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "200201",
-			"name": "ハイアンドロモン降臨",
-			"description": "ハイアンドロモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: HiAndromon",
+			"description": "A ticket for attempting the HiAndromon Advent stage",
 			"img": "TicketThumbnail/100201",
 			"worldDungeonId": "50013",
 			"freeFlg": "0",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "200203",
-			"name": "バンチョーレオモン降臨",
-			"description": "バンチョーレオモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100203",
-			"worldDungeonId": "50042",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "200204",
-			"name": "ピエモン降臨",
-			"description": "ピエモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100204",
-			"worldDungeonId": "50043",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "200205",
-			"name": "ピノッキモン降臨",
-			"description": "ピノッキモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Puppetmon",
+			"description": "A ticket for attempting the Puppetmon Advent stage",
 			"img": "TicketThumbnail/100205",
 			"worldDungeonId": "50014",
 			"freeFlg": "0",
@@ -623,8 +344,8 @@
 		},
 		{
 			"dungeonTicketId": "200206",
-			"name": "プラチナヌメモン降臨",
-			"description": "プラチナヌメモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: PlatinumNumemon",
+			"description": "A ticket for attempting the PlatinumNumemon Advent stage",
 			"img": "TicketThumbnail/100206",
 			"worldDungeonId": "50015",
 			"freeFlg": "0",
@@ -632,26 +353,17 @@
 		},
 		{
 			"dungeonTicketId": "200208",
-			"name": "プリンスマメモン降臨",
-			"description": "プリンスマメモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: PrinceMamemon",
+			"description": "A ticket for attempting the PrinceMamemon Advent stage",
 			"img": "TicketThumbnail/100208",
 			"worldDungeonId": "50016",
 			"freeFlg": "0",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "200209",
-			"name": "プレシオモン降臨",
-			"description": "プレシオモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100209",
-			"worldDungeonId": "50037",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "200210",
-			"name": "ヘラクルカブテリモン降臨",
-			"description": "ヘラクルカブテリモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: HerculesKabuterimon",
+			"description": "A ticket for attempting the HerculesKabuterimon Advent stage",
 			"img": "TicketThumbnail/100210",
 			"worldDungeonId": "50017",
 			"freeFlg": "0",
@@ -659,8 +371,8 @@
 		},
 		{
 			"dungeonTicketId": "200213",
-			"name": "ホウオウモン降臨",
-			"description": "ホウオウモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Phoenixmon",
+			"description": "A ticket for attempting the Phoenixmon Advent stage",
 			"img": "TicketThumbnail/100213",
 			"worldDungeonId": "50018",
 			"freeFlg": "0",
@@ -668,8 +380,8 @@
 		},
 		{
 			"dungeonTicketId": "200214",
-			"name": "ホーリードラモン降臨",
-			"description": "ホーリードラモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Magnadramon",
+			"description": "A ticket for attempting the Magnadramon Advent stage",
 			"img": "TicketThumbnail/100214",
 			"worldDungeonId": "50019",
 			"freeFlg": "0",
@@ -677,35 +389,17 @@
 		},
 		{
 			"dungeonTicketId": "200215",
-			"name": "ボルトモン降臨",
-			"description": "ボルトモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Boltmon",
+			"description": "A ticket for attempting the Boltmon Advent stage",
 			"img": "TicketThumbnail/100215",
 			"worldDungeonId": "50020",
 			"freeFlg": "0",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "200216",
-			"name": "マスティモン降臨",
-			"description": "マスティモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100216",
-			"worldDungeonId": "50038",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "200217",
-			"name": "マリンエンジェモン降臨",
-			"description": "マリンエンジェモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100217",
-			"worldDungeonId": "50034",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "200218",
-			"name": "ミネルヴァモン降臨",
-			"description": "ミネルヴァモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Minervamon",
+			"description": "A ticket for attempting the Minervamon Advent stage",
 			"img": "TicketThumbnail/100218",
 			"worldDungeonId": "50021",
 			"freeFlg": "0",
@@ -713,100 +407,28 @@
 		},
 		{
 			"dungeonTicketId": "200221",
-			"name": "メタルエテモン降臨",
-			"description": "メタルエテモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: MetalEtemon",
+			"description": "A ticket for attempting the MetalEtemon Advent stage",
 			"img": "TicketThumbnail/100221",
 			"worldDungeonId": "50022",
 			"freeFlg": "0",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "200222",
-			"name": "メタルガルルモン降臨",
-			"description": "メタルガルルモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100222",
-			"worldDungeonId": "50027",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "200224",
-			"name": "メタルシードラモン降臨",
-			"description": "メタルシードラモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: MetalSeadramon",
+			"description": "A ticket for attempting the MetalSeadramon Advent stage",
 			"img": "TicketThumbnail/100224",
 			"worldDungeonId": "50023",
 			"freeFlg": "0",
 			"expireTime": null
 		},
 		{
-			"dungeonTicketId": "200225",
-			"name": "ラストティラノモン降臨",
-			"description": "ラストティラノモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100225",
-			"worldDungeonId": "50045",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
 			"dungeonTicketId": "200228",
-			"name": "レイヴモン降臨",
-			"description": "レイヴモンが降臨するステージに挑むためのチケット",
+			"name": "Advent: Ravemon",
+			"description": "A ticket for attempting the Ravemon Advent stage",
 			"img": "TicketThumbnail/100228",
 			"worldDungeonId": "50024",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "200230",
-			"name": "ロゼモン降臨",
-			"description": "ロゼモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100230",
-			"worldDungeonId": "50028",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "200231",
-			"name": "ロトスモン降臨",
-			"description": "ロトスモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100231",
-			"worldDungeonId": "50046",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "200291",
-			"name": "オメガシャウトモン降臨",
-			"description": "オメガシャウトモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100291",
-			"worldDungeonId": "50029",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "200293",
-			"name": "アレスタードラモン降臨",
-			"description": "アレスタードラモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100293",
-			"worldDungeonId": "50030",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "200317",
-			"name": "スレイヤードラモン降臨",
-			"description": "スレイヤードラモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100317",
-			"worldDungeonId": "50040",
-			"freeFlg": "0",
-			"expireTime": null
-		},
-		{
-			"dungeonTicketId": "200320",
-			"name": "ブレイクドラモン降臨",
-			"description": "ブレイクドラモンが降臨するステージに挑むためのチケット",
-			"img": "TicketThumbnail/100320",
-			"worldDungeonId": "50044",
 			"freeFlg": "0",
 			"expireTime": null
 		}

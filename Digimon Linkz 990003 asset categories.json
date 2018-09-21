@@ -2,19 +2,19 @@
 	"assetCategoryM": [
 		{
 			"assetCategoryId": "1",
-			"assetTitle": "デジモン"
+			"assetTitle": "Digimon"
 		},
 		{
 			"assetCategoryId": "2",
-			"assetTitle": "デジストーン"
+			"assetTitle": "DigiStone"
 		},
 		{
 			"assetCategoryId": "3",
-			"assetTitle": "リンクポイント"
+			"assetTitle": "Link Point"
 		},
 		{
 			"assetCategoryId": "4",
-			"assetTitle": "クラスタ"
+			"assetTitle": "Cluster"
 		},
 		{
 			"assetCategoryId": "5",
@@ -22,63 +22,63 @@
 		},
 		{
 			"assetCategoryId": "6",
-			"assetTitle": "アイテム"
+			"assetTitle": "Item"
 		},
 		{
 			"assetCategoryId": "7",
-			"assetTitle": "デジモン所持枠"
+			"assetTitle": "Digimon Storage"
 		},
 		{
 			"assetCategoryId": "8",
-			"assetTitle": "パーティーコスト"
+			"assetTitle": "Party Cost"
 		},
 		{
 			"assetCategoryId": "9",
-			"assetTitle": "フレンド上限数"
+			"assetTitle": "Max Friend #"
 		},
 		{
 			"assetCategoryId": "10",
-			"assetTitle": "スタミナ上限数"
+			"assetTitle": "Max Stamina #"
 		},
 		{
 			"assetCategoryId": "11",
-			"assetTitle": "ガチャチケット"
+			"assetTitle": "Gacha Ticket"
 		},
 		{
 			"assetCategoryId": "12",
-			"assetTitle": "共闘アイテム"
+			"assetTitle": "Shared Item"
 		},
 		{
 			"assetCategoryId": "13",
-			"assetTitle": "肉"
+			"assetTitle": "Meat"
 		},
 		{
 			"assetCategoryId": "14",
-			"assetTitle": "進化素材"
+			"assetTitle": "Digivolution Fuel"
 		},
 		{
 			"assetCategoryId": "15",
-			"assetTitle": "プラグイン"
+			"assetTitle": "Plugin"
 		},
 		{
 			"assetCategoryId": "16",
-			"assetTitle": "施設鍵"
+			"assetTitle": "Facility Key"
 		},
 		{
 			"assetCategoryId": "17",
-			"assetTitle": "チップ"
+			"assetTitle": "Chip"
 		},
 		{
 			"assetCategoryId": "18",
-			"assetTitle": "降臨用チケット"
+			"assetTitle": "Advent Ticket"
 		},
 		{
 			"assetCategoryId": "19",
-			"assetTitle": "称号"
+			"assetTitle": "Title"
 		},
 		{
 			"assetCategoryId": "20",
-			"assetTitle": "ポイント"
+			"assetTitle": "POINT"
 		}
 	]
 }

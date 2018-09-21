@@ -2,79 +2,79 @@
 	"facilityKeyM": [
 		{
 			"facilityKeyId": "1",
-			"facilityKeyName": "倉庫開放鍵"
+			"facilityKeyName": "Warehouse Key"
 		},
 		{
 			"facilityKeyId": "2",
-			"facilityKeyName": "道場開放鍵"
+			"facilityKeyName": "Dojo Key"
 		},
 		{
 			"facilityKeyId": "3",
-			"facilityKeyName": "レストラン開放鍵"
+			"facilityKeyName": "Restaurant Key"
 		},
 		{
 			"facilityKeyId": "4",
-			"facilityKeyName": "冷蔵庫開放鍵"
+			"facilityKeyName": "Refrigerator Key"
 		},
 		{
 			"facilityKeyId": "5",
-			"facilityKeyName": "自動販売機解放鍵"
+			"facilityKeyName": "Vending Machine Key"
 		},
 		{
 			"facilityKeyId": "6",
-			"facilityKeyName": "電話ボックス開放鍵"
+			"facilityKeyName": "Phone Booth Key"
 		},
 		{
 			"facilityKeyId": "7",
-			"facilityKeyName": "壊れた線路A開放鍵"
+			"facilityKeyName": "Broken Track A Key"
 		},
 		{
 			"facilityKeyId": "8",
-			"facilityKeyName": "壊れた線路B開放鍵"
+			"facilityKeyName": "Broken Track B Key"
 		},
 		{
 			"facilityKeyId": "9",
-			"facilityKeyName": "ボロボロの踏切開放鍵"
+			"facilityKeyName": "Run-Down Railroad Crossing Key"
 		},
 		{
 			"facilityKeyId": "10",
-			"facilityKeyName": "古びた電車開放鍵"
+			"facilityKeyName": "Ancient Train Key"
 		},
 		{
 			"facilityKeyId": "11",
-			"facilityKeyName": "チップ工場開放鍵"
+			"facilityKeyName": "Chip Factory Key"
 		},
 		{
 			"facilityKeyId": "12",
-			"facilityKeyName": "「雪だるま」施設ショップ追加"
+			"facilityKeyName": "Snowman Facility Shop Expansion"
 		},
 		{
 			"facilityKeyId": "13",
-			"facilityKeyName": "「クリスマス靴下」施設ショップ追加"
+			"facilityKeyName": "Christmas Stocking Facility Shop Expansion"
 		},
 		{
 			"facilityKeyId": "14",
-			"facilityKeyName": "「ソリ」施設ショップ追加"
+			"facilityKeyName": "Sleigh Facility Shop Expansion"
 		},
 		{
 			"facilityKeyId": "15",
-			"facilityKeyName": "「プレゼントBOX」施設ショップ追加"
+			"facilityKeyName": "Present Box Facility Shop Expansion"
 		},
 		{
 			"facilityKeyId": "16",
-			"facilityKeyName": "「クリスマスケーキ」施設ショップ追加"
+			"facilityKeyName": "Christmas Cake Facility Shop Expansion"
 		},
 		{
 			"facilityKeyId": "17",
-			"facilityKeyName": "「小さいツリー」施設ショップ追加"
+			"facilityKeyName": "Small Tree Facility Shop Expansion"
 		},
 		{
 			"facilityKeyId": "18",
-			"facilityKeyName": "「中くらいのツリー」施設ショップ追加"
+			"facilityKeyName": "Medium Tree Facility Shop Expansion"
 		},
 		{
 			"facilityKeyId": "19",
-			"facilityKeyName": "「大きなツリー」施設ショップ追加"
+			"facilityKeyName": "Large Tree Facility Shop Expansion"
 		}
 	]
 }

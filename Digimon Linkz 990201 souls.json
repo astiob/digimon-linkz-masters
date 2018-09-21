@@ -2,1352 +2,1216 @@
 	"soulM": [
 		{
 			"soulId": "1070167",
-			"soulName": "アルファモンのデータの欠片",
-			"description": "アルファモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Alphamon Data Fragment",
+			"description": "A data fragment required to Digivolve into Alphamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070168",
-			"soulName": "アルフォースブイドラモンのデータの欠片",
-			"description": "アルフォースブイドラモンへの進化の際に必要となるデータの欠片",
+			"soulName": "UlforceVeedramon Data Fragment",
+			"description": "A data fragment required to Digivolve into UlforceVeedramon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070169",
-			"soulName": "イーバモンのデータの欠片",
-			"description": "イーバモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Ebemon Data Fragment",
+			"description": "A data fragment required to Digivolve into Ebemon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070170",
-			"soulName": "インペリアルドラモンDMのデータの欠片",
-			"description": "インペリアルドラモンDMへの進化の際に必要となるデータの欠片",
+			"soulName": "Imperialdramon DM Data Fragment",
+			"description": "A data fragment required to Digivolve into Imperialdramon DM.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070171",
-			"soulName": "インペリアルドラモンFMのデータの欠片",
-			"description": "インペリアルドラモンFMへの進化の際に必要となるデータの欠片",
+			"soulName": "Imperialdramon FM Data Fragment",
+			"description": "A data fragment required to Digivolve into Imperialdramon FM.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070172",
-			"soulName": "ヴァイクモンのデータの欠片",
-			"description": "ヴァイクモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Vikemon Data Fragment",
+			"description": "A data fragment required to Digivolve into Vikemon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070173",
-			"soulName": "ヴェノムヴァンデモンのデータの欠片",
-			"description": "ヴェノムヴァンデモンへの進化の際に必要となるデータの欠片",
+			"soulName": "VenomMyotismon Data Fragment",
+			"description": "A data fragment required to Digivolve into VenomMyotismon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070174",
-			"soulName": "ウォーグレイモンのデータの欠片",
-			"description": "ウォーグレイモンへの進化の際に必要となるデータの欠片",
+			"soulName": "WarGreymon Data Fragment",
+			"description": "A data fragment required to Digivolve into WarGreymon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070175",
-			"soulName": "エグザモンのデータの欠片",
-			"description": "エグザモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Examon Data Fragment",
+			"description": "A data fragment required to Digivolve into Examon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070176",
-			"soulName": "オファニモンのデータの欠片",
-			"description": "オファニモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Ophanimon Data Fragment",
+			"description": "A data fragment required to Digivolve into Ophanimon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070177",
-			"soulName": "ガイオウモンのデータの欠片",
-			"description": "ガイオウモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Gaiomon Data Fragment",
+			"description": "A data fragment required to Digivolve into Gaiomon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070178",
-			"soulName": "カオスデュークモンのデータの欠片",
-			"description": "カオスデュークモンへの進化の際に必要となるデータの欠片",
+			"soulName": "ChaosGallantmon Data Fragment",
+			"description": "A data fragment required to Digivolve into ChaosGallantmon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070179",
-			"soulName": "ガンクゥモンのデータの欠片",
-			"description": "ガンクゥモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Gankoomon Data Fragment",
+			"description": "A data fragment required to Digivolve into Gankoomon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070180",
-			"soulName": "クズハモンのデータの欠片",
-			"description": "クズハモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Kuzuhamon Data Fragment",
+			"description": "A data fragment required to Digivolve into Kuzuhamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070181",
-			"soulName": "グランクワガーモンのデータの欠片",
-			"description": "グランクワガーモンへの進化の際に必要となるデータの欠片",
+			"soulName": "GranKuwagamon Data Fragment",
+			"description": "A data fragment required to Digivolve into GranKuwagamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070182",
-			"soulName": "グランドロコモンのデータの欠片",
-			"description": "グランドロコモンへの進化の際に必要となるデータの欠片",
+			"soulName": "GroundLocomon Data Fragment",
+			"description": "A data fragment required to Digivolve into GroundLocomon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070183",
-			"soulName": "クレニアムモンのデータの欠片",
-			"description": "クレニアムモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Craniamon Data Fragment",
+			"description": "A data fragment required to Digivolve into Craniamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070184",
-			"soulName": "ケルビモン(善)のデータの欠片",
-			"description": "ケルビモン(善)への進化の際に必要となるデータの欠片",
+			"soulName": "Cherubimon (Good) Data Fragment",
+			"description": "A data fragment required to Digivolve into Cherubimon (Good).",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070185",
-			"soulName": "サーベルレオモンのデータの欠片",
-			"description": "サーベルレオモンへの進化の際に必要となるデータの欠片",
+			"soulName": "SaberLeomon Data Fragment",
+			"description": "A data fragment required to Digivolve into SaberLeomon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070186",
-			"soulName": "サクヤモンのデータの欠片",
-			"description": "サクヤモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Sakuyamon Data Fragment",
+			"description": "A data fragment required to Digivolve into Sakuyamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070187",
-			"soulName": "ジエスモンのデータの欠片",
-			"description": "ジエスモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Jesmon Data Fragment",
+			"description": "A data fragment required to Digivolve into Jesmon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070188",
-			"soulName": "シャイングレイモンのデータの欠片",
-			"description": "シャイングレイモンへの進化の際に必要となるデータの欠片",
+			"soulName": "ShineGreymon Data Fragment",
+			"description": "A data fragment required to Digivolve into ShineGreymon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070189",
-			"soulName": "ジャスティモンのデータの欠片",
-			"description": "ジャスティモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Justimon Data Fragment",
+			"description": "A data fragment required to Digivolve into Justimon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070190",
-			"soulName": "スレイプモンのデータの欠片",
-			"description": "スレイプモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Kentaurosmon Data Fragment",
+			"description": "A data fragment required to Digivolve into Kentaurosmon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070191",
-			"soulName": "セラフィモンのデータの欠片",
-			"description": "セラフィモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Seraphimon Data Fragment",
+			"description": "A data fragment required to Digivolve into Seraphimon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070192",
-			"soulName": "セントガルゴモンのデータの欠片",
-			"description": "セントガルゴモンへの進化の際に必要となるデータの欠片",
+			"soulName": "MegaGargomon Data Fragment",
+			"description": "A data fragment required to Digivolve into MegaGargomon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070193",
-			"soulName": "タイガーヴェスパモンのデータの欠片",
-			"description": "タイガーヴェスパモンへの進化の際に必要となるデータの欠片",
+			"soulName": "TigerVespamon Data Fragment",
+			"description": "A data fragment required to Digivolve into TigerVespamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070194",
-			"soulName": "タイタモンのデータの欠片",
-			"description": "タイタモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Titamon Data Fragment",
+			"description": "A data fragment required to Digivolve into Titamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070195",
-			"soulName": "ディアナモンのデータの欠片",
-			"description": "ディアナモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Dianamon Data Fragment",
+			"description": "A data fragment required to Digivolve into Dianamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070196",
-			"soulName": "ディアボロモンのデータの欠片",
-			"description": "ディアボロモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Diaboromon Data Fragment",
+			"description": "A data fragment required to Digivolve into Diaboromon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070197",
-			"soulName": "デーモンのデータの欠片",
-			"description": "デーモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Creepymon Data Fragment",
+			"description": "A data fragment required to Digivolve into Creepymon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070198",
-			"soulName": "デュークモンのデータの欠片",
-			"description": "デュークモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Gallantmon Data Fragment",
+			"description": "A data fragment required to Digivolve into Gallantmon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070199",
-			"soulName": "デュナスモンのデータの欠片",
-			"description": "デュナスモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Dynasmon Data Fragment",
+			"description": "A data fragment required to Digivolve into Dynasmon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070200",
-			"soulName": "ドゥフトモンのデータの欠片",
-			"description": "ドゥフトモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Leopardmon Data Fragment",
+			"description": "A data fragment required to Digivolve into Leopardmon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070201",
-			"soulName": "ハイアンドロモンのデータの欠片",
-			"description": "ハイアンドロモンへの進化の際に必要となるデータの欠片",
+			"soulName": "HiAndromon Data Fragment",
+			"description": "A data fragment required to Digivolve into HiAndromon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070202",
-			"soulName": "バルバモンのデータの欠片",
-			"description": "バルバモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Barbamon Data Fragment",
+			"description": "A data fragment required to Digivolve into Barbamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070203",
-			"soulName": "バンチョーレオモンのデータの欠片",
-			"description": "バンチョーレオモンへの進化の際に必要となるデータの欠片",
+			"soulName": "BanchoLeomon Data Fragment",
+			"description": "A data fragment required to Digivolve into BanchoLeomon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070204",
-			"soulName": "ピエモンのデータの欠片",
-			"description": "ピエモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Piedmon Data Fragment",
+			"description": "A data fragment required to Digivolve into Piedmon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070205",
-			"soulName": "ピノッキモンのデータの欠片",
-			"description": "ピノッキモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Puppetmon Data Fragment",
+			"description": "A data fragment required to Digivolve into Puppetmon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070206",
-			"soulName": "プラチナヌメモンのデータの欠片",
-			"description": "プラチナヌメモンへの進化の際に必要となるデータの欠片",
+			"soulName": "PlatinumNumemon Data Fragment",
+			"description": "A data fragment required to Digivolve into PlatinumNumemon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070207",
-			"soulName": "ブラックウォーグレイモンのデータの欠片",
-			"description": "ブラックウォーグレイモンへの進化の際に必要となるデータの欠片",
+			"soulName": "BlackWarGreymon Data Fragment",
+			"description": "A data fragment required to Digivolve into BlackWarGreymon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070208",
-			"soulName": "プリンスマメモンのデータの欠片",
-			"description": "プリンスマメモンへの進化の際に必要となるデータの欠片",
+			"soulName": "PrinceMamemon Data Fragment",
+			"description": "A data fragment required to Digivolve into PrinceMamemon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070209",
-			"soulName": "プレシオモンのデータの欠片",
-			"description": "プレシオモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Plesiomon Data Fragment",
+			"description": "A data fragment required to Digivolve into Plesiomon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070210",
-			"soulName": "ヘラクルカブテリモンのデータの欠片",
-			"description": "ヘラクルカブテリモンへの進化の際に必要となるデータの欠片",
+			"soulName": "HerculesKabuterimon Data Fragment",
+			"description": "A data fragment required to Digivolve into HerculesKabuterimon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070211",
-			"soulName": "ベルゼブモンのデータの欠片",
-			"description": "ベルゼブモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Beelzemon Data Fragment",
+			"description": "A data fragment required to Digivolve into Beelzemon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070212",
-			"soulName": "ベルフェモンSMのデータの欠片",
-			"description": "ベルフェモンSMへの進化の際に必要となるデータの欠片",
+			"soulName": "Belphemon SM Data Fragment",
+			"description": "A data fragment required to Digivolve into Belphemon SM.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070213",
-			"soulName": "ホウオウモンのデータの欠片",
-			"description": "ホウオウモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Phoenixmon Data Fragment",
+			"description": "A data fragment required to Digivolve into Phoenixmon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070214",
-			"soulName": "ホーリードラモンのデータの欠片",
-			"description": "ホーリードラモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Magnadramon Data Fragment",
+			"description": "A data fragment required to Digivolve into Magnadramon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070215",
-			"soulName": "ボルトモンのデータの欠片",
-			"description": "ボルトモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Boltmon Data Fragment",
+			"description": "A data fragment required to Digivolve into Boltmon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070216",
-			"soulName": "マスティモンのデータの欠片",
-			"description": "マスティモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Mastemon Data Fragment",
+			"description": "A data fragment required to Digivolve into Mastemon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070217",
-			"soulName": "マリンエンジェモンのデータの欠片",
-			"description": "マリンエンジェモンへの進化の際に必要となるデータの欠片",
+			"soulName": "MarineAngemon Data Fragment",
+			"description": "A data fragment required to Digivolve into MarineAngemon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070218",
-			"soulName": "ミネルヴァモンのデータの欠片",
-			"description": "ミネルヴァモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Minervamon Data Fragment",
+			"description": "A data fragment required to Digivolve into Minervamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070219",
-			"soulName": "ミラージュガオガモンのデータの欠片",
-			"description": "ミラージュガオガモンへの進化の際に必要となるデータの欠片",
+			"soulName": "MirageGaogamon Data Fragment",
+			"description": "A data fragment required to Digivolve into MirageGaogamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070220",
-			"soulName": "ムゲンドラモンのデータの欠片",
-			"description": "ムゲンドラモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Machinedramon Data Fragment",
+			"description": "A data fragment required to Digivolve into Machinedramon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070221",
-			"soulName": "メタルエテモンのデータの欠片",
-			"description": "メタルエテモンへの進化の際に必要となるデータの欠片",
+			"soulName": "MetalEtemon Data Fragment",
+			"description": "A data fragment required to Digivolve into MetalEtemon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070222",
-			"soulName": "メタルガルルモンのデータの欠片",
-			"description": "メタルガルルモンへの進化の際に必要となるデータの欠片",
+			"soulName": "MetalGarurumon Data Fragment",
+			"description": "A data fragment required to Digivolve into MetalGarurumon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070223",
-			"soulName": "メタルガルルモン(黒)のデータの欠片",
-			"description": "メタルガルルモン(黒)への進化の際に必要となるデータの欠片",
+			"soulName": "MetalGarurumon (Black) Data Fragment",
+			"description": "A data fragment required to Digivolve into MetalGarurumon (Black).",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070224",
-			"soulName": "メタルシードラモンのデータの欠片",
-			"description": "メタルシードラモンへの進化の際に必要となるデータの欠片",
+			"soulName": "MetalSeadramon Data Fragment",
+			"description": "A data fragment required to Digivolve into MetalSeadramon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070225",
-			"soulName": "ラストティラノモンのデータの欠片",
-			"description": "ラストティラノモンへの進化の際に必要となるデータの欠片",
+			"soulName": "RustTyranomon Data Fragment",
+			"description": "A data fragment required to Digivolve into RustTyranomon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070226",
-			"soulName": "リヴァイアモンのデータの欠片",
-			"description": "リヴァイアモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Leviamon Data Fragment",
+			"description": "A data fragment required to Digivolve into Leviamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070227",
-			"soulName": "リリスモンのデータの欠片",
-			"description": "リリスモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Lilithmon Data Fragment",
+			"description": "A data fragment required to Digivolve into Lilithmon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070228",
-			"soulName": "レイヴモンのデータの欠片",
-			"description": "レイヴモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Ravemon Data Fragment",
+			"description": "A data fragment required to Digivolve into Ravemon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070229",
-			"soulName": "ロードナイトモンのデータの欠片",
-			"description": "ロードナイトモンへの進化の際に必要となるデータの欠片",
+			"soulName": "LordKnightmon Data Fragment",
+			"description": "A data fragment required to Digivolve into LordKnightmon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070230",
-			"soulName": "ロゼモンのデータの欠片",
-			"description": "ロゼモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Rosemon Data Fragment",
+			"description": "A data fragment required to Digivolve into Rosemon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070231",
-			"soulName": "ロトスモンのデータの欠片",
-			"description": "ロトスモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Lotosmon Data Fragment",
+			"description": "A data fragment required to Digivolve into Lotosmon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070232",
-			"soulName": "インペリアルドラモンPMのデータの欠片",
-			"description": "インペリアルドラモンPMへの進化の際に必要となるデータの欠片",
+			"soulName": "Imperialdramon PM Data Fragment",
+			"description": "A data fragment required to Digivolve into Imperialdramon PM.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070233",
-			"soulName": "オメガモンのデータの欠片",
-			"description": "オメガモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Omegamon Data Fragment",
+			"description": "A data fragment required to Digivolve into Omegamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070234",
-			"soulName": "オメガモンズワルトのデータの欠片",
-			"description": "オメガモンズワルトへの進化の際に必要となるデータの欠片",
+			"soulName": "Omegamon Zwart Data Fragment",
+			"description": "A data fragment required to Digivolve into Omegamon Zwart.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070235",
-			"soulName": "ドゥフトモンLMのデータの欠片",
-			"description": "ドゥフトモンLMへの進化の際に必要となるデータの欠片",
+			"soulName": "Leopardmon LM Data Fragment",
+			"description": "A data fragment required to Digivolve into Leopardmon LM.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070236",
-			"soulName": "ベルフェモンRMのデータの欠片",
-			"description": "ベルフェモンRMへの進化の際に必要となるデータの欠片",
+			"soulName": "Belphemon RM Data Fragment",
+			"description": "A data fragment required to Digivolve into Belphemon RM.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070237",
-			"soulName": "ルーチェモンSMのデータの欠片",
-			"description": "ルーチェモンSMへの進化の際に必要となるデータの欠片",
+			"soulName": "Lucemon SM Data Fragment",
+			"description": "A data fragment required to Digivolve into Lucemon SM.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070239",
-			"soulName": "マグナモンのデータの欠片",
-			"description": "マグナモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Magnamon Data Fragment",
+			"description": "A data fragment required to Digivolve into Magnamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070243",
-			"soulName": "メイクラックモンVMのデータの欠片",
-			"description": "メイクラックモンVMへの進化の際に必要となるデータの欠片",
+			"soulName": "Maycrackmon VM Data Fragment",
+			"description": "A data fragment required to Digivolve into Maycrackmon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070283",
-			"soulName": "スサノオモンのデータの欠片",
-			"description": "スサノオモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Susanoomon Data Fragment",
+			"description": "A data fragment required to Digivolve into Susanoomon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070286",
-			"soulName": "オメガモンズワルトDのデータの欠片",
-			"description": "オメガモンズワルトDへの進化の際に必要となるデータの欠片",
+			"soulName": "Omegamon Zwart D Data Fragment",
+			"description": "A data fragment required to Digivolve into Omegamon Zwart D.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070288",
-			"soulName": "オメガモンAlter-Bのデータの欠片",
-			"description": "オメガモンAlter-Bへの進化の際に必要となるデータの欠片",
+			"soulName": "Omegamon Alter-B Data Fragment",
+			"description": "A data fragment required to Digivolve into Omegamon Alter-B.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070289",
-			"soulName": "デュークモンCMのデータの欠片",
-			"description": "デュークモンCMへの進化の際に必要となるデータの欠片",
+			"soulName": "Gallantmon CM Data Fragment",
+			"description": "A data fragment required to Digivolve into Gallantmon CM.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070291",
-			"soulName": "オメガシャウトモンのデータの欠片",
-			"description": "オメガシャウトモンへの進化の際に必要となるデータの欠片",
-			"soulGroup": "1",
-			"rare": "5",
-			"priority": "1"
-		},
-		{
-			"soulId": "1070293",
-			"soulName": "アレスタードラモンのデータの欠片",
-			"description": "アレスタードラモンへの進化の際に必要となるデータの欠片",
+			"soulName": "OmniShoutmon Data Fragment",
+			"description": "A data fragment required to Digivolve into OmniShoutmon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070303",
-			"soulName": "シャイングレイモンBMのデータの欠片",
-			"description": "シャイングレイモンBMへの進化の際に必要となるデータの欠片",
+			"soulName": "ShineGreymon BM Data Fragment",
+			"description": "A data fragment required to Digivolve into ShineGreymon BM.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070304",
-			"soulName": "ミラージュガオガモンBMのデータの欠片",
-			"description": "ミラージュガオガモンBMへの進化の際に必要となるデータの欠片",
+			"soulName": "MirageGaogamon BM Data Fragment",
+			"description": "A data fragment required to Digivolve into MirageGaogamon BM.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070305",
-			"soulName": "レイヴモンBMのデータの欠片",
-			"description": "レイヴモンBMへの進化の際に必要となるデータの欠片",
+			"soulName": "Ravemon BM Data Fragment",
+			"description": "A data fragment required to Digivolve into Ravemon BM.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070306",
-			"soulName": "ロゼモンBMのデータの欠片",
-			"description": "ロゼモンBMへの進化の際に必要となるデータの欠片",
+			"soulName": "Rosemon BM Data Fragment",
+			"description": "A data fragment required to Digivolve into Rosemon BM.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070311",
-			"soulName": "キメラモンのデータの欠片",
-			"description": "キメラモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Kimeramon Data Fragment",
+			"description": "A data fragment required to Digivolve into Kimeramon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070312",
-			"soulName": "ミレニアモンのデータの欠片",
-			"description": "ミレニアモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Millenniummon Data Fragment",
+			"description": "A data fragment required to Digivolve into Millenniummon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070313",
-			"soulName": "カオスドラモンのデータの欠片",
-			"description": "カオスドラモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Chaosdramon Data Fragment",
+			"description": "A data fragment required to Digivolve into Chaosdramon",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070317",
-			"soulName": "スレイヤードラモンのデータの欠片",
-			"description": "スレイヤードラモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Slayerdramon Data Fragment",
+			"description": "A data fragment required to Digivolve into Slayerdramon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070320",
-			"soulName": "ブレイクドラモンのデータの欠片",
-			"description": "ブレイクドラモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Brakedramon Data Fragment",
+			"description": "A data fragment required to Digivolve into Brakedramon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070326",
-			"soulName": "デュランダモンのデータの欠片",
-			"description": "デュランダモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Durandamon Data Fragment",
+			"description": "A data fragment required to Digivolve into Durandamon",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070327",
-			"soulName": "ウォーグレイモンX抗体のデータの欠片",
-			"description": "ウォーグレイモンX抗体への進化の際に必要となるデータの欠片",
+			"soulName": "WarGreymon X Data Fragment",
+			"description": "A data fragment required to Digivolve into WarGreymon X.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070328",
-			"soulName": "メタルガルルモンX抗体のデータの欠片",
-			"description": "メタルガルルモンX抗体への進化の際に必要となるデータの欠片",
+			"soulName": "MetalGarurumon X Data Fragment",
+			"description": "A data fragment required to Digivolve into MetalGarurumon X.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070329",
-			"soulName": "シャイングレイモンRMのデータの欠片",
-			"description": "シャイングレイモンRMへの進化の際に必要となるデータの欠片",
+			"soulName": "ShineGreymon RM Data Fragment",
+			"description": "A data fragment required to Digivolve into ShineGreymon RM.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070330",
-			"soulName": "ラグエルモンのデータの欠片",
-			"description": "ラグエルモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Raguelmon Data Fragment",
+			"description": "A data fragment required to Digivolve into Raguelmon",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070331",
-			"soulName": "デュークモンX抗体のデータの欠片",
-			"description": "デュークモンX抗体への進化の際に必要となるデータの欠片",
+			"soulName": "Gallantmon X Anti-body Data Fragment",
+			"description": "A data fragment required to Digivolve into Gallantmon X Anti-body.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070332",
-			"soulName": "キングエテモンのデータの欠片",
-			"description": "キングエテモンへの進化の際に必要となるデータの欠片",
+			"soulName": "KingEtemon Data Fragment",
+			"description": "A data fragment required to Digivolve into KingEtemon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070333",
-			"soulName": "エンシェントグレイモンのデータの欠片",
-			"description": "エンシェントグレイモンへの進化の際に必要となるデータの欠片",
+			"soulName": "AncientGreymon Data Fragment",
+			"description": "A data fragment required to Digivolve into AncientGreymon",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070334",
-			"soulName": "BウォーグレイモンXのデータの欠片",
-			"description": "ブラックウォーグレイモンX抗体への進化の際に必要となるデータの欠片",
-			"soulGroup": "1",
-			"rare": "5",
-			"priority": "1"
-		},
-		{
-			"soulId": "1070335",
-			"soulName": "オメガモンX抗体のデータの欠片",
-			"description": "オメガモンX抗体への進化の際に必要となるデータの欠片",
+			"soulName": "B WarGreymon X Data Fragment",
+			"description": "A data fragment required to Digivolve into B WarGreymon X",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070336",
-			"soulName": "マグナモンX抗体のデータの欠片",
-			"description": "マグナモンX抗体への進化の際に必要となるデータの欠片",
+			"soulName": "Magnamon X Anti-body Data Fragment",
+			"description": "A data fragment required to Digivolve into MagnamonX Anti-body .",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070337",
-			"soulName": "オファニモンFMのデータの欠片",
-			"description": "オファニモンFMへの進化の際に必要となるデータの欠片",
+			"soulName": "Ophanimon FM Data Fragment",
+			"description": "A data fragment required to Digivolve into Ophanimon FM.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070338",
-			"soulName": "アルフォースVドラモンXのデータの欠片",
-			"description": "アルフォースブイドラモンX抗体への進化の際に必要となるデータの欠片",
+			"soulName": "UlforceVeedramon X Data Fragment",
+			"description": "A data fragment required to Digivolve into UlforceVeedramon X.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070339",
-			"soulName": "オメガモンMMのデータの欠片",
-			"description": "オメガモンMMへの進化の際に必要となるデータの欠片",
+			"soulName": "Omegamon MM Data Fragment",
+			"description": "A data fragment required to Digivolve into Omegamon MM.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070340",
-			"soulName": "アーマゲモンのデータの欠片",
-			"description": "アーマゲモンへの進化の際に必要となるデータの欠片",
-			"soulGroup": "1",
-			"rare": "5",
-			"priority": "1"
-		},
-		{
-			"soulId": "1070341",
-			"soulName": "デュナスモンX抗体のデータの欠片",
-			"description": "デュナスモンX抗体への進化の際に必要となるデータの欠片",
+			"soulName": "Armageddemon Data Fragment",
+			"description": "A data fragment required to Digivolve into Armageddemon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070342",
-			"soulName": "エンシェントガルルモンのデータの欠片",
-			"description": "エンシェントガルルモンへの進化の際に必要となるデータの欠片",
-			"soulGroup": "1",
-			"rare": "5",
-			"priority": "1"
-		},
-		{
-			"soulId": "1070343",
-			"soulName": "ベルゼブモンX抗体のデータの欠片",
-			"description": "ベルゼブモンX抗体への進化の際に必要となるデータの欠片",
+			"soulName": "AncientGarurumon Data Fragment",
+			"description": "A data fragment required to Digivolve into AncientGarurumon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070344",
-			"soulName": "ブリッツグレイモンのデータの欠片",
-			"description": "ブリッツグレイモンへの進化の際に必要となるデータの欠片",
+			"soulName": "BlitzGreymon Data Fragment",
+			"description": "A data fragment required to Digivolve into BlitzGreymon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070345",
-			"soulName": "クーレスガルルモンのデータの欠片",
-			"description": "クーレスガルルモンへの進化の際に必要となるデータの欠片",
-			"soulGroup": "1",
-			"rare": "5",
-			"priority": "1"
-		},
-		{
-			"soulId": "1070346",
-			"soulName": "オメガモンAlter-Sのデータの欠片",
-			"description": "オメガモンAlter-Sへの進化の際に必要となるデータの欠片",
-			"soulGroup": "1",
-			"rare": "5",
-			"priority": "1"
-		},
-		{
-			"soulId": "1070347",
-			"soulName": "ドゥフトモンX抗体のデータの欠片",
-			"description": "ドゥフトモンX抗体への進化の際に必要となるデータの欠片",
+			"soulName": "CresGarurumon Data Fragment",
+			"description": "A data fragment required to Digivolve into CresGarurumon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076006",
-			"soulName": "シャイングレイモンのデータの欠片",
-			"description": "シャイングレイモンへの進化の際に必要となるデータの欠片",
+			"soulName": "ShineGreymon Data Fragment",
+			"description": "A data fragment required to Digivolve into ShineGreymon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076012",
-			"soulName": "ヘラクルカブテリモンのデータの欠片",
-			"description": "ヘラクルカブテリモンへの進化の際に必要となるデータの欠片",
+			"soulName": "HerculesKabuterimon Data Fragment",
+			"description": "A data fragment required to Digivolve into HerculesKabuterimon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076018",
-			"soulName": "ガイオウモンのデータの欠片",
-			"description": "ガイオウモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Gaiomon Data Fragment",
+			"description": "A data fragment required to Digivolve into Gaiomon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076024",
-			"soulName": "サクヤモンのデータの欠片",
-			"description": "サクヤモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Sakuyamon Data Fragment",
+			"description": "A data fragment required to Digivolve into Sakuyamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076030",
-			"soulName": "プレシオモンのデータの欠片",
-			"description": "プレシオモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Plesiomon Data Fragment",
+			"description": "A data fragment required to Digivolve into Plesiomon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076036",
-			"soulName": "リヴァイアモンのデータの欠片",
-			"description": "リヴァイアモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Leviamon Data Fragment",
+			"description": "A data fragment required to Digivolve into Leviamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076042",
-			"soulName": "ディアナモンのデータの欠片",
-			"description": "ディアナモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Dianamon Data Fragment",
+			"description": "A data fragment required to Digivolve into Dianamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076048",
-			"soulName": "ベルゼブモンのデータの欠片",
-			"description": "ベルゼブモンへの進化の際に必要となるデータの欠片",
+			"soulName": "Beelzemon Data Fragment",
+			"description": "A data fragment required to Digivolve into Beelzemon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076054",
-			"soulName": "バルバモンのデータの欠片",
-			"description": "バルバモンへの進化の際に必要となるデータの欠片",
-			"soulGroup": "1",
-			"rare": "5",
-			"priority": "1"
-		},
-		{
-			"soulId": "1076060",
-			"soulName": "デーモンのデータの欠片",
-			"description": "デーモンへの進化の際に必要となるデータの欠片",
-			"soulGroup": "1",
-			"rare": "5",
-			"priority": "1"
-		},
-		{
-			"soulId": "1076066",
-			"soulName": "リリスモンのデータの欠片",
-			"description": "リリスモンへの進化の際に必要となるデータの欠片",
-			"soulGroup": "1",
-			"rare": "5",
-			"priority": "1"
-		},
-		{
-			"soulId": "1076072",
-			"soulName": "ベルフェモンSMのデータの欠片",
-			"description": "ベルフェモンSMへの進化の際に必要となるデータの欠片",
-			"soulGroup": "1",
-			"rare": "5",
-			"priority": "1"
-		},
-		{
-			"soulId": "1076078",
-			"soulName": "ルーチェモンSMのデータの欠片",
-			"description": "ルーチェモンSMへの進化の際に必要となるデータの欠片",
+			"soulName": "Barbamon Data Fragment",
+			"description": "A data fragment required to Digivolve into Barbamon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "2000001",
-			"soulName": "無のプラグインver1.0",
-			"description": "「無」属性のわずかな力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Null Plugin ver1.0",
+			"description": "A program encoded with a hint of Null energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2000002",
-			"soulName": "無のプラグインver2.0",
-			"description": "「無」属性の力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Null Plugin ver2.0",
+			"description": "A program encoded with Null energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2000003",
-			"soulName": "無のプラグインver3.0",
-			"description": "「無」属性の強い力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Null Plugin ver3.0",
+			"description": "A program encoded with powerful Null energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2000004",
-			"soulName": "無のプラグインver4.0",
-			"description": "「無」属性の強大な力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Null Plugin ver4.0",
+			"description": "A program encoded with incredible Null energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2010001",
-			"soulName": "火のプラグインver1.0",
-			"description": "「火」属性のわずかな力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Fire Plugin ver1.0",
+			"description": "A program encoded with a hint of Fire energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2010002",
-			"soulName": "火のプラグインver2.0",
-			"description": "「火」属性の力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Fire Plugin ver2.0",
+			"description": "A program encoded with Fire energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2010003",
-			"soulName": "火のプラグインver3.0",
-			"description": "「火」属性の強い力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Fire Plugin ver3.0",
+			"description": "A program encoded with powerful Fire energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2010004",
-			"soulName": "火のプラグインver4.0",
-			"description": "「火」属性の強大な力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Fire Plugin ver4.0",
+			"description": "A program encoded with incredible Fire energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2020001",
-			"soulName": "水のプラグインver1.0",
-			"description": "「水」属性のわずかな力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Water Plugin ver1.0",
+			"description": "A program encoded with a hint of Water energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2020002",
-			"soulName": "水のプラグインver2.0",
-			"description": "「水」属性の力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Water Plugin ver2.0",
+			"description": "A program encoded with Water energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2020003",
-			"soulName": "水のプラグインver3.0",
-			"description": "「水」属性の強い力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Water Plugin ver3.0",
+			"description": "A program encoded with powerful Water energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2020004",
-			"soulName": "水のプラグインver4.0",
-			"description": "「水」属性の強大な力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Water Plugin ver4.0",
+			"description": "A program encoded with incredible Water energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2030001",
-			"soulName": "雷のプラグインver1.0",
-			"description": "「雷」属性のわずかな力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Thunder Plugin ver1.0",
+			"description": "A program encoded with a hint of Thunder energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2030002",
-			"soulName": "雷のプラグインver2.0",
-			"description": "「雷」属性の力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Thunder Plugin ver2.0",
+			"description": "A program encoded with Thunder energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2030003",
-			"soulName": "雷のプラグインver3.0",
-			"description": "「雷」属性の強い力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Thunder Plugin ver3.0",
+			"description": "A program encoded with powerful Thunder energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2030004",
-			"soulName": "雷のプラグインver4.0",
-			"description": "「雷」属性の強大な力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Thunder Plugin ver4.0",
+			"description": "A program encoded with incredible Thunder energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2040001",
-			"soulName": "自然のプラグインver1.0",
-			"description": "「自然」属性のわずかな力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Nature Plugin ver1.0",
+			"description": "A program encoded with a hint of Nature energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2040002",
-			"soulName": "自然のプラグインver2.0",
-			"description": "「自然」属性の力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Nature Plugin ver2.0",
+			"description": "A program encoded with Nature energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2040003",
-			"soulName": "自然のプラグインver3.0",
-			"description": "「自然」属性の強い力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Nature Plugin ver3.0",
+			"description": "A program encoded with powerful Nature energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2040004",
-			"soulName": "自然のプラグインver4.0",
-			"description": "「自然」属性の強大な力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Nature Plugin ver4.0",
+			"description": "A program encoded with incredible Nature energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2050001",
-			"soulName": "光のプラグインver1.0",
-			"description": "「光」属性のわずかな力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Light Plugin ver1.0",
+			"description": "A program encoded with a hint of Light energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2050002",
-			"soulName": "光のプラグインver2.0",
-			"description": "「光」属性の力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Light Plugin ver2.0",
+			"description": "A program encoded with Light energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2050003",
-			"soulName": "光のプラグインver3.0",
-			"description": "「光」属性の強い力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Light Plugin ver3.0",
+			"description": "A program encoded with powerful Light energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2050004",
-			"soulName": "光のプラグインver4.0",
-			"description": "「光」属性の強大な力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Light Plugin ver4.0",
+			"description": "A program encoded with incredible Light energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2060001",
-			"soulName": "闇のプラグインver1.0",
-			"description": "「闇」属性のわずかな力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Darkness Plugin ver1.0",
+			"description": "A program encoded with a hint of Darkness energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2060002",
-			"soulName": "闇のプラグインver2.0",
-			"description": "「闇」属性の力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Darkness Plugin ver2.0",
+			"description": "A program encoded with Darkness energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2060003",
-			"soulName": "闇のプラグインver3.0",
-			"description": "「闇」属性の強い力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Darkness Plugin ver3.0",
+			"description": "A program encoded with powerful Darkness energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2060004",
-			"soulName": "闇のプラグインver4.0",
-			"description": "「闇」属性の強大な力が組み込まれたプログラムで進化時に必要。",
+			"soulName": "Darkness Plugin ver4.0",
+			"description": "A program encoded with incredible Darkness energy, used for Digivolution.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "3000001",
-			"soulName": "コアプラグインver1.0",
-			"description": "特定デジモンを進化する際に必要となるプログラム",
+			"soulName": "Core Plugin ver1.0",
+			"description": "A program required when Digivolving Digimon in the Volcanicdramon line.",
 			"soulGroup": "2",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "3000002",
-			"soulName": "コアプラグインver2.0",
-			"description": "特定デジモンを進化する際に必要となるプログラム",
+			"soulName": "Core Plugin ver2.0",
+			"description": "A program required when Digivolving Digimon in the Volcanicdramon line.",
 			"soulGroup": "2",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "3000003",
-			"soulName": "コアプラグインver3.0",
-			"description": "特定デジモンを進化する際に必要となるプログラム",
+			"soulName": "Core Plugin ver3.0",
+			"description": "A program required when Digivolving Digimon in the Volcanicdramon line.",
 			"soulGroup": "2",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000001",
-			"soulName": "無のアップデータ",
-			"description": "幻生系のデジモンをバージョンアップする為に必要となるプログラム",
-			"soulGroup": "3",
-			"rare": "1",
-			"priority": "1"
-		},
-		{
-			"soulId": "4000002",
-			"soulName": "火のアップデータ",
-			"description": "陽炎系のデジモンをバージョンアップする為に必要となるプログラム",
+			"soulName": "Null Upgrade Data",
+			"description": "A program required to Version Upgrade a Mirage Digimon.",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000003",
-			"soulName": "水のアップデータ",
-			"description": "氷河系のデジモンをバージョンアップする為に必要となるプログラム",
-			"soulGroup": "3",
-			"rare": "1",
-			"priority": "1"
-		},
-		{
-			"soulId": "4000004",
-			"soulName": "雷のアップデータ",
-			"description": "電磁系のデジモンをバージョンアップする為に必要となるプログラム",
+			"soulName": "Water Upgrade Data",
+			"description": "A program required to Version Upgrade a Glacier Digimon.",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000005",
-			"soulName": "自然のアップデータ",
-			"description": "大地系のデジモンをバージョンアップする為に必要となるプログラム",
+			"soulName": "Nature Upgrade Data",
+			"description": "A program required to Version Upgrade an Earth Digimon.",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000006",
-			"soulName": "光のアップデータ",
-			"description": "光芒系のデジモンをバージョンアップする為に必要となるプログラム",
+			"soulName": "Light Upgrade Data",
+			"description": "A program required to Version Upgrade a Bright Digimon.",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
-		},
-		{
-			"soulId": "4000007",
-			"soulName": "闇のアップデータ",
-			"description": "深淵系のデジモンをバージョンアップする為に必要となるプログラム",
-			"soulGroup": "3",
-			"rare": "1",
-			"priority": "1"
-		},
-		{
-			"soulId": "4000008",
-			"soulName": "全のアップデータ",
-			"description": "あらゆる系統のデジモンをバージョンアップする為に必要となるプログラム",
-			"soulGroup": "3",
-			"rare": "1",
-			"priority": "2"
 		},
 		{
 			"soulId": "5000001",
-			"soulName": "無のリファクター",
-			"description": "バージョンアップした幻生系のデジモンを状態異常耐性変化する際に必要となるカード媒体",
-			"soulGroup": "4",
-			"rare": "1",
-			"priority": "1"
-		},
-		{
-			"soulId": "5000002",
-			"soulName": "火のリファクター",
-			"description": "バージョンアップした陽炎系のデジモンを状態異常耐性変化する際に必要となるカード媒体",
+			"soulName": "Null Re-factor",
+			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Mirage Tribe Digimon.",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000003",
-			"soulName": "水のリファクター",
-			"description": "バージョンアップした氷河系のデジモンを状態異常耐性変化する際に必要となるカード媒体",
-			"soulGroup": "4",
-			"rare": "1",
-			"priority": "1"
-		},
-		{
-			"soulId": "5000004",
-			"soulName": "雷のリファクター",
-			"description": "バージョンアップした電磁系のデジモンを状態異常耐性変化する際に必要となるカード媒体",
+			"soulName": "Water Re-factor",
+			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Glacier Tribe Digimon.",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000005",
-			"soulName": "自然のリファクター",
-			"description": "バージョンアップした大地系のデジモンを状態異常耐性変化する際に必要となるカード媒体",
+			"soulName": "Nature Re-factor",
+			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Earth Tribe Digimon.",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000006",
-			"soulName": "光のリファクター",
-			"description": "バージョンアップした光芒系のデジモンを状態異常耐性変化する際に必要となるカード媒体",
-			"soulGroup": "4",
-			"rare": "1",
-			"priority": "1"
-		},
-		{
-			"soulId": "5000007",
-			"soulName": "闇のリファクター",
-			"description": "バージョンアップした深淵系のデジモンを状態異常耐性変化する際に必要となるカード媒体",
+			"soulName": "Light Re-factor",
+			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Bright Tribe Digimon.",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"

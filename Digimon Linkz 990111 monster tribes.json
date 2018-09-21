@@ -2,31 +2,31 @@
 	"monsterTribeM": [
 		{
 			"monsterTribeId": "1",
-			"monsterTribeName": "幻生系"
+			"monsterTribeName": "Mirage"
 		},
 		{
 			"monsterTribeId": "2",
-			"monsterTribeName": "陽炎系"
+			"monsterTribeName": "Blazing"
 		},
 		{
 			"monsterTribeId": "3",
-			"monsterTribeName": "氷河系"
+			"monsterTribeName": "Glacier"
 		},
 		{
 			"monsterTribeId": "4",
-			"monsterTribeName": "電磁系"
+			"monsterTribeName": "Electric"
 		},
 		{
 			"monsterTribeId": "5",
-			"monsterTribeName": "大地系"
+			"monsterTribeName": "Earth"
 		},
 		{
 			"monsterTribeId": "6",
-			"monsterTribeName": "光芒系"
+			"monsterTribeName": "Bright"
 		},
 		{
 			"monsterTribeId": "7",
-			"monsterTribeName": "深淵系"
+			"monsterTribeName": "Abyss"
 		}
 	]
 }

@@ -2,1112 +2,857 @@
 	"itemM": [
 		{
 			"itemId": "1",
-			"name": "ナゾの断片データ",
-			"description": "ナゾに包まれた不思議なデータ。交換所で様々なものと交換可能。",
+			"name": "Mystery Data Byte",
+			"description": "Strange data shrouded in mystery. Can be exchanged for various items.",
 			"category": "1",
 			"img": [
+				"EventResource/Thumbnail/item_thumbnail_1",
 				"EventResource/Item/item_1"
 			],
-			"unitName": "個",
-			"upValue": "0",
+			"unitName": "pcs",
+			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "2",
 			"name": "BP",
-			"description": "コロシアムで獲得できるポイント。交換所で様々なものと交換可能。",
+			"description": "Points that can be earned in the Colosseum. Can be exchanged for various items.",
 			"category": "1",
 			"img": [
+				"EventResource/Thumbnail/item_thumbnail_2",
 				"EventResource/Item/item_2"
 			],
-			"unitName": "個",
+			"unitName": "pcs",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "3",
-			"name": "意志の断片データ",
-			"description": "意志のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"name": "Willful Data Byte",
+			"description": "A piece of fragmented data with a strong sense of purpose. Can be exchanged for various items.",
 			"category": "1",
 			"img": [
+				"EventResource/Thumbnail/item_thumbnail_3",
 				"EventResource/Item/item_3"
 			],
-			"unitName": "個",
+			"unitName": "pcs",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "4",
-			"name": "αの断片データ",
-			"description": "ナゾに包まれたαデータが断片化したもの。交換所で様々なものと交換可能。",
+			"name": "Alpha Data Byte",
+			"description": "A piece of fragmented Alpha data shrouded in an enigma. Can be exchanged for various items.",
 			"category": "1",
 			"img": [
+				"EventResource/Thumbnail/item_thumbnail_4",
 				"EventResource/Item/item_4"
 			],
-			"unitName": "個",
+			"unitName": "pcs",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "5",
-			"name": "憤怒の断片データ",
-			"description": "怒りの感情のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"name": "Raging Data Byte",
+			"description": "A piece of fragmented data full of angry emotion. Can be exchanged for various items.",
 			"category": "1",
 			"img": [
+				"EventResource/Item/item_7",
 				"EventResource/Item/item_7"
 			],
-			"unitName": "個",
+			"unitName": "pcs",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6",
-			"name": "拡張パッチ",
-			"description": "スロットを拡張するパッチが含まれたアイテム。使うことでスロットを拡張することが出来る。",
+			"name": "Expansion Patch",
+			"description": "An item containing a patch that expands Chip slots. You can use it to expand slots.",
 			"category": "1",
 			"img": [
 				"ChipThumbnail/extra_slot_01"
 			],
-			"unitName": "個",
+			"unitName": "pcs",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "7",
-			"name": "取外パッチ",
-			"description": "チップを取り外すパッチが含まれたアイテム。使うことで装備したチップを取り外すことが出来る。",
+			"name": "Removal Patch",
+			"description": "An item containing a patch that removes Chips. You can use it to remove equipped Chips.",
 			"category": "1",
 			"img": [
 				"ChipThumbnail/eject_slot_01"
 			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "8",
-			"name": "キャンディー",
-			"description": "trick or treat！お菓子を渡しに行こう",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_8",
-				"EventResource/Item/item_8"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "9",
-			"name": "脈動する漆黒の断片データ",
-			"description": "漆黒のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_9",
-				"EventResource/Item/item_9"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "10",
-			"name": "プレゼント箱",
-			"description": "ディアボロモンが持ち去ったプレゼント。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_10",
-				"EventResource/Item/item_10"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "11",
-			"name": "爆炎の断片データ",
-			"description": "爆炎のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_11",
-				"EventResource/Item/item_11"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "12",
-			"name": "祝賀する紅白の断片データ",
-			"description": "紅白のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_12",
-				"EventResource/Item/item_12"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "13",
-			"name": "黒キ聖騎士の断片データ",
-			"description": "黒キ聖騎士のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_13",
-				"EventResource/Item/item_13"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "14",
-			"name": "統率の断片データ",
-			"description": "統率のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_14",
-				"EventResource/Item/item_14"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "15",
-			"name": "暴走の断片データ",
-			"description": "暴走のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_15",
-				"EventResource/Item/item_15"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "16",
-			"name": "バレンタインチョコ",
-			"description": "義理か本命か不明だがデジモンが隠し持っていたチョコ。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_16",
-				"EventResource/Item/item_16"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "17",
-			"name": "隠士の断片データ",
-			"description": "隠士のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_17",
-				"EventResource/Item/item_17"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "18",
-			"name": "修練の断片データ",
-			"description": "修練のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_18",
-				"EventResource/Item/item_18"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "19",
-			"name": "策士と戦士の断片データ",
-			"description": "策士と戦士のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_19",
-				"EventResource/Item/item_19"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "20",
-			"name": "白銀の断片データ・初",
-			"description": "白銀のデータ・初が断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_20",
-				"EventResource/Item/item_20"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "21",
-			"name": "白銀の断片データ・中",
-			"description": "白銀のデータ・中が断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_21",
-				"EventResource/Item/item_21"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "22",
-			"name": "白銀の断片データ・上",
-			"description": "白銀のデータ・上が断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_22",
-				"EventResource/Item/item_22"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "23",
-			"name": "白銀の断片データ・超",
-			"description": "白銀のデータ・超が断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_23",
-				"EventResource/Item/item_23"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "24",
-			"name": "薔薇と飛竜の断片データ",
-			"description": "薔薇と飛竜のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_24",
-				"EventResource/Item/item_24"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "25",
-			"name": "奇跡の断片データ",
-			"description": "奇跡のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_25",
-				"EventResource/Item/item_25"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "26",
-			"name": "合成魔獣の断片データ",
-			"description": "合成魔獣のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_26",
-				"EventResource/Item/item_26"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "27",
-			"name": "神槍の断片データ",
-			"description": "神槍のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_27",
-				"EventResource/Item/item_27"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "28",
-			"name": "破壊と創造の断片データ",
-			"description": "破壊と創造のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_28",
-				"EventResource/Item/item_28"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "29",
-			"name": "壊れたチップの断片データ",
-			"description": "壊れたチップのデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_29",
-				"EventResource/Item/item_29"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "30",
-			"name": "刃竜の断片データ",
-			"description": "刃竜のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_30",
-				"EventResource/Item/item_30"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "31",
-			"name": "機竜の断片データ",
-			"description": "機竜のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_31",
-				"EventResource/Item/item_31"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "32",
-			"name": "忠誠の断片データ",
-			"description": "忠誠のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_32",
-				"EventResource/Item/item_32"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "33",
-			"name": "高度化の断片データ",
-			"description": "高度化のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_33",
-				"EventResource/Item/item_33"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "34",
-			"name": "竜帝の断片データ",
-			"description": "竜帝のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_34",
-				"EventResource/Item/item_34"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "35",
-			"name": "銀紫の断片データ",
-			"description": "白銀と黒紫のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_35",
-				"EventResource/Item/item_35"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "36",
-			"name": "隠士の抗体断片データ",
-			"description": "隠士の抗体データが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_36",
-				"EventResource/Item/item_36"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "37",
-			"name": "光輝と闇黒の断片データ",
-			"description": "光輝と闇黒のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_37",
-				"EventResource/Item/item_37"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "38",
-			"name": "双月の断片データ",
-			"description": "双月のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_38",
-				"EventResource/Item/item_38"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "39",
-			"name": "神速の断片データ",
-			"description": "神速のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_39",
-				"EventResource/Item/item_39"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "40",
-			"name": "高度化の断片データ・白",
-			"description": "高度化のデータが白く断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_40",
-				"EventResource/Item/item_40"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "41",
-			"name": "怠惰の断片データ",
-			"description": "怠惰のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_41",
-				"EventResource/Item/item_41"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "42",
-			"name": "深紅の断片データ",
-			"description": "深紅のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_42",
-				"EventResource/Item/item_42"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "43",
-			"name": "飲み込む闇の断片データ",
-			"description": "飲み込む闇のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_43",
-				"EventResource/Item/item_43"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "44",
-			"name": "薔薇の断片データ･赤",
-			"description": "赤薔薇のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_44",
-				"EventResource/Item/item_44"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "45",
-			"name": "薔薇の断片データ･白",
-			"description": "白薔薇のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_45",
-				"EventResource/Item/item_45"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "46",
-			"name": "道化師の断片データ",
-			"description": "道化師のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_46",
-				"EventResource/Item/item_46"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "47",
-			"name": "知性と野性の断片データ",
-			"description": "知性と野性のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_47",
-				"EventResource/Item/item_47"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "48",
-			"name": "火焔の断片データ",
-			"description": "火焔のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_48",
-				"EventResource/Item/item_48"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "49",
-			"name": "飛竜衝天の断片データ",
-			"description": "飛竜衝天のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_49",
-				"EventResource/Item/item_49"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "50",
-			"name": "光輝と髑髏の断片データ",
-			"description": "光輝と髑髏のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_50",
-				"EventResource/Item/item_50"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "51",
-			"name": "XXの断片データ",
-			"description": "XXのデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_51",
-				"EventResource/Item/item_51"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "52",
-			"name": "クリスマスBOX",
-			"description": "クリスマスキャンペーンの贈り物。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_52",
-				"EventResource/Item/item_52"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "53",
-			"name": "暁闇と曙光の断片データ",
-			"description": "暁闇と曙光のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_53",
-				"EventResource/Item/item_53"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "54",
-			"name": "神獣の断片データ",
-			"description": "神獣のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_54",
-				"EventResource/Item/item_54"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "55",
-			"name": "崩壊する秩序の断片データ",
-			"description": "崩壊する秩序のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_55",
-				"EventResource/Item/item_55"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "56",
-			"name": "EXECUTIONの断片データ",
-			"description": "EXECUTIONのデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_56",
-				"EventResource/Item/item_56"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "57",
-			"name": "紫翼幻影の断片データ",
-			"description": "紫翼幻影のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_57",
-				"EventResource/Item/item_57"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "58",
-			"name": "系譜の断片データ",
-			"description": "系譜のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_58",
-				"EventResource/Item/item_58"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "59",
-			"name": "華炎乱舞の断片データ",
-			"description": "華炎乱舞のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_59",
-				"EventResource/Item/item_59"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "62",
-			"name": "春嵐の断片データ",
-			"description": "春嵐のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_62",
-				"EventResource/Item/item_62"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "63",
-			"name": "夜桜の断片データ",
-			"description": "夜桜のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_63",
-				"EventResource/Item/item_63"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "64",
-			"name": "勇気 x 友情の断片データ",
-			"description": "勇気 x 友情のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_64",
-				"EventResource/Item/item_64"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "65",
-			"name": "慈悲の断片データ",
-			"description": "慈悲のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_65",
-				"EventResource/Item/item_65"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "66",
-			"name": "破滅の断片データ",
-			"description": "破滅のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_66",
-				"EventResource/Item/item_66"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "67",
-			"name": "焔の断片データ",
-			"description": "焔のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_67",
-				"EventResource/Item/item_67"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "68",
-			"name": "衝天の断片データ",
-			"description": "衝天のデータが断片化したもの。断片キャプチャで使用可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_68",
-				"EventResource/Item/item_68"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "69",
-			"name": "伝承の断片データ",
-			"description": "伝承のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_69",
-				"EventResource/Item/item_69"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "70",
-			"name": "魔神の断片データ",
-			"description": "魔神のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_70",
-				"EventResource/Item/item_70"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "71",
-			"name": "双舞の断片データ",
-			"description": "双舞のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_71",
-				"EventResource/Item/item_71"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "72",
-			"name": "雷轟の断片データ",
-			"description": "雷轟のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_72",
-				"EventResource/Item/item_72"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "73",
-			"name": "雷竜の断片データ",
-			"description": "雷竜のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_73",
-				"EventResource/Item/item_73"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "74",
-			"name": "月狼の断片データ",
-			"description": "月狼のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_74",
-				"EventResource/Item/item_74"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "75",
-			"name": "釿赫の断片ﾃﾞｰﾀ",
-			"description": "釿赫のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_75",
-				"EventResource/Item/item_75"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "76",
-			"name": "極夏の断片データ",
-			"description": "極夏のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_76",
-				"EventResource/Item/item_76"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "77",
-			"name": "蒼炎の断片データ",
-			"description": "蒼炎のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_77",
-				"EventResource/Item/item_77"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "78",
-			"name": "冥炎の断片データ",
-			"description": "冥炎のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_78",
-				"EventResource/Item/item_78"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "79",
-			"name": "咆哮の断片データ",
-			"description": "咆哮のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_79",
-				"EventResource/Item/item_79"
-			],
-			"unitName": "個",
-			"upValue": "1",
-			"dispFlg": "0"
-		},
-		{
-			"itemId": "80",
-			"name": "兵貴の断片ﾃﾞｰﾀ",
-			"description": "兵貴のデータが断片化したもの。交換所で様々なものと交換可能。",
-			"category": "1",
-			"img": [
-				"EventResource/Thumbnail/item_thumbnail_80",
-				"EventResource/Item/item_80"
-			],
-			"unitName": "個",
+			"unitName": "pcs",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "81",
-			"name": "氷巌の断片データ",
-			"description": "氷巌のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"name": "Glacier x Earth  Data Byte",
+			"description": "Can be exchanged for various items.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_81",
 				"EventResource/Item/item_81"
 			],
-			"unitName": "個",
+			"unitName": "pcs",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "82",
-			"name": "逆襲の断片データ",
-			"description": "逆襲のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"name": "Counterattack Data Byte",
+			"description": "Can be exchanged for various items.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_82",
 				"EventResource/Item/item_82"
 			],
-			"unitName": "個",
+			"unitName": "pcs",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "50001",
-			"name": "特上肉",
-			"description": "特別な畑で取れた特上の肉。これでデジモンも気分上々。",
+			"name": "Gourmet Meat",
+			"description": "High-quality meat harvested from special fields. It's sure to make your Digimon happy!",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/special_meat_00",
 				"EventResource/Item/special_meat_00"
 			],
-			"unitName": "個",
+			"unitName": "pcs",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "50002",
-			"name": "ブランクチップ",
-			"description": "データが消去されたチップ。交換所で好きなアイテムと交換できる",
+			"name": "Blank Chips",
+			"description": "Chip with erased data. Exchange them for items at the Exchange facility.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_blank",
 				"EventResource/Item/item_blank"
 			],
-			"unitName": "BIT",
+			"unitName": "pcs",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "60001",
-			"name": "選べる究極体引換券",
-			"description": "交換所ですきな究極体デジモンと交換できる引換券",
+			"name": "Choose-A-Mega Voucher",
+			"description": "A voucher that can be exchanged for the Mega of your choice",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/special_ticket_00",
 				"EventResource/Item/item_60001"
 			],
-			"unitName": "個",
+			"unitName": "pcs",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
-			"itemId": "60002",
-			"name": "「飛竜衝天」特効デジモン引換券",
-			"description": "交換所で特効デジモン「バンチョーレオモン」を交換できる引換券",
+			"itemId": "100000",
+			"name": "Choose-A-Fragment Voucher",
+			"description": "A voucher that can be exchanged for Digivolution fuel for the Mega Digimon of your choice",
 			"category": "1",
 			"img": [
-				"EventResource/Thumbnail/special_ticket_60002",
-				"EventResource/Item/item_60002"
+				"EventResource/Thumbnail/special_ticket_100000",
+				"EventResource/Item/item_100000"
 			],
-			"unitName": "個",
+			"unitName": "pcs",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
-			"itemId": "60003",
-			"name": "厳選究極体引換券",
-			"description": "交換所で厳選究極体デジモンと交換できる引換券",
+			"itemId": "100001",
+			"name": "Starter Data Byte",
+			"description": "A piece of fragmented starter data. Can be exchanged for various items.",
 			"category": "1",
 			"img": [
-				"EventResource/Thumbnail/item_thumbnail_60003",
-				"EventResource/Item/item_60003"
+				"EventResource/Thumbnail/item_thumbnail_100001",
+				"EventResource/Item/item_100001"
 			],
-			"unitName": "個",
+			"unitName": "pcs",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
-			"itemId": "70001",
-			"name": "1000万DL記念キャプチャ券",
-			"description": "全世界1000万DL記念キャプチャを行うことができるキャプチャ券。",
+			"itemId": "100002",
+			"name": "Mysterious Data Bytes",
+			"description": "Can be exchanged for various items.",
 			"category": "1",
 			"img": [
-				"EventResource/Thumbnail/item_thumbnail_70001",
-				"EventResource/Item/item_70001"
+				"EventResource/Thumbnail/item_thumbnail_100002",
+				"EventResource/Item/item_100002"
 			],
-			"unitName": "個",
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100003",
+			"name": "Mythical Dragon Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100003",
+				"EventResource/Item/item_100003"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100004",
+			"name": "Holy Lance Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100004",
+				"EventResource/Item/item_100004"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100005",
+			"name": "Poison Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100005",
+				"EventResource/Item/item_100005"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100006",
+			"name": "Dark King Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100006",
+				"EventResource/Item/item_100006"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100007",
+			"name": "Shadowy Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100007",
+				"EventResource/Item/item_100007"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100008",
+			"name": "Strongest Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100008",
+				"EventResource/Item/item_100008"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100009",
+			"name": "Secret Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100009",
+				"EventResource/Item/item_100009"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100010",
+			"name": "Brilliant Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100010",
+				"EventResource/Item/item_100010"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100011",
+			"name": "Salvation Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100011",
+				"EventResource/Item/item_100011"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100012",
+			"name": "Apocalypse Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100012",
+				"EventResource/Item/item_100012"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100013",
+			"name": "Blue Wolf Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100013",
+				"EventResource/Item/item_100013"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100014",
+			"name": "Fist Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100014",
+				"EventResource/Item/item_100014"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100015",
+			"name": "Chaos Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100015",
+				"EventResource/Item/item_100015"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100016",
+			"name": "Ranking Tickets",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100016",
+				"EventResource/Item/item_100016"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100017",
+			"name": "Excalibur Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100017",
+				"EventResource/Item/item_100017"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100018",
+			"name": "TigerBee Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100018",
+				"EventResource/Item/item_100018"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100019",
+			"name": "Destruction Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100019",
+				"EventResource/Item/item_100019"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100020",
+			"name": "Shadow Harbinger Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100020",
+				"EventResource/Item/item_100020"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100021",
+			"name": "Bloodline Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100021",
+				"EventResource/Item/item_100021"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100022",
+			"name": "Fog Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100023",
+				"EventResource/Item/item_100023"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100023",
+			"name": "Flame Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100022",
+				"EventResource/Item/item_100022"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100024",
+			"name": "Ancient Dragon Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100024",
+				"EventResource/Item/item_100024"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100025",
+			"name": "Goodwill Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100025",
+				"EventResource/Item/item_100025"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100026",
+			"name": "Scarlet Metal Dragon Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100026",
+				"EventResource/Item/item_100026"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100027",
+			"name": "Kouka Cherry Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100027",
+				"EventResource/Item/item_100027"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100029",
+			"name": "Crimson Knight Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100029",
+				"EventResource/Item/item_100029"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100030",
+			"name": "10 Million DL Celebration Voucher",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100030",
+				"EventResource/Item/item_100030"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100031",
+			"name": "Steel Dragon Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100031",
+				"EventResource/Item/item_100031"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100032",
+			"name": "Red Steel Dragon Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100032",
+				"EventResource/Item/item_100032"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100033",
+			"name": "Eternal Darkness Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100033",
+				"EventResource/Item/item_100033"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100034",
+			"name": "Dark Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100034",
+				"EventResource/Item/item_100034"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100035",
+			"name": "Darkness Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100035",
+				"EventResource/Item/item_100035"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100036",
+			"name": "Friendship Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100036",
+				"EventResource/Item/item_100036"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100037",
+			"name": "Valiant Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100037",
+				"EventResource/Item/item_100037"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100038",
+			"name": "Unleash the Power Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100038",
+				"EventResource/Item/item_100038"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100039",
+			"name": "Ultimate Gods of War Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100039",
+				"EventResource/Item/item_100039"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100040",
+			"name": "Trust Data Bytes ",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100040",
+				"EventResource/Item/item_100040"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "100041",
+			"name": "Swift Data Bytes ",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100041",
+				"EventResource/Item/item_100041"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "6000001",
+			"name": "Choose-A-Fragment Voucher",
+			"description": "A voucher that can be exchanged for Digivolution fuel for the Mega Digimon of your choice",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_6000001",
+				"EventResource/Item/item_6000001"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "6000002",
+			"name": "Choose-A-Fragment Voucher",
+			"description": "A voucher that can be exchanged for Digivolution fuel for the Mega Digimon of your choice",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_6000002",
+				"EventResource/Item/item_6000002"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "6000003",
+			"name": "Choose-A-Fragment Voucher",
+			"description": "A voucher that can be exchanged for Digivolution fuel for the Mega Digimon of your choice",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_6000003",
+				"EventResource/Item/item_6000003"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "6000004",
+			"name": "WarGrowlmon Voucher",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_6000004",
+				"EventResource/Item/item_6000004"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "6000005",
+			"name": "GrapLeomon Voucher",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_6000005",
+				"EventResource/Item/item_6000005"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "6000006",
+			"name": "Duramon Voucher",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_6000006",
+				"EventResource/Item/item_6000006"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "6000007",
+			"name": "CannonBeemon Voucher",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_6000007",
+				"EventResource/Item/item_6000007"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "6000008",
+			"name": "MetalGreymon Voucher",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_6000008",
+				"EventResource/Item/item_6000008"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "6000009",
+			"name": "Whamon Voucher",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_6000009",
+				"EventResource/Item/item_6000009"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "6000010",
+			"name": "Lillymon Voucher",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_6000010",
+				"EventResource/Item/item_6000010"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "6000011",
+			"name": "MetalTyrannomon Voucher",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_6000011",
+				"EventResource/Item/item_6000011"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "6000012",
+			"name": "Megadramon Voucher",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_6000012",
+				"EventResource/Item/item_6000012"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "6000013",
+			"name": "Unleash the Power Voucher",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_6000013",
+				"EventResource/Item/item_6000013"
+			],
+			"unitName": "pcs",
 			"upValue": "1",
 			"dispFlg": "0"
 		}

@@ -1,148 +1,100 @@
 {
 	"colosseumTimeScheduleM": [
 		{
-			"colosseumTimeScheduleId": "165",
-			"colosseumId": "42",
-			"startHour": "08:00:00",
-			"endHour": "08:59:59"
+			"colosseumTimeScheduleId": "100025",
+			"colosseumId": "10007",
+			"startHour": "00:00:00",
+			"endHour": "00:59:59"
 		},
 		{
-			"colosseumTimeScheduleId": "166",
-			"colosseumId": "42",
+			"colosseumTimeScheduleId": "100026",
+			"colosseumId": "10007",
+			"startHour": "06:00:00",
+			"endHour": "06:59:59"
+		},
+		{
+			"colosseumTimeScheduleId": "100027",
+			"colosseumId": "10007",
 			"startHour": "12:00:00",
 			"endHour": "12:59:59"
 		},
 		{
-			"colosseumTimeScheduleId": "167",
-			"colosseumId": "42",
-			"startHour": "19:00:00",
-			"endHour": "19:59:59"
+			"colosseumTimeScheduleId": "100028",
+			"colosseumId": "10007",
+			"startHour": "18:00:00",
+			"endHour": "18:59:59"
 		},
 		{
-			"colosseumTimeScheduleId": "168",
-			"colosseumId": "42",
-			"startHour": "22:00:00",
-			"endHour": "22:59:59"
+			"colosseumTimeScheduleId": "100029",
+			"colosseumId": "10008",
+			"startHour": "00:00:00",
+			"endHour": "00:59:59"
 		},
 		{
-			"colosseumTimeScheduleId": "169",
-			"colosseumId": "43",
-			"startHour": "08:00:00",
-			"endHour": "08:59:59"
+			"colosseumTimeScheduleId": "100030",
+			"colosseumId": "10008",
+			"startHour": "06:00:00",
+			"endHour": "06:59:59"
 		},
 		{
-			"colosseumTimeScheduleId": "170",
-			"colosseumId": "43",
+			"colosseumTimeScheduleId": "100031",
+			"colosseumId": "10008",
 			"startHour": "12:00:00",
 			"endHour": "12:59:59"
 		},
 		{
-			"colosseumTimeScheduleId": "171",
-			"colosseumId": "43",
-			"startHour": "19:00:00",
-			"endHour": "19:59:59"
+			"colosseumTimeScheduleId": "100032",
+			"colosseumId": "10008",
+			"startHour": "18:00:00",
+			"endHour": "18:59:59"
 		},
 		{
-			"colosseumTimeScheduleId": "172",
-			"colosseumId": "43",
-			"startHour": "22:00:00",
-			"endHour": "22:59:59"
+			"colosseumTimeScheduleId": "100033",
+			"colosseumId": "10009",
+			"startHour": "00:00:00",
+			"endHour": "00:59:59"
 		},
 		{
-			"colosseumTimeScheduleId": "173",
-			"colosseumId": "44",
-			"startHour": "08:00:00",
-			"endHour": "08:59:59"
+			"colosseumTimeScheduleId": "100034",
+			"colosseumId": "10009",
+			"startHour": "06:00:00",
+			"endHour": "06:59:59"
 		},
 		{
-			"colosseumTimeScheduleId": "174",
-			"colosseumId": "44",
+			"colosseumTimeScheduleId": "100035",
+			"colosseumId": "10009",
 			"startHour": "12:00:00",
 			"endHour": "12:59:59"
 		},
 		{
-			"colosseumTimeScheduleId": "175",
-			"colosseumId": "44",
-			"startHour": "19:00:00",
-			"endHour": "19:59:59"
+			"colosseumTimeScheduleId": "100036",
+			"colosseumId": "10009",
+			"startHour": "18:00:00",
+			"endHour": "18:59:59"
 		},
 		{
-			"colosseumTimeScheduleId": "176",
-			"colosseumId": "44",
-			"startHour": "22:00:00",
-			"endHour": "22:59:59"
+			"colosseumTimeScheduleId": "100037",
+			"colosseumId": "10010",
+			"startHour": "00:00:00",
+			"endHour": "00:59:59"
 		},
 		{
-			"colosseumTimeScheduleId": "177",
-			"colosseumId": "45",
-			"startHour": "08:00:00",
-			"endHour": "08:59:59"
+			"colosseumTimeScheduleId": "100038",
+			"colosseumId": "10010",
+			"startHour": "06:00:00",
+			"endHour": "06:59:59"
 		},
 		{
-			"colosseumTimeScheduleId": "178",
-			"colosseumId": "45",
+			"colosseumTimeScheduleId": "100039",
+			"colosseumId": "10010",
 			"startHour": "12:00:00",
 			"endHour": "12:59:59"
 		},
 		{
-			"colosseumTimeScheduleId": "179",
-			"colosseumId": "45",
-			"startHour": "19:00:00",
-			"endHour": "19:59:59"
-		},
-		{
-			"colosseumTimeScheduleId": "180",
-			"colosseumId": "45",
-			"startHour": "22:00:00",
-			"endHour": "22:59:59"
-		},
-		{
-			"colosseumTimeScheduleId": "181",
-			"colosseumId": "46",
-			"startHour": "08:00:00",
-			"endHour": "08:59:59"
-		},
-		{
-			"colosseumTimeScheduleId": "182",
-			"colosseumId": "46",
-			"startHour": "12:00:00",
-			"endHour": "12:59:59"
-		},
-		{
-			"colosseumTimeScheduleId": "183",
-			"colosseumId": "46",
-			"startHour": "19:00:00",
-			"endHour": "19:59:59"
-		},
-		{
-			"colosseumTimeScheduleId": "184",
-			"colosseumId": "46",
-			"startHour": "22:00:00",
-			"endHour": "22:59:59"
-		},
-		{
-			"colosseumTimeScheduleId": "185",
-			"colosseumId": "47",
-			"startHour": "08:00:00",
-			"endHour": "08:59:59"
-		},
-		{
-			"colosseumTimeScheduleId": "186",
-			"colosseumId": "47",
-			"startHour": "12:00:00",
-			"endHour": "12:59:59"
-		},
-		{
-			"colosseumTimeScheduleId": "187",
-			"colosseumId": "47",
-			"startHour": "19:00:00",
-			"endHour": "19:59:59"
-		},
-		{
-			"colosseumTimeScheduleId": "188",
-			"colosseumId": "47",
-			"startHour": "22:00:00",
-			"endHour": "22:59:59"
+			"colosseumTimeScheduleId": "100040",
+			"colosseumId": "10010",
+			"startHour": "18:00:00",
+			"endHour": "18:59:59"
 		}
 	]
 }

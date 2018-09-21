@@ -2,67 +2,67 @@
 	"monsterGrowStepM": [
 		{
 			"monsterGrowStepId": "1",
-			"monsterGrowStepName": "デジタマ",
+			"monsterGrowStepName": "DigiEgg",
 			"maxFriendship": "15"
 		},
 		{
 			"monsterGrowStepId": "2",
-			"monsterGrowStepName": "幼年期I",
+			"monsterGrowStepName": "In-Training",
 			"maxFriendship": "30"
 		},
 		{
 			"monsterGrowStepId": "3",
-			"monsterGrowStepName": "幼年期II",
+			"monsterGrowStepName": "In-Training II",
 			"maxFriendship": "60"
 		},
 		{
 			"monsterGrowStepId": "4",
-			"monsterGrowStepName": "成長期",
+			"monsterGrowStepName": "Rookie",
 			"maxFriendship": "90"
 		},
 		{
 			"monsterGrowStepId": "5",
-			"monsterGrowStepName": "成熟期",
+			"monsterGrowStepName": "Champion",
 			"maxFriendship": "150"
 		},
 		{
 			"monsterGrowStepId": "6",
-			"monsterGrowStepName": "完全体",
+			"monsterGrowStepName": "Ultimate",
 			"maxFriendship": "210"
 		},
 		{
 			"monsterGrowStepId": "7",
-			"monsterGrowStepName": "究極体",
+			"monsterGrowStepName": "Mega",
 			"maxFriendship": "300"
 		},
 		{
 			"monsterGrowStepId": "8",
-			"monsterGrowStepName": "アーマー体",
+			"monsterGrowStepName": "Armor",
 			"maxFriendship": "150"
 		},
 		{
 			"monsterGrowStepId": "9",
-			"monsterGrowStepName": "アーマー体",
+			"monsterGrowStepName": "Armor",
 			"maxFriendship": "300"
 		},
 		{
 			"monsterGrowStepId": "10",
-			"monsterGrowStepName": "ハイブリッド体",
+			"monsterGrowStepName": "Hybrid",
 			"maxFriendship": "90"
 		},
 		{
 			"monsterGrowStepId": "11",
-			"monsterGrowStepName": "ハイブリッド体",
+			"monsterGrowStepName": "Hybrid",
 			"maxFriendship": "150"
 		},
 		{
 			"monsterGrowStepId": "12",
-			"monsterGrowStepName": "ハイブリッド体",
+			"monsterGrowStepName": "Hybrid",
 			"maxFriendship": "210"
 		},
 		{
 			"monsterGrowStepId": "13",
-			"monsterGrowStepName": "ハイブリッド体",
+			"monsterGrowStepName": "Hybrid",
 			"maxFriendship": "300"
 		}
 	]

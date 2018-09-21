@@ -3,361 +3,361 @@
 		"tips": [
 			{
 				"tipsId": "1",
-				"message": "デジタルワールドは、ネットワーク上の擬似電脳空間です。地球と同じく大陸や海があります。",
+				"message": "The Digital World exists in Cyberspace on the Network. Like the Earth, it has continents and oceans.",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "2",
-				"message": "現実世界とデジタルワールドをつなぐアプリ、それが「デジモンリンクス」です。",
+				"message": "The app that connects the Digital World and the real world is called Digimon Links.",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "3",
-				"message": "デジタルワールドの断片化により、各地のデジモンたちが暴走しているみたいです…",
+				"message": "It looks like lots of Digimon are rampaging around now as the Digital World is fragmenting...",
 				"icon": "3",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "4",
-				"message": "デジモンのアイコンを長押しすると、詳細を確認することができます。",
+				"message": "You can press and hold a Digimon's icon to check out its info.",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "5",
-				"message": "1日1回のログインでログインボーナスがもらえます！毎日ログインしてアイテムをゲット！",
+				"message": "You can get a Login Bonus for logging in once a day! Log in every day to get handy items!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "6",
-				"message": "曜日クエストは、曜日ごとにクエストとドロップアイテムも変化！\n忘れずにチェックです！",
+				"message": "Daily Quests and the items they drop are different each day of the week! Don't forget to check them out!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "7",
-				"message": "究極体のデータの欠片は降臨クエストでゲットできます！",
+				"message": "You can get fragments of Mega data in Advent Quests!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "8",
-				"message": "降臨クエストは、開放期間が限られています。開放期間は必ずチェックです！",
+				"message": "Advent Quests are only unlocked for a limited time. Be sure to check them out while they're available!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "9",
-				"message": "デジモンは、種族ごとに耐性が異なります。相性の良い属性で大ダメージを与えましょう！",
+				"message": "Each Digimon Tribe has different Resistances. With the right attack attribute, you can do serious damage!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "10",
-				"message": "HPが0になったデジモンは、デジストーンを使って次のラウンドで復活させることができますよ！",
+				"message": "Digimon whose HP has dropped to 0 can be revived in the next round by using DigiStones!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "11",
-				"message": "固有技は、高い威力や強力な効果があります。上手く使ってバトルを有利に進めましょう！",
+				"message": "Signature Skills are powerful attacks with strong effects. Use them wisely to gain the upper hand in battle!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "12",
-				"message": "敵デジモンをタップして、状況に合わせて攻撃対象を切り替えましょう！",
+				"message": "Tap on enemy Digimon to switch targets and adapt to the flow of battle!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "13",
-				"message": "ターゲットアイコンの色で技の相性がわかります。攻撃をする前に確認しましょう！",
+				"message": "The color of the target icon indicates the effectiveness of your attack. Check it before attacking!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "14",
-				"message": "スタミナは3分に1回復します。消費スタミナを考えて、クエストに挑戦しましょう！",
+				"message": "Stamina is restored by 1 every 3 minutes. Consider the Stamina cost when you tackle Quests!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "15",
-				"message": "APは1ラウンド毎に1回復！攻撃がクリティカルだった場合さらに1回復！",
+				"message": "AP is restored by 1 point every round. Critical attacks restore an extra 1 point!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "16",
-				"message": "ATK（物理攻撃力）が高い相手と戦う場合は、DEF（物理防御力）の高いデジモンをパーティに編成しましょう！",
+				"message": "When battling opponents with high ATK (physical attack), try building a party of Digimon with high DEF (physical defense)!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "17",
-				"message": "S-ATK（魔法攻撃力）が高い相手と戦う場合は、S-DEF（魔法防御力）の高いデジモンをパーティに編成しましょう！",
+				"message": "When battling opponents with high S-ATK (magical attack), try building a party of Digimon with high S-DEF (magical defense)!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "18",
-				"message": "アプリを削除すると、セーブデータが消えて最初からになってしまいます！注意してください！",
+				"message": "If you delete this app, your save data will be erased and you'll have to start all over! Be careful!",
 				"icon": "3",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "19",
-				"message": "デジストーンは、キャプチャや施設の建設時間短縮等、様々な場面で役に立ちます。",
+				"message": "DigiStones are useful for lots of things like making Captures or reducing Facility construction time.",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "20",
-				"message": "私はデジモンリンクスのナビゲーターのヒナです！全力でばっちりサポートしますよ！",
+				"message": "I'm Hina, your friendly guide to Digimon Links! I'll always be here to help whenever you need me!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "21",
-				"message": "覚醒値が低いデジモンほど進化させやすいんです！",
+				"message": "The lower the Awakening level of a Digimon is, the easier it is to Digivolve!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "22",
-				"message": "究極体同士を組み合わせて研究することができます！研究すると、デジタマが誕生しますよ！",
+				"message": "You can combine multiple Megas using Research! Doing Research creates DigiEggs!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "23",
-				"message": "才能のメダルの色が同じでも、能力の上がり方に差があります。",
+				"message": "Even if two Medals are the same color, they may boost a Digimon's abilities in different ways.",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "24",
-				"message": "才能は、才能開花でパートナーデジモンからベースデジモンに引き継ぐことができます！",
+				"message": "Abilities can be passed on from a Partner Digimon to a Base Digimon through Ability Seeding!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "25",
-				"message": "強化のパートナーが同じ種族だった場合は、運がアップする可能性があります！",
+				"message": "When Enhancing, you may get a Luck boost if the Partner Digimon is from the same Tribe!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "26",
-				"message": "リーダーデジモンの運が上がるほど、運ボーナスを獲得できる確率が高くなりますよ！",
+				"message": "When your Luck goes up, it improves your chances of getting a Luck bonus!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "27",
-				"message": "バトルに苦戦する場合は、デジモンのレベルを上げて、進化させてみましょう！",
+				"message": "If you find yourself struggling in battle, raise the level of your Digimon and try Digivolving them!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "28",
-				"message": "相手のAPに注目してみましょう！APが溜まっていたら要注意！",
+				"message": "Keep an eye on the AP of your opponents! If they've got a lot of AP saved up, watch out!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "29",
-				"message": "敵デジモンの耐性やスキルに合わせて、デジモンの継承技を見直してみましょう！",
+				"message": "Review the Legacy Skills of your Digimon to take advantage of the Resistances and Skills of enemy Digimon!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "30",
-				"message": "効率良くレベルを上げるには、通常クエストをたくさんプレイしましょう！",
+				"message": "Play through lots of Normal Quests to efficiently raise your levels!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "31",
-				"message": "お気に入りパーティに登録したデジモンたちがファームに登場しますよ！",
+				"message": "Whichever Digimon you have on your favorited party will appear on your Farm!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "32",
-				"message": "ハウスではデジモンの一覧を確認できます。また、デジモンとお別れしてクラスタを獲得できます。",
+				"message": "Visit your House to see a list of all your Digimon. You can also release Digimon to get Clusters.",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "33",
-				"message": "肉は所持数を越える収穫はできません。倉庫をアップグレードして最大所持数を増やしましょう！",
+				"message": "You can't harvest more Meat than your storage limit allows. Increase this by upgrading your Warehouse!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "34",
-				"message": "施設と飾りは同時に２つまで建設が可能です。建設完了も建設中扱いなので注意しましょう！",
+				"message": "You can only build two Facilities or Decor at once. Remember to confirm construction once it's complete!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "35",
-				"message": "ユーザーコードを使ってフレンド検索ができます！どんどんフレンドを増やしましょう！",
+				"message": "You can search for Friends by their User Code! You'll make lots of Friends in no time!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "36",
-				"message": "耐性変化でデジモンの耐性を増やすことができるので、同名のデジモンも大切にしましょう！",
+				"message": "You can increase your Digimon's Resistance with a Resistance Upgrade, so snag lots of matching Digimon!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "37",
-				"message": "運は、強化時のパートナーのレベル帯が高ければ高いほど確率アップ！究極体なら必ずアップ！？",
+				"message": "When Enhancing, a higher Partner level means more chance for a Luck boost! A Mega will work for sure!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "38",
-				"message": "ひとまず安心ですね…",
+				"message": "Looks like we're safe for now...",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "39",
-				"message": "緊急事態…！？断片化の影響が出ているのでしょうか…",
+				"message": "A state of emergency?! The fragmentation must be affecting things...",
 				"icon": "3",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "40",
-				"message": "ふぅ…無事にデジモンたちの暴走を止めることができましたね…！",
+				"message": "Phew! Looks like you managed to stop those rampaging Digimon safely!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "41",
-				"message": "現在コロシアムは開催していません。また、開催したらお知らせしますね！",
+				"message": "The Colosseum isn't open right now. I'll let you know when it's open again!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "42",
-				"message": "全国バトルでは電波状況のいい場所で戦いましょう！通信が切れてしまうと、敗北になります。",
+				"message": "Make sure to fight VS Battles somewhere with good reception! A dropped connection counts as a loss.",
 				"icon": "3",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "43",
-				"message": "今は開催していないみたいですね…。説明を読み込んでばっちり準備しちゃいましょう！",
+				"message": "Looks like it isn't open right now. Let's read all about it and make sure you're ready!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "44",
-				"message": "あなたのデジモンたちもやる気に溢れているみたいですね！さぁ、やっちゃいましょう！",
+				"message": "Looks like your Digimon are raring to go, too! All right, let's do this!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "45",
-				"message": "次のランクまであと{0}勝です！ばっちりがんばってください！",
+				"message": "Just {0} more wins until the next rank! Come on, you can do it!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "46",
-				"message": "色んな人がいるみたいですね…。どんな人たちなんでしょうか…。手加減してくれ…ないですよね。",
+				"message": "Wow, there are lots of people here. I wonder what they're like? Think they'll go easy on us? Me, neither.",
 				"icon": "3",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "47",
-				"message": "終了まであと少しです！さっそくバトルへ行っちゃいましょう！",
+				"message": "It's almost closing time! Let's hurry up and battle!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "48",
-				"message": "うぅ…。出遅れちゃったみたいです。すぐにでも参加してみましょう！",
+				"message": "Ouch... Looks like we got a late start. The sooner we join, the better!",
 				"icon": "3",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "49",
-				"message": "おつかれさまでした！デジモンたちもあなたの応援に全力で応えてましたね！",
+				"message": "You did a great job! Your Digimon are cheering you on with all their hearts, too!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "50",
-				"message": "結果はどうであれ、あなたとデジモンたちとの絆に感激しちゃいました！",
+				"message": "No matter what the results, I'm just so inspired by the bond between you and your Digimon!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "51",
-				"message": "欲しいものは見つかりましたか？\nたくさん集めてばっちり交換しちゃいましょう！",
+				"message": "Did you find what you were looking for?\nCollect a bunch of stuff to exchange!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "52",
-				"message": "あんなアイテムやこんなアイテム！たくさんあって目移りしちゃいますね！\nあ！私はこれにしようかな…？",
+				"message": "This item or that item? There are so many, it's hard to decide!\nOoh! Maybe I'll go with this one...",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "53",
-				"message": "う～ん…。\n今は何も交換できないみたいですね…。また様子を見に来ましょうか。",
+				"message": "Hmm...\nLooks like you can't make an exchange right now. Let's check back again later.",
 				"icon": "3",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "54",
-				"message": "オーナーの通信が切れると、クエスト失敗となるので、通信状況のいい場所で挑戦してくださいね！",
+				"message": "If the Owner's connection is lost, you'll fail the Quest. Always battle somewhere with good reception!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "55",
-				"message": "メンバーの通信が切れると、クエスト復帰が出来ません…。オーナーが代わりに操作します。",
+				"message": "If a member's connection is lost, they can't return to the Quest. The Owner will take over for them.",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "56",
-				"message": "今は…ばっちり集計中みたいですね！もうすぐ終わるようなので、もう少々お待ちください！",
+				"message": "Looks like the calculations are going great! They're almost done, so please wait just a little longer!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "57",
-				"message": "進化に必要な素材を集めるなら、曜日クエストが一番です！\nばっちり集めちゃいましょう！",
+				"message": "Daily Quests are the best way to get Digivolution fuel!\nGather as much as you can!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "58",
-				"message": "今日は比較的おだやかなようですね。\n曜日クエストや通常クエストでデジモンを育成しましょう！",
+				"message": "It seems like things are pretty quiet today.\nLet's train your Digimon with Daily Quests and Normal Quests!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "59",
-				"message": "究極体デジモンが降臨しているみたいです。\nばっちり準備してデータの欠片を集めましょう！",
+				"message": "Looks like a Mega Digimon has appeared.\nLet's get set up and go gather some fragments!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "60",
-				"message": "デジタルワールドの断片化が各地で進んでいるようです！\n暴走したデジモンたちを止めに行きましょう！",
+				"message": "It seems like the Digital World\nis fragmenting all over the\nplace! Let's go stop those\nrampaging Digimon!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			}

@@ -2,758 +2,485 @@
 	"titleM": [
 		{
 			"titleId": "1",
-			"name": "駆け出しの",
-			"detail": "初期装備",
+			"name": "Novice",
+			"detail": "Initial Install",
 			"img": "honorific_1",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "2",
-			"name": "一人前の",
-			"detail": "図鑑に50体登録",
+			"name": "Journeyman",
+			"detail": "50-Entry Field Guide",
 			"img": "honorific_2",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "3",
-			"name": "中堅",
-			"detail": "図鑑に100体登録",
+			"name": "Middleman",
+			"detail": "100-Entry Field Guide",
 			"img": "honorific_3",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "4",
-			"name": "ベテラン",
-			"detail": "図鑑に140体登録",
+			"name": "Veteran",
+			"detail": "140-Entry Field Guide",
 			"img": "honorific_4",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "5",
-			"name": "スーパー",
-			"detail": "図鑑に180体登録",
+			"name": "Super",
+			"detail": "180-Entry Field Guide",
 			"img": "honorific_5",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "6",
-			"name": "マスター",
-			"detail": "図鑑に250体登録",
+			"name": "Master",
+			"detail": "250-Entry Field Guide",
 			"img": "honorific_6",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "7",
-			"name": "S級バトラー",
-			"detail": "コロシアムでSランク昇格",
+			"name": "S-Rank Battler",
+			"detail": "Colosseum S-Rank",
 			"img": "honorific_7",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "8",
-			"name": "A級バトラー",
-			"detail": "コロシアムでAランク昇格",
+			"name": "A-Rank Battler",
+			"detail": "Colosseum A-Rank",
 			"img": "honorific_8",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "9",
-			"name": "B級バトラー",
-			"detail": "コロシアムでBランク昇格",
+			"name": "B-Rank Battler",
+			"detail": "Colosseum B-Rank",
 			"img": "honorific_9",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "10",
-			"name": "探索者",
-			"detail": "探索で30回クリア",
+			"name": "Explorer",
+			"detail": "30 Stages Explored",
 			"img": "honorific_10",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "11",
-			"name": "冒険者",
-			"detail": "探索で100回クリア",
+			"name": "Adventurer",
+			"detail": "100 Stages Explored",
 			"img": "honorific_11",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "12",
-			"name": "探究者",
-			"detail": "探索で300回クリア",
+			"name": "Researcher",
+			"detail": "300 Stages Explored",
 			"img": "honorific_12",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "13",
-			"name": "求道者",
-			"detail": "探索で500回クリア",
+			"name": "Seeker",
+			"detail": "500 Stages Explored",
 			"img": "honorific_13",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "14",
-			"name": "開拓者",
-			"detail": "探索で1000回クリア",
+			"name": "Pioneer",
+			"detail": "1000 Stages Explored",
 			"img": "honorific_14",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "15",
-			"name": "初心者テイマー",
-			"detail": "進化を5回",
+			"name": "Novice Tamer",
+			"detail": "5 Digivolutions",
 			"img": "honorific_15",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "16",
-			"name": "初級テイマー",
-			"detail": "進化を30回",
+			"name": "Apprentice Tamer",
+			"detail": "30 Digivolutions",
 			"img": "honorific_16",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "17",
-			"name": "中級テイマー",
-			"detail": "進化を100回",
+			"name": "Journeyman Tamer",
+			"detail": "100 Digivolutions",
 			"img": "honorific_17",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "18",
-			"name": "上級テイマー",
-			"detail": "進化を300回",
+			"name": "Expert Tamer",
+			"detail": "300 Digivolutions",
 			"img": "honorific_18",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "19",
-			"name": "超級テイマー",
-			"detail": "進化を1000回",
+			"name": "Master Tamer",
+			"detail": "1000 Digivolutions",
 			"img": "honorific_19",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "1001",
-			"name": "第1回覇者",
-			"detail": "第1回コロシアムの覇者に送られる栄光の証",
+			"name": "1-Time Champion",
+			"detail": "Proof of the glory of becoming Champion of the Colosseum (x1)",
 			"img": "honorific_colosseum_1",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1002",
-			"name": "第1回SSSランカー",
-			"detail": "第1回コロシアムの最上位ランカーに送られる栄誉の証",
+			"name": "1-Time SSS-Ranker",
+			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x1)",
 			"img": "honorific_colosseum_2",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1003",
-			"name": "第1回SSランカー",
-			"detail": "第1回コロシアムの上位ランカーに送られる名誉の証",
+			"name": "1-Time SS-Ranker",
+			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x1)",
 			"img": "honorific_colosseum_3",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1004",
-			"name": "第1回Sランカー",
-			"detail": "第1回コロシアムのランカーに送られる名声の証",
+			"name": "1-Time S-Ranker",
+			"detail": "Proof of the renown of reaching a rank in the Colosseum (x1)",
 			"img": "honorific_colosseum_4",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1005",
-			"name": "第1回挑戦者",
-			"detail": "第1回コロシアムの挑戦者に送られる証",
+			"name": "1-Time Challenger",
+			"detail": "Proof of being a challenger in the Colosseum (x1)",
 			"img": "honorific_colosseum_5",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1006",
-			"name": "第2回覇者",
-			"detail": "第2回コロシアムの覇者に送られる栄光の証",
+			"name": "2-Time Champion",
+			"detail": "Proof of the glory of becoming Champion of the Colosseum (x2)",
 			"img": "honorific_colosseum_6",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1007",
-			"name": "第2回SSSランカー",
-			"detail": "第2回コロシアムの最上位ランカーに送られる栄誉の証",
+			"name": "2-Time SSS-Ranker",
+			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x2)",
 			"img": "honorific_colosseum_7",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1008",
-			"name": "第2回SSランカー",
-			"detail": "第2回コロシアムの上位ランカーに送られる名誉の証",
+			"name": "2-Time SS-Ranker",
+			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x2)",
 			"img": "honorific_colosseum_8",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1009",
-			"name": "第2回Sランカー",
-			"detail": "第2回コロシアムのランカーに送られる名声の証",
+			"name": "2-Time S-Ranker",
+			"detail": "Proof of the renown of reaching a rank in the Colosseum (x2)",
 			"img": "honorific_colosseum_9",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1010",
-			"name": "第2回挑戦者",
-			"detail": "第2回コロシアムの挑戦者に送られる証",
+			"name": "2-Time Challenger",
+			"detail": "Proof of being a challenger in the Colosseum (x2)",
 			"img": "honorific_colosseum_10",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1011",
-			"name": "第3回覇者",
-			"detail": "第3回コロシアムの覇者に送られる栄光の証",
+			"name": "3-Time Champion",
+			"detail": "Proof of the glory of becoming Champion of the Colosseum (x3)",
 			"img": "honorific_colosseum_11",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1012",
-			"name": "第3回SSSランカー",
-			"detail": "第3回コロシアムの最上位ランカーに送られる栄誉の証",
+			"name": "3-Time SSS-Ranker",
+			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x3)",
 			"img": "honorific_colosseum_12",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1013",
-			"name": "第3回SSランカー",
-			"detail": "第3回コロシアムの上位ランカーに送られる名誉の証",
+			"name": "3-Time SS-Ranker",
+			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x3)",
 			"img": "honorific_colosseum_13",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1014",
-			"name": "第3回Sランカー",
-			"detail": "第3回コロシアムのランカーに送られる名声の証",
+			"name": "3-Time S-Ranker",
+			"detail": "Proof of the renown of reaching a rank in the Colosseum (x3)",
 			"img": "honorific_colosseum_14",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1015",
-			"name": "第3回挑戦者",
-			"detail": "第3回コロシアムの挑戦者に送られる証",
+			"name": "3-Time Challenger",
+			"detail": "Proof of being a challenger in the Colosseum (x3)",
 			"img": "honorific_colosseum_15",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1016",
-			"name": "第4回覇者",
-			"detail": "第4回コロシアムの覇者に送られる栄光の証",
+			"name": "4-Time Champion",
+			"detail": "Proof of the glory of becoming Champion of the Colosseum (x4)",
 			"img": "honorific_colosseum_16",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1017",
-			"name": "第4回SSSランカー",
-			"detail": "第4回コロシアムの最上位ランカーに送られる栄誉の証",
+			"name": "4-Time SSS-Ranker",
+			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x4)",
 			"img": "honorific_colosseum_17",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1018",
-			"name": "第4回SSランカー",
-			"detail": "第4回コロシアムの上位ランカーに送られる名誉の証",
+			"name": "4-Time SS-Ranker",
+			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x4)",
 			"img": "honorific_colosseum_18",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1019",
-			"name": "第4回Sランカー",
-			"detail": "第4回コロシアムのランカーに送られる名声の証",
+			"name": "4-Time S-Ranker",
+			"detail": "Proof of the renown of reaching a rank in the Colosseum (x4)",
 			"img": "honorific_colosseum_19",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1020",
-			"name": "第4回挑戦者",
-			"detail": "第4回コロシアムの挑戦者に送られる証",
+			"name": "4-Time Challenger",
+			"detail": "Proof of being a challenger in the Colosseum (x4)",
 			"img": "honorific_colosseum_20",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1021",
-			"name": "第5回覇者",
-			"detail": "第5回コロシアムの覇者に送られる栄光の証",
+			"name": "5-Time Champion",
+			"detail": "Proof of the glory of becoming Champion of the Colosseum (x5)",
 			"img": "honorific_colosseum_21",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1022",
-			"name": "第5回SSSランカー",
-			"detail": "第5回コロシアムの最上位ランカーに送られる栄誉の証",
+			"name": "5-Time SSS-Ranker",
+			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x5)",
 			"img": "honorific_colosseum_22",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1023",
-			"name": "第5回SSランカー",
-			"detail": "第5回コロシアムの上位ランカーに送られる名誉の証",
+			"name": "5-Time SS-Ranker",
+			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x5)",
 			"img": "honorific_colosseum_23",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1024",
-			"name": "第5回Sランカー",
-			"detail": "第5回コロシアムのランカーに送られる名声の証",
+			"name": "5-Time S-Ranker",
+			"detail": "Proof of the renown of reaching a rank in the Colosseum (x5)",
 			"img": "honorific_colosseum_24",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1025",
-			"name": "第5回挑戦者",
-			"detail": "第5回コロシアムの挑戦者に送られる証",
+			"name": "5-Time Challenger",
+			"detail": "Proof of being a challenger in the Colosseum (x5)",
 			"img": "honorific_colosseum_25",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1026",
-			"name": "第6回覇者",
-			"detail": "第6回コロシアムの覇者に送られる栄光の証",
+			"name": "6-Time Champion",
+			"detail": "Proof of the glory of becoming Champion of the Colosseum (x6)",
 			"img": "honorific_colosseum_26",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1027",
-			"name": "第6回SSSランカー",
-			"detail": "第6回コロシアムの最上位ランカーに送られる栄誉の証",
+			"name": "6-Time SSS-Ranker",
+			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x6)",
 			"img": "honorific_colosseum_27",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1028",
-			"name": "第6回SSランカー",
-			"detail": "第6回コロシアムの上位ランカーに送られる名誉の証",
+			"name": "6-Time SS-Ranker",
+			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x6)",
 			"img": "honorific_colosseum_28",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1029",
-			"name": "第6回Sランカー",
-			"detail": "第6回コロシアムのランカーに送られる名声の証",
+			"name": "6-Time S-Ranker",
+			"detail": "Proof of the renown of reaching a rank in the Colosseum (x6)",
 			"img": "honorific_colosseum_29",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1030",
-			"name": "第6回挑戦者",
-			"detail": "第6回コロシアムの挑戦者に送られる証",
+			"name": "6-Time Challenger",
+			"detail": "Proof of being a challenger in the Colosseum (x6)",
 			"img": "honorific_colosseum_30",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1031",
-			"name": "第7回覇者",
-			"detail": "第7回コロシアムの覇者に送られる栄光の証",
+			"name": "7-Time Champion",
+			"detail": "Proof of the glory of becoming Champion of the Colosseum (x7)",
 			"img": "honorific_colosseum_31",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1032",
-			"name": "第7回SSSランカー",
-			"detail": "第7回コロシアムの最上位ランカーに送られる栄誉の証",
+			"name": "7-Time SSS-Ranker",
+			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x7)",
 			"img": "honorific_colosseum_32",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1033",
-			"name": "第7回SSランカー",
-			"detail": "第7回コロシアムの上位ランカーに送られる名誉の証",
+			"name": "7-Time SS-Ranker",
+			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x7)",
 			"img": "honorific_colosseum_33",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1034",
-			"name": "第7回Sランカー",
-			"detail": "第7回コロシアムのランカーに送られる名声の証",
+			"name": "7-Time S-Ranker",
+			"detail": "Proof of the renown of reaching a rank in the Colosseum (x7)",
 			"img": "honorific_colosseum_34",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1035",
-			"name": "第7回挑戦者",
-			"detail": "第7回コロシアムの挑戦者に送られる証",
+			"name": "7-Time Challenger",
+			"detail": "Proof of being a challenger in the Colosseum (x7)",
 			"img": "honorific_colosseum_35",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1036",
-			"name": "第8回覇者",
-			"detail": "第8回コロシアムの覇者に送られる栄光の証",
+			"name": "8-Time Champion",
+			"detail": "Proof of the glory of becoming Champion of the Colosseum (x8)",
 			"img": "honorific_colosseum_36",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1037",
-			"name": "第8回SSSランカー",
-			"detail": "第8回コロシアムの最上位ランカーに送られる栄誉の証",
+			"name": "8-Time SSS-Ranker",
+			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x8)",
 			"img": "honorific_colosseum_37",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1038",
-			"name": "第8回SSランカー",
-			"detail": "第8回コロシアムの上位ランカーに送られる名誉の証",
+			"name": "8-Time SS-Ranker",
+			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x8)",
 			"img": "honorific_colosseum_38",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1039",
-			"name": "第8回Sランカー",
-			"detail": "第8回コロシアムのランカーに送られる名声の証",
+			"name": "8-Time S-Ranker",
+			"detail": "Proof of the renown of reaching a rank in the Colosseum (x8)",
 			"img": "honorific_colosseum_39",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1040",
-			"name": "第8回挑戦者",
-			"detail": "第8回コロシアムの挑戦者に送られる証",
+			"name": "8-Time Challenger",
+			"detail": "Proof of being a challenger in the Colosseum (x8)",
 			"img": "honorific_colosseum_40",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1041",
-			"name": "第9回覇者",
-			"detail": "第9回コロシアムの覇者に送られる栄光の証",
+			"name": "9-Time Champion",
+			"detail": "Proof of the glory of becoming Champion of the Colosseum (x9)",
 			"img": "honorific_colosseum_41",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1042",
-			"name": "第9回SSSランカー",
-			"detail": "第9回コロシアムの最上位ランカーに送られる栄誉の証",
+			"name": "9-Time SSS-Ranker",
+			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x9)",
 			"img": "honorific_colosseum_42",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1043",
-			"name": "第9回SSランカー",
-			"detail": "第9回コロシアムの上位ランカーに送られる名誉の証",
+			"name": "9-Time SS-Ranker",
+			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x9)",
 			"img": "honorific_colosseum_43",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1044",
-			"name": "第9回Sランカー",
-			"detail": "第9回コロシアムのランカーに送られる名声の証",
+			"name": "9-Time S-Ranker",
+			"detail": "Proof of the renown of reaching a rank in the Colosseum (x9)",
 			"img": "honorific_colosseum_44",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1045",
-			"name": "第9回挑戦者",
-			"detail": "第9回コロシアムの挑戦者に送られる証",
+			"name": "9-Time Challenger",
+			"detail": "Proof of being a challenger in the Colosseum (x9)",
 			"img": "honorific_colosseum_45",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1046",
-			"name": "第10回覇者",
-			"detail": "第10回コロシアムの覇者に送られる栄光の証",
+			"name": "10-Time Champion",
+			"detail": "Proof of the glory of becoming Champion of the Colosseum (x10)",
 			"img": "honorific_colosseum_46",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1047",
-			"name": "第10回SSSランカー",
-			"detail": "第10回コロシアムの最上位ランカーに送られる栄誉の証",
+			"name": "10-Time SSS-Ranker",
+			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x10)",
 			"img": "honorific_colosseum_47",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1048",
-			"name": "第10回SSランカー",
-			"detail": "第10回コロシアムの上位ランカーに送られる名誉の証",
+			"name": "10-Time SS-Ranker",
+			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x10)",
 			"img": "honorific_colosseum_48",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1049",
-			"name": "第10回Sランカー",
-			"detail": "第10回コロシアムのランカーに送られる名声の証",
+			"name": "10-Time S-Ranker",
+			"detail": "Proof of the renown of reaching a rank in the Colosseum (x10)",
 			"img": "honorific_colosseum_49",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1050",
-			"name": "第10回挑戦者",
-			"detail": "第10回コロシアムの挑戦者に送られる証",
+			"name": "10-Time Challenger",
+			"detail": "Proof of being a challenger in the Colosseum (x10)",
 			"img": "honorific_colosseum_50",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1051",
-			"name": "第11回覇者",
-			"detail": "第11回コロシアムの覇者に送られる栄光の証",
-			"img": "honorific_colosseum_51",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1052",
-			"name": "第11回SSSランカー",
-			"detail": "第11回コロシアムの最上位ランカーに送られる栄誉の証",
-			"img": "honorific_colosseum_52",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1053",
-			"name": "第11回SSランカー",
-			"detail": "第11回コロシアムの上位ランカーに送られる名誉の証",
-			"img": "honorific_colosseum_53",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1054",
-			"name": "第11回Sランカー",
-			"detail": "第11回コロシアムのランカーに送られる名声の証",
-			"img": "honorific_colosseum_54",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1055",
-			"name": "第11回挑戦者",
-			"detail": "第11回コロシアムの挑戦者に送られる証",
-			"img": "honorific_colosseum_55",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1056",
-			"name": "第12回覇者",
-			"detail": "第12回コロシアムの覇者に送られる栄光の証",
-			"img": "honorific_colosseum_56",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1057",
-			"name": "第12回SSSランカー",
-			"detail": "第12回コロシアムの最上位ランカーに送られる栄誉の証",
-			"img": "honorific_colosseum_57",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1058",
-			"name": "第12回SSランカー",
-			"detail": "第12回コロシアムの上位ランカーに送られる名誉の証",
-			"img": "honorific_colosseum_58",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1059",
-			"name": "第12回Sランカー",
-			"detail": "第12回コロシアムのランカーに送られる名声の証",
-			"img": "honorific_colosseum_59",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1060",
-			"name": "第12回挑戦者",
-			"detail": "第12回コロシアムの挑戦者に送られる証",
-			"img": "honorific_colosseum_60",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1061",
-			"name": "第13回覇者",
-			"detail": "第13回コロシアムの覇者に送られる栄光の証",
-			"img": "honorific_colosseum_61",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1062",
-			"name": "第13回SSSランカー",
-			"detail": "第13回コロシアムの最上位ランカーに送られる栄誉の証",
-			"img": "honorific_colosseum_62",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1063",
-			"name": "第13回SSランカー",
-			"detail": "第13回コロシアムの上位ランカーに送られる名誉の証",
-			"img": "honorific_colosseum_63",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1064",
-			"name": "第13回Sランカー",
-			"detail": "第13回コロシアムのランカーに送られる名声の証",
-			"img": "honorific_colosseum_64",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1065",
-			"name": "第13回挑戦者",
-			"detail": "第13回コロシアムの挑戦者に送られる証",
-			"img": "honorific_colosseum_65",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1066",
-			"name": "第14回覇者",
-			"detail": "第14回コロシアムの覇者に送られる栄光の証",
-			"img": "honorific_colosseum_66",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1067",
-			"name": "第14回SSSランカー",
-			"detail": "第14回コロシアムの最上位ランカーに送られる栄誉の証",
-			"img": "honorific_colosseum_67",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1068",
-			"name": "第14回SSランカー",
-			"detail": "第14回コロシアムの上位ランカーに送られる名誉の証",
-			"img": "honorific_colosseum_68",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1069",
-			"name": "第14回Sランカー",
-			"detail": "第14回コロシアムのランカーに送られる名声の証",
-			"img": "honorific_colosseum_69",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1070",
-			"name": "第14回挑戦者",
-			"detail": "第14回コロシアムの挑戦者に送られる証",
-			"img": "honorific_colosseum_70",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1071",
-			"name": "第15回覇者",
-			"detail": "第15回コロシアムの覇者に送られる栄光の証",
-			"img": "honorific_colosseum_71",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1072",
-			"name": "第15回SSSランカー",
-			"detail": "第15回コロシアムの最上位ランカーに送られる栄誉の証",
-			"img": "honorific_colosseum_72",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1073",
-			"name": "第15回SSランカー",
-			"detail": "第15回コロシアムの上位ランカーに送られる名誉の証",
-			"img": "honorific_colosseum_73",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1074",
-			"name": "第15回Sランカー",
-			"detail": "第15回コロシアムのランカーに送られる名声の証",
-			"img": "honorific_colosseum_74",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1075",
-			"name": "第15回挑戦者",
-			"detail": "第15回コロシアムの挑戦者に送られる証",
-			"img": "honorific_colosseum_75",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1076",
-			"name": "第16回覇者",
-			"detail": "第16回コロシアムの覇者に送られる栄光の証",
-			"img": "honorific_colosseum_76",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1077",
-			"name": "第16回SSSランカー",
-			"detail": "第16回コロシアムの最上位ランカーに送られる栄誉の証",
-			"img": "honorific_colosseum_77",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1078",
-			"name": "第16回SSランカー",
-			"detail": "第16回コロシアムの上位ランカーに送られる名誉の証",
-			"img": "honorific_colosseum_78",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1079",
-			"name": "第16回Sランカー",
-			"detail": "第16回コロシアムのランカーに送られる名声の証",
-			"img": "honorific_colosseum_79",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1080",
-			"name": "第16回挑戦者",
-			"detail": "第16回コロシアムの挑戦者に送られる証",
-			"img": "honorific_colosseum_80",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1081",
-			"name": "第17回覇者",
-			"detail": "第17回コロシアムの覇者に送られる栄光の証",
-			"img": "honorific_colosseum_81",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1082",
-			"name": "第17回SSSランカー",
-			"detail": "第17回コロシアムの最上位ランカーに送られる栄誉の証",
-			"img": "honorific_colosseum_82",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1083",
-			"name": "第17回SSランカー",
-			"detail": "第17回コロシアムの上位ランカーに送られる名誉の証",
-			"img": "honorific_colosseum_83",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1084",
-			"name": "第17回Sランカー",
-			"detail": "第17回コロシアムのランカーに送られる名声の証",
-			"img": "honorific_colosseum_84",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "1085",
-			"name": "第17回挑戦者",
-			"detail": "第17回コロシアムの挑戦者に送られる証",
-			"img": "honorific_colosseum_85",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "10001",
-			"name": "竜帝の系譜トップ100",
-			"detail": "イベント「竜帝の系譜」トップ100位に送られる栄誉の証",
-			"img": "honorific_event_1",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "10002",
-			"name": "竜帝の系譜トップ500",
-			"detail": "イベント「竜帝の系譜」トップ500位に送られる名誉の証",
-			"img": "honorific_event_2",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "10003",
-			"name": "竜帝の系譜トップ1000",
-			"detail": "イベント「竜帝の系譜」トップ1000位に送られる名声の証",
-			"img": "honorific_event_3",
-			"dispFlg": "0"
-		},
-		{
-			"titleId": "10004",
-			"name": "兵貴神速 十傑",
-			"detail": "イベント「兵貴神速」トップ10位に送られる英傑の証",
-			"img": "honorific_event_4",
 			"dispFlg": "0"
 		}
 	]

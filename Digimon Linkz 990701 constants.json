@@ -34,7 +34,7 @@
 		"questAreaIdAdevent": "3",
 		"firstClearNum": "2",
 		"tcpPongEndCount": "5",
-		"tcpPongIntervalCount": "3",
+		"tcpPongIntervalCount": "5",
 		"buildingTypeFacility": "1",
 		"buildingTypeDecoration": "2",
 		"successionBaseCoefficient": "8",
@@ -45,7 +45,7 @@
 		"androidContactSiteURL": "http://bnfaq.channel.or.jp/contact/faq_list/1724",
 		"maxBlockCount": "20",
 		"riseConditionFriendShipStatus": "30",
-		"officialSiteURL": "http://digimonlinkz.bn-ent.net/",
+		"officialSiteURL": "https://digimonlinkz-en.bn-ent.net/",
 		"tutorialGashaMainBannerPath": "1/1_main_1.png",
 		"tutorialGashaSubBanner1Path": "1/1_sub_1.png",
 		"gashaPriceTypeDigiStone": "1",
@@ -89,6 +89,7 @@
 		"pvpBattleEnemyRecoverTime": "30",
 		"gashaPriceTypeDigiStoneChip": "3",
 		"gashaPriceTypeLinkPointChip": "4",
+		"meatShortCutDigistoneNum": "5",
 		"gashaPriceTypeDigiStoneTicket": "5",
 		"gashaPriceTypeLinkPointTicket": "6",
 		"buyHqMeatDigistoneNum": "50",
@@ -108,6 +109,9 @@
 		"pvpPartySelectTime": "15",
 		"pvpSelectDataRetryTime": "5",
 		"pvpSelectDataRetryCount": "10",
-		"pvpMaxRank": "8"
+		"pvpMaxRank": "8",
+		"gdprOptOutSiteURL": "https://optout.channel.or.jp",
+		"usdigimonAgreeAdress": "http://legal.bandainamcoent.co.jp/terms/",
+		"usdigimonPrivacyPolicyAdress": "http://legal.bandainamcoent.co.jp/privacy/"
 	}
 }

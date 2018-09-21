@@ -3,7 +3,7 @@
 		{
 			"colosseumRankId": "1",
 			"rankOrder": "1",
-			"title": "Cランク",
+			"title": "C",
 			"minScore": "0",
 			"maxScore": "9",
 			"nextRankId": "2",
@@ -12,7 +12,7 @@
 		{
 			"colosseumRankId": "2",
 			"rankOrder": "2",
-			"title": "Bランク",
+			"title": "B",
 			"minScore": "10",
 			"maxScore": "19",
 			"nextRankId": "3",
@@ -21,7 +21,7 @@
 		{
 			"colosseumRankId": "3",
 			"rankOrder": "3",
-			"title": "Aランク",
+			"title": "A",
 			"minScore": "20",
 			"maxScore": "29",
 			"nextRankId": "4",
@@ -30,7 +30,7 @@
 		{
 			"colosseumRankId": "4",
 			"rankOrder": "4",
-			"title": "S1ランク",
+			"title": "S1",
 			"minScore": "30",
 			"maxScore": "0",
 			"nextRankId": "5",
@@ -39,7 +39,7 @@
 		{
 			"colosseumRankId": "5",
 			"rankOrder": "5",
-			"title": "S2ランク",
+			"title": "S2",
 			"minScore": "30",
 			"maxScore": "0",
 			"nextRankId": "6",
@@ -48,7 +48,7 @@
 		{
 			"colosseumRankId": "6",
 			"rankOrder": "6",
-			"title": "S3ランク",
+			"title": "S3",
 			"minScore": "30",
 			"maxScore": "0",
 			"nextRankId": "7",
@@ -57,7 +57,7 @@
 		{
 			"colosseumRankId": "7",
 			"rankOrder": "7",
-			"title": "S4ランク",
+			"title": "S4",
 			"minScore": "30",
 			"maxScore": "0",
 			"nextRankId": "8",
@@ -66,7 +66,7 @@
 		{
 			"colosseumRankId": "8",
 			"rankOrder": "8",
-			"title": "S5ランク",
+			"title": "S5",
 			"minScore": "30",
 			"maxScore": "0",
 			"nextRankId": "0",

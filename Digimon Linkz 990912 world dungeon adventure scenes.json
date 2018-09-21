@@ -1,18 +1,3 @@
 {
-	"worldDungeonAdventureSceneM": [
-		{
-			"worldDungeonId": "11923",
-			"adventureId": "0",
-			"adventureTrigger": "1",
-			"adventureTriggerValue": "3",
-			"adventureValue": "adv02_01/adv02_01_event"
-		},
-		{
-			"worldDungeonId": "11924",
-			"adventureId": "0",
-			"adventureTrigger": "1",
-			"adventureTriggerValue": "3",
-			"adventureValue": "adv02_01/adv02_01_event"
-		}
-	]
+	"worldDungeonAdventureSceneM": []
 }

@@ -2,72 +2,67 @@
 	"helpCategoryM": [
 		{
 			"helpCategoryId": "1",
-			"helpCategoryName": "ゲーム概要",
+			"helpCategoryName": "Game Overview",
 			"helpCategoryPriority": "1"
 		},
 		{
 			"helpCategoryId": "2",
-			"helpCategoryName": "デジモン",
+			"helpCategoryName": "Digimon",
 			"helpCategoryPriority": "2"
 		},
 		{
 			"helpCategoryId": "3",
-			"helpCategoryName": "ファーム",
+			"helpCategoryName": "Farm",
 			"helpCategoryPriority": "3"
 		},
 		{
 			"helpCategoryId": "4",
-			"helpCategoryName": "探索",
+			"helpCategoryName": "Explore",
 			"helpCategoryPriority": "4"
 		},
 		{
 			"helpCategoryId": "5",
-			"helpCategoryName": "バトル",
+			"helpCategoryName": "Battles",
 			"helpCategoryPriority": "5"
 		},
 		{
 			"helpCategoryId": "6",
-			"helpCategoryName": "マルチバトル",
+			"helpCategoryName": "Co-Op Battles",
 			"helpCategoryPriority": "6"
 		},
 		{
 			"helpCategoryId": "7",
-			"helpCategoryName": "コロシアム",
+			"helpCategoryName": "COLOSSEUM",
 			"helpCategoryPriority": "7"
 		},
 		{
 			"helpCategoryId": "8",
-			"helpCategoryName": "施設",
+			"helpCategoryName": "Facilities",
 			"helpCategoryPriority": "8"
 		},
 		{
 			"helpCategoryId": "9",
-			"helpCategoryName": "デジヴァイス",
+			"helpCategoryName": "Digivice",
 			"helpCategoryPriority": "9"
 		},
 		{
 			"helpCategoryId": "10",
-			"helpCategoryName": "デジチャット",
+			"helpCategoryName": "DigiChat",
 			"helpCategoryPriority": "10"
 		},
 		{
 			"helpCategoryId": "11",
-			"helpCategoryName": "キャプチャ",
+			"helpCategoryName": "Captures",
 			"helpCategoryPriority": "12"
 		},
 		{
-			"helpCategoryId": "12",
-			"helpCategoryName": "デジストーン・ショップ",
-			"helpCategoryPriority": "13"
-		},
-		{
 			"helpCategoryId": "13",
-			"helpCategoryName": "その他",
+			"helpCategoryName": "Other",
 			"helpCategoryPriority": "14"
 		},
 		{
 			"helpCategoryId": "14",
-			"helpCategoryName": "チップ",
+			"helpCategoryName": "Chips",
 			"helpCategoryPriority": "11"
 		}
 	]
