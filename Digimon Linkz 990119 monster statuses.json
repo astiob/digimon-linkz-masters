@@ -2,51 +2,51 @@
 	"monsterStatusM": [
 		{
 			"monsterStatusId": "10001",
-			"name": "Versatile"
+			"name": "만능형"
 		},
 		{
 			"monsterStatusId": "10002",
-			"name": "Enhanced ATK"
+			"name": "공격 강화"
 		},
 		{
 			"monsterStatusId": "10003",
-			"name": "Enhanced DEF"
+			"name": "방어 강화"
 		},
 		{
 			"monsterStatusId": "10004",
-			"name": "Balance"
+			"name": "밸런스"
 		},
 		{
 			"monsterStatusId": "10005",
-			"name": "Speed"
+			"name": "속도"
 		},
 		{
 			"monsterStatusId": "10006",
-			"name": "Special ATK"
+			"name": "물리공격 특화"
 		},
 		{
 			"monsterStatusId": "10007",
-			"name": "Special S-ATK"
+			"name": "마법공격 특화"
 		},
 		{
 			"monsterStatusId": "10008",
-			"name": "Special DEF"
+			"name": "물리방어 특화"
 		},
 		{
 			"monsterStatusId": "10009",
-			"name": "Special S-DEF"
+			"name": "마법방어 특화"
 		},
 		{
 			"monsterStatusId": "10010",
-			"name": "Super Versatile"
+			"name": "초 만능형"
 		},
 		{
 			"monsterStatusId": "10011",
-			"name": "SPD ATK"
+			"name": "SPD 물리공격"
 		},
 		{
 			"monsterStatusId": "10012",
-			"name": "SPD S-ATK"
+			"name": "SPD 마법공격"
 		}
 	]
 }

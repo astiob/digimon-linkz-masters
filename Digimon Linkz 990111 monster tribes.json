@@ -2,31 +2,31 @@
 	"monsterTribeM": [
 		{
 			"monsterTribeId": "1",
-			"monsterTribeName": "Mirage"
+			"monsterTribeName": "환생계"
 		},
 		{
 			"monsterTribeId": "2",
-			"monsterTribeName": "Blazing"
+			"monsterTribeName": "양염계"
 		},
 		{
 			"monsterTribeId": "3",
-			"monsterTribeName": "Glacier"
+			"monsterTribeName": "빙하계"
 		},
 		{
 			"monsterTribeId": "4",
-			"monsterTribeName": "Electric"
+			"monsterTribeName": "전자계"
 		},
 		{
 			"monsterTribeId": "5",
-			"monsterTribeName": "Earth"
+			"monsterTribeName": "대지계"
 		},
 		{
 			"monsterTribeId": "6",
-			"monsterTribeName": "Bright"
+			"monsterTribeName": "광망계"
 		},
 		{
 			"monsterTribeId": "7",
-			"monsterTribeName": "Abyss"
+			"monsterTribeName": "심연계"
 		}
 	]
 }

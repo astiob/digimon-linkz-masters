@@ -2,484 +2,484 @@
 	"titleM": [
 		{
 			"titleId": "1",
-			"name": "Novice",
-			"detail": "Initial Install",
+			"name": "초보자",
+			"detail": "처음부터 보유",
 			"img": "honorific_1",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "2",
-			"name": "Journeyman",
-			"detail": "50-Entry Field Guide",
+			"name": "기본이 된",
+			"detail": "도감에 50마리 등록",
 			"img": "honorific_2",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "3",
-			"name": "Middleman",
-			"detail": "100-Entry Field Guide",
+			"name": "중견",
+			"detail": "도감에 100마리 등록",
 			"img": "honorific_3",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "4",
-			"name": "Veteran",
-			"detail": "140-Entry Field Guide",
+			"name": "베테랑",
+			"detail": "도감에 140마리 등록",
 			"img": "honorific_4",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "5",
-			"name": "Super",
-			"detail": "180-Entry Field Guide",
+			"name": "슈퍼",
+			"detail": "도감에 180마리 등록",
 			"img": "honorific_5",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "6",
-			"name": "Master",
-			"detail": "250-Entry Field Guide",
+			"name": "마스터",
+			"detail": "도감에 250마리 등록",
 			"img": "honorific_6",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "7",
-			"name": "S-Rank Battler",
-			"detail": "Colosseum S-Rank",
+			"name": "S급 투사",
+			"detail": "콜로세움에서 S랭크로 승급",
 			"img": "honorific_7",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "8",
-			"name": "A-Rank Battler",
-			"detail": "Colosseum A-Rank",
+			"name": "A급 투사",
+			"detail": "콜로세움에서 A랭크로 승급",
 			"img": "honorific_8",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "9",
-			"name": "B-Rank Battler",
-			"detail": "Colosseum B-Rank",
+			"name": "B급 투사",
+			"detail": "콜로세움에서 B랭크로 승급",
 			"img": "honorific_9",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "10",
-			"name": "Explorer",
-			"detail": "30 Stages Explored",
+			"name": "탐색자",
+			"detail": "탐색 30회 클리어",
 			"img": "honorific_10",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "11",
-			"name": "Adventurer",
-			"detail": "100 Stages Explored",
+			"name": "모험가",
+			"detail": "탐색 100회 클리어",
 			"img": "honorific_11",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "12",
-			"name": "Researcher",
-			"detail": "300 Stages Explored",
+			"name": "탐구자",
+			"detail": "탐색 300회 클리어",
 			"img": "honorific_12",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "13",
-			"name": "Seeker",
-			"detail": "500 Stages Explored",
+			"name": "구도자",
+			"detail": "탐색 500회 클리어",
 			"img": "honorific_13",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "14",
-			"name": "Pioneer",
-			"detail": "1000 Stages Explored",
+			"name": "개척자",
+			"detail": "탐색 1000회 클리어",
 			"img": "honorific_14",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "15",
-			"name": "Novice Tamer",
-			"detail": "5 Digivolutions",
+			"name": "루키 테이머",
+			"detail": "5회 진화",
 			"img": "honorific_15",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "16",
-			"name": "Apprentice Tamer",
-			"detail": "30 Digivolutions",
+			"name": "초급 테이머",
+			"detail": "30회 진화",
 			"img": "honorific_16",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "17",
-			"name": "Journeyman Tamer",
-			"detail": "100 Digivolutions",
+			"name": "중급 테이머",
+			"detail": "100회 진화",
 			"img": "honorific_17",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "18",
-			"name": "Expert Tamer",
-			"detail": "300 Digivolutions",
+			"name": "상급 테이머",
+			"detail": "300회 진화",
 			"img": "honorific_18",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "19",
-			"name": "Master Tamer",
-			"detail": "1000 Digivolutions",
+			"name": "특급 테이머",
+			"detail": "1000회 진화",
 			"img": "honorific_19",
 			"dispFlg": "1"
 		},
 		{
 			"titleId": "1001",
-			"name": "1-Time Champion",
-			"detail": "Proof of the glory of becoming Champion of the Colosseum (x1)",
+			"name": "제1회 제패자",
+			"detail": "제1회 콜로세움을 재패한 자에게 수여되는 영광의 증표",
 			"img": "honorific_colosseum_1",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1002",
-			"name": "1-Time SSS-Ranker",
-			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x1)",
+			"name": "제1회 SSS랭커",
+			"detail": "제1회 콜로세움의 최상위 랭커에게 수여되는 영예의 증표",
 			"img": "honorific_colosseum_2",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1003",
-			"name": "1-Time SS-Ranker",
-			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x1)",
+			"name": "제1회 SS랭커",
+			"detail": "제1회 콜로세움의 상위 랭커에게 수여되는 명예의 증표",
 			"img": "honorific_colosseum_3",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1004",
-			"name": "1-Time S-Ranker",
-			"detail": "Proof of the renown of reaching a rank in the Colosseum (x1)",
+			"name": "제1회 S랭커",
+			"detail": "제1회 콜로세움의 랭커에게 수여되는 명성의 증표",
 			"img": "honorific_colosseum_4",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1005",
-			"name": "1-Time Challenger",
-			"detail": "Proof of being a challenger in the Colosseum (x1)",
+			"name": "제1회 도전자",
+			"detail": "제1회 콜로세움에 도전한 자에게 수여되는 증표",
 			"img": "honorific_colosseum_5",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1006",
-			"name": "2-Time Champion",
-			"detail": "Proof of the glory of becoming Champion of the Colosseum (x2)",
+			"name": "제2회 제패자",
+			"detail": "제2회 콜로세움을 재패한 자에게 수여되는 영광의 증표",
 			"img": "honorific_colosseum_6",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1007",
-			"name": "2-Time SSS-Ranker",
-			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x2)",
+			"name": "제2회 SSS랭커",
+			"detail": "제2회 콜로세움의 최상위 랭커에게 수여되는 영예의 증표",
 			"img": "honorific_colosseum_7",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1008",
-			"name": "2-Time SS-Ranker",
-			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x2)",
+			"name": "제2회 SS랭커",
+			"detail": "제2회 콜로세움의 상위 랭커에게 수여되는 명예의 증표",
 			"img": "honorific_colosseum_8",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1009",
-			"name": "2-Time S-Ranker",
-			"detail": "Proof of the renown of reaching a rank in the Colosseum (x2)",
+			"name": "제2회 S랭커",
+			"detail": "제2회 콜로세움의 랭커에게 수여되는 명성의 증표",
 			"img": "honorific_colosseum_9",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1010",
-			"name": "2-Time Challenger",
-			"detail": "Proof of being a challenger in the Colosseum (x2)",
+			"name": "제2회 도전자",
+			"detail": "제2회 콜로세움에 도전한 자에게 수여되는 증표",
 			"img": "honorific_colosseum_10",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1011",
-			"name": "3-Time Champion",
-			"detail": "Proof of the glory of becoming Champion of the Colosseum (x3)",
+			"name": "제3회 제패자",
+			"detail": "제3회 콜로세움을 재패한 자에게 수여되는 영광의 증표",
 			"img": "honorific_colosseum_11",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1012",
-			"name": "3-Time SSS-Ranker",
-			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x3)",
+			"name": "제3회 SSS랭커",
+			"detail": "제3회 콜로세움의 최상위 랭커에게 수여되는 영예의 증표",
 			"img": "honorific_colosseum_12",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1013",
-			"name": "3-Time SS-Ranker",
-			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x3)",
+			"name": "제3회 SS랭커",
+			"detail": "제3회 콜로세움의 상위 랭커에게 수여되는 명예의 증표",
 			"img": "honorific_colosseum_13",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1014",
-			"name": "3-Time S-Ranker",
-			"detail": "Proof of the renown of reaching a rank in the Colosseum (x3)",
+			"name": "제3회 S랭커",
+			"detail": "제3회 콜로세움의 랭커에게 수여되는 명성의 증표",
 			"img": "honorific_colosseum_14",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1015",
-			"name": "3-Time Challenger",
-			"detail": "Proof of being a challenger in the Colosseum (x3)",
+			"name": "제3회 도전자",
+			"detail": "제3회 콜로세움에 도전한 자에게 수여되는 증표",
 			"img": "honorific_colosseum_15",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1016",
-			"name": "4-Time Champion",
-			"detail": "Proof of the glory of becoming Champion of the Colosseum (x4)",
+			"name": "제4회 제패자",
+			"detail": "제4회 콜로세움을 재패한 자에게 수여되는 영광의 증표",
 			"img": "honorific_colosseum_16",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1017",
-			"name": "4-Time SSS-Ranker",
-			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x4)",
+			"name": "제4회 SSS랭커",
+			"detail": "제4회 콜로세움의 최상위 랭커에게 수여되는 영예의 증표",
 			"img": "honorific_colosseum_17",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1018",
-			"name": "4-Time SS-Ranker",
-			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x4)",
+			"name": "제4회 SS랭커",
+			"detail": "제4회 콜로세움의 상위 랭커에게 수여되는 명예의 증표",
 			"img": "honorific_colosseum_18",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1019",
-			"name": "4-Time S-Ranker",
-			"detail": "Proof of the renown of reaching a rank in the Colosseum (x4)",
+			"name": "제4회 S랭커",
+			"detail": "제4회 콜로세움의 랭커에게 수여되는 명성의 증표",
 			"img": "honorific_colosseum_19",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1020",
-			"name": "4-Time Challenger",
-			"detail": "Proof of being a challenger in the Colosseum (x4)",
+			"name": "제4회 도전자",
+			"detail": "제4회 콜로세움에 도전한 자에게 수여되는 증표",
 			"img": "honorific_colosseum_20",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1021",
-			"name": "5-Time Champion",
-			"detail": "Proof of the glory of becoming Champion of the Colosseum (x5)",
+			"name": "제5회 제패자",
+			"detail": "제5회 콜로세움을 재패한 자에게 수여되는 영광의 증표",
 			"img": "honorific_colosseum_21",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1022",
-			"name": "5-Time SSS-Ranker",
-			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x5)",
+			"name": "제5회 SSS랭커",
+			"detail": "제5회 콜로세움의 최상위 랭커에게 수여되는 영예의 증표",
 			"img": "honorific_colosseum_22",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1023",
-			"name": "5-Time SS-Ranker",
-			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x5)",
+			"name": "제5회 SS랭커",
+			"detail": "제5회 콜로세움의 상위 랭커에게 수여되는 명예의 증표",
 			"img": "honorific_colosseum_23",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1024",
-			"name": "5-Time S-Ranker",
-			"detail": "Proof of the renown of reaching a rank in the Colosseum (x5)",
+			"name": "제5회 S랭커",
+			"detail": "제5회 콜로세움의 랭커에게 수여되는 명성의 증표",
 			"img": "honorific_colosseum_24",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1025",
-			"name": "5-Time Challenger",
-			"detail": "Proof of being a challenger in the Colosseum (x5)",
+			"name": "제5회 도전자",
+			"detail": "제5회 콜로세움에 도전한 자에게 수여되는 증표",
 			"img": "honorific_colosseum_25",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1026",
-			"name": "6-Time Champion",
-			"detail": "Proof of the glory of becoming Champion of the Colosseum (x6)",
+			"name": "제6회 제패자",
+			"detail": "제6회 콜로세움을 재패한 자에게 수여되는 영광의 증표",
 			"img": "honorific_colosseum_26",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1027",
-			"name": "6-Time SSS-Ranker",
-			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x6)",
+			"name": "제6회 SSS랭커",
+			"detail": "제6회 콜로세움의 최상위 랭커에게 수여되는 영예의 증표",
 			"img": "honorific_colosseum_27",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1028",
-			"name": "6-Time SS-Ranker",
-			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x6)",
+			"name": "제6회 SS랭커",
+			"detail": "제6회 콜로세움의 상위 랭커에게 수여되는 명예의 증표",
 			"img": "honorific_colosseum_28",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1029",
-			"name": "6-Time S-Ranker",
-			"detail": "Proof of the renown of reaching a rank in the Colosseum (x6)",
+			"name": "제6회 S랭커",
+			"detail": "제6회 콜로세움의 랭커에게 수여되는 명성의 증표",
 			"img": "honorific_colosseum_29",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1030",
-			"name": "6-Time Challenger",
-			"detail": "Proof of being a challenger in the Colosseum (x6)",
+			"name": "제6회 도전자",
+			"detail": "제6회 콜로세움에 도전한 자에게 수여되는 증표",
 			"img": "honorific_colosseum_30",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1031",
-			"name": "7-Time Champion",
-			"detail": "Proof of the glory of becoming Champion of the Colosseum (x7)",
+			"name": "제7회 제패자",
+			"detail": "제7회 콜로세움을 재패한 자에게 수여되는 영광의 증표",
 			"img": "honorific_colosseum_31",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1032",
-			"name": "7-Time SSS-Ranker",
-			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x7)",
+			"name": "제7회 SSS랭커",
+			"detail": "제7회 콜로세움의 최상위 랭커에게 수여되는 영예의 증표",
 			"img": "honorific_colosseum_32",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1033",
-			"name": "7-Time SS-Ranker",
-			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x7)",
+			"name": "제7회 SS랭커",
+			"detail": "제7회 콜로세움의 상위 랭커에게 수여되는 명예의 증표",
 			"img": "honorific_colosseum_33",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1034",
-			"name": "7-Time S-Ranker",
-			"detail": "Proof of the renown of reaching a rank in the Colosseum (x7)",
+			"name": "제7회 S랭커",
+			"detail": "제7회 콜로세움의 랭커에게 수여되는 명성의 증표",
 			"img": "honorific_colosseum_34",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1035",
-			"name": "7-Time Challenger",
-			"detail": "Proof of being a challenger in the Colosseum (x7)",
+			"name": "제7회 도전자",
+			"detail": "제7회 콜로세움에 도전한 자에게 수여되는 증표",
 			"img": "honorific_colosseum_35",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1036",
-			"name": "8-Time Champion",
-			"detail": "Proof of the glory of becoming Champion of the Colosseum (x8)",
+			"name": "제8회 제패자",
+			"detail": "제8회 콜로세움을 재패한 자에게 수여되는 영광의 증표",
 			"img": "honorific_colosseum_36",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1037",
-			"name": "8-Time SSS-Ranker",
-			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x8)",
+			"name": "제8회 SSS랭커",
+			"detail": "제8회 콜로세움의 최상위 랭커에게 수여되는 영예의 증표",
 			"img": "honorific_colosseum_37",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1038",
-			"name": "8-Time SS-Ranker",
-			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x8)",
+			"name": "제8회 SS랭커",
+			"detail": "제8회 콜로세움의 상위 랭커에게 수여되는 명예의 증표",
 			"img": "honorific_colosseum_38",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1039",
-			"name": "8-Time S-Ranker",
-			"detail": "Proof of the renown of reaching a rank in the Colosseum (x8)",
+			"name": "제8회 S랭커",
+			"detail": "제8회 콜로세움의 랭커에게 수여되는 명성의 증표",
 			"img": "honorific_colosseum_39",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1040",
-			"name": "8-Time Challenger",
-			"detail": "Proof of being a challenger in the Colosseum (x8)",
+			"name": "제8회 도전자",
+			"detail": "제8회 콜로세움에 도전한 자에게 수여되는 증표",
 			"img": "honorific_colosseum_40",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1041",
-			"name": "9-Time Champion",
-			"detail": "Proof of the glory of becoming Champion of the Colosseum (x9)",
+			"name": "제9회 제패자",
+			"detail": "제9회 콜로세움을 재패한 자에게 수여되는 영광의 증표",
 			"img": "honorific_colosseum_41",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1042",
-			"name": "9-Time SSS-Ranker",
-			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x9)",
+			"name": "제9회 SSS랭커",
+			"detail": "제9회 콜로세움의 최상위 랭커에게 수여되는 영예의 증표",
 			"img": "honorific_colosseum_42",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1043",
-			"name": "9-Time SS-Ranker",
-			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x9)",
+			"name": "제9회 SS랭커",
+			"detail": "제9회 콜로세움의 상위 랭커에게 수여되는 명예의 증표",
 			"img": "honorific_colosseum_43",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1044",
-			"name": "9-Time S-Ranker",
-			"detail": "Proof of the renown of reaching a rank in the Colosseum (x9)",
+			"name": "제9회 S랭커",
+			"detail": "제9회 콜로세움의 랭커에게 수여되는 명성의 증표",
 			"img": "honorific_colosseum_44",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1045",
-			"name": "9-Time Challenger",
-			"detail": "Proof of being a challenger in the Colosseum (x9)",
+			"name": "제9회 도전자",
+			"detail": "제9회 콜로세움에 도전한 자에게 수여되는 증표",
 			"img": "honorific_colosseum_45",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1046",
-			"name": "10-Time Champion",
-			"detail": "Proof of the glory of becoming Champion of the Colosseum (x10)",
+			"name": "제10회 제패자",
+			"detail": "제10회 콜로세움을 재패한 자에게 수여되는 영광의 증표",
 			"img": "honorific_colosseum_46",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1047",
-			"name": "10-Time SSS-Ranker",
-			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x10)",
+			"name": "제10회 SSS랭커",
+			"detail": "제10회 콜로세움의 최상위 랭커에게 수여되는 영예의 증표",
 			"img": "honorific_colosseum_47",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1048",
-			"name": "10-Time SS-Ranker",
-			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x10)",
+			"name": "제10회 SS랭커",
+			"detail": "제10회 콜로세움의 상위 랭커에게 수여되는 명예의 증표",
 			"img": "honorific_colosseum_48",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1049",
-			"name": "10-Time S-Ranker",
-			"detail": "Proof of the renown of reaching a rank in the Colosseum (x10)",
+			"name": "제10회 S랭커",
+			"detail": "제10회 콜로세움의 랭커에게 수여되는 명성의 증표",
 			"img": "honorific_colosseum_49",
 			"dispFlg": "0"
 		},
 		{
 			"titleId": "1050",
-			"name": "10-Time Challenger",
-			"detail": "Proof of being a challenger in the Colosseum (x10)",
+			"name": "제10회 도전자",
+			"detail": "제10회 콜로세움에 도전한 자에게 수여되는 증표",
 			"img": "honorific_colosseum_50",
 			"dispFlg": "0"
 		}

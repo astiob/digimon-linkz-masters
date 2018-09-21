@@ -2,19 +2,19 @@
 	"assetCategoryM": [
 		{
 			"assetCategoryId": "1",
-			"assetTitle": "Digimon"
+			"assetTitle": "디지몬"
 		},
 		{
 			"assetCategoryId": "2",
-			"assetTitle": "DigiStone"
+			"assetTitle": "디지스톤"
 		},
 		{
 			"assetCategoryId": "3",
-			"assetTitle": "Link Point"
+			"assetTitle": "링크 포인트"
 		},
 		{
 			"assetCategoryId": "4",
-			"assetTitle": "Cluster"
+			"assetTitle": "클러스터"
 		},
 		{
 			"assetCategoryId": "5",
@@ -22,59 +22,59 @@
 		},
 		{
 			"assetCategoryId": "6",
-			"assetTitle": "Item"
+			"assetTitle": "아이템"
 		},
 		{
 			"assetCategoryId": "7",
-			"assetTitle": "Digimon Storage"
+			"assetTitle": "보유 디지몬 수"
 		},
 		{
 			"assetCategoryId": "8",
-			"assetTitle": "Party Cost"
+			"assetTitle": "파티 코스트"
 		},
 		{
 			"assetCategoryId": "9",
-			"assetTitle": "Max Friend #"
+			"assetTitle": "최대 친구 수"
 		},
 		{
 			"assetCategoryId": "10",
-			"assetTitle": "Max Stamina #"
+			"assetTitle": "최대 스태미너"
 		},
 		{
 			"assetCategoryId": "11",
-			"assetTitle": "Gacha Ticket"
+			"assetTitle": "뽑기 티켓"
 		},
 		{
 			"assetCategoryId": "12",
-			"assetTitle": "Shared Item"
+			"assetTitle": "협력전 아이템"
 		},
 		{
 			"assetCategoryId": "13",
-			"assetTitle": "Meat"
+			"assetTitle": "고기"
 		},
 		{
 			"assetCategoryId": "14",
-			"assetTitle": "Digivolution Fuel"
+			"assetTitle": "진화 재료"
 		},
 		{
 			"assetCategoryId": "15",
-			"assetTitle": "Plugin"
+			"assetTitle": "플러그인"
 		},
 		{
 			"assetCategoryId": "16",
-			"assetTitle": "Facility Key"
+			"assetTitle": "시설 열쇠"
 		},
 		{
 			"assetCategoryId": "17",
-			"assetTitle": "Chip"
+			"assetTitle": "칩"
 		},
 		{
 			"assetCategoryId": "18",
-			"assetTitle": "Advent Ticket"
+			"assetTitle": "강림 티켓"
 		},
 		{
 			"assetCategoryId": "19",
-			"assetTitle": "Title"
+			"assetTitle": "칭호"
 		},
 		{
 			"assetCategoryId": "20",

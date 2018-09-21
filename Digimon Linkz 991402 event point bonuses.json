@@ -10,7 +10,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "10",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "1280",
@@ -22,7 +22,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "UlforceVeedramon X"
+			"detail": "알포스브이드라몬X"
 		},
 		{
 			"eventPointBonusId": "1281",
@@ -34,7 +34,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "170",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "1282",
@@ -46,7 +46,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "UlforceVeedramon X"
+			"detail": "알포스브이드라몬X"
 		},
 		{
 			"eventPointBonusId": "1283",
@@ -58,7 +58,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "200",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "1284",
@@ -70,7 +70,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "UlforceVeedramon X"
+			"detail": "알포스브이드라몬X"
 		},
 		{
 			"eventPointBonusId": "100001",
@@ -82,7 +82,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "4",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100002",
@@ -94,7 +94,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100003",
@@ -106,7 +106,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100004",
@@ -118,7 +118,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "8",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100005",
@@ -130,7 +130,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100006",
@@ -142,7 +142,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100007",
@@ -154,7 +154,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "20",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100008",
@@ -166,7 +166,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100009",
@@ -178,7 +178,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100010",
@@ -190,7 +190,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "40",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100011",
@@ -202,7 +202,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100012",
@@ -214,7 +214,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100013",
@@ -226,7 +226,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "100",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100014",
@@ -238,7 +238,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100015",
@@ -250,7 +250,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "1",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100016",
@@ -262,7 +262,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "3",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100017",
@@ -274,7 +274,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100018",
@@ -286,7 +286,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "1",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100019",
@@ -298,7 +298,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "3",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100020",
@@ -310,7 +310,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100021",
@@ -322,7 +322,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "1",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100022",
@@ -334,7 +334,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "3",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100023",
@@ -346,7 +346,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100024",
@@ -358,7 +358,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "1",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100025",
@@ -370,7 +370,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "3",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100026",
@@ -382,7 +382,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100027",
@@ -394,7 +394,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "1",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100028",
@@ -406,7 +406,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "3",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100029",
@@ -418,7 +418,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "4",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100030",
@@ -430,7 +430,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Gallantmon"
+			"detail": "듀크몬"
 		},
 		{
 			"eventPointBonusId": "100031",
@@ -442,7 +442,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "UlforceVeedramon"
+			"detail": "알포스브이드라몬"
 		},
 		{
 			"eventPointBonusId": "100032",
@@ -454,7 +454,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100033",
@@ -466,7 +466,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "8",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100034",
@@ -478,7 +478,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Gallantmon"
+			"detail": "듀크몬"
 		},
 		{
 			"eventPointBonusId": "100035",
@@ -490,7 +490,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "UlforceVeedramon"
+			"detail": "알포스브이드라몬"
 		},
 		{
 			"eventPointBonusId": "100036",
@@ -502,7 +502,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "8",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100037",
@@ -514,7 +514,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "20",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100038",
@@ -526,7 +526,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Gallantmon"
+			"detail": "듀크몬"
 		},
 		{
 			"eventPointBonusId": "100039",
@@ -538,7 +538,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "UlforceVeedramon"
+			"detail": "알포스브이드라몬"
 		},
 		{
 			"eventPointBonusId": "100040",
@@ -550,7 +550,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "12",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100041",
@@ -562,7 +562,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "40",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100042",
@@ -574,7 +574,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Gallantmon"
+			"detail": "듀크몬"
 		},
 		{
 			"eventPointBonusId": "100043",
@@ -586,7 +586,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "UlforceVeedramon"
+			"detail": "알포스브이드라몬"
 		},
 		{
 			"eventPointBonusId": "100044",
@@ -598,7 +598,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100045",
@@ -610,7 +610,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100046",
@@ -622,7 +622,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "1",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100047",
@@ -634,7 +634,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "3",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100048",
@@ -646,7 +646,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100049",
@@ -658,7 +658,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "1",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100050",
@@ -670,7 +670,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "3",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100051",
@@ -682,7 +682,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100052",
@@ -694,7 +694,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "1",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100053",
@@ -706,7 +706,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "3",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100054",
@@ -718,7 +718,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100055",
@@ -730,7 +730,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "1",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100056",
@@ -742,7 +742,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "3",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100057",
@@ -754,7 +754,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "4",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100058",
@@ -766,7 +766,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "1",
-			"detail": "Firebomb III"
+			"detail": "스프레드 봄 III"
 		},
 		{
 			"eventPointBonusId": "100059",
@@ -778,7 +778,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "1",
-			"detail": "Firebomb IV"
+			"detail": "스프레드 봄 IV"
 		},
 		{
 			"eventPointBonusId": "100060",
@@ -790,7 +790,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "1",
-			"detail": "Firebomb V"
+			"detail": "스프레드 봄 V"
 		},
 		{
 			"eventPointBonusId": "100061",
@@ -802,7 +802,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "1",
-			"detail": "Burst of Flames III"
+			"detail": "버스트 플레임 III"
 		},
 		{
 			"eventPointBonusId": "100062",
@@ -814,7 +814,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "1",
-			"detail": "Burst of Flames IV"
+			"detail": "버스트 플레임 IV"
 		},
 		{
 			"eventPointBonusId": "100063",
@@ -826,7 +826,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "1",
-			"detail": "Burst of Flames V"
+			"detail": "버스트 플레임 V"
 		},
 		{
 			"eventPointBonusId": "100064",
@@ -838,7 +838,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Magnamon"
+			"detail": "매그너몬"
 		},
 		{
 			"eventPointBonusId": "100065",
@@ -850,7 +850,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "8",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100066",
@@ -862,7 +862,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Firebomb III"
+			"detail": "스프레드 봄 III"
 		},
 		{
 			"eventPointBonusId": "100067",
@@ -874,7 +874,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Firebomb IV"
+			"detail": "스프레드 봄 IV"
 		},
 		{
 			"eventPointBonusId": "100068",
@@ -886,7 +886,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Firebomb V"
+			"detail": "스프레드 봄 V"
 		},
 		{
 			"eventPointBonusId": "100069",
@@ -898,7 +898,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Burst of Flames III"
+			"detail": "버스트 플레임 III"
 		},
 		{
 			"eventPointBonusId": "100070",
@@ -910,7 +910,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Burst of Flames IV"
+			"detail": "버스트 플레임 IV"
 		},
 		{
 			"eventPointBonusId": "100071",
@@ -922,7 +922,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Burst of Flames V"
+			"detail": "버스트 플레임 V"
 		},
 		{
 			"eventPointBonusId": "100072",
@@ -934,7 +934,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Magnamon"
+			"detail": "매그너몬"
 		},
 		{
 			"eventPointBonusId": "100073",
@@ -946,7 +946,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "16",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100074",
@@ -958,7 +958,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "Firebomb III"
+			"detail": "스프레드 봄 III"
 		},
 		{
 			"eventPointBonusId": "100075",
@@ -970,7 +970,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "Firebomb IV"
+			"detail": "스프레드 봄 IV"
 		},
 		{
 			"eventPointBonusId": "100076",
@@ -982,7 +982,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "Firebomb V"
+			"detail": "스프레드 봄 V"
 		},
 		{
 			"eventPointBonusId": "100077",
@@ -994,7 +994,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "Burst of Flames III"
+			"detail": "버스트 플레임 III"
 		},
 		{
 			"eventPointBonusId": "100078",
@@ -1006,7 +1006,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "Burst of Flames IV"
+			"detail": "버스트 플레임 IV"
 		},
 		{
 			"eventPointBonusId": "100079",
@@ -1018,7 +1018,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "Burst of Flames V"
+			"detail": "버스트 플레임 V"
 		},
 		{
 			"eventPointBonusId": "100080",
@@ -1030,7 +1030,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Magnamon"
+			"detail": "매그너몬"
 		},
 		{
 			"eventPointBonusId": "100081",
@@ -1042,7 +1042,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "40",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100082",
@@ -1054,7 +1054,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Firebomb III"
+			"detail": "스프레드 봄 III"
 		},
 		{
 			"eventPointBonusId": "100083",
@@ -1066,7 +1066,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Firebomb IV"
+			"detail": "스프레드 봄 IV"
 		},
 		{
 			"eventPointBonusId": "100084",
@@ -1078,7 +1078,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Firebomb V"
+			"detail": "스프레드 봄 V"
 		},
 		{
 			"eventPointBonusId": "100085",
@@ -1090,7 +1090,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Burst of Flames III"
+			"detail": "버스트 플레임 III"
 		},
 		{
 			"eventPointBonusId": "100086",
@@ -1102,7 +1102,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Burst of Flames IV"
+			"detail": "버스트 플레임 IV"
 		},
 		{
 			"eventPointBonusId": "100087",
@@ -1114,7 +1114,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Burst of Flames V"
+			"detail": "버스트 플레임 V"
 		},
 		{
 			"eventPointBonusId": "100088",
@@ -1126,7 +1126,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "Magnamon"
+			"detail": "매그너몬"
 		},
 		{
 			"eventPointBonusId": "100089",
@@ -1138,7 +1138,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100090",
@@ -1150,7 +1150,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100091",
@@ -1162,7 +1162,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100092",
@@ -1174,7 +1174,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100093",
@@ -1186,7 +1186,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100094",
@@ -1198,7 +1198,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100095",
@@ -1210,7 +1210,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100096",
@@ -1222,7 +1222,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100097",
@@ -1234,7 +1234,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100098",
@@ -1246,7 +1246,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100099",
@@ -1258,7 +1258,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100100",
@@ -1270,7 +1270,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100101",
@@ -1282,7 +1282,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "4",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100102",
@@ -1294,7 +1294,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Alphamon"
+			"detail": "알파몬"
 		},
 		{
 			"eventPointBonusId": "100103",
@@ -1306,7 +1306,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "BlackWarGreymon"
+			"detail": "블랙워그레이몬"
 		},
 		{
 			"eventPointBonusId": "100104",
@@ -1318,7 +1318,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "MetalGarurumon (Black)"
+			"detail": "메탈가루몬(흑)"
 		},
 		{
 			"eventPointBonusId": "100105",
@@ -1330,7 +1330,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100106",
@@ -1342,7 +1342,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "8",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100107",
@@ -1354,7 +1354,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Alphamon"
+			"detail": "알파몬"
 		},
 		{
 			"eventPointBonusId": "100108",
@@ -1366,7 +1366,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "BlackWarGreymon"
+			"detail": "블랙워그레이몬"
 		},
 		{
 			"eventPointBonusId": "100109",
@@ -1378,7 +1378,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "MetalGarurumon (Black)"
+			"detail": "메탈가루몬(흑)"
 		},
 		{
 			"eventPointBonusId": "100110",
@@ -1390,7 +1390,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100111",
@@ -1402,7 +1402,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "20",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100112",
@@ -1414,7 +1414,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Alphamon"
+			"detail": "알파몬"
 		},
 		{
 			"eventPointBonusId": "100113",
@@ -1426,7 +1426,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "BlackWarGreymon"
+			"detail": "블랙워그레이몬"
 		},
 		{
 			"eventPointBonusId": "100114",
@@ -1438,7 +1438,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "MetalGarurumon (Black)"
+			"detail": "메탈가루몬(흑)"
 		},
 		{
 			"eventPointBonusId": "100115",
@@ -1450,7 +1450,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100116",
@@ -1462,7 +1462,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "40",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100117",
@@ -1474,7 +1474,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Alphamon"
+			"detail": "알파몬"
 		},
 		{
 			"eventPointBonusId": "100118",
@@ -1486,7 +1486,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "BlackWarGreymon"
+			"detail": "블랙워그레이몬"
 		},
 		{
 			"eventPointBonusId": "100119",
@@ -1498,7 +1498,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "MetalGarurumon (Black)"
+			"detail": "메탈가루몬(흑)"
 		},
 		{
 			"eventPointBonusId": "100120",
@@ -1510,7 +1510,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100121",
@@ -1522,7 +1522,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "100",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100122",
@@ -1534,7 +1534,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "Alphamon"
+			"detail": "알파몬"
 		},
 		{
 			"eventPointBonusId": "100123",
@@ -1546,7 +1546,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "BlackWarGreymon"
+			"detail": "블랙워그레이몬"
 		},
 		{
 			"eventPointBonusId": "100124",
@@ -1558,7 +1558,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "MetalGarurumon (Black)"
+			"detail": "메탈가루몬(흑)"
 		},
 		{
 			"eventPointBonusId": "100125",
@@ -1570,7 +1570,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "50",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100126",
@@ -1582,7 +1582,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100127",
@@ -1594,7 +1594,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100128",
@@ -1606,7 +1606,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100129",
@@ -1618,7 +1618,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100130",
@@ -1630,7 +1630,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100131",
@@ -1642,7 +1642,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100132",
@@ -1654,7 +1654,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100133",
@@ -1666,7 +1666,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100134",
@@ -1678,7 +1678,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100135",
@@ -1690,7 +1690,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100136",
@@ -1702,7 +1702,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100137",
@@ -1714,7 +1714,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100138",
@@ -1726,7 +1726,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100139",
@@ -1738,7 +1738,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100140",
@@ -1750,7 +1750,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100141",
@@ -1762,7 +1762,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "4",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100142",
@@ -1774,7 +1774,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Titamon"
+			"detail": "타이타몬"
 		},
 		{
 			"eventPointBonusId": "100143",
@@ -1786,7 +1786,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Cherubimon (Good)"
+			"detail": "켈비몬(선)"
 		},
 		{
 			"eventPointBonusId": "100144",
@@ -1798,7 +1798,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Kuzuhamon"
+			"detail": "쿠즈하몬"
 		},
 		{
 			"eventPointBonusId": "100145",
@@ -1810,7 +1810,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "MarineAngemon"
+			"detail": "마린엔젤몬"
 		},
 		{
 			"eventPointBonusId": "100146",
@@ -1822,7 +1822,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100147",
@@ -1834,7 +1834,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "8",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100148",
@@ -1846,7 +1846,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Titamon"
+			"detail": "타이타몬"
 		},
 		{
 			"eventPointBonusId": "100149",
@@ -1858,7 +1858,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Cherubimon (Good)"
+			"detail": "켈비몬(선)"
 		},
 		{
 			"eventPointBonusId": "100150",
@@ -1870,7 +1870,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Kuzuhamon"
+			"detail": "쿠즈하몬"
 		},
 		{
 			"eventPointBonusId": "100151",
@@ -1882,7 +1882,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "MarineAngemon"
+			"detail": "마린엔젤몬"
 		},
 		{
 			"eventPointBonusId": "100152",
@@ -1894,7 +1894,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100153",
@@ -1906,7 +1906,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "16",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100154",
@@ -1918,7 +1918,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Titamon"
+			"detail": "타이타몬"
 		},
 		{
 			"eventPointBonusId": "100155",
@@ -1930,7 +1930,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Cherubimon (Good)"
+			"detail": "켈비몬(선)"
 		},
 		{
 			"eventPointBonusId": "100156",
@@ -1942,7 +1942,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Kuzuhamon"
+			"detail": "쿠즈하몬"
 		},
 		{
 			"eventPointBonusId": "100157",
@@ -1954,7 +1954,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "8",
-			"detail": "MarineAngemon"
+			"detail": "마린엔젤몬"
 		},
 		{
 			"eventPointBonusId": "100158",
@@ -1966,7 +1966,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100159",
@@ -1978,7 +1978,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "40",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100160",
@@ -1990,7 +1990,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "8",
-			"detail": "Titamon"
+			"detail": "타이타몬"
 		},
 		{
 			"eventPointBonusId": "100161",
@@ -2002,7 +2002,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "8",
-			"detail": "Cherubimon (Good)"
+			"detail": "켈비몬(선)"
 		},
 		{
 			"eventPointBonusId": "100162",
@@ -2014,7 +2014,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "8",
-			"detail": "Kuzuhamon"
+			"detail": "쿠즈하몬"
 		},
 		{
 			"eventPointBonusId": "100163",
@@ -2026,7 +2026,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "12",
-			"detail": "MarineAngemon"
+			"detail": "마린엔젤몬"
 		},
 		{
 			"eventPointBonusId": "100164",
@@ -2038,7 +2038,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100165",
@@ -2050,7 +2050,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "100",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100166",
@@ -2062,7 +2062,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "14",
-			"detail": "Titamon"
+			"detail": "타이타몬"
 		},
 		{
 			"eventPointBonusId": "100167",
@@ -2074,7 +2074,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "14",
-			"detail": "Cherubimon (Good)"
+			"detail": "켈비몬(선)"
 		},
 		{
 			"eventPointBonusId": "100168",
@@ -2086,7 +2086,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "14",
-			"detail": "Kuzuhamon"
+			"detail": "쿠즈하몬"
 		},
 		{
 			"eventPointBonusId": "100169",
@@ -2098,7 +2098,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "MarineAngemon"
+			"detail": "마린엔젤몬"
 		},
 		{
 			"eventPointBonusId": "100170",
@@ -2110,7 +2110,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "50",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100171",
@@ -2122,7 +2122,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100172",
@@ -2134,7 +2134,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100173",
@@ -2146,7 +2146,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100174",
@@ -2158,7 +2158,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100175",
@@ -2170,7 +2170,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100176",
@@ -2182,7 +2182,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100177",
@@ -2194,7 +2194,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100178",
@@ -2206,7 +2206,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100179",
@@ -2218,7 +2218,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100180",
@@ -2230,7 +2230,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100181",
@@ -2242,7 +2242,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100182",
@@ -2254,7 +2254,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100183",
@@ -2266,7 +2266,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100184",
@@ -2278,7 +2278,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100185",
@@ -2290,7 +2290,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100186",
@@ -2302,7 +2302,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "4",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100187",
@@ -2314,7 +2314,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Rosemon BM"
+			"detail": "로제몬BM"
 		},
 		{
 			"eventPointBonusId": "100188",
@@ -2326,7 +2326,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Rosemon"
+			"detail": "로제몬"
 		},
 		{
 			"eventPointBonusId": "100189",
@@ -2338,7 +2338,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "ShineGreymon"
+			"detail": "샤인그레이몬"
 		},
 		{
 			"eventPointBonusId": "100190",
@@ -2350,7 +2350,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100191",
@@ -2362,7 +2362,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "8",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100192",
@@ -2374,7 +2374,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Rosemon BM"
+			"detail": "로제몬BM"
 		},
 		{
 			"eventPointBonusId": "100193",
@@ -2386,7 +2386,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Rosemon"
+			"detail": "로제몬"
 		},
 		{
 			"eventPointBonusId": "100194",
@@ -2398,7 +2398,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "ShineGreymon"
+			"detail": "샤인그레이몬"
 		},
 		{
 			"eventPointBonusId": "100195",
@@ -2410,7 +2410,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100196",
@@ -2422,7 +2422,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "20",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100197",
@@ -2434,7 +2434,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Rosemon BM"
+			"detail": "로제몬BM"
 		},
 		{
 			"eventPointBonusId": "100198",
@@ -2446,7 +2446,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Rosemon"
+			"detail": "로제몬"
 		},
 		{
 			"eventPointBonusId": "100199",
@@ -2458,7 +2458,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "ShineGreymon"
+			"detail": "샤인그레이몬"
 		},
 		{
 			"eventPointBonusId": "100200",
@@ -2470,7 +2470,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100201",
@@ -2482,7 +2482,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "40",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100202",
@@ -2494,7 +2494,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Rosemon BM"
+			"detail": "로제몬BM"
 		},
 		{
 			"eventPointBonusId": "100203",
@@ -2506,7 +2506,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Rosemon"
+			"detail": "로제몬"
 		},
 		{
 			"eventPointBonusId": "100204",
@@ -2518,7 +2518,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "ShineGreymon"
+			"detail": "샤인그레이몬"
 		},
 		{
 			"eventPointBonusId": "100205",
@@ -2530,7 +2530,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100206",
@@ -2542,7 +2542,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "100",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100207",
@@ -2554,7 +2554,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "Rosemon BM"
+			"detail": "로제몬BM"
 		},
 		{
 			"eventPointBonusId": "100208",
@@ -2566,7 +2566,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "Rosemon"
+			"detail": "로제몬"
 		},
 		{
 			"eventPointBonusId": "100209",
@@ -2578,7 +2578,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "ShineGreymon"
+			"detail": "샤인그레이몬"
 		},
 		{
 			"eventPointBonusId": "100210",
@@ -2590,7 +2590,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "50",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100211",
@@ -2602,7 +2602,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "300",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100212",
@@ -2614,7 +2614,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "50",
-			"detail": "Rosemon BM"
+			"detail": "로제몬BM"
 		},
 		{
 			"eventPointBonusId": "100213",
@@ -2626,7 +2626,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "50",
-			"detail": "Rosemon"
+			"detail": "로제몬"
 		},
 		{
 			"eventPointBonusId": "100214",
@@ -2638,7 +2638,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "50",
-			"detail": "ShineGreymon"
+			"detail": "샤인그레이몬"
 		},
 		{
 			"eventPointBonusId": "100215",
@@ -2650,7 +2650,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "100",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100216",
@@ -2662,7 +2662,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100217",
@@ -2674,7 +2674,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100218",
@@ -2686,7 +2686,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100219",
@@ -2698,7 +2698,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100220",
@@ -2710,7 +2710,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100221",
@@ -2722,7 +2722,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100222",
@@ -2734,7 +2734,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100223",
@@ -2746,7 +2746,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100224",
@@ -2758,7 +2758,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100225",
@@ -2770,7 +2770,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100226",
@@ -2782,7 +2782,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100227",
@@ -2794,7 +2794,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100228",
@@ -2806,7 +2806,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100229",
@@ -2818,7 +2818,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100230",
@@ -2830,7 +2830,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100231",
@@ -2842,7 +2842,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100232",
@@ -2854,7 +2854,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100233",
@@ -2866,7 +2866,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100234",
@@ -2878,7 +2878,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "4",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100235",
@@ -2890,7 +2890,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "ShineGreymon RM"
+			"detail": "샤인그레이몬RM"
 		},
 		{
 			"eventPointBonusId": "100236",
@@ -2902,7 +2902,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Machinedramon"
+			"detail": "파워드라몬"
 		},
 		{
 			"eventPointBonusId": "100237",
@@ -2914,7 +2914,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "ShineGreymon BM"
+			"detail": "샤인그레이몬BM"
 		},
 		{
 			"eventPointBonusId": "100238",
@@ -2926,7 +2926,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100239",
@@ -2938,7 +2938,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "8",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100240",
@@ -2950,7 +2950,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "ShineGreymon RM"
+			"detail": "샤인그레이몬RM"
 		},
 		{
 			"eventPointBonusId": "100241",
@@ -2962,7 +2962,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Machinedramon"
+			"detail": "파워드라몬"
 		},
 		{
 			"eventPointBonusId": "100242",
@@ -2974,7 +2974,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "ShineGreymon BM"
+			"detail": "샤인그레이몬BM"
 		},
 		{
 			"eventPointBonusId": "100243",
@@ -2986,7 +2986,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100244",
@@ -2998,7 +2998,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "16",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100245",
@@ -3010,7 +3010,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "8",
-			"detail": "ShineGreymon RM"
+			"detail": "샤인그레이몬RM"
 		},
 		{
 			"eventPointBonusId": "100246",
@@ -3022,7 +3022,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Machinedramon"
+			"detail": "파워드라몬"
 		},
 		{
 			"eventPointBonusId": "100247",
@@ -3034,7 +3034,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "ShineGreymon BM"
+			"detail": "샤인그레이몬BM"
 		},
 		{
 			"eventPointBonusId": "100248",
@@ -3046,7 +3046,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100249",
@@ -3058,7 +3058,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "40",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100250",
@@ -3070,7 +3070,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "12",
-			"detail": "ShineGreymon RM"
+			"detail": "샤인그레이몬RM"
 		},
 		{
 			"eventPointBonusId": "100251",
@@ -3082,7 +3082,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "8",
-			"detail": "Machinedramon"
+			"detail": "파워드라몬"
 		},
 		{
 			"eventPointBonusId": "100252",
@@ -3094,7 +3094,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "ShineGreymon BM"
+			"detail": "샤인그레이몬BM"
 		},
 		{
 			"eventPointBonusId": "100253",
@@ -3106,7 +3106,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100254",
@@ -3118,7 +3118,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "100",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100255",
@@ -3130,7 +3130,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "ShineGreymon RM"
+			"detail": "샤인그레이몬RM"
 		},
 		{
 			"eventPointBonusId": "100256",
@@ -3142,7 +3142,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "14",
-			"detail": "Machinedramon"
+			"detail": "파워드라몬"
 		},
 		{
 			"eventPointBonusId": "100257",
@@ -3154,7 +3154,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "8",
-			"detail": "ShineGreymon BM"
+			"detail": "샤인그레이몬BM"
 		},
 		{
 			"eventPointBonusId": "100258",
@@ -3166,7 +3166,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "50",
-			"detail": "Co-Op Owner Bonus"
+			"detail": "협동전 호스트 보너스"
 		},
 		{
 			"eventPointBonusId": "100259",
@@ -3178,7 +3178,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100260",
@@ -3190,7 +3190,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100261",
@@ -3202,7 +3202,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100262",
@@ -3214,7 +3214,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100263",
@@ -3226,7 +3226,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100264",
@@ -3238,7 +3238,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100265",
@@ -3250,7 +3250,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100266",
@@ -3262,7 +3262,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100267",
@@ -3274,7 +3274,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100268",
@@ -3286,7 +3286,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100269",
@@ -3298,7 +3298,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100270",
@@ -3310,7 +3310,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100271",
@@ -3322,7 +3322,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100272",
@@ -3334,7 +3334,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100273",
@@ -3346,7 +3346,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100274",
@@ -3358,7 +3358,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "4",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100275",
@@ -3370,7 +3370,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Ravemon BM"
+			"detail": "레이브몬BM"
 		},
 		{
 			"eventPointBonusId": "100276",
@@ -3382,7 +3382,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Ravemon"
+			"detail": "레이브몬"
 		},
 		{
 			"eventPointBonusId": "100277",
@@ -3394,7 +3394,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "ShineGreymon BM"
+			"detail": "샤인그레이몬BM"
 		},
 		{
 			"eventPointBonusId": "100278",
@@ -3406,7 +3406,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100279",
@@ -3418,7 +3418,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "8",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100280",
@@ -3430,7 +3430,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Ravemon BM"
+			"detail": "레이브몬BM"
 		},
 		{
 			"eventPointBonusId": "100281",
@@ -3442,7 +3442,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Ravemon"
+			"detail": "레이브몬"
 		},
 		{
 			"eventPointBonusId": "100282",
@@ -3454,7 +3454,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "ShineGreymon BM"
+			"detail": "샤인그레이몬BM"
 		},
 		{
 			"eventPointBonusId": "100283",
@@ -3466,7 +3466,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100284",
@@ -3478,7 +3478,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "20",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100285",
@@ -3490,7 +3490,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Ravemon BM"
+			"detail": "레이브몬BM"
 		},
 		{
 			"eventPointBonusId": "100286",
@@ -3502,7 +3502,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Ravemon"
+			"detail": "레이브몬"
 		},
 		{
 			"eventPointBonusId": "100287",
@@ -3514,7 +3514,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "ShineGreymon BM"
+			"detail": "샤인그레이몬BM"
 		},
 		{
 			"eventPointBonusId": "100288",
@@ -3526,7 +3526,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100289",
@@ -3538,7 +3538,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "40",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100290",
@@ -3550,7 +3550,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Ravemon BM"
+			"detail": "레이브몬BM"
 		},
 		{
 			"eventPointBonusId": "100291",
@@ -3562,7 +3562,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Ravemon"
+			"detail": "레이브몬"
 		},
 		{
 			"eventPointBonusId": "100292",
@@ -3574,7 +3574,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "ShineGreymon BM"
+			"detail": "샤인그레이몬BM"
 		},
 		{
 			"eventPointBonusId": "100293",
@@ -3586,7 +3586,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100294",
@@ -3598,7 +3598,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "100",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100295",
@@ -3610,7 +3610,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "Ravemon BM"
+			"detail": "레이브몬BM"
 		},
 		{
 			"eventPointBonusId": "100296",
@@ -3622,7 +3622,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "Ravemon"
+			"detail": "레이브몬"
 		},
 		{
 			"eventPointBonusId": "100297",
@@ -3634,7 +3634,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "ShineGreymon BM"
+			"detail": "샤인그레이몬BM"
 		},
 		{
 			"eventPointBonusId": "100298",
@@ -3646,7 +3646,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "50",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100299",
@@ -3658,7 +3658,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100300",
@@ -3670,7 +3670,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100301",
@@ -3682,7 +3682,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100302",
@@ -3694,7 +3694,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100303",
@@ -3706,7 +3706,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100304",
@@ -3718,7 +3718,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100305",
@@ -3730,7 +3730,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100306",
@@ -3742,7 +3742,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100307",
@@ -3754,7 +3754,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100308",
@@ -3766,7 +3766,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100309",
@@ -3778,7 +3778,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100310",
@@ -3790,7 +3790,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100311",
@@ -3802,7 +3802,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100312",
@@ -3814,7 +3814,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100313",
@@ -3826,7 +3826,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100314",
@@ -3838,7 +3838,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "10",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100315",
@@ -3850,7 +3850,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "MirageGaogamon BM"
+			"detail": "미라쥬가오가몬BM"
 		},
 		{
 			"eventPointBonusId": "100316",
@@ -3862,7 +3862,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "170",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100317",
@@ -3874,7 +3874,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "MirageGaogamon BM"
+			"detail": "미라쥬가오가몬BM"
 		},
 		{
 			"eventPointBonusId": "100318",
@@ -3886,7 +3886,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "170",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100319",
@@ -3898,7 +3898,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "MirageGaogamon BM"
+			"detail": "미라쥬가오가몬BM"
 		},
 		{
 			"eventPointBonusId": "100320",
@@ -3910,7 +3910,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Diaboromon"
+			"detail": "디아블로몬"
 		},
 		{
 			"eventPointBonusId": "100321",
@@ -3922,7 +3922,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Diaboromon"
+			"detail": "디아블로몬"
 		},
 		{
 			"eventPointBonusId": "100322",
@@ -3934,7 +3934,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Diaboromon"
+			"detail": "디아블로몬"
 		},
 		{
 			"eventPointBonusId": "100323",
@@ -3946,7 +3946,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "4",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100324",
@@ -3958,7 +3958,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Ophanimon FM"
+			"detail": "오파니몬FM"
 		},
 		{
 			"eventPointBonusId": "100325",
@@ -3970,7 +3970,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Ophanimon"
+			"detail": "오파니몬"
 		},
 		{
 			"eventPointBonusId": "100326",
@@ -3982,7 +3982,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "MirageGaogamon BM"
+			"detail": "미라쥬가오가몬BM"
 		},
 		{
 			"eventPointBonusId": "100327",
@@ -3994,7 +3994,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100328",
@@ -4006,7 +4006,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "10",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100329",
@@ -4018,7 +4018,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Ophanimon FM"
+			"detail": "오파니몬FM"
 		},
 		{
 			"eventPointBonusId": "100330",
@@ -4030,7 +4030,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Ophanimon"
+			"detail": "오파니몬"
 		},
 		{
 			"eventPointBonusId": "100331",
@@ -4042,7 +4042,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "MirageGaogamon BM"
+			"detail": "미라쥬가오가몬BM"
 		},
 		{
 			"eventPointBonusId": "100332",
@@ -4054,7 +4054,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100333",
@@ -4066,7 +4066,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "20",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100334",
@@ -4078,7 +4078,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Ophanimon FM"
+			"detail": "오파니몬FM"
 		},
 		{
 			"eventPointBonusId": "100335",
@@ -4090,7 +4090,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Ophanimon"
+			"detail": "오파니몬"
 		},
 		{
 			"eventPointBonusId": "100336",
@@ -4102,7 +4102,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "MirageGaogamon BM"
+			"detail": "미라쥬가오가몬BM"
 		},
 		{
 			"eventPointBonusId": "100337",
@@ -4114,7 +4114,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100338",
@@ -4126,7 +4126,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "40",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100339",
@@ -4138,7 +4138,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Ophanimon FM"
+			"detail": "오파니몬FM"
 		},
 		{
 			"eventPointBonusId": "100340",
@@ -4150,7 +4150,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Ophanimon"
+			"detail": "오파니몬"
 		},
 		{
 			"eventPointBonusId": "100341",
@@ -4162,7 +4162,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "MirageGaogamon BM"
+			"detail": "미라쥬가오가몬BM"
 		},
 		{
 			"eventPointBonusId": "100342",
@@ -4174,7 +4174,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100343",
@@ -4186,7 +4186,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "60",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100344",
@@ -4198,7 +4198,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "16",
-			"detail": "Ophanimon FM"
+			"detail": "오파니몬FM"
 		},
 		{
 			"eventPointBonusId": "100345",
@@ -4210,7 +4210,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "16",
-			"detail": "Ophanimon"
+			"detail": "오파니몬"
 		},
 		{
 			"eventPointBonusId": "100346",
@@ -4222,7 +4222,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "16",
-			"detail": "MirageGaogamon BM"
+			"detail": "미라쥬가오가몬BM"
 		},
 		{
 			"eventPointBonusId": "100347",
@@ -4234,7 +4234,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "40",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100348",
@@ -4246,7 +4246,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100349",
@@ -4258,7 +4258,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100350",
@@ -4270,7 +4270,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100351",
@@ -4282,7 +4282,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100352",
@@ -4294,7 +4294,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100353",
@@ -4306,7 +4306,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100354",
@@ -4318,7 +4318,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100355",
@@ -4330,7 +4330,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100356",
@@ -4342,7 +4342,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100357",
@@ -4354,7 +4354,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100358",
@@ -4366,7 +4366,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100359",
@@ -4378,7 +4378,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100360",
@@ -4390,7 +4390,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100361",
@@ -4402,7 +4402,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100362",
@@ -4414,7 +4414,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100363",
@@ -4426,7 +4426,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "100",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100364",
@@ -4438,7 +4438,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "24",
-			"detail": "Ophanimon FM"
+			"detail": "오파니몬FM"
 		},
 		{
 			"eventPointBonusId": "100365",
@@ -4450,7 +4450,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "24",
-			"detail": "Ophanimon"
+			"detail": "오파니몬"
 		},
 		{
 			"eventPointBonusId": "100366",
@@ -4462,7 +4462,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "24",
-			"detail": "MirageGaogamon BM"
+			"detail": "미라쥬가오가몬BM"
 		},
 		{
 			"eventPointBonusId": "100367",
@@ -4474,7 +4474,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "100",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100368",
@@ -4486,7 +4486,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100369",
@@ -4498,7 +4498,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100370",
@@ -4510,7 +4510,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100371",
@@ -4522,7 +4522,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "10",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100372",
@@ -4534,7 +4534,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "TigerVespamon"
+			"detail": "타이거베스파몬"
 		},
 		{
 			"eventPointBonusId": "100373",
@@ -4546,7 +4546,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "170",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100374",
@@ -4558,7 +4558,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "TigerVespamon"
+			"detail": "타이거베스파몬"
 		},
 		{
 			"eventPointBonusId": "100375",
@@ -4570,7 +4570,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "200",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100376",
@@ -4582,7 +4582,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "TigerVespamon"
+			"detail": "타이거베스파몬"
 		},
 		{
 			"eventPointBonusId": "100377",
@@ -4594,7 +4594,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Durandamon"
+			"detail": "듀란다몬"
 		},
 		{
 			"eventPointBonusId": "100378",
@@ -4606,7 +4606,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Durandamon"
+			"detail": "듀란다몬"
 		},
 		{
 			"eventPointBonusId": "100379",
@@ -4618,7 +4618,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Durandamon"
+			"detail": "듀란다몬"
 		},
 		{
 			"eventPointBonusId": "100380",
@@ -4630,7 +4630,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "UlforceVeedramon"
+			"detail": "알포스브이드라몬"
 		},
 		{
 			"eventPointBonusId": "100381",
@@ -4642,7 +4642,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "UlforceVeedramon"
+			"detail": "알포스브이드라몬"
 		},
 		{
 			"eventPointBonusId": "100382",
@@ -4654,7 +4654,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "UlforceVeedramon"
+			"detail": "알포스브이드라몬"
 		},
 		{
 			"eventPointBonusId": "100383",
@@ -4666,7 +4666,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "5",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100384",
@@ -4678,7 +4678,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "1",
-			"detail": "Brakedramon"
+			"detail": "브레이크드라몬"
 		},
 		{
 			"eventPointBonusId": "100385",
@@ -4690,7 +4690,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "1",
-			"detail": "Slayerdramon"
+			"detail": "슬레이어드라몬"
 		},
 		{
 			"eventPointBonusId": "100386",
@@ -4702,7 +4702,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100387",
@@ -4714,7 +4714,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "12",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100388",
@@ -4726,7 +4726,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Brakedramon"
+			"detail": "브레이크드라몬"
 		},
 		{
 			"eventPointBonusId": "100389",
@@ -4738,7 +4738,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Slayerdramon"
+			"detail": "슬레이어드라몬"
 		},
 		{
 			"eventPointBonusId": "100390",
@@ -4750,7 +4750,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100391",
@@ -4762,7 +4762,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "20",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100392",
@@ -4774,7 +4774,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "Brakedramon"
+			"detail": "브레이크드라몬"
 		},
 		{
 			"eventPointBonusId": "100393",
@@ -4786,7 +4786,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "Slayerdramon"
+			"detail": "슬레이어드라몬"
 		},
 		{
 			"eventPointBonusId": "100394",
@@ -4798,7 +4798,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "12",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100395",
@@ -4810,7 +4810,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "35",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100396",
@@ -4822,7 +4822,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Brakedramon"
+			"detail": "브레이크드라몬"
 		},
 		{
 			"eventPointBonusId": "100397",
@@ -4834,7 +4834,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Slayerdramon"
+			"detail": "슬레이어드라몬"
 		},
 		{
 			"eventPointBonusId": "100398",
@@ -4846,7 +4846,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "25",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100399",
@@ -4858,7 +4858,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "60",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100400",
@@ -4870,7 +4870,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "Brakedramon"
+			"detail": "브레이크드라몬"
 		},
 		{
 			"eventPointBonusId": "100401",
@@ -4882,7 +4882,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "Slayerdramon"
+			"detail": "슬레이어드라몬"
 		},
 		{
 			"eventPointBonusId": "100402",
@@ -4894,7 +4894,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "45",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100403",
@@ -4906,7 +4906,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "100",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100404",
@@ -4918,7 +4918,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Brakedramon"
+			"detail": "브레이크드라몬"
 		},
 		{
 			"eventPointBonusId": "100405",
@@ -4930,7 +4930,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Slayerdramon"
+			"detail": "슬레이어드라몬"
 		},
 		{
 			"eventPointBonusId": "100406",
@@ -4942,7 +4942,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "60",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100407",
@@ -4954,7 +4954,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100408",
@@ -4966,7 +4966,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100409",
@@ -4978,7 +4978,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100410",
@@ -4990,7 +4990,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100411",
@@ -5002,7 +5002,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100412",
@@ -5014,7 +5014,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100413",
@@ -5026,7 +5026,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100414",
@@ -5038,7 +5038,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100415",
@@ -5050,7 +5050,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100416",
@@ -5062,7 +5062,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100417",
@@ -5074,7 +5074,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100418",
@@ -5086,7 +5086,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100419",
@@ -5098,7 +5098,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100420",
@@ -5110,7 +5110,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100421",
@@ -5122,7 +5122,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100422",
@@ -5134,7 +5134,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100423",
@@ -5146,7 +5146,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100424",
@@ -5158,7 +5158,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100425",
@@ -5170,7 +5170,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "5",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100426",
@@ -5182,7 +5182,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "1",
-			"detail": "ShineGreymon RM"
+			"detail": "샤인그레이몬RM"
 		},
 		{
 			"eventPointBonusId": "100427",
@@ -5194,7 +5194,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "1",
-			"detail": "Diaboromon"
+			"detail": "디아블로몬"
 		},
 		{
 			"eventPointBonusId": "100428",
@@ -5206,7 +5206,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100429",
@@ -5218,7 +5218,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "12",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100430",
@@ -5230,7 +5230,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "ShineGreymon RM"
+			"detail": "샤인그레이몬RM"
 		},
 		{
 			"eventPointBonusId": "100431",
@@ -5242,7 +5242,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Diaboromon"
+			"detail": "디아블로몬"
 		},
 		{
 			"eventPointBonusId": "100432",
@@ -5254,7 +5254,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100433",
@@ -5266,7 +5266,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "20",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100434",
@@ -5278,7 +5278,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "ShineGreymon RM"
+			"detail": "샤인그레이몬RM"
 		},
 		{
 			"eventPointBonusId": "100435",
@@ -5290,7 +5290,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "Diaboromon"
+			"detail": "디아블로몬"
 		},
 		{
 			"eventPointBonusId": "100436",
@@ -5302,7 +5302,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "12",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100437",
@@ -5314,7 +5314,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "40",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100438",
@@ -5326,7 +5326,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "ShineGreymon RM"
+			"detail": "샤인그레이몬RM"
 		},
 		{
 			"eventPointBonusId": "100439",
@@ -5338,7 +5338,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Diaboromon"
+			"detail": "디아블로몬"
 		},
 		{
 			"eventPointBonusId": "100440",
@@ -5350,7 +5350,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "25",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100441",
@@ -5362,7 +5362,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "60",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100442",
@@ -5374,7 +5374,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "ShineGreymon RM"
+			"detail": "샤인그레이몬RM"
 		},
 		{
 			"eventPointBonusId": "100443",
@@ -5386,7 +5386,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "Diaboromon"
+			"detail": "디아블로몬"
 		},
 		{
 			"eventPointBonusId": "100444",
@@ -5398,7 +5398,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "35",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100445",
@@ -5410,7 +5410,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "90",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100446",
@@ -5422,7 +5422,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "ShineGreymon RM"
+			"detail": "샤인그레이몬RM"
 		},
 		{
 			"eventPointBonusId": "100447",
@@ -5434,7 +5434,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Diaboromon"
+			"detail": "디아블로몬"
 		},
 		{
 			"eventPointBonusId": "100448",
@@ -5446,7 +5446,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "50",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100449",
@@ -5458,7 +5458,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100450",
@@ -5470,7 +5470,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100451",
@@ -5482,7 +5482,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100452",
@@ -5494,7 +5494,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100453",
@@ -5506,7 +5506,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100454",
@@ -5518,7 +5518,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100455",
@@ -5530,7 +5530,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100456",
@@ -5542,7 +5542,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100457",
@@ -5554,7 +5554,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100458",
@@ -5566,7 +5566,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100459",
@@ -5578,7 +5578,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100460",
@@ -5590,7 +5590,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100461",
@@ -5602,7 +5602,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100462",
@@ -5614,7 +5614,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100463",
@@ -5626,7 +5626,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100464",
@@ -5638,7 +5638,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100465",
@@ -5650,7 +5650,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100466",
@@ -5662,7 +5662,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100467",
@@ -5674,7 +5674,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "3",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100468",
@@ -5686,7 +5686,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "Ravemon BM"
+			"detail": "레이브몬BM"
 		},
 		{
 			"eventPointBonusId": "100469",
@@ -5698,7 +5698,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "Rosemon BM"
+			"detail": "로제몬BM"
 		},
 		{
 			"eventPointBonusId": "100470",
@@ -5710,7 +5710,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100471",
@@ -5722,7 +5722,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "9",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100472",
@@ -5734,7 +5734,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Ravemon BM"
+			"detail": "레이브몬BM"
 		},
 		{
 			"eventPointBonusId": "100473",
@@ -5746,7 +5746,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Rosemon BM"
+			"detail": "로제몬BM"
 		},
 		{
 			"eventPointBonusId": "100474",
@@ -5758,7 +5758,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100475",
@@ -5770,7 +5770,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "16",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100476",
@@ -5782,7 +5782,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Ravemon BM"
+			"detail": "레이브몬BM"
 		},
 		{
 			"eventPointBonusId": "100477",
@@ -5794,7 +5794,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Rosemon BM"
+			"detail": "로제몬BM"
 		},
 		{
 			"eventPointBonusId": "100478",
@@ -5806,7 +5806,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100479",
@@ -5818,7 +5818,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "40",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100480",
@@ -5830,7 +5830,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "15",
-			"detail": "Ravemon BM"
+			"detail": "레이브몬BM"
 		},
 		{
 			"eventPointBonusId": "100481",
@@ -5842,7 +5842,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "15",
-			"detail": "Rosemon BM"
+			"detail": "로제몬BM"
 		},
 		{
 			"eventPointBonusId": "100482",
@@ -5854,7 +5854,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100483",
@@ -5866,7 +5866,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "60",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100484",
@@ -5878,7 +5878,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "Ravemon BM"
+			"detail": "레이브몬BM"
 		},
 		{
 			"eventPointBonusId": "100485",
@@ -5890,7 +5890,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "Rosemon BM"
+			"detail": "로제몬BM"
 		},
 		{
 			"eventPointBonusId": "100486",
@@ -5902,7 +5902,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "50",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100487",
@@ -5914,7 +5914,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100488",
@@ -5926,7 +5926,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100489",
@@ -5938,7 +5938,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100490",
@@ -5950,7 +5950,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100491",
@@ -5962,7 +5962,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100492",
@@ -5974,7 +5974,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100493",
@@ -5986,7 +5986,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100494",
@@ -5998,7 +5998,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100495",
@@ -6010,7 +6010,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100496",
@@ -6022,7 +6022,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100497",
@@ -6034,7 +6034,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100498",
@@ -6046,7 +6046,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100499",
@@ -6058,7 +6058,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100500",
@@ -6070,7 +6070,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100501",
@@ -6082,7 +6082,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100502",
@@ -6094,7 +6094,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "10",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100503",
@@ -6106,7 +6106,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Magnamon"
+			"detail": "매그너몬"
 		},
 		{
 			"eventPointBonusId": "100504",
@@ -6118,7 +6118,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Kentaurosmon"
+			"detail": "슬레이프몬"
 		},
 		{
 			"eventPointBonusId": "100505",
@@ -6130,7 +6130,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "170",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100506",
@@ -6142,7 +6142,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Magnamon"
+			"detail": "매그너몬"
 		},
 		{
 			"eventPointBonusId": "100507",
@@ -6154,7 +6154,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Kentaurosmon"
+			"detail": "슬레이프몬"
 		},
 		{
 			"eventPointBonusId": "100508",
@@ -6166,7 +6166,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "200",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100509",
@@ -6178,7 +6178,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Magnamon"
+			"detail": "매그너몬"
 		},
 		{
 			"eventPointBonusId": "100510",
@@ -6190,7 +6190,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Kentaurosmon"
+			"detail": "슬레이프몬"
 		},
 		{
 			"eventPointBonusId": "100511",
@@ -6202,7 +6202,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "5",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100512",
@@ -6214,7 +6214,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "1",
-			"detail": "Magnamon"
+			"detail": "매그너몬"
 		},
 		{
 			"eventPointBonusId": "100513",
@@ -6226,7 +6226,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "1",
-			"detail": "Gallantmon CM"
+			"detail": "듀크몬CM"
 		},
 		{
 			"eventPointBonusId": "100514",
@@ -6238,7 +6238,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100515",
@@ -6250,7 +6250,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "12",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100516",
@@ -6262,7 +6262,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Magnamon"
+			"detail": "매그너몬"
 		},
 		{
 			"eventPointBonusId": "100517",
@@ -6274,7 +6274,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Gallantmon CM"
+			"detail": "듀크몬CM"
 		},
 		{
 			"eventPointBonusId": "100518",
@@ -6286,7 +6286,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100519",
@@ -6298,7 +6298,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "20",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100520",
@@ -6310,7 +6310,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "Magnamon"
+			"detail": "매그너몬"
 		},
 		{
 			"eventPointBonusId": "100521",
@@ -6322,7 +6322,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "Gallantmon CM"
+			"detail": "듀크몬CM"
 		},
 		{
 			"eventPointBonusId": "100522",
@@ -6334,7 +6334,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "12",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100523",
@@ -6346,7 +6346,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "30",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100524",
@@ -6358,7 +6358,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Magnamon"
+			"detail": "매그너몬"
 		},
 		{
 			"eventPointBonusId": "100525",
@@ -6370,7 +6370,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Gallantmon CM"
+			"detail": "듀크몬CM"
 		},
 		{
 			"eventPointBonusId": "100526",
@@ -6382,7 +6382,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "25",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100527",
@@ -6394,7 +6394,7 @@
 			"effectType": "3",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Target Bonus/Guilmon"
+			"detail": "표적 보너스/길몬"
 		},
 		{
 			"eventPointBonusId": "100528",
@@ -6406,7 +6406,7 @@
 			"effectType": "4",
 			"effectSubType": "3",
 			"effectValue": "15",
-			"detail": "Target Bonus/Growlmon"
+			"detail": "표적 보너스/그라우몬"
 		},
 		{
 			"eventPointBonusId": "100529",
@@ -6418,7 +6418,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "50",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100530",
@@ -6430,7 +6430,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "Magnamon"
+			"detail": "매그너몬"
 		},
 		{
 			"eventPointBonusId": "100531",
@@ -6442,7 +6442,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "Gallantmon CM"
+			"detail": "듀크몬CM"
 		},
 		{
 			"eventPointBonusId": "100532",
@@ -6454,7 +6454,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "35",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100533",
@@ -6466,7 +6466,7 @@
 			"effectType": "3",
 			"effectSubType": "3",
 			"effectValue": "15",
-			"detail": "Target Bonus/Guilmon"
+			"detail": "표적 보너스/길몬"
 		},
 		{
 			"eventPointBonusId": "100534",
@@ -6478,7 +6478,7 @@
 			"effectType": "4",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "Target Bonus/Growlmon"
+			"detail": "표적 보너스/그라우몬"
 		},
 		{
 			"eventPointBonusId": "100535",
@@ -6490,7 +6490,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "80",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100536",
@@ -6502,7 +6502,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Magnamon"
+			"detail": "매그너몬"
 		},
 		{
 			"eventPointBonusId": "100537",
@@ -6514,7 +6514,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Gallantmon CM"
+			"detail": "듀크몬CM"
 		},
 		{
 			"eventPointBonusId": "100538",
@@ -6526,7 +6526,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "40",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100539",
@@ -6538,7 +6538,7 @@
 			"effectType": "3",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "Target Bonus/Guilmon"
+			"detail": "표적 보너스/길몬"
 		},
 		{
 			"eventPointBonusId": "100540",
@@ -6550,7 +6550,7 @@
 			"effectType": "4",
 			"effectSubType": "3",
 			"effectValue": "25",
-			"detail": "Target Bonus/Growlmon"
+			"detail": "표적 보너스/그라우몬"
 		},
 		{
 			"eventPointBonusId": "100541",
@@ -6562,7 +6562,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100542",
@@ -6574,7 +6574,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100543",
@@ -6586,7 +6586,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100544",
@@ -6598,7 +6598,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100545",
@@ -6610,7 +6610,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100546",
@@ -6622,7 +6622,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100547",
@@ -6634,7 +6634,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100548",
@@ -6646,7 +6646,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100549",
@@ -6658,7 +6658,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100550",
@@ -6670,7 +6670,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100551",
@@ -6682,7 +6682,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100552",
@@ -6694,7 +6694,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100553",
@@ -6706,7 +6706,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100554",
@@ -6718,7 +6718,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100555",
@@ -6730,7 +6730,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100556",
@@ -6742,7 +6742,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100557",
@@ -6754,7 +6754,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100558",
@@ -6766,7 +6766,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100559",
@@ -6778,7 +6778,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "12",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100560",
@@ -6790,7 +6790,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "MetalGarurumon"
+			"detail": "메탈가루몬"
 		},
 		{
 			"eventPointBonusId": "100561",
@@ -6802,7 +6802,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "MetalGarurumon X"
+			"detail": "메탈가루몬X항체"
 		},
 		{
 			"eventPointBonusId": "100562",
@@ -6814,7 +6814,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100563",
@@ -6826,7 +6826,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "20",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100564",
@@ -6838,7 +6838,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "MetalGarurumon"
+			"detail": "메탈가루몬"
 		},
 		{
 			"eventPointBonusId": "100565",
@@ -6850,7 +6850,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "MetalGarurumon X"
+			"detail": "메탈가루몬X항체"
 		},
 		{
 			"eventPointBonusId": "100566",
@@ -6862,7 +6862,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "12",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100567",
@@ -6874,7 +6874,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "35",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100568",
@@ -6886,7 +6886,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "MetalGarurumon"
+			"detail": "메탈가루몬"
 		},
 		{
 			"eventPointBonusId": "100569",
@@ -6898,7 +6898,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "MetalGarurumon X"
+			"detail": "메탈가루몬X항체"
 		},
 		{
 			"eventPointBonusId": "100570",
@@ -6910,7 +6910,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "25",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100571",
@@ -6922,7 +6922,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "50",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100572",
@@ -6934,7 +6934,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "MetalGarurumon"
+			"detail": "메탈가루몬"
 		},
 		{
 			"eventPointBonusId": "100573",
@@ -6946,7 +6946,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "MetalGarurumon X"
+			"detail": "메탈가루몬X항체"
 		},
 		{
 			"eventPointBonusId": "100574",
@@ -6958,7 +6958,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "35",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100575",
@@ -6970,7 +6970,7 @@
 			"effectType": "3",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Target Bonus/BanchoLeomon"
+			"detail": "표적 보너스/반쵸레오몬"
 		},
 		{
 			"eventPointBonusId": "100576",
@@ -6982,7 +6982,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "70",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100577",
@@ -6994,7 +6994,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "MetalGarurumon"
+			"detail": "메탈가루몬"
 		},
 		{
 			"eventPointBonusId": "100578",
@@ -7006,7 +7006,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "MetalGarurumon X"
+			"detail": "메탈가루몬X항체"
 		},
 		{
 			"eventPointBonusId": "100579",
@@ -7018,7 +7018,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "40",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100580",
@@ -7030,7 +7030,7 @@
 			"effectType": "3",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "Target Bonus/BanchoLeomon"
+			"detail": "표적 보너스/반쵸레오몬"
 		},
 		{
 			"eventPointBonusId": "100581",
@@ -7042,7 +7042,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100582",
@@ -7054,7 +7054,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100583",
@@ -7066,7 +7066,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100584",
@@ -7078,7 +7078,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100585",
@@ -7090,7 +7090,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100586",
@@ -7102,7 +7102,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100587",
@@ -7114,7 +7114,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100588",
@@ -7126,7 +7126,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100589",
@@ -7138,7 +7138,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100590",
@@ -7150,7 +7150,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100591",
@@ -7162,7 +7162,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100592",
@@ -7174,7 +7174,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100593",
@@ -7186,7 +7186,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100594",
@@ -7198,7 +7198,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100595",
@@ -7210,7 +7210,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100596",
@@ -7222,7 +7222,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "5",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100597",
@@ -7234,7 +7234,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "1",
-			"detail": "MetalGarurumon X"
+			"detail": "메탈가루몬X항체"
 		},
 		{
 			"eventPointBonusId": "100598",
@@ -7246,7 +7246,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "1",
-			"detail": "MetalGarurumon"
+			"detail": "메탈가루몬"
 		},
 		{
 			"eventPointBonusId": "100599",
@@ -7258,7 +7258,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100600",
@@ -7270,7 +7270,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "12",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100601",
@@ -7282,7 +7282,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "MetalGarurumon X"
+			"detail": "메탈가루몬X항체"
 		},
 		{
 			"eventPointBonusId": "100602",
@@ -7294,7 +7294,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "MetalGarurumon"
+			"detail": "메탈가루몬"
 		},
 		{
 			"eventPointBonusId": "100603",
@@ -7306,7 +7306,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100604",
@@ -7318,7 +7318,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "20",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100605",
@@ -7330,7 +7330,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "MetalGarurumon X"
+			"detail": "메탈가루몬X항체"
 		},
 		{
 			"eventPointBonusId": "100606",
@@ -7342,7 +7342,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "MetalGarurumon"
+			"detail": "메탈가루몬"
 		},
 		{
 			"eventPointBonusId": "100607",
@@ -7354,7 +7354,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "12",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100608",
@@ -7366,7 +7366,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "30",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100609",
@@ -7378,7 +7378,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "MetalGarurumon X"
+			"detail": "메탈가루몬X항체"
 		},
 		{
 			"eventPointBonusId": "100610",
@@ -7390,7 +7390,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "MetalGarurumon"
+			"detail": "메탈가루몬"
 		},
 		{
 			"eventPointBonusId": "100611",
@@ -7402,7 +7402,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "25",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100612",
@@ -7414,7 +7414,7 @@
 			"effectType": "3",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "Target Bonus/Agumon"
+			"detail": "표적 보너스/아구몬"
 		},
 		{
 			"eventPointBonusId": "100613",
@@ -7426,7 +7426,7 @@
 			"effectType": "4",
 			"effectSubType": "3",
 			"effectValue": "15",
-			"detail": "Target Bonus/Greymon"
+			"detail": "표적 보너스/그레이몬"
 		},
 		{
 			"eventPointBonusId": "100614",
@@ -7438,7 +7438,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "50",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100615",
@@ -7450,7 +7450,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "MetalGarurumon X"
+			"detail": "메탈가루몬X항체"
 		},
 		{
 			"eventPointBonusId": "100616",
@@ -7462,7 +7462,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "MetalGarurumon"
+			"detail": "메탈가루몬"
 		},
 		{
 			"eventPointBonusId": "100617",
@@ -7474,7 +7474,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "35",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100618",
@@ -7486,7 +7486,7 @@
 			"effectType": "3",
 			"effectSubType": "3",
 			"effectValue": "15",
-			"detail": "Target Bonus/Agumon"
+			"detail": "표적 보너스/아구몬"
 		},
 		{
 			"eventPointBonusId": "100619",
@@ -7498,7 +7498,7 @@
 			"effectType": "4",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "Target Bonus/Greymon"
+			"detail": "표적 보너스/그레이몬"
 		},
 		{
 			"eventPointBonusId": "100620",
@@ -7510,7 +7510,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "80",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100621",
@@ -7522,7 +7522,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "MetalGarurumon X"
+			"detail": "메탈가루몬X항체"
 		},
 		{
 			"eventPointBonusId": "100622",
@@ -7534,7 +7534,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "MetalGarurumon"
+			"detail": "메탈가루몬"
 		},
 		{
 			"eventPointBonusId": "100623",
@@ -7546,7 +7546,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "40",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100624",
@@ -7558,7 +7558,7 @@
 			"effectType": "3",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "Target Bonus/Agumon"
+			"detail": "표적 보너스/아구몬"
 		},
 		{
 			"eventPointBonusId": "100625",
@@ -7570,7 +7570,7 @@
 			"effectType": "4",
 			"effectSubType": "3",
 			"effectValue": "25",
-			"detail": "Target Bonus/Greymon"
+			"detail": "표적 보너스/그레이몬"
 		},
 		{
 			"eventPointBonusId": "100626",
@@ -7582,7 +7582,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100627",
@@ -7594,7 +7594,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100628",
@@ -7606,7 +7606,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100629",
@@ -7618,7 +7618,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100630",
@@ -7630,7 +7630,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100631",
@@ -7642,7 +7642,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100632",
@@ -7654,7 +7654,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100633",
@@ -7666,7 +7666,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100634",
@@ -7678,7 +7678,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100635",
@@ -7690,7 +7690,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100636",
@@ -7702,7 +7702,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100637",
@@ -7714,7 +7714,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100638",
@@ -7726,7 +7726,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100639",
@@ -7738,7 +7738,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100640",
@@ -7750,7 +7750,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100641",
@@ -7762,7 +7762,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100642",
@@ -7774,7 +7774,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100643",
@@ -7786,7 +7786,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100644",
@@ -7798,7 +7798,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "3",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100645",
@@ -7810,7 +7810,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "CresGarurumon"
+			"detail": "크레스가루몬"
 		},
 		{
 			"eventPointBonusId": "100646",
@@ -7822,7 +7822,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100647",
@@ -7834,7 +7834,7 @@
 			"effectType": "3",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100648",
@@ -7846,7 +7846,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100649",
@@ -7858,7 +7858,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100650",
@@ -7870,7 +7870,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "9",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100651",
@@ -7882,7 +7882,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "CresGarurumon"
+			"detail": "크레스가루몬"
 		},
 		{
 			"eventPointBonusId": "100652",
@@ -7894,7 +7894,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100653",
@@ -7906,7 +7906,7 @@
 			"effectType": "3",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100654",
@@ -7918,7 +7918,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100655",
@@ -7930,7 +7930,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100656",
@@ -7942,7 +7942,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "16",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100657",
@@ -7954,7 +7954,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "CresGarurumon"
+			"detail": "크레스가루몬"
 		},
 		{
 			"eventPointBonusId": "100658",
@@ -7966,7 +7966,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "10",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100659",
@@ -7978,7 +7978,7 @@
 			"effectType": "3",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100660",
@@ -7990,7 +7990,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100661",
@@ -8002,7 +8002,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100662",
@@ -8014,7 +8014,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "40",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100663",
@@ -8026,7 +8026,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "15",
-			"detail": "CresGarurumon"
+			"detail": "크레스가루몬"
 		},
 		{
 			"eventPointBonusId": "100664",
@@ -8038,7 +8038,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100665",
@@ -8050,7 +8050,7 @@
 			"effectType": "3",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100666",
@@ -8062,7 +8062,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100667",
@@ -8074,7 +8074,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100668",
@@ -8086,7 +8086,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "60",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100669",
@@ -8098,7 +8098,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "20",
-			"detail": "CresGarurumon"
+			"detail": "크레스가루몬"
 		},
 		{
 			"eventPointBonusId": "100670",
@@ -8110,7 +8110,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "50",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100671",
@@ -8122,7 +8122,7 @@
 			"effectType": "3",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100672",
@@ -8134,7 +8134,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100673",
@@ -8146,7 +8146,7 @@
 			"effectType": "5",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100674",
@@ -8158,7 +8158,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "5",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100675",
@@ -8170,7 +8170,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "AncientGreymon"
+			"detail": "에이션트그레이몬"
 		},
 		{
 			"eventPointBonusId": "100676",
@@ -8182,7 +8182,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "AncientGarurumon"
+			"detail": "에이션트가루몬"
 		},
 		{
 			"eventPointBonusId": "100677",
@@ -8194,7 +8194,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Susanoomon"
+			"detail": "스사노오몬"
 		},
 		{
 			"eventPointBonusId": "100678",
@@ -8206,7 +8206,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Magnamon X Anti-body"
+			"detail": "매그너몬X항체"
 		},
 		{
 			"eventPointBonusId": "100679",
@@ -8218,7 +8218,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100680",
@@ -8230,7 +8230,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100681",
@@ -8242,7 +8242,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100682",
@@ -8254,7 +8254,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100683",
@@ -8266,7 +8266,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "12",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100684",
@@ -8278,7 +8278,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "AncientGreymon"
+			"detail": "에이션트그레이몬"
 		},
 		{
 			"eventPointBonusId": "100685",
@@ -8290,7 +8290,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "AncientGarurumon"
+			"detail": "에이션트가루몬"
 		},
 		{
 			"eventPointBonusId": "100686",
@@ -8302,7 +8302,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Susanoomon"
+			"detail": "스사노오몬"
 		},
 		{
 			"eventPointBonusId": "100687",
@@ -8314,7 +8314,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "2",
-			"detail": "Magnamon X Anti-body"
+			"detail": "매그너몬X항체"
 		},
 		{
 			"eventPointBonusId": "100688",
@@ -8326,7 +8326,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100689",
@@ -8338,7 +8338,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100690",
@@ -8350,7 +8350,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100691",
@@ -8362,7 +8362,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100692",
@@ -8374,7 +8374,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "20",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100693",
@@ -8386,7 +8386,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "AncientGreymon"
+			"detail": "에이션트그레이몬"
 		},
 		{
 			"eventPointBonusId": "100694",
@@ -8398,7 +8398,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "AncientGarurumon"
+			"detail": "에이션트가루몬"
 		},
 		{
 			"eventPointBonusId": "100695",
@@ -8410,7 +8410,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "Susanoomon"
+			"detail": "스사노오몬"
 		},
 		{
 			"eventPointBonusId": "100696",
@@ -8422,7 +8422,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "3",
-			"detail": "Magnamon X Anti-body"
+			"detail": "매그너몬X항체"
 		},
 		{
 			"eventPointBonusId": "100697",
@@ -8434,7 +8434,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "12",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100698",
@@ -8446,7 +8446,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100699",
@@ -8458,7 +8458,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100700",
@@ -8470,7 +8470,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100701",
@@ -8482,7 +8482,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "40",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100702",
@@ -8494,7 +8494,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "AncientGreymon"
+			"detail": "에이션트그레이몬"
 		},
 		{
 			"eventPointBonusId": "100703",
@@ -8506,7 +8506,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "AncientGarurumon"
+			"detail": "에이션트가루몬"
 		},
 		{
 			"eventPointBonusId": "100704",
@@ -8518,7 +8518,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Susanoomon"
+			"detail": "스사노오몬"
 		},
 		{
 			"eventPointBonusId": "100705",
@@ -8530,7 +8530,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "4",
-			"detail": "Magnamon X Anti-body"
+			"detail": "매그너몬X항체"
 		},
 		{
 			"eventPointBonusId": "100706",
@@ -8542,7 +8542,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "25",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100707",
@@ -8554,7 +8554,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100708",
@@ -8566,7 +8566,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100709",
@@ -8578,7 +8578,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100710",
@@ -8590,7 +8590,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "60",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100711",
@@ -8602,7 +8602,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "AncientGreymon"
+			"detail": "에이션트그레이몬"
 		},
 		{
 			"eventPointBonusId": "100712",
@@ -8614,7 +8614,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "AncientGarurumon"
+			"detail": "에이션트가루몬"
 		},
 		{
 			"eventPointBonusId": "100713",
@@ -8626,7 +8626,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "Susanoomon"
+			"detail": "스사노오몬"
 		},
 		{
 			"eventPointBonusId": "100714",
@@ -8638,7 +8638,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "5",
-			"detail": "Magnamon X Anti-body"
+			"detail": "매그너몬X항체"
 		},
 		{
 			"eventPointBonusId": "100715",
@@ -8650,7 +8650,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "35",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100716",
@@ -8662,7 +8662,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100717",
@@ -8674,7 +8674,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100718",
@@ -8686,7 +8686,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		},
 		{
 			"eventPointBonusId": "100719",
@@ -8698,7 +8698,7 @@
 			"effectType": "0",
 			"effectSubType": "0",
 			"effectValue": "90",
-			"detail": "Base Points"
+			"detail": "기본 포인트"
 		},
 		{
 			"eventPointBonusId": "100720",
@@ -8710,7 +8710,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "AncientGreymon"
+			"detail": "에이션트그레이몬"
 		},
 		{
 			"eventPointBonusId": "100721",
@@ -8722,7 +8722,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "AncientGarurumon"
+			"detail": "에이션트가루몬"
 		},
 		{
 			"eventPointBonusId": "100722",
@@ -8734,7 +8734,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Susanoomon"
+			"detail": "스사노오몬"
 		},
 		{
 			"eventPointBonusId": "100723",
@@ -8746,7 +8746,7 @@
 			"effectType": "1",
 			"effectSubType": "3",
 			"effectValue": "6",
-			"detail": "Magnamon X Anti-body"
+			"detail": "매그너몬X항체"
 		},
 		{
 			"eventPointBonusId": "100724",
@@ -8758,7 +8758,7 @@
 			"effectType": "2",
 			"effectSubType": "3",
 			"effectValue": "50",
-			"detail": "No Continue Bonus"
+			"detail": "노컨티뉴 클리어 보너스"
 		},
 		{
 			"eventPointBonusId": "100725",
@@ -8770,7 +8770,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "0.5",
-			"detail": "Pt Specialty C"
+			"detail": "Pt 특효 C"
 		},
 		{
 			"eventPointBonusId": "100726",
@@ -8782,7 +8782,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "2",
-			"detail": "Pt Specialty B"
+			"detail": "Pt 특효 B"
 		},
 		{
 			"eventPointBonusId": "100727",
@@ -8794,7 +8794,7 @@
 			"effectType": "4",
 			"effectSubType": "2",
 			"effectValue": "5",
-			"detail": "Pt Specialty A"
+			"detail": "Pt 특효 A"
 		}
 	]
 }

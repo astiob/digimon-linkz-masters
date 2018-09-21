@@ -3,785 +3,785 @@
 		{
 			"helpId": "1",
 			"helpCategoryId": "1",
-			"helpTitle": "Digimon Links",
+			"helpTitle": "디지몬 링크즈",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The app that connects the Digital World and the real world<br/>is known as <span class='fnt_emphasis fnt_bold'>Digimon Links.</span></div><div class='txt margin_top_10'>Thanks to <span class='fnt_emphasis fnt_bold'>Digimon Links,</span> people can access<br/>the Digital World, an alternate world.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>디지털 월드와 현실 세계를 연결하는 앱,<br/><span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>입니다.</div><div class='txt margin_top_10'>사람들은 <span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>를 통해 또 다른 세계인<br/>디지털 월드에 접속할 수 있습니다.</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "2",
 			"helpCategoryId": "1",
-			"helpTitle": "How to Play",
+			"helpTitle": "게임 목적",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Due to the breakdown of the Digital World, all of its digital<br/>data is fragmenting into<span class='fnt_emphasis fnt_bold'>Clusters</span>and<br/>is causing many Digimon to go wild.</div><div class='txt margin_top_10'>Your goal is to battle the rampaging Digimon,<br/>gather Clusters, and train Digimon in order<br/>to reconstruct the Digital World.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>디지털 월드의 붕괴로 다양한 디지털 데이터가<br/>분해되어 <span class='fnt_emphasis fnt_bold'>클러스터</span>로 변했고,<br/>그 영향으로 각지의 디지몬이 폭주했습니다.</div><div class='txt margin_top_10'>디지털 월드를 바로잡기 위해<br/>폭주한 디지몬과 싸우고 클러스터를 모아<br/>디지몬을 육성합시다.</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "3",
 			"helpCategoryId": "1",
-			"helpTitle": "DigiEggs",
+			"helpTitle": "디지몬알",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>These are Digimon eggs. Petting a DigiEgg will hatch an In-Training Digimon.</div><div class='txt margin_top_10'>In Digimon Links, doing <span class='fnt_emphasis fnt_bold'>Research</span> produces <span class='fnt_emphasis fnt_bold'>DigiEggs.</span></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>디지몬의 알입니다. 디지몬알을 쓰다듬으면 유년기 Ⅰ 디지몬이 태어납니다.</div><div class='txt margin_top_10'>디지몬 링크즈에선<span class='fnt_emphasis fnt_bold'>연구</span>를 통해 <span class='fnt_emphasis fnt_bold'>디지몬알</span>이 태어납니다.</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "4",
 			"helpCategoryId": "2",
-			"helpTitle": "Status",
+			"helpTitle": "스테이터스",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The various stats of your Digimon are listed below.</div><br /><div class='txt margin_top_10'>HP: This value indicates the endurance of your Digimon.<br /><div class='txt margin_top_10'>ATK: This value indicates attack strength. The higher it is,<br />the more damage your physical attacks will do.</div><div class='txt margin_top_10'>DEF: This value indicates defensive strength. The higher it is,<br />the less damage your opponents' physical attacks will do.</div><div class='txt margin_top_10'>S-ATK: This value indicates magical attack strength. The higher it is,<br />the more damage your magical attacks will do.</div><div class='txt margin_top_10'>S-DEF: This value indicates magical defensive strength. The higher it is,<br />the less damage your opponents' magical attacks will do.</div><div class='txt margin_top_10'>SPD: This value indicates speed and affects the attack order of each Round.<br />The higher it is, the better your chances of attacking sooner.</div><div class='txt margin_top_10'>LUCK: The higher this value is, the easier it will be to draw a Luck Bonus.<br />This affects your growth and Awakening values.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>디지몬의 각 스테이터스는 다음과 같습니다.</div><br /><div class='txt margin_top_10'>HP: 디지몬의 '체력'을 나타내는 수치입니다.<br /><div class='txt margin_top_10'>ATK: '공격력'을 나타냅니다. 이 수치가 높을수록<br />물리공격 계열 스킬 및 '공격' 대미지가 상승합니다.</div><div class='txt margin_top_10'>DEF: '방어력'을 나타냅니다. 이 수치가 높을수록<br />상대의 물리공격 계열 스킬 및 '공격' 대미지가 감소합니다.</div><div class='txt margin_top_10'>S-ATK: '마법공격력'을 나타냅니다. 이 수치가 높을수록<br />마법공격 계열 스킬 대미지가 상승합니다.</div><div class='txt margin_top_10'> S-DEF: '마법방어력'을 나타냅니다. 이 수치가 높을수록<br />적의 마법공격 계열 스킬 대미지가 감소합니다.</div><div class='txt margin_top_10'>SPD: '속도'를 나타내며, 라운드 내 공격 순서에 영향을 줍니다.<br />수치가 높을수록 순서가 빨리 돌아옵니다.</div><div class='txt margin_top_10'>행운: 이 수치가 높을수록 행운 보너스 추첨이 자주 발생합니다.<br />성장 단계 및 각성치에 따라 최대치가 다릅니다.<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "5",
 			"helpCategoryId": "2",
-			"helpTitle": "Friendship",
+			"helpTitle": "우정도",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>This represents the degree of development of the friendship between you and your Digimon.<br/>It can be raised by tapping your Digimon<br/>on the Farm or winning battles with them.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>Friendship</span> will raise your stats when maxed out.</div><div class='txt margin_top_10'>Also, when you do Research with maxed Friendship, your<br/><span class='fnt_emphasis fnt_bold'>Awakening</span> level can rise by 1.</div><div class='txt margin_top_10'>Friendship boosts on your Farm can be done once per Digimon per day.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>당신과 디지몬의 우정이 얼마나 깊어졌는지 알 수 있습니다.<br/>농장에서 디지몬을 터치하거나, 배틀에 참가시켜<br/>승리하면 우정도가 상승합니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>우정도</span>가 일정 수치 이상이 되면 스테이터스도 상승합니다.</div><div class='txt margin_top_10'>또한 우정도가 최대일 때 연구를 실행하면<br/><span class='fnt_emphasis fnt_bold'>각성치</span>가 1 상승합니다.</div><div class='txt margin_top_10'>농장에서는 디지몬 한 마리당 하루에 한번 우정도를 올릴 수 있습니다.</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "6",
 			"helpCategoryId": "2",
-			"helpTitle": "Awakening",
+			"helpTitle": "각성치",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>This value affects the basic stats of your Digimon.</div><div class='txt margin_top_10'>By doing Research when your Base Digimon's Friendship is maxed out, you can Awaken them and boost their basic stats.<br />The maximum Awakening level is +4.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>디지몬의 기본 스테이터스에 영향을 주는 수치입니다.</div><div class='txt margin_top_10'>베이스 디지몬의 우정도가 최대치인 상태에서 '연구'를 실행하면, 각성하여 기본 스테이터스가 상승합니다.<br />각성치는 최대 '+4'까지 올릴 수 있습니다.</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "7",
 			"helpCategoryId": "2",
-			"helpTitle": "Abilities",
+			"helpTitle": "재능이란",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Some Digimon have rare, special <span class='fnt_emphasis fnt_bold'>abilities</span>.<br />When a Digimon has one of these abilities, an <span class='fnt_emphasis fnt_bold'>Ability Medal</span> will appear in their stats.</div><div class='txt margin_top_10'>Compared to the stats of a Digimon without a Medal,<br />the stats of a Digimon with a Medal will be <span class='fnt_emphasis fnt_bold'>higher</span>.</div><div class='txt margin_top_10'>There are two types of Medals: <span class='fnt_emphasis fnt_bold'>Gold Medals</span> and <span class='fnt_emphasis fnt_bold'>Silver Medals</span>.<br />Gold Medals will raise stats higher<br />than Silver Medals.<br />Different Medals also have numbers from I to VI.<br />The higher the number, the higher the stat boost.</div><div class='txt margin_top_10'>By performing Ability Seeding, Ability Medals can be passed to a particular Digimon,<br />increasing<span class='fnt_emphasis fnt_bold'>stats other than Luck and Friendship up to 6 times</span>,<br /><span class='fnt_emphasis fnt_bold'>1 time for each stat</span>.<br />Also, multiple Medals can be added; </span>up to 2 Gold Medals<span class='fnt_emphasis fnt_bold'> and <span class='fnt_emphasis fnt_bold'>up to 6 Silver Medals</span> of <br />various kinds.</div><div class='txt margin_top_10'>When the Ability Medals of the Base Digimon and Partner Digimon<br />are the same in an Ability Seeding,<br />there is <span class='fnt_emphasis fnt_bold'>a chance of a boost to their stats</span>.<br />* There is a maximum limit on Ability Medal stat boosts.</div><div class='txt margin_top_10'>Also, there is a chance of the Partner Digimon's Ability Medal being passed on.<br />The Ability Medals passed on with Ability Seeding are explained below.<br />- In the case of a Silver Medal, a Silver Medal or no Medal.<br />- In the case of a Gold Medal, a Gold Medal or a Silver Medal.</div><div class='txt margin_top_10'>When Ability Seeding is performed after the max number of Gold Medals has been reached,<br />a stat that could otherwise receive a Gold Medal will be<br />chosen at random, and a Silver Medal<br />will be passed on to it instead.</div><div class='txt margin_top_10'>Digimon that have already reached the max number of Gold Medals cannot receive any new Gold Medals.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>디지몬은 드물게 <span class='fnt_emphasis fnt_bold'>재능</span>을 지니고 있기도 합니다.<br />재능을 지니고 있으면 스테이터스에 <span class='fnt_emphasis fnt_bold'>재능 메달</span>이 붙습니다.</div><div class='txt margin_top_10'>재능 메달이 붙은 스테이터스는<br />이름과 각성치가 같은 디지몬의 스테이터스보다 <span class='fnt_emphasis fnt_bold'>높습니다</span>.</div><div class='txt margin_top_10'>재능 메달엔 <span class='fnt_emphasis fnt_bold'>금 재능 메달</span>과 <span class='fnt_emphasis fnt_bold'>은 재능 메달</span> 2종류가 있으며,<br />은 재능 메달보다 금 재능 메달의<br />스테이터스 상승폭이 높습니다.<br />또한 각 메달에는 Ⅰ~Ⅵ까지 숫자가 붙으며<br />숫자가 높을수록 스테이터스도 높아집니다.</div><div class='txt margin_top_10'>재능 메달은 재능 개발 시 디지몬 1마리당<br /><span class='fnt_emphasis fnt_bold'>행운·우정도를 제외한 각 스테이터스에 1개씩</span>,<br /><span class='fnt_emphasis fnt_bold'>최대 6개</span>까지 부여할 수 있습니다.<br />또한 <span class='fnt_emphasis fnt_bold'>금 재능 메달은 최대 2개</span>, <span class='fnt_emphasis fnt_bold'>은 재능 메달은 최대 6개</span>까지<br />부여할 수 있습니다.</div><div class='txt margin_top_10'>베이스 디지몬과 파트너 디지몬의 재능 메달은<br />재능 개발을 반복하면<br /><span class='fnt_emphasis fnt_bold'>확률에 따라 스테이터스 상승폭이 오릅니다.</span><br />※재능 메달로 올라가는 스테이터스에는 상한선이 있습니다.</div><div class='txt margin_top_10'>또한 파트너 디지몬의 재능 메달은 확률에 따라 계승됩니다.<br />재능 개발로 계승되는 재능 메달은 다음과 같습니다.<br />·은 재능 메달을 지닌 경우: 은 재능 메달 계승 혹은 아무것도 계승되지 않음.<br />·금 재능 메달을 지닌 경우: 금 재능 메달 계승 혹은 은 재능 메달 계승.</div><div class='txt margin_top_10'>재능 개발 시 금 재능 메달의 수가 상한선을 초과하는 경우<br />금 재능 메달을 부여할 수 있는 스테이터스 중에서<br />무작위로 선택된 스테이터스가 최대치까지 상승하며, 선택되지 않은 스테이터스엔<br />은 재능 메달이 부여됩니다.</div><div class='txt margin_top_10'>이미 금 재능 메달이 상한선에 도달한 디지몬에겐 새로운 금 재능 메달이 부여되지 않습니다.</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "8",
 			"helpCategoryId": "3",
-			"helpTitle": "The Farm",
+			"helpTitle": "농장이란",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A region of the Digital World full of basic data.<br/>Players advance in the game using this place as their base.</div><div class='txt margin_top_10'>The Facilities that can be constructed here are useful<br/>for training Digimon to become more effective in battle.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>디지털 월드의 바탕과도 같은 데이터가 있는 영역입니다.<br/>플레이어는 이곳을 거점으로 삼아 게임을 진행합니다.</div><div class='txt margin_top_10'>배틀에 도움이 되거나, 디지몬 육성에 필요한 시설을<br/>만들 수 있습니다.</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "9",
 			"helpCategoryId": "3",
-			"helpTitle": "Stamina",
+			"helpTitle": "스태미너",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Points spent on Quests. They renew by 1 every 3 minutes.<br/>By using DigiStones, you can immediately<br/>restore your current max Stamina.</div><div class='txt margin_top_10'>Players start with 30 and can add more by using Facilities on their Farm.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>퀘스트에서 소비하는 포인트입니다. 3분마다 1씩 회복됩니다.<br/>디지스톤을 사용하면 현재 스태미너의 최대치까지<br/>바로 회복할 수 있습니다.</div><div class='txt margin_top_10'>초기 스태미너는 30이며, 농장의 시설에 따라 증가합니다.</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "10",
 			"helpCategoryId": "3",
-			"helpTitle": "DigiStones",
+			"helpTitle": "디지스톤",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Bits of special data that have been fragmented.<br/>By gathering them, players can summon Digimon<br/>or even distort the fabric of time.</div><div class='txt margin_top_10'>They can be used to summon Digimon in <span class='fnt_emphasis fnt_bold'>Rare Captures</span>,<br/>to <span class='fnt_emphasis fnt_bold'>Revive</span> incapacitated Digimon,<br/><span class='fnt_emphasis fnt_bold'>to restore Stamina,</span>or to <span class='fnt_emphasis fnt_bold'>Continue</span> a Quest.</div><div class='txt margin_top_10'>DigiStones can be won as prizes in many ways or purchased from the Shop.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>특별한 데이터의 조각입니다.<br/>모으면 디지몬을 호출하거나<br/>시간 개념을 비틀 수 있습니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>레어 캡처</span>로 디지몬을 호출하거나<br/>전투불능 상태가 된 디지몬을 <span class='fnt_emphasis fnt_bold'>부활</span>시키기도 하며,<br/><span class='fnt_emphasis fnt_bold'>스태미너 회복</span> 및 퀘스트에서 <span class='fnt_emphasis fnt_bold'>컨티뉴</span>할 때도 사용합니다.</div><div class='txt margin_top_10'>디지스톤은 각종 보상으로 획득하거나, 샵에서 구입할 수 있습니다.</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "11",
 			"helpCategoryId": "3",
-			"helpTitle": "Cluster",
+			"helpTitle": "클러스터",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Due to the fragmentation of the Digital World,<br/>data has been breaking up into small pieces.</div><div class='txt margin_top_10 '>Once gathered, they can be used to <span class='fnt_emphasis fnt_bold'>construct Facilities</span> on your Farm<br/>or to <span class='fnt_emphasis fnt_bold'>Enhance</span> or <span class='fnt_emphasis fnt_bold'>Digivolve</span> your Digimon.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>디지털 월드가 균열을 일으키면서<br/>데이터가 분해되어 만들어진 파편입니다.</div><div class='txt margin_top_10 '>모으면 농장의<span class='fnt_emphasis fnt_bold'>시설</span>을 건설할 때나,<br/>디지몬의 <span class='fnt_emphasis fnt_bold'>강화</span>·<span class='fnt_emphasis fnt_bold'>진화</span> 등에 사용할 수 있습니다.</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "12",
 			"helpCategoryId": "3",
-			"helpTitle": "Missions",
+			"helpTitle": "미션",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can check your missions by tapping <span class='fnt_emphasis fnt_bold'>Mission</span> on the Farm screen.<br/>Once the mission's conditions are cleared, you can earn a prize.<br/>When you tap Accept on a cleared mission,<br/>the prize is sent to your Present Box.</div><div class='txt margin_top_10'>There are three types: <span class='fnt_emphasis fnt_bold'>Beginner Missions</span>that are meant for beginners, <span class='fnt_emphasis fnt_bold'>Daily Missions</span> which change every day, and <span class='fnt_emphasis fnt_bold'>Cumulative Missions</span> which mark your achievements to date.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>[농장]에서 <span class='fnt_emphasis fnt_bold'>미션</span>을 터치하면 확인할 수 있습니다.<br/>미션 조건을 클리어하면 보상을 얻습니다.<br/>클리어한 미션의 [수령하기]를 터치하면<br/>보상이 선물상자에 도착합니다.</div><div class='txt margin_top_10'>미션 중에는 초보자를 위한 <span class='fnt_emphasis fnt_bold'>초보자 미션</span>과 매일 갱신되는 <span class='fnt_emphasis fnt_bold'>데일리 미션</span>, 꾸준한 플레이를 통해 달성하는 <span class='fnt_emphasis fnt_bold'>누적 미션</span>이 있습니다.</div></article>",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "13",
 			"helpCategoryId": "3",
-			"helpTitle": "Accepting Presents",
+			"helpTitle": "선물 수령 방법",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>On the Farm screen, tap <span class='fnt_emphasis fnt_bold'>Present Box,</span> then tap Accept to claim your <br/><span class='fnt_emphasis fnt_bold'>Presents</span>.</div><div class='txt margin_top_10'>When you have multiple Presents,<span class='fnt_emphasis fnt_bold'>you can accept them</span>all at once if you prefer.</div><div class='txt margin_top_10'>Presents are stored for <span class='fnt_emphasis fnt_bold'>up to 30 days.</span>After that period expires, they will be deleted<br/>starting with the oldest items.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>[농장]에서 <span class='fnt_emphasis fnt_bold'>선물상자</span>를 터치한 뒤 [수령하기]를 터치하면<br/><span class='fnt_emphasis fnt_bold'>선물</span>을 받을 수 있습니다.</div><div class='txt margin_top_10'>선물이 여러 개 있을 경우<span class='fnt_emphasis fnt_bold'>, 모두 수령하기</span>로 한꺼번에 받을 수도 있습니다.</div><div class='txt margin_top_10'>선물은 <span class='fnt_emphasis fnt_bold'>30일 동안</span> 보관되며, 기간이 지나면 오래된 것부터<br/>차례대로 소멸합니다.</div></article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "14",
 			"helpCategoryId": "3",
-			"helpTitle": "Login Bonuses",
+			"helpTitle": "로그인 보너스",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By logging in at least once every day, you can earn a <span class='fnt_emphasis fnt_bold'>Login Bonus</span>.</div><div class='txt margin_top_10'>The Login Bonus will update every day at {'5:00:00'|timezone_format:0:'H:i'}.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>하루에 한 번, 로그인하면 <span class='fnt_emphasis fnt_bold'>로그인 보너스</span>를 받을 수 있습니다.</div><div class='txt margin_top_10'>로그인 보너스는 매일 {'5:00:00'|timezone_format:0:'H:i'}에 갱신됩니다.</div></article>",
 			"helpPriority": "7"
 		},
 		{
 			"helpId": "15",
 			"helpCategoryId": "4",
-			"helpTitle": "Exploring",
+			"helpTitle": "탐색이란",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>This is the gateway where you may spend Stamina to go on Quests<br/>to defeat rampaging Digimon all over the Digital World.</div><div class='txt margin_top_10'>There are <span class='fnt_emphasis fnt_bold'>Normal Quests</span>, which are always available, as well as <br/><span class='fnt_emphasis fnt_bold'>Daily and Advent Quests</span>, which are limited-time-only.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>스태미너를 소비하여 각지에서 폭주한 디지몬을 쓰러뜨리는<br/>퀘스트로 진입하는 입구입니다.</div><div class='txt margin_top_10'>상시 개방되는 <span class='fnt_emphasis fnt_bold'>통상 퀘스트</span>와 기간 한정으로 개방되는<br/><span class='fnt_emphasis fnt_bold'>요일 퀘스트, 강림 퀘스트</span> 등이 있습니다.</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "16",
 			"helpCategoryId": "4",
-			"helpTitle": "Normal Quests",
+			"helpTitle": "통상 퀘스트",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>These are the main Quests which are always available. By winning battles,<br/>you can get <span class='fnt_emphasis fnt_bold'>EXP</span>, <span class='fnt_emphasis fnt_bold'>Clusters</span>, and <span class='fnt_emphasis fnt_bold'>Plugins (Digivolution fuel)</span>.</div><div class='txt margin_top_10'>Clear all stages in an Area to unlock the next one.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>상시 개방되는 메인 퀘스트입니다. 배틀에서 승리하면<br/><span class='fnt_emphasis fnt_bold'>EXP</span>와 <span class='fnt_emphasis fnt_bold'>클러스터</span>, <span class='fnt_emphasis fnt_bold'>플러그인(진화 재료)</span>를 얻을 수 있습니다.</div><div class='txt margin_top_10'>에어리어의 모든 스테이지를 클리어하면 다음 에어리어가 해금됩니다.</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "17",
 			"helpCategoryId": "4",
-			"helpTitle": "Daily Quests",
+			"helpTitle": "요일 퀘스트",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The Quests available change depending on the day of the week.</div><div class='txt margin_top_10'>Certain <span class='fnt_emphasis fnt_bold'>Plug-Ins (Digivolution fuel)</span> are dropped depending on the day of the week.</div><div class='txt margin_top_10'>In each Daily Quest, there are 6 Quests of increasing difficulty level:<br /><span class='fnt_emphasis fnt_bold'>v1.0, v2.0, v3.0, v4.0, v1.0 & 2.0, and v3.0 & 4.0</span>.</div><div class='txt margin_top_10'>If you want to try a particular Daily Quest on a nonscheduled day, you can spend 5 DigiStones to unlock it for 30 minutes.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>요일에 따라 다른 퀘스트가 개방됩니다.</div><div class='txt margin_top_10'>각 요일마다 드롭되는<span class='fnt_emphasis fnt_bold'>플러그인(진화 재료)</span>가 다릅니다.</div><div class='txt margin_top_10'>요일 퀘스트는’<span class='fnt_emphasis fnt_bold'>ver1.0, ver2.0, ver3.0, ver4.0, ver1.0＆2.0, ver3.0＆4.0</span>‘으로 구성된<br/>6단계의 난이도가 있습니다.</div><div class='txt margin_top_10'>해당 요일의 퀘스트가 아닌 경우, 디지스톤 5개를 사용하면 30분동안 개방됩니다.</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "18",
 			"helpCategoryId": "4",
-			"helpTitle": "Advent Quests",
+			"helpTitle": "강림 퀘스트",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Quests that feature Mega Digimon. They are only available for a limited time.</div><div class='txt margin_top_10'>These Quests drop <span class='fnt_emphasis fnt_bold'>data fragments</span> required to Digivolve a Mega.</div><div class='txt margin_top_10'>Advent Quests have <span class='fnt_emphasis fnt_bold'>three difficulty levels: </span>Easy, Normal, and Hard.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>궁극체가 등장하는 퀘스트로, 한정된 기간동안 등장합니다.</div><div class='txt margin_top_10'>궁극체 진화에 필요한 <span class='fnt_emphasis fnt_bold'>데이터 조각</span>이 드롭됩니다.</div><div class='txt margin_top_10'>강림 퀘스트는 '<span class='fnt_emphasis fnt_bold'>초급, 중급, 상급</span>'으로 구성된 3단계의 난이도가 있습니다.</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "19",
 			"helpCategoryId": "5",
-			"helpTitle": "The Battle System",
+			"helpTitle": "배틀 형식",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Battles are turn-based and run on commands.<br/>Three of your Digimon face off with enemy Digimon.</div><div class='txt margin_top_10'>Defeat all enemy Digimon in every WAVE to <span class='fnt_emphasis fnt_bold'>win</span> the battle.<br/>If all of your Digimon are knocked out, you <span class='fnt_emphasis fnt_bold'>lose</span> the battle.<br/>You can win prizes by winning battles,<br/>but if you lose, you'll be unable to claim any EXP<br/>or anything your opponents dropped during the battle.</div><div class='txt margin_top_20'>The battle screen is pictured below.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info4.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info5.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info3.png' width=90%></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>턴제 커맨드 배틀입니다.<br/>내 디지몬 3마리가 적 디지몬과 전투합니다.</div><div class='txt margin_top_10'>모든 WAVE의 적 디지몬을 쓰러뜨리면 전투에 <span class='fnt_emphasis fnt_bold'>승리</span>합니다.<br/>플레이어의 디지몬이 전멸하면 <span class='fnt_emphasis fnt_bold'>패배</span>합니다.<br/>배틀에 승리하면 보상이 주어지나,<br/>패배할 경우 EXP 등<br/>적이 드롭한 것들을 일체 획득할 수 없습니다.</div><div class='txt margin_top_20'>배틀 화면은 다음과 같습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info4.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info5.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info3.png' width=90%></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "20",
 			"helpCategoryId": "5",
-			"helpTitle": "Your Party",
+			"helpTitle": "파티",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The Digimon you take into battle. Three Digimon form a party.</div><div class='txt margin_top_10'>One of these three Digimon is the <span class='fnt_emphasis fnt_bold'>Leader Digimon</span>.</div><div class='txt margin_top_10'>The Digimon in your party can be swapped out by going to Party Formation.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>배틀에 참가할 디지몬들입니다. 한 파티는 3마리의 디지몬으로 구성됩니다.</div><div class='txt margin_top_10'>3마리 중 1마리는 <span class='fnt_emphasis fnt_bold'>리더 디지몬</span>으로 설정됩니다.</div><div class='txt margin_top_10'>파티 멤버는 [파티 편성]에서 바꿀 수 있습니다.</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "21",
 			"helpCategoryId": "5",
-			"helpTitle": "Leader Skills",
+			"helpTitle": "리더 스킬",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>If the Digimon selected as the <span class='fnt_emphasis fnt_bold'>Leader</span> of your party has a <br/><span class='fnt_emphasis fnt_bold'>Leader Skill,</span> it will have an effect on your entire party.</div><div class='txt margin_top_10'>There are many types of Skills, each with effects such as boosts to your party.</div><div class='txt margin_top_10'>The effects of a Leader Skill will continue<br/>even if the Digimon selected as Leader is incapacitated.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>파티의 <span class='fnt_emphasis fnt_bold'>리더</span>로 선택된 디지몬이<br/><span class='fnt_emphasis fnt_bold'>리더 스킬</span>을 지닌 경우, 파티 전체에 효과가 적용됩니다.</div><div class='txt margin_top_10'>능력치 상승 등 다양한 스킬이 있습니다.</div><div class='txt margin_top_10'>리더 스킬 효과는 리더로 선택한 디지몬이<br/>전투불능 상태가 될 때까지 지속됩니다.</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "22",
 			"helpCategoryId": "5",
-			"helpTitle": "Rounds",
+			"helpTitle": "라운드",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>When all of your own Digimon and the enemy Digimon have attacked once,<br/>this is called a <span class='fnt_emphasis fnt_bold'>round</span>.</div><div class='txt margin_top_10'>The time that Skills remain in effect is counted in <span class='fnt_emphasis fnt_bold'>rounds.</span><br/>When a Skill is activated, <span class='fnt_emphasis fnt_bold'>the following round</span> will will count as the first round.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>나와 적, 모든 디지몬이 한 번씩<br/>행동을 완료하는 것을 <span class='fnt_emphasis fnt_bold'>라운드</span>라고 합니다.</div><div class='txt margin_top_10'>기술 효과 시간은 이 <span class='fnt_emphasis fnt_bold'>라운드</span>를 기준으로 카운트되며,<br/>기술을 발동한 <span class='fnt_emphasis fnt_bold'>다음 라운드</span>가 1라운드째로 카운트됩니다.</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "23",
 			"helpCategoryId": "5",
-			"helpTitle": "WAVEs",
+			"helpTitle": "WAVE",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>When all the enemy Digimon that appeared have been defeated, this is called a <span class='fnt_emphasis fnt_bold'>WAVE</span>.</div><div class='txt margin_top_10'>A single battle is made up of multiple <span class='fnt_emphasis fnt_bold'>WAVEs</span>.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>적 디지몬이 출현하여 전멸할 때까지를 <span class='fnt_emphasis fnt_bold'>WAVE</span>라고 합니다.</div><div class='txt margin_top_10'>하나의 배틀은 복수의 <span class='fnt_emphasis fnt_bold'>WAVE</span>로 구성됩니다.</div></article>",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "24",
 			"helpCategoryId": "5",
-			"helpTitle": "Interrupted Battles",
+			"helpTitle": "배틀 중단 종료",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>If the app crashes or otherwise closes in the middle of a battle,<br/><span class='fnt_emphasis fnt_bold'>you can resume the battle starting from</span>the beginning of the interrupted round.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>배틀 중 앱을 종료한 경우,<br/><span class='fnt_emphasis fnt_bold'>중단한 라운드의 시작 시점</span>부터 배틀을 재개할 수 있습니다.</div></article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "25",
 			"helpCategoryId": "5",
-			"helpTitle": "Battle Time Limits",
+			"helpTitle": "배틀 기한",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>If more than <span class='fnt_emphasis fnt_bold'>72 hours (3 days)</span> have passed since the start of a battle,<br/>you will be unable to accept any prizes even if you win.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>배틀 시작 후 <span class='fnt_emphasis fnt_bold'>72시간(3일)</span>이 경과하면<br/>배틀에 승리해도 보상을 받을 수 없습니다.</div></article>",
 			"helpPriority": "7"
 		},
 		{
 			"helpId": "26",
 			"helpCategoryId": "5",
-			"helpTitle": "Attack Turn Order",
+			"helpTitle": "행동 순서",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Attack turn order is decided based on the <span class='fnt_emphasis fnt_bold'>SPD</span> of each Digimon.</div><div class='txt margin_top_10'>It is displayed as numbers over each Digimon's head, starting with 0.<br/>When a Digimon's turn comes, a 0 will be displayed.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>행동 순서는 디지몬의 <span class='fnt_emphasis fnt_bold'>SPD</span>를 기준으로 결정됩니다.</div><div class='txt margin_top_10'>디지몬의 머리 위에 0부터 순서대로 번호가 표시됩니다.<br/>행동 순서가 돌아오면 숫자가 0이 됩니다.</div></article>",
 			"helpPriority": "8"
 		},
 		{
 			"helpId": "27",
 			"helpCategoryId": "5",
-			"helpTitle": "Attacking",
+			"helpTitle": "공격",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>There are three kinds of Attack: Normal Attacks, <span class='fnt_emphasis fnt_bold'>Signature Skills</span>, and <span class='fnt_emphasis fnt_bold'>Legacy Skills</span>.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>Signature Skills</span> are always the same for each type of Digimon<br/> and have high attacking power or powerful effects.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>Legacy Skills</span> differ between individual Digimon<br/> and may have ability-boosting effects or other special effects.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>공격에는 통상 공격과 <span class='fnt_emphasis fnt_bold'>고유기</span>, <span class='fnt_emphasis fnt_bold'>계승기</span>가 있습니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>고유기</span>는 각 디지몬의 고유 기술로,<br/>높은 공격력과 강력한 효과를 지니고 있습니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>계승기</span>는 모든 디지몬이 습득할 수 있는 기술로,<br/>능력치 상승이나 특수효과를 지닌 것들도 있습니다.</div></article>",
 			"helpPriority": "9"
 		},
 		{
 			"helpId": "28",
 			"helpCategoryId": "5",
-			"helpTitle": "Attributes and Resistances",
+			"helpTitle": "속성과 내성",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>All attacks (Skills) have an <span class='fnt_emphasis fnt_bold'>Attribute</span>.<br/><span class='fnt_emphasis fnt_bold'>Attributes</span> include both <span class='fnt_emphasis fnt_bold'>Attack Attributes</span> and <span class='fnt_emphasis fnt_bold'>Status Effect Attributes</span>.</div><div class='txt margin_top_10'>The effectiveness of an Attribute is displayed by <span class='fnt_emphasis fnt_bold'>Resistance</span>.<br/><span class='fnt_emphasis fnt_bold'>When Resistance is high</span>, the damage done by an Attack will be <span class='fnt_emphasis fnt_bold'>low</span> and its effects will be <span class='fnt_emphasis fnt_bold'>weak</span>.<br/>On the other hand, <span class='fnt_emphasis fnt_bold'>when Resistance is low</span>, the damage done will be <span class='fnt_emphasis fnt_bold'>high</span> and the effects will be <span class='fnt_emphasis fnt_bold'>strong</span>.</div><div class='txt margin_top_10'>Also, by using the <span class='fnt_emphasis fnt_bold'>Dojo</span> on the Farm to perform <span class='fnt_emphasis fnt_bold'>Resistance Upgrades</span>, <br/>Resistances can be added or changed.</div><div class='txt margin_top_20'><span class='fnt_bold'>- How to check Resistances</span><br/>By tapping and holding on enemies during battle, you can check their Resistances.<br/>In the case of bosses, you can also check their Resistances on the screen displayed prior to leaving to Explore.</div><div class='txt margin_top_10'>Each Resistance icon will be displayed in <span class='fnt_emphasis fnt_bold'>blue</span> when a Skill would have a strong effect and in <br/><span class='fnt_emphasis fnt_bold'>red</span> when it would have a weak effect.</div><h2 class='margin_top_20'>Attack Attributes</h2><table class='fnt_xxsmall txt_center margin_top' style='table-layout:fixed;'><tr><td><img src='/img/help/attribute/1_normal.png' width='90%'></td><td><img src='/img/help/attribute/2_normal.png' width='90%'></td><td><img src='/img/help/attribute/3_normal.png' width='90%'></td><td><img src='/img/help/attribute/4_normal.png' width='90%'></td><td><img src='/img/help/attribute/5_normal.png' width='90%'></td><td><img src='/img/help/attribute/6_normal.png' width='90%'></td><td><img src='/img/help/attribute/7_normal.png' width='90%'></td></tr><tr><td>Null</td><td>Fire</td><td>Water</td><td>Nature</td><td>Thunder</td><td>Darkness</td><td>Light</td></tr></table></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>공격(기술)에는 <span class='fnt_emphasis fnt_bold'>속성</span>이 있습니다.<br/>속성에는 <span class='fnt_emphasis fnt_bold'>공격 속성</span>과 <span class='fnt_emphasis fnt_bold'>상태이상 속성</span>이 있습니다.</div><div class='txt margin_top_10'>속성 효과의 효율을 나타내는 것이 바로 <span class='fnt_emphasis fnt_bold'>내성</span>입니다.<br/><span class='fnt_emphasis fnt_bold'>내성을 지닌</span> 경우, 기술 대미지가 <span class='fnt_emphasis fnt_bold'>하락</span>하며, 효과도 <span class='fnt_emphasis fnt_bold'>낮아</span>집니다.<br/>반대로 <span class='fnt_emphasis fnt_bold'>약점인</span> 경우, 기술 대미지가 <span class='fnt_emphasis fnt_bold'>상승</span>하며 효과도 <span class='fnt_emphasis fnt_bold'>높아</span>집니다.</div><div class='txt margin_top_10'>또한 [농장]에 있는 <span class='fnt_emphasis fnt_bold'>수련장</span>에서 <span class='fnt_emphasis fnt_bold'>내성 변화</span>를 실행하면<br/>내성을 추가할 수 있습니다.</div><div class='txt margin_top_20'><span class='fnt_bold'>■내성 확인 방법</span><br/>배틀 중 적을 길게 누르면 적의 내성을 확인할 수 있습니다.<br/>또한 BOSS는 탐색 출발 전 화면에서도 확인할 수 있습니다.</div><div class='txt margin_top_10'>각 내성 아이콘은 효과가 큰 것이 <span class='fnt_emphasis fnt_bold'>청색</span>,<br/>효과가 낮은 것이 <span class='fnt_emphasis fnt_bold'>적색</span>으로 표시됩니다.</div><h2 class='margin_top_20'>공격 속성 목록</h2><table class='fnt_xxsmall txt_center margin_top' style='table-layout:fixed;'><tr><td><img src='/img/help/attribute/1_normal.png' width='90%'></td><td><img src='/img/help/attribute/2_normal.png' width='90%'></td><td><img src='/img/help/attribute/3_normal.png' width='90%'></td><td><img src='/img/help/attribute/4_normal.png' width='90%'></td><td><img src='/img/help/attribute/5_normal.png' width='90%'></td><td><img src='/img/help/attribute/6_normal.png' width='90%'></td><td><img src='/img/help/attribute/7_normal.png' width='90%'></td></tr><tr><td>무속성</td><td>화속성</td><td>수속성</td><td>자연속성</td><td>번개속성</td><td>어둠속성</td><td>빛속성</td></tr></table></article>",
 			"helpPriority": "10"
 		},
 		{
 			"helpId": "29",
 			"helpCategoryId": "5",
-			"helpTitle": "Status Effects",
+			"helpTitle": "상태이상",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>When a Digimon is attacked in battle, a <br/><span class='fnt_emphasis fnt_bold'>Status Effect</span> may be inflicted as well.</div><div class='txt margin_top_10'>Status effects can gradually deplete HP, for example,<br/>or temporarily stop a Digimon from moving.</div><div class='txt margin_top_10'>There are 7 kinds of status effects:<br/><span class='fnt_emphasis fnt_bold'>Stun, Skill Lock, Sleep, Paralysis, Confusion, Poison, and Instant Death</span>.</div><h2 class='margin_top_20'>Status Effects</h2><table class='fnt_xxsmall txt_center margin_top' style='table-layout:fixed;'><tr><td><img src='/img/help/attribute/8_normal.png' width='90%'></td><td><img src='/img/help/attribute/9_normal.png' width='90%'></td><td><img src='/img/help/attribute/10_normal.png' width='90%'></td><td><img src='/img/help/attribute/11_normal.png' width='90%'></td><td><img src='/img/help/attribute/12_normal.png' width='90%'></td><td><img src='/img/help/attribute/13_normal.png' width='90%'></td><td><img src='/img/help/attribute/14_normal.png' width='90%'></td></tr><tr><td>Stun</td><td>Skill<br />Lock</td><td>Sleep</td><td>Paralysis</td><td>Confusion</td><td>Poison</td><td>Instant Death</td></tr></table></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>배틀 중 공격을 받으면<br/><span class='fnt_emphasis fnt_bold'>상태이상</span>에 빠질 때가 있습니다.</div><div class='txt margin_top_10'>상태이상에 빠지면 HP가 감소할 때도 있고,<br/>일정 라운드 동안 움직이지 못할 때도 있습니다.</div><div class='txt margin_top_10'>상태이상은 <span class='fnt_emphasis fnt_bold'>기절·스킬 봉인·수면·마비·혼란·독·즉사</span><br/>7종류가 있습니다.</div><h2 class='margin_top_20'>상태이상 목록</h2><table class='fnt_xxsmall txt_center margin_top' style='table-layout:fixed;'><tr><td><img src='/img/help/attribute/8_normal.png' width='90%'></td><td><img src='/img/help/attribute/9_normal.png' width='90%'></td><td><img src='/img/help/attribute/10_normal.png' width='90%'></td><td><img src='/img/help/attribute/11_normal.png' width='90%'></td><td><img src='/img/help/attribute/12_normal.png' width='90%'></td><td><img src='/img/help/attribute/13_normal.png' width='90%'></td><td><img src='/img/help/attribute/14_normal.png' width='90%'></td></tr><tr><td>기절</td><td>스킬<br />봉인</td><td>수면</td><td>마비</td><td>혼란</td><td>독</td><td>즉사</td></tr></table></article>",
 			"helpPriority": "11"
 		},
 		{
 			"helpId": "30",
 			"helpCategoryId": "5",
-			"helpTitle": "Tribes",
+			"helpTitle": "종족",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Various <span class='fnt_emphasis fnt_bold'>Tribes</span> have formed among the Digimon.<br/>Each Tribe has different Resistances to Attributes and Status Effects.</div><div class='txt margin_top_10'>They are the <span class='fnt_emphasis fnt_bold'>Mirage Tribe, Blazing Tribe, Glacier Tribe, Electric Tribe, Earth Tribe, Bright Tribe, and Abyss Tribe</span>; <br/>seven tribes in all.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>각 디지몬은 <span class='fnt_emphasis fnt_bold'>종족</span>으로 구분됩니다.<br/>종족에 따라 속성과 상태이상에 대한 내성이 다릅니다.</div><div class='txt margin_top_10'>종족은 <span class='fnt_emphasis fnt_bold'>환생계, 양염계, 빙하계, 전자계, 대지계, 광망계, 심연계</span><br/>7종류로 나뉩니다.</div></article>",
 			"helpPriority": "12"
 		},
 		{
 			"helpId": "31",
 			"helpCategoryId": "5",
-			"helpTitle": "Targeting",
+			"helpTitle": "타깃",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>When attacking, you can tap enemy Digimon or your Digimon<br/> to switch between different<span class='fnt_emphasis fnt_bold'> targets</span>.</div><div class='txt margin_top_10'>The <span class='fnt_emphasis fnt_bold'>target icon</span> changes color depending on the compatibility of the Skill's Attribute<br/> and the Digimon's Resistance.<br/> When a Skill is selected, the icon turns red to indicate a strong effect,<br/>and turns blue to indicate a weak effect.</div><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial2_quest_2.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>공격 시 적 디지몬이나 내 디지몬을 터치하여<br/><span class='fnt_emphasis fnt_bold'>타깃</span>을 변경할 수 있습니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>타깃 아이콘</span>은 기술 속성과 디지몬의 내성 상성에 따라<br/>색이 변화합니다.<br/>기술 선택 시 아이콘이 적색으로 변하면 효과가 높고<br/>청색으로 변하면 효과가 낮습니다.</div><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial2_quest_2.png' width=90%></figure></article>",
 			"helpPriority": "13"
 		},
 		{
 			"helpId": "32",
 			"helpCategoryId": "5",
-			"helpTitle": "Reviving Digimon",
+			"helpTitle": "디지몬 부활",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A Digimon becomes <span class='fnt_emphasis fnt_bold'>incapacitated</span> when its HP is reduced to 0.</div><div class='txt margin_top_10'> When a Digimon is incapacitated, it can be<br/><span class='fnt_emphasis fnt_bold'> revived</span> by using DigiStones.</div><div class='txt margin_top_10'> Digimon return to battle in the next round after being revived.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>HP가 0이 되면 디지몬은 <span class='fnt_emphasis fnt_bold'>전투불능</span> 상태가 됩니다.</div><div class='txt margin_top_10'>전투불능 상태가 되면 디지스톤을 사용하여<br/><span class='fnt_emphasis fnt_bold'>부활</span>시킬 수 있습니다.</div><div class='txt margin_top_10'>디지몬은 부활시킨 라운드의 다음 라운드부터 전투에 복귀합니다.</div></article>",
 			"helpPriority": "14"
 		},
 		{
 			"helpId": "33",
 			"helpCategoryId": "5",
-			"helpTitle": "Continuing",
+			"helpTitle": "컨티뉴",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>If all of your Digimon have been knocked out,<br/> you can use DigiStones to <span class='fnt_emphasis fnt_bold'>continue</span> the battle.</div><div class='txt margin_top_10'> When you continue, all of your Digimon will be revived<br/> and you can resume the battle.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>내 디지몬이 전멸한 경우,<br/>디지스톤을 사용하여 <span class='fnt_emphasis fnt_bold'>컨티뉴</span>할 수 있습니다.</div><div class='txt margin_top_10'>컨티뉴하면 내 디지몬이 전부 회복된 상태에서<br/>배틀을 다시 시작하게 됩니다.</div></article>",
 			"helpPriority": "15"
 		},
 		{
 			"helpId": "34",
 			"helpCategoryId": "5",
-			"helpTitle": "Changing Battle Modes",
+			"helpTitle": "배틀 모드 변경",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Battles can be changed into the following modes.</div><div class='txt margin_top_10'>Speed Mode: Continue the battle at double speed.</div><div class='txt margin_top_10'>Auto Mode: Continue the battle on autopilot.<br/>In Auto Mode, Digimon will automatically prefer to use their Signature Skills.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>배틀은 다음과 같은 모드로 변경할 수 있습니다.</div><div class='txt margin_top_10'>·배속 모드: 배틀 속도가 두 배로 빨라집니다.</div><div class='txt margin_top_10'>·오토 모드: 배틀이 자동으로 진행됩니다.<br/>오토 모드에서는 각 디지몬이 고유기를 우선적으로 발동합니다.</div></article>",
 			"helpPriority": "16"
 		},
 		{
 			"helpId": "35",
 			"helpCategoryId": "5",
-			"helpTitle": "Luck Bonuses",
+			"helpTitle": "행운 보너스",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A special reward that can be gained according to the <span class='fnt_emphasis fnt_bold'>LUCK</span> stat of the Digimon.</div><div class='txt margin_top_10'>Luck Bonuses are handled differently from normal prize drops. When a Luck Bonus occurs, you'll earn <br/><span class='fnt_emphasis fnt_bold'>more prizes than usual</span>.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>디지몬의 스테이터스 '<span class='fnt_emphasis fnt_bold'>행운</span>' 수치에 따라 얻을 수 있는 특별 보상입니다.</div><div class='txt margin_top_10'>통상 드롭 보상과는 별개로, 행운 보너스가 발생하면<br/><span class='fnt_emphasis fnt_bold'>평소보다 많은 보상</span>을 획득할 수 있습니다.</div></article>",
 			"helpPriority": "17"
 		},
 		{
 			"helpId": "36",
 			"helpCategoryId": "8",
-			"helpTitle": "Facilities",
+			"helpTitle": "시설이란",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Buildings that can be constructed on your Farm.<br/>Facilities can be constructed by spending <span class='fnt_emphasis fnt_bold'>Clusters</span>.<br/>Some facilities only become available after certain conditions have been met.</div><div class='txt margin_top_10'>Once constructed, facilities have various effects<br/> that make it easier to advance in the game.</div><div class='txt margin_top_10'>By tapping the <span class='fnt_emphasis fnt_bold'>Layout button</span> or <br/><span class='fnt_emphasis fnt_bold'>tapping and dragging the facilities</span>, <br/>you can rearrange them on your Farm.</div><div class='txt margin_top_20'>Facilities can be constructed as shown below.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info1.png' width=90%></figure><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial_info2.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>농장에 설치할 수 있는 건물입니다.<br/>시설은 <span class='fnt_emphasis fnt_bold'>클러스터</span>를 소비하여 건설할 수 있습니다.<br/>일부 시설은 특정 조건을 만족해야 건설할 수 있습니다.</div><div class='txt margin_top_10'>시설을 만들면<br/>게임을 유리하게 진행할 수 있는 다양한 효과를 받습니다.</div><div class='txt margin_top_10'>건설한 시설은 농장에 있는 <span class='fnt_emphasis fnt_bold'>배치 버튼</span>을 이용하거나<br/><span class='fnt_emphasis fnt_bold'>각 시설을 터치·드래그</span>하여<br/>설치 장소를 변경할 수 있습니다.</div><div class='txt margin_top_20'>시설을 만드는 방법은 다음과 같습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info1.png' width=90%></figure><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial_info2.png' width=90%></figure></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "37",
 			"helpCategoryId": "8",
-			"helpTitle": "Upgrading Facilities",
+			"helpTitle": "시설 업그레이드",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By spending Clusters or DigiStones, you can<br/><span class='fnt_emphasis fnt_bold'> upgrade</span> your facilities.<br/>Tap the facility and press the Upgrade button<br/> to spend Clusters or DigiStones and start the upgrade.</div><div class='txt margin_top_10'>Upgrading facilities enhances their functions and features.</div><div class='txt margin_top_10'>Up to two facilities can be constructed or upgraded at once.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>시설은 클러스터 혹은 디지스톤을 사용하여<br/><span class='fnt_emphasis fnt_bold'>업그레이드</span>할 수 있습니다.<br/>시설을 터치하고 업그레이드 버튼을 누르면<br/>클러스터 혹은 디지스톤을 사용해 업그레이드를 시작합니다.</div><div class='txt margin_top_10'>업그레이드 시 해당 시설의 기능이 강화됩니다.</div><div class='txt margin_top_10'>건설·업그레이드는 동시에 2개까지 실행할 수 있습니다.</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "38",
 			"helpCategoryId": "8",
-			"helpTitle": "Reducing Construction and Upgrade Time",
+			"helpTitle": "건설·업그레이드 시간 단축",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Constructing a facility or completing an upgrade requires a fixed amount of time.<br/>Tapping a facility while it is being constructed or upgraded<br/>causes a Reduce Time button to appear.</div><div class='txt margin_top_10'>By spending <span class='fnt_emphasis fnt_bold'>DigiStones</span>, you can reduce the time required for <br/>construction or upgrades.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>건설·업그레이드가 완료될 때까지 시간이 소요됩니다.<br/>건설·업그레이드 중인 시설을 터치하면<br/>시간 단축 버튼이 표시됩니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>디지스톤</span>을 소비하여<br/>건설·업그레이드 시간을 단축할 수 있습니다.</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "39",
 			"helpCategoryId": "8",
-			"helpTitle": "House",
+			"helpTitle": "하우스",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A facility that boosts the max number of Digimon you can keep.<br/>Here, you can view a <span class='fnt_emphasis fnt_bold'>List</span> of all your Digimon, check their past and future Digivolutions with the <span class='fnt_emphasis fnt_bold'>Digivolution Chart</span>, or <span class='fnt_emphasis fnt_bold'>Release</span> your Digimon.</div><div class='txt margin_top_10'>Released Digimon are converted into Clusters.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>최대 디지몬 보유 수를 추가하는 시설입니다.<br/>보유 중인 디지몬<span class='fnt_emphasis fnt_bold'>의 목록</span>과 진화 전후를 확인할 수 있는 <span class='fnt_emphasis fnt_bold'>진화도</span>를 확인하거나 <span class='fnt_emphasis fnt_bold'>이별</span>할 수 있습니다.</div><div class='txt margin_top_10'>이별한 디지몬은 클러스터로 변환됩니다.</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "40",
 			"helpCategoryId": "8",
-			"helpTitle": "Meat Field",
+			"helpTitle": "고기 밭",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A field for cultivating the Meat you give your Digimon. <span class='fnt_emphasis fnt_bold'>Meat</span> grows in it as time passes.<br/>By tapping the <span class='fnt_emphasis fnt_bold'>Meat Field</span>, you can harvest the Meat.</div><div class='txt margin_top_10'>When you reach your Meat storage limit, you can't harvest any more,<br/>so when that happens, you'll need to increase your Meat storage limit.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>디지몬에게 줄 고기를 재배하는 밭입니다. 시간이 지나면 <span class='fnt_emphasis fnt_bold'>고기</span>가 열립니다.<br/><span class='fnt_emphasis fnt_bold'>고기 밭</span>을 터치하면 고기를 수확할 수 있습니다.</div><div class='txt margin_top_10'>고기는 최대 보유 수 이상 수확할 수 없으므로<br/>고기를 수확할 수 없을 땐 최대 고기 보유 수를 늘려야 합니다.</div></article>",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "41",
 			"helpCategoryId": "8",
-			"helpTitle": "Warehouse",
+			"helpTitle": "창고",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A facility that boosts the storage limit for the Meat harvested from your Meat Field.<br/>When you reach your Meat storage limit and can't harvest more,<br/>you'll need to enhance your <span class='fnt_emphasis fnt_bold'>Warehouse</span>.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>고기 밭에서 수확한 고기의 최대 보유 수를 늘려주는 시설입니다.<br/>보유 고기 수가 최대치여서 수확할 수 없을 땐<br/><span class='fnt_emphasis fnt_bold'>창고</span>를 업그레이드해야 합니다.</div></article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "42",
 			"helpCategoryId": "8",
-			"helpTitle": "Restaurant",
+			"helpTitle": "레스토랑",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A facility that boosts your maximum Stamina.<br/>By upgrading your <span class='fnt_emphasis fnt_bold'>Restaurant</span>,<br/>you can increase your maximum Stamina value.</div><div class='txt margin_top_10'>By finishing construction or an upgrade of a Restaurant,<br/>you can fully restore your Stamina.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>스태미너의 최대치를 올려주는 시설입니다.<br/><span class='fnt_emphasis fnt_bold'>레스토랑</span>을 업그레이드하면<br/>스태미너의 최대치가 상승합니다.</div><div class='txt margin_top_10'>레스토랑을 설치·업그레이드 완료하면<br/>스태미너가 회복됩니다.</div></article>",
 			"helpPriority": "7"
 		},
 		{
 			"helpId": "43",
 			"helpCategoryId": "8",
-			"helpTitle": "Dojo",
+			"helpTitle": "수련장",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A facility for <span class='fnt_emphasis fnt_bold'>Legacies</span> and <span class='fnt_emphasis fnt_bold'>Resistance Upgrades</span>.</div><div class='txt margin_top_20'><span class='fnt_emphasis fnt_bold'>Legacies</span> overwrite a <span class='fnt_emphasis fnt_bold'>Legacy Skill</span> possessed by one Digimon to <br/>replace another Digimon's Legacy Skill.</div><div class='txt margin_top_20'><span class='fnt_emphasis fnt_bold'>Resistance Upgrades</span> combine Digimon with the same name and Digivolution fuel<br/> to randomly add one Resistance.</div><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial2_succession_1.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_Arousal_1.png' width=90%></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>계승</span>과 <span class='fnt_emphasis fnt_bold'>내성 변화</span>를 실행하는 시설입니다.</div><div class='txt margin_top_20'><span class='fnt_emphasis fnt_bold'>계승</span>을 하면 디지몬이 지닌 <span class='fnt_emphasis fnt_bold'>계승기</span>를 다른 디지몬이 지닌 계승기로<br/>바꿀 수 있습니다.</div><div class='txt margin_top_20'><span class='fnt_emphasis fnt_bold'>내성 변화</span>를 하면 같은 이름의 디지몬과 진화 재료를 함께 사용하여<br/>내성을 랜덤으로 하나 추가할 수 있습니다.</div><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial2_succession_1.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_Arousal_1.png' width=90%></article>",
 			"helpPriority": "8"
 		},
 		{
 			"helpId": "44",
 			"helpCategoryId": "8",
-			"helpTitle": "Legacies",
+			"helpTitle": "계승이란",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can overwrite a <span class='fnt_emphasis fnt_bold'>Legacy Skill</span> possessed by one Digimon to<br/> replace another Digimon's Legacy Skill.<br/>To pass down a Legacy, the Partner Digimon<br/> must have their level maxed out.</div><div class='txt margin_top_10'>When a Legacy is passed down, the Partner Digimon will vanish.</div><div class='txt margin_top_20'>Legacies can be passed down as shown below.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_succession_3_v4.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>디지몬이 보유한 <span class='fnt_emphasis fnt_bold'>계승기</span>를 다른 디지몬의 계승기로<br/>바꿀 수 있습니다.<br/>계승을 하려면 파트너 디지몬이<br/>최대 레벨이여야 합니다.</div><div class='txt margin_top_10'>계승을 하면 파트너로 선택한 디지몬이 사라집니다.</div><div class='txt margin_top_20'>계승 방법은 다음과 같습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_succession_3_v4.png' width=90%></figure></article>",
 			"helpPriority": "9"
 		},
 		{
 			"helpId": "45",
 			"helpCategoryId": "8",
-			"helpTitle": "Resistance Upgrades",
+			"helpTitle": "내성 변화란",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can combine Digimon with the same name and<br/> Digivolution fuel to randomly add one Resistance.<br/>Mega Digimon can receive Resistance Upgrades using<br/> their own data fragments and Digivolution Fuel.</div><div class='txt margin_top_10'>When performing another Resistance Upgrade, you can change the Resistance being upgraded.</div><div class='txt margin_top_10'>Upgraded Resistances are carried over through Digivolution and Mode Changes.<br/>When Resistances are redundant, the Resistance can be drawn for again.</div><div class='txt margin_top_10'>When a Resistance is upgraded, the Partner Digimon will vanish.</div><div class='txt margin_top_20'>Resistances can be upgraded as shown below.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_Arousal_2_v4.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>같은 이름의 디지몬과 진화 재료를 함께 사용하여<br/>내성을 랜덤으로 하나 추가할 수 있습니다.<br/>궁극체는 그 궁극체의 데이터 조각과 진화 재료로<br/>내성 변화를 할 수 있습니다.</div><div class='txt margin_top_10'>내성 변화를 거듭해서 실행하면 내성이 더해집니다.</div><div class='txt margin_top_10'>추가한 내성은 진화 시와 모드 체인지 시에 계승됩니다.<br/>내성이 중복된 경우, 다시 랜덤으로 내성을 추첨합니다.</div><div class='txt margin_top_10'>내성 변화를 하면 파트너로 선택한 디지몬이 사라집니다.</div><div class='txt margin_top_20'>내성 변화 방법은 다음과 같습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_Arousal_2_v4.png' width=90%></figure></article>",
 			"helpPriority": "10"
 		},
 		{
 			"helpId": "46",
 			"helpCategoryId": "8",
-			"helpTitle": "Lab",
+			"helpTitle": "연구소",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A facility for creating DigiEggs from two Megas.</div><div class='txt margin_top_10'>In the <span class='fnt_emphasis fnt_bold'>Lab</span>, you can do <span class='fnt_emphasis fnt_bold'>Research</span> to create DigiEggs,<br/>hatch those DigiEggs in the <span class='fnt_emphasis fnt_bold'>Garden</span>,<br/>or perform <span class='fnt_emphasis fnt_bold'>Ability Seeding</span> to hand down Medals.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_labo_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_garden_1.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>궁극체 2마리로 디지몬알을 탄생시킬 수 있는 시설입니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>연구소</span>에는 디지몬알이 탄생하는 <span class='fnt_emphasis fnt_bold'>연구</span>와<br/>디지몬알을 부화시키는 <span class='fnt_emphasis fnt_bold'>가든</span>,<br/>재능 메달을 계승시키는<span class='fnt_emphasis fnt_bold'>재능 개발</span>이 있습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_labo_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_garden_1.png' width=90%></figure></article>",
 			"helpPriority": "11"
 		},
 		{
 			"helpId": "47",
 			"helpCategoryId": "8",
-			"helpTitle": "Research",
+			"helpTitle": "연구란",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>DigiEggs can be created by combining two Megas.<br/>When <span class='fnt_emphasis fnt_bold'>Research</span> is performed, a <span class='fnt_emphasis fnt_bold'>DigiEgg</span> is produced that will Digivolve<br/> into the same Rookie form as the Base Digimon.</div><div class='txt margin_top_10'>The <span class='fnt_emphasis fnt_bold'>qualities that can be passed down</span> through Research are listed below.<br />- The Base Digimon's Legacy Skill<br />- The Base Digimon's Leader Skill<br />- The Base Digimon's Abilities<br />- The Base Digimon's Luck</div><div class='txt margin_top_10'><br />* For more information about Abilities, go to Help and look under Digimon, then Abilities.</div><div class='txt margin_top_10'>The <span class='fnt_emphasis fnt_bold'>qualities that can be reset</span> through Research are listed below.<br />- Friendship<br />- Resistances obtained through Resistance Upgrades</div><div class='txt margin_top_10'>Also, when <span class='fnt_emphasis fnt_bold'>the Base Digimon is at max Friendship</span>,<br/>the DigiEgg's <span class='fnt_emphasis fnt_bold'>Awakening level will be boosted by 1</span>.</div><div class='txt margin_top_20'>When Awakening level is already at 4, max Friendship will have no boosting effect.</div><div class='txt margin_top_10'>* If Research is completed, the Partner Digimon will vanish.</div><div class='txt margin_top_20'> The way to conduct Research is shown below.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_labo_3.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>궁극체를 조합하여 디지몬알을 탄생시킬 수 있습니다.<br/><span class='fnt_emphasis fnt_bold'>연구</span>를 하면 베이스가 된 디지몬의 유년기로 성장하는<br/><span class='fnt_emphasis fnt_bold'>디지몬알</span>이 탄생합니다.</div><div class='txt margin_top_10'>연구로 <span class='fnt_emphasis fnt_bold'>계승되는 요소</span>는 다음과 같습니다.<br />·베이스 디지몬의 계승기<br />·베이스 디지몬의 리더 스킬<br />·베이스 디지몬의 재능<br />·베이스 디지몬의 행운</div><div class='txt margin_top_10'><br />※재능은 도움말에 있는 '디지몬'의 '재능이란' 항목에 자세히 설명되어 있습니다.</div><div class='txt margin_top_10'>연구로 <span class='fnt_emphasis fnt_bold'>리셋되는 요소</span>는 다음과 같습니다.<br />·우정도<br />·'내성 변화'로 추가한 내성</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>베이스 디지몬의 우정도가 최대치</span>인 경우,<br/>디지몬알의 <span class='fnt_emphasis fnt_bold'>각성치가 1 상승</span>합니다.</div><div class='txt margin_top_20'>또한 각성치가 4였을 경우, 우정도가 최대치여도 각성치는 상승하지 않습니다.</div><div class='txt margin_top_10'>※연구를 실행하면 베이스와 파트너 디지몬이 사라집니다.</div><div class='txt margin_top_20'>연구 방법은 다음과 같습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_labo_3.png' width=90%></figure></article>",
 			"helpPriority": "12"
 		},
 		{
 			"helpId": "48",
 			"helpCategoryId": "8",
-			"helpTitle": "Garden",
+			"helpTitle": "가든이란",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The place where DigiEggs created using Research are looked after.</div><div class='txt margin_top_10'>Petting a DigiEgg in your <span class='fnt_emphasis fnt_bold'>Garden</span> will hatch an In-Training Digimon.<br/>Digimon remain in the Garden throughout their DigiEgg and In-Training stages.<br/>Until they leave the Garden,<br/>Digimon cannot join your party or be enhanced.</div><div class='txt margin_top_10'>The <span class='fnt_emphasis fnt_bold'>List</span> in your Garden also shows the<br/> Digimon you befriended with Link Captures.<br/>Select Digimon from your List to train them in your Garden.</div><div class='txt margin_top_20'>The ways to Hatch and Digivolve are shown below.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_garden_2.png' width=90%></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>연구로 탄생한 디지몬알을 돌보는 곳입니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>가든</span>에서 디지몬알을 쓰다듬으면 유년기 I 디지몬이 탄생합니다.<br/>디지몬알~유년기 Ⅱ 동안은 가든에서 생활합니다.<br/>가든을 나올 때까지<br/>그 디지몬은 편성과 강화를 할 수 없습니다.</div><div class='txt margin_top_10'>또한 가든 <span class='fnt_emphasis fnt_bold'>목록</span>에는 링크 캡처로 동료가 된<br/>유년기 디지몬이 있습니다.<br/>목록의 디지몬을 선택하면 가든에서 육성할 수 있습니다.</div><div class='txt margin_top_20'>탄생과 진화 방법은 다음과 같습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_garden_2.png' width=90%></article>",
 			"helpPriority": "13"
 		},
 		{
 			"helpId": "50",
 			"helpCategoryId": "8",
-			"helpTitle": "Recruitment Notice",
+			"helpTitle": "모집 게시판",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A place to post requests for Co-Op partners.<br /><br />Since you cannot participate in Normal Quests that are more advanced than your own progress, those posts will not be displayed.<br />Event Quests that are more advanced than your own progress may be displayed, but please bear the difficulty level in mind when choosing to participate.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>협동전 모집 공고가 게시되는 곳입니다.<br /><br />본인의 진행도를 앞서는 통상 퀘스트는 참가할 수 없으므로 표시되지 않습니다.<br />이벤트 퀘스트는 본인의 진행도를 앞서는 퀘스트도 표시되지만, 난이도를 충분히 고려한 다음에 참가하세요.</div></article>",
 			"helpPriority": "15"
 		},
 		{
 			"helpId": "51",
 			"helpCategoryId": "8",
-			"helpTitle": "Decor",
+			"helpTitle": "장식이란",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Cheerful items that can be used to decorate your Farm.<br/>They have no special function, but can be arranged on your farm<br/> to <span class='fnt_emphasis fnt_bold'>customize</span> it and make it your own.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>농장에 배치할 수 있는 장식용 아이템입니다.<br/>특별한 기능은 없으나, 배치하면 <span class='fnt_emphasis fnt_bold'>나만의 농장</span>을<br/>꾸밀 수 있습니다.</div></article>",
 			"helpPriority": "16"
 		},
 		{
 			"helpId": "52",
 			"helpCategoryId": "9",
-			"helpTitle": "Food",
+			"helpTitle": "식사",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>When Feeding your Digimon, you can give them the Meat harvested from your Meat Field.</div><div class='txt margin_top_10'>Giving Meat to your Digimon is a good way to earn <span class='fnt_emphasis fnt_bold'>EXP</span> for them.<div class='txt margin_top_10'>You can also use <span class='fnt_emphasis fnt_bold'>Gourmet Meat</span> to max out their level regardless of their current Digivolution stage, level, EXP, or Awakening level.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_2_v4.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_3.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>식사를 통해 고기 밭에서 수확한 고기를 디지몬에게 줄 수 있습니다.</div><div class='txt margin_top_10'>디지몬에게 고기를 주면 <span class='fnt_emphasis fnt_bold'>EXP</span>를 획득합니다.<div class='txt margin_top_10'>또한 <span class='fnt_emphasis fnt_bold'>고급 고기</span>를 주면 현재 진화 단계, 레벨, 획득 EXP, 각성치를 불문하고 레벨을 최대치까지 올릴 수 있습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_2_v4.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_3.png' width=90%></figure></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "53",
 			"helpCategoryId": "9",
-			"helpTitle": "Enhancing",
+			"helpTitle": "강화",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By combining a Base Digimon and a Partner Digimon,<br/>you can earn EXP for the Base Digimon.<br/>The Partner Digimon will vanish.</div><div class='txt margin_top_10'>When the Base and Partner Digimon are from the same Tribe,<br/>there is a chance of producing a <span class='fnt_emphasis fnt_bold'>Luck</span> boost.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_training_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_training_2_v4.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>베이스 디지몬과 파트너 디지몬을 조합하면<br/>베이스 디지몬이 EXP를 획득할 수 있습니다.<br/>파트너로 선택한 디지몬은 사라집니다.</div><div class='txt margin_top_10'>베이스와 파트너가 같은 종족일 경우,<br/>랜덤으로 <span class='fnt_emphasis fnt_bold'>행운</span>이 상승합니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_training_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_training_2_v4.png' width=90%></figure></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "54",
 			"helpCategoryId": "9",
-			"helpTitle": "Digivolution",
+			"helpTitle": "진화",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can Digivolve your Digimon by using<br/> Plugins, data fragments, and Clusters.<br/>A Digimon's level must be maxed out to Digivolve.</div><div class='txt margin_top_10'>In-Training Digimon can be Digivolved by allowing them</div> to spend time in your Garden.<br/><div class='txt margin_top_10'>Some types of Digimon can perform a <span class='fnt_emphasis fnt_bold'>Mode Change</span>,<br/>which changes their appearance and stats.</div><div class='txt margin_top_10'>Unlike Digivolution, this can be done regardless of level<br/> and without consuming Plugins.</div><div class='txt margin_top_20'>The order of Digivolution is shown below.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_evolution_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_evolution_2.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>플러그인이나 데이터 조각, 클러스터를 사용하여<br/>디지몬을 진화시킬 수 있습니다.<br/>진화를 시키려면 디지몬이 최대 레벨이어야 합니다.</div><div class='txt margin_top_10'>유년기 I, II는 가든에서 시간을 소모하여<br/>진화할 수 있습니다.</div><div class='txt margin_top_10'>외형과 스테이터스가 변화하는 <span class='fnt_emphasis fnt_bold'>모드 체인지</span>를<br/>할 수 있는 디지몬도 있습니다.</div><div class='txt margin_top_10'>진화와는 달리 최대 레벨이 아니어도 가능하며, 플러그인 없이<br/>할 수 있습니다.</div><div class='txt margin_top_20'>진화 순서는 다음과 같습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_evolution_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_evolution_2.png' width=90%></figure></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "55",
 			"helpCategoryId": "9",
-			"helpTitle": "Party Formation",
+			"helpTitle": "편성",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can select the Digimon that <span class='fnt_emphasis fnt_bold'>form your party</span> and participate in battle.</div><div class='txt margin_top_10'>The Digimon selected as your <span class='fnt_emphasis fnt_bold'>Favorites</span> will<br/> appear on your Farm.</div><div class='txt margin_top_20'>The way to form your Party is shown below.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_deck_1_v4.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>배틀에 참가하는 디지몬 파티를 <span class='fnt_emphasis fnt_bold'>편성</span>할 수 있습니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>주력 파티</span>로 설정한 파티 디지몬은<br/>농장에 등장합니다.</div><div class='txt margin_top_20'>파티 편성 방법은 다음과 같습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_deck_1_v4.png' width=90%></figure></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "56",
 			"helpCategoryId": "11",
-			"helpTitle": "Rare Captures",
+			"helpTitle": "레어 캡처",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>DigiStones can be used to summon Digimon.</div><div class='txt margin_top_10'>In <span class='fnt_emphasis fnt_bold'>Rare Captures</span>, you can get Digimon that are <span class='fnt_emphasis fnt_bold'>Rookies or higher</span>.</div><div class='txt margin_top_10'>Sometimes, duplicate Digimon will be summoned.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>디지스톤을 사용하여 디지몬을 호출할 수 있습니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>레어 캡처</span>에서는 <span class='fnt_emphasis fnt_bold'>성장기 이상</span>의 디지몬을 획득할 수 있습니다.</div><div class='txt margin_top_10'>중복된 디지몬이 출현할 수 있습니다.</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "57",
 			"helpCategoryId": "11",
-			"helpTitle": "Link Captures",
+			"helpTitle": "링크 캡처",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Link Points can be used to summon Digimon.</div><div class='txt margin_top_10'>In <span class='fnt_emphasis fnt_bold'>Link Captures</span>, you can get Digimon that are <span class='fnt_emphasis fnt_bold'>In-Training</span>.</div><div class='txt margin_top_10'>Sometimes, duplicate Digimon will be summoned.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>링크 포인트를 사용하여 디지몬을 호출할 수 있습니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>링크 캡처</span>에서는 <span class='fnt_emphasis fnt_bold'>유년기 Ⅰ·Ⅱ</span>의 디지몬을 획득할 수 있습니다.</div><div class='txt margin_top_10'>중복된 디지몬이 출현할 수 있습니다.</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "58",
 			"helpCategoryId": "11",
-			"helpTitle": "Link Points",
+			"helpTitle": "링크 포인트",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>These points are used to perform Link Captures.</div><div class='txt margin_top_10'>They can be earned as prizes in various ways, such as through Login Bonuses.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>링크 캡처에 사용하는 포인트입니다.</div><div class='txt margin_top_10'>로그인 보너스 등 다양한 보상을 통해 얻을 수 있습니다.</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "60",
 			"helpCategoryId": "13",
-			"helpTitle": "Friends",
+			"helpTitle": "친구",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By selecting the Friend menu icon,<br/>you can <span class='fnt_emphasis fnt_bold'>view your Friends</span>, input your friends' User IDs under Search,<br/>and carry out <span class='fnt_emphasis fnt_bold'>User Searches and Friend Requests</span>.</div><div class='txt margin_top_10'>If you or the person you are trying to friend have reached your max number of friends,<br/>you cannot send a Friend Request, so be careful.</div><div class='txt margin_top_10'>You can view the <span class='fnt_emphasis fnt_bold'>users you've sent requests to</span> and <span class='fnt_emphasis fnt_bold'>users who've sent requests to you</span><br/> under <span class='fnt_emphasis fnt_bold'>Requests Sent</span> and <span class='fnt_emphasis fnt_bold'>Requests Received</span> in the Friends menu.</div><div class='txt margin_top_10'>Also, when you receive a Friend Request from another user,<br/>you can accept it to register them as a Friend.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>메뉴 아이콘의 [친구]를 선택하면<br/><span class='fnt_emphasis fnt_bold'>친구 확인</span>과 검색 항목에서 친한 유저의 ID를 입력하여<br/><span class='fnt_emphasis fnt_bold'>유저 검색 및 친구 신청</span>을 할 수 있습니다.</div><div class='txt margin_top_10'>나 또는 친구를 신청한 유저의 친구 수가 최대치일 경우,<br/>친구 신청을 할 수 없으니 주의하시기 바랍니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>친구 신청 중인 유저</span>와 <span class='fnt_emphasis fnt_bold'>승낙 대기 중인 유저</span>는<br/>[친구] 메뉴의 <span class='fnt_emphasis fnt_bold'>신청 중</span>, <span class='fnt_emphasis fnt_bold'>승낙 대기</span>에서 확인할 수 있습니다.</div><div class='txt margin_top_10'>또한 다른 유저의 친구 신청을<br/>승낙하면 친구로 등록됩니다.</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "61",
 			"helpCategoryId": "13",
-			"helpTitle": "Field Guide",
+			"helpTitle": "도감",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By selecting the Field Guide menu icon,<br/> you can view information about all the Digimon you've collected so far.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>메뉴 아이콘의 [도감]을 선택하면<br/>지금까지 획득한 디지몬의 정보를 확인할 수 있습니다.</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "62",
 			"helpCategoryId": "13",
-			"helpTitle": "How to Change Your Sound and Notification Settings",
+			"helpTitle": "사운드 및 알림 설정 변경 방법",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By selecting the Settings menu icon, <br/>you can adjust the BGM/SFX volume and turn push notifications ON/OFF.</div><div class='txt margin_top_10'>You can also adjust BGM/SFX volume<br/>by going to \"Title\" > \"Options\".</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>메뉴 아이콘의 [설정]을 선택하면<br/>BGM/SE 볼륨 설정·푸시 알림 ON/OFF를 선택할 수 있습니다.</div><div class='txt margin_top_10'>또한 [타이틀]의 [옵션]에서도 BGM/SE 볼륨을<br/>조정할 수 있습니다.</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "63",
 			"helpCategoryId": "13",
-			"helpTitle": "Checking Announcements",
+			"helpTitle": "공지사항 확인 방법",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By selecting the Announcements menu icon,<br/> you can view the announcements you've been sent.<br/> Tap an announcement to view it in detail.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>메뉴 아이콘의 [공지사항]을 선택하면<br/>공지사항을 확인할 수 있습니다.<br/>공지사항을 터치하면 자세한 내용이 표시됩니다.</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "64",
 			"helpCategoryId": "13",
-			"helpTitle": "Profile",
+			"helpTitle": "프로필",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By selecting the Profile menu icon,<br />you can display your own profile.</div><div class='txt margin_top_10'>In your profile, you can view your<span class='fnt_emphasis fnt_bold'> Title, User Code, User Name, Field Guide, and Comment</span>.<br /></div><div class='txt margin_top_10'>You can change your Title and User Name and edit your Comment.<br />Including private personal information, rude or abusive language, or any other<br /> inappropriate content is prohibited. Thank you for your cooperation!</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>메뉴 아이콘의 [프로필]을 선택하면<br />내 프로필이 표시됩니다.</div><div class='txt margin_top_10'>프로필에서는<span class='fnt_emphasis fnt_bold'> 칭호·유저 코드·유저 이름·도감 등록 수·코멘트</span>를<br />확인할 수 있습니다.</div><div class='txt margin_top_10'>칭호·유저 이름 변경과 코멘트 편집도 가능합니다.<br />개인정보 및 부적절한 표현이 포함된 내용은<br />사용을 금지하고 있사오니 양해해주시기 바랍니다.</div></article>",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "65",
 			"helpCategoryId": "13",
-			"helpTitle": "Cross-OS Transfers",
+			"helpTitle": "다른 OS에서 데이터 이전",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>When switching to a new device, you will need to issue a<br/><span class='fnt_emphasis fnt_bold'> Transfer Code</span> to preserve your game data.</div><div class='txt margin_top_10'>Select the Other menu icon, then the Transfer<br/> icon to issue a Transfer Code.<br/>Tap <span class='fnt_emphasis fnt_bold'>Issue Code<span class='fnt_emphasis fnt_bold'>, and a </span>Transfer Code</span> will be issued.</article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>기기를 변경할 때 유저 데이터를 보존하려면<br/><span class='fnt_emphasis fnt_bold'>데이터 이전 코드</span>를 발행해야 합니다.</div><div class='txt margin_top_10'>메뉴 아이콘의 [기타]에서 [데이터 이전]을 선택하면<br/>이전 코드를 발급받을 수 있습니다.<br/><span class='fnt_emphasis fnt_bold'>코드 발행</span>을 터치하면 <span class='fnt_emphasis fnt_bold'>이전 코드</span>가 발급됩니다.</article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "66",
 			"helpCategoryId": "13",
-			"helpTitle": "Same-OS Transfers",
+			"helpTitle": "동일한 OS에서 데이터 이전",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_bold'>■ Data Transfer Settings when Switching Device Models </span><br/>The method for transferring data varies depending on the type of mobile device.</div><div class='txt margin_top_20'><span class='fnt_bold'>■ When transferring from one iOS device to another iOS device</span><br/>You can use iCloud to back up your game data.<br/></div><h3 class='margin_top_20'>----Setting Up A Transfer----</h3><div class='txt margin_top'><span class='fnt_bold'>○ When using iCloud Drive</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_iOS.png' width=100%></figure><br/>1: Sign in to <span class='fnt_emphasis fnt_bold'>iCloud</span> from the Settings menu on your device<br/>2: Enable (turn on) <span class='fnt_emphasis fnt_bold'>iCloud Drive</span><br/>3: In the details screen of <span class='fnt_emphasis fnt_bold'>iCloud Drive</span>, enable (turn on) <span class='fnt_emphasis fnt_bold'>Digimon Links</span><br/>4: When you run <span class='fnt_emphasis fnt_bold'>Digimon Links</span> after the above conditions are met, a backup will be automatically created<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○ When not using iCloud Drive</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_iOS.png' width=100%></figure><br/>1: Sign in to <span class='fnt_emphasis fnt_bold'>iCloud</span> from the Settings menu on your device<br/>2: Enable (turn on) <span class='fnt_emphasis fnt_bold'>Documents and Data</span><br/>3: In the details screen of <span class='fnt_emphasis fnt_bold'>Documents and Data</span>, enable (turn on) <span class='fnt_emphasis fnt_bold'>Digimon Links</span><br/>4: When you run <span class='fnt_emphasis fnt_bold'>Digimon Links</span> after the above conditions are met, a backup will be automatically created<br/></div><h3 class='margin_top_20'>----Completing A Transfer----</h3><div class='txt margin_top'><span class='fnt_bold'>○ When using iCloud Drive</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info3_iOS.png' width=100%></figure><br/>1: Sign in to <span class='fnt_emphasis fnt_bold'>iCloud</span> from the Settings menu on your device<br/>2: After signing in, when you perform a fresh install of Digimon Links<br/> and run the app, the backup should be automatically restored<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○ When not using iCloud Drive</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info4_iOS.png' width=100%></figure><br/>1: Sign in to <span class='fnt_emphasis fnt_bold'>iCloud</span> from the Settings menu on your device<br/>2: After signing in, when you perform a fresh install of Digimon Links <br/>and run the app, the backup should be automatically restored<br/></div><div class='txt margin_top_10'><h4>■ Warnings</h4><br/>* When performing a fresh install,<span class='fnt_emphasis fnt_bold'>you must be signed in to the same iCloud account </span>that was used when playing the game<br/><br/>* If the same iCloud account has been used on multiple devices,<span class='fnt_emphasis fnt_bold'>the game data on the last device used to play may be </span>overwritten<br/><br/>* When the same game data is used to play on mutiple devices,<span class='fnt_emphasis fnt_bold'>there is a danger of the data being corrupted or damaged,</span>so please refrain from doing so<br/><br/><br/></div><div class='txt margin_top_20'><span class='fnt_bold'>■ When transferring from one Android device to another Android device</span><br/>When transferring from one Android device to another Android device, you can use your Google account <br/>to back up your game data<br/></div><h3 class='margin_top_20'>----Setting Up A Transfer----</h3><div class='txt margin_top'><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_and.png' width=100%></figure><br/>1: In the game menu, tap <span class='fnt_emphasis fnt_bold'>Transfer With Google</span><br/>2: Read the descriptive information, then tap <span class='fnt_emphasis fnt_bold'>Sync with Google</span><br/>3: If an authorization screen is displayed, check the contents and your Google account,<br/>then <span class='fnt_emphasis fnt_bold'>grant access</span><br/>→ When the above is complete, a backup of your game data will be created<br/></div><h3 class='margin_top_20'>----Completing A Transfer----</h3><div class='txt margin_top'><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_and.png' width=100%></figure><br/>1: Perform a fresh install of Digimon Links, then go to Transfer on the right-hand side of the title screen <br/>and tap <span class='fnt_emphasis fnt_bold'>Transfer with Google</span><br/>2: Read the descriptive information, then tap <span class='fnt_emphasis fnt_bold'>Transfer with Google</span><br/>3: If an authorization screen is displayed, check the contents and your Google account,<br/>then <span class='fnt_emphasis fnt_bold'>grant access</span><br/>→ When the above is complete, the game data backup should be restored<br/></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_bold'>■기기변경에 따른 데이터 이전 설정</span><br/> 단말기 종류에 따라 데이터 이전 방법이 다릅니다.</div><div class='txt margin_top_20'><span class='fnt_bold'>■[iOS]에서 [iOS]로 이전하는 경우</span><br/> iCloud를 이용하여 게임 데이터를 백업할 수 있습니다.<br/></div><h3 class='margin_top_20'>―――― 기본 단말기 설정 ――――</h3><div class='txt margin_top'><span class='fnt_bold'>○iCloud Drive를 사용하는 경우</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_iOS.png' width=100%></figure><br/> ①단말기 '설정' 메뉴에서 '<span class='fnt_emphasis fnt_bold'>iCloud</span>'에 로그인<br/> ②'<span class='fnt_emphasis fnt_bold'>iCloud Drive</span>'를 사용(on)으로 설정<br/> ③'<span class='fnt_emphasis fnt_bold'>iCloud Drive</span>' 상세 화면에서도 '<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'를 사용(on)으로 설정<br/> ④위 상태에서 '<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'를 실행하면 자동으로 백업됩니다.<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○iCloud Drive를 사용하지 않는 경우</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_iOS.png' width=100%></figure><br/> ①단말기 '설정' 메뉴에서 '<span class='fnt_emphasis fnt_bold'>iCloud</span>'에 로그인하여<br/> ②'<span class='fnt_emphasis fnt_bold'>서류 및 데이터</span>'를 사용(on)으로 설정<br/> ③'<span class='fnt_emphasis fnt_bold'>서류 및 데이터</span>' 상세 화면에서도 '<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'를 사용(on)으로 설정<br/> ④위 상태에서 '<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'를 실행하면 자동으로 백업됩니다.<br/></div><h3 class='margin_top_20'>―――― 새로운 단말기 설정 ――――</h3><div class='txt margin_top'><span class='fnt_bold'>○iCloud Drive를 사용하는 경우</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info3_iOS.png' width=100%></figure><br/> ①단말기 '설정' 메뉴에서 '<span class='fnt_emphasis fnt_bold'>iCloud</span>'에 로그인<br/> ②로그인한 상태에서 새로 디지몬 링크즈를<br/>   인스톨하여 기동하면 백업 데이터를 불러올 수 있습니다.<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○iCloud Drive를 사용하지 않는 경우</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info4_iOS.png' width=100%></figure><br/> ①단말기 '설정' 메뉴에서 '<span class='fnt_emphasis fnt_bold'>iCloud</span>'에 로그인<br/> ②로그인한 상태에서 새로 디지몬 링크즈를<br/>   인스톨하여 기동하면 백업 데이터를 불러올 수 있습니다.<br/></div><div class='txt margin_top_10'><h4>■주의사항</h4><br/> ※새로 인스톨할 때 <span class='fnt_emphasis fnt_bold'>플레이 당시에 사용했던 iCloud 계정</span>에 로그인해야 합니다.<br/><br/> ※복수의 단말기로 같은 계정의 데이터를 사용하는 경우 <span class='fnt_emphasis fnt_bold'>마지막으로 플레이한 단말기의 게임 데이터가 덮어쓰기</span>됩니다.<br/><br/> ※복수의 단말기에서 같은 게임 데이터를 플레이하면 <span class='fnt_emphasis fnt_bold'>데이터가 손상될 수 있으니</span>이용을 삼가시기 바랍니다.<br/><br/><br/></div><div class='txt margin_top_20'><span class='fnt_bold'>■[안드로이드]에서 [안드로이드]로 데이터를 이전하는 경우</span><br/> 안드로이드 단말기에서 같은 안드로이드 단말기로 이전하는 경우, 구글 계정을 이용하여<br/> 게임 데이터를 백업할 수 있습니다.<br/></div><h3 class='margin_top_20'>―――― 기존 단말기 설정 ――――</h3><div class='txt margin_top'><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_and.png' width=100%></figure><br/> ①게임 내 메뉴에서 '<span class='fnt_emphasis fnt_bold'>구글로 이전</span>'을 터치<br/> ②위 내용을 확인한 후 '<span class='fnt_emphasis fnt_bold'>구글로 동기화</span>'를 터치<br/> ③권한 요청 화면이 표시되는 경우, 내용과 구글 계정을 확인한 후<br/> '<span class='fnt_emphasis fnt_bold'>접근 허가</span>'<br/> →위 순서를 따르면 백업 데이터가 생성됩니다.<br/></div><h3 class='margin_top_20'>―――― 새로운 단말기 설정 ――――</h3><div class='txt margin_top'><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_and.png' width=100%></figure><br/> ①새로 디지몬 링크즈를 인스톨하여 타이틀 우측의 '데이터 이전'에서<br/>   '<span class='fnt_emphasis fnt_bold'>구글로 이전</span>' 터치<br/> ②위 내용을 확인한 후 '<span class='fnt_emphasis fnt_bold'>구글로 이전</span>' 터치<br/> ③권한 요청 화면이 표시되는 경우, 내용과 구글 계정을 확인한 후<br/>   '<span class='fnt_emphasis fnt_bold'>접근 허가</span>'<br/> →위 순서를 따르면 백업된 게임 데이터를 불러올 수 있습니다.<br/></div></article>",
 			"helpPriority": "7"
 		},
 		{
 			"helpId": "67",
 			"helpCategoryId": "13",
-			"helpTitle": "Transfer Warnings",
+			"helpTitle": "데이터 이전 관련 주의 사항",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>■ Changes or damage to the device being used, uninstallation of the app, service-side issues, etc.<br/>There may be instances in which player data (login data) is lost or deleted<br/>from the device being used due to various causes. To guard against the possibility of lost player data,<br/>it is the user's responsibility to perform regular backups for transferring saved data.</div><div class='txt margin_top_10'>■ If player data is lost, in order to continue to use<br/>the old player data, the following transfer information will be required.<br/><span class='fnt_emphasis fnt_bold margin_x_20'>・ Transfer Code</span><br/><span class='fnt_emphasis fnt_bold margin_x_20'>・ Password</span></div><div class='txt margin_top_10'>Before using the service, please confirm (set up) your transfer information in the following order <br/>and make a note of it for later.<br/><span class='fnt_emphasis fnt_bold margin_x_20'>・Menu → Select Transfer → Set a password</span><br/><span class='margin_x_10'>* Taking a screenshot or sending a text message to your device</span><br/><span class='margin_x_10'>may render you unable to access the information in the case of damage to your device,</span><br/><span class='margin_x_10'>so it is recommended that you take down a handwritten memo of this information or email it to your PC to save it.</span></div><div class='txt margin_top_10'>■ It is the responsibility of the user to securely save any and all transfer information.<br/>Even in the case of such incidents as theft or loss of the device, <br/>our company will be unable to disclose any transfer information.<br/></div><div class='txt margin_top_10'>■ When transferring from one OS to another,<br/>some or all app-specific currency may be lost.<br/>If app-specific currency is lost,<br/>our company is under no obligation to restore or migrate the said app-specific currency.<br/>For this reason, it is recommended to purchase items<br/>or otherwise spend app-specific currency before performing a transfer.</div><div class='txt margin_top_10'>■ Player data may not be transferred when it has been<br/>backed up or restored by procedures other than<br/>the methods specified in the app (such as backups with a PC).</div><div class='txt margin_top_10'>■ Transfer information will become invalid after one transfer has been performed.<br/>(When transfer data has already been used once)<br/>In the case that transfer information was not reset, making another transfer impossible,<br/>our company is under no obligation to re-validate transfer information<br/>or otherwise migrate player data.</div><div class='txt margin_top_10'>■ Transfer information is subject to the following period of validity.<br/>(When transfer information has a period of validity)<br/><span class='fnt_emphasis fnt_bold margin_x_20'>・ 1 month, including the date of creation of the transfer data</span><br/>When the period of validity has passed, the transfer information will need to be reset.<br/>In the case that transfer information was not reset, making another transfer impossible,<br/>our company is under no obligation to re-validate transfer information<br/>or otherwise migrate player data.</div><div class='txt margin_top_10'>■ Transferrable player data<br/>is limited to storage on our company's servers.<br/>Furthermore, due to some functions of this service being dependent upon the device and OS in use,<br/>even when a transfer has been performed, we cannot guarantee<br/>that all of the user's player data will be exactly and accurately transferred.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>■사용 중인 단말기 변경·고장, 앱 삭제, 운영 측의 문제 등의<br/> 원인으로 이용 단말기에서 플레이 데이터(로그인 데이터)가<br/> 사라질 수 있습니다. 이에 대비하여<br/> 사전에 데이터 이전 정보를 설정해주십시오.</div><div class='txt margin_top_10'>■플레이 데이터가 소실된 경우, 이전 플레이 데이터를<br/> 계속해서 이용하시려면 다음의 이전 정보가 필요합니다.<br/><span class='fnt_emphasis fnt_bold margin_x_20'>·이전 코드</span><br/><span class='fnt_emphasis fnt_bold margin_x_20'>·비밀번호</span></div><div class='txt margin_top_10'>■본 서비스 이용 전 다음 순서에 따라 이전 정보 확인(설정)을<br/> 진행하고 반드시 메모 등으로 남겨 보존하십시오.<br/><span class='fnt_emphasis fnt_bold margin_x_20'>·메뉴→이전 데이터 선택→비밀번호 설정</span><br/><span class='margin_x_10'>※이용하시는 단말기에 스크린샷, 문자 송신 등을 해두는 경우엔</span><br/><span class='margin_x_10'> 단말기 고장 시 확인이 불가능하므로</span><br/><span class='margin_x_10'> 수기 혹은 이메일로 보존하시는 것을 권장합니다.</span></div><div class='txt margin_top_10'>■이전 데이터 정보는 고객님이 직접 엄중히 보관하십시오.<br/> 도난, 분실 등 어떠한 경우에도<br/> 당사는 이전 정보를 안내해드리지 않습니다.<br/></div><div class='txt margin_top_10'>■다른 OS에서 데이터를 이전하면<br/> 보유한 앱 전용 화폐가 소실됩니다.<br/> 앱 전용 화폐가 소실된 경우에도<br/> 당사는 앱 전용 화폐 복원 및 이동 등의 서비스를 지원하지 않습니다.<br/> 따라서 이전하기 전 아이템 등을 구입하여<br/> 앱 전용 화폐를 모두 사용하시는 것을 권장합니다.</div><div class='txt margin_top_10'>■앱 내에서 지원하지 않는 방법(PC 백업)등으로<br/> 플레이 데이터를 백업, 복원해도<br/> 플레이 데이터는 이전되지 않습니다.</div><div class='txt margin_top_10'>■이전 정보는 한 번 이전하면 무효화됩니다.<br/> (이전 정보가 1회 한정인 경우)<br/> 이전 정보를 재설정하지 않아 이전할 수 없게 된 경우에도<br/> 당사는 연동 정보 유효화, 플레이 데이터 전환 등의 서비스를<br/> 지원하지 않습니다.</div><div class='txt margin_top_10'>■이전 정보는 다음과 같은 유효기간이 있습니다.<br/> (이전 정보 유효기간이 있는 경우)<br/><span class='fnt_emphasis fnt_bold margin_x_20'>·이전 정보 설정일로부터 1개월</span><br/> 유효기간이 경과한 경우, 연동 정보를 재설정해야 합니다.<br/> 이전 정보를 재설정하지 않아 이전이 불가능한 경우,<br/> 당사는 이전 정보 유효화,<br/> 플레이 데이터 전환 등의 서비스를 지원하지 않습니다.</div><div class='txt margin_top_10'>■플레이 데이터는 당사 서버에 보존된<br/> 범위 내에서 이전할 수 있습니다.<br/> 또한 본 서비스에는 이용하시는 단말기와 OS에 보존된 데이터에 기초한 기능 등이 있어<br/> 데이터를 이전해도 모든 플레이 데이터가<br/> 반영되지 않을 수 있습니다.</div></article>",
 			"helpPriority": "8"
 		},
 		{
 			"helpId": "68",
 			"helpCategoryId": "13",
-			"helpTitle": "Uninstalling",
+			"helpTitle": "앱 삭제",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>When uninstalling the app, your DigiStones and Clusters,<br/>captured Digimon, and <span class='fnt_emphasis fnt_bold'>all your game data will be deleted</span>, so <br/>please be careful.</div><div class='txt margin_top_10'>If you wish to preserve your game data,<br/><span class='fnt_emphasis fnt_bold'>please issue a Transfer Code in the Transfer menu </span>to save it.</article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>앱을 삭제하면 '디지스톤', '클러스터',<br/>획득한 '디지몬' 등<span class='fnt_emphasis fnt_bold'>모든 유저 데이터가 사라지니</span><br/>주의하시기 바랍니다.</div><div class='txt margin_top_10'>유저 데이터를 보존하려면<br/><span class='fnt_emphasis fnt_bold'>반드시 [데이터 이전]에서 '데이터 이전 코드'를</span> 발행하십시오.</article>",
 			"helpPriority": "9"
 		},
 		{
 			"helpId": "69",
 			"helpCategoryId": "13",
-			"helpTitle": "Warning: Account Suspension Due to Banned Behavior",
+			"helpTitle": "주의 사항 '이용 약관 위반에 따른 계정 정지 조치'",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_bold'>The following behaviors are prohibited while using this service.</span></div><div class='txt margin_top_10'>In the case of verification of prohibited behavior, in accordance with the rules of the User Agreement,<br/>our company reserves the right to limit the user's access to features and/or suspend the user's account<br/>without prior notice.<br/>In addition, in the case of repeated prohibited behavior<br/>or in the case of even one instance of malicious prohibited behavior,<br/>we may take drastic measures in response, including indefinite suspension of the user's account.<br/>These measures are taken for the purpose of improving the user environment and experience<br/>for all users of our service. Thank you for your understanding and cooperation.</div><div class='txt margin_top_10'>* Our company reserves the right of final judgment as to whether a behavior is or is not prohibited.<br/>* Even in cases in which such measures are taken,<br/>our company is not obligated in any way to answer individual questions<br/>regarding our reasons for taking said measures, the details of said case, or other related matters.<br/>* In the case that your account should be indefinitely suspended,<br/>you will be entirely banned from using the service in the future.<br/>In addition, in such a case, no refunds or redeemable exchanges<br/>will be offered for in-app currency or other purchased items.</div><div class='txt margin_top_10'><span class='fnt_bold'>- Criminal acts and/or acts which violate public order and morals</span><br/>\"  Use of cruel and/or violent language, sexual language, discriminatory language, <br/>and/or language intended to cause discomfort.<br/>\" Stalking behavior and/or behavior which causes trouble for our company and/or a third party.</div><div class='txt margin_top_10'><span class='fnt_bold'>- Behavior which violates the rights of this company and/or a third party with regards to property, reputation, privacy, etc.</span><br/>\"  The transfer, loan, or sharing of game accounts, in-app currency, and/or other items <br/>(hereafter referred to as \"accounts etc.\") and/or the use of a third party's accounts etc.<br/>\"  The illegal acquisition of accounts etc. (including acquisition of accounts etc.<br/> via exploitation of any bugs or malfunctions in our service).<br/>\"  The acquisition of profit for the user and/or a third party via exploitation of any bugs or malfunctions in our service <br/>and/or the prevention of profit for our company and/or a third party via the same.<br/>\"  Collection of personal information and/or dissemination of the user and/or a third party's <br/>personal information.<br/>\"  Insulting behavior and/or behavior which damages the credibility and/or reputation of our company and/or a third party.<br/></div><div class='txt margin_top_10'><span class='fnt_bold'>- Provision of false information and/or use of our service for illegal purposes.</span><br/>\"  Circulation of false information pertaining to our service and/or information regarding<br/>bugs and/or malfunctions in our service.<br/>\"  Impersonation of our company and/or a third party.<br/>\"  Politically- or religiously-motivated behavior.<br/></div><div class='txt margin_top_10'><span class='fnt_bold'>- Behavior which obstructs the provision of our service and/or slanderous or abusive behavior.</span><br/>\"  Illegal accessing of equipment used to provide and/or manage our service (hereafter referred to as \"servers etc.\"), <br/>data theft, and/or use of programs which <br/>illegally modify software.<br/>\"  Behaviors which place an excessive load on servers etc. (such as the use of tools to access our service<br/>as well as any other behaviors which place an excessive load on servers etc.).<br/>\"  Behaviors which prevent other customers from using our service <br/>and/or behaviors which interfere with the ability of other customers to use our service.<br/>\"  Multiple registrations of the same player data on multiple devices<br/>in order to progress through the game with an unfair advantage.<br/>\"  Unreasonable inquiries and/or demands of our company and/or a third party<br/>which exceed our legal responsibilities.</div><div class='txt margin_top_10'><span class='fnt_bold'>- Reproduction, duplication, modification, storage, and/or transfer of the contents of our service.</span><br/>\"  Reverse compilation, reverse assembly, <br/>reverse engineering, or any other parsing of the data and programs etc. of our service<br/>as well as any reproduction, compilation, modification, and/or adaptation of the same.</div><div class='txt margin_top_10'><span class='fnt_bold'>- Any commercial endeavor using our service.</span><br/>\"  Buying and/or selling of game accounts<br/>or buying and/or selling of in-app currency or other items<br/>via any method not specified by our company.<br/>\"  Publication of information for the purpose of commercial advertising.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_bold'>본 게임에서는 다음 행위를 금지합니다.</span></div><div class='txt margin_top_10'>  당사에서 제한하는 행위가 적발된 경우, 이용 규약에 따라<br/>  사전 고지 없이 이용을 제한하거나<br/>  계정 정지 등의 조치를 취합니다.<br/>  또한 위반 행위를 반복하거나<br/>  악질적인 위반 행위가 한 번이라도 발생한 경우<br/>  영구 계정 정지를 포함한 엄중히 처벌이 이루어지고 있습니다.<br/>  위 조치는 본 게임을 이용하는 유저에게<br/>  쾌적한 환경을 제공하려는 취지이므로 양해 부탁드립니다.</div><div class='txt margin_top_10'>※이용 규칙 위반 여부는 당사가 판단합니다.<br/>※다음 조치가 취해진 경우에도<br/>  당사는 해당 조치를 진행한 이유, 경위 등에 대한<br/>  개별 문의에는 답변해드리지 않습니다.<br/>※영구 계정 정지가 된 경우<br/>  본 게임을 이용하실 수 없습니다.<br/>  또한 위와 같은 경우에도 앱 전용 캐시와 각종 아이템은<br/>  환불해드리지 않습니다.</div><div class='txt margin_top_10'><span class='fnt_bold'>■범죄 행위 또는 공공 질서 위반 행위</span><br/>  ·심한 가학적, 폭력적 표현, 성적 표현, 차별 표현,<br/>   불쾌감을 주는 표현을 사용하는 행위.<br/>  ·스토커 행위, 당사 또는 제삼자에게 피해를 주는 행위.</div><div class='txt margin_top_10'><span class='fnt_bold'>■당사 또는 제삼자의 재산, 명예, 개인 정보 등의 권리를 침해하는 행위.</span><br/>  ·게임 계정, 앱 전용 캐시나 다른 아이템(이하, 계정 등)을<br/>   양도, 대여, 공유하는 행위 또는 제삼자의 계정을 이용하는 행위.<br/>  ·계정 등을 부정한 방법으로 취득하는 행위(본 서비스의 버그 등을 이용하여<br/>   계정을 부정 취득한 경우를 포함)<br/>  ·본 서비스의 버그 등을 이용하여 자신 또는 제삼자에게 이익을 주는 행위<br/>   및 당사 또는 제삼자에게 불이익을 주는 행위.<br/>  ·개인 정보를 수집하는 행위, 또는 자신이나 제삼자의 개인정보를<br/>   공개하는 행위.<br/>  ·당사 또는 제삼자의 신용, 명예를 훼손하거나 모욕하는 행위.<br/></div><div class='txt margin_top_10'><span class='fnt_bold'>■허위 정보를 제공하거나 본 서비스를 부정한 목적으로 이용하는 행위.</span><br/>  ·본 서비스 관련 허위 정보나 버그 정보를<br/>　　유포하는 행위.<br/>  ·당사 또는 제삼자를 사칭하는 행위.<br/>  ·정치, 종교적 목적 행위.<br/></div><div class='txt margin_top_10'><span class='fnt_bold'>■본 게임의 제공을 방해하는 행위.</span><br/>  ·본 서비스를 제공하는 시설(이하, 서버 등)에 부정 접근<br/>   또는 데이터 갈취 행위, 소프트웨어 부정 처리 프로그램을<br/>   사용하는 행위.<br/>  ·서버 등에 과도한 부담을 주는 행위(툴 등을 이용하여<br/>   본 서비스에 접속하여 서버에 부담을 주는 행위 포함).<br/>  ·다른 사용자의 본 게임의 이용을 방해하는 행위,<br/>   또는 다른 사용자의 본 게임 이용에 지장을 주는 행위.<br/>  ·여러 개의 단말기로 플레이어 데이터를 복수 등록하여<br/>   부정한 게임 내 이득을 취하는 행위.<br/>  ·당사 및 제삼자에게 법적 책임 이상의 부당한 문의나<br/>   요청을 하는 행위.</div><div class='txt margin_top_10'><span class='fnt_bold'>■본 게임의 내용을 전제, 수정, 축적 또는 전송하는 행위.</span><br/>  ·본 게임 데이터, 프로그램 등을 분해하거나<br/>   재구성 및 그 외 해석, 복제, 편집, 변경,<br/>   번안 등을 하는 행위.</div><div class='txt margin_top_10'><span class='fnt_bold'>■본 서비스를 이용한 영리 행위</span><br/>  ·게임 계정을 판매하는 행위,<br/>   또는 본 서비스에서 당사가 지정한 것 외의 방법으로<br/>   앱 전용 캐시나 다른 아이템을 판매하는 행위.<br/>  ·상업용 광고 선전 목적으로 정보를 개제하는 행위.</div></article>",
 			"helpPriority": "10"
 		},
 		{
 			"helpId": "70",
 			"helpCategoryId": "13",
-			"helpTitle": "Inquiries",
+			"helpTitle": "문의하기",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can send in your questions and concerns by selecting the Other menu icon, <br/>then Inquiries, or by going to Inquiries from the Title screen.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>메뉴 아이콘의 [기타]>[문의하기]<br/>또는 [타이틀]>[문의하기]에서 각종 문의사항을 접수하실 수 있습니다.</div></article>",
 			"helpPriority": "11"
 		},
 		{
 			"helpId": "71",
 			"helpCategoryId": "99",
-			"helpTitle": "Transfers with iCloud",
+			"helpTitle": "iCloud를 이용한 데이터 이전",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_20'><span class='fnt_bold'>■ When transferring from one iOS device to another iOS device</span><br/>You can use iCloud to back up your game data.<br/></div><h3 class='margin_top_20'>----Setting Up A Transfer----</h3><div class='txt margin_top'><span class='fnt_bold'>○ When using iCloud Drive</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_iOS.png' width=100%></figure><br/>1: Sign in to <span class='fnt_emphasis fnt_bold'>iCloud</span> from the Settings menu on your  device<br/>2: Enable (turn on) <span class='fnt_emphasis fnt_bold'>iCloud Drive</span><br/>3: In the details screen of <span class='fnt_emphasis fnt_bold'>iCloud Drive</span>, enable (turn on) <span class='fnt_emphasis fnt_bold'>Digimon Links</span><br/>4: When you run <span class='fnt_emphasis fnt_bold'>Digimon Links</span> after the above conditions are met, a backup will be automatically created<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○ When not using iCloud Drive</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_iOS.png' width=100%></figure><br/>1: Sign in to <span class='fnt_emphasis fnt_bold'>iCloud</span> from the Settings menu on your device<br/>2: Enable (turn on) <span class='fnt_emphasis fnt_bold'>Documents and Data</span><br/>3: In the details screen of <span class='fnt_emphasis fnt_bold'>Documents and Data</span>, enable (turn on) <span class='fnt_emphasis fnt_bold'>Digimon Links</span><br/>4: When you run <span class='fnt_emphasis fnt_bold'>Digimon Links</span> after the above conditions are met, a backup will be automatically created<br/></div><h3 class='margin_top_20'>----Completing A Transfer----</h3><div class='txt margin_top'><span class='fnt_bold'>○ When using iCloud Drive</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info3_iOS.png' width=100%></figure><br/>1: Sign in to <span class='fnt_emphasis fnt_bold'>iCloud</span> from the Settings menu on your device<br/>2: After signing in, when you perform a fresh install of Digimon Links<br/> and run the app, the backup should be automatically restored<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○ When not using iCloud Drive</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info4_iOS.png' width=100%></figure><br/>1: Sign in to <span class='fnt_emphasis fnt_bold'>iCloud</span> from the Settings menu on your device<br/>2: After signing in, when you perform a fresh install of Digimon Links <br/>and run the app, the backup should be automatically restored<br/></div><div class='txt margin_top_10'><h4>■ Warnings</h4><br/>* When performing a fresh install,<span class='fnt_emphasis fnt_bold'>you must be signed in to the same iCloud account </span>that was used when playing the game<br/><br/>* If the same iCloud account has been used on multiple devices,<span class='fnt_emphasis fnt_bold'>the game data on the last device used to play may be </span>overwritten<br/><br/>* When the same game data is used to play on multiple devices,<span class='fnt_emphasis fnt_bold'>there is a danger of the data being corrupted or damaged,</span>so please refrain from doing so<br/></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_20'><span class='fnt_bold'>■[iOS]에서 [iOS]로 이전하는 경우</span><br/> iCloud를 이용하여 게임 데이터를 백업할 수 있습니다.<br/></div><h3 class='margin_top_20'>―――― 기존 단말기 설정――――</h3><div class='txt margin_top'><span class='fnt_bold'>○iCloud Drive를 사용하는 경우</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_iOS.png' width=100%></figure><br/> ①단말기 '설정' 메뉴에서 '<span class='fnt_emphasis fnt_bold'>iCloud</span>'에 로그인<br/> ②'<span class='fnt_emphasis fnt_bold'>iCloud Drive</span>'를 사용(on)으로 설정<br/> ③'<span class='fnt_emphasis fnt_bold'>iCloud Drive</span>' 상세 화면에서도 '<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'를 사용(on)으로 설정<br/> ④위 상태에서 '<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'를 실행하면 자동으로 백업됩니다.<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○iCloud Drive를 사용하지 않는 경우</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_iOS.png' width=100%></figure><br/> ①단말기 '설정' 메뉴에서 '<span class='fnt_emphasis fnt_bold'>iCloud</span>'에 로그인<br/> ②'<span class='fnt_emphasis fnt_bold'>서류 및 데이터</span>'를 사용(on)으로 설정<br/> ③'<span class='fnt_emphasis fnt_bold'>서류 및 데이터</span>' 상세 화면에서도 '<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'를 사용(on)으로 설정<br/> ④ 위 상태에서 '<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'를 실행하면 자동으로 백업됩니다.<br/></div><h3 class='margin_top_20'>―――― 새로운 단말기 설정――――</h3><div class='txt margin_top'><span class='fnt_bold'>○iCloud Drive를 사용하는 경우</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info3_iOS.png' width=100%></figure><br/> ①단말기 '설정' 메뉴에서 '<span class='fnt_emphasis fnt_bold'>iCloud</span>'에 로그인<br/> ②로그인한 상태로 새로 디지몬 링크즈를<br/> 인스톨하여 실행하면 백업 데이터를 불러올 수 있습니다.<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○iCloud Drive를 사용하지 않는 경우</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info4_iOS.png' width=100%></figure><br/> ①단말기 '설정' 메뉴에서 '<span class='fnt_emphasis fnt_bold'>iCloud</span>'에 로그인하여<br/> ②로그인한 상태로 새롭게 디지몬 링크즈를<br/> 인스톨하여 실행하면 백업 데이터를 불러올 수 있습니다.<br/></div><div class='txt margin_top_10'><h4>■주의사항</h4><br/> ※새로 인스톨할 때 <span class='fnt_emphasis fnt_bold'>플레이 당시에 사용했던 iCloud 계정</span>에 로그인해야 합니다.<br/><br/> ※복수의 단말기로 같은 계정의 데이터를 사용하는 경우<span class='fnt_emphasis fnt_bold'>마지막으로 플레이한 단말기의 게임 데이터가 덮어쓰기</span>됩니다.<br/><br/> ※복수의 단말기에서 같은 게임 데이터를 플레이하면 <span class='fnt_emphasis fnt_bold'>데이터가 손상될 수 있으니</span>이용을 삼가시기 바랍니다.<br/></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "72",
 			"helpCategoryId": "7",
-			"helpTitle": "The Colosseum",
+			"helpTitle": "콜로세움이란",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A place for battling in real time with other users.<br/><br/>It <span class='fnt_emphasis fnt_bold'>costs Stamina</span> to battle in the Colosseum, but you can <span class='fnt_emphasis fnt_bold'>battle up to 3 times a day for free</span>.<br/><span class='fnt_emphasis fnt_bold'>* Your number of free battles resets daily at {'2017-10-01 14:00:00'|timezone_format:0:'H:i'}.</span><br/><br/>There are two types of Colosseum battles: <span class='fnt_emphasis fnt_bold'>VS Battles</span>, which are matched randomly by rank, and <span class='fnt_emphasis fnt_bold'>Mock Battles</span>, where you can have fun sparring with Friends or anyone whose User Code you input.<br/>In VS Battles, you'll spend a lot of Stamina, but earn a lot of BP (Battle Points) when you win. Start with VS Battle on the right.<br/><br/>Also, to enter the Colosseum, you'll need to form a <span class='fnt_emphasis fnt_bold'>Colosseum Party</span> of six Digimon.<br/>However, you can only use <span class='fnt_emphasis fnt_bold'>three</span> Digimon in battle, so <span class='fnt_emphasis fnt_bold'>after being matched, you'll need to choose which to use </span>in the Battle Member Selection screen.<br/><br/>* BP (Battle Points) are points that can be traded for items in the Exchange.<br/>* The DP (Duel Points) earned are the same in left- and right-hand VS Battles.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>전국의 유저와 실시간으로 배틀을 진행하는 곳입니다.<br/><br/>콜로세움에서는 <span class='fnt_emphasis fnt_bold'>스태미너를 소비</span>하여 배틀할 수 있으나, <span class='fnt_emphasis fnt_bold'>매일 최대 3번까지는 스태미너를 소비하지 않고 배틀</span>할 수 있습니다.<br/><span class='fnt_emphasis fnt_bold'>※프리 플레이 횟수는 매일 {'2017-10-01 14:00:00'|timezone_format:0:'H:i'}에 리셋됩니다.</span><br/><br/>콜로세움은 랭크에 따라 랜덤 매칭되는 <span class='fnt_emphasis fnt_bold'>'대인전'</span>, 유저 코드로 검색한 상대 또는 친구와 즐길 수 있는 <span class='fnt_emphasis fnt_bold'>'모의전'</span> 2종류가 있습니다.<br/>대인전은 소비 스태미너가 많을수록 승리 시에 BP(배틀 포인트)를 많이 획득합니다. 우측의 '대인전' 메뉴를 통해 이용하시기 바랍니다.<br/><br/>또한 콜로세움 배틀에 참여하려면 디지몬 6마리로 구성된 <span class='fnt_emphasis fnt_bold'>콜로세움 전용 파티</span>를 편성해야 합니다.<br/>단, 배틀에 사용하는 디지몬은 최대 <span class='fnt_emphasis fnt_bold'>3마리</span>이며, 매칭 후 <span class='fnt_emphasis fnt_bold'>배틀 멤버 선출 화면에서 배틀에 참가할 디지몬을 선출</span>해야 합니다.<br/><br/>※BP(배틀 포인트)란 교환소에서 경품으로 교환할 수 있는 포인트입니다.<br/>※좌우에 위치한 '대인전' 양쪽 모두 획득하는 DP(듀얼 포인트)는 동일합니다.</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "73",
 			"helpCategoryId": "7",
-			"helpTitle": "Quests vs. Colosseum",
+			"helpTitle": "퀘스트와 콜로세움의 차이",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The differences between the Colosseum and Quest battles are explained below.<br />- There is a <span class='fnt_emphasis fnt_bold'>10-second time limit for selecting commands.</span> When time runs out, the Digimon will automatically select Attack and attack a randomly selected enemy.<br/>- The default battle speed is set at double. Auto Mode and Speed Mode cannot be used.<br/>- The maximum number of rounds is 20 rounds.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>콜로세움은 퀘스트 배틀과 달리 다음과 같은 특징이 있습니다.<br />·<span class='fnt_emphasis fnt_bold'>커맨드 선택 제한시간이 10초</span>입니다. 10초가 경과하면 자동으로 '공격'이 선택되어 랜덤으로 상대를 공격합니다.<br/>·배틀 속도는 기본 '2배속'으로 설정됩니다. 'AUTO' 및 '배틀 속도 변경'은 불가능합니다.<br/>·최대 20라운드까지 진행됩니다.</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "74",
 			"helpCategoryId": "7",
-			"helpTitle": "DP and Ranks",
+			"helpTitle": "DP와 랭크",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>DP stands for Duel Points, which can be earned by winning in the Colosseum.<br/>Also, a rank is awarded to players according to the number of DP earned each month, and prizes can be earned by achieving certain ranks.<br/>* Losing battles will not affect your DP.<br/><span class='fnt_emphasis fnt_bold'>Your rank will go up depending on your total number of victories and will increase the amount of DP you can earn. You will also be matched with opponents according to rank.</span><br/>However, at S Rank, your internal rank will change according to your win rate.<br/><br/><span class='fnt_emphasis fnt_bold'>▼ Conditions for Change</span><br/>After fighting 30+ battles, winning with a win rate of over 75%<br/><span class='fnt_emphasis fnt_bold'>OR</span><br/>After fighting 30+ battles, losing with a win rate of under 25%, or not participating in at least 5 battles within the ranking period by the final calculation date.<br/></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>DP란 '듀얼 포인트'의 약자로, 콜로세움에서 승리하면 획득하는 수치입니다.<br/>또한 획득한 DP에 따라 랭킹이 정해지며, 랭킹에 따른 보상이 주어집니다.<br/>※패배해도 DP는 변동되지 않습니다.<br/><span class='fnt_emphasis fnt_bold'>승리 수에 따라 랭크가 상승하며, 획득 가능한 DP가 증가하고 랭크에 맞는 상대가 매칭됩니다.</span><br/>단, S랭크는 승률에 따라 내부 랭크가 변동됩니다.<br/><br/><span class='fnt_emphasis fnt_bold'>▼변동 조건</span><br/>30회 이상 전투를 했으며 승리 시 승률이 75%를 넘은 경우<br/><span class='fnt_emphasis fnt_bold'>또는</span><br/>30회 이상 전투를 했으며 패배 시 승률이 25% 이하인 경우나 중간 랭킹을 포함한 각 랭킹 집계일까지 전투를 5회 이하로 진행한 경우.<br/></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "75",
 			"helpCategoryId": "7",
-			"helpTitle": "Resetting DP",
+			"helpTitle": "DP 초기화에 대하여",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>DP will be reset every after the Colosseum period.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>DP는 콜로세움의 개최 기간마다 초기화됩니다.</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "76",
 			"helpCategoryId": "7",
-			"helpTitle": "Winning and Losing",
+			"helpTitle": "승리와 패배에 대하여",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>In order to win, you must </span>reduce the HP of all 3 of your opponent's Digimon to 0 within 20 rounds<span class='fnt_emphasis fnt_bold'>.<br /><br />If the battle takes more than 20 rounds, victory is decided according to the following conditions:<br />1. The winner is the player whose remaining Digimon have the highest total remaining HP<br />2. If [1] produces equal totals, the winner is the player whose remaining Digimon have the highest total remaining HP compared to the total HP of all 3 of their Digimon<br />3. If the match cannot be decided by [2], the winner is the player with the most remaining Digimon.<br />If none of these rules can decide the match, it will be decided by predetermined conditions.<br /><br />If a battle is interrupted by a lost connection and cannot be resumed within the time limit, it will be counted as a defeat, so please enjoy Digimon Links in an area with good reception.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>승리 조건은 <span class='fnt_emphasis fnt_bold'>20라운드 이내에 상대 디지몬 3마리의 HP를 0로 만드는 것</span>입니다.<br /><br />20라운드를 초과하면 다음 조건에 따라 승부가 결정됩니다.<br />1. 생존한 디지몬의 잔여 HP의 합이 상대방보다 큰 경우 승리<br />2. 조건 1로 승부를 가릴 수 없는 경우, 생존한 디지몬의 잔여 HP의 합을 생존한 디지몬 3마리의 최대 HP의 합으로 나눈 비율이 큰 유저가 승리<br />3. 조건 2로도 승부를 가릴 수 없는 경우, 생존 디지몬이 많은 유저가 승리<br />조건 3마저 동일한 경우에는 규정에 따라 결정됩니다.<br /><br />배틀 중 네트워크 오류로 퇴장한 후 규정 시간 내에 복귀하지 못하면 패배 처리되오니, 통신이 원활한 환경에서 진행하십시오.</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "77",
 			"helpCategoryId": "7",
-			"helpTitle": "Ranking Prizes",
+			"helpTitle": "랭킹 보상에 대하여",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Ranking Prizes are <span class='fnt_emphasis fnt_bold'>sent to your Present Box when you go to the main Colosseum screen within 7 days after each ranking tally is complete.</span><br/>If you do not visit the Colosseum by the end of the prize acceptance period, you will be unable to accept your prizes, so please be careful.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>랭킹 보상은 <span class='fnt_emphasis fnt_bold'>집계 완료 후 7일 이내에 콜로세움을 방문하면 보상이 선물 상자로 지급됩니다.</span><br/>콜로세움을 방문하지 않은 상태에서 수령 기간이 경과하면 보상을 수령할 수 없으니 주의하십시오.</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "78",
 			"helpCategoryId": "7",
-			"helpTitle": "Invalid Matches",
+			"helpTitle": "무효 시합에 대하여",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>If your connection is lost or broken before you can be matched, an Invalid Match will result.<br/><br />When an Invalid Match occurs, no prizes or DP will be earned.<br />Your total numbers of battles and victories will also be unchanged.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>매칭되기 전에 연결이 끊어지는 등의 사태가 발생한 경우 시합이 무효 처리됩니다.<br/><br />시합이 무효로 돌아가면 보상을 획득할 수 없으며, DP에도 변동이 없습니다.<br />또한 배틀 횟수, 승리 수 등도 바뀌지 않습니다.</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "79",
 			"helpCategoryId": "7",
-			"helpTitle": "Mock Battles",
+			"helpTitle": "모의전에 대하여",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Mock Battles have no effect on your Stamina, Prizes, or DP. You can fight one in the Colosseum at any time just for fun! Here's how.<br />- Battle by inputting a User Code<br />- Battle with a Friend<br /><br />Have fun battling with the Digimon you've trained without worrying about Ranks or DP!</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>모의전은 스태미너 소비, 보상, DP 변동이 없으나 다음 방법으로 언제든지 콜로세움에서 배틀할 수 있습니다.<br />·유저 코드를 입력하여 배틀<br />·친구와 배틀<br /><br />랭크, DP 걱정 없이 직접 키운 디지몬으로 배틀을 즐겨보세요.</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "80",
 			"helpCategoryId": "10",
-			"helpTitle": "DigiChat",
+			"helpTitle": "디지채팅이란",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A function that allows you to chat with other users.<br/><br/>You can participate in up to 3 groups in DigiChat.<br/>Comments in DigiChat are limited to 100 characters.<br/>Groups can only be deleted by their Master, but cannot be deleted if there are any Members in the group other than the Master.</div><div class='txt margin_top_10'>Also, only Masters can kick out Members from the Member List.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>전국의 유저들과 대화하는 기능입니다.<br/><br/>디지채팅은 최대 3그룹까지 참가할 수 있습니다.<br/>디지채팅 코멘트는 100글자까지 입력할 수 있습니다.<br/>채팅 마스터만 그룹을 해체할 수 있으며, 다른 멤버는 그룹을 해체할 수 없습니다.</div><div class='txt margin_top_10'>또한 채팅 마스터만 멤버 목록에서 채팅 멤버를 강제로 퇴장시킬 수 있습니다.</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "81",
 			"helpCategoryId": "7",
-			"helpTitle": "Other Warnings",
+			"helpTitle": "기타 주의사항",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The following warnings also apply.<br />- The Colosseum schedule is subject to change without prior notice.<br />- Ranking is calculated based on DP, but when DP is equal, final judgment may be based on win/loss ratio, total victories, and/or total battles.<br />- Since the Colosseum features real-time battles, please play in an area with good reception.<br />- Users who time out of multiple battles within a certain period of time may be temporarily omitted from the matching system, so please be careful.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>기타 주의사항은 다음과 같습니다.<br />·예고 없이 콜로세움 개최 기간이 변동될 수 있습니다.<br />·랭킹은 DP를 기준으로 집계하지만, 동일한 경우 승률, 승리 수, 배틀 수 등을 고려하여 결정됩니다.<br />·콜로세움은 실시간 배틀이므로 통신이 원활한 환경에서 진행하십시오.<br />·규정 시간 중 여러 번 부전패 한 유저는 일정 시간 매칭이 제한되오니 주의하십시오.<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "82",
 			"helpCategoryId": "6",
-			"helpTitle": "Co-Op Features",
+			"helpTitle": "협동전의 특징",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can join a group of up to 3 other users to go on Quests.<br /><br />The details of Co-Op battles are as follows.<br />- In Co-Op battles, the AP required to use Skills<span class='fnt_emphasis fnt_bold'>can be pooled in a joint AP pool of up to 16 AP</span><br />- Occasionally, allies or enemies may randomly attack each other by accident<br />- The more players in your party, the more prizes you'll earn when clearing a Quest compared to clearing it solo<br />- In a Co-Op battle, you can still perform individual revivals<br />- Continues can only be performed by the Owner within 10 seconds<br />- <span class='fnt_emphasis fnt_bold'>Only the Owner can Retire or double the battle speed</span><br /><br />Stamps are intended for use as a communication tool during Co-Op battles. Put them to good use and seize the upper hand in battle!</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>최대 3명의 다른 유저와 함께 퀘스트를 진행할 수 있습니다.<br /><br />협동전의 특징은 다음과 같습니다.<br />·협동전에서는 기술을 쓸 때 필요한 AP가 <span class='fnt_emphasis fnt_bold'>공유되며, 최대 AP16까지 쌓을 수 있습니다.</span><br />·아군과 적병이 드물게 랜덤 공격을 실행합니다.<br />·함께 클리어하는 인원이 많을수록 혼자 클리어하는 것보다 많은 보상을 얻게 됩니다.<br />·협동전에서도 각자 부활할 수 있습니다.<br />·컨티뉴는 10초가 지나기 전, 호스트만 할 수 있습니다.<br />·<span class='fnt_emphasis fnt_bold'>배틀 포기와 2배속 진행은 호스트만</span> 실행할 수 있습니다.<br /><br />협동전 중에는 커뮤니케이션용 스탬프를 사용할 수 있으니, 활용해보세요.</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "83",
 			"helpCategoryId": "6",
-			"helpTitle": "Recruitment Notice Settings",
+			"helpTitle": "모집 게시판 설정",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>When posting a Co-Op recruitment notice as an Owner, you can set your preferred conditions for participants.<br /><br />Under Confirm Recruitment Notice Posting, you can select whether to post to the Recruitment Board.<br />By posting to the Recruitment Board, you can request help in Co-Op mode from other general users.<br />If you don't post it publicly, you can issue a PASS to your friends directly from the Co-Op wait screen which they can input from the Recruitment Board to join you.<br /><br />Under Ambience, you can select your preferred type of user.<br /><br />If you want to include more detailed preferences, try adding a brief Comment when you post.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>호스트는 협동전 모집을 진행할 때 원하는 참가 조건을 설정할 수 있습니다.<br /><br />'게시판 등록 확인'에서는 '모집 게시판' 게시 여부를 선택할 수 있습니다.<br />'모집 게시판'에 게시하면 전국의 유저가 협동전에 참가 의뢰를 할 수 있습니다.<br />게시하지 않으면 협동전 대기화면에 표시된 PASS를 전달받고, '모집 게시판'에서 입력한 사람만 참가할 수 있습니다.<br /><br />'성향'에서는 자신이 원하는 유저의 조건을 선택할 수 있습니다.<br /><br />더욱 구체적인 희망사항이 있는 경우, 한 마디 기능을 이용하시기 바랍니다.</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "84",
 			"helpCategoryId": "6",
-			"helpTitle": "Co-Op Battles",
+			"helpTitle": "협동전 진행 방법",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>There are two ways of participating in a Co-Op battle, as explained below.<br /><br />・ How to participate in a Co-Op battle as the Owner<br />When going on a Quest, select the Co-Op button and confirm your party.<br />Next, decide on a recruitment method and wait for other users to come on the Quest with you.<br />You can also recruit Members for your Quest in any chat groups you're in.<br />On the Member recruitment screen, tap the chat icon on the upper left to go to the recruitment screen.<br /><br />When 3 users participate, each user chooses one Digimon to go on the Quest.<br />When 2 users participate, the Owner can choose the Leader Digimon and a second Digimon.<span class='fnt_emphasis fnt_bold'>The Leader Digimon can be changed, but the second Digimon in your selected party will be selected as your second Digimon.</span><br /><br /><br />・ How to participate in a Co-Op battle as a Member<br />You can either participate by selecting a Quest you want to join from the Recruitment Board or by responding to a Co-Op Request in DigiChat.<br />The Recruitment Board shows requests from all general users, while Co-Op Requests in DigiChat are sent from friends.<br />There is no difference in the prizes to be earned, regardless of the method you choose, so go on whatever Quests you like!<br />When you join a Quest, you'll be taken to the Co-Op standby screen<span class='fnt_emphasis fnt_bold'>and can swap out your Digimon in the same way as in Party Formation.</span>Be sure to pick the best Digimon for the job!<br />When you're ready, press the Prep Complete button, and the battle will begin when all users are ready.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>협동전은 다음 두 가지 방법으로 진행됩니다.<br /><br />·직접 호스트가 되어 참가하는 협동전<br />가고 싶은 퀘스트에서 '협동전' 버튼을 선택한 후 파티를 결정합니다.<br />그리고 모집 방법을 정한 후 함께 퀘스트에 갈 유저를 기다립니다.<br />혹은 자신이 속한 채팅 그룹 멤버를 모집할 수도 있습니다.<br />멤버 모집 화면에서 좌측 상단의 채팅 아이콘을 터치하면 멤버 모집용 화면이 나타납니다.<br /><br />3명일 경우 각 유저가 퀘스트에 데려갈 디지몬을 한 마리씩 선택합니다.<br />2명일 경우 리더 디지몬 외에 디지몬을 한 마리 더 데려갈 수 있습니다. <span class='fnt_emphasis fnt_bold'>리더 디지몬은 변경할 수 있으나, 두 번째 디지몬은 선택한 파티의 두 번째 디지몬이 자동으로 선택됩니다.</span><br /><br /><br />·멤버가 되어 참가하는 협동전<br />농장에서 '모집 게시판'을 통해 가고 싶은 퀘스트에 참가하는 것과, 디지채팅의 '협동전 의뢰'에서 참가하는 두 가지 방법이 있습니다.<br />'모집 게시판'엔 전국의 유저에게 의뢰가 오며, 디지채팅의 '협동전 의뢰'에는 친구의 의뢰가 옵니다.<br />어느 방법을 선택해도 보상은 같으므로 원하는 퀘스트에 참가합시다.<br />참가하면 협동전 대기 화면이 표시되며 <span class='fnt_emphasis fnt_bold'>파티를 편성할 때와 같은 방법으로 디지몬을 변경할 수 있습니다.</span> 퀘스트에 맞는 디지몬으로 도전하세요.<br />준비가 끝나면 '준비 완료'버튼을 누른 후, 다른 유저의 준비를 기다립시다. 전원의 준비가 끝나면 배틀이 시작됩니다.<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "85",
 			"helpCategoryId": "6",
-			"helpTitle": "Owners vs. Members",
+			"helpTitle": "호스트와 멤버의 차이",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The differences between Owners and Members are explained below.<br /><br />- Only the Owner counts as having cleared a Quest, so even if the Member(s) also clear it for the first time, no First Clear Prizes will be awarded to Members<br />- Only the Owner must spend Stamina, so Members can participate in Quests without a Stamina cost<br />- Participating in a Quest as an Owner grants a boost to the EXP and Clusters gained from defeating enemy Digimon<br />- Participating as an Owner also grants a boost to the amount of Co-Op Clear Prizes earned<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>호스트와 멤버는 다음과 같은 차이가 있습니다.<br /><br />·호스트만 퀘스트를 클리어한 것으로 인정되며, 멤버는 처음으로 퀘스트를 클리어해도 첫 클리어 보상을 받을 수 없습니다.<br />·호스트만 스태미너를 소비하며, 멤버는 스태미너 소비 없이 참가할 수 있습니다.<br />·호스트로 퀘스트에 참가할 경우, 적 디지몬을 쓰러뜨렸을 때 얻는 EXP, 클러스터가 상승합니다.<br />·협동전 클리어 보상은 호스트로 참가한 경우 더 많이 얻을 수 있습니다.<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "86",
 			"helpCategoryId": "6",
-			"helpTitle": "First Link Bonus",
+			"helpTitle": "첫 링크 보너스에 대하여",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The first time you clear a Quest together in Co-Op mode, you'll earn a First Link Bonus.<br /><br />With First Link Bonuses, you can earn <span class='fnt_emphasis fnt_bold'>10 DigiStones each for the first 10 users, and 3 DigiStones each for the 11th-50th users</span>.<br />Also, when clearing a Co-Op Quest with a friend for the first time, you can earn <span class='fnt_emphasis fnt_bold'>10 DigiStones each for the first 10 friends</span> as a special First Link Bonus for friends.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>협동전에서 처음으로 함께 퀘스트를 클리어하면 첫 링크 보너스를 획득합니다.<br /><br /> <span class='fnt_emphasis fnt_bold'>10명까지는 디지스톤 10개, 11명부터 50명까지는 디지스톤 3개</span>가 첫 링크 보너스로 지급됩니다.<br />또한 친구와 함께 협동전을 처음 클리어하면 별개로 <span class='fnt_emphasis fnt_bold'>10명까지 디지스톤 10개</span>를 첫 친구 링크 보너스로 획득할 수 있습니다.</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "87",
 			"helpCategoryId": "6",
-			"helpTitle": "Disconnection",
+			"helpTitle": "네트워크 오류에 대하여",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>If a lost connection is not restored within the time limit during a Co-Op Quest, it will be counted as Retiring, so please be careful.</span><br />The following differences also apply to Owners and Members.<br /><br />When the Owner's connection is lost:<br />- All participating users, including the Owner, will be counted as Retiring<br />- All participating Members, including the Owner, will be unable to earn any items dropped during the battle up to that point<br /><br />When a Member's connection is lost:<br />- The Owner can select commands for the Digimon of the Member whose connection was lost<br />- Even if the other participants go on to clear that Quest, the Member whose connection was lost will be unable to earn any prizes<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>협동전 퀘스트에서 접속이 끊어진 상태로 일정 시간이 지나면 배틀 포기 처리 되오니 주의하십시오.</span><br />또한 호스트와 멤버는 다음 차이점이 있습니다.<br /><br />호스트의 접속이 끊어진 경우<br />·호스트를 포함한 참가 유저 전원이 배틀 포기 처리됩니다.<br />·호스트를 포함한 모든 참가자가 드롭된 아이템을 획득할 수 없습니다.<br /><br />멤버의 접속이 끊어진 경우<br />·접속이 끊긴 멤버의 디지몬은 호스트가 조작합니다.<br />·해당 협동전 퀘스트를 다른 참가자가 클리어해도 접속이 끊긴 멤버는 보상을 받을 수 없습니다.<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "88",
 			"helpCategoryId": "3",
-			"helpTitle": "Facility Storage",
+			"helpTitle": "시설 창고에 대하여",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A place for storing Decor only.<br />Stored Decor can be taken out and re-placed on your Farm without spending any Clusters.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>장식물만 보관할 수 있는 창고입니다.<br />보관한 장식물은 클러스터 소비 없이 다시 농장에 설치할 수 있습니다.<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "89",
 			"helpCategoryId": "10",
-			"helpTitle": "Co-Op & the Colosseum",
+			"helpTitle": "협동전'과 '콜로세움'에 대하여",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>In Co-Op, when you get an invitation from a friend, you will receive a notification.<br /><br />In the Colosseum, when you are challenged to a Mock Battle by a friend or through a User Code, you will receive a notification.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>친구에게 '협동전' 참가 요청이 도착하면 알림이 옵니다.<br /><br />친구 혹은 다른 유저에게 '콜로세움'의 모의전 도전 신청을 받으면 알림이 옵니다.<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "90",
 			"helpCategoryId": "14",
-			"helpTitle": "Chips",
+			"helpTitle": "칩에 대하여",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Digimon become able to utilize the capabilities of each chip when installed. <br />Not only do their stats increase, special skills are also activated during battle. <br /><br /><span class='fnt_emphasis fnt_bold'>Chips of the same name cannot be installed, even if the ranks are different. </span><br /><br />Chips are converted to clusters by selling them. <br />Also, items are obtainable when selling certain chips. <br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>디지몬에게 장착하면 디지몬이 각 칩의 능력을 발휘합니다.<br />능력에는 스테이터스 상승뿐 아니라 배틀 중 특수 스킬 발동 효과도 있습니다.<br /><br /><span class='fnt_emphasis fnt_bold'>칩은 랭크가 달라도 이름이 같으면 장착할 수 없습니다.</span><br /><br />칩은 판매하면 클러스터로 변환됩니다.<br />또한, 특정 칩 판매 시 아이템을 획득하는 경우가 있습니다.<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "91",
 			"helpCategoryId": "14",
-			"helpTitle": "Slots",
+			"helpTitle": "슬롯에 대하여",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Slots are places for installing Chips.<br /><br />For Digimon captured using <span class='fnt_emphasis fnt_bold'>DigiStones</span>, the max number of slots is <span class='fnt_emphasis fnt_bold'>10</span>, and for Digimon captured using <span class='fnt_emphasis fnt_bold'>Link Points</span>, the max number is <span class='fnt_emphasis fnt_bold'>5</span>.<br /><br />At first, there will be some slots that are locked.<br />Locked slots can be unlocked by meeting various conditions such as <span class='fnt_emphasis fnt_bold'>Enhancing, Awakening, or using special items</span> on your Digimon.<br />By unlocking slots, you'll be able to install lots of Chips.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>슬롯은 칩을 장착할 수 있는 공간입니다.<br /><br />최대 슬롯 수는 <span class='fnt_emphasis fnt_bold'>디지스톤</span> 캡처로 획득한 디지몬의 경우 <span class='fnt_emphasis fnt_bold'>10칸</span>, <span class='fnt_emphasis fnt_bold'>링크 포인트</span> 캡처로 획득한 디지몬의 경우 <span class='fnt_emphasis fnt_bold'>5칸</span>입니다.<br /><br />처음엔 개방되지 않은 상태의 슬롯도 있습니다.<br />개방되지 않은 슬롯은 <span class='fnt_emphasis fnt_bold'>진화, 각성, 전용 아이템 등</span> 다양한 조건에 따라 개방됩니다.<br />슬롯을 개방하면 더 많은 칩을 장착할 수 있습니다.<br /></div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "92",
 			"helpCategoryId": "14",
-			"helpTitle": "Enhancing Chips",
+			"helpTitle": "칩 강화에 대하여",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By Enhancing your Chips, you can raise their rank and power up their functions.<br /><br />To enhance your Chips, you'll need <span class='fnt_emphasis fnt_bold'>other Chips with the same rank and name</span>.<br />The amount of fuel needed to Enhance a Chip varies according to the type and rank of the Chip.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>칩은 강화하면 랭크가 상승하며, 그에 따라 칩 기능도 향상됩니다.<br /><br />칩을 강화하려면 <span class='fnt_emphasis fnt_bold'>같은 이름을 지닌 같은 랭크의 칩이 필요</span>합니다.<br />강화에 필요한 재료의 수는 랭크와 칩에 따라 다릅니다.<br /></div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "94",
 			"helpCategoryId": "11",
-			"helpTitle": "Chip Captures",
+			"helpTitle": "칩 캡처",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can get Chips by using DigiStones to capture them.</div><div class='txt margin_top_10'>With a <span class='fnt_emphasis fnt_bold'>Rare Chip Capture</span>, you can get Chips of <span class='fnt_emphasis fnt_bold'>Rank C and above</span>.</div><div class='txt margin_top_10'>Sometimes, duplicate Chips will be summoned.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>디지스톤을 사용하여 칩을 얻을 수 있습니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>레어 칩 캡처</span>에서는 <span class='fnt_emphasis fnt_bold'>랭크 C 이상</span>의 칩을 획득 가능합니다.</div><div class='txt margin_top_10'>중복된 칩이 등장할 수 있습니다.</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "95",
 			"helpCategoryId": "4",
-			"helpTitle": "Quest Tickets",
+			"helpTitle": "퀘스트 티켓",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Tickets for attempting special Quests.<br/>Some must be used within a limited time, but not all.</div><div class='txt margin_top_10'>Every time you <span class='fnt_emphasis fnt_bold'>clear</span> the Quest that corresponds to a Ticket, it will cost <span class='fnt_emphasis fnt_bold'>1 Ticket</span>.",
+			"detail": "<article id='help'><div class='txt margin_top_10'>특별한 퀘스트에 도전할 수 있는 티켓입니다.<br/>유효 기간이 있는 것과 없는 것이 있습니다.</div><div class='txt margin_top_10'>티켓은 해당 퀘스트를 <span class='fnt_emphasis fnt_bold'>클리어</span>했을 때 <span class='fnt_emphasis fnt_bold'>1장</span>씩 소비됩니다.",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "96",
 			"helpCategoryId": "11",
-			"helpTitle": "Ticket Captures",
+			"helpTitle": "티켓 캡처",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can get Quest Tickets by using DigiStones to capture them.</div><div class='txt margin_top_10'>Sometimes, duplicate Quest Tickets will be summoned.</div><br/><div class='txt margin_top_10'>* Tickets with a time limit must be used by the last day of the 4th month after the month when the Ticket was obtained.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>디지스톤을 사용하여 퀘스트 티켓을 얻을 수 있습니다.</div><div class='txt margin_top_10'>중복된 퀘스트 티켓이 등장할 수 있습니다.</div><br/><div class='txt margin_top_10'>※티켓의 유효 기간은 획득월로부터 4개월 뒤의 말일까지입니다.</div></article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "97",
 			"helpCategoryId": "8",
-			"helpTitle": "Ability Seeding",
+			"helpTitle": "재능 개발이란",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>There is a <span class='fnt_emphasis fnt_bold'>chance</span> that base Digimon can inherit abilities from partner Digimon. </div><div class='txt margin_top_10'>The success rate of inheriting depends on the growth stage of the partner Digimon. The higher the growth stage, the higher the success rate. </div><div class='txt margin_top_10'>And if Ability Seeding is done with a base and partner Digimon possessing the same ability, the base Digimon's ability gets <span class='fnt_emphasis fnt_bold'>enhanced by 1</span>. </div><br/><div class='txt margin_top_10'>*When Ability Seeding is done, the selected partner Digimon disappears. </div>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>베이스 디지몬에 파트너 디지몬의 재능을 <span class='fnt_emphasis fnt_bold'>일정 확률</span>로 계승할 수 있습니다.</div><div class='txt margin_top_10'>계승 성공률은 파트너 디지몬의 성장 단계에 따라 다르며, <span class='fnt_emphasis fnt_bold'>성장 단계가 높을</span>수록 성공률이 상승합니다. </div><div class='txt margin_top_10'>또한 같은 재능을 지닌 베이스 디지몬과 파트너 디지몬을 선택하여 재능 개발을 하면, 베이스 디지몬의 재능이 <span class='fnt_emphasis fnt_bold'>1단계 강화</span>되기도 합니다.</div><br/><div class='txt margin_top_10'>※재능 개발을 하면 파트너로 선택한 디지몬이 사라집니다. </div>",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "98",
 			"helpCategoryId": "13",
-			"helpTitle": "Titles",
+			"helpTitle": "칭호",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Can be earned as prizes for certain missions or by clearing certain conditions. Titles have no special effects, but can be set to display on your profile.</div><br/><div class='txt margin_top_10'>* Sometimes titles that have been earned may be sent as presents.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>미션 보상 등, 특정 조건을 클리어하면 얻을 수 있습니다. 특별한 효과는 없으나 프로필에 표시되는 칭호를 설정할 수 있습니다.</div><br/><div class='txt margin_top_10'>※획득한 칭호는 선물상자로 지급되기도 합니다.</div></article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "100",
 			"helpCategoryId": "8",
-			"helpTitle": "Version Upgrades",
+			"helpTitle": "버전업이란",
 			"tplPath": "",
-			"detail": "A way of enhancing +4 Awakened Mega Digimon that are already at their max level.<br />It can be performed using special Version Upgrading fuel called Upgrade Data, which can be earned from events.<br />Digimon that have received a Version Upgrade gain the following abilities, and their Awakening level changes to a Version notation.<br />・ Higher max level<br />・ Second Legacy Skill slot<br />・ Stat Effect Resistance Upgrades unlocked in the Dojo<br /><br />* After performing a Version Upgrade, doing a Mode Change will require more Clusters.<br />* After performing a Version Upgrade, special Version Upgrade fuel will be required to Digivolve further.<br />* When Research is done using a Version Upgraded Digimon as the Base, it will revert to a +4 Awakened Level 1 DigiEgg.<br />* After reverting to a DigiEgg during Research, the level cap will revert to 80, and any Legacy Skill in the second slot or Stat Effect Resistances will be deleted.",
+			"detail": "각성치가 4이면서 동시에 최대 레벨인 궁극체 디지몬을 강화하는 방법입니다.<br />이벤트 등으로 얻는 버전업 전용 재료 '버전업 데이터'를 사용하여 실행합니다.<br />버전업을 실행한 디지몬은 다음 능력을 획득하며, 각성 단계 표기 방식이 각성에서 Ver으로 바뀝니다.<br />·최대 레벨 확장<br />·두 번째 계승기 슬롯 추가<br />·수련장에서 상태이상 내성 변화 개방<br /><br />※버전업을 실행하면 폼 체인지에 필요한 클러스터 수가 증가합니다.<br />※버전업을 실행하면 초궁극체로 진화할 때 버전업 전용 재료가 필요합니다.<br />※버전업을 마친 디지몬을 베이스로 연구를 진행하면 각성치 4, Lv1인 디지몬알로 돌아갑니다.<br />※연구를 통해 디지몬알로 돌아갈 땐 최대 레벨이 80으로 돌아가며, 두 번째 계승기 슬롯에 장착한 계승기 및 변화한 상태이상 내성이 사라집니다.",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "102",
 			"helpCategoryId": "7",
-			"helpTitle": "Colosseum Parties",
+			"helpTitle": "콜로세움 파티에 대하여",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>To enter the Colosseum, you'll need to form a Colosseum Party of six Digimon.<br/>You can form a Colosseum Party by tapping the Colosseum button in the Party Formation screen.</div><article id='help'><div class='txt margin_top_10'>* The Colosseum button will not be displayed in Party Formation until the Colosseum is unlocked.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>콜로세움에 참가하려면 디지몬 6마리로 구성된 콜로세움 전용 파티를 편성해야 합니다.<br/>콜로세움 전용 파티는 파티 편성 화면의 콜로세움 버튼을 눌러 구성할 수 있습니다.</div><article id='help'><div class='txt margin_top_10'>※파티 편성 화면의 콜로세움 버튼은 콜로세움이 개방되기 전에는 표시되지 않습니다.</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "103",
 			"helpCategoryId": "13",
-			"helpTitle": "Transfers with Facebook",
+			"helpTitle": "Facebook을 이용한 데이터 이전 방법",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_20'><span class='fnt_bold'></span><br/><br/>■ When transferring user data to another device</div><h3 class='margin_top_20'>You can use Facebook to back up your game data.</h3><div class='txt margin_top'><span class='fnt_bold'>---- Setting Up A Transfer ----<span class='fnt_emphasis fnt_bold'></span><br/>1: Go to \"Other\" in the Digimon Links menu, then \"Transfer\", and select <br/>Facebook Link<span class='fnt_emphasis fnt_bold'>, then \"Yes\"</span>2: When the Facebook login screen comes up, log in to Facebook<br/>3: Enable Facebook access to <span class='fnt_emphasis fnt_bold'>Digimon Links</span>4: On the \"Transfer\" screen, check to make sure your status is now \"Linked\"<br/></div><h3 class='margin_top_20'>---- Completing A Transfer ----</h3><div class='txt margin_top'><span class='fnt_bold'>1: Perform a fresh install of Digimon Links<br/>2: Select <span class='fnt_emphasis fnt_bold'>Transfer</span> on the title screen, and transfer user data<br/></div><div class='txt margin_top_20'><span class='fnt_bold'><h4>■ Warnings</h4><br/>* When performing a fresh install, you mush be logged in to <span class='fnt_emphasis fnt_bold'>the same Facebook account you used while playing</span><br/><br/>* When the same game data is played on multiple devices, <span class='fnt_emphasis fnt_bold'>there is a danger of the data being corrupted or damaged</span>, so please refrain from doing so<br/></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_20'><span class='fnt_bold'>■유저 데이터를 다른 단말기로 이전하는 경우</span><br/> Facebook을 이용하여 게임 데이터를 백업할 수 있습니다.<br/></div><h3 class='margin_top_20'>―――― 기존 단말기 설정 ――――</h3><div class='txt margin_top'><span class='fnt_bold'> ①디지몬 링크즈 내 메뉴의 '기타' > '데이터 이전'에서 '<span class='fnt_emphasis fnt_bold'>Facebook 연동</span>'을 선택한 다음 '네'를 선택합니다.<br/> ②Facebook 로그인 화면이 나오면 로그인합니다.<br/> ③'<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'의 Facebook 접근을 허가합니다.<br/> ④'데이터 이전' 화면에 '<span class='fnt_emphasis fnt_bold'>연동 중</span>' 표시가 된 것을 확인합니다.<br/></div><h3 class='margin_top_20'>―――― 새로운 단말기 설정 ――――</h3><div class='txt margin_top'><span class='fnt_bold'> ①새로 디지몬 링크스를 인스톨합니다.<br/> ②타이틀 화면의 '<span class='fnt_emphasis fnt_bold'>데이터 이전</span>'을 선택하여 유저 데이터를 불러옵니다.<br/></div><div class='txt margin_top_20'><span class='fnt_bold'><h4>■주의사항</h4><br/> ※새로 인스톨할 때 <span class='fnt_emphasis fnt_bold'>플레이 당시에 사용했던 Facebook 계정</span>에 로그인해야 합니다.<br/><br/> ※복수의 단말기에서 같은 게임 데이터를 플레이하면 <span class='fnt_emphasis fnt_bold'>데이터가 손상될 수 있으니</span> 이용을 삼가시기 바랍니다.<br/></div></article>",
 			"helpPriority": "1"
 		}
 	]

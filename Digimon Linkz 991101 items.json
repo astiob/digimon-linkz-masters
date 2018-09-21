@@ -2,857 +2,857 @@
 	"itemM": [
 		{
 			"itemId": "1",
-			"name": "Mystery Data Byte",
-			"description": "Strange data shrouded in mystery. Can be exchanged for various items.",
+			"name": "수수께끼의 데이터 단편",
+			"description": "수수께끼에 싸인 신비한 데이터. 교환소에서 다양한 물건과 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_1",
 				"EventResource/Item/item_1"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "2",
 			"name": "BP",
-			"description": "Points that can be earned in the Colosseum. Can be exchanged for various items.",
+			"description": "콜로세움에서 얻을 수 있는 포인트. 교환소에서 다양한 물건과 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_2",
 				"EventResource/Item/item_2"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "3",
-			"name": "Willful Data Byte",
-			"description": "A piece of fragmented data with a strong sense of purpose. Can be exchanged for various items.",
+			"name": "의지의 데이터 단편",
+			"description": "의지의 데이터 일부분. 교환소에서 다양한 물건과 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_3",
 				"EventResource/Item/item_3"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "4",
-			"name": "Alpha Data Byte",
-			"description": "A piece of fragmented Alpha data shrouded in an enigma. Can be exchanged for various items.",
+			"name": "α의 데이터 단편",
+			"description": "수수께끼에 싸인 α의 데이터 일부분. 교환소에서 다양한 물건과 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_4",
 				"EventResource/Item/item_4"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "5",
-			"name": "Raging Data Byte",
-			"description": "A piece of fragmented data full of angry emotion. Can be exchanged for various items.",
+			"name": "분노의 데이터 단편",
+			"description": "분노의 데이터 일부분. 교환소에서 다양한 물건과 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Item/item_7",
 				"EventResource/Item/item_7"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6",
-			"name": "Expansion Patch",
-			"description": "An item containing a patch that expands Chip slots. You can use it to expand slots.",
+			"name": "확장 패치",
+			"description": "슬롯 확장 패치가 내장된 아이템. 사용하면 슬롯이 확장된다.",
 			"category": "1",
 			"img": [
 				"ChipThumbnail/extra_slot_01"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "7",
-			"name": "Removal Patch",
-			"description": "An item containing a patch that removes Chips. You can use it to remove equipped Chips.",
+			"name": "분리 패치",
+			"description": "칩을 떼어낼 수 있는 패치가 내장된 아이템. 사용하면 장비 중인 칩을 분리할 수 있다.",
 			"category": "1",
 			"img": [
 				"ChipThumbnail/eject_slot_01"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "81",
-			"name": "Glacier x Earth  Data Byte",
-			"description": "Can be exchanged for various items.",
+			"name": "빙하 x 대지의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_81",
 				"EventResource/Item/item_81"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "82",
-			"name": "Counterattack Data Byte",
-			"description": "Can be exchanged for various items.",
+			"name": "역습의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_82",
 				"EventResource/Item/item_82"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "50001",
-			"name": "Gourmet Meat",
-			"description": "High-quality meat harvested from special fields. It's sure to make your Digimon happy!",
+			"name": "최고급 고기",
+			"description": "특별한 밭에서만 나는 최고급 고기. 이걸 먹으면 디지몬의 기분도 최고.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/special_meat_00",
 				"EventResource/Item/special_meat_00"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "50002",
-			"name": "Blank Chips",
-			"description": "Chip with erased data. Exchange them for items at the Exchange facility.",
+			"name": "빈 칩",
+			"description": "데이터가 삭제된 칩. 교환소에서 원하는 아이템으로 교환할 수 있다.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_blank",
 				"EventResource/Item/item_blank"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "60001",
-			"name": "Choose-A-Mega Voucher",
-			"description": "A voucher that can be exchanged for the Mega of your choice",
+			"name": "궁극체 선택 교환권",
+			"description": "교환소에서 원하는 궁극체 디지몬으로 교환할 수 있는 교환권.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/special_ticket_00",
 				"EventResource/Item/item_60001"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100000",
-			"name": "Choose-A-Fragment Voucher",
-			"description": "A voucher that can be exchanged for Digivolution fuel for the Mega Digimon of your choice",
+			"name": "조각 선택 교환권",
+			"description": "교환소에서 원하는 궁극체 디지몬의 진화 재료로 교환할 수 있는 교환권.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/special_ticket_100000",
 				"EventResource/Item/item_100000"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100001",
-			"name": "Starter Data Byte",
-			"description": "A piece of fragmented starter data. Can be exchanged for various items.",
+			"name": "시작의 데이터 단편",
+			"description": "시작의 데이터 일부분. 교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100001",
 				"EventResource/Item/item_100001"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100002",
-			"name": "Mysterious Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "신비의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100002",
 				"EventResource/Item/item_100002"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100003",
-			"name": "Mythical Dragon Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "환룡의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100003",
 				"EventResource/Item/item_100003"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100004",
-			"name": "Holy Lance Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "성창의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100004",
 				"EventResource/Item/item_100004"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100005",
-			"name": "Poison Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "맹독의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100005",
 				"EventResource/Item/item_100005"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100006",
-			"name": "Dark King Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "어둠의 왕의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100006",
 				"EventResource/Item/item_100006"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100007",
-			"name": "Shadowy Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "칠흑의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100007",
 				"EventResource/Item/item_100007"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100008",
-			"name": "Strongest Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "최강의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100008",
 				"EventResource/Item/item_100008"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100009",
-			"name": "Secret Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "비밀의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100009",
 				"EventResource/Item/item_100009"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100010",
-			"name": "Brilliant Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "광휘의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100010",
 				"EventResource/Item/item_100010"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100011",
-			"name": "Salvation Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "구세의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100011",
 				"EventResource/Item/item_100011"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100012",
-			"name": "Apocalypse Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "종말의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100012",
 				"EventResource/Item/item_100012"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100013",
-			"name": "Blue Wolf Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "푸른 늑대의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100013",
 				"EventResource/Item/item_100013"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100014",
-			"name": "Fist Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "주먹 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100014",
 				"EventResource/Item/item_100014"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100015",
-			"name": "Chaos Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "혼돈 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100015",
 				"EventResource/Item/item_100015"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100016",
-			"name": "Ranking Tickets",
-			"description": "Can be exchanged for various items.",
+			"name": "교체 티켓",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100016",
 				"EventResource/Item/item_100016"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100017",
-			"name": "Excalibur Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "성검의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100017",
 				"EventResource/Item/item_100017"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100018",
-			"name": "TigerBee Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "호봉의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100018",
 				"EventResource/Item/item_100018"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100019",
-			"name": "Destruction Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "파멸의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100019",
 				"EventResource/Item/item_100019"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100020",
-			"name": "Shadow Harbinger Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "흑영의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100020",
 				"EventResource/Item/item_100020"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100021",
-			"name": "Bloodline Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "계보의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100021",
 				"EventResource/Item/item_100021"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100022",
-			"name": "Fog Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "백무의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100023",
 				"EventResource/Item/item_100023"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100023",
-			"name": "Flame Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "화염의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100022",
 				"EventResource/Item/item_100022"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100024",
-			"name": "Ancient Dragon Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "고대룡의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100024",
 				"EventResource/Item/item_100024"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100025",
-			"name": "Goodwill Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "선한 의지의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100025",
 				"EventResource/Item/item_100025"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100026",
-			"name": "Scarlet Metal Dragon Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "홍기룡의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100026",
 				"EventResource/Item/item_100026"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100027",
-			"name": "Kouka Cherry Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "홍화의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100027",
 				"EventResource/Item/item_100027"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100029",
-			"name": "Crimson Knight Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "홍련의 기사 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100029",
 				"EventResource/Item/item_100029"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100030",
-			"name": "10 Million DL Celebration Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "전 세계 1000만 다운로드 기념 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100030",
 				"EventResource/Item/item_100030"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100031",
-			"name": "Steel Dragon Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "강철용의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100031",
 				"EventResource/Item/item_100031"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100032",
-			"name": "Red Steel Dragon Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "붉은 강철용의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100032",
 				"EventResource/Item/item_100032"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100033",
-			"name": "Eternal Darkness Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "영원한 어둠의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100033",
 				"EventResource/Item/item_100033"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100034",
-			"name": "Dark Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "암흑의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100034",
 				"EventResource/Item/item_100034"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100035",
-			"name": "Darkness Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "어둠의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100035",
 				"EventResource/Item/item_100035"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100036",
-			"name": "Friendship Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "우호의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100036",
 				"EventResource/Item/item_100036"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100037",
-			"name": "Valiant Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "용맹의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100037",
 				"EventResource/Item/item_100037"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100038",
-			"name": "Unleash the Power Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "힘의 해방의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100038",
 				"EventResource/Item/item_100038"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100039",
-			"name": "Ultimate Gods of War Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "궁극의 무신 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100039",
 				"EventResource/Item/item_100039"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100040",
-			"name": "Trust Data Bytes ",
-			"description": "Can be exchanged for various items.",
+			"name": "신뢰의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100040",
 				"EventResource/Item/item_100040"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100041",
-			"name": "Swift Data Bytes ",
-			"description": "Can be exchanged for various items.",
+			"name": "신속의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100041",
 				"EventResource/Item/item_100041"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000001",
-			"name": "Choose-A-Fragment Voucher",
-			"description": "A voucher that can be exchanged for Digivolution fuel for the Mega Digimon of your choice",
+			"name": "데이터 조각 교환권",
+			"description": "교환소에서 원하는 궁극체 디지몬의 진화 재료로 교환할 수 있는 교환권.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000001",
 				"EventResource/Item/item_6000001"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000002",
-			"name": "Choose-A-Fragment Voucher",
-			"description": "A voucher that can be exchanged for Digivolution fuel for the Mega Digimon of your choice",
+			"name": "데이터 조각 교환권",
+			"description": "교환소에서 원하는 궁극체 디지몬의 진화 재료로 교환할 수 있는 교환권.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000002",
 				"EventResource/Item/item_6000002"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000003",
-			"name": "Choose-A-Fragment Voucher",
-			"description": "A voucher that can be exchanged for Digivolution fuel for the Mega Digimon of your choice",
+			"name": "데이터 조각 교환권",
+			"description": "교환소에서 원하는 궁극체 디지몬의 진화 재료로 교환할 수 있는 교환권.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000003",
 				"EventResource/Item/item_6000003"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000004",
-			"name": "WarGrowlmon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "메가로그라우몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000004",
 				"EventResource/Item/item_6000004"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000005",
-			"name": "GrapLeomon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "아이언레오몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000005",
 				"EventResource/Item/item_6000005"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000006",
-			"name": "Duramon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "듀라몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000006",
 				"EventResource/Item/item_6000006"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000007",
-			"name": "CannonBeemon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "캐논벌몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000007",
 				"EventResource/Item/item_6000007"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000008",
-			"name": "MetalGreymon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "메탈그레이몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000008",
 				"EventResource/Item/item_6000008"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000009",
-			"name": "Whamon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "고래몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000009",
 				"EventResource/Item/item_6000009"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000010",
-			"name": "Lillymon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "릴리몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000010",
 				"EventResource/Item/item_6000010"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000011",
-			"name": "MetalTyrannomon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "메탈티라노몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000011",
 				"EventResource/Item/item_6000011"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000012",
-			"name": "Megadramon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "메가드라몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000012",
 				"EventResource/Item/item_6000012"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000013",
-			"name": "Unleash the Power Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "힘의 해방 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000013",
 				"EventResource/Item/item_6000013"
 			],
-			"unitName": "pcs",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		}

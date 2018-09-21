@@ -2,79 +2,79 @@
 	"facilityKeyM": [
 		{
 			"facilityKeyId": "1",
-			"facilityKeyName": "Warehouse Key"
+			"facilityKeyName": "창고 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "2",
-			"facilityKeyName": "Dojo Key"
+			"facilityKeyName": "수련장 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "3",
-			"facilityKeyName": "Restaurant Key"
+			"facilityKeyName": "식당 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "4",
-			"facilityKeyName": "Refrigerator Key"
+			"facilityKeyName": "냉장고 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "5",
-			"facilityKeyName": "Vending Machine Key"
+			"facilityKeyName": "자동판매기 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "6",
-			"facilityKeyName": "Phone Booth Key"
+			"facilityKeyName": "전화부스 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "7",
-			"facilityKeyName": "Broken Track A Key"
+			"facilityKeyName": "망가진 선로A 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "8",
-			"facilityKeyName": "Broken Track B Key"
+			"facilityKeyName": "망가진 선로B 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "9",
-			"facilityKeyName": "Run-Down Railroad Crossing Key"
+			"facilityKeyName": "낡은 건널목 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "10",
-			"facilityKeyName": "Ancient Train Key"
+			"facilityKeyName": "오래된 전차 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "11",
-			"facilityKeyName": "Chip Factory Key"
+			"facilityKeyName": "칩 공장 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "12",
-			"facilityKeyName": "Snowman Facility Shop Expansion"
+			"facilityKeyName": "'눈사람'을 시설 상점에 추가"
 		},
 		{
 			"facilityKeyId": "13",
-			"facilityKeyName": "Christmas Stocking Facility Shop Expansion"
+			"facilityKeyName": "'크리스마스 양말'을 시설 상점에 추가"
 		},
 		{
 			"facilityKeyId": "14",
-			"facilityKeyName": "Sleigh Facility Shop Expansion"
+			"facilityKeyName": "'썰매'를 시설 상점에 추가"
 		},
 		{
 			"facilityKeyId": "15",
-			"facilityKeyName": "Present Box Facility Shop Expansion"
+			"facilityKeyName": "'크리스마스 선물'을 시설 상점에 추가"
 		},
 		{
 			"facilityKeyId": "16",
-			"facilityKeyName": "Christmas Cake Facility Shop Expansion"
+			"facilityKeyName": "'크리스마스 케이크'를 시설 상점에 추가"
 		},
 		{
 			"facilityKeyId": "17",
-			"facilityKeyName": "Small Tree Facility Shop Expansion"
+			"facilityKeyName": "'작은 트리'를 시설 상점에 추가"
 		},
 		{
 			"facilityKeyId": "18",
-			"facilityKeyName": "Medium Tree Facility Shop Expansion"
+			"facilityKeyName": "'중간 크기 트리'를 시설 상점에 추가"
 		},
 		{
 			"facilityKeyId": "19",
-			"facilityKeyName": "Large Tree Facility Shop Expansion"
+			"facilityKeyName": "'커다란 트리'를 시설 상점에 추가"
 		}
 	]
 }

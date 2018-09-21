@@ -2,7 +2,7 @@
 	"colosseumM": [
 		{
 			"colosseumId": "10003",
-			"title": "3-Time",
+			"title": "제3회",
 			"openStatus": "1",
 			"prevColosseumId": "10002",
 			"openTime": "2018-02-01 14:00:00",
@@ -15,7 +15,7 @@
 		},
 		{
 			"colosseumId": "10004",
-			"title": "4-Time",
+			"title": "제4회",
 			"openStatus": "1",
 			"prevColosseumId": "10003",
 			"openTime": "2018-03-01 14:00:00",
@@ -28,7 +28,7 @@
 		},
 		{
 			"colosseumId": "10005",
-			"title": "5-Time",
+			"title": "제5회",
 			"openStatus": "1",
 			"prevColosseumId": "10004",
 			"openTime": "2018-04-01 14:00:00",
@@ -41,7 +41,7 @@
 		},
 		{
 			"colosseumId": "10006",
-			"title": "6-Time",
+			"title": "제6회",
 			"openStatus": "1",
 			"prevColosseumId": "10005",
 			"openTime": "2018-05-01 14:00:00",
@@ -54,7 +54,7 @@
 		},
 		{
 			"colosseumId": "10007",
-			"title": "7-Time",
+			"title": "제7회",
 			"openStatus": "1",
 			"prevColosseumId": "10006",
 			"openTime": "2018-06-01 14:00:00",
@@ -67,7 +67,7 @@
 		},
 		{
 			"colosseumId": "10008",
-			"title": "8-Time",
+			"title": "제8회",
 			"openStatus": "1",
 			"prevColosseumId": "10007",
 			"openTime": "2018-07-01 14:00:00",
@@ -80,7 +80,7 @@
 		},
 		{
 			"colosseumId": "10009",
-			"title": "9-Time",
+			"title": "제9회",
 			"openStatus": "1",
 			"prevColosseumId": "10008",
 			"openTime": "2018-08-01 14:00:00",
@@ -93,7 +93,7 @@
 		},
 		{
 			"colosseumId": "10010",
-			"title": "10-Time",
+			"title": "제10회",
 			"openStatus": "1",
 			"prevColosseumId": "10009",
 			"openTime": "2018-09-01 14:00:00",
@@ -106,7 +106,7 @@
 		},
 		{
 			"colosseumId": "100001",
-			"title": "1-Time",
+			"title": "제1회",
 			"openStatus": "1",
 			"prevColosseumId": "0",
 			"openTime": "2017-12-07 14:00:00",
@@ -119,7 +119,7 @@
 		},
 		{
 			"colosseumId": "100002",
-			"title": "2-Time",
+			"title": "제2회",
 			"openStatus": "1",
 			"prevColosseumId": "100001",
 			"openTime": "2018-01-01 14:00:00",

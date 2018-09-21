@@ -2,1216 +2,1216 @@
 	"soulM": [
 		{
 			"soulId": "1070167",
-			"soulName": "Alphamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Alphamon.",
+			"soulName": "알파몬의 데이터 조각",
+			"description": "알파몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070168",
-			"soulName": "UlforceVeedramon Data Fragment",
-			"description": "A data fragment required to Digivolve into UlforceVeedramon.",
+			"soulName": "알포스브이드라몬의 데이터 조각",
+			"description": "알포스브이드라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070169",
-			"soulName": "Ebemon Data Fragment",
-			"description": "A data fragment required to Digivolve into Ebemon.",
+			"soulName": "이바몬의 데이터 조각",
+			"description": "이바몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070170",
-			"soulName": "Imperialdramon DM Data Fragment",
-			"description": "A data fragment required to Digivolve into Imperialdramon DM.",
+			"soulName": "황제드라몬DM의 데이터 조각",
+			"description": "황제드라몬DM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070171",
-			"soulName": "Imperialdramon FM Data Fragment",
-			"description": "A data fragment required to Digivolve into Imperialdramon FM.",
+			"soulName": "황제드라몬FM의 데이터 조각",
+			"description": "황제드라몬FM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070172",
-			"soulName": "Vikemon Data Fragment",
-			"description": "A data fragment required to Digivolve into Vikemon.",
+			"soulName": "바이킹몬의 데이터 조각",
+			"description": "바이킹몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070173",
-			"soulName": "VenomMyotismon Data Fragment",
-			"description": "A data fragment required to Digivolve into VenomMyotismon.",
+			"soulName": "베놈묘티스몬의 데이터 조각",
+			"description": "베놈묘티스몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070174",
-			"soulName": "WarGreymon Data Fragment",
-			"description": "A data fragment required to Digivolve into WarGreymon.",
+			"soulName": "워그레이몬의 데이터 조각",
+			"description": "워그레이몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070175",
-			"soulName": "Examon Data Fragment",
-			"description": "A data fragment required to Digivolve into Examon.",
+			"soulName": "엑자몬의 데이터 조각",
+			"description": "엑자몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070176",
-			"soulName": "Ophanimon Data Fragment",
-			"description": "A data fragment required to Digivolve into Ophanimon.",
+			"soulName": "오파니몬의 데이터 조각",
+			"description": "오파니몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070177",
-			"soulName": "Gaiomon Data Fragment",
-			"description": "A data fragment required to Digivolve into Gaiomon.",
+			"soulName": "가이오몬의 데이터 조각",
+			"description": "가이오몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070178",
-			"soulName": "ChaosGallantmon Data Fragment",
-			"description": "A data fragment required to Digivolve into ChaosGallantmon.",
+			"soulName": "카오스듀크몬의 데이터 조각",
+			"description": "카오스듀크몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070179",
-			"soulName": "Gankoomon Data Fragment",
-			"description": "A data fragment required to Digivolve into Gankoomon.",
+			"soulName": "간쿠몬의 데이터 조각",
+			"description": "간쿠몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070180",
-			"soulName": "Kuzuhamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Kuzuhamon.",
+			"soulName": "쿠즈하몬의 데이터 조각",
+			"description": "쿠즈하몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070181",
-			"soulName": "GranKuwagamon Data Fragment",
-			"description": "A data fragment required to Digivolve into GranKuwagamon.",
+			"soulName": "그랜쿠가몬의 데이터 조각",
+			"description": "그랜쿠가몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070182",
-			"soulName": "GroundLocomon Data Fragment",
-			"description": "A data fragment required to Digivolve into GroundLocomon.",
+			"soulName": "그랜드로코몬의 데이터 조각",
+			"description": "그랜드로코몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070183",
-			"soulName": "Craniamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Craniamon.",
+			"soulName": "크레니엄몬의 데이터 조각",
+			"description": "크레니엄몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070184",
-			"soulName": "Cherubimon (Good) Data Fragment",
-			"description": "A data fragment required to Digivolve into Cherubimon (Good).",
+			"soulName": "켈비몬(선)의 데이터 조각",
+			"description": "켈비몬(선)으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070185",
-			"soulName": "SaberLeomon Data Fragment",
-			"description": "A data fragment required to Digivolve into SaberLeomon.",
+			"soulName": "샤벨레오몬의 데이터 조각",
+			"description": "샤벨레오몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070186",
-			"soulName": "Sakuyamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Sakuyamon.",
+			"soulName": "샤크라몬의 데이터 조각",
+			"description": "샤크라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070187",
-			"soulName": "Jesmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Jesmon.",
+			"soulName": "제스몬의 데이터 조각",
+			"description": "제스몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070188",
-			"soulName": "ShineGreymon Data Fragment",
-			"description": "A data fragment required to Digivolve into ShineGreymon.",
+			"soulName": "샤인그레이몬의 데이터 조각",
+			"description": "샤인그레이몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070189",
-			"soulName": "Justimon Data Fragment",
-			"description": "A data fragment required to Digivolve into Justimon.",
+			"soulName": "저스티몬의 데이터 조각",
+			"description": "저스티몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070190",
-			"soulName": "Kentaurosmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Kentaurosmon.",
+			"soulName": "슬레이프몬의 데이터 조각",
+			"description": "슬레이프몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070191",
-			"soulName": "Seraphimon Data Fragment",
-			"description": "A data fragment required to Digivolve into Seraphimon.",
+			"soulName": "세라피몬의 데이터 조각",
+			"description": "세라피몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070192",
-			"soulName": "MegaGargomon Data Fragment",
-			"description": "A data fragment required to Digivolve into MegaGargomon.",
+			"soulName": "세인트가르고몬의 데이터 조각",
+			"description": "세인트가르고몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070193",
-			"soulName": "TigerVespamon Data Fragment",
-			"description": "A data fragment required to Digivolve into TigerVespamon.",
+			"soulName": "타이거베스파몬의 데이터 조각",
+			"description": "타이거베스파몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070194",
-			"soulName": "Titamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Titamon.",
+			"soulName": "타이타몬의 데이터 조각",
+			"description": "타이타몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070195",
-			"soulName": "Dianamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Dianamon.",
+			"soulName": "디아나몬의 데이터 조각",
+			"description": "디아나몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070196",
-			"soulName": "Diaboromon Data Fragment",
-			"description": "A data fragment required to Digivolve into Diaboromon.",
+			"soulName": "디아블로몬의 데이터 조각",
+			"description": "디아블로몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070197",
-			"soulName": "Creepymon Data Fragment",
-			"description": "A data fragment required to Digivolve into Creepymon.",
+			"soulName": "마왕몬의 데이터 조각",
+			"description": "마왕몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070198",
-			"soulName": "Gallantmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Gallantmon.",
+			"soulName": "듀크몬의 데이터 조각",
+			"description": "듀크몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070199",
-			"soulName": "Dynasmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Dynasmon.",
+			"soulName": "듀나스몬의 데이터 조각",
+			"description": "듀나스몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070200",
-			"soulName": "Leopardmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Leopardmon.",
+			"soulName": "두프트몬의 데이터 조각",
+			"description": "두프트몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070201",
-			"soulName": "HiAndromon Data Fragment",
-			"description": "A data fragment required to Digivolve into HiAndromon.",
+			"soulName": "하이안드로몬의 데이터 조각",
+			"description": "하이안드로몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070202",
-			"soulName": "Barbamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Barbamon.",
+			"soulName": "발바몬의 데이터 조각",
+			"description": "발바몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070203",
-			"soulName": "BanchoLeomon Data Fragment",
-			"description": "A data fragment required to Digivolve into BanchoLeomon.",
+			"soulName": "반쵸레오몬의 데이터 조각",
+			"description": "반쵸레오몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070204",
-			"soulName": "Piedmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Piedmon.",
+			"soulName": "피에몬의 데이터 조각",
+			"description": "피에몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070205",
-			"soulName": "Puppetmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Puppetmon.",
+			"soulName": "피노키몬의 데이터 조각",
+			"description": "피노키몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070206",
-			"soulName": "PlatinumNumemon Data Fragment",
-			"description": "A data fragment required to Digivolve into PlatinumNumemon.",
+			"soulName": "플래티넘워매몬의 데이터 조각",
+			"description": "플래티넘워매몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070207",
-			"soulName": "BlackWarGreymon Data Fragment",
-			"description": "A data fragment required to Digivolve into BlackWarGreymon.",
+			"soulName": "블랙워그레이몬의 데이터 조각",
+			"description": "블랙워그레이몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070208",
-			"soulName": "PrinceMamemon Data Fragment",
-			"description": "A data fragment required to Digivolve into PrinceMamemon.",
+			"soulName": "프린스콩알몬의 데이터 조각",
+			"description": "프린스콩알몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070209",
-			"soulName": "Plesiomon Data Fragment",
-			"description": "A data fragment required to Digivolve into Plesiomon.",
+			"soulName": "플레시오몬의 데이터 조각",
+			"description": "플레시오몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070210",
-			"soulName": "HerculesKabuterimon Data Fragment",
-			"description": "A data fragment required to Digivolve into HerculesKabuterimon.",
+			"soulName": "헤라클레스캅테리몬의 데이터 조각",
+			"description": "헤라클레스캅테리몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070211",
-			"soulName": "Beelzemon Data Fragment",
-			"description": "A data fragment required to Digivolve into Beelzemon.",
+			"soulName": "베르제브몬의 데이터 조각",
+			"description": "베르제브몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070212",
-			"soulName": "Belphemon SM Data Fragment",
-			"description": "A data fragment required to Digivolve into Belphemon SM.",
+			"soulName": "벨페몬SM의 데이터 조각",
+			"description": "벨페몬SM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070213",
-			"soulName": "Phoenixmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Phoenixmon.",
+			"soulName": "페닉스몬의 데이터 조각",
+			"description": "페닉스몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070214",
-			"soulName": "Magnadramon Data Fragment",
-			"description": "A data fragment required to Digivolve into Magnadramon.",
+			"soulName": "홀리드라몬의 데이터 조각",
+			"description": "홀리드라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070215",
-			"soulName": "Boltmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Boltmon.",
+			"soulName": "나사몬의 데이터 조각",
+			"description": "나사몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070216",
-			"soulName": "Mastemon Data Fragment",
-			"description": "A data fragment required to Digivolve into Mastemon.",
+			"soulName": "마스테몬의 데이터 조각",
+			"description": "마스테몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070217",
-			"soulName": "MarineAngemon Data Fragment",
-			"description": "A data fragment required to Digivolve into MarineAngemon.",
+			"soulName": "마린엔젤몬의 데이터 조각",
+			"description": "마린엔젤몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070218",
-			"soulName": "Minervamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Minervamon.",
+			"soulName": "미네르바몬의 데이터 조각",
+			"description": "미네르바몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070219",
-			"soulName": "MirageGaogamon Data Fragment",
-			"description": "A data fragment required to Digivolve into MirageGaogamon.",
+			"soulName": "미라쥬가오가몬의 데이터 조각",
+			"description": "미라쥬가오가몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070220",
-			"soulName": "Machinedramon Data Fragment",
-			"description": "A data fragment required to Digivolve into Machinedramon.",
+			"soulName": "파워드라몬의 데이터 조각",
+			"description": "파워드라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070221",
-			"soulName": "MetalEtemon Data Fragment",
-			"description": "A data fragment required to Digivolve into MetalEtemon.",
+			"soulName": "메탈에테몬의 데이터 조각",
+			"description": "메탈에테몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070222",
-			"soulName": "MetalGarurumon Data Fragment",
-			"description": "A data fragment required to Digivolve into MetalGarurumon.",
+			"soulName": "메탈가루몬의 데이터 조각",
+			"description": "메탈가루몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070223",
-			"soulName": "MetalGarurumon (Black) Data Fragment",
-			"description": "A data fragment required to Digivolve into MetalGarurumon (Black).",
+			"soulName": "메탈가루몬(흑)의 데이터 조각",
+			"description": "메탈가루몬(흑)으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070224",
-			"soulName": "MetalSeadramon Data Fragment",
-			"description": "A data fragment required to Digivolve into MetalSeadramon.",
+			"soulName": "메탈시드라몬의 데이터 조각",
+			"description": "메탈시드라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070225",
-			"soulName": "RustTyranomon Data Fragment",
-			"description": "A data fragment required to Digivolve into RustTyranomon.",
+			"soulName": "러스트티라노몬의 데이터 조각",
+			"description": "러스트티라노몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070226",
-			"soulName": "Leviamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Leviamon.",
+			"soulName": "리바이어몬의 데이터 조각",
+			"description": "리바이어몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070227",
-			"soulName": "Lilithmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Lilithmon.",
+			"soulName": "리리스몬의 데이터 조각",
+			"description": "리리스몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070228",
-			"soulName": "Ravemon Data Fragment",
-			"description": "A data fragment required to Digivolve into Ravemon.",
+			"soulName": "레이브몬의 데이터 조각",
+			"description": "레이브몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070229",
-			"soulName": "LordKnightmon Data Fragment",
-			"description": "A data fragment required to Digivolve into LordKnightmon.",
+			"soulName": "로드나이트몬의 데이터 조각",
+			"description": "로드나이트몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070230",
-			"soulName": "Rosemon Data Fragment",
-			"description": "A data fragment required to Digivolve into Rosemon.",
+			"soulName": "로제몬의 데이터 조각",
+			"description": "로제몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070231",
-			"soulName": "Lotosmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Lotosmon.",
+			"soulName": "로터스몬의 데이터 조각",
+			"description": "로터스몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070232",
-			"soulName": "Imperialdramon PM Data Fragment",
-			"description": "A data fragment required to Digivolve into Imperialdramon PM.",
+			"soulName": "황제드라몬PM의 데이터 조각",
+			"description": "황제드라몬PM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070233",
-			"soulName": "Omegamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Omegamon.",
+			"soulName": "오메가몬의 데이터 조각",
+			"description": "오메가몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070234",
-			"soulName": "Omegamon Zwart Data Fragment",
-			"description": "A data fragment required to Digivolve into Omegamon Zwart.",
+			"soulName": "오메가몬 즈왈트의 데이터 조각",
+			"description": "오메가몬 즈왈트로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070235",
-			"soulName": "Leopardmon LM Data Fragment",
-			"description": "A data fragment required to Digivolve into Leopardmon LM.",
+			"soulName": "두프트몬LM의 데이터 조각",
+			"description": "두프트몬LM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070236",
-			"soulName": "Belphemon RM Data Fragment",
-			"description": "A data fragment required to Digivolve into Belphemon RM.",
+			"soulName": "벨페몬RM의 데이터 조각",
+			"description": "벨페몬RM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070237",
-			"soulName": "Lucemon SM Data Fragment",
-			"description": "A data fragment required to Digivolve into Lucemon SM.",
+			"soulName": "루체몬SM의 데이터 조각",
+			"description": "루체몬SM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070239",
-			"soulName": "Magnamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Magnamon.",
+			"soulName": "매그너몬의 데이터 조각",
+			"description": "매그너몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070243",
-			"soulName": "Maycrackmon VM Data Fragment",
-			"description": "A data fragment required to Digivolve into Maycrackmon.",
+			"soulName": "메이크랙몬VM의 데이터 조각",
+			"description": "메이크랙몬VM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070283",
-			"soulName": "Susanoomon Data Fragment",
-			"description": "A data fragment required to Digivolve into Susanoomon.",
+			"soulName": "스사노오몬의 데이터 조각",
+			"description": "스사노오몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070286",
-			"soulName": "Omegamon Zwart D Data Fragment",
-			"description": "A data fragment required to Digivolve into Omegamon Zwart D.",
+			"soulName": "오메가몬 즈왈트D의 데이터 조각",
+			"description": "오메가몬 즈왈트D로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070288",
-			"soulName": "Omegamon Alter-B Data Fragment",
-			"description": "A data fragment required to Digivolve into Omegamon Alter-B.",
+			"soulName": "오메가몬 Alter-B의 데이터 조각",
+			"description": "오메가몬 Alter-B로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070289",
-			"soulName": "Gallantmon CM Data Fragment",
-			"description": "A data fragment required to Digivolve into Gallantmon CM.",
+			"soulName": "듀크몬CM의 데이터 조각",
+			"description": "듀크몬CM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070291",
-			"soulName": "OmniShoutmon Data Fragment",
-			"description": "A data fragment required to Digivolve into OmniShoutmon.",
+			"soulName": "오메가샤우트몬의 데이터 조각",
+			"description": "오메가샤우트몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070303",
-			"soulName": "ShineGreymon BM Data Fragment",
-			"description": "A data fragment required to Digivolve into ShineGreymon BM.",
+			"soulName": "샤인그레이몬BM의 데이터 조각",
+			"description": "샤인그레이몬BM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070304",
-			"soulName": "MirageGaogamon BM Data Fragment",
-			"description": "A data fragment required to Digivolve into MirageGaogamon BM.",
+			"soulName": "미라쥬가오가몬BM의 데이터 조각",
+			"description": "미라쥬가오가몬BM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070305",
-			"soulName": "Ravemon BM Data Fragment",
-			"description": "A data fragment required to Digivolve into Ravemon BM.",
+			"soulName": "레이브몬BM의 데이터 조각",
+			"description": "레이브몬BM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070306",
-			"soulName": "Rosemon BM Data Fragment",
-			"description": "A data fragment required to Digivolve into Rosemon BM.",
+			"soulName": "로제몬BM의 데이터 조각",
+			"description": "로제몬BM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070311",
-			"soulName": "Kimeramon Data Fragment",
-			"description": "A data fragment required to Digivolve into Kimeramon.",
+			"soulName": "키메라몬의 데이터 조각",
+			"description": "키메라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070312",
-			"soulName": "Millenniummon Data Fragment",
-			"description": "A data fragment required to Digivolve into Millenniummon.",
+			"soulName": "밀레니엄몬의 데이터 조각",
+			"description": "밀레니엄몬의으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070313",
-			"soulName": "Chaosdramon Data Fragment",
-			"description": "A data fragment required to Digivolve into Chaosdramon",
+			"soulName": "카오스드라몬의 데이터 조각",
+			"description": "카오스드라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070317",
-			"soulName": "Slayerdramon Data Fragment",
-			"description": "A data fragment required to Digivolve into Slayerdramon.",
+			"soulName": "슬레이어드라몬의 데이터 조각",
+			"description": "슬레이어드라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070320",
-			"soulName": "Brakedramon Data Fragment",
-			"description": "A data fragment required to Digivolve into Brakedramon.",
+			"soulName": "브레이크드라몬의 데이터 조각",
+			"description": "브레이크드라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070326",
-			"soulName": "Durandamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Durandamon",
+			"soulName": "듀란다몬 데이터 조각",
+			"description": "듀란다몬드라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070327",
-			"soulName": "WarGreymon X Data Fragment",
-			"description": "A data fragment required to Digivolve into WarGreymon X.",
+			"soulName": "워그레이몬X항체의 데이터 조각",
+			"description": "워그레이몬X항체으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070328",
-			"soulName": "MetalGarurumon X Data Fragment",
-			"description": "A data fragment required to Digivolve into MetalGarurumon X.",
+			"soulName": "메탈가루몬X항체의 데이터 조각",
+			"description": "메탈가루몬X항체으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070329",
-			"soulName": "ShineGreymon RM Data Fragment",
-			"description": "A data fragment required to Digivolve into ShineGreymon RM.",
+			"soulName": "샤인그레이몬RM의 데이터 조각",
+			"description": "샤인그레이몬RM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070330",
-			"soulName": "Raguelmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Raguelmon",
+			"soulName": "라구엘몬의 데이터 조각",
+			"description": "라구엘몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070331",
-			"soulName": "Gallantmon X Anti-body Data Fragment",
-			"description": "A data fragment required to Digivolve into Gallantmon X Anti-body.",
+			"soulName": "듀크몬X항체의 데이터 조각",
+			"description": "듀크몬X항체으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070332",
-			"soulName": "KingEtemon Data Fragment",
-			"description": "A data fragment required to Digivolve into KingEtemon.",
+			"soulName": "킹에테몬 의 데이터 조각",
+			"description": "킹에테몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070333",
-			"soulName": "AncientGreymon Data Fragment",
-			"description": "A data fragment required to Digivolve into AncientGreymon",
+			"soulName": "에이션트그레이몬 데이터 조각",
+			"description": "에이션트그레이몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070334",
-			"soulName": "B WarGreymon X Data Fragment",
-			"description": "A data fragment required to Digivolve into B WarGreymon X",
+			"soulName": "블랙워그레이몬X 데이터 조각",
+			"description": "블랙워그레이몬X으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070336",
-			"soulName": "Magnamon X Anti-body Data Fragment",
-			"description": "A data fragment required to Digivolve into MagnamonX Anti-body .",
+			"soulName": "매그너몬X항체의 데이터 조각",
+			"description": "매그너몬X항체으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070337",
-			"soulName": "Ophanimon FM Data Fragment",
-			"description": "A data fragment required to Digivolve into Ophanimon FM.",
+			"soulName": "오파니몬FM의 데이터 조각",
+			"description": "오파니몬FM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070338",
-			"soulName": "UlforceVeedramon X Data Fragment",
-			"description": "A data fragment required to Digivolve into UlforceVeedramon X.",
+			"soulName": "알포스브이드라몬X의 데이터 조각",
+			"description": "알포스브이드라몬X으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070339",
-			"soulName": "Omegamon MM Data Fragment",
-			"description": "A data fragment required to Digivolve into Omegamon MM.",
+			"soulName": "오메가몬MM의 데이터 조각",
+			"description": "오메가몬MM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070340",
-			"soulName": "Armageddemon Data Fragment",
-			"description": "A data fragment required to Digivolve into Armageddemon.",
+			"soulName": "아마게몬의 데이터 조각",
+			"description": "아마게몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070342",
-			"soulName": "AncientGarurumon Data Fragment",
-			"description": "A data fragment required to Digivolve into AncientGarurumon.",
+			"soulName": "에이션트가루몬의 데이터 조각",
+			"description": "에이션트가루몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070344",
-			"soulName": "BlitzGreymon Data Fragment",
-			"description": "A data fragment required to Digivolve into BlitzGreymon.",
+			"soulName": "블리츠그레이몬의 데이터 조각",
+			"description": "블리츠그레이몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070345",
-			"soulName": "CresGarurumon Data Fragment",
-			"description": "A data fragment required to Digivolve into CresGarurumon.",
+			"soulName": "크레스가루몬의 데이터 조각",
+			"description": "크레스가루몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076006",
-			"soulName": "ShineGreymon Data Fragment",
-			"description": "A data fragment required to Digivolve into ShineGreymon.",
+			"soulName": "샤인그레이몬의 데이터 조각",
+			"description": "샤인그레이몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076012",
-			"soulName": "HerculesKabuterimon Data Fragment",
-			"description": "A data fragment required to Digivolve into HerculesKabuterimon.",
+			"soulName": "헤라클레스캅테리몬의 데이터 조각",
+			"description": "헤라클레스캅테리몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076018",
-			"soulName": "Gaiomon Data Fragment",
-			"description": "A data fragment required to Digivolve into Gaiomon.",
+			"soulName": "가이오몬의 데이터 조각",
+			"description": "가이오몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076024",
-			"soulName": "Sakuyamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Sakuyamon.",
+			"soulName": "샤크라몬의 데이터 조각",
+			"description": "샤크라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076030",
-			"soulName": "Plesiomon Data Fragment",
-			"description": "A data fragment required to Digivolve into Plesiomon.",
+			"soulName": "플레시오몬 데이터 조각",
+			"description": "플레시오몬 으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076036",
-			"soulName": "Leviamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Leviamon.",
+			"soulName": "리바이어몬의 데이터 조각",
+			"description": "리바이어몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076042",
-			"soulName": "Dianamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Dianamon.",
+			"soulName": "디아나몬의 데이터 조각",
+			"description": "디아나몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076048",
-			"soulName": "Beelzemon Data Fragment",
-			"description": "A data fragment required to Digivolve into Beelzemon.",
+			"soulName": "베르제브몬의 데이터 조각",
+			"description": "베르제브몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076054",
-			"soulName": "Barbamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Barbamon.",
+			"soulName": "발바몬의 데이터 조각",
+			"description": "발바몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "2000001",
-			"soulName": "Null Plugin ver1.0",
-			"description": "A program encoded with a hint of Null energy, used for Digivolution.",
+			"soulName": "무속성 플러그인 ver1.0",
+			"description": "미약한 '무속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2000002",
-			"soulName": "Null Plugin ver2.0",
-			"description": "A program encoded with Null energy, used for Digivolution.",
+			"soulName": "무속성 플러그인 ver2.0",
+			"description": "'무속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2000003",
-			"soulName": "Null Plugin ver3.0",
-			"description": "A program encoded with powerful Null energy, used for Digivolution.",
+			"soulName": "무속성 플러그인 ver3.0",
+			"description": "강력한 '무속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2000004",
-			"soulName": "Null Plugin ver4.0",
-			"description": "A program encoded with incredible Null energy, used for Digivolution.",
+			"soulName": "무속성 플러그인 ver4.0",
+			"description": "막대한 '무속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2010001",
-			"soulName": "Fire Plugin ver1.0",
-			"description": "A program encoded with a hint of Fire energy, used for Digivolution.",
+			"soulName": "불속성 플러그인 ver1.0",
+			"description": "미약한 '불속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2010002",
-			"soulName": "Fire Plugin ver2.0",
-			"description": "A program encoded with Fire energy, used for Digivolution.",
+			"soulName": "불속성 플러그인 ver2.0",
+			"description": "'불속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2010003",
-			"soulName": "Fire Plugin ver3.0",
-			"description": "A program encoded with powerful Fire energy, used for Digivolution.",
+			"soulName": "불속성 플러그인 ver3.0",
+			"description": "강력한 '불속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2010004",
-			"soulName": "Fire Plugin ver4.0",
-			"description": "A program encoded with incredible Fire energy, used for Digivolution.",
+			"soulName": "불속성 플러그인 ver4.0",
+			"description": "막대한 '불속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2020001",
-			"soulName": "Water Plugin ver1.0",
-			"description": "A program encoded with a hint of Water energy, used for Digivolution.",
+			"soulName": "물속성 플러그인 ver1.0",
+			"description": "미약한 '물속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2020002",
-			"soulName": "Water Plugin ver2.0",
-			"description": "A program encoded with Water energy, used for Digivolution.",
+			"soulName": "물속성 플러그인 ver2.0",
+			"description": "'물속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2020003",
-			"soulName": "Water Plugin ver3.0",
-			"description": "A program encoded with powerful Water energy, used for Digivolution.",
+			"soulName": "물속성 플러그인 ver3.0",
+			"description": "강력한 '물속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2020004",
-			"soulName": "Water Plugin ver4.0",
-			"description": "A program encoded with incredible Water energy, used for Digivolution.",
+			"soulName": "물속성 플러그인 ver4.0",
+			"description": "막대한 '물속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2030001",
-			"soulName": "Thunder Plugin ver1.0",
-			"description": "A program encoded with a hint of Thunder energy, used for Digivolution.",
+			"soulName": "번개속성 플러그인 ver1.0",
+			"description": "미약한 '번개속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2030002",
-			"soulName": "Thunder Plugin ver2.0",
-			"description": "A program encoded with Thunder energy, used for Digivolution.",
+			"soulName": "번개속성 플러그인 ver2.0",
+			"description": "'번개속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2030003",
-			"soulName": "Thunder Plugin ver3.0",
-			"description": "A program encoded with powerful Thunder energy, used for Digivolution.",
+			"soulName": "번개속성 플러그인 ver3.0",
+			"description": "강력한 '번개속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2030004",
-			"soulName": "Thunder Plugin ver4.0",
-			"description": "A program encoded with incredible Thunder energy, used for Digivolution.",
+			"soulName": "번개속성 플러그인 ver4.0",
+			"description": "막대한 '번개속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2040001",
-			"soulName": "Nature Plugin ver1.0",
-			"description": "A program encoded with a hint of Nature energy, used for Digivolution.",
+			"soulName": "자연속성 플러그인 ver1.0",
+			"description": "미약한 '자연속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2040002",
-			"soulName": "Nature Plugin ver2.0",
-			"description": "A program encoded with Nature energy, used for Digivolution.",
+			"soulName": "자연속성 플러그인 ver2.0",
+			"description": "'자연속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2040003",
-			"soulName": "Nature Plugin ver3.0",
-			"description": "A program encoded with powerful Nature energy, used for Digivolution.",
+			"soulName": "자연속성 플러그인 ver3.0",
+			"description": "강력한 '자연속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2040004",
-			"soulName": "Nature Plugin ver4.0",
-			"description": "A program encoded with incredible Nature energy, used for Digivolution.",
+			"soulName": "자연속성 플러그인 ver4.0",
+			"description": "막대한 '자연속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2050001",
-			"soulName": "Light Plugin ver1.0",
-			"description": "A program encoded with a hint of Light energy, used for Digivolution.",
+			"soulName": "빛속성 플러그인 ver1.0",
+			"description": "미약한 '빛속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2050002",
-			"soulName": "Light Plugin ver2.0",
-			"description": "A program encoded with Light energy, used for Digivolution.",
+			"soulName": "빛속성 플러그인 ver2.0",
+			"description": "'빛속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2050003",
-			"soulName": "Light Plugin ver3.0",
-			"description": "A program encoded with powerful Light energy, used for Digivolution.",
+			"soulName": "빛속성 플러그인 ver3.0",
+			"description": "강력한 '빛속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2050004",
-			"soulName": "Light Plugin ver4.0",
-			"description": "A program encoded with incredible Light energy, used for Digivolution.",
+			"soulName": "빛속성 플러그인 ver4.0",
+			"description": "막대한 '빛속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2060001",
-			"soulName": "Darkness Plugin ver1.0",
-			"description": "A program encoded with a hint of Darkness energy, used for Digivolution.",
+			"soulName": "어둠속성 플러그인 ver1.0",
+			"description": "미약한 '어둠속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2060002",
-			"soulName": "Darkness Plugin ver2.0",
-			"description": "A program encoded with Darkness energy, used for Digivolution.",
+			"soulName": "어둠속성 플러그인 ver2.0",
+			"description": "'어둠속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2060003",
-			"soulName": "Darkness Plugin ver3.0",
-			"description": "A program encoded with powerful Darkness energy, used for Digivolution.",
+			"soulName": "어둠속성 플러그인 ver3.0",
+			"description": "강력한 '어둠속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2060004",
-			"soulName": "Darkness Plugin ver4.0",
-			"description": "A program encoded with incredible Darkness energy, used for Digivolution.",
+			"soulName": "어둠속성 플러그인 ver4.0",
+			"description": "막대한 '어둠속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "3000001",
-			"soulName": "Core Plugin ver1.0",
-			"description": "A program required when Digivolving Digimon in the Volcanicdramon line.",
+			"soulName": "코어 플러그인 ver1.0",
+			"description": "볼케닉 계열 디지몬이 진화할 때 필요한 프로그램",
 			"soulGroup": "2",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "3000002",
-			"soulName": "Core Plugin ver2.0",
-			"description": "A program required when Digivolving Digimon in the Volcanicdramon line.",
+			"soulName": "코어 플러그인 ver2.0",
+			"description": "볼케닉 계열 디지몬이 진화할 때 필요한 프로그램",
 			"soulGroup": "2",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "3000003",
-			"soulName": "Core Plugin ver3.0",
-			"description": "A program required when Digivolving Digimon in the Volcanicdramon line.",
+			"soulName": "코어 플러그인 ver3.0",
+			"description": "볼케닉 계열 디지몬이 진화할 때 필요한 프로그램",
 			"soulGroup": "2",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000001",
-			"soulName": "Null Upgrade Data",
-			"description": "A program required to Version Upgrade a Mirage Digimon.",
+			"soulName": "무의 버전업 데이터",
+			"description": "환생계 디지몬을 버전업할 때 필요한 프로그램",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000003",
-			"soulName": "Water Upgrade Data",
-			"description": "A program required to Version Upgrade a Glacier Digimon.",
+			"soulName": "물의 버전업 데이터",
+			"description": "빙하계 디지몬을 버전업할 때 필요한 프로그램",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000005",
-			"soulName": "Nature Upgrade Data",
-			"description": "A program required to Version Upgrade an Earth Digimon.",
+			"soulName": "자연의 버전업 데이터",
+			"description": "대지계 디지몬을 버전업할 때 필요한 프로그램",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000006",
-			"soulName": "Light Upgrade Data",
-			"description": "A program required to Version Upgrade a Bright Digimon.",
+			"soulName": "빛의 버전업 데이터",
+			"description": "광망계 디지몬을 버전업할 때 필요한 프로그램",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000001",
-			"soulName": "Null Re-factor",
-			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Mirage Tribe Digimon.",
+			"soulName": "무의 리팩터",
+			"description": "버전업한 환생계 디지몬의 상태이상 내성을 변화시킬 때 필요한 카드 매체",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000003",
-			"soulName": "Water Re-factor",
-			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Glacier Tribe Digimon.",
+			"soulName": "물의 리팩터",
+			"description": "버전업한 빙하계 디지몬의 상태이상 내성을 변화시킬 때 필요한 카드 매체",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000005",
-			"soulName": "Nature Re-factor",
-			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Earth Tribe Digimon.",
+			"soulName": "자연의 리팩터",
+			"description": "버전업한 대지계 디지몬의 상태이상 내성을 변화시킬 때 필요한 카드 매체",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000006",
-			"soulName": "Light Re-factor",
-			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Bright Tribe Digimon.",
+			"soulName": "빛의 리팩터",
+			"description": "버전업한 광망계 디지몬의 상태이상 내성을 변화시킬 때 필요한 카드 매체",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"

@@ -2,855 +2,855 @@
 	"messageM": [
 		{
 			"messageCode": "E-AL00",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-AL00] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL00]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL01",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-AL01] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL01]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL02",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-AL02] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL02]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL03",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-AL03] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL03]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL04",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-AL04] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL04]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL05",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-AL05] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL05]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL06",
-			"messageTitle": "Update",
-			"messageText": "[E-AL06] Data has been updated.\nNow updating to newest version.",
+			"messageTitle": "갱신",
+			"messageText": "[E-AL06]정보가 갱신되었습니다.\n파일을 업데이트합니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL07",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-MA00] Connection error.\nPlease retry in an area with good reception.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-MA00]통신 오류가 발생했습니다.\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL08",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-AL08] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL08]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL09",
-			"messageTitle": "Transfer failed",
-			"messageText": "[E-AL09] Transfer failed.\nCheck your Backup Code and\nUser Code and try again.",
+			"messageTitle": "데이터 이전 실패",
+			"messageText": "[E-AL09]데이터를 이전하지 못했습니다.\n데이터 이전 코드 및 유저 코드를\n확인한 다음 다시 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL10",
-			"messageTitle": "Transfer failed",
-			"messageText": "[E-AL10] Transfer failed.\nCheck your Backup Code and\nUser Code and try again.",
+			"messageTitle": "데이터 이전 실패",
+			"messageText": "[E-AL10]데이터를 이전하지 못했습니다.\n데이터 이전 코드 및 유저 코드를\n확인한 다음 다시 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL11",
-			"messageTitle": "Same device",
-			"messageText": "[E-AL11] Cannot transfer to same device.\nInput your codes to\nanother device.",
+			"messageTitle": "동일한 단말기",
+			"messageText": "[E-AL11]단말기가 동일하여 데이터를 이전하지 못했습니다.\n다른 단말기에서 데이터 이전 코드 및 유저 코드를\n입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL12",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-AL12] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL12]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL15",
-			"messageTitle": "Maintenance",
-			"messageText": "[E-AL15] Performing maintenance.\nPlease come back later.\nSorry for the delay.",
+			"messageTitle": "점검",
+			"messageText": "[E-AL15]대단히 죄송합니다.\n현재 점검 중이오니, 점검이 끝난 다음에\n다시 접속해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL16",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-AL16] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL16]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL17",
-			"messageTitle": "Update",
-			"messageText": "[E-AL17] Data has been updated.\nNow updating to newest version.",
+			"messageTitle": "갱신",
+			"messageText": "[E-AL17]정보가 갱신되었습니다.\n파일을 업데이트합니다.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL18",
-			"messageTitle": "Update",
-			"messageText": "[E-AL18] Data has been updated.\nNow updating to newest version.",
+			"messageTitle": "갱신",
+			"messageText": "[E-AL18]정보가 갱신되었습니다.\n파일을 업데이트합니다.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL19",
-			"messageTitle": "User Agreement update",
-			"messageText": "[E-AL19] The user agreement has been updated.",
+			"messageTitle": "이용 약관 갱신",
+			"messageText": "[E-AL19]이용 약관이 갱신되었습니다.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL80",
-			"messageTitle": "Important Information",
-			"messageText": "[E-AL80] Illegal data has been detected and is now being investigated. \nIf any illegal actions are detected as a result of the investigation, \nyour account may be deleted.",
+			"messageTitle": "중요 공지",
+			"messageText": "[E-AL80]부정한 데이터가 감지되어 현재 조사 중입니다.\n조사 결과 부정 행위가 확인되면\n계정 삭제 등의 처벌이 진행될 수 있습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL98",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-AL98] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL98]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL99",
-			"messageTitle": "User verification failure",
-			"messageText": "[E-AL99] An error occurred during user verification.\nPlease try again later.",
+			"messageTitle": "유저 인증 실패",
+			"messageText": "[E-AL99]유저 인증 중에 오류가 발생했습니다.\n잠시 후에 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN000",
-			"messageTitle": "Unusable",
-			"messageText": "[E-MN000] Function cannot be used now.\nWe apologize.\nPlease try again later.",
+			"messageTitle": "사용 불가",
+			"messageText": "[E-MN000]대단히 죄송합니다.\n현재 이 기능은 사용할 수 없습니다.\n복구가 완료될 때까지 잠시만 기다려주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN01",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-MN01] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-MN01]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN02",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-MN02] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-MN02]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN11",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN11] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN11]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN13",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN13] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN13]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN14",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN14] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN14]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN15",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN15] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN15]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN19",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN19] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN19]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN24",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN24] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN24]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN30",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN30] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN30]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN31",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN31] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN31]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN32",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN32] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN32]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN39",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN39] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN39]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN41",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN41] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN41]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN43",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN43] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN43]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN47",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN47] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN47]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN48",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN48] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN48]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN49",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN49] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN49]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN50",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN50] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN50]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN60",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN60] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN60]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN61",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN61] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN61]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN62",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN62] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN62]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN63",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN63] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN63]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN71",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN71] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN71]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN72",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN72] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN72]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN73",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN73] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN73]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN74",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN74] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN74]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN75",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN75] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN75]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN76",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN76] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN76]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN79",
-			"messageTitle": "Data inconsistency",
-			"messageText": "【E-MN79】データの不整合が発生しました。\nアプリを再起動しても解決しない場合は\nタイトルの「お問い合わせ」よりお問い合わせください。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN79]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN81",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN81] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN81]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN82",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN82] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN82]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN91",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN91] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN91]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN92",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN92] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN92]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN93",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN93] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN93]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN94",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN94] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN94]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN95",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN95] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN95]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN96",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN96] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN96]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN97",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN97] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN97]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN98",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN98] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN98]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN99",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN99] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN99]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN100",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN100] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN100]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN101",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN101] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN101]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN110",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN110] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN110]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN121",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN121] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN121]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN122",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN122] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN122]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN123",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN123] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN123]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN124",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-MN124] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-MN124]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN141",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN141] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN141]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN142",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN142] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN142]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN143",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN143] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN143]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN144",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN144] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN144]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN145",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN145] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN145]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN146 ",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN146] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN146]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN147",
-			"messageTitle": "Not enough Clusters",
-			"messageText": "[E-MN147] Not enough Clusters for this.",
+			"messageTitle": "클러스터 부족",
+			"messageText": "[E-MN147]클러스터가 부족합니다.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN148",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN148] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN148]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN150",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN150] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN150]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN151",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN151] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN151]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN152",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN152] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN152]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN153",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN153] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN153]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN154",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN154] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN154]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN155",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MN155] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN155]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US06",
-			"messageTitle": "Not Enough Stamina",
-			"messageText": "[E-US06] Not enough Stamina.\nYou are out of DigiStones.\n* Use 5 DS to restore.",
+			"messageTitle": "스태미너 부족",
+			"messageText": "[E-US06]스태미너가 부족합니다.\n보유한 디지스톤이 없습니다.\n※디지스톤 5개를 사용하면 회복할 수 있습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US07",
-			"messageTitle": "Invalid user name",
-			"messageText": "[E-US07] Cannot input blank space\nas a User Name.\nCheck input and try again.",
+			"messageTitle": "사용할 수 없는 유저 이름",
+			"messageText": "[E-US07]미입력 및 공백만으로 이루어진\n유저 이름은 사용할 수 없습니다.\n입력한 내용을 확인하고 다시 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US08",
-			"messageTitle": "Character limit exceeded",
-			"messageText": "[E-US08] Character limit exceeded.\nUser Name must be 10 characters or less.",
+			"messageTitle": "글자 수 초과",
+			"messageText": "[E-US08]최대 글자 수를 초과했습니다.\n유저 이름은 10자 이내로 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US12",
-			"messageTitle": "Nonexistent Code",
-			"messageText": "[E-US12] Input serial code does not exist.\nPlease double-check your input.",
+			"messageTitle": "존재하지 않는 코드",
+			"messageText": "[E-US12]존재하지 않는 시리얼 코드입니다.\n입력한 내용을 확인해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US13",
-			"messageTitle": "Previously-used Code",
-			"messageText": "[E-US13] This serial code has already been input.",
+			"messageTitle": "사용한 코드",
+			"messageText": "[E-US13]이미 사용한 시리얼 코드입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US16",
-			"messageTitle": "Prohibited language",
-			"messageText": "[E-US16] Input text contains prohibited language.\nCheck input and try again.",
+			"messageTitle": "금지 단어",
+			"messageText": "[E-US16]입력된 문자 중에 금지 단어가 포함되어 있습니다.\n입력한 내용을 확인하고 다시 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US17",
-			"messageTitle": "Unusable character(s)",
-			"messageText": "[E-US17] Input text contains invalid characters.\nCheck input and try again.",
+			"messageTitle": "사용할 수 없는 문자",
+			"messageText": "[E-US17]입력된 문자 중에 그림 문자, 기호 등\n사용할 수 없는 문자가 포함되어 있습니다.\n입력한 내용을 확인하고 다시 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US18",
-			"messageTitle": "Character limit exceeded",
-			"messageText": "[E-US18] Character limit exceeded.\nComment must be 30 characters or less.",
+			"messageTitle": "글자 수 초과",
+			"messageText": "[E-US18]최대 글자 수를 초과했습니다.\n코멘트는 30자 이내로 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US19",
-			"messageTitle": "Character limit exceeded",
-			"messageText": "[E-US19] Character limit exceeded.\nUser Name must be 10 characters or less.",
+			"messageTitle": "글자 수 초과",
+			"messageText": "[E-US19]최대 글자 수를 초과했습니다.\n유저 이름은 10자 이내로 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US21",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-US21] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-US21]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US22",
-			"messageTitle": "Max Stamina",
-			"messageText": "[E-US22] Stamina is already maxed out and cannot be restored.",
+			"messageTitle": "스태미너 MAX",
+			"messageText": "[E-US22]스태미너가 최대치이므로 회복할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US23",
-			"messageTitle": "Maximum Meat",
-			"messageText": "[E-US23] Maximum meat already harvested.\nLevel up Warehouse to harvest more.",
+			"messageTitle": "최대 고기 보유 수 초과",
+			"messageText": "[E-US23]수확 가능한 고기의 수가 최대치를 초과했습니다.\n창고의 레벨을 올리면 최대 고기 보유 수가 상승합니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FR01",
-			"messageTitle": "Already friended",
-			"messageText": "[E-FR01] This user is already registered as your friend.",
+			"messageTitle": "등록된 친구",
+			"messageText": "[E-FR01]이미 친구로 등록된 유저입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FR02",
-			"messageTitle": "Pending friend",
-			"messageText": "[E-FR02] A friend request has already been sent to this user.",
+			"messageTitle": "친구 신청 중",
+			"messageText": "[E-FR02]이미 친구 신청 중인 유저입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FR03",
-			"messageTitle": "Friend awaiting approval",
-			"messageText": "[E-FR03] This user is waiting for you to accept their friend request.",
+			"messageTitle": "친구 승낙 대기 중",
+			"messageText": "[E-FR03]친구 승낙 대기 중인 유저입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FR04",
-			"messageTitle": "Already cancelled request",
-			"messageText": "[E-FR04] A friend request from this user was cancelled.",
+			"messageTitle": "신청취소 완료",
+			"messageText": "[E-FR04]이미 신청을 취소한 유저입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FR10",
-			"messageTitle": "Friend limit reached",
-			"messageText": "[E-FR10] You have too many friends or pending\nrequests to send a request.",
+			"messageTitle": "최대 친구 수 초과",
+			"messageText": "[E-FR10]친구 수가 가득 찼거나\n승낙 대기 중인 신청 수가 많아\n신청할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FR11",
-			"messageTitle": "User's friend limit reached",
-			"messageText": "[E-FR11] This user has too many friends or pending\nrequests to request.",
+			"messageTitle": "상대방의 최대 친구 수 초과",
+			"messageText": "[E-FR11]상대방의 친구 수가 가득 찼거나\n승낙 대기 중인 신청 수가 많아\n신청할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FR12",
-			"messageTitle": "Unfriended user",
-			"messageText": "[E-FR12] This user has not been friended yet.",
+			"messageTitle": "친구가 아닌 유저",
+			"messageText": "[E-FR12]이 유저는 친구가 아닙니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA02",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-GA02] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-GA02]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA05",
-			"messageTitle": "Digimon limit reached",
-			"messageText": "[E-GA05] House is too full\nto Capture more. Upgrade\n House, Enhance or\nRelease.",
+			"messageTitle": "최대 디지몬 보유 수 초과",
+			"messageText": "[E-GA05]하우스의 보유 디지몬 수가\n최대치에 도달하여 캡처할 수 없습니다.\n하우스를 업그레이드하거나 강화 및 이별로 공간을 확보해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA06",
-			"messageTitle": "Not enough DigiStones",
-			"messageText": "[E-GA06] Not enough DigiStones.\nGo to the shop?",
+			"messageTitle": "디지스톤 부족",
+			"messageText": "[E-GA06]디지스톤이 부족합니다.\n상점으로 이동하시겠습니까?",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA07",
-			"messageTitle": "Not enough Link Points",
-			"messageText": "[E-GA07] Not enough Link Points for this.",
+			"messageTitle": "링크 포인트 부족",
+			"messageText": "[E-GA07]링크 포인트가 부족합니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA08",
-			"messageTitle": "Open period has ended",
-			"messageText": "[E-GA08] The open period for this Capture is over.\nClose the Capture screen.",
+			"messageTitle": "등장 기간 종료",
+			"messageText": "[E-GA08]등장 기간이 종료된 캡처입니다.\n캡처 화면을 닫아주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA09",
-			"messageTitle": "Not enough of this item",
-			"messageText": "[E-GA09] Not enough of this item.",
+			"messageTitle": "지정 아이템 부족",
+			"messageText": "[E-GA09] 지정 아이템이 부족합니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA10",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-GA10] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-GA10]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA11",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-GA11] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-GA11]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA12",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-GA12] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-GA12]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA13",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-GA13] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-GA13]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA14",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-GA14] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-GA14]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA16",
-			"messageTitle": "Chip limit reached",
-			"messageText": "[E-GA16] Too many Chips to Capture more.\nPlease enhance or sell\nsome Chips.",
+			"messageTitle": "최대 칩 보유 수 초과",
+			"messageText": "[E-GA16]보유 칩 수가 최대치에 도달하여\n캡처할 수 없습니다.\n강화 및 판매로 공간을 확보해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA17",
-			"messageTitle": "Construction not complete",
-			"messageText": "[E-GA17] Cannot Capture Chips without a Chip Factory.\nConstruct Chip Factory.",
+			"messageTitle": "건설 미완료",
+			"messageText": "[E-GA17]칩 공장이 없어 캡처할 수 없습니다.\n칩 공장을 건설해주십시오.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-GA18",
-			"messageTitle": "Capture limit exceeded",
-			"messageText": "[E-GA18] Already performed the max number of limited Captures.",
+			"messageTitle": "횟수제한 초과",
+			"messageText": "[E-GA18]지정된 횟수를 초과하여 더이상 캡처할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SH01",
-			"messageTitle": "Closed",
-			"messageText": "[E-SH01] Time is up.",
+			"messageTitle": "기간 종료",
+			"messageText": "[E-SH01]기간이 종료되었습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SH09",
-			"messageTitle": "Product information inconsistency",
-			"messageText": "[E-SH09] Error exists in product data.\nPlease submit an Inquiry.",
+			"messageTitle": "상품정보 오류",
+			"messageText": "[E-SH09]상품정보에 오류가 있습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SH10",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-SH10] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-SH10]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SH11",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-SH11] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-SH11]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SH12",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-SH12] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-SH12]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SH13",
-			"messageTitle": "Purchase limit reached",
-			"messageText": "[E-SH13] You have already made the max number of Purchases.",
+			"messageTitle": "구매 가능 횟수 초과",
+			"messageText": "[E-SH13]구매 가능 횟수가 최대치입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
@@ -863,1107 +863,1107 @@
 		},
 		{
 			"messageCode": "E-PR01",
-			"messageTitle": "Already accepted",
-			"messageText": "[E-PR01] You have already accepted this.",
+			"messageTitle": "수령 완료",
+			"messageText": "[E-PR01]이미 수령이 완료된 보상입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV01",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-PV01] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV01]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV02",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-PV02] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV02]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV03",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-PV03] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV03]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV04",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-PV04] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV04]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV05",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-PV05] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV05]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV06",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-PV06] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV06]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV07",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-PV07] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV07]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV08",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-PV08] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV08]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV09",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-PV09] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV09]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV10",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-PV10] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV10]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV11",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-PV11] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV11]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV12",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-PV12] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV12]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV13",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-PV13] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV13]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV14",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-PV14] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV14]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV15",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-PV15] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV15]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV16",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-PV16] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV16]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV19",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-PV19] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-PV19]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV20",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-PV20] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-PV20]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV21",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-PV21] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-PV21]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV22",
-			"messageTitle": "Calculations in progress",
-			"messageText": "[E-PV22] Now tallying Colosseum results.\nPlease wait to restart your battle.",
+			"messageTitle": "집계 중",
+			"messageText": "[E-PV22]결과를 집계하고 있습니다.\n잠시 후에 다시 시도해주십시오.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-PV42",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-PV42] Unexpected error.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-PV42]예기치 못한 오류가 발생했습니다.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "97",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-PV97] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-PV97]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV98",
-			"messageTitle": "Ranking not open",
-			"messageText": "Colosseum ranking is not currently open.\nPlease wait.",
+			"messageTitle": "랭킹 미개최",
+			"messageText": "콜로세움 랭킹 진행 중이 아닙니다.\n잠시만 기다려 주시기 바랍니다.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV99",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-PV99] User status inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV99]유저 스테이터스에 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD01",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-WD01] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-WD01]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD02",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-WD02] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-WD02]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD03",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-WD03] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-WD03]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD04",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-WD04] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-WD04]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD05",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-WD05] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-WD05]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD06",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-WD06] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-WD06]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD10",
-			"messageTitle": "Closed",
-			"messageText": "[E-WD10] The window to unlock this Quest has ended.",
+			"messageTitle": "기간 종료",
+			"messageText": "[E-WD10]퀘스트 해금 기간이 종료되었습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD11",
-			"messageTitle": "Not Enough Stamina",
-			"messageText": "[E-WD11] Not enough Stamina.\nRestore with {} DigiStones?\nST {} -> {}\nDS: {}",
+			"messageTitle": "스태미너 부족",
+			"messageText": "[E-WD11]스태미너가 부족합니다.\n디지스톤 {}개를 사용하여 회복하시겠습니까?\n스태미너 {} -> {}\n보유 디지스톤 수: {}",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD12",
-			"messageTitle": "Not Enough Stamina",
-			"messageText": "[E-WD12] Total Stamina required for this Quest\nis more than your max Stamina.",
+			"messageTitle": "스태미너 부족",
+			"messageText": "[E-WD12]스태미너의 최대치가 부족하여\n퀘스트에 도전할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD13",
-			"messageTitle": "Nonexistent Party",
-			"messageText": "[E-WD13] The selected party does not exist.\nForm a party in Party Formation.",
+			"messageTitle": "존재하지 않는 파티",
+			"messageText": "[E-WD13]선택된 파티가 존재하지 않습니다.\n파티를 편성해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD15",
-			"messageTitle": "Empty Party",
-			"messageText": "[E-WD15] No Digimon selected in your party.\nForm a party in Party Formation.",
+			"messageTitle": "비어있는 파티",
+			"messageText": "[E-WD15]파티 내에 디지몬이 존재하지 않습니다.\n파티를 편성해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD16",
-			"messageTitle": "Monster limit reached",
-			"messageText": "[E-WD16] House is too full\nto join a Quest. Upgrade\nHouse, Enhance or\nRelease.",
+			"messageTitle": "최대 디지몬 보유 수 초과",
+			"messageText": "[E-WD16]하우스의 보유 디지몬 수가 최대치에 도달하여\n퀘스트에 참가할 수 없습니다.\n하우스를 업그레이드하거나 강화 및 이별로 공간을 확보해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD17",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-WD17] Data inconsistency.\nPlease submit an Inquiry.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD17]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD19",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-WD19] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-WD19]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD20",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-WD20] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD20]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD21",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-WD21] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD21]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD23",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-WD23] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD23]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD24",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-WD24] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD24]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD26",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-WD26] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD26]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD28",
-			"messageTitle": "Chip limit reached",
-			"messageText": "[E-WD28] Too many Chips to join a Quest.\nPlease enhance or sell\nsome Chips.",
+			"messageTitle": "최대 칩 보유 수 초과",
+			"messageText": "[E-WD28]보유 칩 수가 최대치에 도달하여\n퀘스트에 참가할 수 없습니다.\n강화 및 판매로 공간을 확보해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD31",
-			"messageTitle": "Continue",
-			"messageText": "[E-WD31] Can be revived for 5 DigiStones.",
+			"messageTitle": "컨티뉴",
+			"messageText": "[E-WD31]디지스톤 5개로 부활시킬 수 있습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD32",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-WD32] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD32]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD33",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-WD33] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD33]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD34",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-WD34] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD34]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD71",
-			"messageTitle": "Not currently open",
-			"messageText": "[E-WD71] Event has not opened yet, or has already closed.",
+			"messageTitle": "미개최 기간",
+			"messageText": "[E-WD71]아직 개최되지 않은 이벤트이거나\n이미 종료된 이벤트입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD72",
-			"messageTitle": "Data acquisition failed",
-			"messageText": "[E-WD72] Data acquisition failed.\nRestart or submit Inquiry\non Title screen.",
+			"messageTitle": "데이터 불러오기 실패",
+			"messageText": "[E-WD72]데이터를 불러오지 못했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD84",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-WD84] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD84]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD85",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-WD85] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD85]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD74",
-			"messageTitle": "Closed",
-			"messageText": "[E-WD74] The window to unlock this Quest has ended.",
+			"messageTitle": "기간 종료",
+			"messageText": "[E-WD74]퀘스트 해금 기간이 종료되었습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MS01",
-			"messageTitle": "Already accepted",
-			"messageText": "[E-MS01] You have already accepted this.",
+			"messageTitle": "수령 완료",
+			"messageText": "[E-MS01]이미 수령이 완료된 보상입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT01",
-			"messageTitle": "Room full",
-			"messageText": "[E-MT01] This room is already full.",
+			"messageTitle": "룸 만원",
+			"messageText": "[E-MT01]이미 인원이 가득 찬 룸입니다.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-MT02",
-			"messageTitle": "Room Disbanded",
-			"messageText": "[E-MT02] This room has already been disbanded.",
+			"messageTitle": "룸 해체",
+			"messageText": "[E-MT02]이미 해체된 룸입니다.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-MT11",
-			"messageTitle": "Room already joined",
-			"messageText": "[E-MT11] You have already joined this room.",
+			"messageTitle": "룸 가입 완료",
+			"messageText": "[E-MT11]이미 가입한 룸입니다.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-MT13",
-			"messageTitle": "Nonexistent Room",
-			"messageText": "[E-MT13] This room does not exist.",
+			"messageTitle": "존재하지 않는 룸",
+			"messageText": "[E-MT13]해당 룸이 존재하지 않습니다.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-MT19",
-			"messageTitle": "Password mismatch",
-			"messageText": "[E-MT19] The input password is incorrect. Please check and try again.",
+			"messageTitle": "비밀번호 오류",
+			"messageText": "[E-MT19]비밀번호를 잘못 입력하셨습니다.\n번호를 확인하고 다시 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-MT20",
-			"messageTitle": "Locked Quest",
-			"messageText": "[E-MT20] This Quest has not been unlocked yet. You cannot join at this time.",
+			"messageTitle": "미해금 퀘스트",
+			"messageText": "[E-MT20]해금되지 않은 퀘스트이므로\n지금은 참가할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-MT31",
-			"messageTitle": "Character limit exceeded",
-			"messageText": "[E-MT31] Intro character limit exceeded. Set to 50 characters or less.",
+			"messageTitle": "글자 수 초과",
+			"messageText": "[E-MT31]소개말이 최대 글자 수를 초과했습니다.\n50자 이내로 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-MT32",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MT32] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT32]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT52",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MT52] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT52]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT53",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MT53] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT53]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT54",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MT54] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT54]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT61",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MT61] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT61]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT62",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MT62] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT62]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT71",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MT71] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT71]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT72",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MT72] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT72]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT73",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MT73] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT73]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT81",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-MT81] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT81]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA01",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-FA01] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-FA01]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA02",
-			"messageTitle": "Not enough space",
-			"messageText": "[E-FA02] No space to place Facilities or Decor.\nSell some Decor to make room.",
+			"messageTitle": "공간 부족",
+			"messageText": "[E-FA02]시설 및 장식을 배치할 공간이 부족합니다.\n새로 배치하려면 장식을 판매해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA03",
-			"messageTitle": "Construction limit reached",
-			"messageText": "[E-FA03] You have too many of this Decor\n already to construct any more.",
+			"messageTitle": "최대 건설 가능 수 초과",
+			"messageText": "[E-FA03]해당 장식의 건설 가능 수가 최대치에 도달하여\n건설할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA04",
-			"messageTitle": "Not enough Clusters",
-			"messageText": "[E-FA04] Not enough Clusters to build this.",
+			"messageTitle": "클러스터 부족",
+			"messageText": "[E-FA04]클러스터가 부족하여 건설할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA05",
-			"messageTitle": "Cannot reduce time",
-			"messageText": "[E-FA05] Cannot reduce construction time for this Facility.",
+			"messageTitle": "시간 단축 불가",
+			"messageText": "[E-FA05]해당 시설은 건설 시간을 단축할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA06",
-			"messageTitle": "No need to reduce time",
-			"messageText": "[E-FA06] Construction is already complete.\nNo DigiStones were spent.",
+			"messageTitle": "시간 단축 불필요",
+			"messageText": "[E-FA06]이미 건설이 완료되어\n디지스톤이 소비되지 않았습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA07",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-FA07] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-FA07]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA08",
-			"messageTitle": "Constructing",
-			"messageText": "[E-FA08] This Facility is still under construction.",
+			"messageTitle": "건설 중",
+			"messageText": "[E-FA08]해당 시설은 아직 건설 중입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA09",
-			"messageTitle": "Already upgraded",
-			"messageText": "[E-FA09] This Facility is already at max level.",
+			"messageTitle": "업그레이드 완료",
+			"messageText": "[E-FA09]해당 시설은 이미 최대 레벨입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA10",
-			"messageTitle": "Cannot reduce time",
-			"messageText": "[E-FA10] Cannot reduce construction time for this Facility.",
+			"messageTitle": "시간 단축 불가",
+			"messageText": "[E-FA10]해당 시설은 건설 시간을 단축할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA11",
-			"messageTitle": "Cannot reduce time",
-			"messageText": "[E-FA11] Cannot reduce construction time;\nFacility is not being upgraded.",
+			"messageTitle": "시간 단축 불가",
+			"messageText": "[E-FA11]해당 시설은 업그레이드 중이 아니므로\n건설 시간을 단축할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA12",
-			"messageTitle": "Cannot be moved",
-			"messageText": "[E-FA12] Cannot move this Facility.",
+			"messageTitle": "이동 불가",
+			"messageText": "[E-FA12]해당 시설은 위치를 옮길 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA13",
-			"messageTitle": "Cannot be sold",
-			"messageText": "[E-FA13] Cannot sell this Facility.",
+			"messageTitle": "판매 불가",
+			"messageText": "[E-FA13]해당 시설은 판매할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA14",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-FA14] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-FA14]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA15",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-FA15] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-FA15]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA16",
-			"messageTitle": "Cannot be harvested",
-			"messageText": "[E-FA16] Cannot harvest due to ongoing construction.",
+			"messageTitle": "수확 불가",
+			"messageText": "[E-FA16]건설 중이므로 수확할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA17",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-FA17] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-FA17]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA19",
-			"messageTitle": "Unexpected error",
-			"messageText": "[E-FA19] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-FA19]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA20",
-			"messageTitle": "Maximum Meat",
-			"messageText": "[E-FA20] Max limit of Meat has been reached.\nBuild a Warehouse to store more.",
+			"messageTitle": "최대 고기 보유 수 초과",
+			"messageText": "[E-FA20]수확 가능한 고기의 수가 최대치를 초과했습니다.\n창고를 만들면 최대 고기 보유 수가 상승합니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA21",
-			"messageTitle": "Construction cost limit reached",
-			"messageText": "[E-FA21] Construction cost limit has been reached.\nWait to construct more.",
+			"messageTitle": "건설 코스트 초과",
+			"messageText": "[E-FA21]건설 코스트가 최대치에 도달하여\n건설할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA23",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-FA23] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-FA23]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA24",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-FA24] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-FA24]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA25",
-			"messageTitle": "Savings limit reached",
-			"messageText": "[E-FA25] Max savings limit has been reached.",
+			"messageTitle": "최대 보유 수 초과",
+			"messageText": "[E-FA25]보유 수가 최대치에 도달하였습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA26",
-			"messageTitle": "Not enough DigiStones",
-			"messageText": "[E-FA26] Not enough DigiStones.",
+			"messageTitle": "디지스톤 부족",
+			"messageText": "[E-FA26]디지스톤이 부족합니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH01",
-			"messageTitle": "Chat group participation limit reached",
-			"messageText": "[E-CH01] Chat group is full.",
+			"messageTitle": "최대 채팅 그룹 참가 수 초과",
+			"messageText": "[E-CH01]참가한 채팅 그룹 수가 최대치입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH02",
-			"messageTitle": "Nonexistent chat group",
-			"messageText": "[E-CH02] Chat group does not exist.",
+			"messageTitle": "존재하지 않는 채팅 그룹",
+			"messageText": "[E-CH02]채팅 그룹이 존재하지 않습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH03",
-			"messageTitle": "Invite failed",
-			"messageText": "[E-CH03] Failed to invite.",
+			"messageTitle": "초대 실패",
+			"messageText": "[E-CH03]초대하지 못했습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH04",
-			"messageTitle": "Chat group invite limit reached",
-			"messageText": "[E-CH04] Max number of invites have been sent.",
+			"messageTitle": "최대 채팅 그룹 초대 수 초과",
+			"messageText": "[E-CH04]채팅 그룹 초대 수가 최대치입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH05",
-			"messageTitle": "Invalid invitation",
-			"messageText": "[E-CH05] Failed due to expired\ninvitation, or to chat\ngroup not existing.",
+			"messageTitle": "초대 무효",
+			"messageText": "[E-CH05]유효기간이 지났거나,\n채팅 그룹이 존재하지 않아\n참가하지 못했습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH06",
-			"messageTitle": "Invite failed",
-			"messageText": "[E-CH06] Could not invite due to \nnot being Master of this chat.",
+			"messageTitle": "초대 실패",
+			"messageText": "[E-CH06]마스터가 아니므로\n초대할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH07",
-			"messageTitle": "Already joined chat group",
-			"messageText": "[E-CH07] You have already joined this chat group.",
+			"messageTitle": "이미 가입한 채팅 그룹",
+			"messageText": "[E-CH07]이미 가입한 채팅 그룹입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH08",
-			"messageTitle": "Request failed",
-			"messageText": "[E-CH08] Failed to request.",
+			"messageTitle": "신청 실패",
+			"messageText": "[E-CH08]신청하지 못했습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH09",
-			"messageTitle": "Already requested chat group",
-			"messageText": "[E-CH09] This chat group has already been requested.",
+			"messageTitle": "이미 신청한 채팅 그룹",
+			"messageText": "[E-CH09]이미 신청한 채팅 그룹입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH10",
-			"messageTitle": "Chat group request limit reached",
-			"messageText": "[E-CH10] Max number of requests have been sent.",
+			"messageTitle": "최대 채팅 그룹 신청 수 초과",
+			"messageText": "[E-CH10]채팅 그룹 가입 신청 수가 최대치입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH11",
-			"messageTitle": "Menu display failure",
-			"messageText": "[E-CH11] Could not view due to\nlack of Master privileges.",
+			"messageTitle": "메뉴 표시 실패",
+			"messageText": "[E-CH11]마스터 권한이 없으므로\n확인할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH12",
-			"messageTitle": "Invalid request",
-			"messageText": "[E-CH12] Failed due to expired\nrequest, or to chat\ngroup not existing.",
+			"messageTitle": "신청 무효",
+			"messageText": "[E-CH12]유효기간이 지났거나,\n채팅 그룹이 존재하지 않아\n신청하지 못했습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH13",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-CH13] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-CH13]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH14",
-			"messageTitle": "Master privileges transfer failed",
-			"messageText": "[E-CH14] Master privileges can only be\ntransferred to Members.",
+			"messageTitle": "마스터 권한 위임 실패",
+			"messageText": "[E-CH14]그룹 멤버에게만 마스터 권한을\n위임할 수 있습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH15",
-			"messageTitle": "Failed to Leave Chat Group",
-			"messageText": "[E-CH15] The master cannot leave\na chat group.",
+			"messageTitle": "채팅 그룹 나가기 실패",
+			"messageText": "[E-CH15]마스터는 채팅 그룹에서\n나갈 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH16",
-			"messageTitle": "Failed to Leave Chat Group",
-			"messageText": "[E-CH16] Cannot unsubscribe due to not being\na member of this chat group.",
+			"messageTitle": "채팅 그룹 나가기 실패",
+			"messageText": "[E-CH16]해당 채팅 그룹의 멤버가 아니므로\n나갈 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH17",
-			"messageTitle": "Log acquisition failure",
-			"messageText": "[E-CH17] Cannot acquire log due to not being\na member of this chat group.",
+			"messageTitle": "이력 불러오기 실패",
+			"messageText": "[E-CH17]해당 채팅 그룹의 멤버가 아니므로\n이력을 불러올 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH18",
-			"messageTitle": "Message transmission error",
-			"messageText": "[E-CH18] Cannot send message due to not being\na member of this chat group.",
+			"messageTitle": "메시지 송신 오류",
+			"messageText": "[E-CH18]해당 채팅 그룹의 멤버가 아니므로\n메시지를 보낼 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH19",
-			"messageTitle": "Group creation error",
-			"messageText": "[E-CH19] Group name has not been input.\nPlease input a group name.",
+			"messageTitle": "그룹 생성 오류",
+			"messageText": "[E-CH19]그룹 이름이 입력되지 않았습니다.\n그룹 이름을 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH20",
-			"messageTitle": "Group creation error",
-			"messageText": "[E-CH20] Character limit exceeded.\nGroup name must be 15 characters or less.",
+			"messageTitle": "그룹 생성 오류",
+			"messageText": "[E-CH20]그룹 이름이 최대 글자 수를 초과했습니다.\n그룹 이름은 15자 이내로 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH21",
-			"messageTitle": "Group creation error",
-			"messageText": "[E-CH21] Character limit exceeded.\nComment must be 30 characters or less.",
+			"messageTitle": "그룹 생성 오류",
+			"messageText": "[E-CH21]코멘트가 최대 글자 수를 초과했습니다.\n코멘트는 30자 이내로 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH22",
-			"messageTitle": "Message transmission error",
-			"messageText": "[E-CH22] Character limit exceeded.\nMessage must be 100 characters or less.",
+			"messageTitle": "메시지 송신 오류",
+			"messageText": "[E-CH22]메시지가 최대 글자 수를 초과했습니다.\n메시지는 100자 이내로 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH23",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-CH23] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-CH23]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH24",
-			"messageTitle": "Message transmission error",
-			"messageText": "[E-CH24] No characters can be displayed.",
+			"messageTitle": "메시지 송신 오류",
+			"messageText": "[E-CH24]표시 가능한 문자가 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH26",
-			"messageTitle": "Request failed",
-			"messageText": "[E-CH26] Already unsubscribed from this chat group\nand cannot send a request.",
+			"messageTitle": "신청 실패",
+			"messageText": "[E-CH26]이미 해당 채팅 그룹의 초대를 받아\n가입 신청을 할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH27",
-			"messageTitle": "Master privileges transfer failure",
-			"messageText": "[E-CH27] This user is blocked and cannot\nbecome Master.",
+			"messageTitle": "마스터 권한 위임 실패",
+			"messageText": "[E-CH27]차단한 유저에게는\n마스터 권한을 위임할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH28",
-			"messageTitle": "Request failed",
-			"messageText": "[E-CH28] Cannot send request due to Master of this\nchat group being blocked.",
+			"messageTitle": "신청 실패",
+			"messageText": "[E-CH28]차단한 유저가 마스터인\n채팅 그룹은 참가할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH29",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-CH29] Data inconsistency.\nRestart or submit Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-CH29]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SO01",
-			"messageTitle": "Authentication Error",
-			"messageText": "[E-SO01] Failed to authenticate linked SNS.\nPlease try again later.",
+			"messageTitle": "인증 오류",
+			"messageText": "[E-SO01]연동할 SNS를 인증하지 못했습니다.\n다시 시도해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SO02",
-			"messageTitle": "Authentication Error",
-			"messageText": "[E-SO02] Failed to authenticate linked SNS.\nPlease try again later.",
+			"messageTitle": "인증 오류",
+			"messageText": "[E-SO02]연동할 SNS를 인증하지 못했습니다.\n다시 시도해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SO03",
-			"messageTitle": "Authentication Error",
-			"messageText": "[E-SO03] Failed to authenticate linked SNS.\nPlease try again later.",
+			"messageTitle": "인증 오류",
+			"messageText": "[E-SO03]연동할 SNS를 인증하지 못했습니다.\n다시 시도해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SO04",
-			"messageTitle": "Authentication Error",
-			"messageText": "[E-SO04] Failed to authenticate linked SNS.\nPlease try again later.",
+			"messageTitle": "인증 오류",
+			"messageText": "[E-SO04]연동할 SNS를 인증하지 못했습니다.\n다시 시도해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL01",
-			"messageTitle": "Connection error",
-			"messageText": "[C-AL01] Connection error.\nPlease retry in an area with good reception.",
+			"messageTitle": "통신 오류",
+			"messageText": "[C-AL01]통신 오류가 발생했습니다.\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL02",
-			"messageTitle": "Connection error",
-			"messageText": "[C-AL02] Connection error.\nPlease check your device's connection settings.",
+			"messageTitle": "통신 오류",
+			"messageText": "[C-AL02]통신 오류가 발생했습니다.\n이용 중인 단말기의 통신 설정을 확인해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL03",
-			"messageTitle": "Server overload",
-			"messageText": "[C-AL03] Server may be overloaded.\nPlease try again later.",
+			"messageTitle": "서버 혼잡",
+			"messageText": "[C-AL03]서버가 혼잡합니다.\n잠시 후에 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL04",
-			"messageTitle": "Timed out",
-			"messageText": "[C-AL04] Connection timed out.\nPlease retry in an area with good reception.",
+			"messageTitle": "타임아웃",
+			"messageText": "[C-AL04]서버와의 연결이 끊어졌습니다.\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL05",
-			"messageTitle": "Data acquisition failed",
-			"messageText": "[C-AL05] Failed to acquire data.\nPlease retry in an area with good reception.",
+			"messageTitle": "데이터 불러오기 실패",
+			"messageText": "[C-AL05]데이터를 불러오지 못했습니다.\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL06",
-			"messageTitle": "Data corruption",
-			"messageText": "[C-AL06] Acquired corrupted data.\nClear cache and retry\nwith better reception.",
+			"messageTitle": "데이터 파손",
+			"messageText": "[C-AL06]데이터가 파손되었습니다.\n타이틀 화면에서 캐시를 삭제한 다음,\n통신이 원활한 환경에서 다시 접속해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL07",
-			"messageTitle": "Purchase processing failure",
-			"messageText": "[C-AL07] Failed to process purchase.\nRetry in an area with good reception.",
+			"messageTitle": "구매 처리 실패",
+			"messageText": "[C-AL07]구매하지 못했습니다.\n통신이 원활한 환경에서 다시 접속해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL08",
-			"messageTitle": "Initialization failure",
-			"messageText": "[C-AL08] Failed to initialize.\nRetry in an area with good reception.",
+			"messageTitle": "초기화 실패",
+			"messageText": "[C-AL08]초기화하지 못했습니다.\n통신이 원활한 환경에서 다시 접속해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL09",
-			"messageTitle": "User verification failure",
-			"messageText": "[C-AL09] Failed to verify user.\nTry again in an area with good reception.",
+			"messageTitle": "유저 인증 실패",
+			"messageText": "[C-AL09]인증하지 못했습니다.\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL10",
-			"messageTitle": "Cache clearing failure",
-			"messageText": "[C-AL10] Failed to clear cache.",
+			"messageTitle": "캐시 삭제 실패",
+			"messageText": "[C-AL10]캐시를 삭제하지 못했습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL11",
-			"messageTitle": "Data acquisition failed",
-			"messageText": "[C-AL11] Data acquisition failed.\nRestart or submit Inquiry\non Title screen.",
+			"messageTitle": "데이터 불러오기 실패",
+			"messageText": "[C-AL11]데이터를 불러오지 못했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL12",
-			"messageTitle": "Not enough memory",
-			"messageText": "[C-AL12] Read failed due to insufficient memory.\nCheck your remaining memory.",
+			"messageTitle": "메모리 부족",
+			"messageText": "[C-AL12]메모리가 부족하여 불러오지 못했습니다.\n메모리 용량을 확인해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP100",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[C-NP100] Data inconsistency.\nRestart or submit Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[C-NP100]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP101",
-			"messageTitle": "Purchase cancelled",
-			"messageText": "[C-NP101] The purchase has been cancelled.",
+			"messageTitle": "구매 취소",
+			"messageText": "[C-NP101]구매가 취소되었습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP102",
-			"messageTitle": "Store error",
-			"messageText": "[C-NP102] An error has occurred in the store.\nPlease try again later.",
+			"messageTitle": "상점 오류",
+			"messageText": "[C-NP102]상점에서 오류가 발생했습니다.\n잠시 후에 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP103",
-			"messageTitle": "Store error",
-			"messageText": "[C-NP103] An error has occurred in the store.\nPlease try again later.",
+			"messageTitle": "상점 오류",
+			"messageText": "[C-NP103]상점에서 오류가 발생했습니다.\n잠시 후에 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP104",
-			"messageTitle": "Purchase error",
-			"messageText": "[C-NP104] Connection error while processing.\nRetry with better reception.",
+			"messageTitle": "구매 오류",
+			"messageText": "[C-NP104]구매 처리 중에 통신 오류가 발생했습니다.\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP105",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[C-NP105] Data inconsistency.\nRestart or submit Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[C-NP105]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP106",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[C-NP106] Data inconsistency.\nRestart or submit Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[C-NP106]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP107",
-			"messageTitle": "Already purchased",
-			"messageText": "[C-NP107] This item has already been purchased.",
+			"messageTitle": "중복 구매",
+			"messageText": "[C-NP107]이미 구매한 아이템입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP120",
-			"messageTitle": "Purchase error",
-			"messageText": "[C-NP120] Error occurred while processing.\nRestart if item is\nnot received.",
+			"messageTitle": "구매 오류",
+			"messageText": "[C-NP120]구매 처리 중에 오류가 발생했습니다.\n아이템이 정상적으로 반영되지 않은 경우에는\n게임을 다시 시작해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP199",
-			"messageTitle": "Unexpected error",
-			"messageText": "[C-NP199] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[C-NP199]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 증상이 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP200",
-			"messageTitle": "Device billing settings",
-			"messageText": "[C-NP200] Billing not enabled in device settings.\nCheck device settings.",
+			"messageTitle": "단말기의 과금 설정",
+			"messageText": "[C-NP200]단말기 설정상 과금 기능을 이용하실 수 없습니다.\n단말기의 설정을 확인해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP201",
-			"messageTitle": "Purchase timing error",
-			"messageText": "[C-NP201] Not logged in, or initialization failed.\nLog in or restart the app.",
+			"messageTitle": "구매 시 오류",
+			"messageText": "[C-NP201]로그인 오류로 초기화하지 못했습니다.\n다시 로그인하거나 게임을 다시 시작해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP202",
-			"messageTitle": "Purchase error",
-			"messageText": "[C-NP202] Error occurred while processing.\nRestart if item is\nnot received.",
+			"messageTitle": "구매 오류",
+			"messageText": "[C-NP202]구매 처리 중에 오류가 발생했습니다.\n아이템이 정상적으로 반영되지 않은 경우에는\n게임을 다시 시작해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP203",
-			"messageTitle": "Purchase error",
-			"messageText": "[C-NP203] Error occurred while processing.\nRestart if item is\nnot received.",
+			"messageTitle": "구매 오류",
+			"messageText": "[C-NP203]구매 처리 중에 오류가 발생했습니다.\n아이템이 정상적으로 반영되지 않은 경우에는\n게임을 다시 시작해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-SH01",
-			"messageTitle": "Purchase processing error",
-			"messageText": "[C-SH01] Connection error while processing.\nRetry with better reception.",
+			"messageTitle": "구매 처리 오류",
+			"messageText": "[C-SH01]구매 처리 중에 통신 오류가 발생했습니다.\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-SH02",
-			"messageTitle": "Purchase error",
-			"messageText": "[C-SH02] Failed to validate purchase.\nIf retrying does not work,\nrestart app.",
+			"messageTitle": "구매 오류",
+			"messageText": "[C-SH02]구매한 상품이 정상적으로 반영되지 않았습니다.\n다시 시도해도 해결되지 않는 경우에는\n게임을 다시 시작해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-SH03",
-			"messageTitle": "Registration failure",
-			"messageText": "[C-SH03] Failed to register age.\nCheck input and retry\nwith better reception.",
+			"messageTitle": "등록 실패",
+			"messageText": "[C-SH03]연령을 등록하지 못했습니다.\n입력한 내용을 확인하고\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-SH04",
-			"messageTitle": "Purchase amount limit reached",
-			"messageText": "[C-SH04] Monthly purchase limit reached.\nCannot purchase any more this month.",
+			"messageTitle": "구매 한도 초과",
+			"messageText": "[C-SH04]한 달에 구매할 수 있는 금액을 초과했습니다.\n이번 달엔 더 이상 과금할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
@@ -1976,78 +1976,78 @@
 		},
 		{
 			"messageCode": "C-SH06",
-			"messageTitle": "DigiStone limit exceeded",
-			"messageText": "[C-SH06] Cannot purchase more DigiStones.\nMax number of DigiStones is 9999.",
+			"messageTitle": "최대 보유 수 초과",
+			"messageText": "[C-SH06]디지스톤 보유 수가 최대치입니다.\n디지스톤은 최대 9,999개까지 보유할 수 있습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-SH07",
-			"messageTitle": "Restore DigiStones",
-			"messageText": "[C-SH07] Previously purchased DigiStones are now restored.",
+			"messageTitle": "디지스톤 반영",
+			"messageText": "[C-SH07]구매한 디지스톤이 반영되었습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-GA01",
-			"messageTitle": "Unexpected error",
-			"messageText": "[C-GA01] Unexpected error.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[C-GA01]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-US01",
-			"messageTitle": "Connection error",
-			"messageText": "[C-US01] Connection error.\nPlease retry in an area with good reception.",
+			"messageTitle": "통신 오류",
+			"messageText": "[C-US01]통신 오류가 발생했습니다.\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-US02",
-			"messageTitle": "The user does not exist.",
-			"messageText": "[C-US02] Error exists in input User Code.\nCheck User Code and try again.",
+			"messageTitle": "존재하지 않는 유저",
+			"messageText": "[C-US02]존재하지 않는 유저 코드입니다.\n유저 코드를 확인한 다음 다시 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-FA01",
-			"messageTitle": "Not enough Clusters",
-			"messageText": "[C-FA01] Not enough Clusters\nto build this.",
+			"messageTitle": "클러스터 부족",
+			"messageText": "[C-FA01]클러스터가 부족하여\n건설할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-FA02",
-			"messageTitle": "Digimon limit reached",
-			"messageText": "[C-FA02] Garden is too full\nto Capture more.\nEnhance or Release Digimon.",
+			"messageTitle": "최대 디지몬 보유 수 초과",
+			"messageText": "[C-FA02]가든의 보유 디지몬 수가 최대치에 도달하여\n캡처할 수 없습니다.\n강화 및 이별로 공간을 확보해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-TR01",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-TR01] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-TR01]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-TR02",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-TR02] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-TR02]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-TR03",
-			"messageTitle": "Data inconsistency",
-			"messageText": "[E-TR03] Data inconsistency.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-TR03]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GP01",
-			"messageTitle": "Error",
-			"messageText": "[E-GP01] An error occurred.\nRestart or submit an Inquiry\non the Title screen.",
+			"messageTitle": "오류",
+			"messageText": "[E-GP01]오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		}

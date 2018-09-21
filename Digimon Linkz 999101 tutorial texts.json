@@ -2,1807 +2,1807 @@
 	"tutorialNaviM": [
 		{
 			"tutorialNaviId": "1",
-			"message": "[ffffff]The place where all data ends up\nwhen it's no longer in use is...\n\nThe Digital World.[-]",
+			"message": "[ffffff]버려진 데이터의 종착지\n\n'디지털 월드'[-]",
 			"face": "0"
 		},
 		{
 			"tutorialNaviId": "2",
-			"message": "[ffffff]The lifeforms that dwell in this world are called...\n\nDigital Monsters.[-]",
+			"message": "[ffffff]그 세계에서 살아가는 생명체\n\n'디지털 몬스터'[-]",
 			"face": "0"
 		},
 		{
 			"tutorialNaviId": "3",
-			"message": "[ffffff]The app that links the Digital World,\nand the real world,\nis known as Digimon Links.[-]",
+			"message": "[ffffff]그리고 디지털 월드와 현실을\n연결해주는 앱\n '디지몬 링크즈'.[-]",
 			"face": "0"
 		},
 		{
 			"tutorialNaviId": "4",
-			"message": "[ffffff]And now, everything is connected...[-]",
+			"message": "[ffffff]바로 오늘, 모든 것이 이어진다….[-]",
 			"face": "0"
 		},
 		{
 			"tutorialNaviId": "5",
-			"message": "Welcome to [ffd700]Digimon Links[-]!\nI'm your friendly guide, Hina.",
+			"message": "[ffd700]디지몬 링크즈[-]에 오신 것을\n환영합니다.\n전 내비게이터 히나라고 해요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "6",
-			"message": "I'm so excited to invite you to the [ffd700]Digital\nWorld[-], the world where Digimon live!",
+			"message": "지금부터 당신을\n디지몬들이 사는 세계인\n[ffd700]디지털 월드[-]로 안내해드리겠습니다.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "7",
-			"message": "Let's register you as a user!\nPlease input your name.",
+			"message": "그러려면 우선\n유저 등록을 해야 하니\n이름을 입력해주세요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "8",
-			"message": "$USER_INPUT_NAME$? I see!\nI'll get you registered right away.",
+			"message": "$USER_INPUT_NAME$ 님이시군요.\n등록되었습니다.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "9",
-			"message": "All done! Now, let's get going to the Digital World!",
+			"message": "자, 그럼 저와 함께\n디지털 월드로 출발해볼까요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "10",
-			"message": "You'll be able to see it any minute now!\nThe Digital World, where Digimon live!",
+			"message": "이제 곧 디지몬이 사는\n디지털 월드가 나타날 거예요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "11",
-			"message": "Welcome to the Digital World!",
+			"message": "디지털 월드에 오신 걸 환영합니다!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "12",
-			"message": "This is the world where Digimon live,\nso everything here is composed of data.",
+			"message": "이곳엔 디지몬들이 살아요.\n모든 것이 데이터로 구성된 세계죠.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "13",
-			"message": "Actually, it has continents and oceans,\njust like the real world!",
+			"message": "게다가 현실 세계랑 똑같이\n대륙과 바다도 있어요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "14",
-			"message": "W-What...?! What's going on?!\nT-The Digital World is...",
+			"message": "꺄, 꺄악…?!\n갑자기 무슨 일일까요?!\n디, 디지털 월드가….",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "15",
-			"message": "This... This is awful! Something\nmade a tremendous noise and the\nDigital World started to fragment!",
+			"message": "…이, 이럴 수가! 갑자기 발생한\n대규모 노이즈 때문에 디지털 월드\n각지에서 균열이 일어나고 있어요!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "16",
-			"message": "I've got to find some way to stop the fragmentation!",
+			"message": "…무슨 수를 써서라도\n막아야만 해요…!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "17",
-			"message": "Nngh... It's no use! It just won't stop!",
+			"message": "윽… 안돼…! 멈추지 않아요…!",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "18",
-			"message": "I'm really sorry, but I need to borrow your\ndevice to use as a quarantine zone!",
+			"message": "…죄송해요! 소지하신 단말기를\n격리영역으로 이용하겠습니다!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "19",
-			"message": "Backing up Digimon Links...\nReconfiguring program...compiling...\nYes! It worked!",
+			"message": "디지몬 링크즈를 백업…\n프로그램 재구성… 컴파일…\n좋아, 성공했어요…!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "20",
-			"message": "Now I'll back up the Farm data\nfrom the Digital World to this device,\nconnected to Digimon Links!",
+			"message": "현재 디지몬 링크즈에 접속한\n단말기에 디지털 월드의\n농장 데이터를 백업하겠습니다!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "21",
-			"message": "Activate!!",
+			"message": "실행!!!",
 			"face": "8"
 		},
 		{
 			"tutorialNaviId": "22",
-			"message": "...lease...",
+			"message": "…니, 님.",
 			"face": "0"
 		},
 		{
 			"tutorialNaviId": "23",
-			"message": "...n you...hear me...?",
+			"message": "…드… 들리… 요….",
 			"face": "0"
 		},
 		{
 			"tutorialNaviId": "24",
-			"message": "...$USER_INPUT_NAME$!\nPlease, answer me!",
+			"message": "…$USER_INPUT_NAME$ 님!\n제 말이 들리시나요?",
 			"face": "0"
 		},
 		{
 			"tutorialNaviId": "25",
-			"message": "Thank goodness! It looks like the signal has been restored!",
+			"message": "…무사하셨군요!\n정말 다행이다!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "26",
-			"message": "Phew...and it looks like I managed to\nsuccessfully back up the Farm...",
+			"message": "휴우… 불행 중 다행으로\n농장 백업엔 성공한 모양이에요….",
 			"face": "6"
 		},
 		{
 			"tutorialNaviId": "27",
-			"message": "Oh! And your Digimon are safe, too!\nThank goodness!",
+			"message": "…앗! 동료 디지몬도 무사했군요!\n이제야 안심이 되네요….",
 			"face": "6"
 		},
 		{
 			"tutorialNaviId": "28",
-			"message": "That strange phenomenon just now...\nAll the data in the Digital World\ndisintegrated into fragmented [ffd700]Clusters[-].",
+			"message": "그런데 아까 일어났던 이변으로…\n디지털 월드의 데이터가 전부\n[ffd700][클러스터][-]로 분해되는 바람에….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "29",
-			"message": "It looks like the Digital World is\non its way to deletion...",
+			"message": "디지털 월드가 사라질 위기에\n처하고 말았어요….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "30",
-			"message": "If we want to save it, we'll have\nto work together with the Digimon\nto gather lots of [ffd700]Clusters[-].",
+			"message": "이 위기를 막으려면 디지몬들과 함께\n[ffd700][클러스터][-]를 최대한 많이\n모아야만 해요.",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "31",
-			"message": "Let's train some Digimon and join forces\nwith them to gather those [ffd700]Clusters[-]!",
+			"message": "그러니 디지몬들을\n육성하고 힘을 합쳐\n같이 [ffd700][클러스터][-]를 모아요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "32",
-			"message": "It'll be okay!\nI'll always be here to help you out!",
+			"message": "걱정 마세요!\n저도 최선을 다해 도와드릴게요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "33",
-			"message": "Now, let's make this [ffd700]Farm[-]\nour home base for our\nmission to save the Digital World!",
+			"message": "그럼 이 '[ffd700]농장[-]'을 거점 삼아\n디지털 월드를 구하기 위한\n여정을 시작해볼까요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "34",
-			"message": "The [ffd700]Farm[-] is primarily a place\nfor raising and training Digimon.",
+			"message": "'[ffd700]농장[-]'의 주요 기능은\n디지몬의 육성이에요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "35",
-			"message": "There are lots of different [ffd700]Facilities[-]\nto help you train your Digimon, but...",
+			"message": "디지몬 육성을 돕는\n다양한 '[ffd700]시설[-]'이 있는데….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "36",
-			"message": "You don't have a Digimon to\nbe your partner yet, do you?",
+			"message": "아직  파트너 디지몬이\n없으시네요.",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "37",
-			"message": "First, let's summon a Digimon\nusing a [ffd700]Link Capture[-]!",
+			"message": "우선 '[ffd700]링크 캡처[-]'로 디지몬을\n호출하죠!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "38",
-			"message": "I'll give you the [ffd700]Link Points[-]\nyou'll need as a present.",
+			"message": "필요한 '[ffd700]링크 포인트[-]'는\n제가 선물해드릴게요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "39",
-			"message": "Here, you can perform [ffd700]Captures[-]\nto summon Digimon.",
+			"message": "여기에선 디지몬을 불러내는\n'[ffd700]캡처[-]'를 할 수 있어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "40",
-			"message": "For now, let's use a [ffd700]Link Capture[-]\nto summon an In-Training Digimon!",
+			"message": "이번엔 '[ffd700]링크 캡처[-]'로\n[ffd700]유년기[-] 디지몬을 호출해봐요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "41",
-			"message": "You can check here to see how many\nLink Points you have right now.",
+			"message": "현재 보유한 링크 포인트는\n이곳에서 확인할 수 있어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "42",
-			"message": "The Link Points I just gave you\nare currently displayed, see?",
+			"message": "아까 제가 드린 링크 포인트가\n표시되고 있네요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "43",
-			"message": "Now, please tap [ffd700]Capture[-].",
+			"message": "그럼 '[ffd700]캡처[-]'를\n터치해보세요.",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "44",
-			"message": "You've made friends with a new Digimon!",
+			"message": "새로운 디지몬이 동료가 되었어요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "45",
-			"message": "Now that you've got a Digimon friend,\nlet's train them in a [ffd700]Facility[-]!",
+			"message": "디지몬을 동료로 맞이했으니\n이번에는 '[ffd700]시설[-]'에서 육성해봐요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "46",
-			"message": "Look at this Facility, please.\nThis is the [ffd700]Lab[-].",
+			"message": "이 시설은\n'[ffd700]연구소[-]'라고 해요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "47",
-			"message": "It's a Facility for raising [ffd700]In-Training[-] Digimon\nand training stronger Digimon.",
+			"message": "[ffd700]유년기[-] 디지몬과 강력한 디지몬을\n육성할 수 있는 시설이죠.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "48",
-			"message": "Now, let's go over the features of the [ffd700]Garden[-]\nwhere you can raise [ffd700]In-Training[-] Digimon.",
+			"message": "이번에는 [ffd700]유년기[-] 디지몬을\n육성하는 시설인\n'[ffd700]가든[-]'을 소개해드릴게요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "49",
-			"message": "Just now, I sent the Digimon you\nbefriended with that [ffd700]Link Capture[-]\nto your [ffd700]Garden[-].",
+			"message": "방금 '[ffd700]링크 캡처[-]'로\n동료로 맞이한 디지몬이\n'[ffd700]가든[-]'에 맡겨져 있을 거예요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "50",
-			"message": "Let's go see how it's doing!",
+			"message": "우리 함께 살펴보러 가요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "51",
-			"message": "This is your [ffd700]Garden[-]. There aren't\nany Digimon being raised here yet.",
+			"message": "여기가 바로 '[ffd700]가든[-]'이에요.\n지금은 아직 육성 중인\n디지몬이 없지만요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "52",
-			"message": "To start raising one, let's select a Digimon\nfrom your [ffd700]List[-] and transfer it here.",
+			"message": "그럼 '[ffd700]목록[-]'에서\n육성할 디지몬을 골라\n여기로 옮겨보세요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "53",
-			"message": "Please tap the Digimon's icon.",
+			"message": "디지몬 아이콘을 터치해주세요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "54",
-			"message": "You transferred the Digimon to your Garden!",
+			"message": "디지몬을 가든으로 옮겼습니다!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "55",
-			"message": "As time passes, the Digimon here\nwill grow and Digivolve.",
+			"message": "디지몬들이 이곳에서 시간을\n보내면 성장하고 진화해요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "56",
-			"message": "It usually takes a long time, but\nthis time, let's use [ffd700]DigiStones[-]\nto Digivolve it right away!",
+			"message": "원래는 시간이 소요되지만,\n이번에는 특별히 '[ffd700]디지스톤[-]'으로\n단숨에 진화시켜보세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "57",
-			"message": "Your Digimon Digivolved into a [ffd700]Rookie[-]!\n",
+			"message": "[ffd700]성장기[-] 디지몬으로 진화했네요!\n",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "58",
-			"message": "I think you guys are ready to\nface the [ffd700]dangers[-] of going [ffd700]Exploring[-] now.",
+			"message": "지금이라면 '[ffd700]위험[-]'한\n'[ffd700]탐색[-]'도 문제없을 것 같네요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "59",
-			"message": "Let's go gather up that scattered data!",
+			"message": "흩어진 데이터를 모으러 가요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "60",
-			"message": "Something strange is happening near the\nFarm! Let's go check it out!",
+			"message": "농장 주변에서\n긴급 사태가 발생했어요!\n무슨 일인지 확인하러 가요…!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "61",
-			"message": "It looks like something strange has\nhappened to those Digimon due to\nthe effects of the fragmentation...",
+			"message": "균열 때문인지\n디지몬들의 상태가 이상해요….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "62",
-			"message": "We've got to [ffd700]battle[-] them to\nput a stop to their rampage!",
+			"message": "'[ffd700]배틀[-]'로 폭주한 디지몬들을\n막아주세요…!",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "63",
-			"message": "Now, let's study the basics of [ffd700]battle[-].",
+			"message": "그럼 이번에는 '[ffd700]배틀[-]'의\n기본을 가르쳐드릴게요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "64",
-			"message": "A [ffd700]battle[-] is a turn-based conflict\nfought with a party of three Digimon.",
+			"message": "'[ffd700]배틀[-]'은 디지몬 3마리로 구성된\n파티로 싸우는 턴제 방식 전투예요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "65",
-			"message": "This is your current [ffd700]Party[-].",
+			"message": "이것이 당신의 현재 '[ffd700]파티[-]'입니다.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "66",
-			"message": "You can tap and hold a Digimon's icon\nto view its status, so make sure to check that out later!",
+			"message": "아이콘을 길게 누르면\n스테이터스를 확인할 수 있으니\n나중에 꼭 한번 시험해보세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "67",
-			"message": "Next, I'll explain commands.",
+			"message": "이번에는 커맨드에 대해\n설명해드릴게요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "68",
-			"message": "Next, I'll explain about status.",
+			"message": "이번에는 스테이터스에 대해\n설명해드릴게요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "69",
-			"message": "First, let's try a Normal Attack!",
+			"message": "우선 통상 공격을 해봐요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "70",
-			"message": "After tapping the [ffd700]ATTACK[-] button, \nyou can then activate your attack \nby tapping [ffd700]GO![-].",
+			"message": "'[ffd700]ATTACK[-]'을 터치한 다음\n'[ffd700]실행[-]'을 터치하면\n공격이 발동돼요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "71",
-			"message": "Wow, you really did some damage!\nWhen you've reduced all enemies' [ffd700]HP[-] to [ffd700]0[-], you [ffd700]win the battle[-]!",
+			"message": "대미지를 입혔어요!\n모든 적의 [ffd700]HP[-]를 [ffd700]0[-]으로 만들면\n[ffd700]배틀 승리[-]예요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "72",
-			"message": "Next, let's try activating some Skills!",
+			"message": "이번에는 기술을 발동시켜보세요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "73",
-			"message": "First, we have to decide which Skill,\nso let's check out their effects.",
+			"message": "우선 어떤 기술인지\n그 효과를 확인해볼까요?",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "74",
-			"message": "Please [ffd700]tap and hold[-] a Skill button.",
+			"message": "기술 버튼을 '[ffd700]길게 눌러[-]'주세요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "75",
-			"message": "This displays information about the Skill!",
+			"message": "기술의 상세한 정보가 표시되었네요.",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "76",
-			"message": "When you want to check the\npower and effects of a Skill\n[ffd700]tap and hold[-] the Skill button.",
+			"message": "기술의 위력이나 효과가 궁금할 때는\n기술 버튼을 '[ffd700]길게 눌러[-]'보세요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "77",
-			"message": "Now, let's try activating a Skill!",
+			"message": "그럼 이제 기술을 발동시켜보세요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "78",
-			"message": "Huh?! They took out Tentomon?!",
+			"message": "앗?! 텐토몬이 쓰러졌어요!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "79",
-			"message": "Tentomon's icon turned gray, right?\nTry tapping it.",
+			"message": "텐토몬의 아이콘이 회색으로\n변했네요. 터치해보세요.",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "80",
-			"message": "You can revive Digimon at the start of the\nnext [ffd700]Round[-] by using DigiStones!",
+			"message": "디지스톤을 사용하면 디지몬을\n다음 '[ffd700]라운드[-]'에 부활시킬 수\n있어요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "81",
-			"message": "Please use some of my DigiStones\nfor now!",
+			"message": "이번에는 제 디지스톤을 드릴 테니,\n직접 부활시켜보세요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "82",
-			"message": "Let's try harder next time so they won't beat us! Time for another attack!",
+			"message": "또 전투 불능이 되지 않게 주의하면서\n다시 한번 공격해보세요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "83",
-			"message": "Now you've got it!\nGo ahead and try attacking on your own!",
+			"message": "아주 잘 하셨어요!\n이제부터는 자유롭게 싸워보세요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "84",
-			"message": "You did it!\nYou fought in perfect harmony with your Digimon!",
+			"message": "훌륭해요!!\n디지몬들과 호흡이 척척 맞으시네요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "85",
-			"message": "When you win a battle,\nyou can earn [ffd700]EXP[-] and [ffd700]Digivolution fuel[-].",
+			"message": "배틀에 승리하면\n'[ffd700]EXP[-]'와 '[ffd700]진화 재료[-]'를\n얻을 수 있어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "86",
-			"message": "When you earn enough EXP to [ffd700]max out[-]\nyour Digimon's level, you can Digivolve\nthem with fuel and Clusters!",
+			"message": "레벨이 [ffd700]MAX[-]가 된 디지몬은\n진화 재료와 클러스터를 사용해\n진화시킬 수도 있고요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "87",
-			"message": "Great job!\nYou and your Digimon make a\npowerful team!",
+			"message": "수고하셨습니다!\n디지몬들과 연계하는 모습이 눈부신\n정말 멋진 배틀이었어요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "88",
-			"message": "Lastly, here are some DigiStones\nas a thank-you present!",
+			"message": "답례로 디지스톤을 선물해드릴게요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "89",
-			"message": "You can also use DigiStones\nto capture Digimon!",
+			"message": "디지스톤으로도 디지몬을\n캡처할 수 있답니다!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "90",
-			"message": "Let's try a [ffd700]Rare Capture[-].",
+			"message": "이번에는 '[ffd700]레어 캡처[-]'입니다.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "91",
-			"message": "With [ffd700]Rare Captures[-], you can summon\nmore powerful Digimon above Rookie level!",
+			"message": "'[ffd700]레어 캡처[-]'에서는 더욱 강한\n성장기 이상의 디지몬을\n호출할 수 있어요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "92",
-			"message": "Now, let's capture a Digimon!",
+			"message": "그럼 캡처해 보세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "93",
-			"message": "You've made friends with a powerful new Digimon!",
+			"message": "강력한 디지몬이\n새 동료가 되었네요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "94",
-			"message": "I think that pretty much covers the basics\nyou'll need to know to restore the Digital World.",
+			"message": "이것으로 디지털 월드를 복구하기 위한\n기본적인 설명을 마치겠습니다.",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "95",
-			"message": "Let's join forces with your Digimon\nand save the Digital World!",
+			"message": "저도 계속해서 도와드릴 테니\n디지몬들과 힘을 합쳐\n디지털 월드를 구하자고요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "96",
-			"message": "Last but not least, let's check out\nhow to train Digimon!",
+			"message": "그럼 마지막으로 디지몬 육성법을\n가르쳐드릴게요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "97",
-			"message": "Huh?! Oh, no! If this keeps up,\nit'll break our connection!\nIs this another result of the fragmentation?",
+			"message": "…앗! 큰일이에요! 이 상태가 계속되면\n접속이 끊어질 거예요…!\n이것도 균열 때문일까요…?",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "98",
-			"message": "For some reason, the link between\nthe Digital World and your world has weakened...",
+			"message": "아무래도 양쪽 세계가 아직\n완전하게 연결되지 않은 모양이에요….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "99",
-			"message": "I'm going to hurry up and install the\nnecessary data! Please wait a minute!",
+			"message": "지금 당장 필요한\n데이터를 인스톨할 테니,\n잠시만 기다려주실래요?",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "100",
-			"message": "It'll be okay!\nI'm always prepared, after all!",
+			"message": "저만 믿으세요!\n만반의 준비를 해둘게요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "101",
-			"message": "I'll see you when the install is finished!\nJust hold on for a minute, please!",
+			"message": "그럼 인스톨이 끝나면\n다시 만나요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "102",
-			"message": "When Digimon become [ffd700]Rookies[-],\nthey can participate in battle.",
+			"message": "디지몬은 [ffd700]성장기[-]가 되면\n싸울 수 있어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "103",
-			"message": "Here, have two more party members\nas a present from me!",
+			"message": "나머지 파티 멤버 2마리는\n제가 드리는 선물이에요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "104",
-			"message": "When they Digivolve into [ffd700]Rookies[-] in your Garden,\nDigimon are transferred to your [ffd700]House[-].",
+			"message": "가든에서 [ffd700]성장기[-]로 진화한\n디지몬은 [ffd700]하우스[-]로 보내져요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "105",
-			"message": "Remember: DigiEggs and In-Training Digimon stay in the Garden,\nRookies and up stay in the House!",
+			"message": "디지몬알과 유년기는 가든,\n성장기 이후는 하우스라고\n기억해두시면 편해요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "106",
-			"message": "If you want to help your Digimon grow\nquickly, [ffd700]Meat[-] is the easiest option.",
+			"message": "디지몬을 간단하고 빠르게\n성장시키고 싶을 때는\n[ffd700]고기[-]가 최고죠.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "107",
-			"message": "You can harvest Meat from a [ffd700]Meat Field[-]!",
+			"message": "고기는 [ffd700]고기 밭[-]에서 수확해요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "108",
-			"message": "Your Meat Field is under construction,\nbut please [ffd700]tap[-] the Facility to put on the finishing touches.",
+			"message": "건설이 완료된 고기 밭을 [ffd700]터치[-]해\n마무리를 지어주세요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "109",
-			"message": "Your Meat Field is complete!\nNow let's try harvesting some Meat.",
+			"message": "고기 밭이 완성되었군요!\n그럼 이번에는 수확을 해볼까요?",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "110",
-			"message": "You did it!\nYou can harvest more Meat as time passes. Be sure to harvest it frequently!",
+			"message": "수확이 완료되었습니다!\n고기는 시간이 지나면 다시 자라니\n틈틈이 수확하세요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "111",
-			"message": "You can give your harvested Meat\nto your Digimon by [ffd700]Feeding[-] them.",
+			"message": "수확한 고기는 [ffd700]식사[-]를 통해\n디지몬에게 줄 수 있답니다.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "112",
-			"message": "When Feeding your Digimon, you can\nearn EXP by giving them Meat.",
+			"message": "'식사'로 디지몬에게 고기를 주면\nEXP를 얻어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "113",
-			"message": "If you give them lots of Meat, you'll\nbe able to level them up!",
+			"message": "고기를 많이 주면 디지몬의\n레벨을 올릴 수도 있답니다!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1001",
-			"message": "This is where you can raise the level of\nyour Digimon and [ffd700]Enhance[-] them!",
+			"message": "여기에선 '[ffd700]강화[-]'로\n디지몬의 레벨을 올릴 수 있어요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1002",
-			"message": "Do a lot of [ffd700]Enhancement[-]\nto make your Digimon stronger!",
+			"message": "팍팍 '[ffd700]강화[-]'해서\n디지몬을 더욱 강하게 키워보세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1003",
-			"message": "This is where you can\n[ffd700]Enhance[-] your Digimon!",
+			"message": "여기에선 디지몬을\n'[ffd700]진화[-]'시킬 수 있어요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1004",
-			"message": "When you [ffd700]Enhance[-] a Digimon,\nyou can give a boost to\nthat Digimon's status!",
+			"message": "디지몬을 '[ffd700]진화[-]'시키면\n스테이터스도\n함께 상승한답니다!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1005",
-			"message": "In [ffd700]Party Formation[-], you can swap out the party of Digimon who join you on Quests!",
+			"message": "'[ffd700]파티 편성[-]'에서는 퀘스트에\n데려갈 멤버를 변경할 수 있어요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1006",
-			"message": "I'll bet you could gain the upper hand in battle\nby building a party with the right Skills and Resistances!",
+			"message": "디지몬의 기술과\n내성을 고려해 편성하면\n배틀이 한층 더 쉬워질 거예요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1007",
-			"message": "You can use [ffd700]Legacies[-] to pass down\nLegacy Skills from Digimon to Digimon!",
+			"message": "'[ffd700]계승[-]'으로\n다른 디지몬의 계승기를\n전수받을 수 있어요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1008",
-			"message": "Turn the tide of battle by passing down\nLegacy Skills that restore or support your party\nor are strong against Bosses.",
+			"message": "회복이나 보조, 보스에게 효과적인\n속성의 계승기를 배워두면\n배틀을 유리하게 이끌 수 있답니다.",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1009",
-			"message": "With [ffd700]Research[-], you can cross [ffd700]two Megas[-]\nto create a [ffd700]DigiEgg[-].",
+			"message": "[ffd700]궁극체끼리[-] 조합해 '[ffd700]연구[-]'를 하면\n'[ffd700]디지몬알[-]'이 탄생해요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1010",
-			"message": "The [ffd700]DigiEgg[-] you create\nwill inherit the [ffd700]Ability[-], or strongest ability,\nof the Base Digimon!",
+			"message": "그리고 '[ffd700]디지몬알[-]'은\n베이스 디지몬의 우수한 능력,\n즉 '[ffd700]재능[-]'을 물려받아요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1011",
-			"message": "When you conduct Research after [ffd700]maxing out[-] your Friendship,\nthe Base Digimon will be [ffd700]Awakened[-]!",
+			"message": "우정도가 [ffd700]최대[-]인 상태에서 연구하면\n베이스 디지몬이 '[ffd700]각성[-]'해요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1015",
-			"message": "Before you go on a Quest,\nI'll explain about the [ffd700]Resistances[-] of different Digimon!",
+			"message": "퀘스트를 시작하기 전에\n디지몬의 '[ffd700]내성[-]'에 대해\n설명해드릴게요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1016",
-			"message": "To gain the upper hand in battle,\nyou'll need a really good grasp of this concept!",
+			"message": "배틀을 유리하게 이끌려면\n확실히 파악해두시는 편이 좋거든요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1017",
-			"message": "You can change your User Name here.\nYour User Code is used to search for Friends\nand transfer your game.",
+			"message": "여기에선 유저 이름을 변경할 수\n있어요. 유저 코드는 친구 검색이나\n데이터를 이전할 때 써요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1018",
-			"message": "The leader of your Favorite party\nis also displayed here.",
+			"message": "또한, 여기에는 주력 파티로 등록한\n파티의 리더가 표시된답니다.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1019",
-			"message": "With [ffd700]Resistance Upgrades[-],you can\ncombine Digimon with the same name\nto strengthen their Resistance!",
+			"message": "'[ffd700]내성 변화[-]'에서는\n이름이 같은 디지몬을 조합해\n내성을 하나 추가할 수 있답니다!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1020",
-			"message": "The upgraded Resistance is random\nso you can change the upgraded Resistance\nevery time you Upgrade!",
+			"message": "추가되는 내성은 랜덤이며,\n추가 내성은 내성 변화를 통해\n바꿀 수도 있어요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1021",
-			"message": "Beef up the right Resistances for the boss\nyou want to beat to gain the upper hand in battle!",
+			"message": "쓰러뜨리고 싶은 보스에 맞춰\n추가 내성을 바꾼 다음\n배틀을 유리하게 이끌어보세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1022",
-			"message": "Last but not least! The Digimon\nselected in your [ffd700]Favorite[-] party\nwill appear on your Farm!",
+			"message": "그리고 마지막으로!\n'[ffd700]주력 파티[-]'에 등록한 파티는\n농장에도 등장한답니다!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1023",
-			"message": "This is where you can purchase [ffd700]Facilities[-].",
+			"message": "여기에선 '[ffd700]시설[-]'을\n구매할 수 있어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1024",
-			"message": "Let's construct Facilities that'll help train your\nDigimon and plan an optimal training regimen!",
+			"message": "다양한 시설을 건설하여 더욱\n효율적으로 디지몬을 육성해보세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1025",
-			"message": "When [ffd700]Feeding[-] your Digimon, you can\nearn EXP by giving them Meat.",
+			"message": "'[ffd700]식사[-]'로 디지몬에게 고기를 주면\nEXP를 얻어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1026",
-			"message": "If you give them lots of Meat, you'll\nbe able to level them up!",
+			"message": "고기를 많이 주면 디지몬의\n레벨을 올릴 수도 있답니다!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1027",
-			"message": "You can harvest meat from your [ffd700]Meat Fields[-].\nLet's try harvesting some to give to your Digimon!",
+			"message": "고기는 '[ffd700]고기 밭[-]'에서\n수확할 수 있으니\n디지몬에게 줘보세요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1028",
-			"message": "When you don't have enough Digivolution fuel, try going out Exploring to gather more!",
+			"message": "진화 재료가 부족할 때는\n탐색을 통해 모아보세요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1029",
-			"message": "I restored the DigiChat feature that lets you communicate with other users!",
+			"message": "다른 유저와 통신을 할 수 있는\n'디지채팅'이 복구되었습니다!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1030",
-			"message": "There are other users besides us who are fighting back against this crisis in the Digital World.",
+			"message": "실은 우리 말고도 \"디지털 월드의\n위기\"에 맞서 싸우는\n다른 유저분들이 계세요.",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "1031",
-			"message": "Please use DigiChat to exchange useful information like strategies to stop all these enraged Digimon!",
+			"message": "폭주한 디지몬들에 대한\n대응책이나 유용한 정보를 공유할 때\n활용해보세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1032",
-			"message": "Thanks to you, the Digital World is being restored and the Colosseum has been unlocked! Go and test your strength!",
+			"message": "여러분의 활약 덕분에 디지몬들이\n실력을 겨루는 시설인\n'콜로세움'이 해금되었어요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1033",
-			"message": "You can make the most of the Colosseum by facing off with other users and Digimon to polish your skills.",
+			"message": "이 '콜로세움'에서는 다른 유저의\n디지몬들과 대전하며\n실력을 갈고닦을 수 있어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1034",
-			"message": "Let's all have fun getting stronger together in the Colosseum!",
+			"message": "'콜로세움'을 잘 활용해서\n다 함께 힘을 길러보세요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1035",
-			"message": "You can use Chip Installation to install the\nChips in your possession to various Digimon.",
+			"message": "칩 장착에서는 보유 중인 칩을\n디지몬에게 달아줄 수 있어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1036",
-			"message": "By installing the right Chips for your strategy, you can make a big difference in battle!",
+			"message": "전략에 맞춰 장착하면\n배틀을 아주 유리하게\n이끌 수 있을 거예요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1037",
-			"message": "It's not just about installing Chips, either!\nYou can also expand the number of installation slots!",
+			"message": "그리고 칩 장착 말고도\n장착 가능한 칩의 수를\n늘릴 수 있답니다!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1038",
-			"message": "You can increase the number of chips that can be installed by Digivolving Digimon and raising their awakening level through research!",
+			"message": "디지몬을 진화시키거나 연구로 각성치를 올리면 장착 가능한 칩 수가 늘어납니다!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "1039",
-			"message": "Also, it can be increased even more by using the Expansion Patch. Try using them for your Digimon when you get them.",
+			"message": "또한, 아이템 ‘확장 패치’를 사용해도 확장할 수 있습니다. 획득하면 디지몬에게 사용해 보세요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1040",
-			"message": "Enhancing Chips can powerfully boost their effects!",
+			"message": "칩은 강화하면\n효과가 높아져요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1041",
-			"message": "Enhance your Chips and use them to make your favorite Digimon even stronger!",
+			"message": "칩을 강화해서 좋아하는 디지몬을\n육성해보세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1042",
-			"message": "A [ffd700]Chip[-] is an item that has various effects when installed to a Digimon.",
+			"message": "[ffd700]칩[-]은 디지몬에게 장착하면 다양한\n효과를 발휘하는 아이템입니다.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1043",
-			"message": "This is where you can check which Chips you currently have.",
+			"message": "여기에서는 보유 중인 칩을\n확인할 수 있어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1044",
-			"message": "Check out the effects of each Chip, and consider different strategies for using it!",
+			"message": "칩의 효과를 확인하고\n다양한 전략을 세워보세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1045",
-			"message": "All sorts of Quests are displayed here! Some are always available and some are limited-time-only.",
+			"message": "여기에는 언제든지 즐길 수 있는\n퀘스트는 물론, 기간 한정 같이 특별한\n퀘스트들이 표시돼요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1046",
-			"message": "Your Digimon are still growing so I recommend doing Quests to earn useful items for training them!",
+			"message": "당신의 디지몬들은 아직 성장 중이니\n육성에 도움이 되는 퀘스트에\n도전해보는 건 어떨까요?",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1047",
-			"message": "First, let's try a [ffd700]Normal Quest[-] which helps you gain EXP and Friendship and a [ffd700]Daily Quest[-] which helps you gain Digivolution fuel!",
+			"message": "EXP와 우정도는 '[ffd700]통상 퀘스트[-]',\n진화 재료라면 '[ffd700]요일 퀘스트[-]'를\n추천해드려요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1048",
-			"message": "The [ffd700]Advent Quests[-] that are currently open are displayed here.",
+			"message": "여기에는 현재 등장 중인\n'[ffd700]강림 퀘스트[-]'가 표시됩니다.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1049",
-			"message": "In these Quests, you can gather fuel to Digivolve into powerful Digimon called [ffd700]Megas[-]!",
+			"message": "'[ffd700]궁극체[-]'라는 강력한 디지몬으로\n진화할 때 필요한 재료를\n얻을 수 있는 퀘스트죠!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1050",
-			"message": "However, my data indicates that you'll face very powerful Digimon in these Quests...",
+			"message": "하지만 정보에 따르면 아주 강한\n디지몬들이 등장한다고 해요….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "1051",
-			"message": "If you haven't cleared the [ffd700]Intro Advent Quests[-] or Digivolved a Mega yet, I recommend starting there!",
+			"message": "그러니 아직 '궁극체'가 없다면\n우선 '[ffd700]강림 퀘스트 입문[-]'에\n도전해보세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1052",
-			"message": "This is the area for [ffd700]Intro Advent Quests[-].",
+			"message": "여기는 '[ffd700]강림 퀘스트 입문[-]'\n에어리어입니다.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1053",
-			"message": "Like [ffd700]Advent Quests[-], these are Quests that help you gain the fuel you need to Digivolve your Digimon into their powerful [ffd700]Mega[-] forms. However...",
+			"message": "'[ffd700]강림 퀘스트[-]'처럼 '[ffd700]궁극체[-]'라는\n강력한 디지몬으로 진화할 때 필요한\n재료를 얻을 수 있는 퀘스트인데…",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1054",
-			"message": "Since they're \"Intro\" Advent Quests, they feature less powerful Digimon and are easier to clear!",
+			"message": "일반 '강림 퀘스트'보다는\n약한 디지몬들이 등장하거든요.",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1055",
-			"message": "If you've gotten as far as Digivolving an [ffd700]Ultimate[-], but Advent Quests are still too hard, try an Intro first!",
+			"message": "어찌어찌 '[ffd700]완전체[-]'는 만들었지만,\n'강림 퀘스트'가 너무 어렵다!\n싶을 땐, '입문'에 도전해보세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1056",
-			"message": "I've got a few words of helpful advice noted down for lots of these Quests, so please check them out!",
+			"message": "각 퀘스트마다\n\"바로 이거예요. 한마디 힌트!\"를\n준비해두었으니 참고해주시고요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1057",
-			"message": "This is where you can earn the fuel you'll need to Digivolve your Digimon.",
+			"message": "여기에선 디지몬 진화에 필요한\n진화 재료를 얻을 수 있어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1058",
-			"message": "It may be called \"Digivolution fuel,\" but it has lots of other uses too, so you'll need plenty of it!",
+			"message": "진화 재료는 진화 외에도\n다양한 용도로 쓰이기 때문에\n많이 필요할 거예요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1059",
-			"message": "If you find yourself short on fuel, give one of these [ffd700]Daily Quests[-] a try!",
+			"message": "진화 재료가 부족하다! 그럴 때는\n이 '[ffd700]요일 퀘스트[-]'에 도전해보세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1060",
-			"message": "Congratulations!\nYou've cleared all the Beginner Missions!",
+			"message": "축하합니다!\n모든 '초보자 미션'을\n클리어하셨군요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1061",
-			"message": "You and your Digimon show so much promise! The way you work together is really touching.",
+			"message": "한층 더 듬직해진 당신과 디지몬들을\n보고 있자니 가슴이 벅차네요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1062",
-			"message": "Well, I think that about covers the basics\nof training and battle!",
+			"message": "이제 육성과 배틀 요령은\n확실히 파악하신 모양이군요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1063",
-			"message": "I've taught you all the pointers I can.Now the student has become the master, haha!",
+			"message": "더는 가르쳐드릴 게 없을 정도네요.\n후훗, 졸업 축하드려요.",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1064",
-			"message": "I guess all that's left to say is... Let's work hard together to restore the Digital World!",
+			"message": "자, 그럼…\n우리 함께 힘내서\n디지털 월드를 복구해요!!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1065",
-			"message": "Guess what?! I've put together some new Missions for you!",
+			"message": "이번에는 짠~!\n새로운 미션을 준비해봤습니다!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1066",
-			"message": "I call them \"[ffd700]Beginner Missions[-]\"!",
+			"message": "이름하여 '[ffd700]초보자 미션[-]'!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1067",
-			"message": "I know what you're thinking... You don't consider yourself a \"beginner\" anymore, right?",
+			"message": "이미 초보자를 벗어나셨다고\n생각하실지도 모르겠지만….",
 			"face": "6"
 		},
 		{
 			"tutorialNaviId": "1068",
-			"message": "But, look! If you clear them, you'll earn rewards\njust like the other Missions you've done!",
+			"message": "놀랍게도! 이번 미션 또한\n클리어하면 보상이 내 손에!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1069",
-			"message": "They're all tasks you'll naturally clear as you keep on training and battling, so please give them a try!",
+			"message": "게다가 육성과 배틀을 진행하다 보면\n자연스레 클리어할 수 있는 것들로만\n구성되어 있으니, 꼭 한번 도전해보세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1070",
-			"message": "With [ffd700]Ability Seeding[-],\nyou can hybridize multiple Digimon\nto pass on or enhance their [ffd700]Ability[-].",
+			"message": "'[ffd700]재능 개발[-]'에서\n디지몬끼리 조합하면 '[ffd700]재능[-]'을\n계승하거나 강화할 수 있어요.",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1071",
-			"message": "With [ffd700]Version Upgrades[-], you can make\n+4 Awakened [ffd700]Digimon[-] that are already\nat their max level even stronger!",
+			"message": "'[ffd700]버전업[-]'을 실행하면\n최대 레벨인 각성치 +4 디지몬을\n더욱 강화할 수 있습니다.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1072",
-			"message": "A Version Upgraded Digimon can\ninherit two Legacy Skills, and\nits max level gets a boost, too!",
+			"message": "'버전업'한 디지몬은\n계승기를 2개 계승할 수 있으며\n최대 레벨도 확장됩니다.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1073",
-			"message": "And that's not all!\nWhen you do Resistance Upgrades in the Dojo, you can assign Resistance to Status Effects!",
+			"message": "또한!\n수련장에서 상태이상 내성 변화가 가능해져\n상태이상에 내성을 부여할 수 있게 됩니다!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1074",
-			"message": "Version Upgrades and Resistance Upgrades are powerful, but you'll need special items to do either one...",
+			"message": "버전업과 상태이상 내성 변화는 강력한 대신\n전용 아이템이 필요합니다….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "1075",
-			"message": "Besides Digivolution Fragments and Plugins,\nyou'll also need Upgrade Data for Version Upgrades...",
+			"message": "진화의 조각과 플러그인 외에도\n버전업 시에는 '버전업 데이터'가 필요하며,",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "1076",
-			"message": "...and for Status Effect Resistance Upgrades, you'll need Re-factors.",
+			"message": "상태이상 내성 변화 시에는\n'리팩터'가 필요합니다.",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "1077",
-			"message": "The conditions may be steep, but Version Upgrades are sure to make your Digimon even stronger!",
+			"message": "어려운 조건이지만, 버전업에 성공하면\n더욱 강력한 디지몬을 만나볼 수 있어요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1078",
-			"message": "So reach for the stars, and be sure to do some Version Upgrades!",
+			"message": "열심히 노력해서 버전업을 해 보세요.",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1079",
-			"message": "The results are in for my analysis of that Digimon sheltering in the volcano!",
+			"message": "지난번에 화산에서 데려온 아이에 대한 분석이 끝났어요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1080",
-			"message": "Its name is Vorvomon!",
+			"message": "이름은 '보보몬'이라고 한답니다!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1081",
-			"message": "Isn't that an adorable name?!",
+			"message": "이름이 참 귀엽죠?",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1082",
-			"message": "And it looks like it might have a hidden ability to Digivolve into Volcanicdramon!",
+			"message": "얘는 볼케닉드라몬으로 진화할 가능성이 있다고 하네요…!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "1083",
-			"message": "If you help it Digivolve, I could probably analyze it even further than I already have!",
+			"message": "진화시키면 아직 분석하지 못한 새로운 정보도 밝혀질지 몰라요!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "1084",
-			"message": "But...",
+			"message": "다만… 얘는 진화하는 방식이 좀 특수해요.",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "1085",
-			"message": "It seems like a very special Digivolution, so it'll need specialized training to Digivolve that way.",
+			"message": "다른 아이들과는 키우는 방법이 다른 것 같네요.",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "1086",
-			"message": "But it'll repay you by becoming a courageous Digimon with powers unlike any other!",
+			"message": "그래도 잘 키우면 남다른 능력을 지닌 강한 디지몬이 될 거예요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1087",
-			"message": "Please do your best to train it well!",
+			"message": "아무쪼록 열심히 돌봐 주세요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1088",
-			"message": "I've compiled my report, so please give it a look right away.",
+			"message": "보고서를 정리해 두었으니 어서 살펴보세요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1089",
-			"message": "I'm counting on you!",
+			"message": "그럼 잘 부탁드려요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1090",
-			"message": "In the [ffd700]Exchange[-], you can trade in\nthe items you've earned for other items.",
+			"message": "[ffd700]교환소[-]에서는 당신이 획득한 아이템을\n다른 아이템으로 교환할 수 있어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1091",
-			"message": "You can snag valuable items,\nso check it out regularly!",
+			"message": "희귀한 아이템도 얻을 수 있으니까\n자주 들러서 확인해 보세요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1092",
-			"message": "Some Exchanges are only open for a limited time. Don't forget to trade in your items!",
+			"message": "기간 한정으로 등장하는 교환소도 있답니다.\n잊지 말고 교환하세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1093",
-			"message": "This is where you can friend other users who are also fighting this crisis in the Digital World.",
+			"message": "이곳에서는 \"디지털 월드의 위기\"에 맞서 싸우는 다른 유저분들과\n친분을 나누는 '친구' 기능을 이용하실 수 있어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1094",
-			"message": "You can check on your friend requests here!\nRemember to check them often!",
+			"message": "친구 신청 상황 등은 여기서 확인할 수 있습니다!\n자주 들러서 확인해 보세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1095",
-			"message": "This is where you can view your Missions.\nIf you complete [ffd700]Missions[-], you can earn prizes!",
+			"message": "이곳에서는 미션을 확인할 수 있습니다.\n[ffd700]미션[-]을 완료하면\n보상을 받을 수 있어요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1096",
-			"message": "By training your Digimon and making progress in battle, you can pick up lots of valuable items!",
+			"message": "디지몬 육성과 배틀에 꼭 필요한 것들만 정리해 놓았으니",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1097",
-			"message": "If you're ever unsure what to do next,\njust look here!",
+			"message": "무엇을 해야 할지 고민이 되면\n여기서 확인해 보세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1098",
-			"message": "As time passes in the [ffd700]Garden[-],\nyour In-Training Digimon will grow and Digivolve.",
+			"message": "[ffd700]가든[-]에서는 유년기 디지몬들이\n시간을 보내면서 성장하고 진화해요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1099",
-			"message": "In-Training Digimon can't enter battle,\nso train them here until\nthey become Rookies!",
+			"message": "배틀에 참가하지 못하는\n유년기 디지몬들은 이곳에서\n성장기가 될 때까지 육성하세요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1100",
-			"message": "This is the [ffd700]Recruitment Board[-],\nwhere you can view Co-Op recruitment notices.",
+			"message": "이곳은 협동전 모집 현황을\n볼 수 있는 [ffd700]모집 게시판[-]입니다.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1101",
-			"message": "Participating in Co-Op battles has many benefits, such as not costing you any Stamina!",
+			"message": "멤버로 참가한 협동전에서는 스태미너를 소비하지 않는 등\n다양한 이점이 있답니다!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1102",
-			"message": "Let's all work together to fight this crisis in the Digital World!",
+			"message": "다 함께 힘을 합쳐 \"디지털 월드의 위기\"에 맞서자고요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "1103",
-			"message": "You can check out Digivolution routes on\nthe [ffd700]Digivolution Chart[-]!",
+			"message": "[ffd700]진화도[-]에서는 디지몬의 진화 계통을\n확인할 수 있어요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1104",
-			"message": "If you're hoping to Digivolve a favorite Digimon,\nfind their Digivolution route here!",
+			"message": "원하는 디지몬으로 진화시키려면\n여기서 진화 계통을 확인하세요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1105",
-			"message": "If you haven't Digivolved a Mega yet, I recommend going on Quests that drop the items you'll need to train one!",
+			"message": "아직 '궁극체'로 진화시키지 않았다면\n육성에 필요한 것들을 얻을 수 있는 퀘스트부터\n진행하는 것을 권장합니다!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1106",
-			"message": "You can check which Digimon you have or\n[ffd700]release[-] Digimon here in the List.",
+			"message": "목록에서는 보유한 디지몬을 확인하거나\n디지몬과 '[ffd700]이별[-]'할 수 있습니다.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "1107",
-			"message": "It's not easy to say goodbye,\nbut they'll leave a parting gift of Clusters\nor data fragments if you release a Mega.",
+			"message": "헤어짐은 슬프지만, 떠나는 디지몬이\n'클러스터'를, 또 궁극체에 한해\n'진화의 조각'을 남겨주고 간답니다.",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "1108",
-			"message": "When you need data fragments\nor your House is full,\nit might be time to think about parting ways.",
+			"message": "진화의 조각이 필요하거나\n하우스가 꽉 찼을 때는\n이별하는 것도 고려해 보세요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "2001",
-			"message": "First, [ffd700]Explore[-] to earn EXP and\nClusters to train your Digimon!",
+			"message": "우선 '[ffd700]탐색[-]'을 통해\nEXP와 클러스터를 얻어\n디지몬을 육성해보세요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "2002",
-			"message": "Tap [ffd700]Explore[-]\nand try doing a Quest!",
+			"message": "'[ffd700]탐색[-]'을 터치해서\n퀘스트에 도전해보세요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "2003",
-			"message": "The Digimon you encounter while Exploring\nwill get stronger and stronger.",
+			"message": "탐색에 등장하는 디지몬들이\n점점 더 강해지네요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "2004",
-			"message": "If you find yourself struggling in battle,\ntry Digivolving your Digimon!",
+			"message": "적이 너무 강해서 배틀이 힘들다!\n그럴 때는 디지몬을 진화시켜보세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "2005",
-			"message": "Please tap [ffd700]Digivolve[-]\non your [ffd700]Digivice[-].",
+			"message": "'[ffd700]디지바이스[-]'의 '[ffd700]진화[-]'를\n터치해주세요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "2006",
-			"message": "Thanks for waiting! I've stabilized the connection with the expansion data and everything seems to be in order!",
+			"message": "오래 기다리셨죠?\n추가 데이터 덕에 접속도 안정되었고\n모든 준비가 끝났어요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "2007",
-			"message": "Let's work hard together to restore the Digital World!",
+			"message": "자, 그럼 우리 함께 열심히\n디지털 월드를 복구해봐요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "2008",
-			"message": "At least, that's what I'd like to say... But I'll bet you hardly even know where to start.",
+			"message": "…하지만 어디서부터 시작하면 좋을지\n갈피를 잡을 수 없어 난감하시죠?",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "2009",
-			"message": "That's why I've made you a list of things that ought to get done first!",
+			"message": "그래서! 우선 무엇을 하면 좋을지\n제 나름대로 목록을 만들어봤어요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "2010",
-			"message": "I call it, \"[ffd700]Beginner Missions[-]\"!\nPlease tap Missions.",
+			"message": "이름하여 '[ffd700]초보자 미션[-]'!\n'미션'을 터치해주세요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "2011",
-			"message": "These are all things that will be crucial as you keep on training and battling with your Digimon.",
+			"message": "디지몬 육성과 배틀에 꼭 필요한\n요점만 골라 정리해봤죠.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "2012",
-			"message": "If you clear them all, you and your Digimon will definitely level up!",
+			"message": "이걸 전부 클리어하면 당신은 물론\n디지몬도 지금보다 훨씬\n강해질 수 있을 거예요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "2013",
-			"message": "If you're ever unsure what to do next, please come check out these Beginner Missions, okay?",
+			"message": "뭘 해야 좋을지\n망설여질 때는 이 '초보자 미션'을\n확인해보세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "2014",
-			"message": "Oh! You got a [ffd700]Chip[-]!",
+			"message": "앗! '[ffd700]칩[-]'을 얻으셨군요!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "2015",
-			"message": "Chips are items that have all sorts of effects when installed to a Digimon!",
+			"message": "칩은 디지몬에게 장착하면\n다양한 효과를 발휘하는\n아이템이에요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "2016",
-			"message": "You can check which Chips you have and install them to Digimon at your [ffd700]Chip Factory[-].",
+			"message": "획득한 칩은 '[ffd700]칩 공장[-]'에서\n확인 및 장착할 수 있어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "2017",
-			"message": "If you haven't constructed a Chip Factory yet, go to [ffd700]Facilities[-] and then select the [ffd700]Shop[-] to get one!",
+			"message": "'칩 공장'은 '[ffd700]시설[-]'의\n'[ffd700]상점[-]'에서 건설할 수 있어요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "2018",
-			"message": "Now, let's go back to your Farm and go Exploring!",
+			"message": "그럼 이제 농장으로 돌아가\n탐색을 시작합시다!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "2019",
-			"message": "Please tap Explore.",
+			"message": "'탐색'을 터치해주세요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "2020",
-			"message": "You can check which Digimon you have or\n[ffd700]release[-] Digimon here in the List.",
+			"message": "목록에서는 보유한 디지몬을 확인하거나\n디지몬과 '[ffd700]이별[-]'할 수 있습니다.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "2021",
-			"message": "It's not easy to say goodbye,\nbut they'll leave a parting gift of Clusters\nor data fragments if you release a Mega.",
+			"message": "헤어짐은 슬프지만, 떠나는 디지몬이\n'클러스터'를, 또 궁극체에 한해\n'진화의 조각'을 남겨주고 간답니다.",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "2022",
-			"message": "When you need data fragments\nor your House is full,\nit might be time to think about parting ways.",
+			"message": "진화의 조각이 필요하거나\n하우스가 꽉 찼을 때는\n이별하는 것도 고려해 보세요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "2101",
-			"message": "It looks like you can construct a Warehouse now!\nLet's go construct one, quick!",
+			"message": "창고를\n건설할 수 있게 되었군요!\n얼른 건설해봐요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "2102",
-			"message": "It looks like you can construct a Dojo now!\nLet's go construct one, quick!",
+			"message": "수련장을\n건설할 수 있게 되었군요!\n얼른 건설해봐요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "2103",
-			"message": "It looks like you can construct a Restaurant now!\nLet's go construct one, quick!",
+			"message": "식당을\n건설할 수 있게 되었군요!\n얼른 건설해봐요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "2104",
-			"message": "It looks like you can construct a Chip Factory now!\nLet's go construct one, quick!",
+			"message": "칩 공장을\n건설할 수 있게 되었군요!\n얼른 건설해봐요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "3001",
-			"message": "Digivolving your Digimon will make them\neven stronger than they are now!",
+			"message": "진화시키면 지금보다 더욱 강한\n디지몬이 된답니다!",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "3002",
-			"message": "Enhancing your Digimon will make them\nlevel up and get even stronger!",
+			"message": "강화하면 디지몬의 레벨이 올라\n더욱 강해진답니다!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "3003",
-			"message": "Resistance Upgrades will increase\na useful Resistance by 1!",
+			"message": "내성 변화를 하면\n내성이 하나 추가돼요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "3004",
-			"message": "Legacies can grant your favorite Legacy Skills to a particular Digimon!",
+			"message": "계승을 하면 마음에 드는 계승기를\n디지몬에게 전수할 수 있어요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "3005",
-			"message": "Passing down Abilitys can boost the\nparameters of the Ability!",
+			"message": "재능을 계승하면\n재능이 붙은 능력치가 상승해요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "3006",
-			"message": "Awakening your Digimon gives all of their\nstats a boost!",
+			"message": "각성시키면 모든 스테이터스가\n상승한답니다!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "10001",
-			"message": "Great job! Thanks to your hard work gathering [ffd700]Clusters[-],\nthe Digital World is being restored.",
+			"message": "수고하셨습니다. 열심히\n[ffd700][클러스터][-]를 모아주신 덕분에\n복구도 순조롭게 진행되고 있어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "10002",
-			"message": "You've restored the DigiChat, Co-Op mode, and the Colosseum\nand got the new Chip System running.",
+			"message": "디지채팅과 협동전, 콜로세움은 물론\n새로운 기능인 '칩 시스템'도\n사용할 수 있게 되었죠.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "10003",
-			"message": "The restoration is going so well, and it's all thanks to\nthe bond between you and your Digimon!",
+			"message": "당신과 디지몬들이 도와준\n덕분이에요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "10004",
-			"message": "Thank you so much for everything you've done!",
+			"message": "정말 감사합니다!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "10005",
-			"message": "You've fought off so many wild Digimon, too! At this rate, everything will be fixed in no time!",
+			"message": "폭주하는 강력한 디지몬도 물리쳤으니,\n디지털 월드가 완전히 복구될 때까지\n힘내자고요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "10006",
-			"message": "But... There is one thing that worries me...",
+			"message": "그런데 실은… 한가지 걱정거리가….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "10007",
-			"message": "For some reason, the fragmentation in one area seems to be getting worse.",
+			"message": "아무래도 일부 에어리어에서\n균열이 더욱 활발하게 일어나고\n있는 것 같거든요.",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "10008",
-			"message": "I've got a bad feeling about this...\nI hope it's nothing, but...",
+			"message": "왠지 불길한 예감이 들어요….\n아무 일 없으면 좋겠는데….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "10009",
-			"message": "W-What?! What in the world is going on?!",
+			"message": "뭐, 뭐지…?!\n대체 무슨 일이 일어난 거죠?!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "10010",
-			"message": "It looks like the alert stopped...\nLet's go find out what happened!",
+			"message": "경보가 멈췄어요….\n무슨 일인지 알아볼게요!",
 			"face": "6"
 		},
 		{
 			"tutorialNaviId": "10011",
-			"message": "Location of error outbreak detected... Finding coordinates...\n Yes... Analysis results... Complete!",
+			"message": "오류 발생지점 탐지… 좌표 추적…\n완료… 분석결과가… 나왔어요!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10012",
-			"message": "It's...a fragmentation reaction on a scale unlike anything I've ever seen!",
+			"message": "이건…?! 유례없는\n규모의 균열 발생이 감지되었어요!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "10013",
-			"message": "I'm picking up readings from an unidentified Digimon!\nThey're coming from deep beneath the Digital World!",
+			"message": "디지털 월드의 땅속 깊은 곳에서…\n정체불명의 디지몬 반응이…?!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "10014",
-			"message": "This will require an investigation...\nWe've got to gather more information!",
+			"message": "아무래도 조사할 필요가 있겠군요….\n정보가 너무 적어요….",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10015",
-			"message": "I'm sorry, but could you please go down there\nto investigate and gather clues for me?",
+			"message": "죄송하지만,\n반응이 감지된 지하로 가서\n단서를 찾아봐 주시지 않을래요?",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10016",
-			"message": "It'll be okay!\nI'll always be here to help you out, after all!",
+			"message": "걱정 마세요!\n저도 최선을 다해 보조해드릴게요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "10017",
-			"message": "I'm not sure what's down there, though, so please be careful!",
+			"message": "뭐가 튀어나올지 모르니\n아무쪼록 조심하시고요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "10018",
-			"message": "Hello...? Can you hear me...?\nYou're going farther down...so...the signal is...breaking...up...",
+			"message": "여보세요… 들리세요…?\n땅속… 깊은 곳이라 그런…지\n통신 상태가… 좋지 않네…요….",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "10019",
-			"message": "Tha...nks to you and...your Digi...mon,\nI'm getting...lots of da...ta on the und...erground Digimon!",
+			"message": "당…신과… 디지몬 덕분…에\n지하에 있는 디지…몬의…\n정보… 데이터…가 충분히… 모여서…",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "10020",
-			"message": "I think I...can get an underg...round i...mage...",
+			"message": "지하… 상황을…\n확인할… 수 있게… 되었어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "10021",
-			"message": "I'll s...end it...to y...ou no...w!",
+			"message": "영상…을 보내…드릴…게요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "10022",
-			"message": "Acti...vate!",
+			"message": "실…행!",
 			"face": "8"
 		},
 		{
 			"tutorialNaviId": "10023",
-			"message": "There's th...e image...!",
+			"message": "영상이… 표시되었…습니다!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "10024",
-			"message": "This m...ust be a...layer of magma...",
+			"message": "여긴… 마그마 지대…인\n모양…이네요….",
 			"face": "1"
 		},
 		{
 			"tutorialNaviId": "10025",
-			"message": "It seem...s to be...some sort of...deep sub...terranean c...ave...",
+			"message": "아무…래도 땅속 깊은… 곳에 있는…\n동굴… 같은데….",
 			"face": "1"
 		},
 		{
 			"tutorialNaviId": "10026",
-			"message": "Huh...?! The...tempera...ture readings...in that cave a...re astronom...ical!",
+			"message": "…앗?! 동굴 내부…의… 온도가…\n엄청나요…!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "10027",
-			"message": "What k...ind of Digi...mon could surv...ive in such...incredible heat...?",
+			"message": "이렇게… 뜨거운… 곳에…\n정말로… 디지몬이…?",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10028",
-			"message": "It m...ust be str...onger against fire...than any Digim...on I've...ever seen...",
+			"message": "여태까지 봐온… 디지몬…과는… 달리…\n불에… 강할 것… 같네요….",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10029",
-			"message": "Than...ks for ga...thering data f...or me... Please, kee...p up the...good w...ork!",
+			"message": "데이터를… 모아…주셔서…\n감사…합니다…. 계속해서…\n잘… 부탁…드려…요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "10030",
-			"message": "N...ow, if I...can ju...st configure this...",
+			"message": "…이제… 이걸… 설정하면….",
 			"face": "1"
 		},
 		{
 			"tutorialNaviId": "10031",
-			"message": "There! The connection should be stable now!",
+			"message": "해냈다!\n드디어 통신이 안정됐네요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "10032",
-			"message": "Thanks to the data you gathered,\nI managed to pinpoint the location of the underground Digimon.",
+			"message": "정보 데이터를 모아주신 덕분에\n디지몬이 있는 곳을\n알아낼 수 있었어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "10033",
-			"message": "I'm gradually working out the level of its strength, too...",
+			"message": "그리고 그 디지몬의 정보도\n조금 밝혀졌고요….",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10034",
-			"message": "As I thought, it's incredibly strong against Fire, so that might not work against it at all.",
+			"message": "역시 예상대로 열에 상당히 강해서\n'불속성'은 통하지 않을 것\n같아요.",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "10035",
-			"message": "It seems to have incredible power\nand it might be able to use its Signature and Legacy Skills serially.",
+			"message": "게다가 강력한 힘을 지니고 있어,\n고유기나 계승기를 연속으로\n사용할 가능성도 있어요….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "10036",
-			"message": "If you end up having to fight it, it could be extremely fierce...",
+			"message": "만약 싸우게 된다면\n고전을 면치 못할 것 같네요….",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10037",
-			"message": "Huh?! A Digimon appeared?!\nThis location... It must be the underground Digimon!",
+			"message": "앗…?! 디지몬 출현?!\n이 위치는… 지하의 반응 지점…?!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "10038",
-			"message": "I'll display an image!",
+			"message": "영상을… 표시하겠습니다…!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10039",
-			"message": "What...is it?!\nWhat in the world is that Digimon?!",
+			"message": "이… 이럴 수가…?!\n저 디지몬은 대체 뭐죠…?!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "10040",
-			"message": "It doesn't seem to be any Digimon in our records to date...\n...[ffd700]Volcanicdramon[-]?",
+			"message": "기록 데이터에 없는 디지몬이에요….\n…'[ffd700]볼케닉드라몬[-]'?",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "10041",
-			"message": "The level where it appeared is very close to you!\nLet's go find it! Get ready!",
+			"message": "바로 근처 계층에 있어요!\n준비가 끝나면 출발해요!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10042",
-			"message": "The signal from Volcanicdramon is fading away...",
+			"message": "볼케닉드라몬의 반응이\n점점 멀어지고 있어요….",
 			"face": "6"
 		},
 		{
 			"tutorialNaviId": "10043",
-			"message": "It must have moved to another location somehow.",
+			"message": "아무래도 다른 곳으로\n이동한 모양이군요.",
 			"face": "6"
 		},
 		{
 			"tutorialNaviId": "10044",
-			"message": "Volcanicdramon...\nWhat a powerful Digimon that was.",
+			"message": "볼케닉드라몬….\n정말 엄청난 디지몬이네요.",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "10045",
-			"message": "You managed to fight it off safely this time,\nbut it was a close battle.",
+			"message": "이번에는 무사히 물리쳤지만,\n정말 아슬아슬한 싸움이었어요.",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "10046",
-			"message": "When its wounds have healed,\nit'll probably rear its head again...",
+			"message": "상처가 다 나으면\n또다시 나타날지도 모르지만요….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "10047",
-			"message": "Plus, the effects of what just happened are causing a lot of worrying signals in several locations.",
+			"message": "게다가 이번 사건의 영향인지,\n각지에서 그냥 지나칠 수 없는\n반응이 감지되었어요.",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10048",
-			"message": "I'll bet there's a fresh batch of rampaging Digimon and strange phenomena occurring out there.",
+			"message": "어쩌면 새로이 디지몬이 폭주했거나\n어떤 이변이 일어날 징조일지도 몰라요.",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "10049",
-			"message": "But it'll be okay! I'm still here\nto help you out, just like I've always been!",
+			"message": "하지만 걱정 마세요!\n이번에도 제가 최선을 다해\n보조해드릴 테니까요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "10050",
-			"message": "Please, keep on working with me to restore the Digital World!\nI'm counting on you!",
+			"message": "그러니 앞으로도 계속 힘을 합쳐\n디지털 월드를 복구해나가요!\n잘 부탁드려요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "10051",
-			"message": "I wanted to talk to you about something...\nIs now a good time?",
+			"message": "상담하고 싶은 게 있는데…\n지금 괜찮으세요?",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10052",
-			"message": "You might have noticed this too, $USER_INPUT_NAME$, but doesn't it seem like there have been a lot of powerful Digimon on the rampage lately?",
+			"message": "$USER_INPUT_NAME$ 님도 눈치채셨겠지만, 최근 들어 전보다 더 강력한 디지몬의 폭주가 많아진 것 같지 않으세요?",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10053",
-			"message": "That's why I did a little independent investigation.\nAnd when I did...",
+			"message": "그래서 제가 혼자 조사해 봤어요.\n그랬더니...",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10054",
-			"message": "I was able to prove that the rate of outbreaks is rising, especially around the place where we fought Volcanicdramon before.",
+			"message": "전에 볼케닉드라몬과 싸운 곳을 중심으로 폭주 빈도가 높아졌다는 사실을 알게 되었어요.",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10055",
-			"message": "I've identified a data anomaly at the center of the outbreaks, but it doesn't seem to be fragmentation...",
+			"message": "중심지에서는 균열과는 다른 데이터 이상이 확인됐는데,",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "10056",
-			"message": "I can't find out any more than that without checking it out firsthand.\n",
+			"message": "이 이상은 직접 조사해 보지 않으면 모르겠어요....\n",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "10057",
-			"message": "...$USER_INPUT_NAME$, could you please help me investigate this?",
+			"message": "...$USER_INPUT_NAME$ 님, 조사를 부탁드려도 될까요?",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10058",
-			"message": "You will? Really? Thank you so much!",
+			"message": "정말요? 고맙습니다!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "10059",
-			"message": "In that case, I'll be your guide, so go get ready to head out and let me know when you're all set!",
+			"message": "그럼 안내해 드릴 테니 출발 준비가 끝나면 말씀해 주세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "10060",
-			"message": "It has been a while since last time we came to this volcano...",
+			"message": "이 화산에 오는 것도 오랜만이네요...",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10061",
-			"message": "Okay, could you please go down there and gather some clues for me?",
+			"message": "그럼 지하로 가서 단서를 모아주시겠어요?",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10062",
-			"message": "I'll be right here to help you out, as always!",
+			"message": "이번에도 제가 열심히 보조해 드릴게요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "10063",
-			"message": "Alright! Last time, our signal was awfully unstable, but it should be... fine... thi...s... time...",
+			"message": "좋았어! 전에는 통신이 불안정했지만, 이번엔... 괜... 찮을...",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "10064",
-			"message": "H... huh...?",
+			"message": "어, 어... 라?",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "10065",
-			"message": "Tha...t's stra...nge... I thou...ght I'd solved... the prob...lem last... time...",
+			"message": "이상... 하네... 요. 전에... 대책을... 세... 웠는... 데...",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "10066",
-			"message": "I'll ana...lyze it and f...ix it right now, s...o give... me just a... min...ute...!",
+			"message": "금방... 분석해서... 고칠... 테니, 잠깐만 기... 다려... 주...세요!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10067",
-			"message": "I thi...nk I... understand... the cause...\nNow if I... can j...ust reconfi...gure... these settings...",
+			"message": "대략... 적인... 원인은... 찾았어요...\n... 이제... 이걸... 설정하고...",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10068",
-			"message": "Acti...vate!",
+			"message": "실... 행!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10069",
-			"message": "There! That should take care of it!",
+			"message": "네! 이걸로 이제 문제없어요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "10070",
-			"message": "Something down there seems to be generating a tremendous amount of noise, which was interfering with our signal.",
+			"message": "아무래도 엄청난 양의 노이즈 때문에 통신이 영향을 받았던 것 같아요.",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "10071",
-			"message": "But what in the Digital World would produce so much noise...?",
+			"message": "그런데 이렇게 대량의 노이즈가 발생하다니...",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "10072",
-			"message": "Something unbelievable must be waiting for us up ahead... Please, be careful!",
+			"message": "이 앞에 엄청난 것이 기다리고 있을지도 몰라요... 조심하세요...!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10073",
-			"message": "The data signal just got even stronger!",
+			"message": "데이터의 반응이 더 강해졌어요...!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10074",
-			"message": "It's just a little further to the site of our encounter with Volcanicdramon.",
+			"message": "이제 곧 볼케닉드라몬을 만났던 지점이에요.",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10075",
-			"message": "Please, be extra careful!",
+			"message": "조심하셔야 해요...!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10076",
-			"message": "At first glance, it doesn't look like anything has changed since we were last here.",
+			"message": "저번에 왔을 때랑 비교해서 달라진 점은 크게 없는 것처럼 보이네요.",
 			"face": "6"
 		},
 		{
 			"tutorialNaviId": "10077",
-			"message": "Oh! That's...!",
+			"message": "앗! 저건...!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "10078",
-			"message": "It seems to be an incredible quantity of data...",
+			"message": "엄청난 정보량의 데이터 같아요...",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10079",
-			"message": "This could help us figure out why the Digimon have been going so wild...",
+			"message": "이게 있으면 디지몬들이 폭주한 원인을 밝혀낼 수 있을지도 몰라요...",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10080",
-			"message": "I'd like to try analyzing it, so could you please bring it back up to me?",
+			"message": "해석해 볼 테니, 가져와 주시겠어요?",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10081",
-			"message": "...Huh!?",
+			"message": "...앗?!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "10082",
-			"message": "All of a sudden, the wild Digimon are...!?",
+			"message": "갑자기 폭주한 디지몬이...?!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10083",
-			"message": "Looks like we've got no choice! I'll back you up, so please get ready for battle!",
+			"message": "어쩔 수 없네요...! 제가 보조할 테니 싸울 준비를 해 주세요!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10084",
-			"message": "Phew... Looks like we made it...",
+			"message": "후우... 어떻게든 처리했네요...",
 			"face": "6"
 		},
 		{
 			"tutorialNaviId": "10085",
-			"message": "Is that data you found earlier still safe?",
+			"message": "아까 그 데이터는 무사한가요...?",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "10086",
-			"message": "Oh! Thank goodness! It seems to be safe...",
+			"message": "아! 다행이다! 무사한 것 같네요...",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "10087",
-			"message": "Okay, I'd like to analyze it, so try to bring it back to me this time...",
+			"message": "그럼 해석할 테니, 이번에야말로 가지고 돌아가서...",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10088",
-			"message": "Huh?? What?!? The data suddenly started multiplying!?",
+			"message": "앗?! 뭐지?! 갑자기 데이터 양이 늘어나잖아...?!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "10089",
-			"message": "Eeeek!!",
+			"message": "꺅...!!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "10090",
-			"message": "Is that... a Digimon?!? That's impossible, it can't be...",
+			"message": "이건... 디지몬...?! 설마, 이런 일이...",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10091",
-			"message": "But...",
+			"message": "... ... 하지만... ...",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "10092",
-			"message": "Hmm...",
+			"message": "... ... 으음 ... ...",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10093",
-			"message": "No... well, in any case, if I examine this little guy... hmm... oh, I see...",
+			"message": "아니요... 어쨌든, 이 애를 조사하면... 음... 그렇네요....",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "10094",
-			"message": "Oh, I'm sorry! I got a little lost in thought, there...",
+			"message": "앗, 죄송해요! 잠깐 생각에 빠져서...",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "10095",
-			"message": "$USER_INPUT_NAME$, could you please take care of it, and take it back with you?",
+			"message": "...$USER_INPUT_NAME$ 님, 그 애를 안전하게 데려와 주시겠어요?",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10096",
-			"message": "If I examine it, I might be able to figure out some things about the Digimon rampages and fragmentation.",
+			"message": "그 애를 조사하면 폭주나 균열에 대해 뭔가 알 수 있을지도 몰라요.",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10097",
-			"message": "Anyway, it just doesn't feel right to leave such a cute little guy in such a dangerous place!",
+			"message": "그리고 그렇게 귀여운 애를 위험한 곳에 놔둘 수는 없잖아요.",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "10098",
-			"message": "Go back to your Farm for now, okay? I'm counting on you!",
+			"message": "일단 농장으로 돌아와 주세요. 잘 부탁드려요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "10099",
-			"message": "Is Vorvomon doing well?",
+			"message": "보보몬은 건강한가요?",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "10100",
-			"message": "Please take good care of it, okay? If you do, then...",
+			"message": "소중히 키워 주세요. 그럼...",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "10101",
-			"message": "Wh-what...?!? What in the world...??",
+			"message": "앗, 뭐지...?! 대체 무슨 일이...?!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "10102",
-			"message": "I'm going to try to figure out what's going on!",
+			"message": "무슨 일이 일어나고 있는지 조사해 볼게요!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10103",
-			"message": "Oh, my...!",
+			"message": "이건...!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "10104",
-			"message": "Volcanicdramon is approaching the Farm as we speak!",
+			"message": "볼케닉드라몬이 농장으로 접근하고 있어요...!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10105",
-			"message": "It's making a beeline right for us!\nGet ready for battle, quick!",
+			"message": "이쪽을 향해 달려오고 있어요!\n바로 싸울 준비를...!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10106",
-			"message": "Oh, no! Is it already that close?",
+			"message": "말도 안 돼! 벌써 이렇게 가까이...!",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "10107",
-			"message": "Another alert!? What is it this time...?",
+			"message": "또 경보?! 이번에는 대체...",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10108",
-			"message": "Huh??",
+			"message": "...앗?!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10109",
-			"message": "The data for the area around the Farm is being overwritten with data from the volcano zone!",
+			"message": "농장 부근의 데이터가 화산 지대의 데이터로 바뀌고 있어...!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "10110",
-			"message": "It can't be... that's impossible! It's overwriting its own data environs!",
+			"message": "어떻게... 이런 말도 안되는 일이! 주변 데이터를 바꿔버리다니...!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "10111",
-			"message": "This... this must be the true power of Volcanicdramon!",
+			"message": "이게 볼케닉드라몬의 힘... 일까요...!",
 			"face": "3"
 		},
 		{
@@ -1812,467 +1812,467 @@
 		},
 		{
 			"tutorialNaviId": "10113",
-			"message": "It'll be risky, but if you can chase Volcanicdramon away, I... I think I can still restore the data...",
+			"message": "위험하지만 볼케닉드라몬을 쫓아내면 아직 데이터를 복원할 수 있을지도... 몰라요...",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10114",
-			"message": "If we don't do something, sooner or later the whole Digital World will be overwritten!",
+			"message": "이대로 두면 머지않아 디지털 월드 전체가 변해버릴 거예요!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10115",
-			"message": "You've got to fight it, for the sake of all Digimon!",
+			"message": "디지몬들을 위해서라도 싸워요!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10116",
-			"message": "I'll be right here to help, of course! Just leave it to me!\n$USER_INPUT_NAME$, I'm counting on you!",
+			"message": "물론 보조는 저한테 맡겨 주세요!\n$USER_INPUT_NAME$ 님, 잘 부탁드려요!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "10117",
-			"message": "$USER_INPUT_NAME$, I'm counting on you!",
+			"message": "$USER_INPUT_NAME$ 님, 잘 부탁드려요!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "19001",
-			"message": "Hmm... What am I going to do?\nThis is serious...",
+			"message": "으~음… 어쩌지….\n난감하네….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19002",
-			"message": "Oh! Perfect timing, $USER_INPUT_NAME$! I was just hoping to see you!",
+			"message": "…앗! $USER_INPUT_NAME$ 님!\n마침 잘 오셨어요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19003",
-			"message": "The truth is, I've got a problem...",
+			"message": "실은 곤란한 일이 생겼거든요….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19004",
-			"message": "Some Palmon came to see me yesterday all excited about\nlooking for the legendary Cherrymon in the woods...",
+			"message": "어제부터 팔몬들이 기세등등하게\n전설의 쥬레이몬을 찾으러\n숲으로 가겠다고 하길래…",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19005",
-			"message": "I was worried, so I looked up those woods, and they're in a dangerous area full of rampaging Digimon!",
+			"message": "걱정이 되어 조사해봤더니,\n아무래도 그 숲은 폭주한 디지몬이\n자주 나타나는 위험한 곳인가 봐요.",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19006",
-			"message": "I tried to tell them it was too risky, but they wouldn't listen. They want to go, no matter what!",
+			"message": "그래서 위험하다고 말렸는데,\n다들 제 충고는 들을 생각도\n안 하네요….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19007",
-			"message": "Huh? You've never heard of the legendary Cherrymon?",
+			"message": "네? 전설의 쥬레이몬이 뭐냐고요?",
 			"face": "1"
 		},
 		{
 			"tutorialNaviId": "19008",
-			"message": "Oh! I'm sorry!\nI didn't explain that, did I?",
+			"message": "앗! 죄송합니다!\n그러고 보니 설명을\n아직 안 해드렸군요!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "19009",
-			"message": "The legendary Cherrymon is a Cherrymon that's said to appear every year at about this time.",
+			"message": "듣자 하니 매년 이 시기가 되면\n나타나는 쥬레이몬을\n전설의 쥬레이몬이라고 부르나 봐요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19010",
-			"message": "I don't know the details, but supposedly if you go under it in a pair, something good will happen. I think.",
+			"message": "저도 자세히는 모르지만,\n둘이 한 팀이 되어 그 쥬레이몬을\n찾아내면 좋은 일이 생긴다고 해요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19011",
-			"message": "Those Palmon want to find out if the rumors are true, but it's just too dangerous...",
+			"message": "팔몬들은 그 소문이 진짜인지\n직접 확인하고 싶은 것 같지만,\n역시 좀 위험할 것 같아서요….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19012",
-			"message": "Oh! I know! $USER_INPUT_NAME$, will you come with me to find that Cherrymon?",
+			"message": "…앗! 그렇지! $USER_INPUT_NAME$ 님!\n저와 함께 그 쥬레이몬을\n찾으러 가지 않을래요?",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19013",
-			"message": "It's risky, but if we go first to check it out, it should be okay to bring the Palmon later!",
+			"message": "팔몬들을 데리고 가기 전에\n정말 위험한 곳인지\n미리 확인하고 싶어요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19014",
-			"message": "Please... Won't you come with me?",
+			"message": "함께… 가주실 거죠…?",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19015",
-			"message": "…",
+			"message": "….",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19016",
-			"message": "Thank you so much!\nI just knew you'd come along, $USER_INPUT_NAME$!",
+			"message": "감사합니다!\n$USER_INPUT_NAME$ 님이라면\n그렇게 말씀하실 줄 알았어요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "19017",
-			"message": "Now, let's go find that Cherrymon, quick!",
+			"message": "그럼 얼른 쥬레이몬을 찾으러 가요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19018",
-			"message": "To get to the woods where the Cherrymon appears, we'll have to cross this mountain first.",
+			"message": "그 쥬레이몬이 나타난다는 숲은\n이 산 너머에 있어요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19019",
-			"message": "Oh! Look at that!\nYou can see the Farm from here!",
+			"message": "앗! 저기 보세요!\n농장이 보이네요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19020",
-			"message": "What a beautiful view...",
+			"message": "경치가 정말 아름다워요….",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19021",
-			"message": "Haha... I never would have seen this view if you hadn't come with me, @USER_INPUT_NAME$.",
+			"message": "후훗, 이런 경치를 볼 수 있는 것도\n전부 $USER_INPUT_NAME$ 님이\n함께 와주신 덕분이에요.",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "19022",
-			"message": "I didn't know what I was going to do at first! I'm so glad you came along, $USER_INPUT_NAME$!",
+			"message": "처음에는 정말 막막했는데\n$USER_INPUT_NAME$ 님이\n같이 와 주셔서 정말 다행이에요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19023",
-			"message": "……",
+			"message": "…….",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19024",
-			"message": "Huh? Why are you looking at me like that?\nDo I have something on my face?",
+			"message": "…응? 갑자기 왜 그러세요…?\n제 얼굴에… 뭐라도 묻었나요?",
 			"face": "6"
 		},
 		{
 			"tutorialNaviId": "19025",
-			"message": "Eeeek!",
+			"message": "꺄악!!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "19026",
-			"message": "Oh! Look out!\nIt looks like a wild Digimon!",
+			"message": "앗! 저건?!\n폭주한 디지몬이에요!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "19027",
-			"message": "I'll be right here to help!\nLet's do this, $USER_INPUT_NAME$!",
+			"message": "제가 보조할게요!\n$USER_INPUT_NAME$ 님!\n잘 부탁드려요!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "19028",
-			"message": "…",
+			"message": "….",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "19029",
-			"message": "…\n……",
+			"message": "…\n…….",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "19030",
-			"message": "Phew... You managed to put a stop to its rampaging...",
+			"message": "휴우… 간신히 폭주를 막았군요….",
 			"face": "6"
 		},
 		{
 			"tutorialNaviId": "19031",
-			"message": "I knew you could do it, $USER_INPUT_NAME$!\nI can always count on you! ♪",
+			"message": "역시 $USER_INPUT_NAME$ 님!\n정말 믿음직스럽네요♪",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "19032",
-			"message": "But... It's not necessarily safe around here yet...",
+			"message": "하지만…\n이 주변은 안전 지대였을 텐데….",
 			"face": "1"
 		},
 		{
 			"tutorialNaviId": "19033",
-			"message": "Another strange phenomenon could occur any minute...",
+			"message": "어쩌면… 새로운 이변이\n일어났을 가능성도….",
 			"face": "1"
 		},
 		{
 			"tutorialNaviId": "19034",
-			"message": "Hmm...",
+			"message": "으~음….",
 			"face": "1"
 		},
 		{
 			"tutorialNaviId": "19035",
-			"message": "Huh?",
+			"message": "…응?",
 			"face": "1"
 		},
 		{
 			"tutorialNaviId": "19036",
-			"message": "You're staring at me again... What's the matter?",
+			"message": "제 얼굴은 왜 또…\n무슨 일 있으세요?",
 			"face": "6"
 		},
 		{
 			"tutorialNaviId": "19037",
-			"message": "Huh? It's not me?\nIt's... Behind me?",
+			"message": "…네?\n그게 아니라…… 뒤요?",
 			"face": "6"
 		},
 		{
 			"tutorialNaviId": "19038",
-			"message": "Huh? Eeeeeeeeeeek!",
+			"message": "…뒤, 꺄아아아아아아아아아아아악!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "19039",
-			"message": "Huff... Huff... I can't...believe...there are so many...wild Digimon here...",
+			"message": "헉… 헉… 폭주 디지몬이…\n이렇게나… 많을 줄은….",
 			"face": "6"
 		},
 		{
 			"tutorialNaviId": "19040",
-			"message": "It looks like we made it to the woods, but...that was a close shave...",
+			"message": "간신히 숲까지 오긴 했지만…\n큰일 날 뻔 했네요….",
 			"face": "6"
 		},
 		{
 			"tutorialNaviId": "19041",
-			"message": "I'll bet another strange phenomenon is occurring here.",
+			"message": "역시 이 주변에서 무슨 이변이\n일어나고 있는 모양이에요.",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19042",
-			"message": "I hate to disappoint those Palmon, but maybe we should go back to the Farm and...",
+			"message": "팔몬들한테는 미안하지만,\n일단 농장으로 돌아가 조사를…",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19043",
-			"message": "Huh? You don't want to go back?\nBut this is so dangerous...",
+			"message": "네…? 그럴 순 없다고요…?\n하지만 그냥 내버려 뒀다간\n위험해질 수도 있는데….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19044",
-			"message": "What's that? You don't want to see their poor little faces fall? That's why?",
+			"message": "팔몬들이 슬퍼하는 모습은\n보고 싶지… 않다고요…?",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19045",
-			"message": "All this for the sake of those Palmon...",
+			"message": "팔몬들을 위해서 그렇게까지….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19046",
-			"message": "Haha, that's just like you, $USER_INPUT_NAME$.",
+			"message": "후훗, $USER_INPUT_NAME$ 님 답네요.",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "19047",
-			"message": "This is exactly why I think you're so wonderful!",
+			"message": "정말 멋진 마음가짐이세요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "19048",
-			"message": "Well, let's brace for the worst and keep going... Huh?",
+			"message": "그럼 저도 각오를 단단히 하고…\n응?",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19049",
-			"message": "W-Wait a minute!\nThis signal... Can it be?!",
+			"message": "잠깐만 기다려주세요…!\n이 반응은… 설마…!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "19050",
-			"message": "I think that might be the Cherrymon those Palmon were talking about!",
+			"message": "저게 바로 팔몬들이 말한\n전설의 쥬레이몬일지도 몰라요!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "19051",
-			"message": "That's no ordinary Cherrymon! I can tell it has a special power!",
+			"message": "…다른 쥬레이몬과는 다르게\n특별한 힘이 느껴지거든요!",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "19052",
-			"message": "It looks like it has some sort of intoxicating effect on any Digimon that come near it.",
+			"message": "…게다가 아무래도 이 힘에는\n주변 디지몬의 정신을 몽롱하게\n만드는 효과가 있나 봐요.",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "19053",
-			"message": "Maybe the Digimon we've been encountering were all under its influence, too?",
+			"message": "혹시… 지금까지 만난 디지몬들도\n이 힘 때문에 폭주를…?",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "19054",
-			"message": "I guess we shouldn't stay here for too long...",
+			"message": "그게 사실이라면 여기 오래 있어서\n좋을 건 없겠군요….",
 			"face": "7"
 		},
 		{
 			"tutorialNaviId": "19055",
-			"message": "It seems to be sleeping for now, so let's sneak up quickly and test whether the rumors are true!",
+			"message": "마침 잠이 푹 든 모양이니,\n얼른 시험해보고 돌아가요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19056",
-			"message": "Okay! Let's see... We have to go under the Cherrymon in a pair, and then...",
+			"message": "…자, 그럼…\n쥬레이몬 밑에 두 사람이 서면….",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19057",
-			"message": "…",
+			"message": "….",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19058",
-			"message": "……",
+			"message": "…….",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19059",
-			"message": "Huh...?",
+			"message": "어…?",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19060",
-			"message": "Come to think of it, what were those Palmon planning to actually do?",
+			"message": "팔몬들은 대체 뭘\n어쩔 셈이었을까요?",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19061",
-			"message": "Ahh, what now? What are we supposed to do?",
+			"message": "으~음… 난감하네요….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19062",
-			"message": "Huh? Climb it... And make a wish?",
+			"message": "…네? 타고 올라가서…\n기도를 하자고요…?",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19063",
-			"message": "Right! Let's try that!",
+			"message": "…알겠습니다! 한번 해보죠!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19064",
-			"message": "Okay, $USER_INPUT_NAME$, I'll go first...",
+			"message": "그럼 $USER_INPUT_NAME$ 님, 앞장서…",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19065",
-			"message": "Eek! The Cherrymon is awake! And... It's trying to attack us?!",
+			"message": "꺅!! 쥬레이몬이 일어났어요!\n게다가… 전투태세를 취하는데요?!",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "19066",
-			"message": "But why?! Oh... It's probably because I screamed at it, huh...",
+			"message": "어째서… 아,\n혹시 제가 큰소리를 내는 바람에….",
 			"face": "2"
 		},
 		{
 			"tutorialNaviId": "19067",
-			"message": "I'm sorry! This is all my fault!",
+			"message": "죄송해요!\n저 때문에 일이 이렇게…!",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19068",
-			"message": "Please! You've got to stop Cherrymon...",
+			"message": "부탁이에요!\n쥬레이몬을… 멈춰주세요!",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19069",
-			"message": "Phew... You put a stop to Cherrymon's rampaging...",
+			"message": "휴우….\n쥬레이몬의 폭주가 멈췄네요….",
 			"face": "6"
 		},
 		{
 			"tutorialNaviId": "19070",
-			"message": "I'm sorry... It was my fault...",
+			"message": "죄송해요… 저 때문에….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19071",
-			"message": "Huh? What do you mean, that's not true?\nOh, $USER_INPUT_NAME$...",
+			"message": "네…? 그렇지 않다고요…?\n$USER_INPUT_NAME$ 님….",
 			"face": "3"
 		},
 		{
 			"tutorialNaviId": "19072",
-			"message": "You're such a nice person. Haha...",
+			"message": "…후훗, 상냥하시기도 해라.",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "19073",
-			"message": "It didn't go very smoothly this time, but... Next year, I want to do my best to bring those Palmon along!",
+			"message": "올해는 비록 실패했지만…\n내년에는 팔몬들도\n데리고 올 수 있으면 좋겠네요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19074",
-			"message": "Oh, and... Thank you so muchfor helping me outwhen things got dangerous!",
+			"message": "그리고… 도와주셔서 정말 감사해요!",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19075",
-			"message": "It was so wonderful the way you fought alongside your Digimon, $USER_INPUT_NAME$!",
+			"message": "디지몬들과 함께 싸우는\n$USER_INPUT_NAME$ 님의 모습은\n정말 멋졌어요!",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "19076",
-			"message": "I'm not just saying that, you know. I really mean it.",
+			"message": "…빈말이라도 고맙다니요.\n솔직한 감상인걸요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19077",
-			"message": "It's amazing that you have such a deep bond with your Digimon.",
+			"message": "디지몬들과 한마음 한 뜻이 되어\n싸울 수 있다니, 정말 대단해요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19078",
-			"message": "Your Digimon look really happy and content, too.",
+			"message": "디지몬들도 아주 행복해 보였고요.",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19079",
-			"message": "And... I always have fun with you, too, $USER_INPUT_NAME$! ♪",
+			"message": "그리고… 저 역시\n$USER_INPUT_NAME$ 님 덕분에\n하루하루가 매우 즐겁답니다♪",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "19080",
-			"message": "We've been through a lot together, but... We've made it this far because of you, $USER_INPUT_NAME$.",
+			"message": "지금까지 이런저런 일이 있었지만…\n$USER_INPUT_NAME$ 님이 계셨기에\n여기까지 올 수 있었어요….",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "19081",
-			"message": "That's why... I...",
+			"message": "그러니까… 저기….",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19082",
-			"message": "……",
+			"message": "…….",
 			"face": "5"
 		},
 		{
 			"tutorialNaviId": "19083",
-			"message": "Oh, I'm so embarrassed...",
+			"message": "갑자기 막 부끄러워지네요….",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "19084",
-			"message": "Um... Let's see... How should I put this?",
+			"message": "아… 그러니까 말이죠… 뭐랄까….",
 			"face": "6"
 		},
 		{
 			"tutorialNaviId": "19085",
-			"message": "$USER_INPUT_NAME$, I...\nI think you're really wonderful! ♪",
+			"message": "$USER_INPUT_NAME$ 님은…\n정말 근사하신 분이세요♪",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "19086",
-			"message": "Haha! ♪",
+			"message": "후훗♪",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "19087",
-			"message": "Today is April Fool's, after all,\nso I shouldn't be too serious...right? ♪",
+			"message": "오늘은 만우절이니까\n진지하게 받아들이지는… 마시고요…♪",
 			"face": "4"
 		},
 		{
 			"tutorialNaviId": "19088",
-			"message": "Okay! Let's go home! ♪",
+			"message": "자! 그럼 농장으로 돌아가요♪",
 			"face": "5"
 		}
 	]

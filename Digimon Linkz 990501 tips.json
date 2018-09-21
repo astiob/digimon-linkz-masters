@@ -3,361 +3,361 @@
 		"tips": [
 			{
 				"tipsId": "1",
-				"message": "The Digital World exists in Cyberspace on the Network. Like the Earth, it has continents and oceans.",
+				"message": "디지털 월드는 네트워크상의 유사 사이버 세계입니다. 지구처럼 대륙과 바다도 있어요.",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "2",
-				"message": "The app that connects the Digital World and the real world is called Digimon Links.",
+				"message": "디지몬 링크스'는 바로 현실 세계와 디지털 월드를 이어주는 앱이랍니다.",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "3",
-				"message": "It looks like lots of Digimon are rampaging around now as the Digital World is fragmenting...",
+				"message": "디지털 월드가 균열을 일으키면서 각지의 디지몬들이 폭주하고 있는 모양이에요….",
 				"icon": "3",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "4",
-				"message": "You can press and hold a Digimon's icon to check out its info.",
+				"message": "디지몬의 아이콘을 길게 누르면 자세한 정보를 확인할 수 있어요.",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "5",
-				"message": "You can get a Login Bonus for logging in once a day! Log in every day to get handy items!",
+				"message": "로그인 보너스는 하루에 한 번 받을 수 있답니다! 매일 로그인해서 아이템을 획득하세요!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "6",
-				"message": "Daily Quests and the items they drop are different each day of the week! Don't forget to check them out!",
+				"message": "요일에 따라 요일 퀘스트의 내용과 드롭 아이템이 변화! 잊지 말고 체크하세요!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "7",
-				"message": "You can get fragments of Mega data in Advent Quests!",
+				"message": "궁극체의 데이터 조각은 강림 퀘스트에서 입수할 수 있어요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "8",
-				"message": "Advent Quests are only unlocked for a limited time. Be sure to check them out while they're available!",
+				"message": "강림 퀘스트는 일정한 시간대에 등장합니다. 잊지 말고 반드시 체크해두세요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "9",
-				"message": "Each Digimon Tribe has different Resistances. With the right attack attribute, you can do serious damage!",
+				"message": "디지몬은 종족에 따라 내성이 다릅니다. 적의 약점 속성으로 공격해 큰 대미지를 노려보세요!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "10",
-				"message": "Digimon whose HP has dropped to 0 can be revived in the next round by using DigiStones!",
+				"message": "디지스톤을 사용하면 HP가 0이 된 디지몬을 다음 라운드에 부활시킬 수 있답니다!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "11",
-				"message": "Signature Skills are powerful attacks with strong effects. Use them wisely to gain the upper hand in battle!",
+				"message": "고유기는 강력한 위력과 효과를 자랑합니다. 잘 활용하여 배틀을 유리하게 이끌어보세요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "12",
-				"message": "Tap on enemy Digimon to switch targets and adapt to the flow of battle!",
+				"message": "적 디지몬을 터치해서 공격대상을 변경할 수 있어요!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "13",
-				"message": "The color of the target icon indicates the effectiveness of your attack. Check it before attacking!",
+				"message": "타겟 아이콘의 색깔로 기술의 상성을 알 수 있습니다. 공격하기 전에 반드시 확인하세요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "14",
-				"message": "Stamina is restored by 1 every 3 minutes. Consider the Stamina cost when you tackle Quests!",
+				"message": "스태미너는 3분마다 1포인트씩 회복합니다. 소비 스태미너를 고려해서 퀘스트에 도전하세요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "15",
-				"message": "AP is restored by 1 point every round. Critical attacks restore an extra 1 point!",
+				"message": "AP는 1라운드마다 1포인트씩 회복! 크리티컬이 발생하면 1포인트 추가 회복!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "16",
-				"message": "When battling opponents with high ATK (physical attack), try building a party of Digimon with high DEF (physical defense)!",
+				"message": "ATK(물리공격력)이 높은 상대와 싸울 때는 DEF(물리방어력)가 높은 디지몬을 데려가 보세요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "17",
-				"message": "When battling opponents with high S-ATK (magical attack), try building a party of Digimon with high S-DEF (magical defense)!",
+				"message": "S-ATK(마법공격력)이 높은 상대와 싸울 때는 S-DEF(마법방어력)가 높은 디지몬을 데려가 보세요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "18",
-				"message": "If you delete this app, your save data will be erased and you'll have to start all over! Be careful!",
+				"message": "앱을 삭제하면 게임 데이터도 삭제됩니다! 조심하세요!",
 				"icon": "3",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "19",
-				"message": "DigiStones are useful for lots of things like making Captures or reducing Facility construction time.",
+				"message": "디지스톤은 캡처 및 시설 건축시간 단축 등, 여러 가지 용도로 유용하게 쓰여요.",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "20",
-				"message": "I'm Hina, your friendly guide to Digimon Links! I'll always be here to help whenever you need me!",
+				"message": "저는 디지몬 링크스의 내비게이터, 히나라고 해요! 최선을 다해 지원해드릴게요!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "21",
-				"message": "The lower the Awakening level of a Digimon is, the easier it is to Digivolve!",
+				"message": "각성치가 낮은 디지몬일수록 진화시키기 쉽답니다!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "22",
-				"message": "You can combine multiple Megas using Research! Doing Research creates DigiEggs!",
+				"message": "연구를 하려면 궁극체끼리 조합해야 한답니다! 그리고 연구를 하면 디지몬알이 탄생하죠!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "23",
-				"message": "Even if two Medals are the same color, they may boost a Digimon's abilities in different ways.",
+				"message": "재능의 메달은 색이 같아도 효과에 차이가 있어요.",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "24",
-				"message": "Abilities can be passed on from a Partner Digimon to a Base Digimon through Ability Seeding!",
+				"message": "재능 개발을 하면 파트너 디지몬의 재능을 베이스 디지몬에게 계승시킬 수 있어요!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "25",
-				"message": "When Enhancing, you may get a Luck boost if the Partner Digimon is from the same Tribe!",
+				"message": "강화 파트너가 같은 종족이면 행운이 상승하기도 해요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "26",
-				"message": "When your Luck goes up, it improves your chances of getting a Luck bonus!",
+				"message": "행운이 상승하면 행운 보너스를 받을 확률도 올라가요!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "27",
-				"message": "If you find yourself struggling in battle, raise the level of your Digimon and try Digivolving them!",
+				"message": "배틀이 힘들 땐 디지몬의 레벨을 올려 진화시켜보세요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "28",
-				"message": "Keep an eye on the AP of your opponents! If they've got a lot of AP saved up, watch out!",
+				"message": "상대의 AP를 유심히 보세요! AP가 모이면 조심해야 돼요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "29",
-				"message": "Review the Legacy Skills of your Digimon to take advantage of the Resistances and Skills of enemy Digimon!",
+				"message": "적 디지몬의 내성과 스킬에 맞춰 디지몬의 계승기를 다시 설정해보세요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "30",
-				"message": "Play through lots of Normal Quests to efficiently raise your levels!",
+				"message": "통상 퀘스트를 많이 플레이하면 레벨을 효율적으로 올릴 수 있어요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "31",
-				"message": "Whichever Digimon you have on your favorited party will appear on your Farm!",
+				"message": "주력 파티에 등록한 디지몬들은 농장에도 등장한답니다!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "32",
-				"message": "Visit your House to see a list of all your Digimon. You can also release Digimon to get Clusters.",
+				"message": "하우스에서 디지몬 목록을 확인할 수 있어요. 그리고 디지몬과 이별하면 클러스터를 얻어요.",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "33",
-				"message": "You can't harvest more Meat than your storage limit allows. Increase this by upgrading your Warehouse!",
+				"message": "고기는 최대 보유 수 이상 수확할 수 없답니다. 창고를 업그레이드하여 최대 보유 수를 늘려보세요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "34",
-				"message": "You can only build two Facilities or Decor at once. Remember to confirm construction once it's complete!",
+				"message": "시설과 장식은 동시에 2개까지 만들 수 있어요. 건설 중으로 취급되는 건설 완료 표시에 주의!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "35",
-				"message": "You can search for Friends by their User Code! You'll make lots of Friends in no time!",
+				"message": "유저 코드로 친구를 검색할 수 있어요! 친구를 팍팍 늘려보세요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "36",
-				"message": "You can increase your Digimon's Resistance with a Resistance Upgrade, so snag lots of matching Digimon!",
+				"message": "내성 변화로 디지몬의 내성을 늘릴 수 있어요. 같은 이름을 가진 디지몬은 소중히!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "37",
-				"message": "When Enhancing, a higher Partner level means more chance for a Luck boost! A Mega will work for sure!",
+				"message": "행운은 강화 시의 파트너 레벨이 높을수록 상승 확률이 업! 파트너가 궁극체라면 반드시 상승!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "38",
-				"message": "Looks like we're safe for now...",
+				"message": "일단은 안심이네요….",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "39",
-				"message": "A state of emergency?! The fragmentation must be affecting things...",
+				"message": "긴급사태…?! 균열이 일어난 영향일까요…?",
 				"icon": "3",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "40",
-				"message": "Phew! Looks like you managed to stop those rampaging Digimon safely!",
+				"message": "휴우… 무사히 디지몬들의 폭주를 막았어요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "41",
-				"message": "The Colosseum isn't open right now. I'll let you know when it's open again!",
+				"message": "콜로세움은 현재 닫혀있어요. 대회가 열리면 바로 알려드릴게요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "42",
-				"message": "Make sure to fight VS Battles somewhere with good reception! A dropped connection counts as a loss.",
+				"message": "대인전은 통신 환경이 좋은 곳에서 즐겨주세요! 통신이 끊기면 패배로 간주되거든요.",
 				"icon": "3",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "43",
-				"message": "Looks like it isn't open right now. Let's read all about it and make sure you're ready!",
+				"message": "지금은 아직 대회가 열리기 전인가 보네요…. 설명을 꼼꼼히 읽고 미리미리 준비해요!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "44",
-				"message": "Looks like your Digimon are raring to go, too! All right, let's do this!",
+				"message": "디지몬들도 의욕이 넘치는 모양이네요! 자, 해치워버리세요!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "45",
-				"message": "Just {0} more wins until the next rank! Come on, you can do it!",
+				"message": "다음 랭크까지 앞으로 {0}승 남았어요! 힘내세요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "46",
-				"message": "Wow, there are lots of people here. I wonder what they're like? Think they'll go easy on us? Me, neither.",
+				"message": "다양한 분들이 계시네요…. 과연 어떤 분들일까요…. 봐주진… 않겠죠?",
 				"icon": "3",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "47",
-				"message": "It's almost closing time! Let's hurry up and battle!",
+				"message": "종료시각까지 얼마 남지 않았어요! 우리도 빨리 배틀을 즐겨봐요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "48",
-				"message": "Ouch... Looks like we got a late start. The sooner we join, the better!",
+				"message": "으으…. 한발 늦은 모양이네요. 우리도 얼른 참가해요!",
 				"icon": "3",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "49",
-				"message": "You did a great job! Your Digimon are cheering you on with all their hearts, too!",
+				"message": "수고하셨습니다! 디지몬들도 당신을 위해 정말 열심히 싸우더군요!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "50",
-				"message": "No matter what the results, I'm just so inspired by the bond between you and your Digimon!",
+				"message": "결과가 어떻든 전 당신과 디지몬들의 끈끈한 유대에 감격했어요!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "51",
-				"message": "Did you find what you were looking for?\nCollect a bunch of stuff to exchange!",
+				"message": "원하는 물건이 있으세요?\n열심히 모아서 마음에 드는 물건과 교환해보세요!",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "52",
-				"message": "This item or that item? There are so many, it's hard to decide!\nOoh! Maybe I'll go with this one...",
+				"message": "이런 아이템에 저런 아이템까지! 눈길 가는 물건이 많네요!\n앗! 난 이걸로 할까….",
 				"icon": "4",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "53",
-				"message": "Hmm...\nLooks like you can't make an exchange right now. Let's check back again later.",
+				"message": "으~음….\n지금은 교환할 수 있는 물건이 아무것도 없나 보네요…. 나중에 또 들러봐요.",
 				"icon": "3",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "54",
-				"message": "If the Owner's connection is lost, you'll fail the Quest. Always battle somewhere with good reception!",
+				"message": "호스트의 통신이 끊기면 퀘스트도 실패로 돌아가니, 통신이 원활한 환경에서 도전하세요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "55",
-				"message": "If a member's connection is lost, they can't return to the Quest. The Owner will take over for them.",
+				"message": "멤버는 통신이 끊기면 퀘스트에 복귀할 수 없어요…. 호스트가 대신 조작하는 수밖에 없죠.",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "56",
-				"message": "Looks like the calculations are going great! They're almost done, so please wait just a little longer!",
+				"message": "지금은… 집계 중인 모양이네요! 곧 끝날 것 같으니 조금만 더 기다려주세요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "57",
-				"message": "Daily Quests are the best way to get Digivolution fuel!\nGather as much as you can!",
+				"message": "진화에 필요한 재료를 모으려면 요일 퀘스트가 가장 좋습니다!!\n재료를 듬뿍 모아 봅시다!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "58",
-				"message": "It seems like things are pretty quiet today.\nLet's train your Digimon with Daily Quests and Normal Quests!",
+				"message": "오늘은 비교적 한산하군요.\n요일 퀘스트나 통상 퀘스트로 디지몬을 육성해봐요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "59",
-				"message": "Looks like a Mega Digimon has appeared.\nLet's get set up and go gather some fragments!",
+				"message": "궁극체 디지몬이 강림한 모양이에요.\n단단히 준비해서 데이터 조각을 모아봐요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			},
 			{
 				"tipsId": "60",
-				"message": "It seems like the Digital World\nis fragmenting all over the\nplace! Let's go stop those\nrampaging Digimon!",
+				"message": "각지에서 균열이 일어나고 있는 모양이에요!\n우리 함께 폭주한 디지몬들을 막으러 가요!",
 				"icon": "5",
 				"img": "Common02_Nabi"
 			}
