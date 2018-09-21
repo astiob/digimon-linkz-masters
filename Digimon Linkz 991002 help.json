@@ -3,785 +3,785 @@
 		{
 			"helpId": "1",
 			"helpCategoryId": "1",
-			"helpTitle": "Digimon Links",
+			"helpTitle": "數碼寶貝Linkz",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The app that connects the Digital World and the real world<br/>is known as <span class='fnt_emphasis fnt_bold'>Digimon Links.</span></div><div class='txt margin_top_10'>Thanks to <span class='fnt_emphasis fnt_bold'>Digimon Links,</span> people can access<br/>the Digital World, an alternate world.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>連結數碼世界與現實世界的App，<br/>就是<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>。</div><div class='txt margin_top_10'>藉由<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>，人們就能夠登入位於<br/>異世界的數碼世界。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "2",
 			"helpCategoryId": "1",
-			"helpTitle": "How to Play",
+			"helpTitle": "遊戲目的",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Due to the breakdown of the Digital World, all of its digital<br/>data is fragmenting into<span class='fnt_emphasis fnt_bold'>Clusters</span>and<br/>is causing many Digimon to go wild.</div><div class='txt margin_top_10'>Your goal is to battle the rampaging Digimon,<br/>gather Clusters, and train Digimon in order<br/>to reconstruct the Digital World.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>由於數碼世界崩壞，所有數碼資料皆片斷化，<br/>成為<span class='fnt_emphasis fnt_bold'>數碼碎片</span>。<br/>各地的數碼寶貝也因此受到影響開始失控。</div><div class='txt margin_top_10'>與失控的數碼寶貝進行戰鬥，蒐集數碼碎片，<br/>為了重新建構數碼世界而<br/>養成數碼寶貝，就是本遊戲的主要目的。</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "3",
 			"helpCategoryId": "1",
-			"helpTitle": "DigiEggs",
+			"helpTitle": "數碼蛋",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>These are Digimon eggs. Petting a DigiEgg will hatch an In-Training Digimon.</div><div class='txt margin_top_10'>In Digimon Links, doing <span class='fnt_emphasis fnt_bold'>Research</span> produces <span class='fnt_emphasis fnt_bold'>DigiEggs.</span></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>數碼寶貝的蛋。若撫摸數碼蛋，會孵化出幼年期I的數碼寶貝。</div><div class='txt margin_top_10'>在數碼寶貝Linkz中，進行<span class='fnt_emphasis fnt_bold'>研究</span>，會產生<span class='fnt_emphasis fnt_bold'>數碼蛋</span>。</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "4",
 			"helpCategoryId": "2",
-			"helpTitle": "Status",
+			"helpTitle": "狀態",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The various stats of your Digimon are listed below.</div><br /><div class='txt margin_top_10'>HP: This value indicates the endurance of your Digimon.<br /><div class='txt margin_top_10'>ATK: This value indicates attack strength. The higher it is,<br />the more damage your physical attacks will do.</div><div class='txt margin_top_10'>DEF: This value indicates defensive strength. The higher it is,<br />the less damage your opponents' physical attacks will do.</div><div class='txt margin_top_10'>S-ATK: This value indicates magical attack strength. The higher it is,<br />the more damage your magical attacks will do.</div><div class='txt margin_top_10'>S-DEF: This value indicates magical defensive strength. The higher it is,<br />the less damage your opponents' magical attacks will do.</div><div class='txt margin_top_10'>SPD: This value indicates speed and affects the attack order of each Round.<br />The higher it is, the better your chances of attacking sooner.</div><div class='txt margin_top_10'>LUCK: The higher this value is, the easier it will be to draw a Luck Bonus.<br />This affects your growth and Awakening values.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>數碼寶貝的各項狀態如下。</div><br /><div class='txt margin_top_10'>HP：顯示數碼寶貝「體力」的數值。<br /><div class='txt margin_top_10'>ATK：顯示「攻擊力」的數值。當此數值越高，<br />物理攻擊系的技能與「ATTACK」所造成的傷害也就越高。</div><div class='txt margin_top_10'>DEF：顯示「防禦力」的數值。當此數值越高，<br />對手的物理攻擊系技能與「ATTACK」所造成的傷害也就越低。</div><div class='txt margin_top_10'>S-ATK：顯示「魔法攻擊力」的數值。當此數值越高，<br />魔法攻擊系的技能所造成的傷害也就越高。</div><div class='txt margin_top_10'>S-DEF：顯示「魔法防禦力」的數值。當此數值越高，<br />對手的魔法攻擊系技能所造成的傷害也就越低。</div><div class='txt margin_top_10'>SPD：顯示「速度」的數值。會影響回合內的攻擊順序。<br />當此數值越高，能夠提升優先發動攻擊的機率。</div><div class='txt margin_top_10'>運氣：當此數值越高，會提升運氣獎勵抽籤發生的機率。<br />依成長階段及覺醒值，上限值也會隨之不同。<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "5",
 			"helpCategoryId": "2",
-			"helpTitle": "Friendship",
+			"helpTitle": "友情度",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>This represents the degree of development of the friendship between you and your Digimon.<br/>It can be raised by tapping your Digimon<br/>on the Farm or winning battles with them.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>Friendship</span> will raise your stats when maxed out.</div><div class='txt margin_top_10'>Also, when you do Research with maxed Friendship, your<br/><span class='fnt_emphasis fnt_bold'>Awakening</span> level can rise by 1.</div><div class='txt margin_top_10'>Friendship boosts on your Farm can be done once per Digimon per day.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>顯示您與數碼寶貝間培育出的友情程度。<br/>在農場內點擊數碼寶貝， <br/>或參加戰鬥並獲得勝利皆會提升。</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>友情度</span>達到一定程度，狀態也會提升。</div><div class='txt margin_top_10'>若在友情度達到上限的狀態進行研究，<br/><span class='fnt_emphasis fnt_bold'>覺醒值</span>將會提升1。</div><div class='txt margin_top_10'>每隻數碼寶貝，每天僅能在農場提升一次友情度。</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "6",
 			"helpCategoryId": "2",
-			"helpTitle": "Awakening",
+			"helpTitle": "覺醒值",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>This value affects the basic stats of your Digimon.</div><div class='txt margin_top_10'>By doing Research when your Base Digimon's Friendship is maxed out, you can Awaken them and boost their basic stats.<br />The maximum Awakening level is +4.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>影響數碼寶貝基本狀態的數值。</div><div class='txt margin_top_10'>在基本體數碼寶貝友情度達到上限值的狀態下進行「研究」，能夠覺醒並提升基本狀態。<br />覺醒值最大可達到「+4」。</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "7",
 			"helpCategoryId": "2",
-			"helpTitle": "Abilities",
+			"helpTitle": "關於才能",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Some Digimon have rare, special <span class='fnt_emphasis fnt_bold'>abilities</span>.<br />When a Digimon has one of these abilities, an <span class='fnt_emphasis fnt_bold'>Ability Medal</span> will appear in their stats.</div><div class='txt margin_top_10'>Compared to the stats of a Digimon without a Medal,<br />the stats of a Digimon with a Medal will be <span class='fnt_emphasis fnt_bold'>higher</span>.</div><div class='txt margin_top_10'>There are two types of Medals: <span class='fnt_emphasis fnt_bold'>Gold Medals</span> and <span class='fnt_emphasis fnt_bold'>Silver Medals</span>.<br />Gold Medals will raise stats higher<br />than Silver Medals.<br />Different Medals also have numbers from I to VI.<br />The higher the number, the higher the stat boost.</div><div class='txt margin_top_10'>By performing Ability Seeding, Ability Medals can be passed to a particular Digimon,<br />increasing<span class='fnt_emphasis fnt_bold'>stats other than Luck and Friendship up to 6 times</span>,<br /><span class='fnt_emphasis fnt_bold'>1 time for each stat</span>.<br />Also, multiple Medals can be added; </span>up to 2 Gold Medals<span class='fnt_emphasis fnt_bold'> and <span class='fnt_emphasis fnt_bold'>up to 6 Silver Medals</span> of <br />various kinds.</div><div class='txt margin_top_10'>When the Ability Medals of the Base Digimon and Partner Digimon<br />are the same in an Ability Seeding,<br />there is <span class='fnt_emphasis fnt_bold'>a chance of a boost to their stats</span>.<br />* There is a maximum limit on Ability Medal stat boosts.</div><div class='txt margin_top_10'>Also, there is a chance of the Partner Digimon's Ability Medal being passed on.<br />The Ability Medals passed on with Ability Seeding are explained below.<br />- In the case of a Silver Medal, a Silver Medal or no Medal.<br />- In the case of a Gold Medal, a Gold Medal or a Silver Medal.</div><div class='txt margin_top_10'>When Ability Seeding is performed after the max number of Gold Medals has been reached,<br />a stat that could otherwise receive a Gold Medal will be<br />chosen at random, and a Silver Medal<br />will be passed on to it instead.</div><div class='txt margin_top_10'>Digimon that have already reached the max number of Gold Medals cannot receive any new Gold Medals.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>有些數碼寶貝擁有極為稀少的<span class='fnt_emphasis fnt_bold'>才能</span>。<br />若數碼寶貝擁有才能時，狀態中會顯示<span class='fnt_emphasis fnt_bold'>才能獎牌</span>。</div><div class='txt margin_top_10'>附加有才能獎牌的狀態，<br />會比同名稱、同覺醒值的數碼寶貝狀態<span class='fnt_emphasis fnt_bold'>數值更高</span>。</div><div class='txt margin_top_10'>才能獎牌分為<span class='fnt_emphasis fnt_bold'>金色的才能獎牌</span>與<span class='fnt_emphasis fnt_bold'>銀色的才能獎牌</span>兩種，<br />比起銀色的才能獎牌，金色的才能獎牌<br />的狀態數值更高。<br />而每個獎牌上都有I～VI的數字，<br />數字越高，狀態數值也越高。</div><div class='txt margin_top_10'>藉由才能開花，每隻數碼寶貝能夠在<br /><span class='fnt_emphasis fnt_bold'>運氣、友情度以外的狀態各裝備1個才能獎牌</span>，<br /><span class='fnt_emphasis fnt_bold'>最多可裝備6個</span>。<br />另外，<span class='fnt_emphasis fnt_bold'>金色的才能獎牌最多2個</span> ，<span class='fnt_emphasis fnt_bold'>銀色的才能獎牌最多6個</span>，<br />各有其裝備數量的限制。</div><div class='txt margin_top_10'>基本體數碼寶貝與夥伴數碼寶貝的才能獎牌，<br />藉由才能開花進行重合，<br /><span class='fnt_emphasis fnt_bold'>狀態的提升值將會隨機率上升</span>。<br />※才能獎牌的狀態提升值具有上限。</div><div class='txt margin_top_10'>另外，有一定機率能夠繼承夥伴數碼寶貝的才能獎牌。<br />藉由才能開花能夠繼承的才能獎牌如下述：<br />・若是銀色的才能獎牌，將會維持銀色的才能獎牌或無才能獎牌的狀態。<br />・若是金色的才能獎牌，將會維持金色的才能獎牌或變成銀色的才能獎牌。 </div><div class='txt margin_top_10'>在才能開花時，若金色的才能獎牌超過上限數，<br />將會從可裝上金色的才能獎牌之狀態中亂數選擇，<br />使其達到上限數，未被選擇的狀態則會變成<br />銀色的才能獎牌。</div><div class='txt margin_top_10'>金色的才能獎牌已達到上限數的數碼寶貝，無法再裝備金色的才能獎牌。</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "8",
 			"helpCategoryId": "3",
-			"helpTitle": "The Farm",
+			"helpTitle": "關於農場",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A region of the Digital World full of basic data.<br/>Players advance in the game using this place as their base.</div><div class='txt margin_top_10'>The Facilities that can be constructed here are useful<br/>for training Digimon to become more effective in battle.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>含有數碼世界基礎資料的領域。<br/>玩家以此處為據點進行遊戲。</div><div class='txt margin_top_10'>可建蓋各種有利於進行戰鬥或<br/>養成數碼寶貝的設施。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "9",
 			"helpCategoryId": "3",
-			"helpTitle": "Stamina",
+			"helpTitle": "體力",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Points spent on Quests. They renew by 1 every 3 minutes.<br/>By using DigiStones, you can immediately<br/>restore your current max Stamina.</div><div class='txt margin_top_10'>Players start with 30 and can add more by using Facilities on their Farm.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>進行冒險時消耗的點數。每3分鐘可回復1點。<br/>若使用數碼石，<br/>可馬上回復至當下的最大體力值。</div><div class='txt margin_top_10'>初期數值為30，可藉由農場設施增加。</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "10",
 			"helpCategoryId": "3",
-			"helpTitle": "DigiStones",
+			"helpTitle": "數碼石",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Bits of special data that have been fragmented.<br/>By gathering them, players can summon Digimon<br/>or even distort the fabric of time.</div><div class='txt margin_top_10'>They can be used to summon Digimon in <span class='fnt_emphasis fnt_bold'>Rare Captures</span>,<br/>to <span class='fnt_emphasis fnt_bold'>Revive</span> incapacitated Digimon,<br/><span class='fnt_emphasis fnt_bold'>to restore Stamina,</span>or to <span class='fnt_emphasis fnt_bold'>Continue</span> a Quest.</div><div class='txt margin_top_10'>DigiStones can be won as prizes in many ways or purchased from the Shop.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>特別的資料變成的碎片。<br/>藉由蒐集數碼石，可召喚數碼寶貝，<br/>或扭曲時間的概念。</div><div class='txt margin_top_10'>能夠以<span class='fnt_emphasis fnt_bold'>稀有捕捉</span>召喚數碼寶貝，<br/>或是<span class='fnt_emphasis fnt_bold'>復活</span>無法戰鬥的數碼寶貝、<br/><span class='fnt_emphasis fnt_bold'>回復體力、</span>冒險時進行<span class='fnt_emphasis fnt_bold'>接關</span>等，有各種使用方式。</div><div class='txt margin_top_10'>數碼石可藉由各種報酬獲得，或是由商店購得。</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "11",
 			"helpCategoryId": "3",
-			"helpTitle": "Cluster",
+			"helpTitle": "資料碎片",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Due to the fragmentation of the Digital World,<br/>data has been breaking up into small pieces.</div><div class='txt margin_top_10 '>Once gathered, they can be used to <span class='fnt_emphasis fnt_bold'>construct Facilities</span> on your Farm<br/>or to <span class='fnt_emphasis fnt_bold'>Enhance</span> or <span class='fnt_emphasis fnt_bold'>Digivolve</span> your Digimon.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>由於數碼世界的片斷化，<br/>而被分解成碎片的資料。</div><div class='txt margin_top_10 '>蒐集數碼碎片後，可用於<span class='fnt_emphasis fnt_bold'>建蓋農場設施</span>， <br/>以及數碼寶貝的<span class='fnt_emphasis fnt_bold'>強化</span>、<span class='fnt_emphasis fnt_bold'>進化</span>等。</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "12",
 			"helpCategoryId": "3",
-			"helpTitle": "Missions",
+			"helpTitle": "任務",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can check your missions by tapping <span class='fnt_emphasis fnt_bold'>Mission</span> on the Farm screen.<br/>Once the mission's conditions are cleared, you can earn a prize.<br/>When you tap Accept on a cleared mission,<br/>the prize is sent to your Present Box.</div><div class='txt margin_top_10'>There are three types: <span class='fnt_emphasis fnt_bold'>Beginner Missions</span>that are meant for beginners, <span class='fnt_emphasis fnt_bold'>Daily Missions</span> which change every day, and <span class='fnt_emphasis fnt_bold'>Cumulative Missions</span> which mark your achievements to date.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>點擊【農場】中的<span class='fnt_emphasis fnt_bold'>任務</span>即可確認。<br/>完成任務條件後即可獲得報酬。<br/>點擊完成任務的〔領取〕，<br/>報酬將會送到禮物盒中。</div><div class='txt margin_top_10'>任務有分為針對新手的<span class='fnt_emphasis fnt_bold'>新手任務</span>、每天不同的<span class='fnt_emphasis fnt_bold'>每日任務</span>，和達成累積數的<span class='fnt_emphasis fnt_bold'>累積任務</span>。</div></article>",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "13",
 			"helpCategoryId": "3",
-			"helpTitle": "Accepting Presents",
+			"helpTitle": "領取禮物的方法",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>On the Farm screen, tap <span class='fnt_emphasis fnt_bold'>Present Box,</span> then tap Accept to claim your <br/><span class='fnt_emphasis fnt_bold'>Presents</span>.</div><div class='txt margin_top_10'>When you have multiple Presents,<span class='fnt_emphasis fnt_bold'>you can accept them</span>all at once if you prefer.</div><div class='txt margin_top_10'>Presents are stored for <span class='fnt_emphasis fnt_bold'>up to 30 days.</span>After that period expires, they will be deleted<br/>starting with the oldest items.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>點擊【農場】中的<span class='fnt_emphasis fnt_bold'>禮物盒</span>，並點擊〔領取〕，<br/>即可領取<span class='fnt_emphasis fnt_bold'>禮物</span>。</div><div class='txt margin_top_10'>當禮物數量在兩個以上時，能夠一次<span class='fnt_emphasis fnt_bold'>全部領取</span>。</div><div class='txt margin_top_10'>禮物將會被保管<span class='fnt_emphasis fnt_bold'>30天</span>，若超過保管期限，將會依序由舊的禮物<br/>開始刪除。</div></article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "14",
 			"helpCategoryId": "3",
-			"helpTitle": "Login Bonuses",
+			"helpTitle": "登入獎勵",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By logging in at least once every day, you can earn a <span class='fnt_emphasis fnt_bold'>Login Bonus</span>.</div><div class='txt margin_top_10'>The Login Bonus will update every day at {'5:00:00'|timezone_format:0:'H:i'}.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>每天登入一次，將會獲得<span class='fnt_emphasis fnt_bold'>登入獎勵</span>。</div><div class='txt margin_top_10'>登入獎勵於每天{'5:00:00'|timezone_format:0:'H:i'}更新。</div></article>",
 			"helpPriority": "7"
 		},
 		{
 			"helpId": "15",
 			"helpCategoryId": "4",
-			"helpTitle": "Exploring",
+			"helpTitle": "關於探索",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>This is the gateway where you may spend Stamina to go on Quests<br/>to defeat rampaging Digimon all over the Digital World.</div><div class='txt margin_top_10'>There are <span class='fnt_emphasis fnt_bold'>Normal Quests</span>, which are always available, as well as <br/><span class='fnt_emphasis fnt_bold'>Daily and Advent Quests</span>, which are limited-time-only.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>消耗體力，打倒各地失控的數碼寶貝的<br/>冒險入口。</div><div class='txt margin_top_10'>分為隨時開啟的<span class='fnt_emphasis fnt_bold'>一般冒險</span>及限期開啟的<br/><span class='fnt_emphasis fnt_bold'>每日冒險、降臨冒險</span>等不同種類。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "16",
 			"helpCategoryId": "4",
-			"helpTitle": "Normal Quests",
+			"helpTitle": "一般冒險",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>These are the main Quests which are always available. By winning battles,<br/>you can get <span class='fnt_emphasis fnt_bold'>EXP</span>, <span class='fnt_emphasis fnt_bold'>Clusters</span>, and <span class='fnt_emphasis fnt_bold'>Plugins (Digivolution fuel)</span>.</div><div class='txt margin_top_10'>Clear all stages in an Area to unlock the next one.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>隨時開啟的主要冒險。若戰鬥勝利，可獲得<br/><span class='fnt_emphasis fnt_bold'>EXP</span>、 <span class='fnt_emphasis fnt_bold'>數碼碎片</span>或<span class='fnt_emphasis fnt_bold'>外掛（進化素材）</span>。</div><div class='txt margin_top_10'>若將區域內所有關卡過關，就會解鎖下一個區域。</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "17",
 			"helpCategoryId": "4",
-			"helpTitle": "Daily Quests",
+			"helpTitle": "每日冒險",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The Quests available change depending on the day of the week.</div><div class='txt margin_top_10'>Certain <span class='fnt_emphasis fnt_bold'>Plug-Ins (Digivolution fuel)</span> are dropped depending on the day of the week.</div><div class='txt margin_top_10'>In each Daily Quest, there are 6 Quests of increasing difficulty level:<br /><span class='fnt_emphasis fnt_bold'>v1.0, v2.0, v3.0, v4.0, v1.0 & 2.0, and v3.0 & 4.0</span>.</div><div class='txt margin_top_10'>If you want to try a particular Daily Quest on a nonscheduled day, you can spend 5 DigiStones to unlock it for 30 minutes.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>每日冒險的關卡異動。</div><div class='txt margin_top_10'>每日冒險會掉落的<span class='fnt_emphasis fnt_bold'>外掛（進化素材）</span>有所固定。</div><div class='txt margin_top_10'>每日冒險有：「<span class='fnt_emphasis fnt_bold'>ver1.0、ver2.0、ver3.0、ver4.0、ver1.0＆2.0、ver3.0＆4.0</span>」<br/>6種階段難易度的冒險。</div><div class='txt margin_top_10'>而非當日的每日冒險，可使用5顆數碼石來開放30分鐘。</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "18",
 			"helpCategoryId": "4",
-			"helpTitle": "Advent Quests",
+			"helpTitle": "降臨冒險",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Quests that feature Mega Digimon. They are only available for a limited time.</div><div class='txt margin_top_10'>These Quests drop <span class='fnt_emphasis fnt_bold'>data fragments</span> required to Digivolve a Mega.</div><div class='txt margin_top_10'>Advent Quests have <span class='fnt_emphasis fnt_bold'>three difficulty levels: </span>Easy, Normal, and Hard.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>究極體登場的冒險，將會限期舉辦。</div><div class='txt margin_top_10'>會掉落進化為究極體所需的<span class='fnt_emphasis fnt_bold'>資料碎片</span>。</div><div class='txt margin_top_10'>降臨冒險依難易度分為「<span class='fnt_emphasis fnt_bold'>初級、中級、高級</span>」三個階段。</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "19",
 			"helpCategoryId": "5",
-			"helpTitle": "The Battle System",
+			"helpTitle": "戰鬥形式",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Battles are turn-based and run on commands.<br/>Three of your Digimon face off with enemy Digimon.</div><div class='txt margin_top_10'>Defeat all enemy Digimon in every WAVE to <span class='fnt_emphasis fnt_bold'>win</span> the battle.<br/>If all of your Digimon are knocked out, you <span class='fnt_emphasis fnt_bold'>lose</span> the battle.<br/>You can win prizes by winning battles,<br/>but if you lose, you'll be unable to claim any EXP<br/>or anything your opponents dropped during the battle.</div><div class='txt margin_top_20'>The battle screen is pictured below.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info4.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info5.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info3.png' width=90%></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>採取回合制的指令戰鬥。<br/>使用己方的3隻數碼寶貝與敵方數碼寶貝對戰。</div><div class='txt margin_top_10'>只要打倒全部WAVE的敵方數碼寶貝，就能取得<span class='fnt_emphasis fnt_bold'>勝利</span>。<br/>若己方數碼寶貝全滅，則會<span class='fnt_emphasis fnt_bold'>敗北</span>。<br/>勝利將可獲得報酬，<br/>但若是敗北，則無法獲得EXP和<br/>敵方掉落的物品。</div><div class='txt margin_top_20'>戰鬥畫面如下：</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info4.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info5.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info3.png' width=90%></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "20",
 			"helpCategoryId": "5",
-			"helpTitle": "Your Party",
+			"helpTitle": "隊伍",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The Digimon you take into battle. Three Digimon form a party.</div><div class='txt margin_top_10'>One of these three Digimon is the <span class='fnt_emphasis fnt_bold'>Leader Digimon</span>.</div><div class='txt margin_top_10'>The Digimon in your party can be swapped out by going to Party Formation.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>戰鬥時攜帶同行的數碼寶貝。由3隻組成一個隊伍。</div><div class='txt margin_top_10'>其中1隻為<span class='fnt_emphasis fnt_bold'>隊長數碼寶貝</span>。</div><div class='txt margin_top_10'>可在【整編隊伍】變更隊伍中的數碼寶貝。</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "21",
 			"helpCategoryId": "5",
-			"helpTitle": "Leader Skills",
+			"helpTitle": "隊長技能",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>If the Digimon selected as the <span class='fnt_emphasis fnt_bold'>Leader</span> of your party has a <br/><span class='fnt_emphasis fnt_bold'>Leader Skill,</span> it will have an effect on your entire party.</div><div class='txt margin_top_10'>There are many types of Skills, each with effects such as boosts to your party.</div><div class='txt margin_top_10'>The effects of a Leader Skill will continue<br/>even if the Digimon selected as Leader is incapacitated.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>隊伍中被選為<span class='fnt_emphasis fnt_bold'>隊長</span>的數碼寶貝若擁有<br/><span class='fnt_emphasis fnt_bold'>隊長技能</span>時，效果可對我方全體發動。</div><div class='txt margin_top_10'>包含有能力提升等各種技能。</div><div class='txt margin_top_10'>即使隊長數碼寶貝無法戰鬥，<br/>隊長技能的效果仍會持續。</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "22",
 			"helpCategoryId": "5",
-			"helpTitle": "Rounds",
+			"helpTitle": "回合",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>When all of your own Digimon and the enemy Digimon have attacked once,<br/>this is called a <span class='fnt_emphasis fnt_bold'>round</span>.</div><div class='txt margin_top_10'>The time that Skills remain in effect is counted in <span class='fnt_emphasis fnt_bold'>rounds.</span><br/>When a Skill is activated, <span class='fnt_emphasis fnt_bold'>the following round</span> will will count as the first round.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>包含己方與敵方的所有數碼寶貝皆攻擊一次，<br/>稱為1<span class='fnt_emphasis fnt_bold'>回合</span>。</div><div class='txt margin_top_10'>技能的有效時間以此<span class='fnt_emphasis fnt_bold'>回合</span>為基準計算，<br/>發動技能後的<span class='fnt_emphasis fnt_bold'>下一回合</span>計為第1回合。</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "23",
 			"helpCategoryId": "5",
-			"helpTitle": "WAVEs",
+			"helpTitle": "WAVE",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>When all the enemy Digimon that appeared have been defeated, this is called a <span class='fnt_emphasis fnt_bold'>WAVE</span>.</div><div class='txt margin_top_10'>A single battle is made up of multiple <span class='fnt_emphasis fnt_bold'>WAVEs</span>.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>從敵方數碼寶貝出現後到全滅為止稱為<span class='fnt_emphasis fnt_bold'>WAVE</span>。</div><div class='txt margin_top_10'>一場戰鬥由複數的<span class='fnt_emphasis fnt_bold'>WAVE</span>所構成。</div></article>",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "24",
 			"helpCategoryId": "5",
-			"helpTitle": "Interrupted Battles",
+			"helpTitle": "戰鬥中斷結束",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>If the app crashes or otherwise closes in the middle of a battle,<br/><span class='fnt_emphasis fnt_bold'>you can resume the battle starting from</span>the beginning of the interrupted round.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>若於戰鬥中退出App，<br/><span class='fnt_emphasis fnt_bold'>可從中斷回合的一開始</span>重啟戰鬥。</div></article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "25",
 			"helpCategoryId": "5",
-			"helpTitle": "Battle Time Limits",
+			"helpTitle": "戰鬥期限",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>If more than <span class='fnt_emphasis fnt_bold'>72 hours (3 days)</span> have passed since the start of a battle,<br/>you will be unable to accept any prizes even if you win.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>自戰鬥開始<span class='fnt_emphasis fnt_bold'>經過72小時（3天）</span>後，<br/>即使戰鬥勝利也無法領取報酬。</div></article>",
 			"helpPriority": "7"
 		},
 		{
 			"helpId": "26",
 			"helpCategoryId": "5",
-			"helpTitle": "Attack Turn Order",
+			"helpTitle": "攻擊順序",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Attack turn order is decided based on the <span class='fnt_emphasis fnt_bold'>SPD</span> of each Digimon.</div><div class='txt margin_top_10'>It is displayed as numbers over each Digimon's head, starting with 0.<br/>When a Digimon's turn comes, a 0 will be displayed.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>攻擊順序基本上取決於數碼寶貝的<span class='fnt_emphasis fnt_bold'>SPD</span>。</div><div class='txt margin_top_10'>數碼寶貝的頭上會標示由0開始的數字，<br/>輪到該數碼寶貝攻擊時，數字將會顯示為0。</div></article>",
 			"helpPriority": "8"
 		},
 		{
 			"helpId": "27",
 			"helpCategoryId": "5",
-			"helpTitle": "Attacking",
+			"helpTitle": "攻擊",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>There are three kinds of Attack: Normal Attacks, <span class='fnt_emphasis fnt_bold'>Signature Skills</span>, and <span class='fnt_emphasis fnt_bold'>Legacy Skills</span>.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>Signature Skills</span> are always the same for each type of Digimon<br/> and have high attacking power or powerful effects.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>Legacy Skills</span> differ between individual Digimon<br/> and may have ability-boosting effects or other special effects.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>攻擊分為普通攻擊、<span class='fnt_emphasis fnt_bold'>固定技</span>與<span class='fnt_emphasis fnt_bold'>繼承技</span>。</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>固定技</span>為各數碼寶貝的固定技能，<br/>擁有高攻擊力與強力效果。</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>繼承技</span>為不分數碼寶貝皆可擁有的技能，<br/>包含有能力提升及擁有特殊效果等技能。</div></article>",
 			"helpPriority": "9"
 		},
 		{
 			"helpId": "28",
 			"helpCategoryId": "5",
-			"helpTitle": "Attributes and Resistances",
+			"helpTitle": "屬性與抗性",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>All attacks (Skills) have an <span class='fnt_emphasis fnt_bold'>Attribute</span>.<br/><span class='fnt_emphasis fnt_bold'>Attributes</span> include both <span class='fnt_emphasis fnt_bold'>Attack Attributes</span> and <span class='fnt_emphasis fnt_bold'>Status Effect Attributes</span>.</div><div class='txt margin_top_10'>The effectiveness of an Attribute is displayed by <span class='fnt_emphasis fnt_bold'>Resistance</span>.<br/><span class='fnt_emphasis fnt_bold'>When Resistance is high</span>, the damage done by an Attack will be <span class='fnt_emphasis fnt_bold'>low</span> and its effects will be <span class='fnt_emphasis fnt_bold'>weak</span>.<br/>On the other hand, <span class='fnt_emphasis fnt_bold'>when Resistance is low</span>, the damage done will be <span class='fnt_emphasis fnt_bold'>high</span> and the effects will be <span class='fnt_emphasis fnt_bold'>strong</span>.</div><div class='txt margin_top_10'>Also, by using the <span class='fnt_emphasis fnt_bold'>Dojo</span> on the Farm to perform <span class='fnt_emphasis fnt_bold'>Resistance Upgrades</span>, <br/>Resistances can be added or changed.</div><div class='txt margin_top_20'><span class='fnt_bold'>- How to check Resistances</span><br/>By tapping and holding on enemies during battle, you can check their Resistances.<br/>In the case of bosses, you can also check their Resistances on the screen displayed prior to leaving to Explore.</div><div class='txt margin_top_10'>Each Resistance icon will be displayed in <span class='fnt_emphasis fnt_bold'>blue</span> when a Skill would have a strong effect and in <br/><span class='fnt_emphasis fnt_bold'>red</span> when it would have a weak effect.</div><h2 class='margin_top_20'>Attack Attributes</h2><table class='fnt_xxsmall txt_center margin_top' style='table-layout:fixed;'><tr><td><img src='/img/help/attribute/1_normal.png' width='90%'></td><td><img src='/img/help/attribute/2_normal.png' width='90%'></td><td><img src='/img/help/attribute/3_normal.png' width='90%'></td><td><img src='/img/help/attribute/4_normal.png' width='90%'></td><td><img src='/img/help/attribute/5_normal.png' width='90%'></td><td><img src='/img/help/attribute/6_normal.png' width='90%'></td><td><img src='/img/help/attribute/7_normal.png' width='90%'></td></tr><tr><td>Null</td><td>Fire</td><td>Water</td><td>Nature</td><td>Thunder</td><td>Darkness</td><td>Light</td></tr></table></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>攻擊（技能）皆擁有<span class='fnt_emphasis fnt_bold'>屬性</span>。<br/>屬性包含<span class='fnt_emphasis fnt_bold'>攻擊屬性</span>與<span class='fnt_emphasis fnt_bold'>異常狀態屬性</span>。</div><div class='txt margin_top_10'>顯示產生屬性效果之難度的數值為<span class='fnt_emphasis fnt_bold'>抗性</span>。<br/><span class='fnt_emphasis fnt_bold'>若抗性越高</span>，技能造成的傷害將會<span class='fnt_emphasis fnt_bold'>降低</span>，也<span class='fnt_emphasis fnt_bold'>越難</span>產生效果。<br/>相反的，<span class='fnt_emphasis fnt_bold'>抗性越低</span>，技能造成的傷害將會<span class='fnt_emphasis fnt_bold'>提升</span>，也<span class='fnt_emphasis fnt_bold' >更容易</span>產生效果。</div><div class='txt margin_top_10'>若在【農場】中的<span class='fnt_emphasis fnt_bold'>道場</span>進行<span class='fnt_emphasis fnt_bold'>抗性變化</span>，<br/>則能夠追加或變更抗性。</div><div class='txt margin_top_20'><span class='fnt_bold'>■抗性的確認方法</span><br/>戰鬥中長按敵人，就能夠確認敵人的抗性。<br/>另外，關於魔王的抗性則可在探索出發前的畫面進行確認。</div><div class='txt margin_top_10'>關於各自的抗性圖示，容易產生效果的為<span class='fnt_emphasis fnt_bold'>藍色</span>，<br/>難以產生效果的則是以<span class='fnt_emphasis fnt_bold'>紅色</span>表示。</div><h2 class='margin_top_20'>攻擊屬性一覽：</h2><table class='fnt_xxsmall txt_center margin_top' style='table-layout:fixed;'><tr><td><img src='/img/help/attribute/1_normal.png' width='90%'></td><td><img src='/img/help/attribute/2_normal.png' width='90%'></td><td><img src='/img/help/attribute/3_normal.png' width='90%'></td><td><img src='/img/help/attribute/4_normal.png' width='90%'></td><td><img src='/img/help/attribute/5_normal.png' width='90%'></td><td><img src='/img/help/attribute/6_normal.png' width='90%'></td><td><img src='/img/help/attribute/7_normal.png' width='90%'></td></tr><tr><td>無</td><td>火</td><td>水</td><td>自然</td><td>雷</td><td>闇</td><td>光</td></tr></table></article>",
 			"helpPriority": "10"
 		},
 		{
 			"helpId": "29",
 			"helpCategoryId": "5",
-			"helpTitle": "Status Effects",
+			"helpTitle": "異常狀態",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>When a Digimon is attacked in battle, a <br/><span class='fnt_emphasis fnt_bold'>Status Effect</span> may be inflicted as well.</div><div class='txt margin_top_10'>Status effects can gradually deplete HP, for example,<br/>or temporarily stop a Digimon from moving.</div><div class='txt margin_top_10'>There are 7 kinds of status effects:<br/><span class='fnt_emphasis fnt_bold'>Stun, Skill Lock, Sleep, Paralysis, Confusion, Poison, and Instant Death</span>.</div><h2 class='margin_top_20'>Status Effects</h2><table class='fnt_xxsmall txt_center margin_top' style='table-layout:fixed;'><tr><td><img src='/img/help/attribute/8_normal.png' width='90%'></td><td><img src='/img/help/attribute/9_normal.png' width='90%'></td><td><img src='/img/help/attribute/10_normal.png' width='90%'></td><td><img src='/img/help/attribute/11_normal.png' width='90%'></td><td><img src='/img/help/attribute/12_normal.png' width='90%'></td><td><img src='/img/help/attribute/13_normal.png' width='90%'></td><td><img src='/img/help/attribute/14_normal.png' width='90%'></td></tr><tr><td>Stun</td><td>Skill<br />Lock</td><td>Sleep</td><td>Paralysis</td><td>Confusion</td><td>Poison</td><td>Instant Death</td></tr></table></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>戰鬥中受到攻擊，有時會陷入<br/><span class='fnt_emphasis fnt_bold'>異常狀態</span>。</div><div class='txt margin_top_10'>陷入異常狀態時會發生HP減少、<br/>一定回合無法行動等情形。</div><div class='txt margin_top_10'>異常狀態分為<span class='fnt_emphasis fnt_bold'>暈眩、技能鎖定、睡眠、麻痺、混亂、中毒、即死</span>等<br/>7種。</div><h2 class='margin_top_20'>異常狀態一覽：</h2><table class='fnt_xxsmall txt_center margin_top' style='table-layout:fixed;'><tr><td><img src='/img/help/attribute/8_normal.png' width='90%'></td><td><img src='/img/help/attribute/9_normal.png' width='90%'></td><td><img src='/img/help/attribute/10_normal.png' width='90%'></td><td><img src='/img/help/attribute/11_normal.png' width='90%'></td><td><img src='/img/help/attribute/12_normal.png' width='90%'></td><td><img src='/img/help/attribute/13_normal.png' width='90%'></td><td><img src='/img/help/attribute/14_normal.png' width='90%'></td></tr><tr><td>暈眩</td><td>技能<br />鎖定</td><td>睡眠</td><td>麻痺</td><td>混亂</td><td>中毒</td><td>即死</td></tr></table></article>",
 			"helpPriority": "11"
 		},
 		{
 			"helpId": "30",
 			"helpCategoryId": "5",
-			"helpTitle": "Tribes",
+			"helpTitle": "種族",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Various <span class='fnt_emphasis fnt_bold'>Tribes</span> have formed among the Digimon.<br/>Each Tribe has different Resistances to Attributes and Status Effects.</div><div class='txt margin_top_10'>They are the <span class='fnt_emphasis fnt_bold'>Mirage Tribe, Blazing Tribe, Glacier Tribe, Electric Tribe, Earth Tribe, Bright Tribe, and Abyss Tribe</span>; <br/>seven tribes in all.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>每個數碼寶貝皆有設定<span class='fnt_emphasis fnt_bold'>種族</span>。<br/>每個種族對於屬性與異常狀態的抗性皆不同。</div><div class='txt margin_top_10'>種族分為<span class='fnt_emphasis fnt_bold'>幻生系、陽炎系、冰河系、電磁系、大地系、光芒系、深淵系</span> <br/>共7種。</div></article>",
 			"helpPriority": "12"
 		},
 		{
 			"helpId": "31",
 			"helpCategoryId": "5",
-			"helpTitle": "Targeting",
+			"helpTitle": "目標",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>When attacking, you can tap enemy Digimon or your Digimon<br/> to switch between different<span class='fnt_emphasis fnt_bold'> targets</span>.</div><div class='txt margin_top_10'>The <span class='fnt_emphasis fnt_bold'>target icon</span> changes color depending on the compatibility of the Skill's Attribute<br/> and the Digimon's Resistance.<br/> When a Skill is selected, the icon turns red to indicate a strong effect,<br/>and turns blue to indicate a weak effect.</div><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial2_quest_2.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>於攻擊時點擊敵方或己方數碼寶貝，則可切換<br/><span class='fnt_emphasis fnt_bold'>目標</span>。</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>目標圖示</span>會隨與技能屬性和數碼寶貝抗性的適性<br/>改變顏色。<br/>選擇技能時，若圖示的顏色為紅色則效果較強，<br/>顯示藍色則效果較弱。</div><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial2_quest_2.png' width=90%></figure></article>",
 			"helpPriority": "13"
 		},
 		{
 			"helpId": "32",
 			"helpCategoryId": "5",
-			"helpTitle": "Reviving Digimon",
+			"helpTitle": "數碼寶貝復活",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A Digimon becomes <span class='fnt_emphasis fnt_bold'>incapacitated</span> when its HP is reduced to 0.</div><div class='txt margin_top_10'> When a Digimon is incapacitated, it can be<br/><span class='fnt_emphasis fnt_bold'> revived</span> by using DigiStones.</div><div class='txt margin_top_10'> Digimon return to battle in the next round after being revived.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>若HP變為0，數碼寶貝將<span class='fnt_emphasis fnt_bold'>無法戰鬥</span>。</div><div class='txt margin_top_10'>無法戰鬥時，使用數碼石可讓數碼寶貝<br/><span class='fnt_emphasis fnt_bold'>復活</span>。</div><div class='txt margin_top_10'>復活的數碼寶貝則會在下一回合回到戰鬥。</div></article>",
 			"helpPriority": "14"
 		},
 		{
 			"helpId": "33",
 			"helpCategoryId": "5",
-			"helpTitle": "Continuing",
+			"helpTitle": "接關",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>If all of your Digimon have been knocked out,<br/> you can use DigiStones to <span class='fnt_emphasis fnt_bold'>continue</span> the battle.</div><div class='txt margin_top_10'> When you continue, all of your Digimon will be revived<br/> and you can resume the battle.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>己方的數碼寶貝全滅時，<br/>可以使用數碼石<span class='fnt_emphasis fnt_bold'>接關</span>。</div><div class='txt margin_top_10'>若進行接關，己方數碼寶貝則會以全部回復的狀態<br/>重新開始戰鬥。</div></article>",
 			"helpPriority": "15"
 		},
 		{
 			"helpId": "34",
 			"helpCategoryId": "5",
-			"helpTitle": "Changing Battle Modes",
+			"helpTitle": "變更戰鬥模式",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Battles can be changed into the following modes.</div><div class='txt margin_top_10'>Speed Mode: Continue the battle at double speed.</div><div class='txt margin_top_10'>Auto Mode: Continue the battle on autopilot.<br/>In Auto Mode, Digimon will automatically prefer to use their Signature Skills.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>戰鬥時可變更以下的戰鬥模式。</div><div class='txt margin_top_10'>・倍速模式：能夠以倍速進行戰鬥。</div><div class='txt margin_top_10'>・自動模式：能夠自動進行戰鬥。<br/>　在自動模式下各數碼寶貝行動時會優先發動固定技。</div></article>",
 			"helpPriority": "16"
 		},
 		{
 			"helpId": "35",
 			"helpCategoryId": "5",
-			"helpTitle": "Luck Bonuses",
+			"helpTitle": "運氣獎勵",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A special reward that can be gained according to the <span class='fnt_emphasis fnt_bold'>LUCK</span> stat of the Digimon.</div><div class='txt margin_top_10'>Luck Bonuses are handled differently from normal prize drops. When a Luck Bonus occurs, you'll earn <br/><span class='fnt_emphasis fnt_bold'>more prizes than usual</span>.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>依據在數碼寶貝狀態中的「<span class='fnt_emphasis fnt_bold'>運氣</span>」數值可獲得的特別報酬。</div><div class='txt margin_top_10'>與一般掉落報酬分開計算，發生運氣獎勵時，可獲得<br/><span class='fnt_emphasis fnt_bold'>比平常更多</span>的報酬。</div></article>",
 			"helpPriority": "17"
 		},
 		{
 			"helpId": "36",
 			"helpCategoryId": "8",
-			"helpTitle": "Facilities",
+			"helpTitle": "關於設施",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Buildings that can be constructed on your Farm.<br/>Facilities can be constructed by spending <span class='fnt_emphasis fnt_bold'>Clusters</span>.<br/>Some facilities only become available after certain conditions have been met.</div><div class='txt margin_top_10'>Once constructed, facilities have various effects<br/> that make it easier to advance in the game.</div><div class='txt margin_top_10'>By tapping the <span class='fnt_emphasis fnt_bold'>Layout button</span> or <br/><span class='fnt_emphasis fnt_bold'>tapping and dragging the facilities</span>, <br/>you can rearrange them on your Farm.</div><div class='txt margin_top_20'>Facilities can be constructed as shown below.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info1.png' width=90%></figure><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial_info2.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>可設置在農場內的建築物。<br/>可藉由消耗<span class='fnt_emphasis fnt_bold'>數碼碎片</span>建蓋設施。<br/>部分設施需在滿足特定條件後才可建蓋。</div><div class='txt margin_top_10'>藉由建蓋設施，<br/>能夠取得各式各樣有利於遊戲進行的效果。</div><div class='txt margin_top_10'>建蓋的設施可使用農場內的<span class='fnt_emphasis fnt_bold'>配置鍵</span>，<br/>或是<span class='fnt_emphasis fnt_bold'>點擊、拖曳各設施</span>，<br/>來變更設置場所。</div><div class='txt margin_top_20'>設施的建蓋方式如下：</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info1.png' width=90%></figure><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial_info2.png' width=90%></figure></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "37",
 			"helpCategoryId": "8",
-			"helpTitle": "Upgrading Facilities",
+			"helpTitle": "設施升級",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By spending Clusters or DigiStones, you can<br/><span class='fnt_emphasis fnt_bold'> upgrade</span> your facilities.<br/>Tap the facility and press the Upgrade button<br/> to spend Clusters or DigiStones and start the upgrade.</div><div class='txt margin_top_10'>Upgrading facilities enhances their functions and features.</div><div class='txt margin_top_10'>Up to two facilities can be constructed or upgraded at once.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>藉由消耗數碼碎片與數碼石，<br/>即可<span class='fnt_emphasis fnt_bold'>升級</span>設施。<br/>點擊設施並按下升級鍵後，<br/>則會消耗數碼碎片或數碼石並開始升級。</div><div class='txt margin_top_10'>藉由升級能夠強化該設施的功能。</div><div class='txt margin_top_10'>一次最多可同時進行兩項建蓋、升級作業。</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "38",
 			"helpCategoryId": "8",
-			"helpTitle": "Reducing Construction and Upgrade Time",
+			"helpTitle": "建造、升級的時間縮短",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Constructing a facility or completing an upgrade requires a fixed amount of time.<br/>Tapping a facility while it is being constructed or upgraded<br/>causes a Reduce Time button to appear.</div><div class='txt margin_top_10'>By spending <span class='fnt_emphasis fnt_bold'>DigiStones</span>, you can reduce the time required for <br/>construction or upgrades.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>建蓋、升級完成需要花費一定的時間。<br/>點擊建蓋、升級中的設施，<br/>則會出現時間縮短鍵。</div><div class='txt margin_top_10'>消耗<span class='fnt_emphasis fnt_bold'>數碼石</span>，<br/>可縮短建蓋、升級時間。</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "39",
 			"helpCategoryId": "8",
-			"helpTitle": "House",
+			"helpTitle": "小屋",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A facility that boosts the max number of Digimon you can keep.<br/>Here, you can view a <span class='fnt_emphasis fnt_bold'>List</span> of all your Digimon, check their past and future Digivolutions with the <span class='fnt_emphasis fnt_bold'>Digivolution Chart</span>, or <span class='fnt_emphasis fnt_bold'>Release</span> your Digimon.</div><div class='txt margin_top_10'>Released Digimon are converted into Clusters.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>可提升數碼寶貝持有數上限的設施。<br/>可觀看<span class='fnt_emphasis fnt_bold'>進化圖</span>，以確認持有數碼寶貝的<span class='fnt_emphasis fnt_bold'>一覽</span>及進化前後的資訊等，並可與數碼寶貝<span class='fnt_emphasis fnt_bold'>別離</span>。</div><div class='txt margin_top_10'>別離後數碼寶貝將會轉換為數碼碎片。</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "40",
 			"helpCategoryId": "8",
-			"helpTitle": "Meat Field",
+			"helpTitle": "肉田",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A field for cultivating the Meat you give your Digimon. <span class='fnt_emphasis fnt_bold'>Meat</span> grows in it as time passes.<br/>By tapping the <span class='fnt_emphasis fnt_bold'>Meat Field</span>, you can harvest the Meat.</div><div class='txt margin_top_10'>When you reach your Meat storage limit, you can't harvest any more,<br/>so when that happens, you'll need to increase your Meat storage limit.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>在田裡可栽培餵食給數碼寶貝的肉。<span class='fnt_emphasis fnt_bold'>肉</span>會隨著時間成長。<br/>點擊<span class='fnt_emphasis fnt_bold'>肉田</span>則可收成肉。</div><div class='txt margin_top_10'>超過肉的持有數上限則無法進行收成，<br/>此時需要提升肉的持有數上限。</div></article>",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "41",
 			"helpCategoryId": "8",
-			"helpTitle": "Warehouse",
+			"helpTitle": "倉庫",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A facility that boosts the storage limit for the Meat harvested from your Meat Field.<br/>When you reach your Meat storage limit and can't harvest more,<br/>you'll need to enhance your <span class='fnt_emphasis fnt_bold'>Warehouse</span>.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>從肉田收成的肉可在此設施內提升持有數上限。<br/>達到持有數上限，而無法收成肉時，<br/>必須強化<span class='fnt_emphasis fnt_bold'>倉庫</span>。</div></article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "42",
 			"helpCategoryId": "8",
-			"helpTitle": "Restaurant",
+			"helpTitle": "餐廳",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A facility that boosts your maximum Stamina.<br/>By upgrading your <span class='fnt_emphasis fnt_bold'>Restaurant</span>,<br/>you can increase your maximum Stamina value.</div><div class='txt margin_top_10'>By finishing construction or an upgrade of a Restaurant,<br/>you can fully restore your Stamina.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>可提升體力上限值的設施。<br/>將<span class='fnt_emphasis fnt_bold'>餐廳</span>升級，<br/>則可提升體力上限值。</div><div class='txt margin_top_10'>餐廳建蓋、升級完成時，<br/>體力將完全回復。</div></article>",
 			"helpPriority": "7"
 		},
 		{
 			"helpId": "43",
 			"helpCategoryId": "8",
-			"helpTitle": "Dojo",
+			"helpTitle": "道場",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A facility for <span class='fnt_emphasis fnt_bold'>Legacies</span> and <span class='fnt_emphasis fnt_bold'>Resistance Upgrades</span>.</div><div class='txt margin_top_20'><span class='fnt_emphasis fnt_bold'>Legacies</span> overwrite a <span class='fnt_emphasis fnt_bold'>Legacy Skill</span> possessed by one Digimon to <br/>replace another Digimon's Legacy Skill.</div><div class='txt margin_top_20'><span class='fnt_emphasis fnt_bold'>Resistance Upgrades</span> combine Digimon with the same name and Digivolution fuel<br/> to randomly add one Resistance.</div><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial2_succession_1.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_Arousal_1.png' width=90%></article>",
+			"detail": "<article id='help'> <div class='txt margin_top_10'>可進行<span class='fnt_emphasis fnt_bold'>繼承</span>與<span class='fnt_emphasis fnt_bold'>抗性變化</span>的設施。</div><div class='txt margin_top_20'><span class='fnt_emphasis fnt_bold'>繼承</span>能夠將數碼寶貝所持有的<span class='fnt_emphasis fnt_bold'>繼承技</span>覆寫在<br/>其他數碼寶貝所持有的繼承技之上。</div><div class='txt margin_top_20'><span class='fnt_emphasis fnt_bold'>抗性變化</span>則可將相同數碼寶貝與進化素材結合，<br/>隨機增加一項抗性。</div><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial2_succession_1.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_Arousal_1.png' width=90%></article>",
 			"helpPriority": "8"
 		},
 		{
 			"helpId": "44",
 			"helpCategoryId": "8",
-			"helpTitle": "Legacies",
+			"helpTitle": "關於繼承",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can overwrite a <span class='fnt_emphasis fnt_bold'>Legacy Skill</span> possessed by one Digimon to<br/> replace another Digimon's Legacy Skill.<br/>To pass down a Legacy, the Partner Digimon<br/> must have their level maxed out.</div><div class='txt margin_top_10'>When a Legacy is passed down, the Partner Digimon will vanish.</div><div class='txt margin_top_20'>Legacies can be passed down as shown below.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_succession_3_v4.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>能夠將數碼寶貝所持有的<span class='fnt_emphasis fnt_bold'>繼承技</span>覆寫在<br/>其他數碼寶貝所持有的繼承技之上。<br/>繼承須在夥伴數碼寶貝<br/>達到最高等級時才可進行。</div><div class='txt margin_top_10'>進行繼承後，被選為夥伴的數碼寶貝將消失。</div><div class='txt margin_top_20'>繼承的方法如下：</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_succession_3_v4.png' width=90%></figure></article>",
 			"helpPriority": "9"
 		},
 		{
 			"helpId": "45",
 			"helpCategoryId": "8",
-			"helpTitle": "Resistance Upgrades",
+			"helpTitle": "關於抗性變化",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can combine Digimon with the same name and<br/> Digivolution fuel to randomly add one Resistance.<br/>Mega Digimon can receive Resistance Upgrades using<br/> their own data fragments and Digivolution Fuel.</div><div class='txt margin_top_10'>When performing another Resistance Upgrade, you can change the Resistance being upgraded.</div><div class='txt margin_top_10'>Upgraded Resistances are carried over through Digivolution and Mode Changes.<br/>When Resistances are redundant, the Resistance can be drawn for again.</div><div class='txt margin_top_10'>When a Resistance is upgraded, the Partner Digimon will vanish.</div><div class='txt margin_top_20'>Resistances can be upgraded as shown below.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_Arousal_2_v4.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>將相同的數碼寶貝與進化素材結合，<br/>可隨機增加一項抗性。<br/>究極體能夠以該究極體的資料碎片與進化素材<br/>進行抗性變化。</div><div class='txt margin_top_10'>藉由再次進行抗性變化，能夠將已追加的抗性更改為新的抗性。</div><div class='txt margin_top_10'>進化時與變更模式時將繼承追加的抗性。<br/>抗性重複時，將再度進行抗性的抽籤。</div><div class='txt margin_top_10'>進行抗性變化後，被選為夥伴的數碼寶貝將消失。</div><div class='txt margin_top_20'>抗性變化的方法如下：</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_Arousal_2_v4.png' width=90%></figure></article>",
 			"helpPriority": "10"
 		},
 		{
 			"helpId": "46",
 			"helpCategoryId": "8",
-			"helpTitle": "Lab",
+			"helpTitle": "研究所",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A facility for creating DigiEggs from two Megas.</div><div class='txt margin_top_10'>In the <span class='fnt_emphasis fnt_bold'>Lab</span>, you can do <span class='fnt_emphasis fnt_bold'>Research</span> to create DigiEggs,<br/>hatch those DigiEggs in the <span class='fnt_emphasis fnt_bold'>Garden</span>,<br/>or perform <span class='fnt_emphasis fnt_bold'>Ability Seeding</span> to hand down Medals.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_labo_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_garden_1.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>能夠讓兩隻究極體間誕生數碼蛋的設施。</div><div class='txt margin_top_10'>在<span class='fnt_emphasis fnt_bold'>研究所</span>中，能夠進行讓數碼蛋誕生的<span class='fnt_emphasis fnt_bold'>研究</span>、<br/>孵化數碼蛋的<span class='fnt_emphasis fnt_bold'>花園</span>與<br/>繼承才能獎牌的<span class='fnt_emphasis fnt_bold'>才能開花</span>。</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_labo_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_garden_1.png' width=90%></figure></article>",
 			"helpPriority": "11"
 		},
 		{
 			"helpId": "47",
 			"helpCategoryId": "8",
-			"helpTitle": "Research",
+			"helpTitle": "關於研究",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>DigiEggs can be created by combining two Megas.<br/>When <span class='fnt_emphasis fnt_bold'>Research</span> is performed, a <span class='fnt_emphasis fnt_bold'>DigiEgg</span> is produced that will Digivolve<br/> into the same Rookie form as the Base Digimon.</div><div class='txt margin_top_10'>The <span class='fnt_emphasis fnt_bold'>qualities that can be passed down</span> through Research are listed below.<br />- The Base Digimon's Legacy Skill<br />- The Base Digimon's Leader Skill<br />- The Base Digimon's Abilities<br />- The Base Digimon's Luck</div><div class='txt margin_top_10'><br />* For more information about Abilities, go to Help and look under Digimon, then Abilities.</div><div class='txt margin_top_10'>The <span class='fnt_emphasis fnt_bold'>qualities that can be reset</span> through Research are listed below.<br />- Friendship<br />- Resistances obtained through Resistance Upgrades</div><div class='txt margin_top_10'>Also, when <span class='fnt_emphasis fnt_bold'>the Base Digimon is at max Friendship</span>,<br/>the DigiEgg's <span class='fnt_emphasis fnt_bold'>Awakening level will be boosted by 1</span>.</div><div class='txt margin_top_20'>When Awakening level is already at 4, max Friendship will have no boosting effect.</div><div class='txt margin_top_10'>* If Research is completed, the Partner Digimon will vanish.</div><div class='txt margin_top_20'> The way to conduct Research is shown below.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_labo_3.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>組合究極體，將會誕生數碼蛋。<br/>若進行<span class='fnt_emphasis fnt_bold'>研究</span>，將會誕生<span class='fnt_emphasis fnt_bold'>數碼蛋</span>，<br/>未來將成長為基本體數碼寶貝的幼年期。</div><div class='txt margin_top_10'>藉由研究<span class='fnt_emphasis fnt_bold'>能夠繼承的項目</span>如下：<br />・基本體數碼寶貝的繼承技<br />・基本體數碼寶貝的隊長技能<br />・基本體數碼寶貝的才能<br />・基本體數碼寶貝的運氣</div><div class='txt margin_top_10'><br />※關於才能請參考幫助中的「數碼寶貝」中的「關於才能」項目。</div><div class='txt margin_top_10'>藉由研究<span class='fnt_emphasis fnt_bold'>重置的項目</span>如下：<br />・友情度<br />・經由「抗性變化」所賦予的抗性</div><div class='txt margin_top_10'>另外，<span class='fnt_emphasis fnt_bold'>基本體數碼寶貝的友情度達到上限</span>時，<br/>數碼蛋的<span class='fnt_emphasis fnt_bold'>覺醒值將提升1</span>。</div><div class='txt margin_top_20'>而當覺醒值已達到4時，即使友情度達到上限，覺醒值也不會提升。</div><div class='txt margin_top_10'>※進行研究後，被選為基本體與夥伴的數碼寶貝皆會消失。</div><div class='txt margin_top_20'>研究的方法如下：</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_labo_3.png' width=90%></figure></article>",
 			"helpPriority": "12"
 		},
 		{
 			"helpId": "48",
 			"helpCategoryId": "8",
-			"helpTitle": "Garden",
+			"helpTitle": "關於花園",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The place where DigiEggs created using Research are looked after.</div><div class='txt margin_top_10'>Petting a DigiEgg in your <span class='fnt_emphasis fnt_bold'>Garden</span> will hatch an In-Training Digimon.<br/>Digimon remain in the Garden throughout their DigiEgg and In-Training stages.<br/>Until they leave the Garden,<br/>Digimon cannot join your party or be enhanced.</div><div class='txt margin_top_10'>The <span class='fnt_emphasis fnt_bold'>List</span> in your Garden also shows the<br/> Digimon you befriended with Link Captures.<br/>Select Digimon from your List to train them in your Garden.</div><div class='txt margin_top_20'>The ways to Hatch and Digivolve are shown below.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_garden_2.png' width=90%></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>保管透過研究誕生之數碼蛋的場所。</div><div class='txt margin_top_10'>在<span class='fnt_emphasis fnt_bold'>花園</span>內撫摸數碼蛋，將會誕生幼年期I的數碼寶貝。<br/>處於數碼蛋～幼年期II時，將維持待在花園內的狀態，<br/>在離開花園之前，<br/>無法進行該數碼寶貝的整編或強化。</div><div class='txt margin_top_10'>另外，在花園的<span class='fnt_emphasis fnt_bold'>一覽</span>中可看到透過Link捕捉<br/>成為夥伴的幼年期數碼寶貝。<br/>藉由選擇一覽內的數碼寶貝，能夠在花園內養成數碼寶貝。</div><div class='txt margin_top_20'>誕生與進化的方法如下：</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_garden_2.png' width=90%></article>",
 			"helpPriority": "13"
 		},
 		{
 			"helpId": "50",
 			"helpCategoryId": "8",
-			"helpTitle": "Recruitment Notice",
+			"helpTitle": "招募板",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A place to post requests for Co-Op partners.<br /><br />Since you cannot participate in Normal Quests that are more advanced than your own progress, those posts will not be displayed.<br />Event Quests that are more advanced than your own progress may be displayed, but please bear the difficulty level in mind when choosing to participate.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>招募協力戰鬥的委託將集中於此處。<br /><br />在一般冒險中無法參加超前自己進度的冒險，因此不會顯示。<br />活動冒險則會顯示超前自己進度的冒險，因此參加前請先衡量難易度。</div></article>",
 			"helpPriority": "15"
 		},
 		{
 			"helpId": "51",
 			"helpCategoryId": "8",
-			"helpTitle": "Decor",
+			"helpTitle": "關於裝飾",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Cheerful items that can be used to decorate your Farm.<br/>They have no special function, but can be arranged on your farm<br/> to <span class='fnt_emphasis fnt_bold'>customize</span> it and make it your own.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>可配置在農場的各種裝飾。<br/>雖然沒有特殊功能，但可以配置出<span class='fnt_emphasis fnt_bold'>專屬於自己的農場</span>。</div></article>",
 			"helpPriority": "16"
 		},
 		{
 			"helpId": "52",
 			"helpCategoryId": "9",
-			"helpTitle": "Food",
+			"helpTitle": "餵食",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>When Feeding your Digimon, you can give them the Meat harvested from your Meat Field.</div><div class='txt margin_top_10'>Giving Meat to your Digimon is a good way to earn <span class='fnt_emphasis fnt_bold'>EXP</span> for them.<div class='txt margin_top_10'>You can also use <span class='fnt_emphasis fnt_bold'>Gourmet Meat</span> to max out their level regardless of their current Digivolution stage, level, EXP, or Awakening level.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_2_v4.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_3.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>「餵食」可將肉田收成的肉餵給數碼寶貝。</div><div class='txt margin_top_10'>餵食肉給數碼寶貝可獲得<span class='fnt_emphasis fnt_bold'>EXP</span>。<div class='txt margin_top_10'>另外，<span class='fnt_emphasis fnt_bold'>高級肉</span>可使數碼寶貝提升至最高等級，且不論目前進化階段、等級、獲得EXP和覺醒值。</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_2_v4.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_3.png' width=90%></figure></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "53",
 			"helpCategoryId": "9",
-			"helpTitle": "Enhancing",
+			"helpTitle": "強化",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By combining a Base Digimon and a Partner Digimon,<br/>you can earn EXP for the Base Digimon.<br/>The Partner Digimon will vanish.</div><div class='txt margin_top_10'>When the Base and Partner Digimon are from the same Tribe,<br/>there is a chance of producing a <span class='fnt_emphasis fnt_bold'>Luck</span> boost.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_training_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_training_2_v4.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>藉由結合基本體數碼寶貝與夥伴數碼寶貝，<br/>基本體數碼寶貝可獲得EXP。<br/>被選為夥伴的數碼寶貝將消失。</div><div class='txt margin_top_10'>若基本體與夥伴為同一種族時，<br/>有一定機率可使<span class='fnt_emphasis fnt_bold'>運氣</span>提升。</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_training_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_training_2_v4.png' width=90%></figure></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "54",
 			"helpCategoryId": "9",
-			"helpTitle": "Digivolution",
+			"helpTitle": "進化",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can Digivolve your Digimon by using<br/> Plugins, data fragments, and Clusters.<br/>A Digimon's level must be maxed out to Digivolve.</div><div class='txt margin_top_10'>In-Training Digimon can be Digivolved by allowing them</div> to spend time in your Garden.<br/><div class='txt margin_top_10'>Some types of Digimon can perform a <span class='fnt_emphasis fnt_bold'>Mode Change</span>,<br/>which changes their appearance and stats.</div><div class='txt margin_top_10'>Unlike Digivolution, this can be done regardless of level<br/> and without consuming Plugins.</div><div class='txt margin_top_20'>The order of Digivolution is shown below.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_evolution_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_evolution_2.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>可使用外掛或數碼碎片<br/>使數碼寶貝進化。<br/>進化時數碼寶貝需升至最高等級。</div><div class='txt margin_top_10'>幼年期I、II在花園經過一定的時間，<br/>即可進化。</div><div class='txt margin_top_10'>部分數碼寶貝可進行<span class='fnt_emphasis fnt_bold'>變更模式</span>，其外型與狀態皆會產生變化。<br/></div><div class='txt margin_top_10'>與進化不同，不要求等級，<br/>也不消耗外掛即可進行。</div><div class='txt margin_top_20'>進化的步驟如下：</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_evolution_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_evolution_2.png' width=90%></figure></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "55",
 			"helpCategoryId": "9",
-			"helpTitle": "Party Formation",
+			"helpTitle": "整編",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can select the Digimon that <span class='fnt_emphasis fnt_bold'>form your party</span> and participate in battle.</div><div class='txt margin_top_10'>The Digimon selected as your <span class='fnt_emphasis fnt_bold'>Favorites</span> will<br/> appear on your Farm.</div><div class='txt margin_top_20'>The way to form your Party is shown below.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_deck_1_v4.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>能夠<span class='fnt_emphasis fnt_bold'>整編</span>參加戰鬥的數碼寶貝隊伍。</div><div class='txt margin_top_10'>設定為<span class='fnt_emphasis fnt_bold'>我的最愛</span>隊伍的數碼寶貝<br/>將出現在農場。</div><div class='txt margin_top_20'>隊伍的整編方法如下：</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_deck_1_v4.png' width=90%></figure></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "56",
 			"helpCategoryId": "11",
-			"helpTitle": "Rare Captures",
+			"helpTitle": "稀有捕捉",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>DigiStones can be used to summon Digimon.</div><div class='txt margin_top_10'>In <span class='fnt_emphasis fnt_bold'>Rare Captures</span>, you can get Digimon that are <span class='fnt_emphasis fnt_bold'>Rookies or higher</span>.</div><div class='txt margin_top_10'>Sometimes, duplicate Digimon will be summoned.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>使用數碼石可召喚出數碼寶貝。</div><div class='txt margin_top_10'>在<span class='fnt_emphasis fnt_bold'>稀有捕捉</span>中可獲得<span class='fnt_emphasis fnt_bold'>成長期以上</span>的數碼寶貝。</div><div class='txt margin_top_10'>出現的數碼寶貝可能重複。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "57",
 			"helpCategoryId": "11",
-			"helpTitle": "Link Captures",
+			"helpTitle": "Link捕捉",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Link Points can be used to summon Digimon.</div><div class='txt margin_top_10'>In <span class='fnt_emphasis fnt_bold'>Link Captures</span>, you can get Digimon that are <span class='fnt_emphasis fnt_bold'>In-Training</span>.</div><div class='txt margin_top_10'>Sometimes, duplicate Digimon will be summoned.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>使用Link點數可召喚出數碼寶貝。</div><div class='txt margin_top_10'>在<span class='fnt_emphasis fnt_bold'>Link捕捉</span>中可獲得<span class='fnt_emphasis fnt_bold'>幼年期I、II</span>的數碼寶貝。</div><div class='txt margin_top_10'>出現的數碼寶貝可能重複。</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "58",
 			"helpCategoryId": "11",
-			"helpTitle": "Link Points",
+			"helpTitle": "Link點數",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>These points are used to perform Link Captures.</div><div class='txt margin_top_10'>They can be earned as prizes in various ways, such as through Login Bonuses.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>進行Link捕捉時所需的點數。</div><div class='txt margin_top_10'>可透過登入獎勵等各式各樣的報酬中取得。</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "60",
 			"helpCategoryId": "13",
-			"helpTitle": "Friends",
+			"helpTitle": "好友",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By selecting the Friend menu icon,<br/>you can <span class='fnt_emphasis fnt_bold'>view your Friends</span>, input your friends' User IDs under Search,<br/>and carry out <span class='fnt_emphasis fnt_bold'>User Searches and Friend Requests</span>.</div><div class='txt margin_top_10'>If you or the person you are trying to friend have reached your max number of friends,<br/>you cannot send a Friend Request, so be careful.</div><div class='txt margin_top_10'>You can view the <span class='fnt_emphasis fnt_bold'>users you've sent requests to</span> and <span class='fnt_emphasis fnt_bold'>users who've sent requests to you</span><br/> under <span class='fnt_emphasis fnt_bold'>Requests Sent</span> and <span class='fnt_emphasis fnt_bold'>Requests Received</span> in the Friends menu.</div><div class='txt margin_top_10'>Also, when you receive a Friend Request from another user,<br/>you can accept it to register them as a Friend.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>選擇選單圖示的【好友】後，<br/>可進行<span class='fnt_emphasis fnt_bold'>好友確認</span>或在搜尋欄輸入朋友的用戶ID，<br/>來進行<span class='fnt_emphasis fnt_bold'>用戶搜尋及好友申請</span>。</div><div class='txt margin_top_10'>自己或提出好友申請的對象之好友數已達到上限數時，<br/>則無法提出好友申請，請特別注意。</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>申請好友中的用戶</span>或<span class='fnt_emphasis fnt_bold'>等待好友核准的用戶</span>可從<br/>【好友】欄位內的<span class='fnt_emphasis fnt_bold'>申請中</span>、<span class='fnt_emphasis fnt_bold'>待核准</span>進行確認。</div><div class='txt margin_top_10'>另外，其他用戶對您提出好友申請時，<br/>核准申請即可將對方登錄為好友。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "61",
 			"helpCategoryId": "13",
-			"helpTitle": "Field Guide",
+			"helpTitle": "圖鑑",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By selecting the Field Guide menu icon,<br/> you can view information about all the Digimon you've collected so far.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>選擇選單圖示中的【圖鑑】，<br/>即可確認目前為止獲得的數碼寶貝資訊。</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "62",
 			"helpCategoryId": "13",
-			"helpTitle": "How to Change Your Sound and Notification Settings",
+			"helpTitle": "音效及通知設定變更方法",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By selecting the Settings menu icon, <br/>you can adjust the BGM/SFX volume and turn push notifications ON/OFF.</div><div class='txt margin_top_10'>You can also adjust BGM/SFX volume<br/>by going to \"Title\" > \"Options\".</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>選擇選單圖示中的【設定】，<br/>即可調整BGM/SE的音量，以及啟用或關閉推播通知。</div><div class='txt margin_top_10'>此外，從【標題畫面】＞【選項】<br/>也可調整BGM/SE的音量。</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "63",
 			"helpCategoryId": "13",
-			"helpTitle": "Checking Announcements",
+			"helpTitle": "公告的確認方法",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By selecting the Announcements menu icon,<br/> you can view the announcements you've been sent.<br/> Tap an announcement to view it in detail.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>選擇選單圖示中的【公告】，<br/>即可確認送達的公告。<br/>點擊送達的公告即可閱讀詳細資訊。</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "64",
 			"helpCategoryId": "13",
-			"helpTitle": "Profile",
+			"helpTitle": "基本資料",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By selecting the Profile menu icon,<br />you can display your own profile.</div><div class='txt margin_top_10'>In your profile, you can view your<span class='fnt_emphasis fnt_bold'> Title, User Code, User Name, Field Guide, and Comment</span>.<br /></div><div class='txt margin_top_10'>You can change your Title and User Name and edit your Comment.<br />Including private personal information, rude or abusive language, or any other<br /> inappropriate content is prohibited. Thank you for your cooperation!</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>選擇選單圖示中的【基本資料】，<br />將會出現自己的基本資料。</div><div class='txt margin_top_10'>可在基本資料中確認<br /><span class='fnt_emphasis fnt_bold'>稱號、用戶碼、用戶名稱、圖鑑登錄數、留言</span>。</div><div class='txt margin_top_10'>也可變更稱號、用戶名稱或編輯留言。<br />有關個人資訊及誹謗重傷、違反善良風俗的內容<br />一律禁止，敬請見諒。</div></article>",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "65",
 			"helpCategoryId": "13",
-			"helpTitle": "Cross-OS Transfers",
+			"helpTitle": "不同作業系統間的資料轉移",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>When switching to a new device, you will need to issue a<br/><span class='fnt_emphasis fnt_bold'> Transfer Code</span> to preserve your game data.</div><div class='txt margin_top_10'>Select the Other menu icon, then the Transfer<br/> icon to issue a Transfer Code.<br/>Tap <span class='fnt_emphasis fnt_bold'>Issue Code<span class='fnt_emphasis fnt_bold'>, and a </span>Transfer Code</span> will be issued.</article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>進行機種變更前，為了保留用戶資料，<br/>將會發行必要的<span class='fnt_emphasis fnt_bold'>資料轉移碼</span>。</div><div class='txt margin_top_10'>從選單圖示中的【其他】＞【資料轉移】<br/>可進行資料轉移碼的發行。<br/>點擊<span class='fnt_emphasis fnt_bold'>發行代碼</span>後，將發行<span class='fnt_emphasis fnt_bold'>資料轉移碼</span>。</article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "66",
 			"helpCategoryId": "13",
-			"helpTitle": "Same-OS Transfers",
+			"helpTitle": "相同作業系統間的資料轉移",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_bold'>■ Data Transfer Settings when Switching Device Models </span><br/>The method for transferring data varies depending on the type of mobile device.</div><div class='txt margin_top_20'><span class='fnt_bold'>■ When transferring from one iOS device to another iOS device</span><br/>You can use iCloud to back up your game data.<br/></div><h3 class='margin_top_20'>----Setting Up A Transfer----</h3><div class='txt margin_top'><span class='fnt_bold'>○ When using iCloud Drive</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_iOS.png' width=100%></figure><br/>1: Sign in to <span class='fnt_emphasis fnt_bold'>iCloud</span> from the Settings menu on your device<br/>2: Enable (turn on) <span class='fnt_emphasis fnt_bold'>iCloud Drive</span><br/>3: In the details screen of <span class='fnt_emphasis fnt_bold'>iCloud Drive</span>, enable (turn on) <span class='fnt_emphasis fnt_bold'>Digimon Links</span><br/>4: When you run <span class='fnt_emphasis fnt_bold'>Digimon Links</span> after the above conditions are met, a backup will be automatically created<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○ When not using iCloud Drive</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_iOS.png' width=100%></figure><br/>1: Sign in to <span class='fnt_emphasis fnt_bold'>iCloud</span> from the Settings menu on your device<br/>2: Enable (turn on) <span class='fnt_emphasis fnt_bold'>Documents and Data</span><br/>3: In the details screen of <span class='fnt_emphasis fnt_bold'>Documents and Data</span>, enable (turn on) <span class='fnt_emphasis fnt_bold'>Digimon Links</span><br/>4: When you run <span class='fnt_emphasis fnt_bold'>Digimon Links</span> after the above conditions are met, a backup will be automatically created<br/></div><h3 class='margin_top_20'>----Completing A Transfer----</h3><div class='txt margin_top'><span class='fnt_bold'>○ When using iCloud Drive</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info3_iOS.png' width=100%></figure><br/>1: Sign in to <span class='fnt_emphasis fnt_bold'>iCloud</span> from the Settings menu on your device<br/>2: After signing in, when you perform a fresh install of Digimon Links<br/> and run the app, the backup should be automatically restored<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○ When not using iCloud Drive</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info4_iOS.png' width=100%></figure><br/>1: Sign in to <span class='fnt_emphasis fnt_bold'>iCloud</span> from the Settings menu on your device<br/>2: After signing in, when you perform a fresh install of Digimon Links <br/>and run the app, the backup should be automatically restored<br/></div><div class='txt margin_top_10'><h4>■ Warnings</h4><br/>* When performing a fresh install,<span class='fnt_emphasis fnt_bold'>you must be signed in to the same iCloud account </span>that was used when playing the game<br/><br/>* If the same iCloud account has been used on multiple devices,<span class='fnt_emphasis fnt_bold'>the game data on the last device used to play may be </span>overwritten<br/><br/>* When the same game data is used to play on mutiple devices,<span class='fnt_emphasis fnt_bold'>there is a danger of the data being corrupted or damaged,</span>so please refrain from doing so<br/><br/><br/></div><div class='txt margin_top_20'><span class='fnt_bold'>■ When transferring from one Android device to another Android device</span><br/>When transferring from one Android device to another Android device, you can use your Google account <br/>to back up your game data<br/></div><h3 class='margin_top_20'>----Setting Up A Transfer----</h3><div class='txt margin_top'><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_and.png' width=100%></figure><br/>1: In the game menu, tap <span class='fnt_emphasis fnt_bold'>Transfer With Google</span><br/>2: Read the descriptive information, then tap <span class='fnt_emphasis fnt_bold'>Sync with Google</span><br/>3: If an authorization screen is displayed, check the contents and your Google account,<br/>then <span class='fnt_emphasis fnt_bold'>grant access</span><br/>→ When the above is complete, a backup of your game data will be created<br/></div><h3 class='margin_top_20'>----Completing A Transfer----</h3><div class='txt margin_top'><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_and.png' width=100%></figure><br/>1: Perform a fresh install of Digimon Links, then go to Transfer on the right-hand side of the title screen <br/>and tap <span class='fnt_emphasis fnt_bold'>Transfer with Google</span><br/>2: Read the descriptive information, then tap <span class='fnt_emphasis fnt_bold'>Transfer with Google</span><br/>3: If an authorization screen is displayed, check the contents and your Google account,<br/>then <span class='fnt_emphasis fnt_bold'>grant access</span><br/>→ When the above is complete, the game data backup should be restored<br/></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_bold'>■機種變更時的資料轉移設定。</span><br/>　裝置的種類不同，資料轉移的方法也隨之不同。</div><div class='txt margin_top_20'><span class='fnt_bold'>■由【iOS】轉移至【iOS】裝置時</span><br/>　可利用iCloud備份遊戲資料。<br/></div><h3 class='margin_top_20'>————　資料轉移原帳號的設定　————</h3><div class='txt margin_top'><span class='fnt_bold'>○使用iCloud Drive時</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_iOS.png' width=100%></figure><br/>　①由裝置「設定」內的選單登入「<span class='fnt_emphasis fnt_bold'>iCloud</span>」。<br/>　②開啟（ON）「<span class='fnt_emphasis fnt_bold'>iCloud Drive</span>」。<br/>　③在「<span class='fnt_emphasis fnt_bold'>iCloud Drive</span」的詳細畫面開啟（ON）「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」。<br/>　④在以上狀態下啟動「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」則會自動備份。<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○未使用iCloud Drive時</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_iOS.png' width=100%></figure><br/>　①由裝置「設定」內的選單登入「<span class='fnt_emphasis fnt_bold'>iCloud</span>」。<br/>　②開啟（ON）「<span class='fnt_emphasis fnt_bold'>文件和資料</span>」。<br/>　③在「<span class='fnt_emphasis fnt_bold'>文件和資料</span>」的詳細畫面中開啟（ON）「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」。<br/>　④在以上狀態下啟動「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」則會自動備份。<br/></div><h3 class='margin_top_20'>————資料轉移新帳號的設定————</h3><div class='txt margin_top'><span class='fnt_bold'>○使用iCloud Drive時</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info3_iOS.png' width=100%></figure><br/>　①由裝置「設定」內的選單登入「<span class='fnt_emphasis fnt_bold'>iCloud</span>」。<br/>　②在登入的狀態下重新安裝並啟動數碼寶貝Linkz<br/>　　則會還原備份。</div><div class='txt margin_top_20'><span class='fnt_bold'>○未使用iCloud Drive時</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info4_iOS.png' width=100%></figure><br/>　①由裝置「設定」內的選單登入「<span class='fnt_emphasis fnt_bold'>iCloud</span」。<br/>　②在登入的狀態下重新安裝並啟動數碼寶貝Linkz<br/>　　則會還原備份。<br/></div><div class='txt margin_top_10'><h4>■注意事項</h4><br/>　※重新安裝時，<span class='fnt_emphasis fnt_bold'>需使用與原本進行遊戲時相同的iCloud帳號</span>進行登入。<br/><br/>　※若在兩個以上的裝置使用相同的iCloud帳號，<span class='fnt_emphasis fnt_bold'>最後一次進行遊戲的裝置之遊戲資料將被覆寫</span>。<br/><br/>　※若在兩個以上的裝置使用相同遊戲資料進行遊戲，<span class='fnt_emphasis fnt_bold'>則可能造成資料毀損</span>，請務必避免這種情況發生。<br/><br/><br/></div><div class='txt margin_top_20'><span class='fnt_bold'>■由【Android】轉移至【Android】裝置時</span><br/>　由Android裝置轉移資料至同為Android裝置時，可利用Google帳號<br/>　備份遊戲資料。<br/></div><h3 class='margin_top_20'————　資料轉移原帳號的設定　————</h3><div class='txt margin_top'><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_and.png' width=100%></figure><br/>　①在遊戲內的選單點擊「<span class='fnt_emphasis fnt_bold'>使用Google資料轉移</span>」。<br/>　②確認記載內容，點擊「<span class='fnt_emphasis fnt_bold'>使用Google同步</span>」。<br/>　③出現要求權限畫面時，於確認內容與Google帳號後<br/>　　進行「<span class='fnt_emphasis fnt_bold'>登入許可</span>」。<br/>　→完成以上步驟即可備份遊戲資料。<br/></div><h3 class='margin_top_20'>————　資料轉移新帳號的設定　————</h3><div class='txt margin_top'><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_and.png' width=100%></figure><br/>　①重新安裝數碼寶貝Linkz後，點擊標題畫面右方的「資料轉移」， <br/>　　再點擊「<span class='fnt_emphasis fnt_bold'>使用Google資料轉移</span>」。<br/>　②確認記載內容，點擊「<span class='fnt_emphasis fnt_bold'>使用Google資料轉移</span>」。<br/>　③出現要求權限畫面時，於確認內容與Google帳號後<br/>　　進行「<span class='fnt_emphasis fnt_bold'>登入許可</span>」。<br/>　→完成以上步驟即可復原遊戲資料備份。<br/></div></article>",
 			"helpPriority": "7"
 		},
 		{
 			"helpId": "67",
 			"helpCategoryId": "13",
-			"helpTitle": "Transfer Warnings",
+			"helpTitle": "資料轉移的相關注意事項",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>■ Changes or damage to the device being used, uninstallation of the app, service-side issues, etc.<br/>There may be instances in which player data (login data) is lost or deleted<br/>from the device being used due to various causes. To guard against the possibility of lost player data,<br/>it is the user's responsibility to perform regular backups for transferring saved data.</div><div class='txt margin_top_10'>■ If player data is lost, in order to continue to use<br/>the old player data, the following transfer information will be required.<br/><span class='fnt_emphasis fnt_bold margin_x_20'>・ Transfer Code</span><br/><span class='fnt_emphasis fnt_bold margin_x_20'>・ Password</span></div><div class='txt margin_top_10'>Before using the service, please confirm (set up) your transfer information in the following order <br/>and make a note of it for later.<br/><span class='fnt_emphasis fnt_bold margin_x_20'>・Menu → Select Transfer → Set a password</span><br/><span class='margin_x_10'>* Taking a screenshot or sending a text message to your device</span><br/><span class='margin_x_10'>may render you unable to access the information in the case of damage to your device,</span><br/><span class='margin_x_10'>so it is recommended that you take down a handwritten memo of this information or email it to your PC to save it.</span></div><div class='txt margin_top_10'>■ It is the responsibility of the user to securely save any and all transfer information.<br/>Even in the case of such incidents as theft or loss of the device, <br/>our company will be unable to disclose any transfer information.<br/></div><div class='txt margin_top_10'>■ When transferring from one OS to another,<br/>some or all app-specific currency may be lost.<br/>If app-specific currency is lost,<br/>our company is under no obligation to restore or migrate the said app-specific currency.<br/>For this reason, it is recommended to purchase items<br/>or otherwise spend app-specific currency before performing a transfer.</div><div class='txt margin_top_10'>■ Player data may not be transferred when it has been<br/>backed up or restored by procedures other than<br/>the methods specified in the app (such as backups with a PC).</div><div class='txt margin_top_10'>■ Transfer information will become invalid after one transfer has been performed.<br/>(When transfer data has already been used once)<br/>In the case that transfer information was not reset, making another transfer impossible,<br/>our company is under no obligation to re-validate transfer information<br/>or otherwise migrate player data.</div><div class='txt margin_top_10'>■ Transfer information is subject to the following period of validity.<br/>(When transfer information has a period of validity)<br/><span class='fnt_emphasis fnt_bold margin_x_20'>・ 1 month, including the date of creation of the transfer data</span><br/>When the period of validity has passed, the transfer information will need to be reset.<br/>In the case that transfer information was not reset, making another transfer impossible,<br/>our company is under no obligation to re-validate transfer information<br/>or otherwise migrate player data.</div><div class='txt margin_top_10'>■ Transferrable player data<br/>is limited to storage on our company's servers.<br/>Furthermore, due to some functions of this service being dependent upon the device and OS in use,<br/>even when a transfer has been performed, we cannot guarantee<br/>that all of the user's player data will be exactly and accurately transferred.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>■因使用的裝置變更、故障、App的解除安裝、本服務端的問題等，<br/>　可能造成裝置中的遊戲資料（登入資料）消失。<br/>　進行遊戲時請自行隨時設定資料轉移資訊，<br/>　以避免資料消失。</div><div class='txt margin_top_10'>■若遊戲資料消失，希望繼續使用以前的遊戲資料時，<br/>　需要以下的資料轉移資訊。<br/><span class='fnt_emphasis fnt_bold margin_x_20'>・資料轉移碼</span><br/><span class='fnt_emphasis fnt_bold margin_x_20'>・密碼</span></div><div class='txt margin_top_10'>■使用本服務前，請依照以下步驟進行資料轉移資訊的確認（設定），<br/>　並請務必留下筆記等紀錄。<br/><span class='fnt_emphasis fnt_bold margin_x_20'>・選單→選擇資料轉移→設定密碼</span><br/><span class='margin_x_10'>※若擷取螢幕畫面或發送簡訊，保存於同裝置中，</span><br/><span class='margin_x_10'>　遇裝置故障時將無法確認資訊，</span><br/><span class='margin_x_10'>　因此建議以手寫的筆記或電腦郵件等其他裝置保存。</span></div><div class='txt margin_top_10'>■資料轉移資訊請用戶自行慎重保管。<br/>　即使遇到失竊、遺失等狀況，<br/>　恕本公司無法公開資料轉移資訊。<br/></div><div class='txt margin_top_10'>■在不同作業系統間進行資料轉移時，<br/>　持有的App專用貨幣將會消失，<br/>　即使App專用貨幣消失，<br/>　本公司也無法進行App專用貨幣的補發或轉移。<br/>　因此，建議於資料轉移前先行購買道具，<br/>　將App專用貨幣使用完畢。</div><div class='txt margin_top_10'>■即使採取App內指定步驟以外的方法（以電腦備份等）<br/>　備份或復原遊戲資料，<br/>　也無法轉移遊戲資料。</div><div class='txt margin_top_10'>■資料轉移資訊使用一次後就會失效，<br/>　（資料轉移資訊僅限一次時）<br/>　未重新設定資料轉移資訊，造成資料無法轉移時，<br/>　恕本公司無法使資料轉移資訊重新生效，<br/>　或是進行遊戲資料的轉移。</div><div class='txt margin_top_10'>■資料轉移資訊的有效期限如下。<br/>　（資料轉移資訊有期限時）<br/><span class='fnt_emphasis fnt_bold margin_x_20'>・資料轉移資訊設定日開始算起1個月內</span><br/>　超過有效期限時，必須重新設定資料轉移資訊。<br/>　未重新設定資料轉移資訊，造成資料無法轉移時，<br/>　恕本公司無法使資料轉移資訊重新生效，<br/>　或是進行遊戲資料的轉移。</div><div class='txt margin_top_10'>■僅限保存於本公司伺服器的遊戲資料，<br/>　可進行資料轉移。<br/>　另外，由於本服務部分功能依賴裝置及作業系統，<br/>　因此即使進行資料轉移，<br/>　也無法保證客戶的所有遊戲資料皆能正常反應。</div></article>",
 			"helpPriority": "8"
 		},
 		{
 			"helpId": "68",
 			"helpCategoryId": "13",
-			"helpTitle": "Uninstalling",
+			"helpTitle": "解除安裝",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>When uninstalling the app, your DigiStones and Clusters,<br/>captured Digimon, and <span class='fnt_emphasis fnt_bold'>all your game data will be deleted</span>, so <br/>please be careful.</div><div class='txt margin_top_10'>If you wish to preserve your game data,<br/><span class='fnt_emphasis fnt_bold'>please issue a Transfer Code in the Transfer menu </span>to save it.</article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>若解除安裝，獲得的「數碼石」、「數碼碎片」及「數碼寶貝」等<span class='fnt_emphasis fnt_bold'>所有用戶資料將全部被刪除</span>，<br/>請特別注意。</div><div class='txt margin_top_10'>想留存用戶資料時，<br/><span class='fnt_emphasis fnt_bold'>請務必使用【資料轉移】發行「資料轉移碼」</span>，並妥善保存。</article>",
 			"helpPriority": "9"
 		},
 		{
 			"helpId": "69",
 			"helpCategoryId": "13",
-			"helpTitle": "Warning: Account Suspension Due to Banned Behavior",
+			"helpTitle": "注意事項「禁止行為的帳號停用處置等」",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_bold'>The following behaviors are prohibited while using this service.</span></div><div class='txt margin_top_10'>In the case of verification of prohibited behavior, in accordance with the rules of the User Agreement,<br/>our company reserves the right to limit the user's access to features and/or suspend the user's account<br/>without prior notice.<br/>In addition, in the case of repeated prohibited behavior<br/>or in the case of even one instance of malicious prohibited behavior,<br/>we may take drastic measures in response, including indefinite suspension of the user's account.<br/>These measures are taken for the purpose of improving the user environment and experience<br/>for all users of our service. Thank you for your understanding and cooperation.</div><div class='txt margin_top_10'>* Our company reserves the right of final judgment as to whether a behavior is or is not prohibited.<br/>* Even in cases in which such measures are taken,<br/>our company is not obligated in any way to answer individual questions<br/>regarding our reasons for taking said measures, the details of said case, or other related matters.<br/>* In the case that your account should be indefinitely suspended,<br/>you will be entirely banned from using the service in the future.<br/>In addition, in such a case, no refunds or redeemable exchanges<br/>will be offered for in-app currency or other purchased items.</div><div class='txt margin_top_10'><span class='fnt_bold'>- Criminal acts and/or acts which violate public order and morals</span><br/>\"  Use of cruel and/or violent language, sexual language, discriminatory language, <br/>and/or language intended to cause discomfort.<br/>\" Stalking behavior and/or behavior which causes trouble for our company and/or a third party.</div><div class='txt margin_top_10'><span class='fnt_bold'>- Behavior which violates the rights of this company and/or a third party with regards to property, reputation, privacy, etc.</span><br/>\"  The transfer, loan, or sharing of game accounts, in-app currency, and/or other items <br/>(hereafter referred to as \"accounts etc.\") and/or the use of a third party's accounts etc.<br/>\"  The illegal acquisition of accounts etc. (including acquisition of accounts etc.<br/> via exploitation of any bugs or malfunctions in our service).<br/>\"  The acquisition of profit for the user and/or a third party via exploitation of any bugs or malfunctions in our service <br/>and/or the prevention of profit for our company and/or a third party via the same.<br/>\"  Collection of personal information and/or dissemination of the user and/or a third party's <br/>personal information.<br/>\"  Insulting behavior and/or behavior which damages the credibility and/or reputation of our company and/or a third party.<br/></div><div class='txt margin_top_10'><span class='fnt_bold'>- Provision of false information and/or use of our service for illegal purposes.</span><br/>\"  Circulation of false information pertaining to our service and/or information regarding<br/>bugs and/or malfunctions in our service.<br/>\"  Impersonation of our company and/or a third party.<br/>\"  Politically- or religiously-motivated behavior.<br/></div><div class='txt margin_top_10'><span class='fnt_bold'>- Behavior which obstructs the provision of our service and/or slanderous or abusive behavior.</span><br/>\"  Illegal accessing of equipment used to provide and/or manage our service (hereafter referred to as \"servers etc.\"), <br/>data theft, and/or use of programs which <br/>illegally modify software.<br/>\"  Behaviors which place an excessive load on servers etc. (such as the use of tools to access our service<br/>as well as any other behaviors which place an excessive load on servers etc.).<br/>\"  Behaviors which prevent other customers from using our service <br/>and/or behaviors which interfere with the ability of other customers to use our service.<br/>\"  Multiple registrations of the same player data on multiple devices<br/>in order to progress through the game with an unfair advantage.<br/>\"  Unreasonable inquiries and/or demands of our company and/or a third party<br/>which exceed our legal responsibilities.</div><div class='txt margin_top_10'><span class='fnt_bold'>- Reproduction, duplication, modification, storage, and/or transfer of the contents of our service.</span><br/>\"  Reverse compilation, reverse assembly, <br/>reverse engineering, or any other parsing of the data and programs etc. of our service<br/>as well as any reproduction, compilation, modification, and/or adaptation of the same.</div><div class='txt margin_top_10'><span class='fnt_bold'>- Any commercial endeavor using our service.</span><br/>\"  Buying and/or selling of game accounts<br/>or buying and/or selling of in-app currency or other items<br/>via any method not specified by our company.<br/>\"  Publication of information for the purpose of commercial advertising.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_bold'>本服務禁止以下行為。</span></div><div class='txt margin_top_10'>　一旦發現用戶從事本公司禁止行為，將基於服務條款的規定，<br/>　不經事前通知，對用戶執行使用機能限制<br/>　或帳號停用等處置。<br/>　此外，若反覆從事禁止行為，<br/>　或從事一次惡質的禁止行為，<br/>　將加以嚴格處置，包括無限期停用帳號等。<br/>　這些處置，都是為了使本服務的用戶享有更優質的遊戲環境。<br/>　敬請各位用戶理解。</div><div class='txt margin_top_10'>※是否為禁止行為由本公司進行判斷。<br/>※若受到上述處置， <br/>　本公司將不回覆個別提問，<br/>包括處置的理由及事情經過等。<br/>※帳號一旦經無限期停用，<br/>　今後將完全無法使用本服務。<br/>　且在此情況下，也不會將App專用貨幣及其他道具以現金退還，<br/>　或交換抵用券等。</div><div class='txt margin_top_10'><span class='fnt_bold'>■犯罪行為、違反公序良俗的行為</span><br/>　・使用含顯著的殘虐、暴力、性、歧視、<br/>　　使人不愉快之言論的行為。<br/>　・包含跟蹤行為等，造成本公司或第三者困擾的行為。</div><div class='txt margin_top_10'><span class='fnt_bold'>■侵害本公司及第三者的財產、名譽、隱私等權利的行為</span><br/>　・將遊戲帳號、App專用貨幣或其他道具（以下稱「帳號等」）<br/>　　轉讓、出借、共有等行為，或利用第三者帳號的行為。<br/>　・以不當方式取得帳號等的行為（包含利用本服務的漏洞，<br/>　　不當取得帳號等的行為）。<br/>　・利用本服務的漏洞，為自己或第三者帶來利益的行為，<br/>　　以及為本公司或第三者帶來不利益的行為。<br/>　・蒐集個人資訊的行為，或公開自己<br/>　　及第三者個人資訊的行為。<br/>　・毀損或侮辱本公司及第三者信譽的行為。<br/></div><div class='txt margin_top_10'><span class='fnt_bold'>■提供虛偽的資訊，或為了不當目的利用本服務的行為</span><br/>　・將和本服務相關的虛偽資訊，以及本服務的漏洞等資訊<br/>　　向外散佈的行為。<br/>　・偽裝成本公司或第三者的行為。<br/>　・以政治、宗教為目的的行為。<br/></div><div class='txt margin_top_10'><span class='fnt_bold'>■妨礙本服務提供或毀謗的行為</span><br/>　・不當進入本服務所提供、管理的設備（以下稱「伺服器等」）<br/>　　以及竊取資料的行為，使用程式對軟體進行<br/>不當處理的行為。<br/>　・對伺服器等造成過度負擔的行為（包括利用工具等<br/>　　進入本服務，對伺服器造成負擔的行為）。<br/>　・妨礙其他用戶使用本服務的行為、<br/>　　或造成其他用戶無法使用本服務的行為。<br/>　・使用複數裝置等，註冊複數玩家資料，<br/>　　以不當手段讓遊戲有利進行的行為。<br/>　・對本公司及第三者進行超過法定責任的不當提問<br/>　　或要求行為。</div><div class='txt margin_top_10'><span class='fnt_bold'>■轉載、複製、修正、儲存或轉寄本服務內容的行為</span><br/>　・對本服務的數據、程式等進行反編譯、反彙編、<br/>　　逆向工程等其他解析、複製、編輯、修改<br/>　　及翻案等行為。</div><div class='txt margin_top_10'><span class='fnt_bold'>■利用本服務進行營利行為</span><br/>　・買賣遊戲帳號的行為、<br/>　　或在本服務中，以本公司指定以外的方式，<br/>　　買賣App專用貨幣或其他道具的行為。<br/>　・以商業廣告宣傳為目的刊載資訊的行為。</div></article>",
 			"helpPriority": "10"
 		},
 		{
 			"helpId": "70",
 			"helpCategoryId": "13",
-			"helpTitle": "Inquiries",
+			"helpTitle": "詢問",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can send in your questions and concerns by selecting the Other menu icon, <br/>then Inquiries, or by going to Inquiries from the Title screen.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>在選單圖示的【其他】＞【詢問】<br/>或是【標題畫面】＞【詢問】皆可向客服提出各種疑問。</div></article>",
 			"helpPriority": "11"
 		},
 		{
 			"helpId": "71",
 			"helpCategoryId": "99",
-			"helpTitle": "Transfers with iCloud",
+			"helpTitle": "使用iCloud的資料轉移方法",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_20'><span class='fnt_bold'>■ When transferring from one iOS device to another iOS device</span><br/>You can use iCloud to back up your game data.<br/></div><h3 class='margin_top_20'>----Setting Up A Transfer----</h3><div class='txt margin_top'><span class='fnt_bold'>○ When using iCloud Drive</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_iOS.png' width=100%></figure><br/>1: Sign in to <span class='fnt_emphasis fnt_bold'>iCloud</span> from the Settings menu on your  device<br/>2: Enable (turn on) <span class='fnt_emphasis fnt_bold'>iCloud Drive</span><br/>3: In the details screen of <span class='fnt_emphasis fnt_bold'>iCloud Drive</span>, enable (turn on) <span class='fnt_emphasis fnt_bold'>Digimon Links</span><br/>4: When you run <span class='fnt_emphasis fnt_bold'>Digimon Links</span> after the above conditions are met, a backup will be automatically created<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○ When not using iCloud Drive</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_iOS.png' width=100%></figure><br/>1: Sign in to <span class='fnt_emphasis fnt_bold'>iCloud</span> from the Settings menu on your device<br/>2: Enable (turn on) <span class='fnt_emphasis fnt_bold'>Documents and Data</span><br/>3: In the details screen of <span class='fnt_emphasis fnt_bold'>Documents and Data</span>, enable (turn on) <span class='fnt_emphasis fnt_bold'>Digimon Links</span><br/>4: When you run <span class='fnt_emphasis fnt_bold'>Digimon Links</span> after the above conditions are met, a backup will be automatically created<br/></div><h3 class='margin_top_20'>----Completing A Transfer----</h3><div class='txt margin_top'><span class='fnt_bold'>○ When using iCloud Drive</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info3_iOS.png' width=100%></figure><br/>1: Sign in to <span class='fnt_emphasis fnt_bold'>iCloud</span> from the Settings menu on your device<br/>2: After signing in, when you perform a fresh install of Digimon Links<br/> and run the app, the backup should be automatically restored<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○ When not using iCloud Drive</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info4_iOS.png' width=100%></figure><br/>1: Sign in to <span class='fnt_emphasis fnt_bold'>iCloud</span> from the Settings menu on your device<br/>2: After signing in, when you perform a fresh install of Digimon Links <br/>and run the app, the backup should be automatically restored<br/></div><div class='txt margin_top_10'><h4>■ Warnings</h4><br/>* When performing a fresh install,<span class='fnt_emphasis fnt_bold'>you must be signed in to the same iCloud account </span>that was used when playing the game<br/><br/>* If the same iCloud account has been used on multiple devices,<span class='fnt_emphasis fnt_bold'>the game data on the last device used to play may be </span>overwritten<br/><br/>* When the same game data is used to play on multiple devices,<span class='fnt_emphasis fnt_bold'>there is a danger of the data being corrupted or damaged,</span>so please refrain from doing so<br/></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_20'><span class='fnt_bold'>■由【iOS】轉移至【iOS】裝置時</span><br/>　可利用iCloud備份遊戲資料。<br/></div><h3 class='margin_top_20'>————　資料轉移原帳號的設定　————</h3><div class='txt margin_top'><span class='fnt_bold'>○使用iCloud Drive時</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_iOS.png' width=100%></figure><br/>　①由裝置「設定」內的選單登入「<span class='fnt_emphasis fnt_bold'>iCloud</span>」。<br/>　②開啟（ON）「<span class='fnt_emphasis fnt_bold'>iCloud Drive</span>」。<br/>　③在「<span class='fnt_emphasis fnt_bold'>iCloud Drive</span>」的詳細畫面開啟（ON）「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」。<br/>　④在以上狀態下啟動「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」則會自動備份。<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○未使用iCloud Drive時</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_iOS.png' width=100%></figure><br/>　①由裝置「設定」內的選單登入「<span class='fnt_emphasis fnt_bold'>iCloud</span>」。<br/>　②開啟（ON）「<span class='fnt_emphasis fnt_bold'>文件和資料</span>」。<br/>　③在「<span class='fnt_emphasis fnt_bold'>文件和資料</span>」的詳細畫面開啟（ON）「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」。<br/>　④在以上狀態下啟動「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」則會自動備份。<br/></div><h3 class='margin_top_20'>————　資料轉移新帳號的設定　————</h3><div class='txt margin_top'><span class='fnt_bold'>○使用iCloud Drive時</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info3_iOS.png' width=100%></figure><br/>　①由裝置「設定」內的選單登入「<span class='fnt_emphasis fnt_bold'>iCloud</span>」。<br/>　②在登入的狀態下重新安裝並啟動數碼寶貝Linkz<br/>　　則會還原備份。<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○未使用iCloud Drive時</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info4_iOS.png' width=100%></figure><br/>　①由裝置「設定」內的選單登入「<span class='fnt_emphasis fnt_bold'>iCloud</span>」。<br/>　②在登入的狀態下重新安裝並啟動數碼寶貝Linkz<br/>　　則會還原備份。<br/></div><div class='txt margin_top_10'><h4>■注意事項</h4><br/>　※重新安裝時，<span class='fnt_emphasis fnt_bold'>需使用與原本進行遊戲時相同的iCloud帳號</span>進行登入。<br/><br/>※若在兩個以上的裝置使用相同的iCloud帳號，<span class='fnt_emphasis fnt_bold'>最後一次進行遊戲的裝置之遊戲資料將被覆寫</span>。<br/><br/>　※若在兩個以上的裝置使用相同遊戲資料進行遊戲，<span class='fnt_emphasis fnt_bold'>則可能造成資料毀損</span>，請務必避免這種情況發生。<br/></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "72",
 			"helpCategoryId": "7",
-			"helpTitle": "The Colosseum",
+			"helpTitle": "關於競技場",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A place for battling in real time with other users.<br/><br/>It <span class='fnt_emphasis fnt_bold'>costs Stamina</span> to battle in the Colosseum, but you can <span class='fnt_emphasis fnt_bold'>battle up to 3 times a day for free</span>.<br/><span class='fnt_emphasis fnt_bold'>* Your number of free battles resets daily at {'2017-10-01 14:00:00'|timezone_format:0:'H:i'}.</span><br/><br/>There are two types of Colosseum battles: <span class='fnt_emphasis fnt_bold'>VS Battles</span>, which are matched randomly by rank, and <span class='fnt_emphasis fnt_bold'>Mock Battles</span>, where you can have fun sparring with Friends or anyone whose User Code you input.<br/>In VS Battles, you'll spend a lot of Stamina, but earn a lot of BP (Battle Points) when you win. Start with VS Battle on the right.<br/><br/>Also, to enter the Colosseum, you'll need to form a <span class='fnt_emphasis fnt_bold'>Colosseum Party</span> of six Digimon.<br/>However, you can only use <span class='fnt_emphasis fnt_bold'>three</span> Digimon in battle, so <span class='fnt_emphasis fnt_bold'>after being matched, you'll need to choose which to use </span>in the Battle Member Selection screen.<br/><br/>* BP (Battle Points) are points that can be traded for items in the Exchange.<br/>* The DP (Duel Points) earned are the same in left- and right-hand VS Battles.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>在這裡可以和全國用戶進行即時戰鬥。<br/><br/>進行競技場對戰需要<span class='fnt_emphasis fnt_bold'>消耗體力</span>，但<span class='fnt_emphasis fnt_bold'>每天最多可進行3次免消耗的對戰</span>。<br/><span class='fnt_emphasis fnt_bold'>※免消耗的次數會於每天{'2017-10-01 14:00:00'|timezone_format:0:'H:i'}重置。</span><br/><br/>競技場共分為兩種，分別是依RANK進行隨機配對的<span class='fnt_emphasis fnt_bold'>「VS戰鬥」</span>，以及可輸入用戶碼進行配對或和好友一同暢玩的<span class='fnt_emphasis fnt_bold'>「模擬戰」</span>。<br/>進行VS戰鬥時消耗的體力越多，勝利時即可獲得越多BP（戰鬥點數）。選擇右側的「VS戰鬥」即可使用此項目。<br/><br/>另外，參加競技場對戰需要以6隻數碼寶貝組成<span class='fnt_emphasis fnt_bold'>競技場專用隊伍</span>。<br/>但戰鬥時最多只能使用<span class='fnt_emphasis fnt_bold'>3隻</span>數碼寶貝，所以配對成功後必須<span class='fnt_emphasis fnt_bold'>於選擇戰鬥成員畫面選出參加戰鬥的數碼寶貝</span>。<br/><br/>※BP（戰鬥點數）是可在交換所交換獎品的點數。<br/>※左右兩側的「VS戰鬥」可獲得的DP（決鬥點數）皆相同。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "73",
 			"helpCategoryId": "7",
-			"helpTitle": "Quests vs. Colosseum",
+			"helpTitle": "冒險與競技場的差異",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The differences between the Colosseum and Quest battles are explained below.<br />- There is a <span class='fnt_emphasis fnt_bold'>10-second time limit for selecting commands.</span> When time runs out, the Digimon will automatically select Attack and attack a randomly selected enemy.<br/>- The default battle speed is set at double. Auto Mode and Speed Mode cannot be used.<br/>- The maximum number of rounds is 20 rounds.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>競技場與冒險的戰鬥方法差異如下：<br />・<span class='fnt_emphasis fnt_bold'>選擇行動指令的限制時間為10秒。</span>超過時間限制則會自動選擇「ATTACK」，並隨機攻擊敵人。<br/>・戰鬥速度的預設值為「2倍速」。無法使用「AUTO」、「變更戰鬥速度」。<br/>・最大回合數為20回合。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "74",
 			"helpCategoryId": "7",
-			"helpTitle": "DP and Ranks",
+			"helpTitle": "DP與RANK",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>DP stands for Duel Points, which can be earned by winning in the Colosseum.<br/>Also, a rank is awarded to players according to the number of DP earned each month, and prizes can be earned by achieving certain ranks.<br/>* Losing battles will not affect your DP.<br/><span class='fnt_emphasis fnt_bold'>Your rank will go up depending on your total number of victories and will increase the amount of DP you can earn. You will also be matched with opponents according to rank.</span><br/>However, at S Rank, your internal rank will change according to your win rate.<br/><br/><span class='fnt_emphasis fnt_bold'>▼ Conditions for Change</span><br/>After fighting 30+ battles, winning with a win rate of over 75%<br/><span class='fnt_emphasis fnt_bold'>OR</span><br/>After fighting 30+ battles, losing with a win rate of under 25%, or not participating in at least 5 battles within the ranking period by the final calculation date.<br/></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>DP即為「決鬥點數」的簡稱，這是在競技場勝利時可獲得的數值。<br/>此外，玩家間將依據所獲得的DP進行排名，並可獲得對應的排名報酬。<br/>※敗北時DP不會發生變動。<br/><span class='fnt_emphasis fnt_bold'>隨著勝利次數增加，不僅能提升RANK，可獲得的DP也會增加，對戰對手也將依據RANK進行配對。</span><br/>唯獨S RANK是依據獲勝率進行內部RANK的變動。<br/><br/><span class='fnt_emphasis fnt_bold'>▼變動條件</span><br/>進行戰鬥30次以上且勝利時獲勝率超過75％<br/><span class='fnt_emphasis fnt_bold'>或者</span><br/>進行戰鬥30次以上且敗北時獲勝率低於25％，或在中途排名等各項排名統計日到來前，戰鬥次數未達5次以上。<br/></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "75",
 			"helpCategoryId": "7",
-			"helpTitle": "Resetting DP",
+			"helpTitle": "關於DP重置",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>DP will be reset every after the Colosseum period.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>DP將會於每次競技場的舉辦期間重置</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "76",
 			"helpCategoryId": "7",
-			"helpTitle": "Winning and Losing",
+			"helpTitle": "關於勝敗",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>In order to win, you must </span>reduce the HP of all 3 of your opponent's Digimon to 0 within 20 rounds<span class='fnt_emphasis fnt_bold'>.<br /><br />If the battle takes more than 20 rounds, victory is decided according to the following conditions:<br />1. The winner is the player whose remaining Digimon have the highest total remaining HP<br />2. If [1] produces equal totals, the winner is the player whose remaining Digimon have the highest total remaining HP compared to the total HP of all 3 of their Digimon<br />3. If the match cannot be decided by [2], the winner is the player with the most remaining Digimon.<br />If none of these rules can decide the match, it will be decided by predetermined conditions.<br /><br />If a battle is interrupted by a lost connection and cannot be resumed within the time limit, it will be counted as a defeat, so please enjoy Digimon Links in an area with good reception.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>勝利條件是<span class='fnt_emphasis fnt_bold'>在20回合內，將對手3隻數碼寶貝的HP降為0則勝利</span>。<br /><br />若超過20回合，則根據下列條件決定勝敗。<br />1.存活的數碼寶貝總和HP較多者勝利。<br />2.若1的數字相同時，存活的數碼寶貝所剩HP占3隻HP總和比例較高者勝利。<br />3.若2也無法分出高下時，存活的數碼寶貝較多者勝利。<br />若還是相同，則以既定條件決定。<br /><br />戰鬥中若連線中斷，無法在規定時間內回到戰鬥時，則視為敗北，因此請在訊號良好的環境遊玩。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "77",
 			"helpCategoryId": "7",
-			"helpTitle": "Ranking Prizes",
+			"helpTitle": "關於排名報酬",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Ranking Prizes are <span class='fnt_emphasis fnt_bold'>sent to your Present Box when you go to the main Colosseum screen within 7 days after each ranking tally is complete.</span><br/>If you do not visit the Colosseum by the end of the prize acceptance period, you will be unable to accept your prizes, so please be careful.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>排名報酬<span class='fnt_emphasis fnt_bold'>只要在統計完成後的7天內移動至競技場TOP畫面，便會自動送入禮物盒。</span><br/>超過期間未前往競技場，將會無法領取報酬，因此請特別注意。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "78",
 			"helpCategoryId": "7",
-			"helpTitle": "Invalid Matches",
+			"helpTitle": "關於無效比賽",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>If your connection is lost or broken before you can be matched, an Invalid Match will result.<br/><br />When an Invalid Match occurs, no prizes or DP will be earned.<br />Your total numbers of battles and victories will also be unchanged.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>在配對前即發生連線中斷等情形，即視為無效比賽。<br/><br />無效比賽則無法獲得報酬與產生DP變動。<br />另外，戰鬥次數與勝利數也不會改變。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "79",
 			"helpCategoryId": "7",
-			"helpTitle": "Mock Battles",
+			"helpTitle": "關於模擬戰",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Mock Battles have no effect on your Stamina, Prizes, or DP. You can fight one in the Colosseum at any time just for fun! Here's how.<br />- Battle by inputting a User Code<br />- Battle with a Friend<br /><br />Have fun battling with the Digimon you've trained without worrying about Ranks or DP!</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>在模擬戰雖然不會消耗體力，報酬與DP等也不會產生變動，但是使用以下的方法，可以隨時在競技場享受戰鬥。<br />・輸入用戶碼進行戰鬥<br />・與好友進行戰鬥<br /><br />不須介意RANK與DP，以自己養育的數碼寶貝享受戰鬥的樂趣吧。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "80",
 			"helpCategoryId": "10",
-			"helpTitle": "DigiChat",
+			"helpTitle": "關於數碼聊天室",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A function that allows you to chat with other users.<br/><br/>You can participate in up to 3 groups in DigiChat.<br/>Comments in DigiChat are limited to 100 characters.<br/>Groups can only be deleted by their Master, but cannot be deleted if there are any Members in the group other than the Master.</div><div class='txt margin_top_10'>Also, only Masters can kick out Members from the Member List.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>可以和全國用戶進行對話的功能。<br/><br/>玩家在數碼聊天室最多可以參加3個群組。<br/>在數碼聊天室留言時，字數限制為不限全形半形最多100字。<br/>唯有群組主人有權刪除群組，刪除時群組內不能存在群組主人以外的成員。</div><div class='txt margin_top_10'>此外，也唯有群組主人可由成員一覽將成員強制退出。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "81",
 			"helpCategoryId": "7",
-			"helpTitle": "Other Warnings",
+			"helpTitle": "其他注意事項",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The following warnings also apply.<br />- The Colosseum schedule is subject to change without prior notice.<br />- Ranking is calculated based on DP, but when DP is equal, final judgment may be based on win/loss ratio, total victories, and/or total battles.<br />- Since the Colosseum features real-time battles, please play in an area with good reception.<br />- Users who time out of multiple battles within a certain period of time may be temporarily omitted from the matching system, so please be careful.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>其他注意事項如下：<br />‧競技場舉辦期間可能未經預告逕行變更。<br />‧排名的統計基準為DP，若相同時則以獲勝率、勝利次數，以及戰鬥次數等進行最終判斷。<br />‧競技場為即時戰鬥，請在連線環境良好的地方遊玩。<br />‧規定時間內發生多次不戰而敗的用戶，於一定時間內將無法再進行配對，因此請特別注意。<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "82",
 			"helpCategoryId": "6",
-			"helpTitle": "Co-Op Features",
+			"helpTitle": "協力戰鬥的特徵",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can join a group of up to 3 other users to go on Quests.<br /><br />The details of Co-Op battles are as follows.<br />- In Co-Op battles, the AP required to use Skills<span class='fnt_emphasis fnt_bold'>can be pooled in a joint AP pool of up to 16 AP</span><br />- Occasionally, allies or enemies may randomly attack each other by accident<br />- The more players in your party, the more prizes you'll earn when clearing a Quest compared to clearing it solo<br />- In a Co-Op battle, you can still perform individual revivals<br />- Continues can only be performed by the Owner within 10 seconds<br />- <span class='fnt_emphasis fnt_bold'>Only the Owner can Retire or double the battle speed</span><br /><br />Stamps are intended for use as a communication tool during Co-Op battles. Put them to good use and seize the upper hand in battle!</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>最多能夠與全國其他用戶一起進行三人冒險。<br /><br />關於協力戰鬥詳細如下：<br />・協力戰鬥中發動技能所需的AP<span class='fnt_emphasis fnt_bold'>為共用，最多可儲存16AP。</span><br />・敵我雙方皆有低機率隨機發動攻擊。<br />・比起一個人冒險過關，過關人數越多，獲得的報酬也越豐厚。<br />・在協力戰鬥也能夠以個人為單位進行復活。<br />・僅有主人能在10秒內進行接關。<br />・<span class='fnt_emphasis fnt_bold'>棄權、2倍速等功能僅有主人</span>能夠使用。<br /><br />在協力戰鬥中貼圖可當作交流工具，請活用它來進行戰鬥。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "83",
 			"helpCategoryId": "6",
-			"helpTitle": "Recruitment Notice Settings",
+			"helpTitle": "招募板設定",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>When posting a Co-Op recruitment notice as an Owner, you can set your preferred conditions for participants.<br /><br />Under Confirm Recruitment Notice Posting, you can select whether to post to the Recruitment Board.<br />By posting to the Recruitment Board, you can request help in Co-Op mode from other general users.<br />If you don't post it publicly, you can issue a PASS to your friends directly from the Co-Op wait screen which they can input from the Recruitment Board to join you.<br /><br />Under Ambience, you can select your preferred type of user.<br /><br />If you want to include more detailed preferences, try adding a brief Comment when you post.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>以主人身分招募協力戰鬥時可設定希望的參加條件。<br /><br />在「招募刊登確認」中可選擇是否刊登於「招募板」。<br />若選擇刊登於「招募板」，就能夠向全國的用戶委託協力戰鬥。<br />若選擇不刊登，則可以將顯示於協力戰鬥待機畫面的通行密碼告訴朋友，由「招募板」輸入通行密碼即可參加。<br /><br />在「氛圍」中可選擇自己希望尋找的用戶條件。<br /><br />若有更詳細的要求，就利用留言來招募看看吧。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "84",
 			"helpCategoryId": "6",
-			"helpTitle": "Co-Op Battles",
+			"helpTitle": "協力戰鬥的方法",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>There are two ways of participating in a Co-Op battle, as explained below.<br /><br />・ How to participate in a Co-Op battle as the Owner<br />When going on a Quest, select the Co-Op button and confirm your party.<br />Next, decide on a recruitment method and wait for other users to come on the Quest with you.<br />You can also recruit Members for your Quest in any chat groups you're in.<br />On the Member recruitment screen, tap the chat icon on the upper left to go to the recruitment screen.<br /><br />When 3 users participate, each user chooses one Digimon to go on the Quest.<br />When 2 users participate, the Owner can choose the Leader Digimon and a second Digimon.<span class='fnt_emphasis fnt_bold'>The Leader Digimon can be changed, but the second Digimon in your selected party will be selected as your second Digimon.</span><br /><br /><br />・ How to participate in a Co-Op battle as a Member<br />You can either participate by selecting a Quest you want to join from the Recruitment Board or by responding to a Co-Op Request in DigiChat.<br />The Recruitment Board shows requests from all general users, while Co-Op Requests in DigiChat are sent from friends.<br />There is no difference in the prizes to be earned, regardless of the method you choose, so go on whatever Quests you like!<br />When you join a Quest, you'll be taken to the Co-Op standby screen<span class='fnt_emphasis fnt_bold'>and can swap out your Digimon in the same way as in Party Formation.</span>Be sure to pick the best Digimon for the job!<br />When you're ready, press the Prep Complete button, and the battle will begin when all users are ready.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>進行協力戰鬥的方法有以下兩種：<br /><br />・自己當主人參加。<br />在想進行的冒險選擇「協力戰鬥」鍵，並決定隊伍。<br />之後選擇招募方法，等待一起參加冒險的用戶。<br />或是在自己加入的數碼聊天室群組招募成員。<br />在招募成員的畫面內點擊左上方的聊天鍵，則會進入招募用畫面。<br /><br />三人冒險時，每位用戶需選擇冒險同行的數碼寶貝。<br />兩人冒險時，則可帶隊長數碼寶貝及第2隻數碼寶貝同行。<span class='fnt_emphasis fnt_bold'>雖然隊長數碼寶貝可變更，但第2隻則是自動選擇隊伍內的第2隻數碼寶貝。</span><br /><br /><br />・以成員身分參加協力戰鬥的方法有兩種。<br />可從農場的「招募板」選擇想進行的冒險，或從數碼聊天室中的「協力戰鬥委託」參加。<br />「招募板」會有來自全國用戶的委託，數碼聊天室的「協力戰鬥委託」則為來自好友的委託。<br />不管選擇哪一個報酬都相同，因此可隨意選擇自己想進行的冒險。<br />選擇參加則會轉為協力戰鬥待機畫面，<span class='fnt_emphasis fnt_bold'>和隊伍整編相同，可變更數碼寶貝。</span>以適合冒險內容的數碼寶貝來挑戰吧。<br />準備好後按下「準備完成」鍵，等待其他用戶準備好後即可開始戰鬥。<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "85",
 			"helpCategoryId": "6",
-			"helpTitle": "Owners vs. Members",
+			"helpTitle": "主人與成員的差異",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The differences between Owners and Members are explained below.<br /><br />- Only the Owner counts as having cleared a Quest, so even if the Member(s) also clear it for the first time, no First Clear Prizes will be awarded to Members<br />- Only the Owner must spend Stamina, so Members can participate in Quests without a Stamina cost<br />- Participating in a Quest as an Owner grants a boost to the EXP and Clusters gained from defeating enemy Digimon<br />- Participating as an Owner also grants a boost to the amount of Co-Op Clear Prizes earned<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>主人與成員的差異如下：<br /><br />‧冒險的過關處理以主人為基準，成員即使首次過關也無法領取首次過關報酬。<br />‧僅有主人需要消耗體力，成員不須消耗體力即可參加冒險。<br />‧以主人身分參加冒險時，打倒敵方數碼寶貝時獲得的EXP、數碼碎片將會增加。<br />‧以主人身分參加協力戰鬥時將可取得更多過關報酬。<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "86",
 			"helpCategoryId": "6",
-			"helpTitle": "First Link Bonus",
+			"helpTitle": "關於初次Link獎勵",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>The first time you clear a Quest together in Co-Op mode, you'll earn a First Link Bonus.<br /><br />With First Link Bonuses, you can earn <span class='fnt_emphasis fnt_bold'>10 DigiStones each for the first 10 users, and 3 DigiStones each for the 11th-50th users</span>.<br />Also, when clearing a Co-Op Quest with a friend for the first time, you can earn <span class='fnt_emphasis fnt_bold'>10 DigiStones each for the first 10 friends</span> as a special First Link Bonus for friends.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>第一次協力冒險過關時，能夠獲得初次Link獎勵。<br /><br />初次Link獎勵<span class='fnt_emphasis fnt_bold'>在第10人以前為數碼石10個，第11到50人則是數碼石3個。<br />另外，第一次與好友進行協力冒險過關時，可另外獲得好友初次Link獎勵。<span class='fnt_emphasis fnt_bold'>第10人以前為數碼石10個</span>。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "87",
 			"helpCategoryId": "6",
-			"helpTitle": "Disconnection",
+			"helpTitle": "關於連線中斷",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>If a lost connection is not restored within the time limit during a Co-Op Quest, it will be counted as Retiring, so please be careful.</span><br />The following differences also apply to Owners and Members.<br /><br />When the Owner's connection is lost:<br />- All participating users, including the Owner, will be counted as Retiring<br />- All participating Members, including the Owner, will be unable to earn any items dropped during the battle up to that point<br /><br />When a Member's connection is lost:<br />- The Owner can select commands for the Digimon of the Member whose connection was lost<br />- Even if the other participants go on to clear that Quest, the Member whose connection was lost will be unable to earn any prizes<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>協力冒險在連線中斷一定時間後會被視為棄權，請特別注意。</span><br />另外，主人與成員的差異如下。<br /><br />主人連線中斷時：<br />・包含主人在內的全體參加用戶皆被視為棄權。<br />・包含主人在內的全體參加用戶皆無法獲得掉落道具。<br /><br />成員連線中斷時：<br />・中斷成員的數碼寶貝將由主人選擇指令。<br />・即使其他參加者過關，中斷成員還是無法獲得報酬。<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "88",
 			"helpCategoryId": "3",
-			"helpTitle": "Facility Storage",
+			"helpTitle": "關於設施倉庫",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>A place for storing Decor only.<br />Stored Decor can be taken out and re-placed on your Farm without spending any Clusters.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>僅可保管裝飾的場所。<br />保管的裝飾不需消耗數碼碎片，即可再度設置在農場中。<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "89",
 			"helpCategoryId": "10",
-			"helpTitle": "Co-Op & the Colosseum",
+			"helpTitle": "關於「協力戰鬥」與「競技場」",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>In Co-Op, when you get an invitation from a friend, you will receive a notification.<br /><br />In the Colosseum, when you are challenged to a Mock Battle by a friend or through a User Code, you will receive a notification.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>被好友邀請參加「協力戰鬥」時會收到通知。<br /><br />而在「競技場」，被好友或其他用戶輸入用戶碼挑戰模擬戰時也會收到通知。<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "90",
 			"helpCategoryId": "14",
-			"helpTitle": "Chips",
+			"helpTitle": "關於晶片",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Digimon become able to utilize the capabilities of each chip when installed. <br />Not only do their stats increase, special skills are also activated during battle. <br /><br /><span class='fnt_emphasis fnt_bold'>Chips of the same name cannot be installed, even if the ranks are different. </span><br /><br />Chips are converted to clusters by selling them. <br />Also, items are obtainable when selling certain chips. <br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>藉由裝備晶片，數碼寶貝可發揮出晶片的能力。<br />其產生的效果不只有狀態提升，也可能在戰鬥中發動特殊技能。<br /><br /><span class='fnt_emphasis fnt_bold'>即使RANK不同，也無法裝備同名稱的晶片。</span><br /><br />晶片賣出後將轉換為數碼碎片。<br />此外，賣出特定晶片時將會獲得道具。<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "91",
 			"helpCategoryId": "14",
-			"helpTitle": "Slots",
+			"helpTitle": "關於凹槽",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Slots are places for installing Chips.<br /><br />For Digimon captured using <span class='fnt_emphasis fnt_bold'>DigiStones</span>, the max number of slots is <span class='fnt_emphasis fnt_bold'>10</span>, and for Digimon captured using <span class='fnt_emphasis fnt_bold'>Link Points</span>, the max number is <span class='fnt_emphasis fnt_bold'>5</span>.<br /><br />At first, there will be some slots that are locked.<br />Locked slots can be unlocked by meeting various conditions such as <span class='fnt_emphasis fnt_bold'>Enhancing, Awakening, or using special items</span> on your Digimon.<br />By unlocking slots, you'll be able to install lots of Chips.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>凹槽為裝備晶片之處。<br /><br />若為使用<span class='fnt_emphasis fnt_bold'>數碼石</span>捕捉到的數碼寶貝，其最大凹槽數為<span class='fnt_emphasis fnt_bold'>10格</span>，若是使用<span class='fnt_emphasis fnt_bold'>Link點數</span>捕捉到的數碼寶貝則為<span class='fnt_emphasis fnt_bold'>5格</span>。<br /><br />部分凹槽起初並未解鎖。<br />未解鎖的凹槽可藉由<span class='fnt_emphasis fnt_bold'>進化、覺醒、專用道具等</span>各式各樣的條件解鎖。<br />凹槽解鎖後，將可裝備更多晶片。<br /></div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "92",
 			"helpCategoryId": "14",
-			"helpTitle": "Enhancing Chips",
+			"helpTitle": "關於晶片強化",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>By Enhancing your Chips, you can raise their rank and power up their functions.<br /><br />To enhance your Chips, you'll need <span class='fnt_emphasis fnt_bold'>other Chips with the same rank and name</span>.<br />The amount of fuel needed to Enhance a Chip varies according to the type and rank of the Chip.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>晶片可藉由強化來提升RANK，晶片能力也會隨之提升。<br /><br />強化晶片需要<span class='fnt_emphasis fnt_bold'>相同RANK、相同名稱的晶片</span>。<br />強化所需的素材數量隨RANK與晶片有所差異。<br /></div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "94",
 			"helpCategoryId": "11",
-			"helpTitle": "Chip Captures",
+			"helpTitle": "晶片捕捉",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can get Chips by using DigiStones to capture them.</div><div class='txt margin_top_10'>With a <span class='fnt_emphasis fnt_bold'>Rare Chip Capture</span>, you can get Chips of <span class='fnt_emphasis fnt_bold'>Rank C and above</span>.</div><div class='txt margin_top_10'>Sometimes, duplicate Chips will be summoned.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>使用數碼石可獲得晶片。</div><div class='txt margin_top_10'>在<span class='fnt_emphasis fnt_bold'>稀有晶片捕捉</span>中<span class='fnt_emphasis fnt_bold'>可以獲得RANK C以上</span>的晶片。</div><div class='txt margin_top_10'>出現的晶片可能重複。</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "95",
 			"helpCategoryId": "4",
-			"helpTitle": "Quest Tickets",
+			"helpTitle": "冒險入場券",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Tickets for attempting special Quests.<br/>Some must be used within a limited time, but not all.</div><div class='txt margin_top_10'>Every time you <span class='fnt_emphasis fnt_bold'>clear</span> the Quest that corresponds to a Ticket, it will cost <span class='fnt_emphasis fnt_bold'>1 Ticket</span>.",
+			"detail": "<article id='help'><div class='txt margin_top_10'>可挑戰特別冒險的入場券。<br/>分成有使用期限與沒有使用期限的入場券。</div><div class='txt margin_top_10'>在對應的冒險<span class='fnt_emphasis fnt_bold'>過關</span>時將消耗<span class='fnt_emphasis fnt_bold'>一張</span>入場券。",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "96",
 			"helpCategoryId": "11",
-			"helpTitle": "Ticket Captures",
+			"helpTitle": "入場券捕捉",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>You can get Quest Tickets by using DigiStones to capture them.</div><div class='txt margin_top_10'>Sometimes, duplicate Quest Tickets will be summoned.</div><br/><div class='txt margin_top_10'>* Tickets with a time limit must be used by the last day of the 4th month after the month when the Ticket was obtained.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>使用數碼石可獲得冒險入場券。</div><div class='txt margin_top_10'>出現的冒險入場券可能重複。</div><br/><div class='txt margin_top_10'>※入場券的使用期限為取得入場券當月開始計算第四個月的最後一天。</div></article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "97",
 			"helpCategoryId": "8",
-			"helpTitle": "Ability Seeding",
+			"helpTitle": "關於才能開花",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>There is a <span class='fnt_emphasis fnt_bold'>chance</span> that base Digimon can inherit abilities from partner Digimon. </div><div class='txt margin_top_10'>The success rate of inheriting depends on the growth stage of the partner Digimon. The higher the growth stage, the higher the success rate. </div><div class='txt margin_top_10'>And if Ability Seeding is done with a base and partner Digimon possessing the same ability, the base Digimon's ability gets <span class='fnt_emphasis fnt_bold'>enhanced by 1</span>. </div><br/><div class='txt margin_top_10'>*When Ability Seeding is done, the selected partner Digimon disappears. </div>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>基本體數碼寶貝有一定<span class='fnt_emphasis fnt_bold'>機率</span>能夠繼承夥伴數碼寶貝的才能。</div><div class='txt margin_top_10'>繼承的成功率隨夥伴數碼寶貝的成長階段而不同，<span class='fnt_emphasis fnt_bold'>成長階段越高</span>成功率也越高。</div><div class='txt margin_top_10'>此外，若選擇擁有同樣才能的基本體數碼寶貝與夥伴數碼寶貝進行才能開花，則基本體數碼寶貝的才能將<span class='fnt_emphasis fnt_bold'>強化一階段</span>。</div><br/><div class='txt margin_top_10'>※若進行才能開花，被選為夥伴的數碼寶貝將會消失。</div>",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "98",
 			"helpCategoryId": "13",
-			"helpTitle": "Titles",
+			"helpTitle": "稱號",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>Can be earned as prizes for certain missions or by clearing certain conditions. Titles have no special effects, but can be set to display on your profile.</div><br/><div class='txt margin_top_10'>* Sometimes titles that have been earned may be sent as presents.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>像是任務的報酬等，完成特定條件後即可獲得。雖然沒有特殊效果，但可於基本資料設定顯示的稱號。</div><br/><div class='txt margin_top_10'>※獲得的稱號可能作為禮物贈送。</div></article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "100",
 			"helpCategoryId": "8",
-			"helpTitle": "Version Upgrades",
+			"helpTitle": "關於型態升級",
 			"tplPath": "",
-			"detail": "A way of enhancing +4 Awakened Mega Digimon that are already at their max level.<br />It can be performed using special Version Upgrading fuel called Upgrade Data, which can be earned from events.<br />Digimon that have received a Version Upgrade gain the following abilities, and their Awakening level changes to a Version notation.<br />・ Higher max level<br />・ Second Legacy Skill slot<br />・ Stat Effect Resistance Upgrades unlocked in the Dojo<br /><br />* After performing a Version Upgrade, doing a Mode Change will require more Clusters.<br />* After performing a Version Upgrade, special Version Upgrade fuel will be required to Digivolve further.<br />* When Research is done using a Version Upgraded Digimon as the Base, it will revert to a +4 Awakened Level 1 DigiEgg.<br />* After reverting to a DigiEgg during Research, the level cap will revert to 80, and any Legacy Skill in the second slot or Stat Effect Resistances will be deleted.",
+			"detail": "覺醒值為4且LvMAX的究極體數碼寶貝可使用的強化方法。<br />使用經由活動等方式獲得的專用素材「升級資料」即可執行型態升級。<br />執行型態升級的數碼寶貝可獲得以下能力，覺醒階段也將由原本的覺醒變更為Ver標記。<br />‧提升Lv上限<br />‧追加繼承技凹槽2<br />‧開放道場的異常狀態抗性變化<br /><br />※執行型態升級後，變更模式時所需的數碼碎片數將會增加。<br />※執行型態升級後，進化為超究極體時將需要使用型態升級專用素材。<br />※若將已型態升級的數碼寶貝作為基本體執行研究，將會變回覺醒值為4的Lv1數碼蛋。<br />※執行研究變回數碼蛋後，Lv上限將變回80，裝備於繼承技凹槽2的繼承技和變化過的異常狀態抗性則會消失。",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "102",
 			"helpCategoryId": "7",
-			"helpTitle": "Colosseum Parties",
+			"helpTitle": "關於競技場隊伍",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>To enter the Colosseum, you'll need to form a Colosseum Party of six Digimon.<br/>You can form a Colosseum Party by tapping the Colosseum button in the Party Formation screen.</div><article id='help'><div class='txt margin_top_10'>* The Colosseum button will not be displayed in Party Formation until the Colosseum is unlocked.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>參加競技場時，需要以6隻數碼寶貝組成競技場專用隊伍。<br/>由整編隊伍畫面點選競技場鍵，即可組成競技場專用隊伍。</div><article id='help'><div class='txt margin_top_10'>※若競技場尚未開放，整編隊伍畫面內將不會顯示競技場鍵。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "103",
 			"helpCategoryId": "13",
-			"helpTitle": "Transfers with Facebook",
+			"helpTitle": "使用Facebook的資料轉移方法",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_20'><span class='fnt_bold'></span><br/><br/>■ When transferring user data to another device</div><h3 class='margin_top_20'>You can use Facebook to back up your game data.</h3><div class='txt margin_top'><span class='fnt_bold'>---- Setting Up A Transfer ----<span class='fnt_emphasis fnt_bold'></span><br/>1: Go to \"Other\" in the Digimon Links menu, then \"Transfer\", and select <br/>Facebook Link<span class='fnt_emphasis fnt_bold'>, then \"Yes\"</span>2: When the Facebook login screen comes up, log in to Facebook<br/>3: Enable Facebook access to <span class='fnt_emphasis fnt_bold'>Digimon Links</span>4: On the \"Transfer\" screen, check to make sure your status is now \"Linked\"<br/></div><h3 class='margin_top_20'>---- Completing A Transfer ----</h3><div class='txt margin_top'><span class='fnt_bold'>1: Perform a fresh install of Digimon Links<br/>2: Select <span class='fnt_emphasis fnt_bold'>Transfer</span> on the title screen, and transfer user data<br/></div><div class='txt margin_top_20'><span class='fnt_bold'><h4>■ Warnings</h4><br/>* When performing a fresh install, you mush be logged in to <span class='fnt_emphasis fnt_bold'>the same Facebook account you used while playing</span><br/><br/>* When the same game data is played on multiple devices, <span class='fnt_emphasis fnt_bold'>there is a danger of the data being corrupted or damaged</span>, so please refrain from doing so<br/></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_20'><span class='fnt_bold'>■需要將用戶資料轉移至其他裝置時，</span><br/>　可透過Facebook備份遊戲資料。<br/></div><h3 class='margin_top_20'>――――　資料轉移原帳號的設定　――――</h3><div class='txt margin_top'><span class='fnt_bold'>　①由數碼寶貝Linkz內的選單選擇「其他」＞「資料轉移」中的「<span class='fnt_emphasis fnt_bold'>綁定Facebook</span>」，並選擇「是」。<br/>　②若是出現Facebook登入畫面，請進行登入。<br/>　③許可「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」登入Facebook。<br/>　④於「資料轉移」畫面確認狀態已改變為「<span class='fnt_emphasis fnt_bold'>綁定中</span>」。<br/></div><h3 class='margin_top_20'>――――　資料轉移新帳號的設定　――――</h3><div class='txt margin_top'><span class='fnt_bold'>　①全新安裝數碼寶貝Linkz。<br/>　②由標題畫面選擇「<span class='fnt_emphasis fnt_bold'>資料轉移</span>」，轉移用戶資料。<br/></div><div class='txt margin_top_20'><span class='fnt_bold'><h4>■注意事項</h4><br/>　※重新安裝時，<span class='fnt_emphasis fnt_bold'>需使用與原本進行遊戲時相同的Facebook帳號</span>進行登入。<br/><br/>　※若在兩個以上的裝置使用相同遊戲資料進行遊戲，<span class='fnt_emphasis fnt_bold'>則可能造成資料毀損</span>，請務必避免這種情況發生。<br/></div></article>",
 			"helpPriority": "1"
 		}
 	]

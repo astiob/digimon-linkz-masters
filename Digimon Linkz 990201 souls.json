@@ -2,1216 +2,1216 @@
 	"soulM": [
 		{
 			"soulId": "1070167",
-			"soulName": "Alphamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Alphamon.",
+			"soulName": "阿爾法獸的資料碎片",
+			"description": "進化成阿爾法獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070168",
-			"soulName": "UlforceVeedramon Data Fragment",
-			"description": "A data fragment required to Digivolve into UlforceVeedramon.",
+			"soulName": "究極V龍獸的資料碎片",
+			"description": "進化成究極V龍獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070169",
-			"soulName": "Ebemon Data Fragment",
-			"description": "A data fragment required to Digivolve into Ebemon.",
+			"soulName": "外星獸的資料碎片",
+			"description": "進化成外星獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070170",
-			"soulName": "Imperialdramon DM Data Fragment",
-			"description": "A data fragment required to Digivolve into Imperialdramon DM.",
+			"soulName": "帝皇龍甲獸DM的資料碎片",
+			"description": "進化成帝皇龍甲獸DM時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070171",
-			"soulName": "Imperialdramon FM Data Fragment",
-			"description": "A data fragment required to Digivolve into Imperialdramon FM.",
+			"soulName": "帝皇龍甲獸FM的資料碎片",
+			"description": "進化成帝皇龍甲獸FM時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070172",
-			"soulName": "Vikemon Data Fragment",
-			"description": "A data fragment required to Digivolve into Vikemon.",
+			"soulName": "維京毛人獸的資料碎片",
+			"description": "進化成維京毛人獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070173",
-			"soulName": "VenomMyotismon Data Fragment",
-			"description": "A data fragment required to Digivolve into VenomMyotismon.",
+			"soulName": "究極吸血魔獸的資料碎片",
+			"description": "進化成究極吸血魔獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070174",
-			"soulName": "WarGreymon Data Fragment",
-			"description": "A data fragment required to Digivolve into WarGreymon.",
+			"soulName": "戰鬥暴龍獸的資料碎片",
+			"description": "進化成戰鬥暴龍獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070175",
-			"soulName": "Examon Data Fragment",
-			"description": "A data fragment required to Digivolve into Examon.",
+			"soulName": "艾克薩獸的資料碎片",
+			"description": "進化成艾克薩獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070176",
-			"soulName": "Ophanimon Data Fragment",
-			"description": "A data fragment required to Digivolve into Ophanimon.",
+			"soulName": "神聖天女獸的資料碎片",
+			"description": "進化成神聖天女獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070177",
-			"soulName": "Gaiomon Data Fragment",
-			"description": "A data fragment required to Digivolve into Gaiomon.",
+			"soulName": "凱王獸的資料碎片",
+			"description": "進化成凱王獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070178",
-			"soulName": "ChaosGallantmon Data Fragment",
-			"description": "A data fragment required to Digivolve into ChaosGallantmon.",
+			"soulName": "混沌紅蓮騎士獸的資料碎片",
+			"description": "進化成混沌紅蓮騎士獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070179",
-			"soulName": "Gankoomon Data Fragment",
-			"description": "A data fragment required to Digivolve into Gankoomon.",
+			"soulName": "頑固獸的資料碎片",
+			"description": "進化成頑固獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070180",
-			"soulName": "Kuzuhamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Kuzuhamon.",
+			"soulName": "葛葉獸的資料碎片",
+			"description": "進化成葛葉獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070181",
-			"soulName": "GranKuwagamon Data Fragment",
-			"description": "A data fragment required to Digivolve into GranKuwagamon.",
+			"soulName": "究極古加獸的資料碎片",
+			"description": "進化成究極古加獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070182",
-			"soulName": "GroundLocomon Data Fragment",
-			"description": "A data fragment required to Digivolve into GroundLocomon.",
+			"soulName": "超級火車獸的資料碎片",
+			"description": "進化成超級火車獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070183",
-			"soulName": "Craniamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Craniamon.",
+			"soulName": "顱骨獸的資料碎片",
+			"description": "進化成顱骨獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070184",
-			"soulName": "Cherubimon (Good) Data Fragment",
-			"description": "A data fragment required to Digivolve into Cherubimon (Good).",
+			"soulName": "基路比獸(善)的資料碎片",
+			"description": "進化成基路比獸(善)時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070185",
-			"soulName": "SaberLeomon Data Fragment",
-			"description": "A data fragment required to Digivolve into SaberLeomon.",
+			"soulName": "黃金劍獅獸的資料碎片",
+			"description": "進化成黃金劍獅獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070186",
-			"soulName": "Sakuyamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Sakuyamon.",
+			"soulName": "沙古牙獸的資料碎片",
+			"description": "進化成沙古牙獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070187",
-			"soulName": "Jesmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Jesmon.",
+			"soulName": "傑斯獸的資料碎片",
+			"description": "進化成傑斯獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070188",
-			"soulName": "ShineGreymon Data Fragment",
-			"description": "A data fragment required to Digivolve into ShineGreymon.",
+			"soulName": "閃光暴龍獸的資料碎片",
+			"description": "進化成閃光暴龍獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070189",
-			"soulName": "Justimon Data Fragment",
-			"description": "A data fragment required to Digivolve into Justimon.",
+			"soulName": "裁決獸的資料碎片",
+			"description": "進化成裁決獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070190",
-			"soulName": "Kentaurosmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Kentaurosmon.",
+			"soulName": "八腳馬獸的資料碎片",
+			"description": "進化成八腳馬獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070191",
-			"soulName": "Seraphimon Data Fragment",
-			"description": "A data fragment required to Digivolve into Seraphimon.",
+			"soulName": "究極天使獸的資料碎片",
+			"description": "進化成究極天使獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070192",
-			"soulName": "MegaGargomon Data Fragment",
-			"description": "A data fragment required to Digivolve into MegaGargomon.",
+			"soulName": "撒多格杜獸的資料碎片",
+			"description": "進化成撒多格杜獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070193",
-			"soulName": "TigerVespamon Data Fragment",
-			"description": "A data fragment required to Digivolve into TigerVespamon.",
+			"soulName": "虎蜂獸的資料碎片",
+			"description": "進化成虎蜂獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070194",
-			"soulName": "Titamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Titamon.",
+			"soulName": "泰坦獸的資料碎片",
+			"description": "進化成泰坦獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070195",
-			"soulName": "Dianamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Dianamon.",
+			"soulName": "狄安娜獸的資料碎片",
+			"description": "進化成狄安娜獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070196",
-			"soulName": "Diaboromon Data Fragment",
-			"description": "A data fragment required to Digivolve into Diaboromon.",
+			"soulName": "超惡魔獸的資料碎片",
+			"description": "進化成超惡魔獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070197",
-			"soulName": "Creepymon Data Fragment",
-			"description": "A data fragment required to Digivolve into Creepymon.",
+			"soulName": "究極魔獸的資料碎片",
+			"description": "進化成究極魔獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070198",
-			"soulName": "Gallantmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Gallantmon.",
+			"soulName": "紅蓮騎士獸的資料碎片",
+			"description": "進化成紅蓮騎士獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070199",
-			"soulName": "Dynasmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Dynasmon.",
+			"soulName": "杜納斯獸的資料碎片",
+			"description": "進化成杜納斯獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070200",
-			"soulName": "Leopardmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Leopardmon.",
+			"soulName": "芳香獸的資料碎片",
+			"description": "進化成芳香獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070201",
-			"soulName": "HiAndromon Data Fragment",
-			"description": "A data fragment required to Digivolve into HiAndromon.",
+			"soulName": "高級安杜路獸的資料碎片",
+			"description": "進化成高級安杜路獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070202",
-			"soulName": "Barbamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Barbamon.",
+			"soulName": "巴爾巴獸的資料碎片",
+			"description": "進化成巴爾巴獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070203",
-			"soulName": "BanchoLeomon Data Fragment",
-			"description": "A data fragment required to Digivolve into BanchoLeomon.",
+			"soulName": "番長獅子獸的資料碎片",
+			"description": "進化成番長獅子獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070204",
-			"soulName": "Piedmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Piedmon.",
+			"soulName": "小丑皇的資料碎片",
+			"description": "進化成小丑皇時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070205",
-			"soulName": "Puppetmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Puppetmon.",
+			"soulName": "木偶獸的資料碎片",
+			"description": "進化成木偶獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070206",
-			"soulName": "PlatinumNumemon Data Fragment",
-			"description": "A data fragment required to Digivolve into PlatinumNumemon.",
+			"soulName": "白金鼻涕獸的資料碎片",
+			"description": "進化成白金鼻涕獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070207",
-			"soulName": "BlackWarGreymon Data Fragment",
-			"description": "A data fragment required to Digivolve into BlackWarGreymon.",
+			"soulName": "黑暗戰鬥暴龍獸的資料碎片",
+			"description": "進化成黑暗戰鬥暴龍獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070208",
-			"soulName": "PrinceMamemon Data Fragment",
-			"description": "A data fragment required to Digivolve into PrinceMamemon.",
+			"soulName": "王子豆豆獸的資料碎片",
+			"description": "進化成王子豆豆獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070209",
-			"soulName": "Plesiomon Data Fragment",
-			"description": "A data fragment required to Digivolve into Plesiomon.",
+			"soulName": "蛇頸龍獸的資料碎片",
+			"description": "進化成蛇頸龍獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070210",
-			"soulName": "HerculesKabuterimon Data Fragment",
-			"description": "A data fragment required to Digivolve into HerculesKabuterimon.",
+			"soulName": "力神比多獸的資料碎片",
+			"description": "進化成力神比多獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070211",
-			"soulName": "Beelzemon Data Fragment",
-			"description": "A data fragment required to Digivolve into Beelzemon.",
+			"soulName": "墮天地獄獸的資料碎片",
+			"description": "進化成墮天地獄獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070212",
-			"soulName": "Belphemon SM Data Fragment",
-			"description": "A data fragment required to Digivolve into Belphemon SM.",
+			"soulName": "貝爾菲獸SM的資料碎片",
+			"description": "進化成貝爾菲獸SM時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070213",
-			"soulName": "Phoenixmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Phoenixmon.",
+			"soulName": "鳳凰獸的資料碎片",
+			"description": "進化成鳳凰獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070214",
-			"soulName": "Magnadramon Data Fragment",
-			"description": "A data fragment required to Digivolve into Magnadramon.",
+			"soulName": "聖龍獸的資料碎片",
+			"description": "進化成聖龍獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070215",
-			"soulName": "Boltmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Boltmon.",
+			"soulName": "科學怪人獸的資料碎片",
+			"description": "進化成科學怪人獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070216",
-			"soulName": "Mastemon Data Fragment",
-			"description": "A data fragment required to Digivolve into Mastemon.",
+			"soulName": "混沌神魔獸的資料碎片",
+			"description": "進化成混沌神魔獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070217",
-			"soulName": "MarineAngemon Data Fragment",
-			"description": "A data fragment required to Digivolve into MarineAngemon.",
+			"soulName": "海天使獸的資料碎片",
+			"description": "進化成海天使獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070218",
-			"soulName": "Minervamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Minervamon.",
+			"soulName": "密涅瓦獸的資料碎片",
+			"description": "進化成密涅瓦獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070219",
-			"soulName": "MirageGaogamon Data Fragment",
-			"description": "A data fragment required to Digivolve into MirageGaogamon.",
+			"soulName": "幻影迦奧迦獸的資料碎片",
+			"description": "進化成幻影迦奧迦獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070220",
-			"soulName": "Machinedramon Data Fragment",
-			"description": "A data fragment required to Digivolve into Machinedramon.",
+			"soulName": "機械邪龍獸的資料碎片",
+			"description": "進化成機械邪龍獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070221",
-			"soulName": "MetalEtemon Data Fragment",
-			"description": "A data fragment required to Digivolve into MetalEtemon.",
+			"soulName": "鋼鐵悟空獸的資料碎片",
+			"description": "進化成鋼鐵悟空獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070222",
-			"soulName": "MetalGarurumon Data Fragment",
-			"description": "A data fragment required to Digivolve into MetalGarurumon.",
+			"soulName": "鋼鐵加魯魯獸的資料碎片",
+			"description": "進化成鋼鐵加魯魯獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070223",
-			"soulName": "MetalGarurumon (Black) Data Fragment",
-			"description": "A data fragment required to Digivolve into MetalGarurumon (Black).",
+			"soulName": "鋼鐵加魯魯獸(黑)的資料碎片",
+			"description": "進化成鋼鐵加魯魯獸(黑)時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070224",
-			"soulName": "MetalSeadramon Data Fragment",
-			"description": "A data fragment required to Digivolve into MetalSeadramon.",
+			"soulName": "鋼鐵海龍獸的資料碎片",
+			"description": "進化成鋼鐵海龍獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070225",
-			"soulName": "RustTyranomon Data Fragment",
-			"description": "A data fragment required to Digivolve into RustTyranomon.",
+			"soulName": "終極巨龍獸的資料碎片",
+			"description": "進化成終極巨龍獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070226",
-			"soulName": "Leviamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Leviamon.",
+			"soulName": "利維坦獸的資料碎片",
+			"description": "進化成利維坦獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070227",
-			"soulName": "Lilithmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Lilithmon.",
+			"soulName": "莉莉絲獸的資料碎片",
+			"description": "進化成莉莉絲獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070228",
-			"soulName": "Ravemon Data Fragment",
-			"description": "A data fragment required to Digivolve into Ravemon.",
+			"soulName": "鴉神獸的資料碎片",
+			"description": "進化成鴉神獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070229",
-			"soulName": "LordKnightmon Data Fragment",
-			"description": "A data fragment required to Digivolve into LordKnightmon.",
+			"soulName": "劍皇獸的資料碎片",
+			"description": "進化成劍皇獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070230",
-			"soulName": "Rosemon Data Fragment",
-			"description": "A data fragment required to Digivolve into Rosemon.",
+			"soulName": "薔薇獸的資料碎片",
+			"description": "進化成薔薇獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070231",
-			"soulName": "Lotosmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Lotosmon.",
+			"soulName": "蓮花獸的資料碎片",
+			"description": "進化成蓮花獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070232",
-			"soulName": "Imperialdramon PM Data Fragment",
-			"description": "A data fragment required to Digivolve into Imperialdramon PM.",
+			"soulName": "帝皇龍甲獸PM的資料碎片",
+			"description": "進化成帝皇龍甲獸PM時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070233",
-			"soulName": "Omegamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Omegamon.",
+			"soulName": "奧米加獸的資料碎片",
+			"description": "進化成奧米加獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070234",
-			"soulName": "Omegamon Zwart Data Fragment",
-			"description": "A data fragment required to Digivolve into Omegamon Zwart.",
+			"soulName": "黑色奧米加獸的資料碎片",
+			"description": "進化成黑色奧米加獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070235",
-			"soulName": "Leopardmon LM Data Fragment",
-			"description": "A data fragment required to Digivolve into Leopardmon LM.",
+			"soulName": "芳香獸LM的資料碎片",
+			"description": "進化成芳香獸LM時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070236",
-			"soulName": "Belphemon RM Data Fragment",
-			"description": "A data fragment required to Digivolve into Belphemon RM.",
+			"soulName": "貝爾菲獸RM的資料碎片",
+			"description": "進化成貝爾菲獸RM時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070237",
-			"soulName": "Lucemon SM Data Fragment",
-			"description": "A data fragment required to Digivolve into Lucemon SM.",
+			"soulName": "光明獸SM的資料碎片",
+			"description": "進化成光明獸SM時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070239",
-			"soulName": "Magnamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Magnamon.",
+			"soulName": "金甲龍獸的資料碎片",
+			"description": "進化成金甲龍獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070243",
-			"soulName": "Maycrackmon VM Data Fragment",
-			"description": "A data fragment required to Digivolve into Maycrackmon.",
+			"soulName": "大緬因貓獸VM的資料碎片",
+			"description": "進化成大緬因貓獸VM時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070283",
-			"soulName": "Susanoomon Data Fragment",
-			"description": "A data fragment required to Digivolve into Susanoomon.",
+			"soulName": "金剛武神獸的資料碎片",
+			"description": "進化成金剛武神獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070286",
-			"soulName": "Omegamon Zwart D Data Fragment",
-			"description": "A data fragment required to Digivolve into Omegamon Zwart D.",
+			"soulName": "黑色奧米加獸D的資料碎片",
+			"description": "進化成黑色奧米加獸D時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070288",
-			"soulName": "Omegamon Alter-B Data Fragment",
-			"description": "A data fragment required to Digivolve into Omegamon Alter-B.",
+			"soulName": "奧米加獸Alter-B的資料碎片",
+			"description": "進化成奧米加獸Alter-B時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070289",
-			"soulName": "Gallantmon CM Data Fragment",
-			"description": "A data fragment required to Digivolve into Gallantmon CM.",
+			"soulName": "紅蓮騎士獸CM的資料碎片",
+			"description": "進化成紅蓮騎士獸CM時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070291",
-			"soulName": "OmniShoutmon Data Fragment",
-			"description": "A data fragment required to Digivolve into OmniShoutmon.",
+			"soulName": "奧米加咆哮獸的資料碎片",
+			"description": "進化成奧米加咆哮獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070303",
-			"soulName": "ShineGreymon BM Data Fragment",
-			"description": "A data fragment required to Digivolve into ShineGreymon BM.",
+			"soulName": "閃光暴龍獸BM的資料碎片",
+			"description": "進化成閃光暴龍獸BM時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070304",
-			"soulName": "MirageGaogamon BM Data Fragment",
-			"description": "A data fragment required to Digivolve into MirageGaogamon BM.",
+			"soulName": "幻影迦奧迦獸BM的資料碎片",
+			"description": "進化成幻影迦奧迦獸BM時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070305",
-			"soulName": "Ravemon BM Data Fragment",
-			"description": "A data fragment required to Digivolve into Ravemon BM.",
+			"soulName": "鴉神獸BM的資料碎片",
+			"description": "進化成鴉神獸BM時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070306",
-			"soulName": "Rosemon BM Data Fragment",
-			"description": "A data fragment required to Digivolve into Rosemon BM.",
+			"soulName": "薔薇獸BM的資料碎片",
+			"description": "進化成薔薇獸BM時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070311",
-			"soulName": "Kimeramon Data Fragment",
-			"description": "A data fragment required to Digivolve into Kimeramon.",
+			"soulName": "基米拉獸的資料碎片",
+			"description": "進化成基米拉獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070312",
-			"soulName": "Millenniummon Data Fragment",
-			"description": "A data fragment required to Digivolve into Millenniummon.",
+			"soulName": "千年獸的資料碎片",
+			"description": "進化成千年獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070313",
-			"soulName": "Chaosdramon Data Fragment",
-			"description": "A data fragment required to Digivolve into Chaosdramon",
+			"soulName": "混沌龍獸的資料碎片",
+			"description": "混沌龍獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070317",
-			"soulName": "Slayerdramon Data Fragment",
-			"description": "A data fragment required to Digivolve into Slayerdramon.",
+			"soulName": "斬龍獸的資料碎片",
+			"description": "進化成斬龍獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070320",
-			"soulName": "Brakedramon Data Fragment",
-			"description": "A data fragment required to Digivolve into Brakedramon.",
+			"soulName": "破壞龍獸的資料碎片",
+			"description": "進化成破壞龍獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070326",
-			"soulName": "Durandamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Durandamon",
+			"soulName": "迪朗達獸的資料碎片",
+			"description": "進化成迪朗達獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070327",
-			"soulName": "WarGreymon X Data Fragment",
-			"description": "A data fragment required to Digivolve into WarGreymon X.",
+			"soulName": "戰鬥暴龍獸X抗體的資料碎片",
+			"description": "進化成戰鬥暴龍獸X抗體時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070328",
-			"soulName": "MetalGarurumon X Data Fragment",
-			"description": "A data fragment required to Digivolve into MetalGarurumon X.",
+			"soulName": "鋼鐵加魯魯獸X抗體的資料碎片",
+			"description": "進化成鋼鐵加魯魯獸X抗體時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070329",
-			"soulName": "ShineGreymon RM Data Fragment",
-			"description": "A data fragment required to Digivolve into ShineGreymon RM.",
+			"soulName": "閃光暴龍獸RM的資料碎片",
+			"description": "進化成閃光暴龍獸RM時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070330",
-			"soulName": "Raguelmon Data Fragment",
-			"description": "A data fragment required to Digivolve into Raguelmon",
+			"soulName": "拉貴爾獸的資料碎片",
+			"description": "拉貴爾獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070331",
-			"soulName": "Gallantmon X Anti-body Data Fragment",
-			"description": "A data fragment required to Digivolve into Gallantmon X Anti-body.",
+			"soulName": "紅蓮騎士獸X抗體的資料碎片",
+			"description": "進化成紅蓮騎士獸X抗體時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070332",
-			"soulName": "KingEtemon Data Fragment",
-			"description": "A data fragment required to Digivolve into KingEtemon.",
+			"soulName": "大王悟空獸的資料碎片",
+			"description": "進化成大王悟空獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070333",
-			"soulName": "AncientGreymon Data Fragment",
-			"description": "A data fragment required to Digivolve into AncientGreymon",
+			"soulName": "古代暴龍獸的資料碎片",
+			"description": "古代暴龍獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070334",
-			"soulName": "B WarGreymon X Data Fragment",
-			"description": "A data fragment required to Digivolve into B WarGreymon X",
+			"soulName": "B戰鬥暴龍獸X的資料碎片",
+			"description": "B戰鬥暴龍獸X時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070336",
-			"soulName": "Magnamon X Anti-body Data Fragment",
-			"description": "A data fragment required to Digivolve into MagnamonX Anti-body .",
+			"soulName": "金甲龍獸X抗體的資料碎片",
+			"description": "進化成金甲龍獸X抗體時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070337",
-			"soulName": "Ophanimon FM Data Fragment",
-			"description": "A data fragment required to Digivolve into Ophanimon FM.",
+			"soulName": "神聖天女獸FM的資料碎片",
+			"description": "進化成神聖天女獸FM時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070338",
-			"soulName": "UlforceVeedramon X Data Fragment",
-			"description": "A data fragment required to Digivolve into UlforceVeedramon X.",
+			"soulName": "究極V龍獸X抗體的資料碎片",
+			"description": "進化成究極V龍獸X抗體時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070339",
-			"soulName": "Omegamon MM Data Fragment",
-			"description": "A data fragment required to Digivolve into Omegamon MM.",
+			"soulName": "奧米加獸MM的資料碎片",
+			"description": "進化成奧米加獸MM時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070340",
-			"soulName": "Armageddemon Data Fragment",
-			"description": "A data fragment required to Digivolve into Armageddemon.",
+			"soulName": "滅世魔獸的資料碎片",
+			"description": "滅世魔獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070342",
-			"soulName": "AncientGarurumon Data Fragment",
-			"description": "A data fragment required to Digivolve into AncientGarurumon.",
+			"soulName": "古代加魯魯獸的資料碎片",
+			"description": "進化成電古代加魯魯獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070344",
-			"soulName": "BlitzGreymon Data Fragment",
-			"description": "A data fragment required to Digivolve into BlitzGreymon.",
+			"soulName": "電光暴龍獸的資料碎片",
+			"description": "進化成電光暴龍獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070345",
-			"soulName": "CresGarurumon Data Fragment",
-			"description": "A data fragment required to Digivolve into CresGarurumon.",
+			"soulName": "偃月加魯魯獸的資料碎片",
+			"description": "進化成偃月加魯魯獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076006",
-			"soulName": "ShineGreymon Data Fragment",
-			"description": "A data fragment required to Digivolve into ShineGreymon.",
+			"soulName": "閃光暴龍獸的資料碎片",
+			"description": "閃光暴龍獸的資料碎片",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076012",
-			"soulName": "HerculesKabuterimon Data Fragment",
-			"description": "A data fragment required to Digivolve into HerculesKabuterimon.",
+			"soulName": "力神比多獸的資料碎片",
+			"description": "力神比多獸的資料碎片",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076018",
-			"soulName": "Gaiomon Data Fragment",
-			"description": "A data fragment required to Digivolve into Gaiomon.",
+			"soulName": "凱王獸的資料碎片",
+			"description": "凱王獸的資料碎片",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076024",
-			"soulName": "Sakuyamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Sakuyamon.",
+			"soulName": "沙古牙獸的資料碎片",
+			"description": "進化成沙古牙獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076030",
-			"soulName": "Plesiomon Data Fragment",
-			"description": "A data fragment required to Digivolve into Plesiomon.",
+			"soulName": "蛇頸龍獸的資料碎片",
+			"description": "進化成蛇頸龍獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076036",
-			"soulName": "Leviamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Leviamon.",
+			"soulName": "利維坦獸的資料碎片",
+			"description": "進化成利維坦獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076042",
-			"soulName": "Dianamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Dianamon.",
+			"soulName": "狄安娜獸的資料碎片",
+			"description": "進化成狄安娜獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076048",
-			"soulName": "Beelzemon Data Fragment",
-			"description": "A data fragment required to Digivolve into Beelzemon.",
+			"soulName": "墮天地獄獸的資料碎片",
+			"description": "進化成墮天地獄獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076054",
-			"soulName": "Barbamon Data Fragment",
-			"description": "A data fragment required to Digivolve into Barbamon.",
+			"soulName": "巴爾巴獸的資料碎片",
+			"description": "進化成巴爾巴獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "2000001",
-			"soulName": "Null Plugin ver1.0",
-			"description": "A program encoded with a hint of Null energy, used for Digivolution.",
+			"soulName": "無的外掛ver1.0",
+			"description": "進化時所需，包含「無」屬性微弱力量的程式。",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2000002",
-			"soulName": "Null Plugin ver2.0",
-			"description": "A program encoded with Null energy, used for Digivolution.",
+			"soulName": "無的外掛ver2.0",
+			"description": "進化時所需，包含「無」屬性力量的程式。",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2000003",
-			"soulName": "Null Plugin ver3.0",
-			"description": "A program encoded with powerful Null energy, used for Digivolution.",
+			"soulName": "無的外掛ver3.0",
+			"description": "進化時所需，包含「無」屬性稍強力量的程式。",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2000004",
-			"soulName": "Null Plugin ver4.0",
-			"description": "A program encoded with incredible Null energy, used for Digivolution.",
+			"soulName": "無的外掛ver4.0",
+			"description": "進化時所需，包含「無」屬性強大力量的程式。",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2010001",
-			"soulName": "Fire Plugin ver1.0",
-			"description": "A program encoded with a hint of Fire energy, used for Digivolution.",
+			"soulName": "火的外掛ver1.0",
+			"description": "進化時所需，包含「火」屬性微弱力量的程式。",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2010002",
-			"soulName": "Fire Plugin ver2.0",
-			"description": "A program encoded with Fire energy, used for Digivolution.",
+			"soulName": "火的外掛ver2.0",
+			"description": "進化時所需，包含「火」屬性力量的程式。",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2010003",
-			"soulName": "Fire Plugin ver3.0",
-			"description": "A program encoded with powerful Fire energy, used for Digivolution.",
+			"soulName": "火的外掛ver3.0",
+			"description": "進化時所需，包含「火」屬性稍強力量的程式。",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2010004",
-			"soulName": "Fire Plugin ver4.0",
-			"description": "A program encoded with incredible Fire energy, used for Digivolution.",
+			"soulName": "火的外掛ver4.0",
+			"description": "進化時所需，包含「火」屬性強大力量的程式。",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2020001",
-			"soulName": "Water Plugin ver1.0",
-			"description": "A program encoded with a hint of Water energy, used for Digivolution.",
+			"soulName": "水的外掛ver1.0",
+			"description": "進化時所需，包含「水」屬性微弱力量的程式。",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2020002",
-			"soulName": "Water Plugin ver2.0",
-			"description": "A program encoded with Water energy, used for Digivolution.",
+			"soulName": "水的外掛ver2.0",
+			"description": "進化時所需，包含「水」屬性力量的程式。",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2020003",
-			"soulName": "Water Plugin ver3.0",
-			"description": "A program encoded with powerful Water energy, used for Digivolution.",
+			"soulName": "水的外掛ver3.0",
+			"description": "進化時所需，包含「水」屬性稍強力量的程式。",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2020004",
-			"soulName": "Water Plugin ver4.0",
-			"description": "A program encoded with incredible Water energy, used for Digivolution.",
+			"soulName": "水的外掛ver4.0",
+			"description": "進化時所需，包含「水」屬性強大力量的程式。",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2030001",
-			"soulName": "Thunder Plugin ver1.0",
-			"description": "A program encoded with a hint of Thunder energy, used for Digivolution.",
+			"soulName": "雷的外掛ver1.0",
+			"description": "進化時所需，包含「雷」屬性微弱力量的程式。",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2030002",
-			"soulName": "Thunder Plugin ver2.0",
-			"description": "A program encoded with Thunder energy, used for Digivolution.",
+			"soulName": "雷的外掛ver2.0",
+			"description": "進化時所需，包含「雷」屬性力量的程式。",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2030003",
-			"soulName": "Thunder Plugin ver3.0",
-			"description": "A program encoded with powerful Thunder energy, used for Digivolution.",
+			"soulName": "雷的外掛ver3.0",
+			"description": "進化時所需，包含「雷」屬性稍強力量的程式。",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2030004",
-			"soulName": "Thunder Plugin ver4.0",
-			"description": "A program encoded with incredible Thunder energy, used for Digivolution.",
+			"soulName": "雷的外掛ver4.0",
+			"description": "進化時所需，包含「雷」屬性強大力量的程式。",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2040001",
-			"soulName": "Nature Plugin ver1.0",
-			"description": "A program encoded with a hint of Nature energy, used for Digivolution.",
+			"soulName": "自然的外掛ver1.0",
+			"description": "進化時所需，包含「自然」屬性微弱力量的程式。",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2040002",
-			"soulName": "Nature Plugin ver2.0",
-			"description": "A program encoded with Nature energy, used for Digivolution.",
+			"soulName": "自然的外掛ver2.0",
+			"description": "進化時所需，包含「自然」屬性力量的程式。",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2040003",
-			"soulName": "Nature Plugin ver3.0",
-			"description": "A program encoded with powerful Nature energy, used for Digivolution.",
+			"soulName": "自然的外掛ver3.0",
+			"description": "進化時所需，包含「自然」屬性稍強力量的程式。",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2040004",
-			"soulName": "Nature Plugin ver4.0",
-			"description": "A program encoded with incredible Nature energy, used for Digivolution.",
+			"soulName": "自然的外掛ver4.0",
+			"description": "進化時所需，包含「自然」屬性強大力量的程式。",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2050001",
-			"soulName": "Light Plugin ver1.0",
-			"description": "A program encoded with a hint of Light energy, used for Digivolution.",
+			"soulName": "光的外掛ver1.0",
+			"description": "進化時所需，包含「光」屬性微弱力量的程式。",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2050002",
-			"soulName": "Light Plugin ver2.0",
-			"description": "A program encoded with Light energy, used for Digivolution.",
+			"soulName": "光的外掛ver2.0",
+			"description": "進化時所需，包含「光」屬性力量的程式。",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2050003",
-			"soulName": "Light Plugin ver3.0",
-			"description": "A program encoded with powerful Light energy, used for Digivolution.",
+			"soulName": "光的外掛ver3.0",
+			"description": "進化時所需，包含「光」屬性稍強力量的程式。",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2050004",
-			"soulName": "Light Plugin ver4.0",
-			"description": "A program encoded with incredible Light energy, used for Digivolution.",
+			"soulName": "光的外掛ver4.0",
+			"description": "進化時所需，包含「光」屬性強大力量的程式。",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2060001",
-			"soulName": "Darkness Plugin ver1.0",
-			"description": "A program encoded with a hint of Darkness energy, used for Digivolution.",
+			"soulName": "闇的外掛ver1.0",
+			"description": "進化時所需，包含「闇」屬性微弱力量的程式。",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2060002",
-			"soulName": "Darkness Plugin ver2.0",
-			"description": "A program encoded with Darkness energy, used for Digivolution.",
+			"soulName": "闇的外掛ver2.0",
+			"description": "進化時所需，包含「闇」屬性力量的程式。",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2060003",
-			"soulName": "Darkness Plugin ver3.0",
-			"description": "A program encoded with powerful Darkness energy, used for Digivolution.",
+			"soulName": "闇的外掛ver3.0",
+			"description": "進化時所需，包含「闇」屬性稍強力量的程式。",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2060004",
-			"soulName": "Darkness Plugin ver4.0",
-			"description": "A program encoded with incredible Darkness energy, used for Digivolution.",
+			"soulName": "闇的外掛ver4.0",
+			"description": "進化時所需，包含「闇」屬性強大力量的程式。",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "3000001",
-			"soulName": "Core Plugin ver1.0",
-			"description": "A program required when Digivolving Digimon in the Volcanicdramon line.",
+			"soulName": "核心外掛ver1.0",
+			"description": "爆炎系數碼寶貝進化時所需的程式。",
 			"soulGroup": "2",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "3000002",
-			"soulName": "Core Plugin ver2.0",
-			"description": "A program required when Digivolving Digimon in the Volcanicdramon line.",
+			"soulName": "核心外掛ver2.0",
+			"description": "爆炎系數碼寶貝進化時所需的程式。",
 			"soulGroup": "2",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "3000003",
-			"soulName": "Core Plugin ver3.0",
-			"description": "A program required when Digivolving Digimon in the Volcanicdramon line.",
+			"soulName": "核心外掛ver3.0",
+			"description": "爆炎系數碼寶貝進化時所需的程式。",
 			"soulGroup": "2",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000001",
-			"soulName": "Null Upgrade Data",
-			"description": "A program required to Version Upgrade a Mirage Digimon.",
+			"soulName": "無的升級資料",
+			"description": "幻生系數碼寶貝進行型態升級時所需的程式。",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000003",
-			"soulName": "Water Upgrade Data",
-			"description": "A program required to Version Upgrade a Glacier Digimon.",
+			"soulName": "水的升級資料",
+			"description": "冰河系數碼寶貝進行型態升級時所需的程式。",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000005",
-			"soulName": "Nature Upgrade Data",
-			"description": "A program required to Version Upgrade an Earth Digimon.",
+			"soulName": "自然的升級資料",
+			"description": "大地系數碼寶貝進行型態升級時所需的程式。",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000006",
-			"soulName": "Light Upgrade Data",
-			"description": "A program required to Version Upgrade a Bright Digimon.",
+			"soulName": "光的升級資料",
+			"description": "光芒系數碼寶貝進行型態升級時所需的程式。",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000001",
-			"soulName": "Null Re-factor",
-			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Mirage Tribe Digimon.",
+			"soulName": "無的重構工具",
+			"description": "已型態升級的幻生系數碼寶貝，進行異常狀態抗性變化時所需的卡片媒體。",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000003",
-			"soulName": "Water Re-factor",
-			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Glacier Tribe Digimon.",
+			"soulName": "水的重構工具",
+			"description": "已型態升級的冰河系數碼寶貝，進行異常狀態抗性變化時所需的卡片媒體。",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000005",
-			"soulName": "Nature Re-factor",
-			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Earth Tribe Digimon.",
+			"soulName": "自然的重構工具",
+			"description": "已型態升級的大地系數碼寶貝，進行異常狀態抗性變化時所需的卡片媒體。",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000006",
-			"soulName": "Light Re-factor",
-			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Bright Tribe Digimon.",
+			"soulName": "光的重構工具",
+			"description": "已型態升級的光芒系數碼寶貝，進行異常狀態抗性變化時所需的卡片媒體。",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"

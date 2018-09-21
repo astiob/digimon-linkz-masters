@@ -3,7 +3,7 @@
 		{
 			"facilityConditionId": "1",
 			"releaseId": "1",
-			"description": "Unlock by clearing AREA 01 [Warehouse Server]",
+			"description": "完成AREA 01【倉庫伺服器】\n即開放",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "1",
@@ -13,7 +13,7 @@
 		{
 			"facilityConditionId": "2",
 			"releaseId": "2",
-			"description": "Unlock by clearing AREA 03 [Air Conditioning Control Server]",
+			"description": "完成AREA 03【空調管理伺服器】\n即開放",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "2",
@@ -23,7 +23,7 @@
 		{
 			"facilityConditionId": "3",
 			"releaseId": "3",
-			"description": "Unlock by clearing AREA 05 [Factory Control Server]",
+			"description": "完成AREA 05【工廠控制伺服器】\n即開放",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "3",
@@ -33,7 +33,7 @@
 		{
 			"facilityConditionId": "4",
 			"releaseId": "4",
-			"description": "Unlock by clearing the mission \"Become friends with 1 user\"",
+			"description": "完成累積任務「登錄1位好友」\n即開放",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "4",
@@ -43,7 +43,7 @@
 		{
 			"facilityConditionId": "5",
 			"releaseId": "5",
-			"description": "Unlock by clearing the mission \"Become friends with 3 users\"",
+			"description": "完成累積任務「登錄3位好友」\n即開放",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "5",
@@ -53,7 +53,7 @@
 		{
 			"facilityConditionId": "6",
 			"releaseId": "6",
-			"description": "Unlock by clearing the mission \"Become friends with 5 users\"",
+			"description": "完成累積任務「登錄5位好友」\n即開放",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "6",
@@ -63,7 +63,7 @@
 		{
 			"facilityConditionId": "7",
 			"releaseId": "7",
-			"description": "Unlock by clearing the mission \"Become friends with 10 users\"",
+			"description": "完成累積任務「登錄10位好友」\n即開放",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "7",
@@ -73,7 +73,7 @@
 		{
 			"facilityConditionId": "8",
 			"releaseId": "8",
-			"description": "Unlock by clearing the mission \"Become friends with 20 users\"",
+			"description": "完成累積任務「登錄20位好友」\n即開放",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "8",
@@ -83,7 +83,7 @@
 		{
 			"facilityConditionId": "9",
 			"releaseId": "9",
-			"description": "Unlock by clearing the mission \"Become friends with 30 users\"",
+			"description": "完成累積任務「登錄30位好友」\n即開放",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "9",
@@ -93,7 +93,7 @@
 		{
 			"facilityConditionId": "10",
 			"releaseId": "10",
-			"description": "Unlock by clearing the mission \"Become friends with 50 users\"",
+			"description": "完成累積任務「登錄50位好友」\n即開放",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "10",
@@ -103,7 +103,7 @@
 		{
 			"facilityConditionId": "11",
 			"releaseId": "11",
-			"description": "Unlock by clearing AREA 04 [Water Quality Control Server]",
+			"description": "完成AREA 04【水質管理伺服器】\n即開放",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "11",
@@ -113,7 +113,7 @@
 		{
 			"facilityConditionId": "12",
 			"releaseId": "12",
-			"description": "Get as an achievement prize for your total points in Courage x Friendship: The Christmas Recovery Rumble!",
+			"description": "達成勇氣與友情的聖誕節奪回戰的\n積分報酬即獲得",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "12",
@@ -123,7 +123,7 @@
 		{
 			"facilityConditionId": "13",
 			"releaseId": "13",
-			"description": "Get as an achievement prize for your total points in Courage x Friendship: The Christmas Recovery Rumble!",
+			"description": "達成勇氣與友情的聖誕節奪回戰的\n積分報酬即獲得",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "13",
@@ -133,7 +133,7 @@
 		{
 			"facilityConditionId": "14",
 			"releaseId": "14",
-			"description": "Get as an achievement prize for your total points in Courage x Friendship: The Christmas Recovery Rumble!",
+			"description": "達成勇氣與友情的聖誕節奪回戰的\n積分報酬即獲得",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "14",
@@ -143,7 +143,7 @@
 		{
 			"facilityConditionId": "15",
 			"releaseId": "15",
-			"description": "Get as an achievement prize for your total points in Courage x Friendship: The Christmas Recovery Rumble!",
+			"description": "達成勇氣與友情的聖誕節奪回戰的\n積分報酬即獲得",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "15",
@@ -153,7 +153,7 @@
 		{
 			"facilityConditionId": "16",
 			"releaseId": "16",
-			"description": "Get as an achievement prize for your total points in Courage x Friendship: The Christmas Recovery Rumble!",
+			"description": "達成勇氣與友情的聖誕節奪回戰的\n積分報酬即獲得",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "16",
@@ -163,7 +163,7 @@
 		{
 			"facilityConditionId": "17",
 			"releaseId": "17",
-			"description": "Get as an achievement prize for your total points in Courage x Friendship: The Christmas Recovery Rumble!",
+			"description": "達成勇氣與友情的聖誕節奪回戰的\n積分報酬即獲得",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "17",
@@ -173,7 +173,7 @@
 		{
 			"facilityConditionId": "18",
 			"releaseId": "18",
-			"description": "Get as an achievement prize for your total points in Courage x Friendship: The Christmas Recovery Rumble!",
+			"description": "達成勇氣與友情的聖誕節奪回戰的\n積分報酬即獲得",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "18",
@@ -183,7 +183,7 @@
 		{
 			"facilityConditionId": "19",
 			"releaseId": "19",
-			"description": "Get as an achievement prize for your total points in Courage x Friendship: The Christmas Recovery Rumble!",
+			"description": "達成勇氣與友情的聖誕節奪回戰的\n積分報酬即獲得",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "19",

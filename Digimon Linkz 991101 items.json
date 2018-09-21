@@ -2,857 +2,857 @@
 	"itemM": [
 		{
 			"itemId": "1",
-			"name": "Mystery Data Byte",
-			"description": "Strange data shrouded in mystery. Can be exchanged for various items.",
+			"name": "神祕的片斷資料",
+			"description": "籠罩在謎團之中的神祕資料，可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_1",
 				"EventResource/Item/item_1"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "2",
 			"name": "BP",
-			"description": "Points that can be earned in the Colosseum. Can be exchanged for various items.",
+			"description": "競技場上可獲得的點數，可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_2",
 				"EventResource/Item/item_2"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "3",
-			"name": "Willful Data Byte",
-			"description": "A piece of fragmented data with a strong sense of purpose. Can be exchanged for various items.",
+			"name": "意志的片斷資料",
+			"description": "意志的片斷化資料，可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_3",
 				"EventResource/Item/item_3"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "4",
-			"name": "Alpha Data Byte",
-			"description": "A piece of fragmented Alpha data shrouded in an enigma. Can be exchanged for various items.",
+			"name": "α的片斷資料",
+			"description": "籠罩在謎團之中的α片斷化資料，可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_4",
 				"EventResource/Item/item_4"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "5",
-			"name": "Raging Data Byte",
-			"description": "A piece of fragmented data full of angry emotion. Can be exchanged for various items.",
+			"name": "憤怒的片斷資料",
+			"description": "憤怒情緒的片斷化資料，可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Item/item_7",
 				"EventResource/Item/item_7"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6",
-			"name": "Expansion Patch",
-			"description": "An item containing a patch that expands Chip slots. You can use it to expand slots.",
+			"name": "擴張修正檔",
+			"description": "含有擴張凹槽修正檔的道具，可用來擴張凹槽。",
 			"category": "1",
 			"img": [
 				"ChipThumbnail/extra_slot_01"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "7",
-			"name": "Removal Patch",
-			"description": "An item containing a patch that removes Chips. You can use it to remove equipped Chips.",
+			"name": "卸除修正檔",
+			"description": "含有卸除晶片修正檔的道具，可用來卸除已裝備的晶片。",
 			"category": "1",
 			"img": [
 				"ChipThumbnail/eject_slot_01"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "81",
-			"name": "Glacier x Earth  Data Byte",
-			"description": "Can be exchanged for various items.",
+			"name": "冰河×大地的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_81",
 				"EventResource/Item/item_81"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "82",
-			"name": "Counterattack Data Byte",
-			"description": "Can be exchanged for various items.",
+			"name": "反擊的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_82",
 				"EventResource/Item/item_82"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "50001",
-			"name": "Gourmet Meat",
-			"description": "High-quality meat harvested from special fields. It's sure to make your Digimon happy!",
+			"name": "高級肉",
+			"description": "在特殊肉田收成的高級肉，能讓數碼寶貝心情非常好。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/special_meat_00",
 				"EventResource/Item/special_meat_00"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "50002",
-			"name": "Blank Chips",
-			"description": "Chip with erased data. Exchange them for items at the Exchange facility.",
+			"name": "空白晶片",
+			"description": "將資料刪除後的晶片。可在交換所交換喜歡的道具。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_blank",
 				"EventResource/Item/item_blank"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "60001",
-			"name": "Choose-A-Mega Voucher",
-			"description": "A voucher that can be exchanged for the Mega of your choice",
+			"name": "究極體任選兌換券",
+			"description": "可在交換所兌換任意究極體數碼寶貝的兌換券。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/special_ticket_00",
 				"EventResource/Item/item_60001"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100000",
-			"name": "Choose-A-Fragment Voucher",
-			"description": "A voucher that can be exchanged for Digivolution fuel for the Mega Digimon of your choice",
+			"name": "碎片任選兌換券",
+			"description": "可在交換所兌換任意究極體數碼寶貝進化素材的兌換券。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/special_ticket_100000",
 				"EventResource/Item/item_100000"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100001",
-			"name": "Starter Data Byte",
-			"description": "A piece of fragmented starter data. Can be exchanged for various items.",
+			"name": "起始的片斷資料",
+			"description": "起始的片斷化資料，可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100001",
 				"EventResource/Item/item_100001"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100002",
-			"name": "Mysterious Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "奧祕的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100002",
 				"EventResource/Item/item_100002"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100003",
-			"name": "Mythical Dragon Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "幻龍的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100003",
 				"EventResource/Item/item_100003"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100004",
-			"name": "Holy Lance Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "聖槍的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100004",
 				"EventResource/Item/item_100004"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100005",
-			"name": "Poison Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "猛毒的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100005",
 				"EventResource/Item/item_100005"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100006",
-			"name": "Dark King Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "闇王的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100006",
 				"EventResource/Item/item_100006"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100007",
-			"name": "Shadowy Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "漆黑的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100007",
 				"EventResource/Item/item_100007"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100008",
-			"name": "Strongest Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "最強的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100008",
 				"EventResource/Item/item_100008"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100009",
-			"name": "Secret Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "秘密的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100009",
 				"EventResource/Item/item_100009"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100010",
-			"name": "Brilliant Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "輝煌的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100010",
 				"EventResource/Item/item_100010"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100011",
-			"name": "Salvation Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "救世的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100011",
 				"EventResource/Item/item_100011"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100012",
-			"name": "Apocalypse Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "末日的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100012",
 				"EventResource/Item/item_100012"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100013",
-			"name": "Blue Wolf Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "蒼狼的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100013",
 				"EventResource/Item/item_100013"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100014",
-			"name": "Fist Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "拳的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100014",
 				"EventResource/Item/item_100014"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100015",
-			"name": "Chaos Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "混沌的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100015",
 				"EventResource/Item/item_100015"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100016",
-			"name": "Ranking Tickets",
-			"description": "Can be exchanged for various items.",
+			"name": "排名入場券",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100016",
 				"EventResource/Item/item_100016"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100017",
-			"name": "Excalibur Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "聖劍的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100017",
 				"EventResource/Item/item_100017"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100018",
-			"name": "TigerBee Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "虎蜂的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100018",
 				"EventResource/Item/item_100018"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100019",
-			"name": "Destruction Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "破滅的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100019",
 				"EventResource/Item/item_100019"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100020",
-			"name": "Shadow Harbinger Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "黑影的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100020",
 				"EventResource/Item/item_100020"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100021",
-			"name": "Bloodline Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "系譜的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100021",
 				"EventResource/Item/item_100021"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100022",
-			"name": "Fog Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "白霧的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100023",
 				"EventResource/Item/item_100023"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100023",
-			"name": "Flame Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "火焰的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100022",
 				"EventResource/Item/item_100022"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100024",
-			"name": "Ancient Dragon Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "古代龍的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100024",
 				"EventResource/Item/item_100024"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100025",
-			"name": "Goodwill Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "善之意志的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100025",
 				"EventResource/Item/item_100025"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100026",
-			"name": "Scarlet Metal Dragon Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "紅機龍的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100026",
 				"EventResource/Item/item_100026"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100027",
-			"name": "Kouka Cherry Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "紅華的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100027",
 				"EventResource/Item/item_100027"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100029",
-			"name": "Crimson Knight Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "紅蓮騎士的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100029",
 				"EventResource/Item/item_100029"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100030",
-			"name": "10 Million DL Celebration Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "全球1000萬下載紀念兌換券",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100030",
 				"EventResource/Item/item_100030"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100031",
-			"name": "Steel Dragon Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "鋼鐵龍的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100031",
 				"EventResource/Item/item_100031"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100032",
-			"name": "Red Steel Dragon Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "赤鋼鐵龍的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100032",
 				"EventResource/Item/item_100032"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100033",
-			"name": "Eternal Darkness Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "常闇的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100033",
 				"EventResource/Item/item_100033"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100034",
-			"name": "Dark Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "暗黑的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100034",
 				"EventResource/Item/item_100034"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100035",
-			"name": "Darkness Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "闇的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100035",
 				"EventResource/Item/item_100035"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100036",
-			"name": "Friendship Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "友好的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100036",
 				"EventResource/Item/item_100036"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100037",
-			"name": "Valiant Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "剛勇的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100037",
 				"EventResource/Item/item_100037"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100038",
-			"name": "Unleash the Power Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "力之解放的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100038",
 				"EventResource/Item/item_100038"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100039",
-			"name": "Ultimate Gods of War Data Bytes",
-			"description": "Can be exchanged for various items.",
+			"name": "究極武神的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100039",
 				"EventResource/Item/item_100039"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100040",
-			"name": "Trust Data Bytes ",
-			"description": "Can be exchanged for various items.",
+			"name": "信賴的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100040",
 				"EventResource/Item/item_100040"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100041",
-			"name": "Swift Data Bytes ",
-			"description": "Can be exchanged for various items.",
+			"name": "神速的片斷資料",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100041",
 				"EventResource/Item/item_100041"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000001",
-			"name": "Choose-A-Fragment Voucher",
-			"description": "A voucher that can be exchanged for Digivolution fuel for the Mega Digimon of your choice",
+			"name": "碎片任選兌換券",
+			"description": "可在交換所兌換任意究極體數碼寶貝進化素材的兌換券。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000001",
 				"EventResource/Item/item_6000001"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000002",
-			"name": "Choose-A-Fragment Voucher",
-			"description": "A voucher that can be exchanged for Digivolution fuel for the Mega Digimon of your choice",
+			"name": "碎片任選兌換券",
+			"description": "可在交換所兌換任意究極體數碼寶貝進化素材的兌換券。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000002",
 				"EventResource/Item/item_6000002"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000003",
-			"name": "Choose-A-Fragment Voucher",
-			"description": "A voucher that can be exchanged for Digivolution fuel for the Mega Digimon of your choice",
+			"name": "碎片任選兌換券",
+			"description": "可在交換所兌換任意究極體數碼寶貝進化素材的兌換券。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000003",
 				"EventResource/Item/item_6000003"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000004",
-			"name": "WarGrowlmon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "大古拉獸兌換券",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000004",
 				"EventResource/Item/item_6000004"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000005",
-			"name": "GrapLeomon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "格鬥獅子獸兌換券",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000005",
 				"EventResource/Item/item_6000005"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000006",
-			"name": "Duramon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "迪朗獸兌換券",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000006",
 				"EventResource/Item/item_6000006"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000007",
-			"name": "CannonBeemon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "炮蜂獸兌換券",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000007",
 				"EventResource/Item/item_6000007"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000008",
-			"name": "MetalGreymon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "機械暴龍獸兌換券",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000008",
 				"EventResource/Item/item_6000008"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000009",
-			"name": "Whamon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "巨鯨獸兌換券",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000009",
 				"EventResource/Item/item_6000009"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000010",
-			"name": "Lillymon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "花仙獸兌換券",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000010",
 				"EventResource/Item/item_6000010"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000011",
-			"name": "MetalTyrannomon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "鋼鐵巨龍獸兌換券",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000011",
 				"EventResource/Item/item_6000011"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000012",
-			"name": "Megadramon Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "超蛇龍獸兌換券",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000012",
 				"EventResource/Item/item_6000012"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000013",
-			"name": "Unleash the Power Voucher",
-			"description": "Can be exchanged for various items.",
+			"name": "力之解放兌換券",
+			"description": "可在交換所兌換各種東西。",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000013",
 				"EventResource/Item/item_6000013"
 			],
-			"unitName": "pcs",
+			"unitName": "個",
 			"upValue": "1",
 			"dispFlg": "0"
 		}

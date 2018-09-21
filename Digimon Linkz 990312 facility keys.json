@@ -2,79 +2,79 @@
 	"facilityKeyM": [
 		{
 			"facilityKeyId": "1",
-			"facilityKeyName": "Warehouse Key"
+			"facilityKeyName": "倉庫啟用鑰匙"
 		},
 		{
 			"facilityKeyId": "2",
-			"facilityKeyName": "Dojo Key"
+			"facilityKeyName": "道場啟用鑰匙"
 		},
 		{
 			"facilityKeyId": "3",
-			"facilityKeyName": "Restaurant Key"
+			"facilityKeyName": "餐廳啟用鑰匙"
 		},
 		{
 			"facilityKeyId": "4",
-			"facilityKeyName": "Refrigerator Key"
+			"facilityKeyName": "冰箱啟用鑰匙"
 		},
 		{
 			"facilityKeyId": "5",
-			"facilityKeyName": "Vending Machine Key"
+			"facilityKeyName": "自動販賣機啟用鑰匙"
 		},
 		{
 			"facilityKeyId": "6",
-			"facilityKeyName": "Phone Booth Key"
+			"facilityKeyName": "電話亭啟用鑰匙"
 		},
 		{
 			"facilityKeyId": "7",
-			"facilityKeyName": "Broken Track A Key"
+			"facilityKeyName": "損壞的鐵軌A啟用鑰匙"
 		},
 		{
 			"facilityKeyId": "8",
-			"facilityKeyName": "Broken Track B Key"
+			"facilityKeyName": "損壞的鐵軌B啟用鑰匙"
 		},
 		{
 			"facilityKeyId": "9",
-			"facilityKeyName": "Run-Down Railroad Crossing Key"
+			"facilityKeyName": "破爛的平交道啟用鑰匙"
 		},
 		{
 			"facilityKeyId": "10",
-			"facilityKeyName": "Ancient Train Key"
+			"facilityKeyName": "陳舊的電車啟用鑰匙"
 		},
 		{
 			"facilityKeyId": "11",
-			"facilityKeyName": "Chip Factory Key"
+			"facilityKeyName": "晶片工廠啟用鑰匙"
 		},
 		{
 			"facilityKeyId": "12",
-			"facilityKeyName": "Snowman Facility Shop Expansion"
+			"facilityKeyName": "設施商店已追加「雪人」"
 		},
 		{
 			"facilityKeyId": "13",
-			"facilityKeyName": "Christmas Stocking Facility Shop Expansion"
+			"facilityKeyName": "設施商店已追加「聖誕襪」"
 		},
 		{
 			"facilityKeyId": "14",
-			"facilityKeyName": "Sleigh Facility Shop Expansion"
+			"facilityKeyName": "設施商店已追加「雪橇」"
 		},
 		{
 			"facilityKeyId": "15",
-			"facilityKeyName": "Present Box Facility Shop Expansion"
+			"facilityKeyName": "設施商店已追加「禮物盒」"
 		},
 		{
 			"facilityKeyId": "16",
-			"facilityKeyName": "Christmas Cake Facility Shop Expansion"
+			"facilityKeyName": "設施商店已追加「聖誕蛋糕」"
 		},
 		{
 			"facilityKeyId": "17",
-			"facilityKeyName": "Small Tree Facility Shop Expansion"
+			"facilityKeyName": "設施商店已追加「小型聖誕樹」"
 		},
 		{
 			"facilityKeyId": "18",
-			"facilityKeyName": "Medium Tree Facility Shop Expansion"
+			"facilityKeyName": "設施商店已追加「中型聖誕樹」"
 		},
 		{
 			"facilityKeyId": "19",
-			"facilityKeyName": "Large Tree Facility Shop Expansion"
+			"facilityKeyName": "設施商店已追加「大型聖誕樹」"
 		}
 	]
 }

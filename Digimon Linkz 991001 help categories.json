@@ -2,42 +2,42 @@
 	"helpCategoryM": [
 		{
 			"helpCategoryId": "1",
-			"helpCategoryName": "Game Overview",
+			"helpCategoryName": "遊戲概要",
 			"helpCategoryPriority": "1"
 		},
 		{
 			"helpCategoryId": "2",
-			"helpCategoryName": "Digimon",
+			"helpCategoryName": "數碼寶貝",
 			"helpCategoryPriority": "2"
 		},
 		{
 			"helpCategoryId": "3",
-			"helpCategoryName": "Farm",
+			"helpCategoryName": "農場",
 			"helpCategoryPriority": "3"
 		},
 		{
 			"helpCategoryId": "4",
-			"helpCategoryName": "Explore",
+			"helpCategoryName": "探索",
 			"helpCategoryPriority": "4"
 		},
 		{
 			"helpCategoryId": "5",
-			"helpCategoryName": "Battles",
+			"helpCategoryName": "戰鬥",
 			"helpCategoryPriority": "5"
 		},
 		{
 			"helpCategoryId": "6",
-			"helpCategoryName": "Co-Op Battles",
+			"helpCategoryName": "協力戰鬥",
 			"helpCategoryPriority": "6"
 		},
 		{
 			"helpCategoryId": "7",
-			"helpCategoryName": "COLOSSEUM",
+			"helpCategoryName": "競技場",
 			"helpCategoryPriority": "7"
 		},
 		{
 			"helpCategoryId": "8",
-			"helpCategoryName": "Facilities",
+			"helpCategoryName": "設施",
 			"helpCategoryPriority": "8"
 		},
 		{
@@ -47,22 +47,22 @@
 		},
 		{
 			"helpCategoryId": "10",
-			"helpCategoryName": "DigiChat",
+			"helpCategoryName": "數碼聊天室",
 			"helpCategoryPriority": "10"
 		},
 		{
 			"helpCategoryId": "11",
-			"helpCategoryName": "Captures",
+			"helpCategoryName": "捕捉",
 			"helpCategoryPriority": "12"
 		},
 		{
 			"helpCategoryId": "13",
-			"helpCategoryName": "Other",
+			"helpCategoryName": "其他",
 			"helpCategoryPriority": "14"
 		},
 		{
 			"helpCategoryId": "14",
-			"helpCategoryName": "Chips",
+			"helpCategoryName": "晶片",
 			"helpCategoryPriority": "11"
 		}
 	]

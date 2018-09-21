@@ -2,51 +2,51 @@
 	"monsterStatusM": [
 		{
 			"monsterStatusId": "10001",
-			"name": "Versatile"
+			"name": "萬能型"
 		},
 		{
 			"monsterStatusId": "10002",
-			"name": "Enhanced ATK"
+			"name": "攻擊強化型"
 		},
 		{
 			"monsterStatusId": "10003",
-			"name": "Enhanced DEF"
+			"name": "防禦強化型"
 		},
 		{
 			"monsterStatusId": "10004",
-			"name": "Balance"
+			"name": "平均型"
 		},
 		{
 			"monsterStatusId": "10005",
-			"name": "Speed"
+			"name": "速度型"
 		},
 		{
 			"monsterStatusId": "10006",
-			"name": "Special ATK"
+			"name": "物攻特化型"
 		},
 		{
 			"monsterStatusId": "10007",
-			"name": "Special S-ATK"
+			"name": "魔攻特化型"
 		},
 		{
 			"monsterStatusId": "10008",
-			"name": "Special DEF"
+			"name": "物防特化型"
 		},
 		{
 			"monsterStatusId": "10009",
-			"name": "Special S-DEF"
+			"name": "魔防特化型"
 		},
 		{
 			"monsterStatusId": "10010",
-			"name": "Super Versatile"
+			"name": "超萬能型"
 		},
 		{
 			"monsterStatusId": "10011",
-			"name": "SPD ATK"
+			"name": "SPD物攻型"
 		},
 		{
 			"monsterStatusId": "10012",
-			"name": "SPD S-ATK"
+			"name": "SPD魔攻型"
 		}
 	]
 }

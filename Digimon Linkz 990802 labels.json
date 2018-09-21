@@ -6,219 +6,219 @@
 		},
 		{
 			"messageCode": "SystemShortage",
-			"messageText": "Not enough {0}"
+			"messageText": "{0}不足"
 		},
 		{
 			"messageCode": "SystemCopy",
-			"messageText": "Copied"
+			"messageText": "複製完成"
 		},
 		{
 			"messageCode": "SystemInput",
-			"messageText": "Type here"
+			"messageText": "點擊輸入"
 		},
 		{
 			"messageCode": "SystemNone",
-			"messageText": "Nil"
+			"messageText": "無"
 		},
 		{
 			"messageCode": "SystemBase",
-			"messageText": "Base"
+			"messageText": "基本體"
 		},
 		{
 			"messageCode": "SystemPartner",
-			"messageText": "Partner"
+			"messageText": "夥伴"
 		},
 		{
 			"messageCode": "SystemLoading",
-			"messageText": "Loading"
+			"messageText": "資料載入中"
 		},
 		{
 			"messageCode": "SystemLoadingFarm",
-			"messageText": "Creating Farm..."
+			"messageText": "農場資料建構中……"
 		},
 		{
 			"messageCode": "SystemList",
-			"messageText": "List"
+			"messageText": "一覽"
 		},
 		{
 			"messageCode": "SystemUpdate",
-			"messageText": "Update"
+			"messageText": "更新"
 		},
 		{
 			"messageCode": "SystemCost",
-			"messageText": "Cost"
+			"messageText": "消耗"
 		},
 		{
 			"messageCode": "SystemSelect",
-			"messageText": "Selected"
+			"messageText": "選擇中"
 		},
 		{
 			"messageCode": "SystemCaution",
-			"messageText": "Warning"
+			"messageText": "注意事項"
 		},
 		{
 			"messageCode": "SystemCountNumber",
-			"messageText": "pcs"
+			"messageText": "個"
 		},
 		{
 			"messageCode": "SystemCountBody",
-			"messageText": "Digimon"
+			"messageText": "隻"
 		},
 		{
 			"messageCode": "SystemCountSheets",
-			"messageText": "tickets "
+			"messageText": "張"
 		},
 		{
 			"messageCode": "SystemSortButton",
-			"messageText": "Switch"
+			"messageText": "顯示切換"
 		},
 		{
 			"messageCode": "SystemSorting",
-			"messageText": "Sort"
+			"messageText": "排序"
 		},
 		{
 			"messageCode": "SystemRefine",
-			"messageText": "Filter"
+			"messageText": "篩選"
 		},
 		{
 			"messageCode": "SystemConfirm",
-			"messageText": "Confirm"
+			"messageText": "確認"
 		},
 		{
 			"messageCode": "SystemNavigator",
-			"messageText": "Hina"
+			"messageText": "陽菜"
 		},
 		{
 			"messageCode": "SystemHelp",
-			"messageText": "Help"
+			"messageText": "幫助"
 		},
 		{
 			"messageCode": "SystemTimeD",
-			"messageText": "{0} d"
+			"messageText": "{0}天"
 		},
 		{
 			"messageCode": "SystemTimeDh",
-			"messageText": "{0} d {1} h"
+			"messageText": "{0}天{1}小時"
 		},
 		{
 			"messageCode": "SystemTimeH",
-			"messageText": "{0} h"
+			"messageText": "{0}小時"
 		},
 		{
 			"messageCode": "SystemTimeHM",
-			"messageText": "{0} h {1:D2} m"
+			"messageText": "{0}小時{1:D2}分鐘"
 		},
 		{
 			"messageCode": "SystemTimeHMS",
-			"messageText": "{0} h {1:D2} m {2:D2} s"
+			"messageText": "{0}小時{1:D2}分鐘{2:D2}秒"
 		},
 		{
 			"messageCode": "SystemTimeM",
-			"messageText": "{0} m"
+			"messageText": "{0}分鐘"
 		},
 		{
 			"messageCode": "SystemTimeMS",
-			"messageText": "{0} m {1:D2} s"
+			"messageText": "{0}分鐘{1:D2}秒"
 		},
 		{
 			"messageCode": "SystemTimeS",
-			"messageText": "{0} s"
+			"messageText": "{0}秒"
 		},
 		{
 			"messageCode": "SystemButtonClose",
-			"messageText": "Close"
+			"messageText": "關閉"
 		},
 		{
 			"messageCode": "SystemButtonYes",
-			"messageText": "Yes"
+			"messageText": "是"
 		},
 		{
 			"messageCode": "SystemButtonNo",
-			"messageText": "No"
+			"messageText": "否"
 		},
 		{
 			"messageCode": "SystemButtonDecision",
-			"messageText": "Okay"
+			"messageText": "確定"
 		},
 		{
 			"messageCode": "SystemButtonReturn",
-			"messageText": "Back"
+			"messageText": "返回"
 		},
 		{
 			"messageCode": "SystemButtonGoShop",
-			"messageText": "To Shop"
+			"messageText": "前往商店"
 		},
 		{
 			"messageCode": "SystemButtonGoTitle",
-			"messageText": "To Title Screen"
+			"messageText": "前往標題畫面"
 		},
 		{
 			"messageCode": "SystemButtonRetry",
-			"messageText": "Retry"
+			"messageText": "重試"
 		},
 		{
 			"messageCode": "CautionMessage",
-			"messageText": "DigimonLinks is free to play, but there are some items available for in-app purchase that can enhance gameplay and speed up your progress. In-app purchases can be disabled in your device’s settings. You must be 14 years of age or older to download or play."
+			"messageText": "數碼寶貝Linkz 可免費任玩。您亦可在應用程式購買額外項目，增加遊戲樂趣，加快遊戲進度。您可更改設備的設定內容，關閉應用程式的購買功能。您必須年滿14歲，才可下載或享受遊戲。"
 		},
 		{
 			"messageCode": "AlertDataErrorTitle",
-			"messageText": "Data acquisition failed"
+			"messageText": "資料取得失敗"
 		},
 		{
 			"messageCode": "AlertDataErrorInfo",
-			"messageText": "Unable to access data.\nCheck device settings and move to an area with better signal\nbefore re-trying."
+			"messageText": "資料取得失敗。\n請確認本體設定後，\n在良好的連線環境下重試。"
 		},
 		{
 			"messageCode": "AlertJsonErrorInfo",
-			"messageText": "Data inconsistency.\nRestart or submit an Inquiry\non the Title screen."
+			"messageText": "發生資料不一致性。\n若重啟App後仍無法解決，\n請從標題的「詢問」聯絡客服。"
 		},
 		{
 			"messageCode": "AlertNetworkErrorTitle",
-			"messageText": "Connection failure"
+			"messageText": "連線失敗"
 		},
 		{
 			"messageCode": "AlertNetworkErrorInfo",
-			"messageText": "Failed to connect."
+			"messageText": "連線失敗。"
 		},
 		{
 			"messageCode": "AlertNetworkErrorGoFarm",
-			"messageText": "Failed to connect.\nReturning to Farm."
+			"messageText": "連線失敗。\n返回農場。"
 		},
 		{
 			"messageCode": "AlertNetworkErrorRetry",
-			"messageText": "Try again with better signal."
+			"messageText": "請在訊號良好的地方\n重新執行。"
 		},
 		{
 			"messageCode": "AlertNetworkErrorTimeOut",
-			"messageText": "Connection timed out.\nCheck device settings and move to an area with better signal\nbefore re-trying."
+			"messageText": "連線逾時。\n請確認本體設定後，\n在良好的連線環境下重試。"
 		},
 		{
 			"messageCode": "AlertFileErrorTitle",
-			"messageText": "Read failure"
+			"messageText": "讀取失敗"
 		},
 		{
 			"messageCode": "AlertFileErrorNotFound",
-			"messageText": "File not found."
+			"messageText": "檔案不存在。"
 		},
 		{
 			"messageCode": "AlertFileErrorMemory",
-			"messageText": "Insufficient memory to read."
+			"messageText": "記憶體不足，無法讀取。"
 		},
 		{
 			"messageCode": "AuthFailedTitle",
-			"messageText": "Authentication failure"
+			"messageText": "驗證失敗"
 		},
 		{
 			"messageCode": "AuthFailedInfo",
-			"messageText": "Failed to authenticate.\nTry again with better signal."
+			"messageText": "驗證失敗。\n請在訊號良好的地方\n重新操作。"
 		},
 		{
 			"messageCode": "Maintenance-01",
-			"messageText": "Maintenance"
+			"messageText": "維護"
 		},
 		{
 			"messageCode": "Maintenance-02",
-			"messageText": "Currently under maintenance.\nPlease try again later.\nWe apologize for the inconvenience."
+			"messageText": "目前系統維護中。\n非常抱歉，請在維護結束後\n再重新進入。"
 		},
 		{
 			"messageCode": "Maintenance-03",
@@ -230,251 +230,251 @@
 		},
 		{
 			"messageCode": "GoogleLoginFailedTitle",
-			"messageText": "Google Play login failure"
+			"messageText": "Google Play登入失敗"
 		},
 		{
 			"messageCode": "GoogleLoginFailedInfo",
-			"messageText": "Failed to log in to Google Play."
+			"messageText": "Google Play登入失敗。"
 		},
 		{
 			"messageCode": "GoogleLogoutTitle",
-			"messageText": "Log out"
+			"messageText": "登出"
 		},
 		{
 			"messageCode": "GoogleLogoutInfo",
-			"messageText": "Logged out"
+			"messageText": "已登出"
 		},
 		{
 			"messageCode": "GoogleLogoutConfirmTitle",
-			"messageText": "Confirm"
+			"messageText": "確認登出"
 		},
 		{
 			"messageCode": "GoogleLogoutConfirmInfo",
-			"messageText": "Log out?"
+			"messageText": "要登出嗎？"
 		},
 		{
 			"messageCode": "CloudTakeOverTitle",
-			"messageText": "Data transfer"
+			"messageText": "轉移遊戲資料"
 		},
 		{
 			"messageCode": "CloudTakeOverInfo",
-			"messageText": "Game data from another user exists.\nUser Code: {0}\nUser Name: {1}\n\nDo you want to back up\nthe current user's game data?"
+			"messageText": "存在不同用戶的遊戲資料。\n用戶碼：{0}\n用戶名稱：{1}\n\n要用目前的用戶遊戲資料\n進行轉移嗎？"
 		},
 		{
 			"messageCode": "CloudTakeOverNotFound",
-			"messageText": "Backup data not found.\nPlease check your account."
+			"messageText": "找不到備份資料。\n請重新確認帳號。"
 		},
 		{
 			"messageCode": "CloudTakeOverFailed",
-			"messageText": "Transfer failed."
+			"messageText": "資料轉移失敗。"
 		},
 		{
 			"messageCode": "CloudTakeOverSuccess",
-			"messageText": "Transfer successful."
+			"messageText": "資料轉移成功。"
 		},
 		{
 			"messageCode": "CloudOverwriteTitle",
-			"messageText": "Overwrite game data"
+			"messageText": "覆寫遊戲資料"
 		},
 		{
 			"messageCode": "CloudOverwriteInfo",
-			"messageText": "Game data from another user exists.\nUser Code: {0}\nUser Name: {1}\n\nDo you want to overwrite this data with\nthe current user's game data?"
+			"messageText": "存在不同用戶的遊戲資料。\n用戶碼：{0}\n用戶名稱：{1}\n\n要用目前的用戶遊戲資料\n進行覆寫嗎？"
 		},
 		{
 			"messageCode": "CloudSyncSuccessTitle",
-			"messageText": "Data sync successful"
+			"messageText": "資料同步成功"
 		},
 		{
 			"messageCode": "CloudSyncSuccessInfo",
-			"messageText": "Data sync complete.\nTo complete transfer,\nlog in to Google Play on your new device via the Transfer option on the Title screen."
+			"messageText": "資料同步已完成。\n欲完成資料轉移，\n請透過其他裝置，從標題畫面的「資料轉移」登入Google Play帳號。"
 		},
 		{
 			"messageCode": "CloudSyncFailedTitle",
-			"messageText": "Data sync failed"
+			"messageText": "資料同步失敗"
 		},
 		{
 			"messageCode": "CloudSyncFailedInfo",
-			"messageText": "Unable to sync with your Google Play account.\nCheck account settings\nand retry with better signal."
+			"messageText": "無法同步Google Play帳號。\n確認完帳號設定後，\n請在訊號良好的地方重新執行。"
 		},
 		{
 			"messageCode": "CloudSynchronizedTitle",
-			"messageText": "Data already synced"
+			"messageText": "已同步遊戲資料"
 		},
 		{
 			"messageCode": "CloudSynchronizedInfo",
-			"messageText": "The game data for this account\nhas already been synced."
+			"messageText": "相同帳號\n遊戲資料已同步。"
 		},
 		{
 			"messageCode": "TakeOverTitle",
-			"messageText": "Transfer"
+			"messageText": "資料轉移"
 		},
 		{
 			"messageCode": "TakeOver-01",
-			"messageText": "Issue Transfer Code"
+			"messageText": "發送資料轉移碼"
 		},
 		{
 			"messageCode": "TakeOver-02",
-			"messageText": "You can load your backup data by\nentering the issued code into your new device"
+			"messageText": "在新裝置輸入發送的代碼，\n即可轉移資料。"
 		},
 		{
 			"messageCode": "TakeOver-03",
-			"messageText": "User Code"
+			"messageText": "用戶碼"
 		},
 		{
 			"messageCode": "TakeOver-04",
-			"messageText": "Transfer Code"
+			"messageText": "資料轉移碼"
 		},
 		{
 			"messageCode": "TakeOver-05",
-			"messageText": "*A User Code and Transfer Code are required to create a backup.\n*Your DigiStones will not carry over to your new save file when transferring between two OSs."
+			"messageText": "※資料轉移時需要用戶碼和資料轉移碼。\n※轉移至不同作業系統時，無法轉移原帳號的數碼石。"
 		},
 		{
 			"messageCode": "TakeOver-06",
-			"messageText": "*Your DigiStones will not carry over to your new save file\nwhen transferring between two OSs."
+			"messageText": "※轉移至不同作業系統時，\n無法轉移原帳號的數碼石。"
 		},
 		{
 			"messageCode": "TakeOver-07",
-			"messageText": "Issue code"
+			"messageText": "發送代碼"
 		},
 		{
 			"messageCode": "TakeOver-08",
-			"messageText": "Expiration date:"
+			"messageText": "有效期限："
 		},
 		{
 			"messageCode": "TakeOver-09",
-			"messageText": "Transfer Code\ncopied to clipboard"
+			"messageText": "資料轉移碼已\n複製到剪貼簿。"
 		},
 		{
 			"messageCode": "TakeOver-10",
-			"messageText": "Transfer successful"
+			"messageText": "資料轉移成功"
 		},
 		{
 			"messageCode": "TakeOver-11",
-			"messageText": "Transfer was successful.\nThe app will automatically restart."
+			"messageText": "資料轉移成功。\n重新啟動App。"
 		},
 		{
 			"messageCode": "TakeOver-12",
-			"messageText": "Transfer failed"
+			"messageText": "資料轉移失敗"
 		},
 		{
 			"messageCode": "TakeOver-13",
-			"messageText": "Transfer failed.\nPlease check your Backup Code and User Code\nand try again."
+			"messageText": "資料轉移失敗。\n請在確認資料轉移碼、用戶碼之後，\n重新輸入。"
 		},
 		{
 			"messageCode": "BackKeyConfirmTitle",
-			"messageText": "Confirm"
+			"messageText": "確認"
 		},
 		{
 			"messageCode": "BackKeyConfirmExit",
-			"messageText": "Close the app?"
+			"messageText": "要結束App嗎？"
 		},
 		{
 			"messageCode": "BackKeyConfirmGoTitle",
-			"messageText": "Return to Title Screen?"
+			"messageText": "要返回標題畫面嗎？"
 		},
 		{
 			"messageCode": "InquiryTitle",
-			"messageText": "Inquiry"
+			"messageText": "詢問"
 		},
 		{
 			"messageCode": "InquiryInfo",
-			"messageText": "When using the Inquiry form,\nplease attach the code below."
+			"messageText": "填寫詢問表單時，\n請附加以下代碼。"
 		},
 		{
 			"messageCode": "InquiryCaution",
-			"messageText": "*Please do not share your Inquiry Code with others.\nIf your Inquiry Code is lost,\nwe may be unable to provide you with support."
+			"messageText": "※請勿將詢問碼告訴他人。\n若遺失詢問碼，\n則無法接受任何支援。"
 		},
 		{
 			"messageCode": "InquiryButtonText",
-			"messageText": "Copy and go to Inquiries"
+			"messageText": "複製後移動到詢問畫面。"
 		},
 		{
 			"messageCode": "CacheClearTitle",
-			"messageText": "Clear Cache"
+			"messageText": "清除快取"
 		},
 		{
 			"messageCode": "CacheClearSuccess",
-			"messageText": "Cache cleared"
+			"messageText": "已清除快取。"
 		},
 		{
 			"messageCode": "CacheClearFailed",
-			"messageText": "Failed to clear cache"
+			"messageText": "清除快取失敗。"
 		},
 		{
 			"messageCode": "AgreementTitle",
-			"messageText": "Terms of Service"
+			"messageText": "服務條款"
 		},
 		{
 			"messageCode": "PenaltyTitle",
-			"messageText": "Account"
+			"messageText": "帳號"
 		},
 		{
 			"messageCode": "SaveFailedTitle",
-			"messageText": "Data error"
+			"messageText": "資料錯誤"
 		},
 		{
 			"messageCode": "SaveFailed-01",
-			"messageText": "Failed to record data."
+			"messageText": "資料寫入失敗。"
 		},
 		{
 			"messageCode": "SaveFailed-02",
-			"messageText": "Failed to record data. Please check available device storage."
+			"messageText": "資料寫入失敗，請確認儲存空間容量。"
 		},
 		{
 			"messageCode": "SaveFailed-03",
-			"messageText": "Failed to record data due to lack of authorization. Please check permission settings."
+			"messageText": "沒有權限導致資料寫入失敗，請確認權限。"
 		},
 		{
 			"messageCode": "AssetDownloadTitle",
-			"messageText": "Downloading"
+			"messageText": "下載中"
 		},
 		{
 			"messageCode": "AssetDownloadInfo",
-			"messageText": "Acquiring game data..."
+			"messageText": "遊戲資料取得中……"
 		},
 		{
 			"messageCode": "AssetDownloadCaution",
-			"messageText": "*Download times may vary depending on connection strength.\nA strong Wi-Fi conection is recommended."
+			"messageText": "※因連線環境，下載可能需要花費較多時間。\n建議使用Wi-Fi下載。"
 		},
 		{
 			"messageCode": "TutorialDefaultName",
-			"messageText": "Links"
+			"messageText": "Linkz"
 		},
 		{
 			"messageCode": "TutorialNameConfirmTitle",
-			"messageText": "Confirm name"
+			"messageText": "確定名字"
 		},
 		{
 			"messageCode": "TutorialNameConfirmInfo",
-			"messageText": "Start game as {0}?"
+			"messageText": "要用{0}這個名字開始遊戲嗎？"
 		},
 		{
 			"messageCode": "TutorialNameCaution",
-			"messageText": "*You can change this later"
+			"messageText": "※名字之後可隨意變更"
 		},
 		{
 			"messageCode": "InfomationTitle",
-			"messageText": "News"
+			"messageText": "公告"
 		},
 		{
 			"messageCode": "InfomationUpdate",
-			"messageText": "Update"
+			"messageText": "更新"
 		},
 		{
 			"messageCode": "InfomationEvent",
-			"messageText": "Event"
+			"messageText": "活動"
 		},
 		{
 			"messageCode": "InfomationOther",
-			"messageText": "Other"
+			"messageText": "其他"
 		},
 		{
 			"messageCode": "InformationOperation",
-			"messageText": "Admin"
+			"messageText": "管理員"
 		},
 		{
 			"messageCode": "InfomationAll",
-			"messageText": "All"
+			"messageText": "全部"
 		},
 		{
 			"messageCode": "InfomationSubTitle",
@@ -482,351 +482,351 @@
 		},
 		{
 			"messageCode": "LoginBonus-01",
-			"messageText": "Today, {0}x{1}{2} "
+			"messageText": "今天可獲得{0}×{1}{2}"
 		},
 		{
 			"messageCode": "LoginBonus-02",
-			"messageText": "Next time, {0}x{1}{2} "
+			"messageText": "下次可獲得{0}×{1}{2}"
 		},
 		{
 			"messageCode": "LoginBonus-03",
-			"messageText": "and {0}x{1}{2} "
+			"messageText": "和{0}×{1}{2}"
 		},
 		{
 			"messageCode": "LoginBonus-04",
-			"messageText": "acquired!"
+			"messageText": "喔！"
 		},
 		{
 			"messageCode": "LoginBonus-05",
-			"messageText": "can be acquired!"
+			"messageText": "喔！"
 		},
 		{
 			"messageCode": "CountDownYMDhm",
-			"messageText": "Until {0}/{1:D2}/{2:D2} at {3:D2}:{4:D2}"
+			"messageText": "{0}年{1:D2}月{2:D2}日{3:D2}:{4:D2}截止"
 		},
 		{
 			"messageCode": "CountDownHM",
-			"messageText": "Time remaining: {0} h {1:D2} m"
+			"messageText": "距離結束剩下　{0}時{1:D2}分"
 		},
 		{
 			"messageCode": "CountDownD",
-			"messageText": "Time remaining: {0} d"
+			"messageText": "距離結束剩下　{0}日"
 		},
 		{
 			"messageCode": "CountDownS",
-			"messageText": "Time remaining: {0} s"
+			"messageText": "距離結束剩下　{0}秒"
 		},
 		{
 			"messageCode": "CountDownMS",
-			"messageText": "Time remaining: {0} m {1:D2} s"
+			"messageText": "距離結束剩下　{0}分{1:D2}秒"
 		},
 		{
 			"messageCode": "CountDownEnd",
-			"messageText": "Event Closed"
+			"messageText": "活動結束"
 		},
 		{
 			"messageCode": "StaminaRecoveryTime",
-			"messageText": "1 restored every 3 min; {0} until fully restored"
+			"messageText": "回復1點需花費3分鐘，全部回復需{0}。"
 		},
 		{
 			"messageCode": "StaminaFull",
-			"messageText": "Stamina is maxed"
+			"messageText": "體力ＭＡＸ"
 		},
 		{
 			"messageCode": "ShopTitle",
-			"messageText": "DigiStone Shop"
+			"messageText": "數碼石商城"
 		},
 		{
 			"messageCode": "ShopRule-01",
-			"messageText": "Notice regarding the Payment Services Act"
+			"messageText": "基於資金決濟法表示"
 		},
 		{
 			"messageCode": "ShopRule-02",
-			"messageText": "Notice regarding the Specified Commercial Transactions Act"
+			"messageText": "基於特定商品交易法表示"
 		},
 		{
 			"messageCode": "ShopConfirmTitle",
-			"messageText": "Purchase DigiStones"
+			"messageText": "購買數碼石"
 		},
 		{
 			"messageCode": "ShopCompleted",
-			"messageText": "{0} DigiStones\nreceived!"
+			"messageText": "數碼石增加{0}個！"
 		},
 		{
 			"messageCode": "ShopRestoreTitle",
-			"messageText": "Restore DigiStones"
+			"messageText": "數碼石入帳"
 		},
 		{
 			"messageCode": "ShopRestoreInfo",
-			"messageText": "Previously purchased DigiStones are now reflected."
+			"messageText": "以前購買的數碼石已入帳。"
 		},
 		{
 			"messageCode": "ShopInitializeErrorTitle",
-			"messageText": "Billing function error"
+			"messageText": "付費功能初始化錯誤"
 		},
 		{
 			"messageCode": "ShopInitializeErrorInfo",
-			"messageText": "The billing function could not be used.\nCheck device settings."
+			"messageText": "付費功能無法使用。\n請確認使用裝置的設定。"
 		},
 		{
 			"messageCode": "ShopFailedTitle",
-			"messageText": "Purchase failed"
+			"messageText": "購買失敗"
 		},
 		{
 			"messageCode": "ShopFailed-01",
-			"messageText": "Purchase was cancelled."
+			"messageText": "已取消購買。"
 		},
 		{
 			"messageCode": "ShopFailed-02",
-			"messageText": "This item was already purchased."
+			"messageText": "已購買此道具。"
 		},
 		{
 			"messageCode": "ShopFailed-03",
-			"messageText": "Billing not enabled on your device.\nCheck device settings."
+			"messageText": "裝置設定未准許付費。\n請確認裝置設定。"
 		},
 		{
 			"messageCode": "ShopFailed-04",
-			"messageText": "An unexpected error has occurred.\nIf restarting does not work,\nplease submit an inquiry from the Title screen."
+			"messageText": "發生非預期的錯誤。\n若重啟App後仍無改善，\n請從標題的「詢問」聯絡客服。"
 		},
 		{
 			"messageCode": "ShopFailed-05",
-			"messageText": "A connection error occurred during purchase process.\nRetry in an area with better signal."
+			"messageText": "購買處理中發生連線錯誤。\n請在訊號良好的地方重新執行。"
 		},
 		{
 			"messageCode": "ShopFailed-06",
-			"messageText": "An error has occurred in the store.\nPlease try again later."
+			"messageText": "商城發生錯誤。\n請稍後再試。"
 		},
 		{
 			"messageCode": "ShopFailed-07",
-			"messageText": "An error has occurred in the store.\nPlease try again later."
+			"messageText": "商城發生錯誤。\n請稍後再試。"
 		},
 		{
 			"messageCode": "ShopFailed-08",
-			"messageText": "Data inconsistency.\nRestart or submit an Inquiry\non the Title screen."
+			"messageText": "發生資料不一致性。\n若重啟App後仍無法解決，\n請從標題的「詢問」聯絡客服。"
 		},
 		{
 			"messageCode": "ShopFailed-09",
-			"messageText": "Data inconsistency.\nRestart or submit an Inquiry\non the Title screen."
+			"messageText": "發生資料不一致性。\n若重啟App後仍無法解決，\n請從標題的「詢問」聯絡客服。"
 		},
 		{
 			"messageCode": "ShopFailed-10",
-			"messageText": "Data inconsistency.\nRestart or submit an Inquiry\non the Title screen."
+			"messageText": "發生資料不一致性。\n若重啟App後仍無法解決，\n請從標題的「詢問」聯絡客服。"
 		},
 		{
 			"messageCode": "ShopFailed-11",
-			"messageText": "A purchase processing error has occurred.\nIf you do not receive your item,\nplease restart the app."
+			"messageText": "購買處理發生錯誤，\n若未收到道具，\n請重啟App。"
 		},
 		{
 			"messageCode": "ShopFailed-12",
-			"messageText": "A purchase processing error has occurred.\nIf you do not receive your item,\nplease restart the app."
+			"messageText": "購買處理發生錯誤，\n若未收到道具，\n請重啟App。"
 		},
 		{
 			"messageCode": "ShopFailed-13",
-			"messageText": "You are either not logged in or initialization has failed.\nPlease log in again or try restarting the app."
+			"messageText": "可能因未成功登入導致初始化失敗，\n請重新登入，或重啟App。"
 		},
 		{
 			"messageCode": "ShopAgeTitle",
-			"messageText": "Confirm age"
+			"messageText": "確認年齡"
 		},
 		{
 			"messageCode": "ShopAge-01",
-			"messageText": "Date of birth"
+			"messageText": "登錄出生年月日"
 		},
 		{
 			"messageCode": "ShopAge-02",
-			"messageText": "The amount of money you can spend per month is fixed according to your age.\nPlease enter your actual year and month of birth."
+			"messageText": "用戶年齡將決定每個月的購買金額上限，\n請務必輸入正確的出生年月日。"
 		},
 		{
 			"messageCode": "ShopAge-03",
-			"messageText": "*Cannot be changed"
+			"messageText": "※確定後無法變更。"
 		},
 		{
 			"messageCode": "ShopAge-04",
-			"messageText": "(Year)"
+			"messageText": "年"
 		},
 		{
 			"messageCode": "ShopAge-05",
-			"messageText": "(Month)"
+			"messageText": "月"
 		},
 		{
 			"messageCode": "ShopAge-06",
-			"messageText": "16 and under  Up to 5000 yen per month\n20 and under  Up to 20,000 yen per month\n20 and over  Unlimited"
+			"messageText": ""
 		},
 		{
 			"messageCode": "ShopAgeConfirmTitle",
-			"messageText": "Confirm Information"
+			"messageText": "確認登錄內容"
 		},
 		{
 			"messageCode": "ShopAgeConfirmInfo",
-			"messageText": "[ {0} (Year) {1} (Month) ]\nYou will be registered with this information.\n*This cannot be changed!"
+			"messageText": "【 {0}年 {1}月 】\n以上述內容登錄。\n※登錄後無法變更。"
 		},
 		{
 			"messageCode": "ShopAgeCompletedTitle",
-			"messageText": "Registered"
+			"messageText": "登錄完成"
 		},
 		{
 			"messageCode": "ShopAgeCompletedInfo",
-			"messageText": "Registration is complete"
+			"messageText": "登錄已完成。"
 		},
 		{
 			"messageCode": "BaseSelect-01",
-			"messageText": "Select Base Digimon"
+			"messageText": "選擇研究基本體數碼寶貝"
 		},
 		{
 			"messageCode": "BaseSelect-02",
-			"messageText": "Select Partner Digimon"
+			"messageText": "選擇研究夥伴數碼寶貝"
 		},
 		{
 			"messageCode": "BaseSelect-03",
-			"messageText": "Select Base Digimon"
+			"messageText": "選擇餵食基本體數碼寶貝"
 		},
 		{
 			"messageCode": "BaseSelect-04",
-			"messageText": "Select Base Digimon"
+			"messageText": "選擇進化基本體數碼寶貝"
 		},
 		{
 			"messageCode": "BaseSelect-05",
-			"messageText": "You have no Meat"
+			"messageText": "未持有肉。"
 		},
 		{
 			"messageCode": "BaseSelect-06",
-			"messageText": "Try constructing a Meat Field under Facilities in order to harvest some"
+			"messageText": "從「設施」建造「肉田」，收成肉吧！"
 		},
 		{
 			"messageCode": "BaseSelect-07",
-			"messageText": "Facilities"
+			"messageText": "前往設施"
 		},
 		{
 			"messageCode": "MealTitle",
-			"messageText": "Food"
+			"messageText": "餵食"
 		},
 		{
 			"messageCode": "MealCost",
-			"messageText": "Cost"
+			"messageText": "消耗"
 		},
 		{
 			"messageCode": "ReinforcementTitle",
-			"messageText": "Enhance"
+			"messageText": "強化"
 		},
 		{
 			"messageCode": "ReinforcementConfirm",
-			"messageText": "Confirm Enhance"
+			"messageText": "確認強化"
 		},
 		{
 			"messageCode": "ReinforcementInfo",
-			"messageText": "The Partner Digimon will be deleted. Enhance anyway?"
+			"messageText": "夥伴數碼寶貝將會消失，確定要強化嗎？"
 		},
 		{
 			"messageCode": "ReinforcementInfoLvMax",
-			"messageText": "The Base Digimon's level is already maxed. Enhance anyway?"
+			"messageText": "基本體數碼寶貝已達最高等級，確定要強化嗎？"
 		},
 		{
 			"messageCode": "ReinforcementCautionGrowth",
-			"messageText": "*Digimon above {0} are included"
+			"messageText": "※強化夥伴中包含{0}以上的數碼寶貝。"
 		},
 		{
 			"messageCode": "ReinforcementCautionArousal",
-			"messageText": "*Awakened Digimon are included"
+			"messageText": "※強化夥伴中包含已覺醒的數碼寶貝。"
 		},
 		{
 			"messageCode": "EvolutionTitle",
-			"messageText": "Digivolve"
+			"messageText": "進化"
 		},
 		{
 			"messageCode": "EvolutionConfirmTitle",
-			"messageText": "Confirm Digivolution"
+			"messageText": "確認進化"
 		},
 		{
 			"messageCode": "EvolutionConfirmInfo",
-			"messageText": "Digivolve this Digimon?"
+			"messageText": "確定要進化嗎？"
 		},
 		{
 			"messageCode": "EvolutionConfirmModeChange",
-			"messageText": "Perform a Mode Change?\nMode Changes do not change LV, Max LV, EXP, or Ability status"
+			"messageText": "確定要變更模式嗎？\n變更模式後，LV、最高LV、EXP、才能狀態皆不會改變。"
 		},
 		{
 			"messageCode": "EvolutionMaterialName",
-			"messageText": "Plugin"
+			"messageText": "外掛"
 		},
 		{
 			"messageCode": "EvolutionFailedLv",
-			"messageText": "Must be at max level\nto {0}."
+			"messageText": "為了{0}，\n需達到最高等級。"
 		},
 		{
 			"messageCode": "EvolutionFailedTip",
-			"messageText": "Not enough Clusters."
+			"messageText": "數碼碎片不足。"
 		},
 		{
 			"messageCode": "EvolutionFailedLock",
-			"messageText": "That is locked and cannot be used to\n{0}."
+			"messageText": "鎖定中，{0}無法執行。"
 		},
 		{
 			"messageCode": "EvolutionPossible",
-			"messageText": "{0} allowed"
+			"messageText": "可以{0}"
 		},
 		{
 			"messageCode": "EvolutionImpossible",
-			"messageText": "{0} not allowed"
+			"messageText": "不可{0}"
 		},
 		{
 			"messageCode": "EvolutionNotEnoughLv",
-			"messageText": "Level too low"
+			"messageText": "等級不足"
 		},
 		{
 			"messageCode": "EvolutionModeChangeButton",
-			"messageText": "Mode\nChange"
+			"messageText": "變更\n模式"
 		},
 		{
 			"messageCode": "EvolutionModeChange",
-			"messageText": "Mode Change"
+			"messageText": "變更模式"
 		},
 		{
 			"messageCode": "EvolutionUnkown",
-			"messageText": "Not acquired"
+			"messageText": "未取得"
 		},
 		{
 			"messageCode": "EvolutionMaterialList",
-			"messageText": "Digivolution Fuel List"
+			"messageText": "進化素材一覽"
 		},
 		{
 			"messageCode": "EvolutionMaterialNothing",
-			"messageText": "Not enough Digivolution Fuel to Digivolve a Mega"
+			"messageText": "未持有究極體的進化素材。"
 		},
 		{
 			"messageCode": "PartyTitleEdit",
-			"messageText": "Party Formation"
+			"messageText": "整編隊伍"
 		},
 		{
 			"messageCode": "PartyTitleSelect",
-			"messageText": "Select Party"
+			"messageText": "選擇隊伍"
 		},
 		{
 			"messageCode": "PartyNumber",
-			"messageText": "Party {0}"
+			"messageText": "隊伍{0}"
 		},
 		{
 			"messageCode": "PartyStatusChange",
-			"messageText": "Switch"
+			"messageText": "切換狀態"
 		},
 		{
 			"messageCode": "PartyBattleStart",
-			"messageText": "Go Battle"
+			"messageText": "戰鬥開始"
 		},
 		{
 			"messageCode": "PartyRecruit",
-			"messageText": "Recruitment"
+			"messageText": "招募"
 		},
 		{
 			"messageCode": "QuestTitle",
-			"messageText": "Select Quest"
+			"messageText": "選擇冒險"
 		},
 		{
 			"messageCode": "QuestNormal",
-			"messageText": "Quest"
+			"messageText": "冒險"
 		},
 		{
 			"messageCode": "QuestEvent",
-			"messageText": "Event"
+			"messageText": "活動"
 		},
 		{
 			"messageCode": "QuestArea",
@@ -842,171 +842,171 @@
 		},
 		{
 			"messageCode": "QuestStaminaCost",
-			"messageText": "Stamina -{0}"
+			"messageText": "體力-{0}"
 		},
 		{
 			"messageCode": "QuestStaminaShortage",
-			"messageText": "Not enough Stamina."
+			"messageText": "體力不足。"
 		},
 		{
 			"messageCode": "QuestStaminaOver",
-			"messageText": "Not enough Stamina\nto go on this Quest."
+			"messageText": "此冒險已超過體力上限，\n無法挑戰。"
 		},
 		{
 			"messageCode": "QuestEventTitle",
-			"messageText": "Closed"
+			"messageText": "期間結束"
 		},
 		{
 			"messageCode": "QuestEventInfo",
-			"messageText": "Event has ended.\nReturning to Farm."
+			"messageText": "活動期間已結束。\n返回農場。"
 		},
 		{
 			"messageCode": "QuestUnlockTitle",
-			"messageText": "Unlock Dungeon"
+			"messageText": "開放迷宮"
 		},
 		{
 			"messageCode": "QuestUnlockInfo",
-			"messageText": "Can be unlocked for {0} minute(s) with DigiStones.\nUnlock Dungeon?\n*Please note the event end time."
+			"messageText": "使用數碼石即可開放 {0}分鐘。\n確定要開放迷宮嗎？\n※請留意活動結束時間"
 		},
 		{
 			"messageCode": "QuestDetailsTip",
-			"messageText": "Earned"
+			"messageText": "獲得"
 		},
 		{
 			"messageCode": "QuestDetailsExp",
-			"messageText": "EXP Earned"
+			"messageText": "獲得EXP"
 		},
 		{
 			"messageCode": "QuestDetailsCost",
-			"messageText": "Stamina Cost"
+			"messageText": "消耗體力"
 		},
 		{
 			"messageCode": "GashaTitleLink",
-			"messageText": "Link Capture"
+			"messageText": "Link捕捉"
 		},
 		{
 			"messageCode": "GashaTitleRare",
-			"messageText": "Rare Capture"
+			"messageText": "稀有捕捉"
 		},
 		{
 			"messageCode": "GashaTitleTutorial",
-			"messageText": "Tutorial-Only Capture"
+			"messageText": "教學限定捕捉"
 		},
 		{
 			"messageCode": "GashaLinkpoint",
-			"messageText": "Use {1} {0} for {2} Capture(s)?"
+			"messageText": "要使用{1}{0}，捕捉{2}次嗎？"
 		},
 		{
 			"messageCode": "GashaDigistone",
-			"messageText": "Use {1} {0} for {2} Capture(s)?"
+			"messageText": "要使用{1}個{0}，捕捉{2}次嗎？"
 		},
 		{
 			"messageCode": "GashaShortage",
-			"messageText": "Not enough DigiStones."
+			"messageText": "數碼石不足。"
 		},
 		{
 			"messageCode": "GashaLineup",
-			"messageText": "Featured Digimon"
+			"messageText": "出現數碼寶貝"
 		},
 		{
 			"messageCode": "GashaRate",
-			"messageText": "Encounter Rate"
+			"messageText": "出現率"
 		},
 		{
 			"messageCode": "GashaRegular",
-			"messageText": "Regular Event"
+			"messageText": "常駐捕捉"
 		},
 		{
 			"messageCode": "GashaDigistoneCost",
-			"messageText": "DigiStones Needed "
+			"messageText": "所需數碼石 "
 		},
 		{
 			"messageCode": "GashaLinkpointCost",
-			"messageText": "Link Points Needed "
+			"messageText": "所需Link點數 "
 		},
 		{
 			"messageCode": "GashaReviewTitle",
-			"messageText": "Congratulations, you got an Ability Medal!"
+			"messageText": "恭喜獲得才能獎牌！"
 		},
 		{
 			"messageCode": "GashaReviewInfo",
-			"messageText": "You can switch out Abilities with\nResearch and raise your own unique\nDigimon! Why not tell the world about your\nAbility Medals in a review?"
+			"messageText": "在研究中交換才能，\n養成只屬於自己的數碼寶貝吧！\n要不要在評論中，炫耀一下才能獎牌？"
 		},
 		{
 			"messageCode": "FacilityShopTitle",
-			"messageText": "Facilities"
+			"messageText": "設施"
 		},
 		{
 			"messageCode": "FacilityShopDecoration",
-			"messageText": "Decor"
+			"messageText": "裝飾"
 		},
 		{
 			"messageCode": "FacilityShopBuildMaxTitle",
-			"messageText": "Max Facility #"
+			"messageText": "建造上限"
 		},
 		{
 			"messageCode": "FacilityShopBuildMaxInfo",
-			"messageText": "Facility max reached"
+			"messageText": "已達建造上限"
 		},
 		{
 			"messageCode": "FacilityShopMuxNumInfo",
-			"messageText": "You cannot build any more of this Facility."
+			"messageText": "無法繼續建造此設施。"
 		},
 		{
 			"messageCode": "FacilityShopConditionTitle",
-			"messageText": "{0} Unlock Conditions"
+			"messageText": "{0}的解放條件"
 		},
 		{
 			"messageCode": "FacilityShopConditionUnknow",
-			"messageText": "?????"
+			"messageText": "？？？？？"
 		},
 		{
 			"messageCode": "FacilityShopBuildMaxNumTitle",
-			"messageText": "Max Construction #"
+			"messageText": "同時建造數"
 		},
 		{
 			"messageCode": "FacilityShopBuildMaxNumInfo",
-			"messageText": "Cannot build any more Facilities at the same time."
+			"messageText": "無法同時建造更多設施。"
 		},
 		{
 			"messageCode": "FacilityStockTitle",
-			"messageText": "Facility Warehouse"
+			"messageText": "設施倉庫"
 		},
 		{
 			"messageCode": "FacilityStockNone",
-			"messageText": "No Facilities stored"
+			"messageText": "現在沒有可寄放的設施。"
 		},
 		{
 			"messageCode": "FacilityStockConfirmInfo",
-			"messageText": "Put away\n{0}?"
+			"messageText": "要執行\n{0}嗎？"
 		},
 		{
 			"messageCode": "MissionTitleDaily",
-			"messageText": "Daily Mission"
+			"messageText": "每日任務"
 		},
 		{
 			"messageCode": "MissionTitleAccumulation",
-			"messageText": "Cumulative Missions"
+			"messageText": "累積任務"
 		},
 		{
 			"messageCode": "Mission-01",
-			"messageText": "Farm"
+			"messageText": "農場"
 		},
 		{
 			"messageCode": "Mission-02",
-			"messageText": "Incomplete"
+			"messageText": "未達成"
 		},
 		{
 			"messageCode": "Mission-03",
-			"messageText": "Complete"
+			"messageText": "達成"
 		},
 		{
 			"messageCode": "Mission-04",
-			"messageText": "Completed"
+			"messageText": "已達成"
 		},
 		{
 			"messageCode": "Mission-05",
-			"messageText": "Completion Rate"
+			"messageText": "達成率"
 		},
 		{
 			"messageCode": "Mission-06",
@@ -1014,71 +1014,71 @@
 		},
 		{
 			"messageCode": "Mission-07",
-			"messageText": "Mission Complete"
+			"messageText": "任務達成"
 		},
 		{
 			"messageCode": "Mission-08",
-			"messageText": "Sent {0} x {1} as a present"
+			"messageText": "贈予{0}×{1}"
 		},
 		{
 			"messageCode": "PresentTitle",
-			"messageText": "Present Box"
+			"messageText": "禮物盒"
 		},
 		{
 			"messageCode": "Present-01",
-			"messageText": "{0} unclaimed"
+			"messageText": "未領取{0}件"
 		},
 		{
 			"messageCode": "Present-02",
-			"messageText": "No presents."
+			"messageText": "沒有禮物。"
 		},
 		{
 			"messageCode": "Present-03",
-			"messageText": "Claim Presents"
+			"messageText": "領取禮物"
 		},
 		{
 			"messageCode": "Present-05",
-			"messageText": "Claim by:"
+			"messageText": "領取期限："
 		},
 		{
 			"messageCode": "Present-06",
-			"messageText": "Log"
+			"messageText": "記錄"
 		},
 		{
 			"messageCode": "Present-07",
-			"messageText": "No presents logged."
+			"messageText": "沒有禮物記錄。"
 		},
 		{
 			"messageCode": "Present-08",
-			"messageText": "Too many items"
+			"messageText": "超過持有數上限"
 		},
 		{
 			"messageCode": "Present-09",
-			"messageText": "The following items could not be claimed: \n"
+			"messageText": "無法領取以下道具。\n"
 		},
 		{
 			"messageCode": "Present-10",
-			"messageText": "???"
+			"messageText": "？？？"
 		},
 		{
 			"messageCode": "OptionTitle",
-			"messageText": "Settings"
+			"messageText": "設定"
 		},
 		{
 			"messageCode": "OptionPushNotice",
-			"messageText": "Push Notifications"
+			"messageText": "推播通知"
 		},
 		{
 			"messageCode": "OptionSetting",
-			"messageText": "System"
+			"messageText": "設定環境"
 		},
 		{
 			"messageCode": "Option-01",
-			"messageText": "Game"
+			"messageText": "設定遊戲環境"
 		},
 		{
 			"messageCode": "Option-02",
-			"messageText": "Audio"
+			"messageText": "設定音量"
 		},
 		{
 			"messageCode": "Option-03",
@@ -1090,215 +1090,215 @@
 		},
 		{
 			"messageCode": "Option-05",
-			"messageText": "Push Notification Settings"
+			"messageText": "設定推播通知"
 		},
 		{
 			"messageCode": "Option-06",
-			"messageText": "Event Opening"
+			"messageText": "活動開始"
 		},
 		{
 			"messageCode": "Option-07",
-			"messageText": "Receive a notification when Events open"
+			"messageText": "活動開始時，執行推播通知。"
 		},
 		{
 			"messageCode": "Option-08",
-			"messageText": "Capture Update"
+			"messageText": "捕捉更新"
 		},
 		{
 			"messageCode": "Option-09",
-			"messageText": "Receive a notification when captures are updated"
+			"messageText": "捕捉更新時，執行推播通知。"
 		},
 		{
 			"messageCode": "Option-10",
-			"messageText": "Facility Construction Complete"
+			"messageText": "設施建造完成"
 		},
 		{
 			"messageCode": "Option-11",
-			"messageText": "Receive a notification when construction of a Facility is complete"
+			"messageText": "設施建造完成時，執行推播通知。"
 		},
 		{
 			"messageCode": "Option-12",
-			"messageText": "Stamina Fully Restored"
+			"messageText": "體力完全回復"
 		},
 		{
 			"messageCode": "Option-13",
-			"messageText": "Receive a notification when Stamina is fully restored"
+			"messageText": "體力完全回復時，執行推播通知。"
 		},
 		{
 			"messageCode": "Option-14",
-			"messageText": "Garden Digivolution"
+			"messageText": "花園內進化"
 		},
 		{
 			"messageCode": "Option-15",
-			"messageText": "Receive a notification when there is a Digivolution in your Garden"
+			"messageText": "花園內進化時，執行推播通知。"
 		},
 		{
 			"messageCode": "LocalNotice-01",
-			"messageText": "Your Stamina is fully restored! Let's go on a Quest!"
+			"messageText": "體力完全回復！出發去冒險吧！"
 		},
 		{
 			"messageCode": "LocalNotice-02",
-			"messageText": "Your Digimon has Digivolved! Come visit your Garden!"
+			"messageText": "數碼寶貝進化！在花園等您唷！"
 		},
 		{
 			"messageCode": "LocalNotice-03",
-			"messageText": "Your Facility is complete! Check it out on your Farm!"
+			"messageText": "設施完成！到農場確認吧！"
 		},
 		{
 			"messageCode": "OtherTitle",
-			"messageText": "Other"
+			"messageText": "其他"
 		},
 		{
 			"messageCode": "OtherHistory",
-			"messageText": "Log"
+			"messageText": "記錄"
 		},
 		{
 			"messageCode": "OtherOfficialSite",
-			"messageText": "Official Site"
+			"messageText": "官網"
 		},
 		{
 			"messageCode": "OtherRight",
-			"messageText": "Copyright Notice"
+			"messageText": "著作權標示"
 		},
 		{
 			"messageCode": "OtherHistory-01",
-			"messageText": "DigiStone Breakdown"
+			"messageText": "數碼石明細"
 		},
 		{
 			"messageCode": "OtherHistory-02",
-			"messageText": "Present Log"
+			"messageText": "禮物記錄"
 		},
 		{
 			"messageCode": "OtherHistory-03",
-			"messageText": "Day received:"
+			"messageText": "取得日："
 		},
 		{
 			"messageCode": "ProfileTitle",
-			"messageText": "Profile"
+			"messageText": "基本資料"
 		},
 		{
 			"messageCode": "MyProfile-01",
-			"messageText": "User Code"
+			"messageText": "用戶碼"
 		},
 		{
 			"messageCode": "MyProfile-02",
-			"messageText": "User Name"
+			"messageText": "用戶名稱"
 		},
 		{
 			"messageCode": "MyProfile-03",
-			"messageText": "Field Guide"
+			"messageText": "圖鑑登錄數"
 		},
 		{
 			"messageCode": "MyProfile-04",
-			"messageText": "Comment"
+			"messageText": "留言"
 		},
 		{
 			"messageCode": "MyProfile-05",
-			"messageText": "*Tap to edit"
+			"messageText": "※點擊白框可進行編輯。"
 		},
 		{
 			"messageCode": "MyProfile-06",
-			"messageText": "User Code\ncopied to clipboard"
+			"messageText": "已將用戶碼\n複製到剪貼簿上。"
 		},
 		{
 			"messageCode": "MyProfile-07",
-			"messageText": "Edit Comment"
+			"messageText": "變更留言"
 		},
 		{
 			"messageCode": "MyProfile-08",
-			"messageText": "Comment has been changed.\nSave?"
+			"messageText": "已變更留言內容。\n要儲存變更嗎？"
 		},
 		{
 			"messageCode": "MyProfile-09",
-			"messageText": "Edit Nickname"
+			"messageText": "變更暱稱"
 		},
 		{
 			"messageCode": "MyProfile-10",
-			"messageText": "Nickname has been changed.\nSave?"
+			"messageText": "已變更暱稱內容。\n要儲存變更嗎？"
 		},
 		{
 			"messageCode": "MyProfile-11",
-			"messageText": "Edit Profile"
+			"messageText": "變更基本資料"
 		},
 		{
 			"messageCode": "MyProfile-12",
-			"messageText": "Profile has been changed.\nSave?"
+			"messageText": "已變更基本資料內容。\n要儲存變更嗎？"
 		},
 		{
 			"messageCode": "MyProfile-13",
-			"messageText": "Invalid characters"
+			"messageText": "內含無法使用的文字"
 		},
 		{
 			"messageCode": "MyProfile-14",
-			"messageText": "Entered text contains invalid characters (emoji, symbols, etc).\nPlease retry."
+			"messageText": "您輸入的文字中，包含表情符號、記號等無法使用的文字。\n請確認輸入內容，重試一次。"
 		},
 		{
 			"messageCode": "MyProfile-15",
-			"messageText": "Character limit exceeded"
+			"messageText": "超過文字數上限"
 		},
 		{
 			"messageCode": "MyProfile-16",
-			"messageText": "You have exceeded the character limit.\nNicknames can be up to 10 characters;\ncomments up to 30."
+			"messageText": "超過文字數上限。\n暱稱最多10字，\n留言最多30字。"
 		},
 		{
 			"messageCode": "BlockListTitle",
-			"messageText": "Blocked"
+			"messageText": "封鎖一覽"
 		},
 		{
 			"messageCode": "BlockListNone",
-			"messageText": "No blocked users"
+			"messageText": "目前沒有封鎖的用戶。"
 		},
 		{
 			"messageCode": "PlayHistoryTitle",
-			"messageText": "Player Log"
+			"messageText": "遊戲記錄"
 		},
 		{
 			"messageCode": "PlayHistory-01",
-			"messageText": "Quests Cleared"
+			"messageText": "冒險過關次數"
 		},
 		{
 			"messageCode": "PlayHistory-02",
-			"messageText": "Meat Fed"
+			"messageText": "餵肉次數"
 		},
 		{
 			"messageCode": "PlayHistory-03",
-			"messageText": "Enhancements"
+			"messageText": "強化次數"
 		},
 		{
 			"messageCode": "PlayHistory-04",
-			"messageText": "Digivolutions"
+			"messageText": "進化次數"
 		},
 		{
 			"messageCode": "PlayHistory-05",
-			"messageText": "Legacies"
+			"messageText": "繼承次數"
 		},
 		{
 			"messageCode": "PlayHistory-06",
-			"messageText": "Research"
+			"messageText": "研究次數"
 		},
 		{
 			"messageCode": "PlayHistory-07",
-			"messageText": "Colosseum Battles"
+			"messageText": "競技場對戰次數"
 		},
 		{
 			"messageCode": "PlayHistory-08",
-			"messageText": "Colosseum Record"
+			"messageText": "競技場勝負"
 		},
 		{
 			"messageCode": "PlayHistory-09",
-			"messageText": "Colosseum Win Rate"
+			"messageText": "競技場獲勝率"
 		},
 		{
 			"messageCode": "PlayHistory-10",
-			"messageText": "Consecutive Days Logged In"
+			"messageText": "連續登入天數"
 		},
 		{
 			"messageCode": "PlayHistory-11",
-			"messageText": "Total Days Logged In"
+			"messageText": "累計登入天數"
 		},
 		{
 			"messageCode": "PlayHistory-12",
-			"messageText": "{0} Battles"
+			"messageText": "{0}戰"
 		},
 		{
 			"messageCode": "PlayHistory-13",
@@ -1306,1307 +1306,1307 @@
 		},
 		{
 			"messageCode": "Profile-01",
-			"messageText": "BLOCK"
+			"messageText": "封鎖"
 		},
 		{
 			"messageCode": "Profile-02",
-			"messageText": "Block this user?\n*If they are currently friended, they will be removed from your friend list."
+			"messageText": "確定封鎖此用戶嗎？\n※若為好友，則解除好友。"
 		},
 		{
 			"messageCode": "Profile-03",
-			"messageText": "User was blocked."
+			"messageText": "已封鎖此用戶。"
 		},
 		{
 			"messageCode": "Profile-04",
-			"messageText": "You can block up to {0} users."
+			"messageText": "最多可封鎖{0}人。"
 		},
 		{
 			"messageCode": "Profile-05",
-			"messageText": "Unblock"
+			"messageText": "解除封鎖"
 		},
 		{
 			"messageCode": "Profile-06",
-			"messageText": "Unblock this user?"
+			"messageText": "確定要解除此用戶的封鎖嗎？"
 		},
 		{
 			"messageCode": "Profile-07",
-			"messageText": "User was unblocked."
+			"messageText": "已解除此用戶的封鎖。"
 		},
 		{
 			"messageCode": "Profile-08",
-			"messageText": "Request cancelled"
+			"messageText": "申請取消完成"
 		},
 		{
 			"messageCode": "Profile-09",
-			"messageText": "Friend request was cancelled"
+			"messageText": "已取消好友申請。"
 		},
 		{
 			"messageCode": "Profile-10",
-			"messageText": "Request"
+			"messageText": "申請"
 		},
 		{
 			"messageCode": "Profile-11",
-			"messageText": "Friend request"
+			"messageText": "申請好友"
 		},
 		{
 			"messageCode": "Profile-12",
-			"messageText": "Send friend request?"
+			"messageText": "確定要送出好友申請嗎？"
 		},
 		{
 			"messageCode": "Profile-13",
-			"messageText": "Request sent"
+			"messageText": "申請送出完成"
 		},
 		{
 			"messageCode": "Profile-14",
-			"messageText": "Friend request was sent"
+			"messageText": "已送出好友申請。"
 		},
 		{
 			"messageCode": "Profile-15",
-			"messageText": "Accept"
+			"messageText": "核准"
 		},
 		{
 			"messageCode": "Profile-16",
-			"messageText": "Friend Registered"
+			"messageText": "好友登錄完成"
 		},
 		{
 			"messageCode": "Profile-17",
-			"messageText": "Registered as friend"
+			"messageText": "已登錄好友。"
 		},
 		{
 			"messageCode": "Profile-18",
-			"messageText": "Cancel"
+			"messageText": "解除"
 		},
 		{
 			"messageCode": "Profile-19",
-			"messageText": "Friend Removed"
+			"messageText": "好友登錄解除完成"
 		},
 		{
 			"messageCode": "Profile-20",
-			"messageText": "Friend was removed"
+			"messageText": "已解除好友登錄。"
 		},
 		{
 			"messageCode": "Profile-21",
-			"messageText": "Visit"
+			"messageText": "拜訪"
 		},
 		{
 			"messageCode": "FriendTitle",
-			"messageText": "Friend"
+			"messageText": "好友"
 		},
 		{
 			"messageCode": "Friend-01",
-			"messageText": "No friends"
+			"messageText": "沒有好友"
 		},
 		{
 			"messageCode": "Friend-02",
-			"messageText": "Sent"
+			"messageText": "申請中"
 		},
 		{
 			"messageCode": "Friend-03",
-			"messageText": "Pending"
+			"messageText": "未核准"
 		},
 		{
 			"messageCode": "Friend-04",
-			"messageText": "Search"
+			"messageText": "搜尋"
 		},
 		{
 			"messageCode": "Friend-05",
-			"messageText": "Select all"
+			"messageText": "複數選擇"
 		},
 		{
 			"messageCode": "Friend-06",
-			"messageText": "Remove"
+			"messageText": "解除"
 		},
 		{
 			"messageCode": "Friend-07",
-			"messageText": "Confirm Friend Removal"
+			"messageText": "確認解除好友"
 		},
 		{
 			"messageCode": "Friend-08",
-			"messageText": "Remove {0} from friends?"
+			"messageText": "確定要解除{0}名好友嗎？"
 		},
 		{
 			"messageCode": "Friend-09",
-			"messageText": "Friend Removed"
+			"messageText": "解除好友"
 		},
 		{
 			"messageCode": "Friend-10",
-			"messageText": "{0} was removed from friends."
+			"messageText": "已解除{0}名好友。"
 		},
 		{
 			"messageCode": "Friend-11",
-			"messageText": "This friend will be deleted.\nAre you sure?"
+			"messageText": "即將刪除此好友。\n確定要刪除嗎？"
 		},
 		{
 			"messageCode": "Friend-12",
-			"messageText": "Last login "
+			"messageText": "最後登入"
 		},
 		{
 			"messageCode": "Friend-13",
-			"messageText": "Previous"
+			"messageText": "前"
 		},
 		{
 			"messageCode": "Friend-14",
-			"messageText": "Friend\nProfile"
+			"messageText": "好友\n基本資料"
 		},
 		{
 			"messageCode": "Friend-15",
-			"messageText": "Friend\nRemoved"
+			"messageText": "解除\n好友"
 		},
 		{
 			"messageCode": "Friend-16",
-			"messageText": "Farm\nVisit"
+			"messageText": "拜訪\n農場"
 		},
 		{
 			"messageCode": "FriendSearch-01",
-			"messageText": "Please enter your friend's User Code\nto send request"
+			"messageText": "請輸入朋友的用戶碼，\n進行申請。"
 		},
 		{
 			"messageCode": "FriendSearch-02",
-			"messageText": "Enter User Code"
+			"messageText": "輸入用戶碼"
 		},
 		{
 			"messageCode": "FriendSearch-03",
-			"messageText": "Search"
+			"messageText": "搜尋"
 		},
 		{
 			"messageCode": "FriendSearch-04",
-			"messageText": "Send a friend request\nto this user?"
+			"messageText": "要向此用戶\n送出好友申請嗎？"
 		},
 		{
 			"messageCode": "FriendSearch-05",
-			"messageText": "This user is blocked\nRemove the block on the Profile screen?"
+			"messageText": "此用戶已被封鎖。\n要從基本資料畫面解除封鎖嗎？"
 		},
 		{
 			"messageCode": "FriendSearch-06",
-			"messageText": "Invalid ID.\nPlease try again."
+			"messageText": "此ID不正確。\n請重新輸入。"
 		},
 		{
 			"messageCode": "FriendApproval-01",
-			"messageText": "Pending friend requests"
+			"messageText": "未核准好友"
 		},
 		{
 			"messageCode": "FriendApproval-02",
-			"messageText": "No pending requests"
+			"messageText": "沒有未核准的用戶。"
 		},
 		{
 			"messageCode": "FriendApproval-03",
-			"messageText": "Refuse"
+			"messageText": "拒絕"
 		},
 		{
 			"messageCode": "FriendApproval-04",
-			"messageText": "Accept"
+			"messageText": "核准"
 		},
 		{
 			"messageCode": "FriendApproval-05",
-			"messageText": "Confirm refusal"
+			"messageText": "確認拒絕好友"
 		},
 		{
 			"messageCode": "FriendApproval-06",
-			"messageText": "Refuse request from {0}?"
+			"messageText": "要拒絕{0}名的好友申請嗎？"
 		},
 		{
 			"messageCode": "FriendApproval-07",
-			"messageText": "Friend Refusal"
+			"messageText": "拒絕好友"
 		},
 		{
 			"messageCode": "FriendApproval-08",
-			"messageText": "Refused request from {0}."
+			"messageText": "已拒絕{0}名的好友申請。"
 		},
 		{
 			"messageCode": "FriendApproval-09",
-			"messageText": "The selected friend request(s) will be refused.\nAre you sure?"
+			"messageText": "即將拒絕此好友的申請。\n確定要拒絕嗎？"
 		},
 		{
 			"messageCode": "FriendApproval-10",
-			"messageText": "Confirm friend(s)"
+			"messageText": "確認核准好友"
 		},
 		{
 			"messageCode": "FriendApproval-11",
-			"messageText": "Accept {0} request(s)?"
+			"messageText": "要核准{0}名的好友申請嗎？"
 		},
 		{
 			"messageCode": "FriendApproval-12",
-			"messageText": "Friend Accepted"
+			"messageText": "核准好友"
 		},
 		{
 			"messageCode": "FriendApproval-13",
-			"messageText": "Accpeted {0} request(s)."
+			"messageText": "已核准{0}名的好友申請。"
 		},
 		{
 			"messageCode": "FriendApproval-14",
-			"messageText": "The selected friend request(s) will be accepted.\nAre you sure?"
+			"messageText": "即將核准此好友申請。\n確定要核准嗎？"
 		},
 		{
 			"messageCode": "FriendApply-01",
-			"messageText": "Pending requests"
+			"messageText": "好友申請中"
 		},
 		{
 			"messageCode": "FriendApply-02",
-			"messageText": "No pending requests"
+			"messageText": "沒有申請中的用戶。"
 		},
 		{
 			"messageCode": "FriendApply-03",
-			"messageText": "Confirm request cancellation"
+			"messageText": "確認取消申請"
 		},
 		{
 			"messageCode": "FriendApply-04",
-			"messageText": "Cancel {0} requests?"
+			"messageText": "要取消向{0}名送出的申請嗎？"
 		},
 		{
 			"messageCode": "FriendApply-05",
-			"messageText": "Cancel request(s)"
+			"messageText": "取消申請"
 		},
 		{
 			"messageCode": "FriendApply-06",
-			"messageText": "Cancelled {0} requests."
+			"messageText": "已取消向{0}名送出的申請。"
 		},
 		{
 			"messageCode": "FriendApply-07",
-			"messageText": "The selected friend request(s) will be cancelled.\nAre you sure?"
+			"messageText": "即將取消此好友申請。\n確定要取消嗎？"
 		},
 		{
 			"messageCode": "PicturebookTitle",
-			"messageText": "Field Guide"
+			"messageText": "圖鑑"
 		},
 		{
 			"messageCode": "CharaTapFriendshipUp",
-			"messageText": "Friendship increased,\nraising the Status of {0}."
+			"messageText": "友情度已提升，\n因此{0}的狀態也跟著提升。"
 		},
 		{
 			"messageCode": "FarmEditInfo",
-			"messageText": "Compiling Facility layout. Select Storage to\ntemporarily store all your Facilities in the area at the bottom of the screen."
+			"messageText": "設施配置整編中。選擇收納，\n所有設施可暫時收納在畫面下的區域。"
 		},
 		{
 			"messageCode": "FarmEditButtonLevel",
-			"messageText": "LV {0}"
+			"messageText": "Lv{0}"
 		},
 		{
 			"messageCode": "FarmEditButtonLevelZero",
-			"messageText": "Constructing"
+			"messageText": "建造中"
 		},
 		{
 			"messageCode": "FarmEditButtonCount",
-			"messageText": "x {0}"
+			"messageText": "x{0}"
 		},
 		{
 			"messageCode": "FarmEditCloseTitle",
-			"messageText": "Confirm"
+			"messageText": "確認完成"
 		},
 		{
 			"messageCode": "FarmEditCloseInfo",
-			"messageText": "Changed have not been saved.\nFarm will revert to previous layout.\nAre you sure?"
+			"messageText": "編輯尚未完成。\n即將回到變更前的狀態，\n確定要離開嗎？"
 		},
 		{
 			"messageCode": "FarmEditSaveTitle",
-			"messageText": "Confirm Save"
+			"messageText": "確認儲存"
 		},
 		{
 			"messageCode": "FarmEditSaveInfo",
-			"messageText": "Save all changes?"
+			"messageText": "要儲存編輯內容嗎？"
 		},
 		{
 			"messageCode": "FacilityInfoLv",
-			"messageText": "{0} LV.{1}"
+			"messageText": "{0}　Lv.{1}"
 		},
 		{
 			"messageCode": "FacilityInfoLvMax",
-			"messageText": "{0} LV.{1} (Max)"
+			"messageText": "{0}　Lv.{1} （最高）"
 		},
 		{
 			"messageCode": "FacilitySaleComfirmInfo",
-			"messageText": "Sell {0}?\nClusters {1}"
+			"messageText": "要賣出{0}嗎？\n數碼碎片{1}"
 		},
 		{
 			"messageCode": "FacilityMeatAlertTitle",
-			"messageText": "Max Meat"
+			"messageText": "肉的持有上限"
 		},
 		{
 			"messageCode": "FacilityMeatAlertLvMax",
-			"messageText": "You cannot harvest any more Meat."
+			"messageText": "可收成的肉已超過上限。"
 		},
 		{
 			"messageCode": "FacilityMeatAlert",
-			"messageText": "You cannot harvest any more Meat.\nLevel up your Warehouse."
+			"messageText": "可收成的肉已超過上限。\n請提升倉庫等級。"
 		},
 		{
 			"messageCode": "FacilityMeatAlertBuild",
-			"messageText": "You cannot harvest more Meat.\nBuild a Warehouse to harvest more."
+			"messageText": "可收成的肉已超過上限。\n建造倉庫可增加肉的持有上限。"
 		},
 		{
 			"messageCode": "FacilityUpgradeConfirmInfo",
-			"messageText": "Upgrade?"
+			"messageText": "要升級嗎？"
 		},
 		{
 			"messageCode": "FacilityUpgradeFailedShortage",
-			"messageText": "Not enough {0}\nto upgrade."
+			"messageText": "{0}不足，\n無法升級。"
 		},
 		{
 			"messageCode": "FacilityUpgradeBuildTitle",
-			"messageText": "Max Construction #"
+			"messageText": "同時建造數"
 		},
 		{
 			"messageCode": "FacilityUpgradeBuildInfo",
-			"messageText": "You cannot upgrade any more Facilities at once."
+			"messageText": "無法同時升級更多設施。"
 		},
 		{
 			"messageCode": "FacilityUpgradeMeatLost",
-			"messageText": "If you upgrade now, \nyou will lose any unharvested Meat.\nAre you sure?"
+			"messageText": "升級\n會使尚未收成的肉消失，\n確定要升級嗎？"
 		},
 		{
 			"messageCode": "FacilityUpgradeMeatOver",
-			"messageText": "A maxed Meat harvest will be more than your Meat storage can hold.\nAre you sure you want to upgrade?"
+			"messageText": "肉的收成數上限已超越持有數上限，\n要升級嗎？"
 		},
 		{
 			"messageCode": "FacilityShortcutTitle",
-			"messageText": "Reduce"
+			"messageText": "縮短時間"
 		},
 		{
 			"messageCode": "FacilityShortcutUpgrage",
-			"messageText": "Use {0}\nto complete the upgrade?"
+			"messageText": "要使用{0}，\n完成升級嗎？"
 		},
 		{
 			"messageCode": "FacilityShortcutBuild",
-			"messageText": "Use {0}\nto complete construction?"
+			"messageText": "要使用{0}，\n完成建造嗎？"
 		},
 		{
 			"messageCode": "FacilityShortcutShortage",
-			"messageText": "Not enough {0} to\nreduce time."
+			"messageText": "{0}不足，\n無法縮短時間。"
 		},
 		{
 			"messageCode": "FacilityShortcutAlready",
-			"messageText": "Construction already complete.\nNo DigiStones spent."
+			"messageText": "已建造完成，\n未消耗數碼石。"
 		},
 		{
 			"messageCode": "HouseTitle",
-			"messageText": "House"
+			"messageText": "小屋"
 		},
 		{
 			"messageCode": "SaleTitle",
-			"messageText": "Release"
+			"messageText": "別離"
 		},
 		{
 			"messageCode": "SaleConfirmTitle",
-			"messageText": "Confirm Release"
+			"messageText": "確認別離"
 		},
 		{
 			"messageCode": "SaleConfirmInfo",
-			"messageText": "These Digimon will be released. Are you sure?\nMega Digimon will leave behind Fragments when released.\n1 for Unawakened, 3 for +1, 5 for +2, 7 for +3, 10 for +4, and 14 for above."
+			"messageText": "即將與這隻數碼寶貝別離。確定要別離嗎？\n與究極體數碼寶貝別離時，會保留該數碼寶貝的資料碎片。\n無覺醒……1個、+1……3個、+2……5個、+3……7個、+4……10個、V2以上……14個"
 		},
 		{
 			"messageCode": "SaleConfirmGain",
-			"messageText": "Acquired"
+			"messageText": "取得"
 		},
 		{
 			"messageCode": "SaleCautionGrowth",
-			"messageText": "*Digimon above {0} are included"
+			"messageText": "※包含{0}以上的數碼寶貝。"
 		},
 		{
 			"messageCode": "SaleCautionArousal",
-			"messageText": "*Awakened Digimon are included"
+			"messageText": "※包含已覺醒的數碼寶貝。"
 		},
 		{
 			"messageCode": "GardenTitle",
-			"messageText": "Garden"
+			"messageText": "花園"
 		},
 		{
 			"messageCode": "Garden-01",
-			"messageText": "No Digimon are being trained at this time.\nChoose a Digimon from your List or create a DigiEgg with Research."
+			"messageText": "目前沒有養成中的幼年期數碼寶貝。\n從一覽中選擇數碼寶貝，或進行研究生出數碼蛋吧！"
 		},
 		{
 			"messageCode": "Garden-02",
-			"messageText": "No DigiEggs or In-Training Digimon.\nDo some Link Captures or Research!"
+			"messageText": "沒有數碼蛋和幼年期數碼寶貝。\n前往Link捕捉或進行研究吧！"
 		},
 		{
 			"messageCode": "Garden-03",
-			"messageText": "Training"
+			"messageText": "養成"
 		},
 		{
 			"messageCode": "Garden-04",
-			"messageText": "Train this Digimon in your Garden?"
+			"messageText": "要在花園裡養成這隻數碼寶貝嗎？"
 		},
 		{
 			"messageCode": "Garden-05",
-			"messageText": "Hatching"
+			"messageText": "孵化"
 		},
 		{
 			"messageCode": "Garden-06",
-			"messageText": "Hatch this DigiEgg?"
+			"messageText": "要孵化嗎？"
 		},
 		{
 			"messageCode": "Garden-07",
-			"messageText": "Digivolve this Digimon?"
+			"messageText": "要進化嗎？"
 		},
 		{
 			"messageCode": "Garden-08",
-			"messageText": "Try petting the DigiEgg!"
+			"messageText": "撫摸數碼蛋"
 		},
 		{
 			"messageCode": "Garden-09",
-			"messageText": "{0} more until Digivolution"
+			"messageText": "距離進化尚餘{0}"
 		},
 		{
 			"messageCode": "Garden-10",
-			"messageText": "The Digimon began to glow"
+			"messageText": "數碼寶貝開始發光"
 		},
 		{
 			"messageCode": "Garden-11",
-			"messageText": "Use {0} DigiStones to Digivolve right now?\nRemaining time: {1}"
+			"messageText": "要使用{0}個數碼石，立刻進化嗎？\n剩餘時間：{1}"
 		},
 		{
 			"messageCode": "Garden-12",
-			"messageText": "Creation"
+			"messageText": "誕生"
 		},
 		{
 			"messageCode": "LaboratoryTitle",
-			"messageText": "Research"
+			"messageText": "研究"
 		},
 		{
 			"messageCode": "LaboratoryMaxGarden",
-			"messageText": "Your Garden is\nfull."
+			"messageText": "花園\n已滿。"
 		},
 		{
 			"messageCode": "LaboratoryNoUltimateTitle",
-			"messageText": "Not enough Megas"
+			"messageText": "未持有究極體"
 		},
 		{
 			"messageCode": "LaboratoryNoUltimateInfo",
-			"messageText": "You need at least 2 Megas to do Research"
+			"messageText": "研究需要2隻究極體。"
 		},
 		{
 			"messageCode": "LaboratoryNotSelectedTitle",
-			"messageText": "No Base Digimon selected"
+			"messageText": "未選擇基本體數碼寶貝"
 		},
 		{
 			"messageCode": "LaboratoryNotSelectedInfo",
-			"messageText": "Choose Partner Digimon\nafter choosing Base Digimon."
+			"messageText": "請先選擇基本體數碼寶貝，\n再選擇夥伴數碼寶貝。"
 		},
 		{
 			"messageCode": "Laboratory-06",
-			"messageText": "Base Digimon not selected."
+			"messageText": "未選擇基本體。"
 		},
 		{
 			"messageCode": "LaboratoryResearchAlertTitle",
-			"messageText": "Research alert!"
+			"messageText": "研究警告！"
 		},
 		{
 			"messageCode": "LaboratoryResearchAlertInfo",
-			"messageText": "Partner Digimon is Awakened.\nAre you sure you want to use it for Research?\n*If you complete this Research,\nyou'll lose the Partner Digimon."
+			"messageText": "夥伴數碼寶貝已覺醒，\n確定要研究嗎？\n※一旦進行研究，\n夥伴數碼寶貝將會消失。"
 		},
 		{
 			"messageCode": "LaboratoryResearchInfo",
-			"messageText": "Are you sure you wish to begin this Research?\n*After Research, the Digimon will revert to a DigiEgg."
+			"messageText": "確定要進行研究嗎？\n※研究後將會變回數碼蛋。"
 		},
 		{
 			"messageCode": "ArousalTitle",
-			"messageText": "Resist Upgrade"
+			"messageText": "抗性變化"
 		},
 		{
 			"messageCode": "ArousalPartner",
-			"messageText": "Partner"
+			"messageText": "夥伴數碼寶貝"
 		},
 		{
 			"messageCode": "ArousalConfirmTitle",
-			"messageText": "Confirm Resist Upgrade"
+			"messageText": "確認抗性變化"
 		},
 		{
 			"messageCode": "ArousalConfirmInfo",
-			"messageText": "These Digimon will receive a Resist Upgrade.\nAre you sure?"
+			"messageText": "確定要用這隻數碼寶貝，\n進行抗性變化嗎？"
 		},
 		{
 			"messageCode": "ArousalCautionLost",
-			"messageText": "\n*The Partner Digimon will revert to data."
+			"messageText": "\n※夥伴數碼寶貝將變回資料。"
 		},
 		{
 			"messageCode": "ArousalCautionArousal",
-			"messageText": "*Includes Awakened Digimon"
+			"messageText": "※包含已覺醒的數碼寶貝。"
 		},
 		{
 			"messageCode": "SuccessionTitle",
-			"messageText": "Legacies"
+			"messageText": "繼承"
 		},
 		{
 			"messageCode": "SuccessionConfirmTitle",
-			"messageText": "Confirm Legacy"
+			"messageText": "確認繼承"
 		},
 		{
 			"messageCode": "SuccessionConfirmInfo",
-			"messageText": "This Legacy Skill will be inherited as Legacy Skill {0}.\nAre you sure?\n*The Partner Digimon will revert to data."
+			"messageText": "即將繼承這個繼承技{0}，\n確定要繼承嗎？\n※夥伴數碼寶貝將變回資料。"
 		},
 		{
 			"messageCode": "SuccessionSkillName",
-			"messageText": "Legacy Skill Name"
+			"messageText": "繼承技名"
 		},
 		{
 			"messageCode": "SuccessionCautionGrowth",
-			"messageText": "*Includes Digimon above {0}"
+			"messageText": "※包含{0}以上的數碼寶貝。"
 		},
 		{
 			"messageCode": "SuccessionCautionArousal",
-			"messageText": "*Includes Awakened Digimon"
+			"messageText": "※包含已覺醒的數碼寶貝。"
 		},
 		{
 			"messageCode": "SuccessionFailedLv",
-			"messageText": "In order to pass on a Legacy,\n the Partner Digimon must be max level."
+			"messageText": "繼承需要夥伴數碼寶貝\n達到最高等級。"
 		},
 		{
 			"messageCode": "SuccessionFailedSame",
-			"messageText": "Cannot pass on a Legacy\nwhen the Legacy Skills are the same."
+			"messageText": "無法繼承\n同一技能。"
 		},
 		{
 			"messageCode": "Campaign",
-			"messageText": "Campaign Open"
+			"messageText": "活動進行中"
 		},
 		{
 			"messageCode": "CampaignDrop",
-			"messageText": "Drop Rate\nUP"
+			"messageText": "掉落機率\nUP"
 		},
 		{
 			"messageCode": "CampaignDropRare",
-			"messageText": "Rare Drop Rate\nUP"
+			"messageText": "稀有掉落機率\nUP"
 		},
 		{
 			"messageCode": "CampaignExp",
-			"messageText": "EXP\nx{0}"
+			"messageText": "EXP\n{0}倍"
 		},
 		{
 			"messageCode": "CampaignTip",
-			"messageText": "Clusters\nx{0}"
+			"messageText": "數碼碎片\n{0}倍"
 		},
 		{
 			"messageCode": "CampaignFriend",
-			"messageText": "Friendship\nx{0}"
+			"messageText": "獲得友情度\n{0}倍"
 		},
 		{
 			"messageCode": "CampaignStamina",
-			"messageText": "Stamina Cost 1/\n{0}"
+			"messageText": "消耗體力1/\n{0}"
 		},
 		{
 			"messageCode": "CampaignMeat",
-			"messageText": "Meat Field Yield\nx{0}"
+			"messageText": "肉田收成量\n{0}倍"
 		},
 		{
 			"messageCode": "CampaignNowDrop",
-			"messageText": "Current Drop Rate UP"
+			"messageText": "現在獲得掉落機率UP"
 		},
 		{
 			"messageCode": "CampaignNowDropRare",
-			"messageText": "Current Rare Drop Rate UP"
+			"messageText": "現在獲得稀有掉落機率UP"
 		},
 		{
 			"messageCode": "CampaignNowExp",
-			"messageText": "Current EXP x{0}"
+			"messageText": "現在獲得EXP{0}倍"
 		},
 		{
 			"messageCode": "CampaignNowTip",
-			"messageText": "Current Clusters x{0}"
+			"messageText": "現在獲得數碼碎片{0}倍"
 		},
 		{
 			"messageCode": "CampaignNowFriend",
-			"messageText": "Current Friendship x{0}"
+			"messageText": "現在獲得友情度{0}倍"
 		},
 		{
 			"messageCode": "CampaignNowStamina",
-			"messageText": "Current Stamina Cost 1/{0}"
+			"messageText": "現在消耗體力1/{0}"
 		},
 		{
 			"messageCode": "CampaignEndTitle",
-			"messageText": "Campaign Closed"
+			"messageText": "活動結束"
 		},
 		{
 			"messageCode": "CampaignEndInfo",
-			"messageText": "Campaign has ended.\nReturning to Farm."
+			"messageText": "活動期間已結束。\n返回農場。"
 		},
 		{
 			"messageCode": "ChatTitle",
-			"messageText": "DigiChat"
+			"messageText": "數碼聊天室"
 		},
 		{
 			"messageCode": "ChatTabChat",
-			"messageText": "Chat"
+			"messageText": "聊天"
 		},
 		{
 			"messageCode": "ChatTabMenu",
-			"messageText": "Menu"
+			"messageText": "選單"
 		},
 		{
 			"messageCode": "ChatTabMulti",
-			"messageText": "Co-op"
+			"messageText": "協力戰鬥"
 		},
 		{
 			"messageCode": "ChatTabColosseum",
-			"messageText": "COLOSSEUM"
+			"messageText": "競技場"
 		},
 		{
 			"messageCode": "ChatNoneGroup",
-			"messageText": "No chat groups to display"
+			"messageText": "沒有顯示的聊天群組。"
 		},
 		{
 			"messageCode": "ChatSearchButton",
-			"messageText": "Search"
+			"messageText": "搜尋"
 		},
 		{
 			"messageCode": "ChatMaster",
-			"messageText": "Master"
+			"messageText": "主人"
 		},
 		{
 			"messageCode": "ChatMember",
-			"messageText": "Recruiting\nNew Members"
+			"messageText": "招募成員"
 		},
 		{
 			"messageCode": "ChatConfirmTitle",
-			"messageText": "Confirm"
+			"messageText": "確認"
 		},
 		{
 			"messageCode": "ChatConfirmNo",
-			"messageText": "Refuse"
+			"messageText": "拒絕"
 		},
 		{
 			"messageCode": "ChatConfirmYes",
-			"messageText": "Join"
+			"messageText": "參加"
 		},
 		{
 			"messageCode": "ChatColosseumNone",
-			"messageText": "No Colosseum battle requests."
+			"messageText": "目前沒有競技場對戰委託。"
 		},
 		{
 			"messageCode": "ChatMultiNone",
-			"messageText": "No Co-op requests."
+			"messageText": "目前沒有協力戰鬥委託。"
 		},
 		{
 			"messageCode": "ChatMultiConfirmInfo",
-			"messageText": "Closing chat and going to Co-Op mode.\nAre you sure?"
+			"messageText": "即將關閉聊天室，前往協力戰鬥。\n確定要執行嗎？"
 		},
 		{
 			"messageCode": "ChatSearch-02",
-			"messageText": "Join this chat group?"
+			"messageText": "要參加這個聊天群組嗎？"
 		},
 		{
 			"messageCode": "ChatSearch-04",
-			"messageText": "Request entry to this chat group?"
+			"messageText": "要申請這個聊天群組嗎？"
 		},
 		{
 			"messageCode": "ChatSearch-05",
-			"messageText": "Cannot join any more chat groups."
+			"messageText": "已無法再參加聊天群組。"
 		},
 		{
 			"messageCode": "ChatSearch-06",
-			"messageText": "You have already requested entry to or have received an invitation from this group."
+			"messageText": "已申請或受到邀請。"
 		},
 		{
 			"messageCode": "ChatSearch-07",
-			"messageText": "Request sent."
+			"messageText": "申請完成。"
 		},
 		{
 			"messageCode": "ChatIdSearch-01",
-			"messageText": "ID Search"
+			"messageText": "搜尋ID"
 		},
 		{
 			"messageCode": "ChatIdSearch-02",
-			"messageText": "Chat ID Search"
+			"messageText": "搜尋聊天ID"
 		},
 		{
 			"messageCode": "ChatIdSearch-03",
-			"messageText": "Please enter a chat ID."
+			"messageText": "請輸入聊天ID。"
 		},
 		{
 			"messageCode": "ChatIdSearch-04",
-			"messageText": "No chat groups found."
+			"messageText": "找不到聊天群組。"
 		},
 		{
 			"messageCode": "ChatSortFew",
-			"messageText": "Fewest Members"
+			"messageText": "依成員少到多排序"
 		},
 		{
 			"messageCode": "ChatSortMany",
-			"messageText": "Most Members"
+			"messageText": "依成員多到少排序"
 		},
 		{
 			"messageCode": "ChatMenu-01",
-			"messageText": "Create Group"
+			"messageText": "成立群組"
 		},
 		{
 			"messageCode": "ChatMenu-02",
-			"messageText": "Sent"
+			"messageText": "申請中"
 		},
 		{
 			"messageCode": "ChatMenu-03",
-			"messageText": "Pending"
+			"messageText": "未核准"
 		},
 		{
 			"messageCode": "ChatCategory-01",
-			"messageText": "Moderated"
+			"messageText": "核准制"
 		},
 		{
 			"messageCode": "ChatCategory-02",
-			"messageText": "Unmoderated"
+			"messageText": "非核准制"
 		},
 		{
 			"messageCode": "ChatCategory-03",
-			"messageText": "Socializing"
+			"messageText": "交流"
 		},
 		{
 			"messageCode": "ChatCategory-04",
-			"messageText": "Tips"
+			"messageText": "攻略"
 		},
 		{
 			"messageCode": "ChatCategory-05",
-			"messageText": "Free Chat"
+			"messageText": "閒聊"
 		},
 		{
 			"messageCode": "ChatCategory-06",
-			"messageText": "Other"
+			"messageText": "其他"
 		},
 		{
 			"messageCode": "ChatGroup-01",
-			"messageText": "Group Name"
+			"messageText": "群組名稱"
 		},
 		{
 			"messageCode": "ChatGroup-02",
-			"messageText": "Category"
+			"messageText": "分類"
 		},
 		{
 			"messageCode": "ChatGroup-03",
-			"messageText": "Approval required?"
+			"messageText": "是否核准"
 		},
 		{
 			"messageCode": "ChatGroup-04",
-			"messageText": "Greeting"
+			"messageText": "問候語"
 		},
 		{
 			"messageCode": "ChatGroup-05",
-			"messageText": "Nice to meet you!"
+			"messageText": "請多多指教。"
 		},
 		{
 			"messageCode": "ChatGroupCreateButton",
-			"messageText": "Create"
+			"messageText": "成立"
 		},
 		{
 			"messageCode": "ChatGroupCreateSuccess",
-			"messageText": "Created the chat group\n{0}."
+			"messageText": "已成立\n{0}聊天群組。"
 		},
 		{
 			"messageCode": "ChatGroupCreateFailed",
-			"messageText": "Character limit exceeded.\nPlease limit group name to 15 characters\nand comments to 30 characters."
+			"messageText": "超過文字數上限。\n群組名稱最多15字\n留言最多30字。"
 		},
 		{
 			"messageCode": "ChatGroupUpdateButton",
-			"messageText": "Change"
+			"messageText": "變更"
 		},
 		{
 			"messageCode": "ChatGroupUpdateSuccess",
-			"messageText": "Chat group settings\nupdated."
+			"messageText": "更新聊天群組設定。"
 		},
 		{
 			"messageCode": "ChatLogNone",
-			"messageText": "No messages"
+			"messageText": "沒有訊息"
 		},
 		{
 			"messageCode": "ChatLog-01",
-			"messageText": "*{0} joined the group"
+			"messageText": "※{0}已加入群組。"
 		},
 		{
 			"messageCode": "ChatLog-02",
-			"messageText": "*{0} is not group Master"
+			"messageText": "※{0}已成為群組主人。"
 		},
 		{
 			"messageCode": "ChatLog-03",
-			"messageText": "*{0} has left the group"
+			"messageText": "※{0}已退出群組。"
 		},
 		{
 			"messageCode": "ChatLog-04",
-			"messageText": "*Not posted due to inappropriate language"
+			"messageText": "※內含不適當詞句，無法顯示。"
 		},
 		{
 			"messageCode": "ChatLog-05",
-			"messageText": "*Blocked user"
+			"messageText": "※這是已封鎖用戶的發言。"
 		},
 		{
 			"messageCode": "ChatLog-06",
-			"messageText": "M d HH:mm"
+			"messageText": "M月d日　HH:mm"
 		},
 		{
 			"messageCode": "ChatLog-07",
-			"messageText": "'Yesterday' HH:mm"
+			"messageText": "昨天　HH:mm"
 		},
 		{
 			"messageCode": "ChatLog-08",
-			"messageText": "'Today' HH:mm"
+			"messageText": "今天　HH:mm"
 		},
 		{
 			"messageCode": "ChatLog-09",
-			"messageText": "Send"
+			"messageText": "送出"
 		},
 		{
 			"messageCode": "ChatLog-10",
-			"messageText": "Set Phrases"
+			"messageText": "範本"
 		},
 		{
 			"messageCode": "ChatLog-11",
-			"messageText": "[u][Recruiting Co-Op players!]\n{0}[/u]"
+			"messageText": "[u][協力戰鬥招募中！]\n{0}[/u]"
 		},
 		{
 			"messageCode": "ChatLogError",
-			"messageText": "Connection lost. Reconnecting."
+			"messageText": "連線已中斷，請重新連線。"
 		},
 		{
 			"messageCode": "ChatPhrase-01",
-			"messageText": "Good morning."
+			"messageText": "早安。"
 		},
 		{
 			"messageCode": "ChatPhrase-02",
-			"messageText": "Good evening."
+			"messageText": "晚上好。"
 		},
 		{
 			"messageCode": "ChatPhrase-03",
-			"messageText": "Good night."
+			"messageText": "晚安。"
 		},
 		{
 			"messageCode": "ChatPhrase-04",
-			"messageText": "Nice to meet you."
+			"messageText": "初次見面。"
 		},
 		{
 			"messageCode": "ChatPhrase-05",
-			"messageText": "Welcome."
+			"messageText": "請多指教。"
 		},
 		{
 			"messageCode": "ChatPhrase-06",
-			"messageText": "Well done."
+			"messageText": "辛苦了。"
 		},
 		{
 			"messageCode": "ChatPhrase-07",
-			"messageText": "Thanks."
+			"messageText": "謝謝。"
 		},
 		{
 			"messageCode": "ChatPhrase-08",
-			"messageText": "Sorry."
+			"messageText": "對不起。"
 		},
 		{
 			"messageCode": "ChatLogMenu-01",
-			"messageText": "Users:"
+			"messageText": "參加人數："
 		},
 		{
 			"messageCode": "ChatLogMenu-02",
-			"messageText": "Chat ID"
+			"messageText": "聊天ID"
 		},
 		{
 			"messageCode": "ChatLogMenu-03",
-			"messageText": "Member List"
+			"messageText": "成員一覽"
 		},
 		{
 			"messageCode": "ChatLogMenu-04",
-			"messageText": "Leave"
+			"messageText": "退出"
 		},
 		{
 			"messageCode": "ChatLogMenu-05",
-			"messageText": "Notice regarding Chat Service"
+			"messageText": "聊天服務相關注意事項"
 		},
 		{
 			"messageCode": "ChatLogMenu-06",
-			"messageText": "Chat Settings"
+			"messageText": "聊天設定"
 		},
 		{
 			"messageCode": "ChatLogMenu-07",
-			"messageText": "Change Masters"
+			"messageText": "主人轉讓"
 		},
 		{
 			"messageCode": "ChatLogMenu-08",
-			"messageText": "Invite"
+			"messageText": "邀請"
 		},
 		{
 			"messageCode": "ChatLogMenu-09",
-			"messageText": "Unaccepted Requests"
+			"messageText": "申請未核准一覽"
 		},
 		{
 			"messageCode": "ChatLogMenu-10",
-			"messageText": "Pending Invites"
+			"messageText": "邀請中一覽"
 		},
 		{
 			"messageCode": "ChatLogMenu-11",
-			"messageText": "Delete Chat"
+			"messageText": "刪除聊天"
 		},
 		{
 			"messageCode": "ChatLeavingConfirmTitle",
-			"messageText": "Confirm Leaving"
+			"messageText": "確認退出"
 		},
 		{
 			"messageCode": "ChatLeavingConfirmInfo",
-			"messageText": "Leave this chat group?"
+			"messageText": "要退出這個聊天群組嗎？"
 		},
 		{
 			"messageCode": "ChatLeavingSuccess",
-			"messageText": "You have left the chat group."
+			"messageText": "已退出聊天群組。"
 		},
 		{
 			"messageCode": "ChatTransferConfirmInfo",
-			"messageText": "Make this user Master?"
+			"messageText": "要將主人轉讓給這個用戶嗎？"
 		},
 		{
 			"messageCode": "ChatTransferSuccess",
-			"messageText": "{0} was given\nMaster privileges."
+			"messageText": "已將主人權限\n轉讓給{0}。"
 		},
 		{
 			"messageCode": "ChatDeleteConfirmTitle",
-			"messageText": "Confirm Delete"
+			"messageText": "確認刪除"
 		},
 		{
 			"messageCode": "ChatDeleteConfirmInfo",
-			"messageText": "Delete this chat group?\n*All previous data will be lost."
+			"messageText": "要刪除這個聊天群組嗎？\n※過去的資料將會全數刪除。"
 		},
 		{
 			"messageCode": "ChatDeleteSuccess",
-			"messageText": "Chat group was deleted."
+			"messageText": "已刪除聊天群組。"
 		},
 		{
 			"messageCode": "ChatInvitation-01",
-			"messageText": "No friends to invite."
+			"messageText": "沒有可邀請的好友。"
 		},
 		{
 			"messageCode": "ChatInvitation-02",
-			"messageText": "No friends selected."
+			"messageText": "沒有選擇好友。"
 		},
 		{
 			"messageCode": "ChatInvitation-03",
-			"messageText": "Cannot select more"
+			"messageText": "無法繼續選擇好友。"
 		},
 		{
 			"messageCode": "ChatInvitation-04",
-			"messageText": "Invite your friend {0}?"
+			"messageText": "要邀請{0}名好友嗎？"
 		},
 		{
 			"messageCode": "ChatInvitation-05",
-			"messageText": "Invited {0}\nto the chat group."
+			"messageText": "已邀請{0}\n加入聊天群組。"
 		},
 		{
 			"messageCode": "ChatInvitation-06",
-			"messageText": "Invited {0} member(s)."
+			"messageText": "已邀請{0}名。"
 		},
 		{
 			"messageCode": "ChatInvitation-07",
-			"messageText": "Unable to invite {0}."
+			"messageText": "無法邀請{0}。"
 		},
 		{
 			"messageCode": "ChatInvitation-08",
-			"messageText": "Unable to invite {0} member(s)."
+			"messageText": "無法邀請{0}名。"
 		},
 		{
 			"messageCode": "ChatInviteCancelTitle",
-			"messageText": "Cancel Invite"
+			"messageText": "取消邀請"
 		},
 		{
 			"messageCode": "ChatInviteCancelInfo",
-			"messageText": "Cancel {0}'s invite to\n{1}?"
+			"messageText": "要取消邀請{0}加入{1}聊天群組嗎？"
 		},
 		{
 			"messageCode": "ChatInviteCancel",
-			"messageText": "{0}'s invite cancelled."
+			"messageText": "已取消對{0}的邀請。"
 		},
 		{
 			"messageCode": "ChatInviteReplyTitle",
-			"messageText": "Received invite from {0} to chat group {1}.\nWhat will you do?"
+			"messageText": "{0}邀請您加入{1}聊天群組，\n要加入嗎？"
 		},
 		{
 			"messageCode": "ChatInviteReplyOK",
-			"messageText": "Joined the chat group\n{0}.\nTry saying hello!"
+			"messageText": "已加入\n{0}聊天群組。\n在聊天室問候大家吧！"
 		},
 		{
 			"messageCode": "ChatInviteReplyNG",
-			"messageText": "Declined invitation from the chat group\n{0}."
+			"messageText": "已拒絕來自\n{0}聊天群組的邀請。"
 		},
 		{
 			"messageCode": "ChatApply-01",
-			"messageText": "Accept request from {0}?"
+			"messageText": "要核准來自{0}的申請嗎？"
 		},
 		{
 			"messageCode": "ChatApply-02",
-			"messageText": "Accepted request from {0}.\nHow about sending them a message?"
+			"messageText": "已核准{0}。\n馬上發送訊息吧。"
 		},
 		{
 			"messageCode": "ChatApply-03",
-			"messageText": "Declined request from {0}."
+			"messageText": "已拒絕來自{0}的申請。"
 		},
 		{
 			"messageCode": "ChatApply-04",
-			"messageText": "Cancel request to\njoin this chat group?"
+			"messageText": "要取消加入這個\n聊天群組的申請嗎？"
 		},
 		{
 			"messageCode": "ChatApply-05",
-			"messageText": "Cancelled request to join the chat group\n{0}."
+			"messageText": "已取消加入\n{0}聊天群組的申請。"
 		},
 		{
 			"messageCode": "ChatUserNone",
-			"messageText": "No targeted users"
+			"messageText": "查無用戶。"
 		},
 		{
 			"messageCode": "ChatUserLastLogin",
-			"messageText": "Last login {0}"
+			"messageText": "最後登入{0}"
 		},
 		{
 			"messageCode": "ChatInfo-01",
-			"messageText": "Let's all hang out in chat!"
+			"messageText": "和大家一起聊天同樂！"
 		},
 		{
 			"messageCode": "ChatInfo-02",
-			"messageText": "Received new message(s)."
+			"messageText": "收到新訊息。"
 		},
 		{
 			"messageCode": "ChatInfo-03",
-			"messageText": "You have a Co-op request."
+			"messageText": "收到協力戰鬥委託。"
 		},
 		{
 			"messageCode": "ChatInfo-04",
-			"messageText": "Fighting a Mock Battle"
+			"messageText": "收到模擬戰的挑戰。"
 		},
 		{
 			"messageCode": "ColosseumTitle",
-			"messageText": "COLOSSEUM"
+			"messageText": "競技場"
 		},
 		{
 			"messageCode": "ColosseumReward",
-			"messageText": "Prize List"
+			"messageText": "報酬一覽"
 		},
 		{
 			"messageCode": "ColosseumStamina",
-			"messageText": "Free rounds remaining: {0}"
+			"messageText": "無消耗：剩下{0}次"
 		},
 		{
 			"messageCode": "ColosseumTerm",
-			"messageText": "Open from:{0}～{1}"
+			"messageText": "活動期間:{0}～{1}"
 		},
 		{
 			"messageCode": "ColosseumNextRank",
-			"messageText": "{0} more wins until next Rank"
+			"messageText": "距離下個RANK尚餘{0}勝"
 		},
 		{
 			"messageCode": "ColosseumRankMax",
-			"messageText": "You've reached the highest Rank!"
+			"messageText": "達到最高RANK！"
 		},
 		{
 			"messageCode": "ColosseumTips",
-			"messageText": "You've reached the highest Rank! There are still many tough opponents, however! Keep fighting!"
+			"messageText": "您已經達到最高RANK了！說不定還會有許多強敵潛伏，繼續努力加油吧！"
 		},
 		{
 			"messageCode": "ColosseumCloseDay",
-			"messageText": "Not open today"
+			"messageText": "今天無舉辦"
 		},
 		{
 			"messageCode": "ColosseumPenaltyTitle",
-			"messageText": "Matching Penalty"
+			"messageText": "配對處罰"
 		},
 		{
 			"messageCode": "ColosseumPenaltyInfo",
-			"messageText": "Could not be matched with default conditions.\nPlease wait."
+			"messageText": "依既定條件配對失敗，\n請稍候片刻。"
 		},
 		{
 			"messageCode": "ColosseumLimit",
-			"messageText": "Clear AREA 08 [Aquarium Server]\nto unlock."
+			"messageText": "通過AREA08【水族箱伺服器】關卡後\n即可開放。"
 		},
 		{
 			"messageCode": "ColosseumScoreTitle",
-			"messageText": "Win Record"
+			"messageText": "戰績"
 		},
 		{
 			"messageCode": "ColosseumScore",
-			"messageText": "{0}W {1}L"
+			"messageText": "{0}勝{1}敗"
 		},
 		{
 			"messageCode": "ColosseumDuelPoint",
-			"messageText": "Current DP"
+			"messageText": "現在的DP"
 		},
 		{
 			"messageCode": "ColosseumCloseTime",
-			"messageText": "Colosseum not currently open"
+			"messageText": "目前未舉辦競技場。"
 		},
 		{
 			"messageCode": "ColosseumGoTop",
-			"messageText": "Try re-connecting from the Colosseum screen."
+			"messageText": "請從競技場首頁重新連線。"
 		},
 		{
 			"messageCode": "ColosseumCancel",
-			"messageText": "Cancel"
+			"messageText": "取消"
 		},
 		{
 			"messageCode": "ColosseumWithdraw",
-			"messageText": "Opponent dropped the battle request"
+			"messageText": "對方取消對戰委託。"
 		},
 		{
 			"messageCode": "ColosseumSelect",
-			"messageText": "Please select another opponent"
+			"messageText": "請選擇其他對戰對手。"
 		},
 		{
 			"messageCode": "ColosseumNotEntry",
-			"messageText": "No Entries"
+			"messageText": "未報名"
 		},
 		{
 			"messageCode": "ColosseumNetworkError",
-			"messageText": "Connection lost.\nReturning to party screen."
+			"messageText": "連線已中斷，\n返回整編隊伍畫面。"
 		},
 		{
 			"messageCode": "ColosseumMockInputCode",
-			"messageText": "Enter Code"
+			"messageText": "輸入代碼"
 		},
 		{
 			"messageCode": "ColosseumMockLockTitle",
-			"messageText": "This user has not yet unlocked the Colosseum."
+			"messageText": "該用戶未開放競技場。"
 		},
 		{
 			"messageCode": "ColosseumMockLockInfo",
-			"messageText": "Select an opponent who has unlocked the Colosseum."
+			"messageText": "請指定已開放競技場的對戰對手。"
 		},
 		{
 			"messageCode": "ColosseumMockInvitation",
-			"messageText": "{0} invited you to a Mock Battle."
+			"messageText": "{0}邀請您參加模擬戰。"
 		},
 		{
 			"messageCode": "ColosseumMockUserCode",
-			"messageText": "Enter User Code"
+			"messageText": "輸入用戶碼"
 		},
 		{
 			"messageCode": "ColosseumMockUserCodeInfo",
-			"messageText": "Enter friend's User Code\nand send a request"
+			"messageText": "請輸入朋友的用戶碼，\n進行申請。"
 		},
 		{
 			"messageCode": "ColosseumMockNotFoundTitle",
-			"messageText": "Nonexistent User Code"
+			"messageText": "此用戶碼不存在。"
 		},
 		{
 			"messageCode": "ColosseumMockNotFoundInfo",
-			"messageText": "Please re-enter a valid User Code"
+			"messageText": "請重新輸入正確的用戶碼。"
 		},
 		{
 			"messageCode": "ColosseumRankTitle",
-			"messageText": "RANKING"
+			"messageText": "排行榜"
 		},
 		{
 			"messageCode": "ColosseumRankRate",
-			"messageText": "{0}W {1}L Win Rate {2}%"
+			"messageText": "{0}戰{1}勝 獲勝率{2}%"
 		},
 		{
 			"messageCode": "ColosseumRankOutside",
-			"messageText": "No service"
+			"messageText": "未進榜"
 		},
 		{
 			"messageCode": "ColosseumRankNotFound",
-			"messageText": "You do not yet have a Ranking."
+			"messageText": "尚無排行榜。"
 		},
 		{
 			"messageCode": "ExchangeTitle",
-			"messageText": "Exchange"
+			"messageText": "交換所"
 		},
 		{
 			"messageCode": "ExchangeTimeLimit",
-			"messageText": "[Expiration Date] {0}"
+			"messageText": "【有效期限】{0}"
 		},
 		{
 			"messageCode": "ExchangeRemaining",
-			"messageText": "Remaining"
+			"messageText": "尚餘"
 		},
 		{
 			"messageCode": "ExchangeLimitless",
-			"messageText": "Unlimited"
+			"messageText": "無限制"
 		},
 		{
 			"messageCode": "ExchangeConfirmTitle",
-			"messageText": "Confirm Exchange"
+			"messageText": "確認交換"
 		},
 		{
 			"messageCode": "ExchangeConfirmInfo",
-			"messageText": "Spend {1}{2} {0}\nin exchange for {3}?"
+			"messageText": "要消耗{1}{2}{0}\n以交換{3}嗎？"
 		},
 		{
 			"messageCode": "ExchangeSuccessTitle",
-			"messageText": "Claim Exchanged Item(s)"
+			"messageText": "領取交換道具"
 		},
 		{
 			"messageCode": "ExchangeSuccessInfo",
-			"messageText": "Sent {0} x {1} as a present"
+			"messageText": "贈予{0}×{1}。"
 		},
 		{
 			"messageCode": "ExchangeFailedTitle",
-			"messageText": "Failure"
+			"messageText": "交換失敗"
 		},
 		{
 			"messageCode": "ExchangeFailedInfo",
-			"messageText": "Exchange has failed."
+			"messageText": "交換失敗。"
 		},
 		{
 			"messageCode": "ExchangeTermTitle",
-			"messageText": "Incorrect time"
+			"messageText": "期間外"
 		},
 		{
 			"messageCode": "ExchangeTermInfo",
-			"messageText": "Not open."
+			"messageText": "目前未舉辦。"
 		},
 		{
 			"messageCode": "ExchangeShortageTitle",
-			"messageText": "Not enough items"
+			"messageText": "道具不足"
 		},
 		{
 			"messageCode": "ExchangeShortageInfo",
-			"messageText": "Not enough items to exchange."
+			"messageText": "所需道具不足，無法交換。"
 		},
 		{
 			"messageCode": "ExchangeLimitTitle",
-			"messageText": "Exchange Limit"
+			"messageText": "交換限制"
 		},
 		{
 			"messageCode": "ExchangeLimitInfo",
-			"messageText": "Reached Max Limit"
+			"messageText": "已達交換上限，無法交換。"
 		},
 		{
 			"messageCode": "ExchangeCloseTitle",
-			"messageText": "Closed"
+			"messageText": "期間結束"
 		},
 		{
 			"messageCode": "ExchangeCloseInfo",
-			"messageText": "Exchange period has ended."
+			"messageText": "交換所期間已結束。"
 		},
 		{
 			"messageCode": "PossessionOverGasha",
-			"messageText": "House is too full to capture more Digimon.\nEnhance or Release some to make room."
+			"messageText": "小屋的數碼寶貝持有數已達上限，無法捕捉。\n請進行強化或別離，以減少持有數。"
 		},
 		{
 			"messageCode": "PossessionOverQuest",
-			"messageText": "House is too full to go on a Quest.\nEnhance or Release some Digimon."
+			"messageText": "小屋的數碼寶貝持有數已達上限，無法前往冒險。\n請進行強化或別離，以減少持有數。"
 		},
 		{
 			"messageCode": "PossessionOverPresent",
-			"messageText": "House is too full to claim more Digimon.\nEnhance or Release some to make room."
+			"messageText": "小屋的數碼寶貝持有數已達上限，無法領取。\n請進行強化或別離，以減少持有數。"
 		},
 		{
 			"messageCode": "StaminaRecoveryTitle",
-			"messageText": "Restore Stamina"
+			"messageText": "回復體力"
 		},
 		{
 			"messageCode": "StaminaRecoveryExecution",
-			"messageText": "Use"
+			"messageText": "使用"
 		},
 		{
 			"messageCode": "StaminaRecoveryCompleted",
-			"messageText": "Stamina was restored."
+			"messageText": "已回復體力。"
 		},
 		{
 			"messageCode": "StaminaShortageTitle",
-			"messageText": "Not Enough Stamina"
+			"messageText": "體力不足"
 		},
 		{
 			"messageCode": "StaminaShortageInfo",
-			"messageText": "Not enough Stamina.\nUse {0} DigiStones to restore Stamina?\nStamina {1:D} -> {2:D}\nDigiStones Owned: {3:D}"
+			"messageText": "體力不足。\n要使用{0}個數碼石回復嗎？\n體力 {1:D} -> {2:D}\n數碼石持有數：{3:D}"
 		},
 		{
 			"messageCode": "StaminaShortageGoShop",
-			"messageText": "Not enough Stamina.\nYou are out of DigiStones.\n*You can restore your Stamina by using {0} DigiStones."
+			"messageText": "體力不足。\n未持有數碼石。\n※使用{0}個數碼石即可回復。"
 		},
 		{
 			"messageCode": "RecruitTitleNationwide",
-			"messageText": "Recruitment Notice (General)"
+			"messageText": "招募板（全國）"
 		},
 		{
 			"messageCode": "RecruitTitleFriend",
-			"messageText": "Recruitment Notice (Friends)"
+			"messageText": "招募板（好友）"
 		},
 		{
 			"messageCode": "RecruitNone",
-			"messageText": "No parties are being recruited"
+			"messageText": "沒有隊伍招募"
 		},
 		{
 			"messageCode": "Recruit-01",
@@ -2614,139 +2614,139 @@
 		},
 		{
 			"messageCode": "Recruit-02",
-			"messageText": "Please enter PASS"
+			"messageText": "請輸入PASS。"
 		},
 		{
 			"messageCode": "Recruit-03",
-			"messageText": "VS"
+			"messageText": "全國"
 		},
 		{
 			"messageCode": "Recruit-04",
-			"messageText": "Locked Quest"
+			"messageText": "未解鎖冒險"
 		},
 		{
 			"messageCode": "Recruit-05",
-			"messageText": "This quest has not been unlocked.\nYou cannot join at this time."
+			"messageText": "欲參加的冒險尚未開放，\n目前無法參加。"
 		},
 		{
 			"messageCode": "RecruitRule-01",
-			"messageText": "Recruitment Notice Settings"
+			"messageText": "設定招募板"
 		},
 		{
 			"messageCode": "RecruitRule-02",
-			"messageText": "Confirm Recruitment Notice Posting"
+			"messageText": "確認招募板刊載"
 		},
 		{
 			"messageCode": "RecruitRule-03",
-			"messageText": "Post"
+			"messageText": "刊載"
 		},
 		{
 			"messageCode": "RecruitRule-04",
-			"messageText": "Do not post"
+			"messageText": "不刊載"
 		},
 		{
 			"messageCode": "RecruitRule-05",
-			"messageText": "Ambiance"
+			"messageText": "氛圍"
 		},
 		{
 			"messageCode": "RecruitRule-06",
-			"messageText": "All Players Welcome"
+			"messageText": "來者不拒"
 		},
 		{
 			"messageCode": "RecruitRule-07",
-			"messageText": "Advanced Players"
+			"messageText": "招募高手"
 		},
 		{
 			"messageCode": "RecruitRule-08",
-			"messageText": "Beginners Welcome"
+			"messageText": "歡迎新手"
 		},
 		{
 			"messageCode": "RecruitRule-09",
-			"messageText": "Nice to meet you!"
+			"messageText": "請多多指教。"
 		},
 		{
 			"messageCode": "RecruitRule-10",
-			"messageText": "Keep comments to 50 characters or less."
+			"messageText": "留言最多可輸入50字。"
 		},
 		{
 			"messageCode": "MultiRecruit-01",
-			"messageText": "[FFF000]PASS[-]▼Tap to copy"
+			"messageText": "點擊[FFF000]PASS[-]▼複製"
 		},
 		{
 			"messageCode": "MultiRecruit-02",
-			"messageText": "Copied Room Pass\nto clipboard"
+			"messageText": "已將房間密碼\n複製到剪貼簿上。"
 		},
 		{
 			"messageCode": "MultiRecruit-03",
-			"messageText": "Cancel Setup"
+			"messageText": "解除準備"
 		},
 		{
 			"messageCode": "MultiRecruit-04",
-			"messageText": "Cancel setup?"
+			"messageText": "要解除準備嗎？"
 		},
 		{
 			"messageCode": "MultiRecruit-05",
-			"messageText": "Prep Complete"
+			"messageText": "準備完成"
 		},
 		{
 			"messageCode": "MultiRecruit-06",
-			"messageText": "Waiting for members..."
+			"messageText": "請稍待其他成員進入。"
 		},
 		{
 			"messageCode": "MultiRecruit-07",
-			"messageText": "Final Confirm"
+			"messageText": "最終確認"
 		},
 		{
 			"messageCode": "MultiRecruit-08",
-			"messageText": "Ready to start the battle?"
+			"messageText": "要開始戰鬥了嗎？"
 		},
 		{
 			"messageCode": "MultiRecruit-09",
-			"messageText": "You can add another member.\nStart battle anyway?"
+			"messageText": "可再加入一名成員，\n要直接開始戰鬥嗎？"
 		},
 		{
 			"messageCode": "MultiRecruit-10",
-			"messageText": "Room Disbanded"
+			"messageText": "解散房間"
 		},
 		{
 			"messageCode": "MultiRecruit-11",
-			"messageText": "This room was disbanded by the owner."
+			"messageText": "主人已解散房間。"
 		},
 		{
 			"messageCode": "MultiRecruit-12",
-			"messageText": "This room was disbanded after expiring."
+			"messageText": "房間到期，已解散。"
 		},
 		{
 			"messageCode": "MultiRecruit-13",
-			"messageText": "Connection lost"
+			"messageText": "連線已中斷。"
 		},
 		{
 			"messageCode": "MultiRecruit-14",
-			"messageText": "Left room due to lost connection"
+			"messageText": "連線中斷，已從房間退出。"
 		},
 		{
 			"messageCode": "MultiRecruitFriend-01",
-			"messageText": "No available friends."
+			"messageText": "沒有可送出訊息的好友。"
 		},
 		{
 			"messageCode": "MultiRecruitFriend-02",
-			"messageText": "Invite"
+			"messageText": "邀請"
 		},
 		{
 			"messageCode": "MultiRecruitFriend-03",
-			"messageText": "Select All"
+			"messageText": "選擇全部"
 		},
 		{
 			"messageCode": "MultiRecruitFriend-04",
-			"messageText": "Clear All"
+			"messageText": "解除全部"
 		},
 		{
 			"messageCode": "MultiRecruitFriend-05",
-			"messageText": "Sent"
+			"messageText": "已送出"
 		},
 		{
 			"messageCode": "MultiRecruitFriend-06",
-			"messageText": "Join Request Sent"
+			"messageText": "已送出參加委託。"
 		},
 		{
 			"messageCode": "CharaIconNone",
@@ -2754,19 +2754,19 @@
 		},
 		{
 			"messageCode": "CharaIcon-01",
-			"messageText": "Can Digivolve"
+			"messageText": "可進化"
 		},
 		{
 			"messageCode": "CharaIcon-02",
-			"messageText": "Can't Digivolve"
+			"messageText": "不可進化"
 		},
 		{
 			"messageCode": "CharaIcon-03",
-			"messageText": "Training"
+			"messageText": "養成中"
 		},
 		{
 			"messageCode": "CharaIcon-04",
-			"messageText": "Forming\nParty"
+			"messageText": "隊伍\n整編中"
 		},
 		{
 			"messageCode": "CharaStatus-01",
@@ -2778,23 +2778,23 @@
 		},
 		{
 			"messageCode": "CharaStatus-03",
-			"messageText": "*N/A"
+			"messageText": "※無適用對象"
 		},
 		{
 			"messageCode": "CharaStatus-04",
-			"messageText": "DigiEgg"
+			"messageText": "數碼蛋"
 		},
 		{
 			"messageCode": "CharaStatus-05",
-			"messageText": "DigiEgg (Blue)"
+			"messageText": "數碼蛋(藍)"
 		},
 		{
 			"messageCode": "CharaStatus-06",
-			"messageText": "DigiEgg (Red)"
+			"messageText": "數碼蛋(紅)"
 		},
 		{
 			"messageCode": "CharaStatus-07",
-			"messageText": "DigiEgg (Green) "
+			"messageText": "數碼蛋(綠) "
 		},
 		{
 			"messageCode": "CharaStatus-08",
@@ -2810,7 +2810,7 @@
 		},
 		{
 			"messageCode": "CharaStatus-11",
-			"messageText": "LV"
+			"messageText": "Lv"
 		},
 		{
 			"messageCode": "CharaStatus-12",
@@ -2830,123 +2830,123 @@
 		},
 		{
 			"messageCode": "CharaStatus-16",
-			"messageText": "LUCK"
+			"messageText": "運氣"
 		},
 		{
 			"messageCode": "CharaStatus-17",
-			"messageText": "Friendship"
+			"messageText": "友情度"
 		},
 		{
 			"messageCode": "CharaStatus-18",
-			"messageText": "MAX"
+			"messageText": "最高"
 		},
 		{
 			"messageCode": "CharaStatus-19",
-			"messageText": "Signature Skill"
+			"messageText": "固定技"
 		},
 		{
 			"messageCode": "CharaStatus-20",
-			"messageText": "Legacy Skill"
+			"messageText": "繼承技"
 		},
 		{
 			"messageCode": "CharaStatus-21",
-			"messageText": "Leader Skill"
+			"messageText": "隊長技能"
 		},
 		{
 			"messageCode": "CharaStatus-22",
-			"messageText": "Resist"
+			"messageText": "抗性"
 		},
 		{
 			"messageCode": "CharaDetailsTitle",
-			"messageText": "Details"
+			"messageText": "數碼寶貝詳細資訊"
 		},
 		{
 			"messageCode": "CharaDetailsFullScreen",
-			"messageText": "Fullscreen"
+			"messageText": "全螢幕"
 		},
 		{
 			"messageCode": "CharaDetailsExp",
-			"messageText": "{0} EXP to next level"
+			"messageText": "尚餘{0}EXP即可LvUP"
 		},
 		{
 			"messageCode": "CharaDetailsNotLock",
-			"messageText": "Can't Lock"
+			"messageText": "不可鎖定"
 		},
 		{
 			"messageCode": "CharaDetailsNotLockBase",
-			"messageText": "This Digimon is selected as a Base and cannot be locked "
+			"messageText": "已選為基本體，無法鎖定。"
 		},
 		{
 			"messageCode": "CharaDetailsNotLockPartner",
-			"messageText": "This Digimon is selected as a Partner and cannot be locked"
+			"messageText": "已選為夥伴，無法鎖定。"
 		},
 		{
 			"messageCode": "CharaDetailsNotLockSale",
-			"messageText": "This Digimon is selected for Release and cannot be locked"
+			"messageText": "已選為別離對象，無法鎖定。"
 		},
 		{
 			"messageCode": "Sort-01",
-			"messageText": "Currently: {0}"
+			"messageText": "現在：{0}"
 		},
 		{
 			"messageCode": "Sort-02",
-			"messageText": "By ATK"
+			"messageText": "ATK順序"
 		},
 		{
 			"messageCode": "Sort-03",
-			"messageText": "By DEF"
+			"messageText": "DEF順序"
 		},
 		{
 			"messageCode": "Sort-04",
-			"messageText": "By HP"
+			"messageText": "HP順序"
 		},
 		{
 			"messageCode": "Sort-05",
-			"messageText": "By LV"
+			"messageText": "Lv順序"
 		},
 		{
 			"messageCode": "Sort-06",
-			"messageText": "By S-ATK"
+			"messageText": "S-ATK順序"
 		},
 		{
 			"messageCode": "Sort-07",
-			"messageText": "By S-DEF"
+			"messageText": "S-DEF順序"
 		},
 		{
 			"messageCode": "Sort-08",
-			"messageText": "By SPD"
+			"messageText": "SPD順序"
 		},
 		{
 			"messageCode": "Sort-09",
-			"messageText": "LUCK"
+			"messageText": "運氣順序"
 		},
 		{
 			"messageCode": "Sort-10",
-			"messageText": "AWKN"
+			"messageText": "覺醒順序"
 		},
 		{
 			"messageCode": "Sort-11",
-			"messageText": "TRIBE"
+			"messageText": "種族順序"
 		},
 		{
 			"messageCode": "Sort-12",
-			"messageText": "EVOL"
+			"messageText": "進化順序"
 		},
 		{
 			"messageCode": "Sort-13",
-			"messageText": "NEW"
+			"messageText": "取得順序"
 		},
 		{
 			"messageCode": "Sort-14",
-			"messageText": "FRND"
+			"messageText": "友情度順序"
 		},
 		{
 			"messageCode": "BattleComebackTitle",
-			"messageText": "Resume"
+			"messageText": "回到戰鬥"
 		},
 		{
 			"messageCode": "BattleComebackInfo",
-			"messageText": "Your battle was interrupted.\nReturn to the battle?\n*Spent DigiStones will not be returned\nif battle is not resumed."
+			"messageText": "上次戰鬥中斷。\n要重新開啟戰鬥嗎？\n※若不重新開啟，已消耗的數碼石不會恢復。"
 		},
 		{
 			"messageCode": "BattleUI-01",
@@ -2958,147 +2958,147 @@
 		},
 		{
 			"messageCode": "BattleUI-03",
-			"messageText": "EXP Earned"
+			"messageText": "獲得EXP"
 		},
 		{
 			"messageCode": "BattleUI-04",
-			"messageText": "Earned"
+			"messageText": "獲得"
 		},
 		{
 			"messageCode": "BattleUI-05",
-			"messageText": "Retire"
+			"messageText": "棄權"
 		},
 		{
 			"messageCode": "BattleUI-06",
-			"messageText": "If you retire, you will not receive any EXP, Clusters,\nor items earned.\nAre you sure you want to retire?"
+			"messageText": "一旦棄權，將無法獲得經驗值、\n數碼碎片和道具。\n確定要棄權嗎？"
 		},
 		{
 			"messageCode": "BattleUI-07",
-			"messageText": "Continue"
+			"messageText": "接關"
 		},
 		{
 			"messageCode": "BattleUI-08",
-			"messageText": "Revive for {0} DigiStones"
+			"messageText": "使用{0}個數碼石即可復活。"
 		},
 		{
 			"messageCode": "BattleUI-09",
-			"messageText": "You can continue for {0} DigiStones.\n*If you give up, any DigiStones about to be used for revives will not be spent."
+			"messageText": "使用{0}個數碼石即可接關。\n※若放棄戰鬥，將不會消耗復活預約用的數碼石。"
 		},
 		{
 			"messageCode": "BattleUI-10",
-			"messageText": "Not enough DigiStones to revive"
+			"messageText": "數碼石不足，無法復活。"
 		},
 		{
 			"messageCode": "BattleUI-11",
-			"messageText": "Not enough DigiStones to revive.\n*If you give up, no DigiStones will be spent."
+			"messageText": "數碼石不足，無法復活。\n※若放棄戰鬥，將不會消耗數碼石。"
 		},
 		{
 			"messageCode": "BattleUI-12",
-			"messageText": "Not enough DigiStones to revive.\n[FF0000]*Cannot use Shop during Co-Op battles.[-]"
+			"messageText": "數碼石不足，無法復活。\n[FF0000]※協力戰鬥中無法移動到商店。[-]"
 		},
 		{
 			"messageCode": "BattleUI-13",
-			"messageText": "Give Up"
+			"messageText": "放棄"
 		},
 		{
 			"messageCode": "BattleUI-14",
-			"messageText": "Revive"
+			"messageText": "復活"
 		},
 		{
 			"messageCode": "BattleUI-15",
-			"messageText": "Revive"
+			"messageText": "復活"
 		},
 		{
 			"messageCode": "BattleUI-16",
-			"messageText": "Spend 1 DigiStone to revive?"
+			"messageText": "要消耗1個數碼石復活嗎？"
 		},
 		{
 			"messageCode": "BattleUI-17",
-			"messageText": "Owned"
+			"messageText": "持有"
 		},
 		{
 			"messageCode": "BattleUI-18",
-			"messageText": "Items"
+			"messageText": "擁有"
 		},
 		{
 			"messageCode": "BattleUI-19",
-			"messageText": "GIVE UP"
+			"messageText": "投降"
 		},
 		{
 			"messageCode": "BattleUI-20",
-			"messageText": "Surrendering will count as a defeat.\nAre you sure?"
+			"messageText": "一旦投降即為敗北。\n確定要投降嗎？"
 		},
 		{
 			"messageCode": "BattleUI-21",
-			"messageText": "Your opponent has surrendered. Ending the battle."
+			"messageText": "對手投降，戰鬥結束。"
 		},
 		{
 			"messageCode": "BattleUI-22",
-			"messageText": "Opponent's connection was lost.\nWaiting for them to return.\n{0} second(s) remaining."
+			"messageText": "對手訊號中斷，\n等待對手回到戰鬥。\n尚餘{0}秒。"
 		},
 		{
 			"messageCode": "BattleUI-23",
-			"messageText": "Connection interrupted.\nIf you do not return within the time limit, it will count as a defeat."
+			"messageText": "訊號中斷，\n無法在規定時間內回到戰鬥，即為敗北。"
 		},
 		{
 			"messageCode": "BattleUI-24",
-			"messageText": "Connection lost. Ending battle."
+			"messageText": "訊號已中斷，競技場戰鬥已結束。"
 		},
 		{
 			"messageCode": "BattleUI-25",
-			"messageText": "YOU"
+			"messageText": "您"
 		},
 		{
 			"messageCode": "BattleUI-26",
-			"messageText": "Only the owner\ncan change this."
+			"messageText": "只有主人\n可變更。"
 		},
 		{
 			"messageCode": "BattleUI-27",
-			"messageText": "Connection lost. Ending battle."
+			"messageText": "訊號已中斷，\n戰鬥結束。"
 		},
 		{
 			"messageCode": "BattleUI-28",
-			"messageText": "Owner's connection lost.\nEnding battle."
+			"messageText": "主人的訊號已中斷，\n戰鬥結束。"
 		},
 		{
 			"messageCode": "BattleUI-29",
-			"messageText": "{0} has left."
+			"messageText": "{0}已退出。"
 		},
 		{
 			"messageCode": "BattleUI-30",
-			"messageText": "Owner can take over from here."
+			"messageText": "接下來可由主人操作。"
 		},
 		{
 			"messageCode": "BattleUI-31",
-			"messageText": "*Retired member's Digimon can be controlled by the Owner."
+			"messageText": "※棄權成員的數碼寶貝可由主人操作。"
 		},
 		{
 			"messageCode": "BattleUI-32",
-			"messageText": "Waiting for Continue"
+			"messageText": "等待接關"
 		},
 		{
 			"messageCode": "BattleUI-33",
-			"messageText": "Waiting for the Owner to select Continue.\nPlease wait."
+			"messageText": "正在等待主人選擇接關，\n請稍候片刻。"
 		},
 		{
 			"messageCode": "BattleUI-34",
-			"messageText": "¥"
+			"messageText": "￥"
 		},
 		{
 			"messageCode": "BattleSkillUI-01",
-			"messageText": "{0} AP"
+			"messageText": "AP{0}"
 		},
 		{
 			"messageCode": "BattleSkillUI-02",
-			"messageText": "Not enough AP"
+			"messageText": "AP不足"
 		},
 		{
 			"messageCode": "BattleSkillUI-03",
-			"messageText": "Power"
+			"messageText": "威力"
 		},
 		{
 			"messageCode": "BattleSkillUI-04",
-			"messageText": "ACU"
+			"messageText": "命中率"
 		},
 		{
 			"messageCode": "BattleNotice-01",
@@ -3106,47 +3106,47 @@
 		},
 		{
 			"messageCode": "BattleNotice-02",
-			"messageText": "Turn"
+			"messageText": "回合"
 		},
 		{
 			"messageCode": "BattleNotice-03",
-			"messageText": "AP UP!"
+			"messageText": "AP UP！！"
 		},
 		{
 			"messageCode": "BattleNotice-04",
-			"messageText": "HP restored!"
+			"messageText": "回復HP！！"
 		},
 		{
 			"messageCode": "BattleNotice-05",
-			"messageText": "Leader Skill activated!"
+			"messageText": "發動隊長技能！！"
 		},
 		{
 			"messageCode": "BattleNotice-06",
-			"messageText": "Can't act when asleep!"
+			"messageText": "睡眠中無法行動！"
 		},
 		{
 			"messageCode": "BattleNotice-07",
-			"messageText": "Storing energy!"
+			"messageText": "蓄力中！"
 		},
 		{
 			"messageCode": "BattleNotice-08",
-			"messageText": "Remaining"
+			"messageText": "尚餘"
 		},
 		{
 			"messageCode": "BattleNotice-09",
-			"messageText": "Can't act when stunned!"
+			"messageText": "暈眩中無法行動！"
 		},
 		{
 			"messageCode": "BattleNotice-10",
-			"messageText": "Can't act when paralyzed!"
+			"messageText": "麻痺中無法行動！"
 		},
 		{
 			"messageCode": "BattleNotice-11",
-			"messageText": "Inputting commands"
+			"messageText": "正在輸入指令"
 		},
 		{
 			"messageCode": "BattleNotice-12",
-			"messageText": "Preparing"
+			"messageText": "開始準備中"
 		},
 		{
 			"messageCode": "BattleNotice-13",
@@ -3154,15 +3154,15 @@
 		},
 		{
 			"messageCode": "BattleNotice-14",
-			"messageText": "Your turn in:"
+			"messageText": "距離您的回合尚餘"
 		},
 		{
 			"messageCode": "BattleNotice-15",
-			"messageText": "Your turn in:"
+			"messageText": "距離您的回合剩下"
 		},
 		{
 			"messageCode": "BattleNotice-16",
-			"messageText": "Your turn!"
+			"messageText": "輪到您了"
 		},
 		{
 			"messageCode": "BattleResult-01",
@@ -3170,43 +3170,43 @@
 		},
 		{
 			"messageCode": "BattleResult-02",
-			"messageText": "Remaining"
+			"messageText": "尚餘"
 		},
 		{
 			"messageCode": "BattleResult-03",
-			"messageText": "Time's up!"
+			"messageText": "時間到"
 		},
 		{
 			"messageCode": "BattleResult-04",
-			"messageText": "You've run out of time to claim your battle prize."
+			"messageText": "時間已到，無法領取戰鬥報酬。"
 		},
 		{
 			"messageCode": "BattleResult-05",
-			"messageText": "Already claimed"
+			"messageText": "待核准"
 		},
 		{
 			"messageCode": "BattleResult-06",
-			"messageText": "Already requested"
+			"messageText": "已申請"
 		},
 		{
 			"messageCode": "BattleResult-07",
-			"messageText": "Friend request"
+			"messageText": "申請好友"
 		},
 		{
 			"messageCode": "BattleResult-08",
-			"messageText": "LV"
+			"messageText": "Lv."
 		},
 		{
 			"messageCode": "FirstClearBonus",
-			"messageText": "You received {0} DigiStones\nfor your first clear!"
+			"messageText": "初次過關報酬，\n獲得{0}個數碼石。"
 		},
 		{
 			"messageCode": "FirstLinkBonus",
-			"messageText": "Completed {0} First Links! Got {2} {1}!"
+			"messageText": "初次Link第{0}人達成！獲得{2}個{1}！"
 		},
 		{
 			"messageCode": "FirstLinkBonusFriend",
-			"messageText": "Completed {0} First Links with friends! Got {2} {1}!"
+			"messageText": "好友初次Link第{0}人達成！獲得{2}個{1}！"
 		},
 		{
 			"messageCode": "TitleUserCode",
@@ -3214,63 +3214,63 @@
 		},
 		{
 			"messageCode": "TitleAppVersion",
-			"messageText": "Version {0}"
+			"messageText": "Version{0}"
 		},
 		{
 			"messageCode": "TitleCacheButton",
-			"messageText": "Cache"
+			"messageText": "快取"
 		},
 		{
 			"messageCode": "TitleOptionButton",
-			"messageText": "Options"
+			"messageText": "選項"
 		},
 		{
 			"messageCode": "CacheClearInfo",
-			"messageText": "Clear your cache?"
+			"messageText": "要清除快取嗎？"
 		},
 		{
 			"messageCode": "AgreementInfo",
-			"messageText": "I have read and accepted BANDAI NAMCO Entertainment's Terms of Service and Privacy Policy"
+			"messageText": "本人已閱讀並接受BANDAI NAMCO Entertainment的《服務條款》和《私隱政策》。"
 		},
 		{
 			"messageCode": "AgreementYesButtonText",
-			"messageText": "Agree"
+			"messageText": "同意"
 		},
 		{
 			"messageCode": "AgreementNoButtonText",
-			"messageText": "Decline"
+			"messageText": "不同意"
 		},
 		{
 			"messageCode": "BaseSelect-08",
-			"messageText": "Select {0} Digimon to Research"
+			"messageText": "選擇研究{0}數碼寶貝"
 		},
 		{
 			"messageCode": "FacilityShopBuild",
-			"messageText": "Construction"
+			"messageText": "建造"
 		},
 		{
 			"messageCode": "FacilityInfoTitle",
-			"messageText": "Facility Name"
+			"messageText": "設施名稱"
 		},
 		{
 			"messageCode": "FacilityInfoDescription",
-			"messageText": "Facility Info"
+			"messageText": "設施說明"
 		},
 		{
 			"messageCode": "FacilityInfoUpgradeButton",
-			"messageText": "Upgrade"
+			"messageText": "升級"
 		},
 		{
 			"messageCode": "MultiRecruit-15",
-			"messageText": "Reconnect?"
+			"messageText": "要重新連線嗎？"
 		},
 		{
 			"messageCode": "FacilityUpgradeTimeTitle",
-			"messageText": "Build time"
+			"messageText": "建造時間"
 		},
 		{
 			"messageCode": "BattleUI-35",
-			"messageText": "Surrender"
+			"messageText": "投 降"
 		},
 		{
 			"messageCode": "MultiRecruitQuestStage",
@@ -3282,95 +3282,95 @@
 		},
 		{
 			"messageCode": "Profile-22",
-			"messageText": "Cancel friend registration"
+			"messageText": "解除好友登錄"
 		},
 		{
 			"messageCode": "Profile-23",
-			"messageText": "Cancel request"
+			"messageText": "取消申請"
 		},
 		{
 			"messageCode": "Profile-24",
-			"messageText": "Accept request"
+			"messageText": "核准申請"
 		},
 		{
 			"messageCode": "Profile-25",
-			"messageText": "Cancelling friend request"
+			"messageText": "解除好友登錄"
 		},
 		{
 			"messageCode": "Profile-26",
-			"messageText": "Sending friend request"
+			"messageText": "送出好友申請"
 		},
 		{
 			"messageCode": "Profile-27",
-			"messageText": "Cancelling friend request"
+			"messageText": "取消好友申請"
 		},
 		{
 			"messageCode": "Profile-28",
-			"messageText": "Accepting friend request"
+			"messageText": "核准好友申請"
 		},
 		{
 			"messageCode": "Profile-29",
-			"messageText": "Friend Removal Complete"
+			"messageText": "完成好友登錄解除"
 		},
 		{
 			"messageCode": "Profile-30",
-			"messageText": "Request sent"
+			"messageText": "完成申請送出"
 		},
 		{
 			"messageCode": "Profile-31",
-			"messageText": "Request cancelled"
+			"messageText": "完成申請取消"
 		},
 		{
 			"messageCode": "Profile-32",
-			"messageText": "Friend Registration Complete"
+			"messageText": "完成好友登錄"
 		},
 		{
 			"messageCode": "Profile-33",
-			"messageText": "Friend was removed from list"
+			"messageText": "已解除好友登錄。"
 		},
 		{
 			"messageCode": "Profile-34",
-			"messageText": "Friend request was sent"
+			"messageText": "已送出好友申請。"
 		},
 		{
 			"messageCode": "Profile-35",
-			"messageText": "Friend request was cancelled"
+			"messageText": "已取消好友申請。"
 		},
 		{
 			"messageCode": "Profile-36",
-			"messageText": "Registered as friend"
+			"messageText": "已登錄為好友。"
 		},
 		{
 			"messageCode": "PvpAggregate",
-			"messageText": "Calculating..."
+			"messageText": "計算中……"
 		},
 		{
 			"messageCode": "PvPTopUI-1",
-			"messageText": "Until Colosseum closes:"
+			"messageText": "距離競技場結束剩下"
 		},
 		{
 			"messageCode": "PvPTopUI-2",
-			"messageText": "Battle Log"
+			"messageText": "戰鬥記錄"
 		},
 		{
 			"messageCode": "PvPTopUI-3",
-			"messageText": "Ranking"
+			"messageText": "RANK一覽"
 		},
 		{
 			"messageCode": "PvPTopUI-4",
-			"messageText": "Colosseum Schedule "
+			"messageText": "競技場舉辦時間說明 "
 		},
 		{
 			"messageCode": "PvPTopUI-5",
-			"messageText": "Now open ▶"
+			"messageText": "現在舉辦中▶"
 		},
 		{
 			"messageCode": "PvPTopUI-6",
-			"messageText": "Colosseum Info"
+			"messageText": "競技場說明"
 		},
 		{
 			"messageCode": "BattleUI-37",
-			"messageText": "Stamp"
+			"messageText": "貼圖"
 		},
 		{
 			"messageCode": "GooglePlayGamesObjectsUI-1",
@@ -3382,79 +3382,79 @@
 		},
 		{
 			"messageCode": "TakeOver-14",
-			"messageText": "Log in with Google Play"
+			"messageText": "使用Google Play帳號登入"
 		},
 		{
 			"messageCode": "TakeOver-15",
-			"messageText": "Log in with iCloud"
+			"messageText": "使用iCloud帳號登入"
 		},
 		{
 			"messageCode": "TakeOver-16",
-			"messageText": "Enter Transfer Code"
+			"messageText": "輸入資料轉移碼"
 		},
 		{
 			"messageCode": "TakeOver-17",
-			"messageText": "Issue Transfer Code"
+			"messageText": "發送資料轉移碼"
 		},
 		{
 			"messageCode": "TakeOver-18",
-			"messageText": "Load Backup from Google Play"
+			"messageText": "從Google Play轉移資料"
 		},
 		{
 			"messageCode": "TakeOver-19",
-			"messageText": "This function is only available if\nbackup data has already been created\nusing your Google Play account on another device.\n\nPlease select the Google Play account used to\nsync your game data.\n\n*When the transfer is complete, please be aware that the game data on the original device will be reset."
+			"messageText": "只有已在其他裝置上，\n用Google Play帳號轉移資料者才能使用。\n\n請選擇已同步遊戲資料的Google Play帳號。\n\n※一旦進行資料轉移，將初始化原帳號裝置的遊戲資料，敬請見諒。"
 		},
 		{
 			"messageCode": "TakeOver-20",
-			"messageText": "Sync Data with Google Play"
+			"messageText": "Google Play同步資料"
 		},
 		{
 			"messageCode": "TakeOver-21",
-			"messageText": "You can sync your Google Play account with\nyour game data and back up\nyour game while you play.\n\nThe data you create while playing since\nlast sync until the backup file is complete\nwill also be reflected in the file.\n\n*Caution: Any game data already saved on the synced account will be overwritten."
+			"messageText": "將遊戲資料同步至您的Google Play帳號，\n即可轉移遊戲資訊，繼續進行遊戲。\n\n同步後到資料轉移結束期間的\n遊戲資訊也會一併轉移。\n\n※若同步帳號上已存有遊戲資料，將被覆寫，請特別注意。"
 		},
 		{
 			"messageCode": "TakeOver-22",
-			"messageText": "Load Backup"
+			"messageText": "資料轉移"
 		},
 		{
 			"messageCode": "TakeOver-23",
-			"messageText": "Enter Transfer Code\nissued on old device."
+			"messageText": "請輸入原裝置\n發送的資料轉移碼。"
 		},
 		{
 			"messageCode": "TakeOver-24",
-			"messageText": "Load your backup data\nby entering code into your new device."
+			"messageText": "在新裝置輸入發送的代碼，\n即可轉移資料。"
 		},
 		{
 			"messageCode": "TakeOver-25",
-			"messageText": "Enter Transfer Code\nissued on old device."
+			"messageText": "請輸入原裝置\n發送的資料轉移碼。"
 		},
 		{
 			"messageCode": "TakeOver-26",
-			"messageText": "Copy"
+			"messageText": "複製"
 		},
 		{
 			"messageCode": "PartyStatusChange2",
-			"messageText": "Status"
+			"messageText": "切換\n狀態"
 		},
 		{
 			"messageCode": "MealButtonText",
-			"messageText": "Give Meat"
+			"messageText": "餵肉"
 		},
 		{
 			"messageCode": "BaseChange",
-			"messageText": "Change Base"
+			"messageText": "變更基本體"
 		},
 		{
 			"messageCode": "SystemPossession",
-			"messageText": "Owned"
+			"messageText": "持有"
 		},
 		{
 			"messageCode": "BattleUI-38",
-			"messageText": "Initial Setup"
+			"messageText": "開始準備中"
 		},
 		{
 			"messageCode": "BattleUI-39",
-			"messageText": "Inputting commands"
+			"messageText": "正在輸入指令"
 		},
 		{
 			"messageCode": "CharaTapFriendshipUpStatus",
@@ -3462,15 +3462,15 @@
 		},
 		{
 			"messageCode": "BattleResult-09",
-			"messageText": "Earned {0} {1}!\n"
+			"messageText": "獲得{0} {1}！\n"
 		},
 		{
 			"messageCode": "StatusUpGimmick",
-			"messageText": "Effectiveness UP ↑"
+			"messageText": "效果發動UP↑"
 		},
 		{
 			"messageCode": "StatusDownGimmick",
-			"messageText": "Effectiveness DOWN ↓"
+			"messageText": "效果發動DOWN↓"
 		},
 		{
 			"messageCode": "StaminaOverPoint",
@@ -3482,23 +3482,23 @@
 		},
 		{
 			"messageCode": "Garden-13",
-			"messageText": "23 hr 59 min until Digivolution"
+			"messageText": "距離進化還有23時59分"
 		},
 		{
 			"messageCode": "CaptureTitle",
-			"messageText": "Capture"
+			"messageText": "捕捉"
 		},
 		{
 			"messageCode": "BattleResult-10",
-			"messageText": "LV {0}"
+			"messageText": "Lv.{0}"
 		},
 		{
 			"messageCode": "Succession-01",
-			"messageText": "Base Digimon"
+			"messageText": "基本體數碼寶貝"
 		},
 		{
 			"messageCode": "Succession-02",
-			"messageText": "Required"
+			"messageText": "所需"
 		},
 		{
 			"messageCode": "SystemItemCount",
@@ -3506,487 +3506,487 @@
 		},
 		{
 			"messageCode": "SystemItemCount2",
-			"messageText": "x {0}"
+			"messageText": "x{0}"
 		},
 		{
 			"messageCode": "PossessionOverGashaUpgrade",
-			"messageText": "House is too full to capture more Digimon.\nUpgrade your Storage,\nEnhance or Release some to make room."
+			"messageText": "小屋的數碼寶貝持有數已達上限，無法捕捉。\n請升級小屋，\n或進行強化、別離，以減少持有數。"
 		},
 		{
 			"messageCode": "PossessionOverQuestUpgrade",
-			"messageText": "House is too full to go on a Quest.\nUpgrade your Storage,\nEnhance or Release some Digimon."
+			"messageText": "小屋的數碼寶貝持有數已達上限，無法前往冒險。\n請升級小屋，\n或進行強化、別離，以減少持有數。"
 		},
 		{
 			"messageCode": "PossessionOverPresentUpgrade",
-			"messageText": "House is too full to claim more Digimon.\nUpgrade your Storage,\nEnhance or Release some to make room."
+			"messageText": "小屋的數碼寶貝持有數已達上限，無法領取。\n請升級小屋，\n或進行強化、別離，以減少持有數。"
 		},
 		{
 			"messageCode": "AgreementMinorsTitle",
-			"messageText": "Parent or Guardian's Permission"
+			"messageText": "親權人同意"
 		},
 		{
 			"messageCode": "AgreementMinorsInfo1",
-			"messageText": "Minors must have permission\nbefore purchasing virtual currency or other content."
+			"messageText": "未成年人欲購買虛擬貨幣或遊戲內容時，\n需取得親權人同意。"
 		},
 		{
 			"messageCode": "AgreementMinorsInfo2",
-			"messageText": "*If you do not understand something,\nplease show this screen to your parent or guardian!"
+			"messageText": "※如果看不懂，\n請讓家裡的人看畫面。"
 		},
 		{
 			"messageCode": "AgreementChatTitle",
-			"messageText": "Chat Service Agreement Screen"
+			"messageText": "聊天服務同意畫面"
 		},
 		{
 			"messageCode": "AgreementChatInfo",
-			"messageText": "Use of the chat is subject to our Terms of Service. Offensive or inappropriate behavior is prohibited. Please do not share any personal information such as your name or email address"
+			"messageText": "使用聊天室時請遵從本公司的使用規範，禁止所有攻擊或不適當的行為。此外，請避免與他人分享您的姓名或電子郵件地址等個人資料。"
 		},
 		{
 			"messageCode": "Succession-03",
-			"messageText": "Legacy Skill Name"
+			"messageText": "繼承名稱"
 		},
 		{
 			"messageCode": "ShopAge-07",
-			"messageText": "Register"
+			"messageText": "登錄"
 		},
 		{
 			"messageCode": "ColosseumRankListTitle",
-			"messageText": "Ranking"
+			"messageText": "RANK一覽"
 		},
 		{
 			"messageCode": "ColosseumRankListDP",
-			"messageText": "Current DP:"
+			"messageText": "現在的DP："
 		},
 		{
 			"messageCode": "ColosseumRankListNeedTitle",
-			"messageText": "Required DP"
+			"messageText": "所需DP"
 		},
 		{
 			"messageCode": "ColosseumRankListNeedInfo",
-			"messageText": "{0} ~ {1}"
+			"messageText": "{0}～{1}"
 		},
 		{
 			"messageCode": "BattleUI-40",
-			"messageText": "Clusters Earned"
+			"messageText": "獲得數碼碎片"
 		},
 		{
 			"messageCode": "SystemCurrencyMark",
-			"messageText": "¥ {0:#,0}"
+			"messageText": "￥{0:#,0}"
 		},
 		{
 			"messageCode": "BattleResult-11",
-			"messageText": "Stamina"
+			"messageText": "體力"
 		},
 		{
 			"messageCode": "BattleResult-12",
-			"messageText": "Repeat"
+			"messageText": "再一次"
 		},
 		{
 			"messageCode": "BattleResult-13",
-			"messageText": "Next"
+			"messageText": "下一個"
 		},
 		{
 			"messageCode": "ShopBuyButton",
-			"messageText": "Buy"
+			"messageText": "購買"
 		},
 		{
 			"messageCode": "ChipInstalling-01",
-			"messageText": "Install Chips"
+			"messageText": "裝備晶片"
 		},
 		{
 			"messageCode": "ChipInstalling-02",
-			"messageText": "Select Base Digimon to Install Chips"
+			"messageText": "選擇裝備晶片的基本體數碼寶貝"
 		},
 		{
 			"messageCode": "ChipInstalling-03",
-			"messageText": "No Chip installed.\nInstall a Chip?"
+			"messageText": "未裝備晶片。\n要立刻裝備嗎？"
 		},
 		{
 			"messageCode": "ChipInstalling-04",
-			"messageText": "Install"
+			"messageText": "裝備"
 		},
 		{
 			"messageCode": "ChipInstalling-05",
-			"messageText": "Expansion"
+			"messageText": "擴張"
 		},
 		{
 			"messageCode": "ChipInstalling-06",
-			"messageText": "Use {0} Expansion Patches for an Expansion?"
+			"messageText": "要使用{0}張擴張修正檔擴張嗎？"
 		},
 		{
 			"messageCode": "ChipInstalling-07",
-			"messageText": "You can use items for an Expansion.\nAdd an Expansion?"
+			"messageText": "使用道具即可擴張。\n要擴張嗎？"
 		},
 		{
 			"messageCode": "ChipInstalling-08",
-			"messageText": "Expand"
+			"messageText": "擴張"
 		},
 		{
 			"messageCode": "ChipInstalling-09",
-			"messageText": "Chip Removal"
+			"messageText": "卸除晶片"
 		},
 		{
 			"messageCode": "ChipInstalling-10",
-			"messageText": "The requirements for Expansion have not been met.\nYou can add an Expansion by {0}."
+			"messageText": "未滿足擴張條件，\n透過{0}即可擴張。"
 		},
 		{
 			"messageCode": "ExchangeCanNum",
-			"messageText": "Exch Avail"
+			"messageText": "可交換次數"
 		},
 		{
 			"messageCode": "ExchangeNeedNum",
-			"messageText": "Required"
+			"messageText": "所需數"
 		},
 		{
 			"messageCode": "ExchangeButtonText",
-			"messageText": "Exchange"
+			"messageText": "交換"
 		},
 		{
 			"messageCode": "ExchangeLimit",
-			"messageText": "You have made the max number of Exchanges."
+			"messageText": "已達交換上限"
 		},
 		{
 			"messageCode": "Mission-09",
-			"messageText": "PRIZE"
+			"messageText": "報酬"
 		},
 		{
 			"messageCode": "Present-11",
-			"messageText": "Claim"
+			"messageText": "領取"
 		},
 		{
 			"messageCode": "Present-12",
-			"messageText": "Claim All"
+			"messageText": "全部領取"
 		},
 		{
 			"messageCode": "FarmEditStockCount",
-			"messageText": "In Storage:"
+			"messageText": "收納數："
 		},
 		{
 			"messageCode": "FarmEditStockTime",
-			"messageText": "Build time:"
+			"messageText": "建造時間："
 		},
 		{
 			"messageCode": "SystemButtonSell",
-			"messageText": "Sell"
+			"messageText": "賣出"
 		},
 		{
 			"messageCode": "SystemButtonPlace",
-			"messageText": "Layout"
+			"messageText": "配置"
 		},
 		{
 			"messageCode": "SaleCautionChip",
-			"messageText": "*Chips that were installed are stored in the chips list."
+			"messageText": "※裝備的晶片會收納進晶片一覽之中。"
 		},
 		{
 			"messageCode": "LaboratoryCautionChip",
-			"messageText": "Chips that were installed to base and partner Digimon are stored in the chips list."
+			"messageText": "裝備在基本體、夥伴上的晶片，已收納進晶片一覽之中。"
 		},
 		{
 			"messageCode": "CautionDisappearChip",
-			"messageText": "*Chips that were installed to partner Digimon are stored in the chips list."
+			"messageText": "※裝備在夥伴上的晶片，會收納進晶片一覽之中。"
 		},
 		{
 			"messageCode": "Friend-17",
-			"messageText": "Cancel\nrequest"
+			"messageText": "取消\n申請"
 		},
 		{
 			"messageCode": "ChipSphereTitle",
-			"messageText": "Install Chips"
+			"messageText": "裝備晶片"
 		},
 		{
 			"messageCode": "ChipInstallingImpossible",
-			"messageText": "Can't be installed"
+			"messageText": "不可裝備"
 		},
 		{
 			"messageCode": "ChipReinforceTitle",
-			"messageText": "Chip Enhance"
+			"messageText": "強化晶片"
 		},
 		{
 			"messageCode": "DigimonListTitle",
-			"messageText": "Digimon List"
+			"messageText": "數碼寶貝一覽"
 		},
 		{
 			"messageCode": "TrainingMenuTitle",
-			"messageText": "Training Menu"
+			"messageText": "養成選單"
 		},
 		{
 			"messageCode": "CharaStatus-23",
-			"messageText": "Awaken"
+			"messageText": "覺醒"
 		},
 		{
 			"messageCode": "DegistoneHistory-01",
-			"messageText": "Total Owned"
+			"messageText": "合計持有數"
 		},
 		{
 			"messageCode": "DegistoneHistory-02",
-			"messageText": "Purchased DigiStones"
+			"messageText": "購買數碼石數量"
 		},
 		{
 			"messageCode": "DegistoneHistory-03",
-			"messageText": "Free DigiStones"
+			"messageText": "免費數碼石數量"
 		},
 		{
 			"messageCode": "PresentHistory-01",
-			"messageText": "Presents older than 30 days or exceeding the max of 100 will be deleted."
+			"messageText": "禮物記錄超過30天或100件則會刪除。"
 		},
 		{
 			"messageCode": "TrainingMissingAlertTitle",
-			"messageText": "Dojo not constructed"
+			"messageText": "未建造道場。"
 		},
 		{
 			"messageCode": "TrainingMissingAlertInfo-01",
-			"messageText": "Unable to inherit skills without a Dojo.\nConstruct one from Facilities."
+			"messageText": "沒有「道場」，無法繼承。\n從「設施」建造「道場」吧！"
 		},
 		{
 			"messageCode": "TrainingMissingAlertInfo-02",
-			"messageText": "Unable to upgrade Resistance without a Dojo.\nConstruct one from Facilities."
+			"messageText": "沒有「道場」，無法進行抗性變化。\n從「設施」建造「道場」吧！"
 		},
 		{
 			"messageCode": "ChipInstallingConfirmTitle",
-			"messageText": "Confirm Install"
+			"messageText": "確認裝備晶片"
 		},
 		{
 			"messageCode": "ChipInstallingConfirmInfo",
-			"messageText": "Install chip?\n*Can be enhanced even after equipping."
+			"messageText": "要裝備晶片嗎？\n※裝備後也能強化。"
 		},
 		{
 			"messageCode": "ChipInstallingEvolutionInfo",
-			"messageText": "Digivolve into {0}"
+			"messageText": "進化為{0}"
 		},
 		{
 			"messageCode": "QuestTopTitle",
-			"messageText": "Back to Explore"
+			"messageText": "探索TOP"
 		},
 		{
 			"messageCode": "ChipInstalling-11",
-			"messageText": "Cannot continue.\nUnlock conditions not me."
+			"messageText": "未達成開放條件。\n一旦滿足開放條件，即可開放。"
 		},
 		{
 			"messageCode": "ChipInstalling-12",
-			"messageText": "Remove chip?"
+			"messageText": "要卸除晶片嗎？"
 		},
 		{
 			"messageCode": "ChipInstalling-13",
-			"messageText": "No Chips installed"
+			"messageText": "未裝備晶片"
 		},
 		{
 			"messageCode": "ChipSortModal-01",
-			"messageText": "Sort"
+			"messageText": "排序"
 		},
 		{
 			"messageCode": "ChipSortModal-02",
-			"messageText": "Change"
+			"messageText": "變更"
 		},
 		{
 			"messageCode": "ChipSortModal-03",
-			"messageText": "Reset"
+			"messageText": "重置"
 		},
 		{
 			"messageCode": "ChipSortModal-04",
-			"messageText": "All"
+			"messageText": "全部"
 		},
 		{
 			"messageCode": "ChipSortModal-05",
-			"messageText": "Lowest"
+			"messageText": "升序"
 		},
 		{
 			"messageCode": "ChipSortModal-06",
-			"messageText": "Highest"
+			"messageText": "降序"
 		},
 		{
 			"messageCode": "ChipSortModal-07",
-			"messageText": "Rarity"
+			"messageText": "稀有度順序"
 		},
 		{
 			"messageCode": "ChipSortModal-08",
-			"messageText": "NEW"
+			"messageText": "取得順序"
 		},
 		{
 			"messageCode": "ChipSortModal-09",
-			"messageText": "Group"
+			"messageText": "陣"
 		},
 		{
 			"messageCode": "ChipSortModal-10",
-			"messageText": "Final Status"
+			"messageText": "遺言狀態"
 		},
 		{
 			"messageCode": "ChipSortModal-11",
-			"messageText": "Abnormalities"
+			"messageText": "遺言狀態異常"
 		},
 		{
 			"messageCode": "ChipSortModal-12",
-			"messageText": "Combo"
+			"messageText": "連擊"
 		},
 		{
 			"messageCode": "ChipSortModal-13",
-			"messageText": "Special"
+			"messageText": "特殊"
 		},
 		{
 			"messageCode": "ChipAdministration-01",
-			"messageText": "You have no Chips"
+			"messageText": "目前未持有晶片。"
 		},
 		{
 			"messageCode": "ChipReinforcement-01",
-			"messageText": "Chip Enhance"
+			"messageText": "強化晶片"
 		},
 		{
 			"messageCode": "ChipReinforcementModal-01",
-			"messageText": "Confirm Chip Enhance"
+			"messageText": "確認強化晶片"
 		},
 		{
 			"messageCode": "ChipReinforcementModal-02",
-			"messageText": "Before"
+			"messageText": "強化前"
 		},
 		{
 			"messageCode": "ChipReinforcementModal-03",
-			"messageText": "After"
+			"messageText": "強化後"
 		},
 		{
 			"messageCode": "ChipReinforcementModal-04",
-			"messageText": "Chip Cost"
+			"messageText": "消耗晶片"
 		},
 		{
 			"messageCode": "ChipReinforcementModal-05",
-			"messageText": "Spend Chips to Enhance?\n*Spent Chips will be deleted."
+			"messageText": "要消耗晶片強化嗎？\n※消耗的晶片會消失。"
 		},
 		{
 			"messageCode": "ChipReinforcementModal-06",
-			"messageText": "Not enough Data to Enhance"
+			"messageText": "素材不足，無法強化。"
 		},
 		{
 			"messageCode": "ChipSaleCheck-01",
-			"messageText": "Confirm Chip Sale"
+			"messageText": "確認賣出晶片"
 		},
 		{
 			"messageCode": "ChipSaleCheck-02",
-			"messageText": "The chips above will be sold. Is that okay?\n*Items can be received according to type\nfor chips marked as \"EVENT.\""
+			"messageText": "確定要賣出此晶片？\r\n※賣出記載｢EVENT｣的晶片\r\n會依種類來獲得不同道具。"
 		},
 		{
 			"messageCode": "ChipSaleCheck-03",
-			"messageText": "*Chips over Rank {0} are included."
+			"messageText": "※包含RANK {0}以上的晶片。"
 		},
 		{
 			"messageCode": "BattleResult-14",
-			"messageText": "{0:D3} more points to win a prize!"
+			"messageText": "尚餘{0:D3}PT即可獲得報酬！！"
 		},
 		{
 			"messageCode": "MultiRecruit-16",
-			"messageText": "No Chips are\ninstalled"
+			"messageText": "未裝備\n晶片。"
 		},
 		{
 			"messageCode": "SystemDataMismatchTitle",
-			"messageText": "Data inconsistency"
+			"messageText": "資料不一致性"
 		},
 		{
 			"messageCode": "ChipDataMismatchMesage",
-			"messageText": "A data inconsistency has occurred.\nPlease submit an inquiry if the issue does not resolve.\nCode: CHIP_ERR_{0}"
+			"messageText": "發生資料不一致性。\n若未能解決請詢問客服。\n代碼：CHIP_ERR_{0}"
 		},
 		{
 			"messageCode": "ExchangeMissingAlertTitle",
-			"messageText": "Exchange not yet constructed"
+			"messageText": "未建造交換所。"
 		},
 		{
 			"messageCode": "ExchangeMissingAlertInfo",
-			"messageText": "You do not have an Exchange.\nConstruct one from Facilities."
+			"messageText": "沒有「交換所」。\n從「設施」建造「交換所」吧！"
 		},
 		{
 			"messageCode": "BattleResult-15",
-			"messageText": "[Repeat] These are your Battle settings"
+			"messageText": "【再一次】戰鬥時的設定。"
 		},
 		{
 			"messageCode": "ChipListTitle",
-			"messageText": "Chip List"
+			"messageText": "晶片一覽"
 		},
 		{
 			"messageCode": "ChipFactoryMissingAlertTitle",
-			"messageText": "Chip Factory not yet constructed"
+			"messageText": "未建造晶片工廠。"
 		},
 		{
 			"messageCode": "ChipFactoryMissingAlertInfo-1",
-			"messageText": "Unable to install Chips without a Chip Factory.\nConstruct one from Facilities."
+			"messageText": "沒有「晶片工廠」，無法裝備晶片。\n從「設施」建造「晶片工廠」吧！"
 		},
 		{
 			"messageCode": "ChipFactoryMissingAlertInfo-2",
-			"messageText": "Unable to enhance Chips without a Chip Factory.\nConstruct one from Facilities."
+			"messageText": "沒有「晶片工廠」，無法強化晶片。\n從「設施」建造「晶片工廠」吧！"
 		},
 		{
 			"messageCode": "ChipFactoryMissingAlertInfo-3",
-			"messageText": "Unable to view Chip List without a Chip Factory.\nConstruct one from Facilities."
+			"messageText": "沒有「晶片工廠」，無法打開晶片一覽。\n從「設施」建造「晶片工場」吧！"
 		},
 		{
 			"messageCode": "PointQuest-1",
-			"messageText": "Point Quest Info"
+			"messageText": "積分冒險詳細資訊"
 		},
 		{
 			"messageCode": "PointQuest-2",
-			"messageText": "Point Quest Prize"
+			"messageText": "積分冒險報酬"
 		},
 		{
 			"messageCode": "BattleUI-41",
-			"messageText": "{0} more round(s)"
+			"messageText": "尚餘{0}ROUND"
 		},
 		{
 			"messageCode": "BattleUI-42",
-			"messageText": "Owner has retired.\nEnding the battle."
+			"messageText": "主人棄權，\n戰鬥結束。"
 		},
 		{
 			"messageCode": "FacilityShopCostTitle",
-			"messageText": "Build Cost"
+			"messageText": "建造Cost"
 		},
 		{
 			"messageCode": "FacilityShopBuildNum",
-			"messageText": "Built:"
+			"messageText": "建造數："
 		},
 		{
 			"messageCode": "BattleUI-43",
-			"messageText": "Syncing"
+			"messageText": "同步中"
 		},
 		{
 			"messageCode": "BattleUI-44",
-			"messageText": "Connection lost.\nIt will count as a loss unless you return within the time limit.\n{0} seconds remaining"
+			"messageText": "訊號中斷，\n無法在規定時間內回到戰鬥，即為敗北。\n尚餘{0}秒。"
 		},
 		{
 			"messageCode": "QuestDetailsBonusPoint",
-			"messageText": "BONUS POINT"
+			"messageText": "BONUS"
 		},
 		{
 			"messageCode": "CampaignFarmEndInfo",
-			"messageText": "Campaign has ended."
+			"messageText": "活動已結束。"
 		},
 		{
 			"messageCode": "CampaignFarmStartInfo",
-			"messageText": "Campaign has begun."
+			"messageText": "活動已開始。"
 		},
 		{
 			"messageCode": "CampaignFarmChangeInfo",
-			"messageText": "Campaign details have changed."
+			"messageText": "活動內容已變更。"
 		},
 		{
 			"messageCode": "ChipAdministration-02",
-			"messageText": "Chip List"
+			"messageText": "晶片一覽"
 		},
 		{
 			"messageCode": "ChipAdministration-03",
-			"messageText": "Chip Sale"
+			"messageText": "賣出晶片"
 		},
 		{
 			"messageCode": "PartyFavorite",
-			"messageText": "Favorites"
+			"messageText": "我的最愛"
 		},
 		{
 			"messageCode": "ShopName",
-			"messageText": "Shop"
+			"messageText": "商店"
 		},
 		{
 			"messageCode": "TenCaptureTitle",
-			"messageText": "10-Capture"
+			"messageText": "連續捕捉10次"
 		},
 		{
 			"messageCode": "GotoCahpture",
-			"messageText": "Back to Captures"
+			"messageText": "前往捕捉TOP"
 		},
 		{
 			"messageCode": "SystemDetail",
-			"messageText": "Info"
+			"messageText": "詳細資訊"
 		},
 		{
 			"messageCode": "PointQuest-3",
@@ -3998,11 +3998,11 @@
 		},
 		{
 			"messageCode": "ColosseumTimes",
-			"messageText": "Round {0}"
+			"messageText": "第{0}次"
 		},
 		{
 			"messageCode": "ColosseumRankGetDP",
-			"messageText": "DP Earned"
+			"messageText": "獲得DP"
 		},
 		{
 			"messageCode": "SystemOn",
@@ -4022,31 +4022,31 @@
 		},
 		{
 			"messageCode": "PartyParticipate",
-			"messageText": "Join"
+			"messageText": "參加"
 		},
 		{
 			"messageCode": "PointQuestGetPT",
-			"messageText": "Points Earned"
+			"messageText": "獲得積分"
 		},
 		{
 			"messageCode": "EvolutionUltimateMaterialName",
-			"messageText": "Fragments"
+			"messageText": "碎片"
 		},
 		{
 			"messageCode": "CampaignMedalTakeOverUp",
-			"messageText": "Ability Rate\nx{0}"
+			"messageText": "才能機率\n{0}倍"
 		},
 		{
 			"messageCode": "CampaignLuckUp",
-			"messageText": "Extra Luck Rate\nx{0}"
+			"messageText": "運氣UP機率\n{0}倍"
 		},
 		{
 			"messageCode": "CampaignNowMedalTakeOverUp",
-			"messageText": "Ability Inheritance Rate x{0}"
+			"messageText": "才能繼承機率{0}倍"
 		},
 		{
 			"messageCode": "CampaignNowLuckUp",
-			"messageText": "Extra Luck Rate x{0}"
+			"messageText": "運氣UP機率{0}倍"
 		},
 		{
 			"messageCode": "BattleUI-45",
@@ -4054,87 +4054,87 @@
 		},
 		{
 			"messageCode": "ChipOverGasha",
-			"messageText": "Chip Factory is too full to capture more.\nEnhance or Sell some Chips."
+			"messageText": "晶片工廠的晶片持有數已達上限，無法捕捉。\n請強化或賣出晶片，以減少持有數。"
 		},
 		{
 			"messageCode": "ChipOverQuest",
-			"messageText": "Chip Factory is too full to go on Quest.\nEnhance or Sell some Chips."
+			"messageText": "晶片工廠的晶片持有數已達上限，無法前往冒險。\n請強化或賣出晶片，以減少持有數。"
 		},
 		{
 			"messageCode": "ChipOverPresent",
-			"messageText": "Chip Factory is too full to claim this.\nEnhance or Sell some Chips."
+			"messageText": "晶片工廠的晶片持有數已達上限，無法領取。\n請強化或賣出晶片，以減少持有數。"
 		},
 		{
 			"messageCode": "QuestGimmick",
-			"messageText": "Stage Effects In Operation"
+			"messageText": "關卡效果發動中"
 		},
 		{
 			"messageCode": "BattleUI-46",
-			"messageText": "Pursuit!"
+			"messageText": "追擊！"
 		},
 		{
 			"messageCode": "BattleUI-47",
-			"messageText": "Cover!"
+			"messageText": "保護！"
 		},
 		{
 			"messageCode": "QuestEventReplayConfirm",
-			"messageText": "View again?"
+			"messageText": "要再觀賞一次嗎？"
 		},
 		{
 			"messageCode": "ChipGashaLineup",
-			"messageText": "Featured Chips"
+			"messageText": "出現晶片"
 		},
 		{
 			"messageCode": "CampaignNowTipOff",
-			"messageText": "Clusters Now {0}% OFF"
+			"messageText": "現在數碼碎片{0}%OFF"
 		},
 		{
 			"messageCode": "CampaignStartTitle",
-			"messageText": "Campaign Open"
+			"messageText": "舉辦活動"
 		},
 		{
 			"messageCode": "CampaignStartInfo",
-			"messageText": "Campaign is now open.\nReturning to Farm to update."
+			"messageText": "活動已開始舉辦。\n為了更新活動，請返回農場一趟。"
 		},
 		{
 			"messageCode": "UserDontExistTitle",
-			"messageText": "User doesn't exist."
+			"messageText": "不存在的用戶"
 		},
 		{
 			"messageCode": "UserDontExistInfo",
-			"messageText": "User doesn't exist."
+			"messageText": "這個用戶不存在。"
 		},
 		{
 			"messageCode": "CaptureBonusTitle",
-			"messageText": "Extras"
+			"messageText": "附贈"
 		},
 		{
 			"messageCode": "CaptureBonusItem",
-			"messageText": "Received \n{0}×{1}"
+			"messageText": "已領取\n{0}×{1}"
 		},
 		{
 			"messageCode": "CaptureBonusText",
-			"messageText": "Item sent to your Present Box."
+			"messageText": "道具已送到禮物盒。"
 		},
 		{
 			"messageCode": "QuestEventInfo2",
-			"messageText": "Window to unlock this Quest has ended."
+			"messageText": "冒險解放期間已結束。"
 		},
 		{
 			"messageCode": "CampaignTipOff",
-			"messageText": "Cluster\n{0}% OFF"
+			"messageText": "數碼碎片\n{0}%OFF"
 		},
 		{
 			"messageCode": "GardenGrowMax",
-			"messageText": "Maximum occupancy reached."
+			"messageText": "無法繼續養成。"
 		},
 		{
 			"messageCode": "MealLvUp",
-			"messageText": "+LV{0:000}"
+			"messageText": "+Lv{0:000}"
 		},
 		{
 			"messageCode": "PicturebookProfile",
-			"messageText": "Profile"
+			"messageText": "基本資料"
 		},
 		{
 			"messageCode": "MissionRewardKakeru",
@@ -4142,55 +4142,55 @@
 		},
 		{
 			"messageCode": "LeadReview01Title",
-			"messageText": "AREA 01 cleared! Congratulations!"
+			"messageText": "恭喜您將ＡＲＥＡ01破關！"
 		},
 		{
 			"messageCode": "LeadReview01Info",
-			"messageText": "As a memento of clearing AREA 01,\n you've won an Ultimate Digimon!\n   At this rate, clearing more Quests should\n be a snap for you!  Why not\n commemorate this moment by\n writing us a review?"
+			"messageText": "為了紀念您將AREA01破關，贈送完全體數碼寶貝！\n照這個狀態，不斷將冒險破關吧！\n要不要寫篇評論來紀念過關呢？"
 		},
 		{
 			"messageCode": "LeadReview02Title",
-			"messageText": "Thanks for playing 3 days in a row!"
+			"messageText": "遊戲第3天！感謝您的愛戴！"
 		},
 		{
 			"messageCode": "LeadReview02Info",
-			"messageText": "We appreciate you continuing to be a part of\nDigimon Links! Why not share your\nimpressions with the world in a review?"
+			"messageText": "非常感謝\n您對數碼寶貝Linkz的愛戴！\n要不要在評論分享您的遊戲心得呢？"
 		},
 		{
 			"messageCode": "LeadReview03Title",
-			"messageText": "Congratulations on Digivolving a Mega!"
+			"messageText": "恭喜進化為究極體！"
 		},
 		{
 			"messageCode": "LeadReview03Info",
-			"messageText": "Keep on training your Mega Digimon\nuntil they can tackle the toughest foes!\nWhy not share your impressions of Mega Digivolution with the world in a review?"
+			"messageText": "繼續養成已進化的究極體，\n用強大的數碼寶貝，來挑戰各路強敵吧！\n要不要在評論分享進化為究極體的感動呢？"
 		},
 		{
 			"messageCode": "LeadReview04Title",
-			"messageText": "Congratulations on Digivolving!"
+			"messageText": "恭喜進化！"
 		},
 		{
 			"messageCode": "LeadReview04Info",
-			"messageText": "Keep training and Digivolving your\nDigimon to make them stronger and more\nunique! Why not share your impressions of\nDigivolutions with the world in a review?"
+			"messageText": "繼續強化已進化的數碼寶貝，\n養成只屬於自己的數碼寶貝吧！\n要不要在評論分享進化的感動呢？"
 		},
 		{
 			"messageCode": "OtherHistoryNone",
-			"messageText": "No Log"
+			"messageText": "沒有記錄。"
 		},
 		{
 			"messageCode": "PointResultTextTap",
-			"messageText": "Tap to change"
+			"messageText": "點擊切換"
 		},
 		{
 			"messageCode": "PointResultGetPoint",
-			"messageText": "Total Points Earned"
+			"messageText": "合計獲得POINT"
 		},
 		{
 			"messageCode": "PointResultAllPoint",
-			"messageText": "Total Points"
+			"messageText": "積分"
 		},
 		{
 			"messageCode": "PointResultNextReward",
-			"messageText": "Next Point Prize"
+			"messageText": "下回POINT獲得報酬"
 		},
 		{
 			"messageCode": "PointResultTextPT",
@@ -4198,87 +4198,87 @@
 		},
 		{
 			"messageCode": "CharaIconLv",
-			"messageText": "LV {0}"
+			"messageText": "Lv.{0}"
 		},
 		{
 			"messageCode": "QuestDetailsBoss",
-			"messageText": "Boss Digimon"
+			"messageText": "魔王數碼寶貝"
 		},
 		{
 			"messageCode": "QuestDetailsBossInfo",
-			"messageText": "▼ Tap for details"
+			"messageText": "點擊▼顯示抗性"
 		},
 		{
 			"messageCode": "QuestDetailsDrop",
-			"messageText": "Rewards"
+			"messageText": "出現掉落"
 		},
 		{
 			"messageCode": "QuestDetailsDropInfo",
-			"messageText": "▼ Tap for details"
+			"messageText": "點擊▼顯示詳細資訊"
 		},
 		{
 			"messageCode": "QuestDetailsFirstClear",
-			"messageText": "First Clear Prize"
+			"messageText": "初次過關報酬"
 		},
 		{
 			"messageCode": "QuestDetailsSoloButton",
-			"messageText": "Solo"
+			"messageText": "單人"
 		},
 		{
 			"messageCode": "QuestDetailsMultiButton",
-			"messageText": "CO-OP"
+			"messageText": "協力"
 		},
 		{
 			"messageCode": "SortRefine-01",
-			"messageText": "Leader Skill"
+			"messageText": "持有隊長技能"
 		},
 		{
 			"messageCode": "SortRefine-02",
-			"messageText": "Ability Medal"
+			"messageText": "附才能獎牌"
 		},
 		{
 			"messageCode": "SortRefine-03",
-			"messageText": "Legacy Skill (ATK)"
+			"messageText": "攻擊系繼承技"
 		},
 		{
 			"messageCode": "SortRefine-04",
-			"messageText": "Legacy Skill (SPT)"
+			"messageText": "輔助系繼承技"
 		},
 		{
 			"messageCode": "PartyFavoriteTitle",
-			"messageText": "Registration Complete"
+			"messageText": "完成登錄"
 		},
 		{
 			"messageCode": "PartyFavoriteInfo",
-			"messageText": "Added to favorites."
+			"messageText": "已登錄為我的最愛。"
 		},
 		{
 			"messageCode": "MultiRecruitChat-01",
-			"messageText": "No chat groups available."
+			"messageText": "沒有可送出訊息的聊天群組。"
 		},
 		{
 			"messageCode": "MultiRecruitChat-02",
-			"messageText": "Invite"
+			"messageText": "邀請"
 		},
 		{
 			"messageCode": "MultiRecruitChat-03",
-			"messageText": "Select All"
+			"messageText": "選擇全部"
 		},
 		{
 			"messageCode": "MultiRecruitChat-04",
-			"messageText": "Clear All"
+			"messageText": "解除全部"
 		},
 		{
 			"messageCode": "MultiRecruitChat-05",
-			"messageText": "Sent"
+			"messageText": "已送出"
 		},
 		{
 			"messageCode": "MultiRecruitChat-06",
-			"messageText": "Join Request Sent"
+			"messageText": "已送出參加委託。"
 		},
 		{
 			"messageCode": "PartyMemberChange",
-			"messageText": "Switch"
+			"messageText": "替換"
 		},
 		{
 			"messageCode": "PartyChipTitle",
@@ -4290,43 +4290,43 @@
 		},
 		{
 			"messageCode": "FriendshipUpTitle",
-			"messageText": "Status UP!"
+			"messageText": "狀態提升！"
 		},
 		{
 			"messageCode": "MeatShortCutText1",
-			"messageText": "Max out your Meat Field harvest by using {0} DigiStones?"
+			"messageText": "要使用{0}個數碼石，讓肉田的可收成數增加到上限值嗎？"
 		},
 		{
 			"messageCode": "MeatShortCutText2",
-			"messageText": "A maxed out Meat Field harvest won't fit in your Warehouse. Are you sure?"
+			"messageText": "肉田的可收成數增加到上限值時，倉庫會滿到無法收成。確定要使用嗎？"
 		},
 		{
 			"messageCode": "MeatShortCutText3",
-			"messageText": "You cannot harvest any more Meat. Expand your Warehouse or use your Digivice to feed some to your Digimon."
+			"messageText": "肉田的可收成數已達上限值。請擴張倉庫，或是從Digivice餵食。"
 		},
 		{
 			"messageCode": "MeatShortCutTitle1",
-			"messageText": "Speed Up Meat Fields"
+			"messageText": "肉田時間縮短"
 		},
 		{
 			"messageCode": "MeatShortCutTitle2",
-			"messageText": "Speed Up Meat Fields"
+			"messageText": "肉田時間縮短"
 		},
 		{
 			"messageCode": "MeatShortCutTitle3",
-			"messageText": "Speed Up Meat Fields"
+			"messageText": "肉田時間縮短"
 		},
 		{
 			"messageCode": "CharaDetailsGardenButton",
-			"messageText": "Go to Garden"
+			"messageText": "前往花園"
 		},
 		{
 			"messageCode": "CharaDetailsEvolutionButton",
-			"messageText": "Go to Chart"
+			"messageText": "前往進化圖"
 		},
 		{
 			"messageCode": "EvolutionDiagramTitle",
-			"messageText": "Chart"
+			"messageText": "進化圖"
 		},
 		{
 			"messageCode": "EvolutionDiagramAllButton",
@@ -4334,267 +4334,267 @@
 		},
 		{
 			"messageCode": "EvolutionDiagramBefore",
-			"messageText": "Pre-Digivolution"
+			"messageText": "進化前"
 		},
 		{
 			"messageCode": "EvolutionDiagramAfter",
-			"messageText": "Post-Digivolution"
+			"messageText": "進化後"
 		},
 		{
 			"messageCode": "EvolutionDiagramReturnTop",
-			"messageText": "Back to Chart"
+			"messageText": "前往進化圖TOP"
 		},
 		{
 			"messageCode": "EvolutionDiagram3DButton",
-			"messageText": "Display All"
+			"messageText": "顯示全身"
 		},
 		{
 			"messageCode": "BattleUI-48",
-			"messageText": "Friendship Earned [Leader]"
+			"messageText": "獲得友情度【隊長】"
 		},
 		{
 			"messageCode": "BattleUI-49",
-			"messageText": "Friendship Earned"
+			"messageText": "獲得友情度"
 		},
 		{
 			"messageCode": "TicketQuestLeftNum",
-			"messageText": "{0} more round(s)"
+			"messageText": "尚餘{0}次"
 		},
 		{
 			"messageCode": "TicketGashaLineup",
-			"messageText": "Featured Tickets"
+			"messageText": "出現入場券"
 		},
 		{
 			"messageCode": "PlayLimitQuestRestCT_1",
-			"messageText": "{0}/{1} daily"
+			"messageText": "每日{0}/{1}次"
 		},
 		{
 			"messageCode": "PlayLimitQuestRestCT_2",
-			"messageText": "{0}/{1}"
+			"messageText": "{0}/{1}次"
 		},
 		{
 			"messageCode": "PlayLimitQuestRestCT_3",
-			"messageText": "{0} left"
+			"messageText": "剩下{0}次"
 		},
 		{
 			"messageCode": "QuestPlayLimitNoneTitle",
-			"messageText": "None left"
+			"messageText": "剩餘次數不足"
 		},
 		{
 			"messageCode": "QuestPlayLimitNoneInfo",
-			"messageText": "None left.\nUse {0} DigiStones to restore?\nRemaining: {1} -> {2}"
+			"messageText": "剩餘次數不足。\n要使用{0}個數碼石回復嗎？\n剩餘次數{1}->{2}"
 		},
 		{
 			"messageCode": "DigistoneShortageTitle",
-			"messageText": "Not enough DigiStones"
+			"messageText": "數碼石不足"
 		},
 		{
 			"messageCode": "QuestPlayLimitGoShop",
-			"messageText": "You do not have enough DigiStones to\nrestore any more."
+			"messageText": "數碼石不足，\n無法回復剩餘次數。"
 		},
 		{
 			"messageCode": "QuestPlayLimitTitle",
-			"messageText": "Limited Round Quest"
+			"messageText": "次數限制冒險"
 		},
 		{
 			"messageCode": "QuestPlayLimitZeroInfo",
-			"messageText": "Round limit for this quest was reached."
+			"messageText": "規定次數已結束。"
 		},
 		{
 			"messageCode": "TicketQuestTitle",
-			"messageText": "Ticket Quest"
+			"messageText": "入場券冒險"
 		},
 		{
 			"messageCode": "TicketQuestConfirmInfo",
-			"messageText": "Use Tickets to attempt this Quest?\n*Tickets won't be spent if you retire\n{0} {1} tickets ⇒ {2} tickets"
+			"messageText": "要使用入場券挑戰嗎？\n ※即便棄權也不會消耗入場券。\n{0}  {1}張 ⇒ {2}張"
 		},
 		{
 			"messageCode": "SystemUnowned",
-			"messageText": "None owned"
+			"messageText": "未持有"
 		},
 		{
 			"messageCode": "DigistoneDetileText",
-			"messageText": "Required for Digimon revival, continues, Rare Captures, etc."
+			"messageText": "使數碼寶貝復活、接關和稀有捕捉時所需。"
 		},
 		{
 			"messageCode": "LinkPointDetileText",
-			"messageText": "Points used for Link Captures"
+			"messageText": "Link捕捉時使用的點數。"
 		},
 		{
 			"messageCode": "TipDetileText",
-			"messageText": "Required for building Facilities, Enhancing and Digivolving Digimon, etc."
+			"messageText": "建造設施、強化及進化數碼寶貝時所需。"
 		},
 		{
 			"messageCode": "SortRefine-05",
-			"messageText": "No Leader Skill"
+			"messageText": "未持有隊長技能"
 		},
 		{
 			"messageCode": "SortRefine-06",
-			"messageText": "No Ability Medal"
+			"messageText": "沒有才能獎牌"
 		},
 		{
 			"messageCode": "UseHQMeal",
-			"messageText": "Give Gourmet Meat"
+			"messageText": "餵食高級肉"
 		},
 		{
 			"messageCode": "BuyHQMeal",
-			"messageText": "Buy Gourmet Meat"
+			"messageText": "購買高級肉"
 		},
 		{
 			"messageCode": "UseHQMealMessage",
-			"messageText": "Using one Gourmet Meat.\nThis will max out the Digimon's level\nregardless of current level, Digivolution stage, or Awakening status.\nAre you sure?"
+			"messageText": "使用一份高級肉。\n無論現在等級、成長階段、覺醒值為多少，\n都會達到最高等級，確定要使用嗎？"
 		},
 		{
 			"messageCode": "BuyHQMealMessage",
-			"messageText": "Spending {0} DigiStones to give Gourmet Meat.\nThis will max out the Digimon's level regardless of current level, Digivolution stage, or Awakening status. Are you sure?"
+			"messageText": "消耗{0}個數碼石，餵食高級肉。\n無論現在等級、成長階段、覺醒值為多少，都會達到最高等級，確定要餵食嗎？"
 		},
 		{
 			"messageCode": "UseHQMealTitle",
-			"messageText": "Use Gourmet Meat"
+			"messageText": "使用高級肉"
 		},
 		{
 			"messageCode": "BuyHQMealTitle",
-			"messageText": "Purchase Gourmet Meat"
+			"messageText": "購買高級肉"
 		},
 		{
 			"messageCode": "QuestPlayLimitClear",
-			"messageText": "Clear"
+			"messageText": "過關"
 		},
 		{
 			"messageCode": "QuestPlayLimitBattle",
-			"messageText": "Strike"
+			"messageText": "出擊"
 		},
 		{
 			"messageCode": "PlayLimitQuestRestNone",
-			"messageText": "Finished for the day."
+			"messageText": "今天的配額已結束。"
 		},
 		{
 			"messageCode": "TicketQuestUpdateTime",
-			"messageText": "Acquired {0}"
+			"messageText": "取得{0}"
 		},
 		{
 			"messageCode": "ConsumeUnitMonster",
-			"messageText": "Digimon"
+			"messageText": "隻"
 		},
 		{
 			"messageCode": "ConsumeUnitTicket",
-			"messageText": "tickets"
+			"messageText": "張"
 		},
 		{
 			"messageCode": "ConsumeUnitPlugin",
-			"messageText": "pcs"
+			"messageText": "個"
 		},
 		{
 			"messageCode": "BattleUI-50",
-			"messageText": "[ffff00]{0}[ffffff] Round(s) left"
+			"messageText": "剩下[ffff00]{0}[ffffff]Round"
 		},
 		{
 			"messageCode": "QuestPlayLimitNoneInfoItem",
-			"messageText": "None left.\nUse {1}{2} {0} to restore?\nRemaining: {3} -> {4}"
+			"messageText": "剩餘次數不足。\n要使用{1}{2}{0}回復嗎？？\n剩餘次數{3}->{4}"
 		},
 		{
 			"messageCode": "QuestPlayLimitItemShortInfo",
-			"messageText": "You do not have enough {0} to\nrestore any more."
+			"messageText": "{0}不足，\n無法回復剩餘次數。"
 		},
 		{
 			"messageCode": "QuestNoContinue",
-			"messageText": "No Contest"
+			"messageText": "不接關"
 		},
 		{
 			"messageCode": "QuestClearConditionTitle",
-			"messageText": "Unlock Conditions"
+			"messageText": "開放條件"
 		},
 		{
 			"messageCode": "QuestClearConditionOne",
-			"messageText": "{0} Clear"
+			"messageText": "{0} 過關"
 		},
 		{
 			"messageCode": "QuestClearConditionTwo",
-			"messageText": "{0} Cleared {1} Time(s)"
+			"messageText": "{0}過關 {1}次"
 		},
 		{
 			"messageCode": "QuestClearConditionOR",
-			"messageText": "\n or \n"
+			"messageText": "\n或\n"
 		},
 		{
 			"messageCode": "QuestClearConditionAND",
-			"messageText": "\n and \n"
+			"messageText": "\n和\n"
 		},
 		{
 			"messageCode": "PointQuestRankingNowLabel",
-			"messageText": "Prizes available at current Rank"
+			"messageText": "目前排名可獲得之報酬"
 		},
 		{
 			"messageCode": "PointQuestRankingNextLabel",
-			"messageText": "Prizes available at next Rank"
+			"messageText": "下個排名可獲得之報酬"
 		},
 		{
 			"messageCode": "PointQuestNextPT",
-			"messageText": "Until next Rank"
+			"messageText": "距離下個排名尚餘"
 		},
 		{
 			"messageCode": "MissionTitleBeginner",
-			"messageText": "Beginner Mission"
+			"messageText": "新手任務"
 		},
 		{
 			"messageCode": "GashaLineupCaution",
-			"messageText": "Featured Digimon\n and Notice"
+			"messageText": "出現數碼寶貝\n及注意事項"
 		},
 		{
 			"messageCode": "ChipGashaLineupCaution",
-			"messageText": "Featured Chips\n and Notice"
+			"messageText": "出現晶片\n及注意事項"
 		},
 		{
 			"messageCode": "TicketGashaLineupCaution",
-			"messageText": "Featured Tickets\n and Notice"
+			"messageText": "出現入場券\n及注意事項"
 		},
 		{
 			"messageCode": "PointQuestRankingRankLabel",
-			"messageText": "Place"
+			"messageText": "名"
 		},
 		{
 			"messageCode": "PointQuestRankingTitle",
-			"messageText": "Point Ranking"
+			"messageText": "積分排行榜"
 		},
 		{
 			"messageCode": "PointQuestRankingNotReward",
-			"messageText": "No earnable prizes at current Rank."
+			"messageText": "目前排名無法獲得報酬。"
 		},
 		{
 			"messageCode": "PointQuestRankingTopRank",
-			"messageText": "This prize can be earned at the current highest Rank."
+			"messageText": "目前預定獲得最高級報酬。"
 		},
 		{
 			"messageCode": "QuestClearConditionAND_2",
-			"messageText": " and "
+			"messageText": " 和"
 		},
 		{
 			"messageCode": "NowColosseumScore",
-			"messageText": "DP Earned: {0}"
+			"messageText": "獲得DP：{0}"
 		},
 		{
 			"messageCode": "ColosseumRankLabel",
-			"messageText": "{0} Place"
+			"messageText": "{0}名"
 		},
 		{
 			"messageCode": "ColosseumRankingOfLastTime",
-			"messageText": "Prev"
+			"messageText": "上次"
 		},
 		{
 			"messageCode": "ColosseumRankingOfThisTime",
-			"messageText": "Current"
+			"messageText": "這次"
 		},
 		{
 			"messageCode": "LaboratoryPrecautionChip",
-			"messageText": "*Equipped Chips will be removed\nfrom Base and Partner Digimon."
+			"messageText": "※裝備中的晶片會自動從基本體、夥伴雙方\n身上卸除。"
 		},
 		{
 			"messageCode": "BattleUI-51",
-			"messageText": "[ffff00]{0}[-] Round(s) Left"
+			"messageText": "剩下 [ffff00]{0}[-] ROUND"
 		},
 		{
 			"messageCode": "BattleUI-52",
-			"messageText": "{0} [ff6600]Round(s)[-] [ff6600]Left[-]"
+			"messageText": "[ff6600]剩下[-] {0} [ff6600]ROUND[-]"
 		},
 		{
 			"messageCode": "BattleUI-53",
@@ -4606,71 +4606,71 @@
 		},
 		{
 			"messageCode": "TicketQuestUpdateTime2",
-			"messageText": "{0} Update"
+			"messageText": "{0}更新"
 		},
 		{
 			"messageCode": "AgreementChangedInfo",
-			"messageText": "User Agreement has been updated."
+			"messageText": "服務條款有變更。"
 		},
 		{
 			"messageCode": "ColosseumTotalWinLabel",
-			"messageText": "Total Wins/Losses"
+			"messageText": "勝利次數總和"
 		},
 		{
 			"messageCode": "MyColosseumTotalWinNum",
-			"messageText": "{0} Wins"
+			"messageText": "{0}勝"
 		},
 		{
 			"messageCode": "NextRankupNum",
-			"messageText": "[FF8500FF]{0}[-] more wins to next rank"
+			"messageText": "距離RANK上升尚餘[FF8500FF]{0}[-]勝"
 		},
 		{
 			"messageCode": "BattleNotice-17",
-			"messageText": "Leader Change!"
+			"messageText": "換隊長！！"
 		},
 		{
 			"messageCode": "BattleNotice-18",
-			"messageText": "No Leader Skill"
+			"messageText": "沒有隊長技能"
 		},
 		{
 			"messageCode": "ColosseumRankListNeedTitle2",
-			"messageText": "Wins Required"
+			"messageText": "所需勝利次數"
 		},
 		{
 			"messageCode": "ColosseumRankListTotalWin",
-			"messageText": "Current Wins:"
+			"messageText": "目前勝利次數："
 		},
 		{
 			"messageCode": "MedalInheritTitle",
-			"messageText": "Ability Seeding"
+			"messageText": "才能開花"
 		},
 		{
 			"messageCode": "BaseSelect-09",
-			"messageText": "Select {0} Digimon to Seed Abilities"
+			"messageText": "選擇才能開花{0}數碼寶貝"
 		},
 		{
 			"messageCode": "PartySortieLimitOK",
-			"messageText": "Can Attack"
+			"messageText": "可出擊"
 		},
 		{
 			"messageCode": "PartySortieLimitNG",
-			"messageText": "Can't Attack"
+			"messageText": "不可出擊"
 		},
 		{
 			"messageCode": "MedalInheritAlertTitle",
-			"messageText": "Ability Seeding Alert!"
+			"messageText": "才能開花警告！"
 		},
 		{
 			"messageCode": "MedalInheritAlertInfo",
-			"messageText": "Partner Digimon is Awakened.\nAre you sure you want to use it for Seeding?\n*If you complete the Seeding,\nthe Partner Digimon will vanish"
+			"messageText": "夥伴數碼寶貝已覺醒，\n確定要才能開花嗎？\n※才能開花後，\n夥伴數碼寶貝將會消失。"
 		},
 		{
 			"messageCode": "MedalInheritEnterAlertInfo",
-			"messageText": "No Digimon with Medals."
+			"messageText": "沒有持有獎牌的數碼寶貝。"
 		},
 		{
 			"messageCode": "PartySortieLimitConfirmInfo",
-			"messageText": "Some of these Digimon can't attack\n*If a Guest joins in, you'll be able to attack."
+			"messageText": "包含不可出擊的數碼寶貝。\n※作為好友參加時，即可出擊。"
 		},
 		{
 			"messageCode": "SystemPercent",
@@ -4678,43 +4678,43 @@
 		},
 		{
 			"messageCode": "ColosseumRankingNextReward",
-			"messageText": "more until next Prize"
+			"messageText": "距離下個報酬尚餘"
 		},
 		{
 			"messageCode": "AbilityAlertInfo",
-			"messageText": "Are you sure you want to Seed Abilities?\n*When the Seeding is complete, the Partner Digimon will disappear."
+			"messageText": "確定要才能開花嗎？\n※才能開花後，夥伴數碼寶貝將會消失。"
 		},
 		{
 			"messageCode": "ColosseumListEmpty",
-			"messageText": "Calculating"
+			"messageText": "現在計算中"
 		},
 		{
 			"messageCode": "MedalInherit_NoPossibility",
-			"messageText": "Can't be\nSeeded"
+			"messageText": "不可\n開花"
 		},
 		{
 			"messageCode": "EditUserTitle",
-			"messageText": "Change Title"
+			"messageText": "變更稱號"
 		},
 		{
 			"messageCode": "CurrentUserTitle",
-			"messageText": "Current Title"
+			"messageText": "現在的稱號"
 		},
 		{
 			"messageCode": "SelectedUserTitle",
-			"messageText": "Selected Title"
+			"messageText": "選擇中的稱號"
 		},
 		{
 			"messageCode": "MedalInheritCautionChip",
-			"messageText": "*Chips that were installed to partner Digimon\nare stored in the Chips list."
+			"messageText": "裝備在夥伴上的晶片\n已收納進晶片一覽之中。"
 		},
 		{
 			"messageCode": "MedalInheritPrecautionChip",
-			"messageText": "*Chips installed to partner Digimon\nare stored in the Chips list."
+			"messageText": "※裝備在夥伴上的晶片，將收納進晶片一覽之中。"
 		},
 		{
 			"messageCode": "MedalInheritPrecautionRateZero",
-			"messageText": "*Ability Medals that can't be altered are included."
+			"messageText": "※包含無法變化的才能獎牌。"
 		},
 		{
 			"messageCode": "QuestLimited",
@@ -4722,211 +4722,211 @@
 		},
 		{
 			"messageCode": "ColosseumRewardPercentage",
-			"messageText": "Prize BP x{0}"
+			"messageText": "報酬BP {0}倍"
 		},
 		{
 			"messageCode": "ColosseumAllDayIconText",
-			"messageText": "Open all day!"
+			"messageText": "舉辦一整天！！"
 		},
 		{
 			"messageCode": "ColosseumTitleOnEvent",
-			"messageText": "[Event Now Open!]"
+			"messageText": "【活動舉辦中！】"
 		},
 		{
 			"messageCode": "MedalInheritPrecautionGoldOver",
-			"messageText": "*Gold Ability Medals go up to {0},\nand are determined by order of inheritance > enhancement."
+			"messageText": "※金色的才能獎牌最多可達{0}個，\n並以繼承＞強化的順序進行判定。"
 		},
 		{
 			"messageCode": "Common02_menu_book",
-			"messageText": "Guide"
+			"messageText": "圖鑑"
 		},
 		{
 			"messageCode": "Common02_menu_Chat",
-			"messageText": "Chat"
+			"messageText": "聊天"
 		},
 		{
 			"messageCode": "Common02_menu_ClearingH",
-			"messageText": "Exchange"
+			"messageText": "交換所"
 		},
 		{
 			"messageCode": "Common02_menu_Evolution",
-			"messageText": "Digivolve"
+			"messageText": "進化"
 		},
 		{
 			"messageCode": "Common02_menu_Friend",
-			"messageText": "Friend"
+			"messageText": "好友"
 		},
 		{
 			"messageCode": "Common02_menu_GASHA",
-			"messageText": "Capture"
+			"messageText": "捕捉"
 		},
 		{
 			"messageCode": "Common02_menu_Help",
-			"messageText": "Help"
+			"messageText": "說明"
 		},
 		{
 			"messageCode": "Common02_menu_Notice",
-			"messageText": "News"
+			"messageText": "公告"
 		},
 		{
 			"messageCode": "Common02_menu_Nurture",
-			"messageText": "Training"
+			"messageText": "養成"
 		},
 		{
 			"messageCode": "Common02_menu_Others",
-			"messageText": "Other"
+			"messageText": "其他"
 		},
 		{
 			"messageCode": "Common02_menu_Party",
-			"messageText": "Formation"
+			"messageText": "整編"
 		},
 		{
 			"messageCode": "Common02_menu_Profile",
-			"messageText": "Profile"
+			"messageText": "基本資料"
 		},
 		{
 			"messageCode": "Common02_menu_Quest",
-			"messageText": "Explore"
+			"messageText": "探索"
 		},
 		{
 			"messageCode": "Common02_menu_Setting",
-			"messageText": "Settings"
+			"messageText": "設定"
 		},
 		{
 			"messageCode": "Common02_menu_Shop",
-			"messageText": "Shop"
+			"messageText": "商店"
 		},
 		{
 			"messageCode": "Common02_menu_vs",
-			"messageText": "COLOSSEUM"
+			"messageText": "競技場"
 		},
 		{
 			"messageCode": "Farm_Chip_Installing",
-			"messageText": "Install"
+			"messageText": "裝備"
 		},
 		{
 			"messageCode": "Farm_Chip_Reinforced",
-			"messageText": "Enhance"
+			"messageText": "強化"
 		},
 		{
 			"messageCode": "Farm02_Building_Arousal",
-			"messageText": "Resist\nUpgrade"
+			"messageText": "抗性變化"
 		},
 		{
 			"messageCode": "Farm02_Building_EvoBook",
-			"messageText": "Chart"
+			"messageText": "進化圖"
 		},
 		{
 			"messageCode": "Farm02_Building_Garden",
-			"messageText": "Garden"
+			"messageText": "花園"
 		},
 		{
 			"messageCode": "Farm02_Building_Information",
-			"messageText": "Info"
+			"messageText": "資訊"
 		},
 		{
 			"messageCode": "Farm02_Building_Inheritance",
-			"messageText": "Legacies"
+			"messageText": "繼承"
 		},
 		{
 			"messageCode": "Farm02_Building_List",
-			"messageText": "List"
+			"messageText": "一覽"
 		},
 		{
 			"messageCode": "Farm02_Building_Meal",
-			"messageText": "Food"
+			"messageText": "餵食"
 		},
 		{
 			"messageCode": "Farm02_Building_Mealget",
-			"messageText": "Harvest now"
+			"messageText": "立刻收成"
 		},
 		{
 			"messageCode": "Farm02_Building_plate",
-			"messageText": "Notice"
+			"messageText": "招募板"
 		},
 		{
 			"messageCode": "Farm02_Building_Sale",
-			"messageText": "Sell"
+			"messageText": "賣出"
 		},
 		{
 			"messageCode": "Farm02_Building_Store",
-			"messageText": "Put Away"
+			"messageText": "收納"
 		},
 		{
 			"messageCode": "Farm02_Building_study",
-			"messageText": "Research"
+			"messageText": "研究"
 		},
 		{
 			"messageCode": "Farm02_Building_Talent",
-			"messageText": "Seeding"
+			"messageText": "才能開花"
 		},
 		{
 			"messageCode": "Farm02_Building_Time",
-			"messageText": "Reduce"
+			"messageText": "時間縮短"
 		},
 		{
 			"messageCode": "Farm02_Building_Upgrade",
-			"messageText": "Upgrade"
+			"messageText": "升級"
 		},
 		{
 			"messageCode": "Farm02_closes",
-			"messageText": "Close"
+			"messageText": "關閉"
 		},
 		{
 			"messageCode": "Farm02_D_ClearingH",
-			"messageText": "Exchange"
+			"messageText": "交換所"
 		},
 		{
 			"messageCode": "Farm02_D_Evolutio",
-			"messageText": "Digivolve"
+			"messageText": "進化"
 		},
 		{
 			"messageCode": "Farm02_D_Nurture",
-			"messageText": "Training"
+			"messageText": "養成"
 		},
 		{
 			"messageCode": "Farm02_D_Party",
-			"messageText": "Formation"
+			"messageText": "整編"
 		},
 		{
 			"messageCode": "Farm02_Farm1",
-			"messageText": "Facilities"
+			"messageText": "設施"
 		},
 		{
 			"messageCode": "Farm02_Farm2",
-			"messageText": "Layout"
+			"messageText": "配置"
 		},
 		{
 			"messageCode": "Farm02_Farm3",
-			"messageText": "Warehouse"
+			"messageText": "倉庫"
 		},
 		{
 			"messageCode": "Farm02_Farm4",
-			"messageText": "Shop"
+			"messageText": "商店"
 		},
 		{
 			"messageCode": "Farm02_GASHA_missiontx",
-			"messageText": "Mission"
+			"messageText": "任務"
 		},
 		{
 			"messageCode": "Farm02_GASHA_Present",
-			"messageText": "Present"
+			"messageText": "禮物"
 		},
 		{
 			"messageCode": "Farm02_gasyatx",
-			"messageText": "Capture"
+			"messageText": "捕捉"
 		},
 		{
 			"messageCode": "farm02_Quest_tx",
-			"messageText": "Explore"
+			"messageText": "探索"
 		},
 		{
 			"messageCode": "Farm02_Removal",
-			"messageText": "Storage"
+			"messageText": "收納"
 		},
 		{
 			"messageCode": "Farm02_Save",
-			"messageText": "Save"
+			"messageText": "儲存"
 		},
 		{
 			"messageCode": "Farm02_Vice",
@@ -4934,127 +4934,127 @@
 		},
 		{
 			"messageCode": "Common02_text_Challenge",
-			"messageText": "CHALLENGE"
+			"messageText": "挑戰"
 		},
 		{
 			"messageCode": "Common02_text_Luck",
-			"messageText": "LUCK"
+			"messageText": "運氣"
 		},
 		{
 			"messageCode": "Common02_text_Multi",
-			"messageText": "CO-OP"
+			"messageText": "協力"
 		},
 		{
 			"messageCode": "Common02_txt_guest",
-			"messageText": "GUEST"
+			"messageText": "好友"
 		},
 		{
 			"messageCode": "Common02_txt_owner",
-			"messageText": "OWNER"
+			"messageText": "主人"
 		},
 		{
 			"messageCode": "SuccessionCautionVersionUp",
-			"messageText": "*Version Upgraded Digimon are included"
+			"messageText": "※包含已型態升級的數碼寶貝。"
 		},
 		{
 			"messageCode": "VersionUpTitle",
-			"messageText": "Vers Upgr"
+			"messageText": "型態升級"
 		},
 		{
 			"messageCode": "MissionTitleMidrange",
-			"messageText": "Awakening Mission"
+			"messageText": "中級者任務"
 		},
 		{
 			"messageCode": "AttributeResistance",
-			"messageText": "Attribute Resist"
+			"messageText": "屬性抗性"
 		},
 		{
 			"messageCode": "StatusResistance",
-			"messageText": "Resist Status"
+			"messageText": "狀態抗性"
 		},
 		{
 			"messageCode": "EvoItemList_VersionUp",
-			"messageText": "Upgrade Data"
+			"messageText": "型態升級"
 		},
 		{
 			"messageCode": "EvoItemList_CorePulgin",
-			"messageText": "Core Plugin"
+			"messageText": "核心外掛"
 		},
 		{
 			"messageCode": "EvoItemList_VerUpAttrChange",
-			"messageText": "Re-Factor"
+			"messageText": "型態升級\n抗性變化用"
 		},
 		{
 			"messageCode": "SkillInheritTitle1",
-			"messageText": "Legacy Skill 1"
+			"messageText": "繼承技１"
 		},
 		{
 			"messageCode": "SkillInheritTitle2",
-			"messageText": "Legacy Skill 2"
+			"messageText": "繼承技２"
 		},
 		{
 			"messageCode": "BaseSelect-10",
-			"messageText": "{0} Digimon Selected for Version Upgrade"
+			"messageText": "選擇型態升級{0}數碼寶貝"
 		},
 		{
 			"messageCode": "VersionUpCannotVersionUp",
-			"messageText": "No Digimon can be Version Upgraded."
+			"messageText": "沒有可型態升級的數碼寶貝。"
 		},
 		{
 			"messageCode": "EvoItemList_ItemNone",
-			"messageText": "You do not have the right Digivolution Fuel for this."
+			"messageText": "未持有所需進化素材。"
 		},
 		{
 			"messageCode": "LaboratoryResearchAlertInfo2",
-			"messageText": "This Partner Digimon has already been Version Upgraded.\nAre you sure you want to use it for research?\nIf you complete your Research,\nthe Partner Digimon will vanish."
+			"messageText": "夥伴數碼寶貝已型態升級，\n確定要研究嗎？\n※一旦進行研究，\n夥伴數碼寶貝將會消失。"
 		},
 		{
 			"messageCode": "MedalInheritAlertInfo2",
-			"messageText": "This Partner Digimon has already been Upgraded.\nAre you sure you want to use it for Seeding?\n*If you complete the Ability Seeding,\nthe Partner Digimon will vanish."
+			"messageText": "夥伴數碼寶貝已型態升級，\n確定要才能開花嗎？\n※一旦才能開花，\n夥伴數碼寶貝將會消失。"
 		},
 		{
 			"messageCode": "RemainingPlayCount",
-			"messageText": "Rounds left: {0}"
+			"messageText": "剩餘次數 {0}"
 		},
 		{
 			"messageCode": "VersionUpAlertInfo",
-			"messageText": "Are you sure you want to perform a Version Upgrade?\n*Digimon cannot revert back to a DigiEgg after a Version Upgrade."
+			"messageText": "確定要型態升級嗎？\n※型態升級後，將不會變回數碼蛋。"
 		},
 		{
 			"messageCode": "VersionUpInfo",
-			"messageText": "Version Upgrade!"
+			"messageText": "型態升級！"
 		},
 		{
 			"messageCode": "VersionUpLevelAddInfo",
-			"messageText": "Max LV {0} -> {1}"
+			"messageText": "Lv上限 {0} －＞ {1}"
 		},
 		{
 			"messageCode": "VersionUpSkillAddInfo",
-			"messageText": "Added Legacy Skill Slot!"
+			"messageText": "追加繼承技凹槽！"
 		},
 		{
 			"messageCode": "MissionRewardDetail",
-			"messageText": "Prize Info"
+			"messageText": "報酬詳細資訊"
 		},
 		{
 			"messageCode": "MissionRewardHiddenNum",
-			"messageText": "Other {0}"
+			"messageText": "其他{0}"
 		},
 		{
 			"messageCode": "SaleCautionVersionUp",
-			"messageText": "*Version Upgraded Digimon are included"
+			"messageText": "※包含已型態升級的數碼寶貝。"
 		},
 		{
 			"messageCode": "ReinforcementCautionVersionUp",
-			"messageText": "*Version Upgraded Digimon are included as Enhancement Partners."
+			"messageText": "※強化夥伴中包含已型態升級的數碼寶貝。"
 		},
 		{
 			"messageCode": "LaboratoryResearchAlertInfo3",
-			"messageText": "The Base Digimon is already Version Upgraded.Are you sure you want to do Research?When Research is done, the additional Legacy Skill 2 and any altered Status Resistances will be deleted,the Base Digimon will revert to a +4 DigiEgg."
+			"messageText": "基本體數碼寶貝已型態升級，\n確定要研究嗎？\n※一旦進行研究，追加的繼承技2\n和變化的異常狀態抗性將被刪除，\n變回覺醒+4的數碼蛋，\n夥伴數碼寶貝則會消失。"
 		},
 		{
 			"messageCode": "Common02_txt_event_chip",
-			"messageText": "Super Effective"
+			"messageText": "特效"
 		},
 		{
 			"messageCode": "SystemSlash",
@@ -5062,43 +5062,43 @@
 		},
 		{
 			"messageCode": "CharaStatusType",
-			"messageText": "Status Type:"
+			"messageText": "狀態型："
 		},
 		{
 			"messageCode": "EvolutionStatusConfirm",
-			"messageText": "Status"
+			"messageText": "狀態確認"
 		},
 		{
 			"messageCode": "Mission-10",
-			"messageText": "Prizes sent to Present Box"
+			"messageText": "已贈予以下報酬"
 		},
 		{
 			"messageCode": "ReinforcementLuckChance",
-			"messageText": "* May boost Luck."
+			"messageText": "※可提升運氣。"
 		},
 		{
 			"messageCode": "ReinforcementLuckMax",
-			"messageText": "* Luck is already at max."
+			"messageText": "※運氣已達上限，無法再提升。"
 		},
 		{
 			"messageCode": "AlMightySelectTitle",
-			"messageText": "Select"
+			"messageText": "選擇素材"
 		},
 		{
 			"messageCode": "CharaDetailsResistanceNotice",
-			"messageText": "Duplicate Upgrade. Get 1 random Upgrade on Digivolution."
+			"messageText": "經由抗性變化強化過的抗性已重複，進化時將隨機追加一個抗性。"
 		},
 		{
 			"messageCode": "Farm02_Building_trade",
-			"messageText": "Exchange"
+			"messageText": "交換所\nTOP"
 		},
 		{
 			"messageCode": "ArousalNonVersionUpTitle",
-			"messageText": "No Version Upgrades yet"
+			"messageText": "未持有已型態升級的數碼寶貝"
 		},
 		{
 			"messageCode": "ArousalNonVersionUp",
-			"messageText": "Digimon is already Version Upgraded"
+			"messageText": "狀態抗性變化的對象為已型態升級的數碼寶貝。"
 		},
 		{
 			"messageCode": "SystemFractionWide",
@@ -5106,31 +5106,31 @@
 		},
 		{
 			"messageCode": "CharaIcon-05",
-			"messageText": "CAN GO"
+			"messageText": "可執行"
 		},
 		{
 			"messageCode": "CharaIcon-06",
-			"messageText": "CAN'T GO"
+			"messageText": "不可執行"
 		},
 		{
 			"messageCode": "VerUPPrecautionChip",
-			"messageText": "* Chips will be removed."
+			"messageText": "※裝備中的晶片會自動卸除。"
 		},
 		{
 			"messageCode": "EvolutionDiagramVerUpNotice",
-			"messageText": "* V2 Digimon below Ultimate not shown."
+			"messageText": "※V2數碼寶貝將不會顯示完全體以下的進化前數碼寶貝。"
 		},
 		{
 			"messageCode": "VersionUPCautionChip",
-			"messageText": "Chips of Base returned to Chip List."
+			"messageText": "裝備在基本體的晶片，會收納進晶片一覽裡。"
 		},
 		{
 			"messageCode": "OptionAutoTitle",
-			"messageText": "Save Auto/Speed"
+			"messageText": "儲存自動＆倍速的設定"
 		},
 		{
 			"messageCode": "OptionAutoText",
-			"messageText": "Reuse Auto/Speed settings in next battle"
+			"messageText": "自動和倍速在戰鬥結束時的設定，將會延用至下次戰鬥。"
 		},
 		{
 			"messageCode": "HitIconAttackUp",
@@ -5170,83 +5170,83 @@
 		},
 		{
 			"messageCode": "HitIconCorrectionUpReset",
-			"messageText": "BUFF CLEAR"
+			"messageText": "解除補正UP"
 		},
 		{
 			"messageCode": "HitIconCorrectionDownReset",
-			"messageText": "DEBUFF CLEAR"
+			"messageText": "解除補正DOWN"
 		},
 		{
 			"messageCode": "HitIconHpRevival",
-			"messageText": "HP RESTORE"
+			"messageText": "回復HP"
 		},
 		{
 			"messageCode": "HitIconCounter",
-			"messageText": "COUNTER"
+			"messageText": "反擊"
 		},
 		{
 			"messageCode": "HitIconReflection",
-			"messageText": "REFLECT"
+			"messageText": "反射"
 		},
 		{
 			"messageCode": "HitIconProtect",
-			"messageText": "COVER"
+			"messageText": "保護"
 		},
 		{
 			"messageCode": "HitIconHateUp",
-			"messageText": "GRDG UP"
+			"messageText": "仇恨UP"
 		},
 		{
 			"messageCode": "HitIconHateDown",
-			"messageText": "GRDG DOWN"
+			"messageText": "仇恨DOWN"
 		},
 		{
 			"messageCode": "HitIconPowerCharge",
-			"messageText": "STORE ENERGY"
+			"messageText": "蓄力"
 		},
 		{
 			"messageCode": "HitIconDestruct",
-			"messageText": "SELF-DESTRUCT"
+			"messageText": "自爆"
 		},
 		{
 			"messageCode": "HitIconParalysis",
-			"messageText": "PARALYSIS"
+			"messageText": "麻痺"
 		},
 		{
 			"messageCode": "HitIconPoison",
-			"messageText": "POISON"
+			"messageText": "中毒"
 		},
 		{
 			"messageCode": "HitIconSleep",
-			"messageText": "SLEEP"
+			"messageText": "睡眠"
 		},
 		{
 			"messageCode": "HitIconSkillLock",
-			"messageText": "SKILL LOCK"
+			"messageText": "技能鎖定"
 		},
 		{
 			"messageCode": "HitIconHitRateUp",
-			"messageText": "ACU UP"
+			"messageText": "命中率UP"
 		},
 		{
 			"messageCode": "HitIconHitRateDown",
-			"messageText": "ACU DOWN"
+			"messageText": "命中率DOWN"
 		},
 		{
 			"messageCode": "HitIconInstantDeath",
-			"messageText": "INSTANT DEATH"
+			"messageText": "即死"
 		},
 		{
 			"messageCode": "HitIconConfusion",
-			"messageText": "CONFUSION"
+			"messageText": "混亂"
 		},
 		{
 			"messageCode": "HitIconStun",
-			"messageText": "STUN"
+			"messageText": "暈眩"
 		},
 		{
 			"messageCode": "HitIconSufferStatusClear",
-			"messageText": "Stat Effects Clear"
+			"messageText": "解除異常狀態"
 		},
 		{
 			"messageCode": "HitIconSatisfactionRateUp",
@@ -5258,7 +5258,7 @@
 		},
 		{
 			"messageCode": "HitIconApRevival",
-			"messageText": "AP BOOSTER"
+			"messageText": "AP增幅"
 		},
 		{
 			"messageCode": "HitIconApUp",
@@ -5270,71 +5270,71 @@
 		},
 		{
 			"messageCode": "HitIconApConsumptionUp",
-			"messageText": "AP COST UP"
+			"messageText": "AP消耗UP"
 		},
 		{
 			"messageCode": "HitIconApConsumptionDown",
-			"messageText": "AP COST DOWN"
+			"messageText": "AP消耗DOWN"
 		},
 		{
 			"messageCode": "HitIconCountGuard",
-			"messageText": "GUARD"
+			"messageText": "守備"
 		},
 		{
 			"messageCode": "HitIconTurnBarrier",
-			"messageText": "INVINCIBLE"
+			"messageText": "無敵"
 		},
 		{
 			"messageCode": "HitIconCountBarrier",
-			"messageText": "INVINCIBLE"
+			"messageText": "無敵"
 		},
 		{
 			"messageCode": "HitIconInvalid",
-			"messageText": "NO EFFECT"
+			"messageText": "無效"
 		},
 		{
 			"messageCode": "HitIconDamageRateUp",
-			"messageText": "DMG UP"
+			"messageText": "傷害補正UP"
 		},
 		{
 			"messageCode": "HitIconDamageRateDown",
-			"messageText": "DMG DOWN"
+			"messageText": "傷害補正DOWN"
 		},
 		{
 			"messageCode": "HitIconRegenerate",
-			"messageText": "HP RESTORE"
+			"messageText": "回復HP"
 		},
 		{
 			"messageCode": "HitIconTurnEvasion",
-			"messageText": "DODGE"
+			"messageText": "迴避"
 		},
 		{
 			"messageCode": "HitIconCountEvasion",
-			"messageText": "DODGE"
+			"messageText": "迴避"
 		},
 		{
 			"messageCode": "HitIconApDrain",
-			"messageText": "AP ABSORB"
+			"messageText": "吸收AP"
 		},
 		{
 			"messageCode": "HitIconStageEffectUp",
-			"messageText": "SP BONUS UP"
+			"messageText": "特效獎勵UP"
 		},
 		{
 			"messageCode": "HitIconStageEffectDown",
-			"messageText": "SP BONUS DOWN"
+			"messageText": "特效獎勵DOWN"
 		},
 		{
 			"messageCode": "HitIconStrong",
-			"messageText": "1/2 EFFECT"
+			"messageText": "效果減半"
 		},
 		{
 			"messageCode": "HitIconWeak",
-			"messageText": "SUPER EFFECTIVE"
+			"messageText": "效果超群"
 		},
 		{
 			"messageCode": "HitIconDrain",
-			"messageText": "DRAIN"
+			"messageText": "吸收"
 		},
 		{
 			"messageCode": "HitIconCritical",
@@ -5346,139 +5346,139 @@
 		},
 		{
 			"messageCode": "ResultUnitLimitOver",
-			"messageText": "House is too full of Digimon\nto go on a Quest. Please\nupgrade House, Enhance or\nRelease Digimon."
+			"messageText": "小屋的數碼寶貝持有數已達上限，\n無法前往冒險。\n請升級小屋，\n或進行強化、別離，以減少持有數。"
 		},
 		{
 			"messageCode": "ResultChipLimitOver",
-			"messageText": "You have too many Chips to join a Quest.\nPlease enhance or sell\nsome Chips."
+			"messageText": "晶片工廠的晶片持有數已達上限，\n無法前往冒險。\n請強化或賣出晶片，以減少持有數。"
 		},
 		{
 			"messageCode": "PresentRecieveResultCode-90",
-			"messageText": "You have too many of some items to\naccept these items.\nReload your Item Box\nand try again."
+			"messageText": "其中含有已超過領取期限的道具，\n故無法領取。\n請重新讀取道具箱後，\n再次嘗試。"
 		},
 		{
 			"messageCode": "PresentRecieveResultCode-91",
-			"messageText": "Item does not exist.\nIt may be already accepted.\nReload your Item Box\nand try again."
+			"messageText": "道具不存在，\n可能已領取道具。\n請重新讀取道具箱後，\n再次嘗試。"
 		},
 		{
 			"messageCode": "PresentRecieveResultCode-92",
-			"messageText": "Could not accept due to\nillegal request.\nReload your Item Box\nand try again."
+			"messageText": "處理要求時發生錯誤，\n無法執行領取。\n請重新讀取道具箱後，\n再次嘗試。"
 		},
 		{
 			"messageCode": "Present-13",
-			"messageText": "Accept failed"
+			"messageText": "領取禮物失敗"
 		},
 		{
 			"messageCode": "ResultUnitAndChipLimitOver",
-			"messageText": "Too many Digimon/Chips\nto go on a Quest.\nClear space in House/Chip Factory."
+			"messageText": "數碼寶貝和晶片持有數已達上限，\n無法前往冒險。\n請減少小屋和晶片工廠的持有數。"
 		},
 		{
 			"messageCode": "GoToFarm",
-			"messageText": "To Farm"
+			"messageText": "前往農場"
 		},
 		{
 			"messageCode": "ColosseumRankAGroup",
-			"messageText": "Rank Wins: {0} %: {1}"
+			"messageText": "目前最新排名為{0}戰 獲勝率{1}%"
 		},
 		{
 			"messageCode": "ColosseumRankRewardTitle",
-			"messageText": "Ranking Prize"
+			"messageText": "排名報酬"
 		},
 		{
 			"messageCode": "ColosseumInterimRankRewardName",
-			"messageText": "Interim Prizes"
+			"messageText": "中途排名報酬"
 		},
 		{
 			"messageCode": "ColosseumNotice-1",
-			"messageText": "Rank down due to\nno change in DP"
+			"messageText": "DP在一定時間內未有變動，\nRANK已降級。"
 		},
 		{
 			"messageCode": "ChatLeaveTitle",
-			"messageText": "Remove"
+			"messageText": "確認強制退出"
 		},
 		{
 			"messageCode": "ChatLeaveText",
-			"messageText": "Remove this user?"
+			"messageText": "確定將以下用戶強制退出嗎？"
 		},
 		{
 			"messageCode": "ChatLeaveAdvice",
-			"messageText": "[FF0000] * To prevent from rejoining chat,\nadd user to blocked list.[-]"
+			"messageText": "[FF0000]※若不希望此用戶再次加入聊天室，\n請加入黑名單。[-]"
 		},
 		{
 			"messageCode": "ChatMemberKickTitle",
-			"messageText": "Confirm"
+			"messageText": "確認踢出"
 		},
 		{
 			"messageCode": "ChatMemberKickText",
-			"messageText": "User removed from chat."
+			"messageText": "已將用戶踢出聊天室。"
 		},
 		{
 			"messageCode": "ChatMemberKick",
-			"messageText": "Master removed {0}"
+			"messageText": "{0}已被主人踢出聊天室。"
 		},
 		{
 			"messageCode": "ChatMemberKickNotice",
-			"messageText": "Removed by Master"
+			"messageText": "您已被主人踢出聊天室。"
 		},
 		{
 			"messageCode": "ColosseumDeckTitle",
-			"messageText": "Form Colosseum Party"
+			"messageText": "整編競技場隊伍"
 		},
 		{
 			"messageCode": "ColosseumDeckColosseumParty",
-			"messageText": "Colosseum Party"
+			"messageText": "競技場隊伍"
 		},
 		{
 			"messageCode": "ColosseumDeckChangeMonster",
-			"messageText": "Switch"
+			"messageText": "變更隊伍"
 		},
 		{
 			"messageCode": "PartyEditQuestParty",
-			"messageText": "Quest Party"
+			"messageText": "冒險隊伍"
 		},
 		{
 			"messageCode": "PartyEditColosseumButton",
-			"messageText": "COLOSSEUM"
+			"messageText": "競技場"
 		},
 		{
 			"messageCode": "MultiParticipateAgainAlert",
-			"messageText": "Cannot join Ticket\nQuest again."
+			"messageText": "無法再次參加\n入場券冒險。"
 		},
 		{
 			"messageCode": "ColosseumDeckQuestButton",
-			"messageText": "Quest"
+			"messageText": "冒險"
 		},
 		{
 			"messageCode": "MultiAgainAlertYetClearTitle",
-			"messageText": "Locked"
+			"messageText": "未開放冒險"
 		},
 		{
 			"messageCode": "MultiAgainAlertYetClearInfo",
-			"messageText": "Can't play Locked Quests\nfrom Repeat."
+			"messageText": "無法再次遊玩\n未開放的冒險。"
 		},
 		{
 			"messageCode": "SellRecoverItem",
-			"messageText": "Sent to Present Box."
+			"messageText": "碎片已送到禮物盒。"
 		},
 		{
 			"messageCode": "ChatLeaveBtn",
-			"messageText": "Remove"
+			"messageText": "強制退出"
 		},
 		{
 			"messageCode": "ColosseumDeckConfirmInfo",
-			"messageText": "Cannot use Colosseum\nwithout formed Party.\nGo back?"
+			"messageText": "若未全部整編完成，\n將無法參加競技場。\n確定要返回嗎？"
 		},
 		{
 			"messageCode": "HitIconRecommand",
-			"messageText": "Act Again"
+			"messageText": "再次行動"
 		},
 		{
 			"messageCode": "PvPMonsterSelectButtonOn",
-			"messageText": "Strike"
+			"messageText": "出擊"
 		},
 		{
 			"messageCode": "PvPMonsterSelectButtonOff",
-			"messageText": "Setup Complete"
+			"messageText": "準備完成"
 		},
 		{
 			"messageCode": "HitIconSpDefenceDown",
@@ -5486,63 +5486,63 @@
 		},
 		{
 			"messageCode": "RankupReward",
-			"messageText": "Rank-Up Prize"
+			"messageText": "RANK上升報酬"
 		},
 		{
 			"messageCode": "WinReward",
-			"messageText": "Victory Prize"
+			"messageText": "勝利報酬"
 		},
 		{
 			"messageCode": "ParicipationReward",
-			"messageText": "Participation Prize"
+			"messageText": "參加報酬"
 		},
 		{
 			"messageCode": "PVPMatchingWait",
-			"messageText": "NOW MATCHING"
+			"messageText": "配對中"
 		},
 		{
 			"messageCode": "PVPMatchingWaitFinish",
-			"messageText": "MATCHED!"
+			"messageText": "配對完成"
 		},
 		{
 			"messageCode": "AnimTxt_LevelUP",
-			"messageText": "Level UP"
+			"messageText": "LevelUP"
 		},
 		{
 			"messageCode": "AnimTxt_LuckUp",
-			"messageText": "LUCK UP"
+			"messageText": "運氣UP"
 		},
 		{
 			"messageCode": "AnimTxt_Resistance",
-			"messageText": "Resistance Upgrade"
+			"messageText": "抗性變化完成"
 		},
 		{
 			"messageCode": "AnimTxt_Research",
-			"messageText": "Research Complete"
+			"messageText": "研究完成"
 		},
 		{
 			"messageCode": "AnimTxt_TalentBloom",
-			"messageText": "Ability Seeding"
+			"messageText": "才能開花"
 		},
 		{
 			"messageCode": "AnimTxt_Inheritance",
-			"messageText": "Legacy Complete"
+			"messageText": "繼承完成"
 		},
 		{
 			"messageCode": "AnimTxt_Awakening",
-			"messageText": "Awakening Complete"
+			"messageText": "覺醒完成"
 		},
 		{
 			"messageCode": "AnimTxt_Evolution",
-			"messageText": "Digivolution Complete"
+			"messageText": "進化完成"
 		},
 		{
 			"messageCode": "AnimTxt_ModeChange",
-			"messageText": "Mode Change"
+			"messageText": "變更模式"
 		},
 		{
 			"messageCode": "AnimTxt_Jogless",
-			"messageText": "DNA Digivolve"
+			"messageText": "融合合體"
 		},
 		{
 			"messageCode": "AnimTxt_StageClear",
@@ -5554,95 +5554,95 @@
 		},
 		{
 			"messageCode": "AnimTxt_VersionUP",
-			"messageText": "Version Upgrade!"
+			"messageText": "Version UP!!"
 		},
 		{
 			"messageCode": "ChatCategori_Interact",
-			"messageText": "[FFFFFF][b][ Other ][-]"
+			"messageText": "[FFFFFF][b]【其他】[-]"
 		},
 		{
 			"messageCode": "ChatCategori_Capture",
-			"messageText": "[FFC800][b][Guide][-]"
+			"messageText": "[FFC800][b]【攻略】[-]"
 		},
 		{
 			"messageCode": "ChatCategori_Chat",
-			"messageText": "[FFFF00][b][Chat][-]"
+			"messageText": "[FFFF00][b]【閒聊】[-]"
 		},
 		{
 			"messageCode": "ChatCategori_Interact2",
-			"messageText": "[C8FF00][b][Network][-]"
+			"messageText": "[C8FF00][b]【交流】[-]"
 		},
 		{
 			"messageCode": "Status_target",
-			"messageText": "TARGET"
+			"messageText": "對象"
 		},
 		{
 			"messageCode": "Status_Editting",
-			"messageText": "IN PARTY"
+			"messageText": "整編中"
 		},
 		{
 			"messageCode": "Status_Equipment",
-			"messageText": "INSTALLED"
+			"messageText": "裝備中"
 		},
 		{
 			"messageCode": "ListUsertype_You",
-			"messageText": "YOU"
+			"messageText": "您"
 		},
 		{
 			"messageCode": "ListUsertype_Muilti",
-			"messageText": "CO-OP"
+			"messageText": "協力戰鬥"
 		},
 		{
 			"messageCode": "ListUsertype_TestMatch",
-			"messageText": "MOCK BATTLE"
+			"messageText": "模擬戰"
 		},
 		{
 			"messageCode": "ListUsertype_Blocked",
-			"messageText": "BLOCK"
+			"messageText": "封鎖"
 		},
 		{
 			"messageCode": "Thumbneil_Badge_Inheritance",
-			"messageText": "Legacy Skill"
+			"messageText": "繼承技"
 		},
 		{
 			"messageCode": "Thumbneil_Badge_LeaderSkill",
-			"messageText": "Leader Skill"
+			"messageText": "隊長技能"
 		},
 		{
 			"messageCode": "Ranking_NowPosition",
-			"messageText": "HERE!"
+			"messageText": "目前排名！"
 		},
 		{
 			"messageCode": "ConstructionFinish",
-			"messageText": "Construction Complete"
+			"messageText": "建造完成"
 		},
 		{
 			"messageCode": "UIAnimation_AwakeningUP",
-			"messageText": "AWAKEN UP"
+			"messageText": "覺醒UP"
 		},
 		{
 			"messageCode": "UIAnimation_LuckUP",
-			"messageText": "LUCK UP"
+			"messageText": "運氣UP"
 		},
 		{
 			"messageCode": "UIAnimation_DurabilityChange",
-			"messageText": "Resistance Upgrade"
+			"messageText": "抗性變化"
 		},
 		{
 			"messageCode": "RankupRewardTitle",
-			"messageText": "Rank-Up Prize"
+			"messageText": "RANK上升報酬"
 		},
 		{
 			"messageCode": "RankingRewardTitle",
-			"messageText": "Ranking Prize"
+			"messageText": "排名報酬"
 		},
 		{
 			"messageCode": "WinningRewardTitle",
-			"messageText": "Victory Prize"
+			"messageText": "勝利報酬"
 		},
 		{
 			"messageCode": "FirstClearRewardTitle",
-			"messageText": "First Clear Prize"
+			"messageText": "初次過關報酬"
 		},
 		{
 			"messageCode": "ListUsertype_Master",
@@ -5650,79 +5650,79 @@
 		},
 		{
 			"messageCode": "gimmickDOWN",
-			"messageText": "EFFECT"
+			"messageText": "效果"
 		},
 		{
 			"messageCode": "gimmickUP",
-			"messageText": "EFFECT"
+			"messageText": "效果"
 		},
 		{
 			"messageCode": "PartyEdit_Boss",
-			"messageText": "BOSS"
+			"messageText": "魔王"
 		},
 		{
 			"messageCode": "Tribe_Blazing",
-			"messageText": "Blazing"
+			"messageText": "陽炎系"
 		},
 		{
 			"messageCode": "Tribe_Glacier",
-			"messageText": "Glacier"
+			"messageText": "冰河系"
 		},
 		{
 			"messageCode": "Tribe_Earth",
-			"messageText": "Earth"
+			"messageText": "大地系"
 		},
 		{
 			"messageCode": "Tribe_Electric",
-			"messageText": "Electric"
+			"messageText": "電磁系"
 		},
 		{
 			"messageCode": "Tribe_Abyss",
-			"messageText": "Abyss"
+			"messageText": "深淵系"
 		},
 		{
 			"messageCode": "Tribe_Radiant",
-			"messageText": "Bright"
+			"messageText": "光芒系"
 		},
 		{
 			"messageCode": "Tribe_Phantom",
-			"messageText": "Mirage"
+			"messageText": "幻生系"
 		},
 		{
 			"messageCode": "Status_Gimmick",
-			"messageText": "EFFECT"
+			"messageText": "效果"
 		},
 		{
 			"messageCode": "Battle_StageEffects",
-			"messageText": "STAGE EFFECTS"
+			"messageText": "關卡效果"
 		},
 		{
 			"messageCode": "Friendship",
-			"messageText": "FRIENDSHIP+"
+			"messageText": "友情度+"
 		},
 		{
 			"messageCode": "Battle_ChipEffects",
-			"messageText": "CHIP ACTIVATED"
+			"messageText": "發動晶片效果"
 		},
 		{
 			"messageCode": "BattleTxtPreeminent",
-			"messageText": "SUPER EFFECTIVE"
+			"messageText": "效果超群"
 		},
 		{
 			"messageCode": "BattleTxtHalf",
-			"messageText": "1/2 EFFECT"
+			"messageText": "效果減半"
 		},
 		{
 			"messageCode": "BattleTxtStageEffDown",
-			"messageText": "STAGE EFFECTS"
+			"messageText": "關卡效果"
 		},
 		{
 			"messageCode": "BattleTxtStageEffUp",
-			"messageText": "STAGE EFFECTS"
+			"messageText": "關卡效果"
 		},
 		{
 			"messageCode": "BattleTxtDamageDrain",
-			"messageText": "DAMAGE ABSORB"
+			"messageText": "吸收傷害"
 		},
 		{
 			"messageCode": "Battle_Target",
@@ -5730,7 +5730,7 @@
 		},
 		{
 			"messageCode": "Battle_Attack1",
-			"messageText": "GO"
+			"messageText": "執行"
 		},
 		{
 			"messageCode": "Battle_Attack2",
@@ -5738,51 +5738,51 @@
 		},
 		{
 			"messageCode": "Battle_Strong",
-			"messageText": "STRONG"
+			"messageText": "有利"
 		},
 		{
 			"messageCode": "Battle_Absorb",
-			"messageText": "ABSORB"
+			"messageText": "吸收"
 		},
 		{
 			"messageCode": "Battle_Weak",
-			"messageText": "WEAK"
+			"messageText": "不利"
 		},
 		{
 			"messageCode": "FirstLinkRewardTitle",
-			"messageText": "FIRST LINK BONUS"
+			"messageText": "初次Link獎勵"
 		},
 		{
 			"messageCode": "WeeklyRewardTitle",
-			"messageText": "WEEKLY PRIZE"
+			"messageText": "WEEKLY報酬"
 		},
 		{
 			"messageCode": "ReadyToPlay",
-			"messageText": "Setup Complete"
+			"messageText": "準備完成"
 		},
 		{
 			"messageCode": "PVP_SimulatedGame",
-			"messageText": "MOCK BATTLE"
+			"messageText": "模擬戰"
 		},
 		{
 			"messageCode": "MultiRewardTitle",
-			"messageText": "CO-OP PRIZE"
+			"messageText": "協力戰鬥報酬"
 		},
 		{
 			"messageCode": "PVP_NationwideBattle",
-			"messageText": "VS BATTLE"
+			"messageText": "VS戰鬥"
 		},
 		{
 			"messageCode": "PVP_RankingBtn",
-			"messageText": "RANKING"
+			"messageText": "排行榜"
 		},
 		{
 			"messageCode": "MultiMemberRecruit",
-			"messageText": "Recruiting"
+			"messageText": "參加者招募中"
 		},
 		{
 			"messageCode": "PVP_RewardBtn",
-			"messageText": "PRIZE"
+			"messageText": "報酬"
 		},
 		{
 			"messageCode": "BattleUI_MenuBtn",
@@ -5790,7 +5790,7 @@
 		},
 		{
 			"messageCode": "BattleUI_GiveUpBtn",
-			"messageText": "GIVE UP"
+			"messageText": "投降"
 		},
 		{
 			"messageCode": "ChatWindowMenu",
@@ -5798,343 +5798,343 @@
 		},
 		{
 			"messageCode": "ChatWindowBack",
-			"messageText": "BACK"
+			"messageText": "返回"
 		},
 		{
 			"messageCode": "BattleStatus_StageGimmick",
-			"messageText": "Sp. Bonus"
+			"messageText": "特效獎勵"
 		},
 		{
 			"messageCode": "BattleAnim_StageEffect",
-			"messageText": "STAGE FX ON!"
+			"messageText": "發動關卡效果！！"
 		},
 		{
 			"messageCode": "BattleAnim_GimmickBonus",
-			"messageText": "SP. BONUS ON!"
+			"messageText": "發動特效獎勵！！"
 		},
 		{
 			"messageCode": "BattleTextStageGimmicDown",
-			"messageText": "STAGE FX\nDOWN"
+			"messageText": "關卡效果DOWN"
 		},
 		{
 			"messageCode": "BattleTextStageGimmicUp",
-			"messageText": "STAGE FX\nUP"
+			"messageText": "關卡效果UP"
 		},
 		{
 			"messageCode": "PopupToQuest",
-			"messageText": "Explore"
+			"messageText": "前往探索"
 		},
 		{
 			"messageCode": "PopupToShop",
-			"messageText": "Go to Shop"
+			"messageText": "前往商店"
 		},
 		{
 			"messageCode": "PopupToGasha",
-			"messageText": "Go to Captures"
+			"messageText": "前往捕捉"
 		},
 		{
 			"messageCode": "ExchangeSkillTypeDetile",
-			"messageText": "* This Digimon has a [ff3300] {0} type Signature Skill[-] [More info in announcement]"
+			"messageText": "※擁有[ff3300]{0}系固定技[-]的數碼寶貝（詳細請見公告）"
 		},
 		{
 			"messageCode": "BattleTextActivateChipEffect",
-			"messageText": "Chip activated"
+			"messageText": "晶片效果發動"
 		},
 		{
 			"messageCode": "QuestNonSpList",
-			"messageText": "Null"
+			"messageText": "無"
 		},
 		{
 			"messageCode": "StorePackItemBuyLimit",
-			"messageText": "Purchases left: {0}/{1}"
+			"messageText": "剩餘可購買次數 {0}/{1}"
 		},
 		{
 			"messageCode": "StorePackItemAlert-01",
-			"messageText": "* Extras will be sent to Present Box"
+			"messageText": "※附贈品會自動送入禮物盒"
 		},
 		{
 			"messageCode": "NewsListEmpty",
-			"messageText": "No Notifs."
+			"messageText": "目前沒有公告。"
 		},
 		{
 			"messageCode": "EquipUserTitle",
-			"messageText": "Install"
+			"messageText": "裝備"
 		},
 		{
 			"messageCode": "OptionLanguageTitle",
-			"messageText": "Set Language"
+			"messageText": "設定語言"
 		},
 		{
 			"messageCode": "OptionLanguageBtn",
-			"messageText": "Change"
+			"messageText": "變更"
 		},
 		{
 			"messageCode": "OptionLanguage_1",
-			"messageText": "Japanese"
+			"messageText": "日文"
 		},
 		{
 			"messageCode": "OptionLanguage_2",
-			"messageText": "English"
+			"messageText": "英文"
 		},
 		{
 			"messageCode": "OptionLanguage_3",
-			"messageText": "Trad. Chinese"
+			"messageText": "繁體中文"
 		},
 		{
 			"messageCode": "OptionLanguage_4",
-			"messageText": "Korean"
+			"messageText": "韓文"
 		},
 		{
 			"messageCode": "SystemItem",
-			"messageText": "Items"
+			"messageText": "道具"
 		},
 		{
 			"messageCode": "Stamina",
-			"messageText": "Stamina"
+			"messageText": "體力"
 		},
 		{
 			"messageCode": "BtnSpecialEffect",
-			"messageText": "Super Effective"
+			"messageText": "特效"
 		},
 		{
 			"messageCode": "BtnSpecialEffectActivated",
-			"messageText": "Activated!"
+			"messageText": "發動中！"
 		},
 		{
 			"messageCode": "LoginBonus",
-			"messageText": "Login Bonus"
+			"messageText": "登入獎勵"
 		},
 		{
 			"messageCode": "TitleStatusEquip",
-			"messageText": "Installed"
+			"messageText": "裝備中"
 		},
 		{
 			"messageCode": "AnimTxt_BloomFailed",
-			"messageText": "Seeding Failed"
+			"messageText": "開花失敗"
 		},
 		{
 			"messageCode": "AnimTxt_Combine",
-			"messageText": "Fusion Complete"
+			"messageText": "合體完成"
 		},
 		{
 			"messageCode": "PVPSortieMemberSelect",
-			"messageText": "Choose Digimon for Battle"
+			"messageText": "選擇出擊成員"
 		},
 		{
 			"messageCode": "Facebook_LoginBtn",
-			"messageText": "Link to Facebook Account"
+			"messageText": "綁定Facebook帳號"
 		},
 		{
 			"messageCode": "Facebook_ConfirmTitle",
-			"messageText": "Confirm Facebook Link"
+			"messageText": "確認綁定Facebook"
 		},
 		{
 			"messageCode": "Facebook_ConfirmExit",
-			"messageText": "Link to your\nFacebook account?"
+			"messageText": "要使用Facebook帳號\n進行綁定嗎？"
 		},
 		{
 			"messageCode": "Facebook_ConfirmText",
-			"messageText": "Failed to link to Facebook\nPlease retry with better reception"
+			"messageText": "綁定Facebook失敗，\n請在訊號良好的地方重新執行。"
 		},
 		{
 			"messageCode": "Facebook_LogoutBtn",
-			"messageText": "Linking to Facebook"
+			"messageText": "已綁定Facebook"
 		},
 		{
 			"messageCode": "Facebook_ReleaseTitle",
-			"messageText": "Confirm Facebook Link Removal"
+			"messageText": "確認解除綁定Facebook"
 		},
 		{
 			"messageCode": "Facebook_ReleaseText",
-			"messageText": "Remove link to Facebook?"
+			"messageText": "要解除和Facebook的綁定嗎？"
 		},
 		{
 			"messageCode": "Facebook_UserId",
-			"messageText": "[000000]Linking with[-] [ff0000]{0}[-]"
+			"messageText": "[000000]已綁定[-][ff0000]{0}[-]"
 		},
 		{
 			"messageCode": "Facebook_TimeOut",
-			"messageText": "Failed to remove link to Facebook\nPlease retry with better reception"
+			"messageText": "解除Facebook綁定失敗，\n請在訊號良好的地方重新執行。"
 		},
 		{
 			"messageCode": "Facebook_TakeOver",
-			"messageText": "Confirm Data Backup"
+			"messageText": "確認資料轉移"
 		},
 		{
 			"messageCode": "Facebook_UserData",
-			"messageText": "Your Facebook account is linked with the following user information."
+			"messageText": "該Facebook帳號已綁定此用戶資料。"
 		},
 		{
 			"messageCode": "Facebook_TakeOverText1",
-			"messageText": "Start a game as the above user?\nYou will be unable to play using the data from your current game."
+			"messageText": "要使用此用戶進行遊玩嗎？\n之後將無法使用目前資料進行遊玩。"
 		},
 		{
 			"messageCode": "Facebook_TakeOverText2",
-			"messageText": "[ff0000]When creating and loading a backup between different OSs, your remaining DigiStones may not be transferred from the original save game. We recommend spending your DigiStones (for example, on items) beforehand.[-]"
+			"messageText": "[ff0000]轉移至不同作業系統時，無法轉移原帳號的數碼石。建議先購買道具等，消耗剩餘數碼石後再進行轉移。[-]"
 		},
 		{
 			"messageCode": "Facebook_TakeOverText3",
-			"messageText": "When game data is transferred to a new device, you will no longer be able to play that save game on the old device."
+			"messageText": "遊戲資料轉移至新裝置後，將無法再使用舊裝置遊玩。"
 		},
 		{
 			"messageCode": "Facebook_TakeOverText4",
-			"messageText": "Are you sure you want to transfer your game?"
+			"messageText": "確定要進行資料轉移嗎？"
 		},
 		{
 			"messageCode": "Facebook_TakeOverText5",
-			"messageText": "No data is linked via Facebook.\nPlease try another backup method."
+			"messageText": "沒有綁定Facebook的資料。\n請嘗試其他資料轉移方法。"
 		},
 		{
 			"messageCode": "Inquiry_SampleText",
-			"messageText": "▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\n[Date and time issue occurred]\n\n[Information about the issue] (What you were doing, on which screen, and what occurred)\n\n▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\nInquiry Code: %s\nDevice: %s\nOS Version: %s %s\nApp Version: %s\nUser Agent: %s"
+			"messageText": "▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\n【發生時間】\n\n【異常狀態發生詳情】（執行某動作後導致某畫面發生某異常）\n\n▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\n詢問碼：%s\n裝置：%s\n作業系統版本：%s %s\nApp版本：%s\n使用者代理：%s"
 		},
 		{
 			"messageCode": "Present-14",
-			"messageText": "Extras"
+			"messageText": "附贈"
 		},
 		{
 			"messageCode": "Present-15",
-			"messageText": "Mission Complete"
+			"messageText": "任務達成"
 		},
 		{
 			"messageCode": "Present-16",
-			"messageText": "Item(s) gained by Releasing a Digimon"
+			"messageText": "進行別離時所獲得的道具"
 		},
 		{
 			"messageCode": "RankingDefaultName",
-			"messageText": "Links"
+			"messageText": "Linkz"
 		},
 		{
 			"messageCode": "Present-17",
-			"messageText": "%s Day Consecutive Bonus"
+			"messageText": "%s日持續登入獎勵"
 		},
 		{
 			"messageCode": "Present-18",
-			"messageText": "Shop Exchange"
+			"messageText": "商店交換"
 		},
 		{
 			"messageCode": "Present-19",
-			"messageText": "Shop Purchase"
+			"messageText": "商店購買"
 		},
 		{
 			"messageCode": "Present-20",
-			"messageText": "Special Challenge Clear Prize"
+			"messageText": "特殊挑戰過關報酬"
 		},
 		{
 			"messageCode": "MyProfile-17",
-			"messageText": "Nice to meet you!"
+			"messageText": "請多多指教。"
 		},
 		{
 			"messageCode": "Present-21",
-			"messageText": "Exchange Trade"
+			"messageText": "交換所兌換"
 		},
 		{
 			"messageCode": "GashaTextRareLow",
-			"messageText": "Super Rare"
+			"messageText": "極稀有"
 		},
 		{
 			"messageCode": "GashaTextRareMiddle",
-			"messageText": "Ultra Rare"
+			"messageText": "超極稀有"
 		},
 		{
 			"messageCode": "GashaTextRareHigh",
-			"messageText": "Hyper Rare"
+			"messageText": "超絕稀有"
 		},
 		{
 			"messageCode": "GashaTextGrowChild1",
-			"messageText": "In-Training"
+			"messageText": "幼年期I"
 		},
 		{
 			"messageCode": "GashaTextGrowGrowth",
-			"messageText": "Rookie"
+			"messageText": "成長期"
 		},
 		{
 			"messageCode": "GashaTextGrowMature",
-			"messageText": "Champion"
+			"messageText": "成熟期"
 		},
 		{
 			"messageCode": "GashaTextGrowPerfect",
-			"messageText": "Ultimate"
+			"messageText": "完全體"
 		},
 		{
 			"messageCode": "GashaTextGrowUltimate",
-			"messageText": "Mega"
+			"messageText": "究極體"
 		},
 		{
 			"messageCode": "GashaTextTypeArmor",
-			"messageText": "Armor"
+			"messageText": "裝甲體"
 		},
 		{
 			"messageCode": "GashaTextTypeHybrid",
-			"messageText": "Hybrid"
+			"messageText": "混合體"
 		},
 		{
 			"messageCode": "AwakeningText",
-			"messageText": "Awaken"
+			"messageText": "覺醒"
 		},
 		{
 			"messageCode": "GashaTextGrowChild2",
-			"messageText": "In-Training II"
+			"messageText": "幼年期II"
 		},
 		{
 			"messageCode": "MealExcution_txt",
-			"messageText": "Complete"
+			"messageText": "完成"
 		},
 		{
 			"messageCode": "BossIconList_txt",
-			"messageText": "▼Tap for details"
+			"messageText": "▼點擊顯示抗性"
 		},
 		{
 			"messageCode": "ListPartsMultiRecruitlist_txt",
-			"messageText": "Recruiting\nNew Members"
+			"messageText": "招募成員"
 		},
 		{
 			"messageCode": "Battle_UI_Root_txt5",
-			"messageText": "Go to Shop"
+			"messageText": "前往商店"
 		},
 		{
 			"messageCode": "AlertDialog_battle_txt",
-			"messageText": "Member's connection was lost.\nWaiting for them to return.\n{0} second(s) remaining."
+			"messageText": "成員訊號中斷，\n等待成員回到戰鬥。\n尚餘{0}秒。"
 		},
 		{
 			"messageCode": "PartsStatusElement3_txt",
-			"messageText": "Chip"
+			"messageText": "晶片"
 		},
 		{
 			"messageCode": "NormalLogin_txt",
-			"messageText": "Today's Bonus"
+			"messageText": "今日獎勵"
 		},
 		{
 			"messageCode": "NormalLogin_txt2",
-			"messageText": "Next Bonus"
+			"messageText": "下回獎勵"
 		},
 		{
 			"messageCode": "ProfileFriend_txt",
-			"messageText": "Not Joined"
+			"messageText": "未參加"
 		},
 		{
 			"messageCode": "ProfileFriend_txt2",
-			"messageText": "Last login "
+			"messageText": "最後登入"
 		},
 		{
 			"messageCode": "ProfileFriend_txt3",
-			"messageText": "Battle Log"
+			"messageText": "戰鬥記錄"
 		},
 		{
 			"messageCode": "ChatInvitation_txt",
-			"messageText": "Invite"
+			"messageText": "邀請"
 		},
 		{
 			"messageCode": "VersionUP_txt",
-			"messageText": "Max LV"
+			"messageText": "Lv上限"
 		},
 		{
 			"messageCode": "VersionUP_txt2",
-			"messageText": "Required Material"
+			"messageText": "所需素材"
 		},
 		{
 			"messageCode": "CMDWebWindowPopup_txt",
-			"messageText": "Next update is not displayed"
+			"messageText": "至下次更新前不再顯示"
 		},
 		{
 			"messageCode": "New_txt",
@@ -6142,79 +6142,79 @@
 		},
 		{
 			"messageCode": "PVPPartySelect3_txt",
-			"messageText": "Switch"
+			"messageText": "切換狀態"
 		},
 		{
 			"messageCode": "PVPPartySelect3_txt2",
-			"messageText": "Opponent's Party"
+			"messageText": "對手的隊伍"
 		},
 		{
 			"messageCode": "PVPPartySelect3_txt4",
-			"messageText": "Remaining"
+			"messageText": "尚餘"
 		},
 		{
 			"messageCode": "PVPPartySelect3_txt5",
-			"messageText": "Colosseum Party"
+			"messageText": "競技場專用隊伍"
 		},
 		{
 			"messageCode": "PlayHistory_txt",
-			"messageText": "0000Battles"
+			"messageText": "0000戰"
 		},
 		{
 			"messageCode": "PartsMenu_txt",
-			"messageText": "d MMMM yyyy 'at' H:mm"
+			"messageText": "yyyy' / 'M' / 'd' 'H:mm"
 		},
 		{
 			"messageCode": "FacilityShop_txt",
-			"messageText": "# Built:"
+			"messageText": "建蓋數："
 		},
 		{
 			"messageCode": "FacilityShop_txt2",
-			"messageText": "Build time:"
+			"messageText": "建蓋時間:"
 		},
 		{
 			"messageCode": "ClearingHouse_txt",
-			"messageText": "# Exchanged:"
+			"messageText": "交換個數"
 		},
 		{
 			"messageCode": "PartsStatusSkill_txt",
-			"messageText": "Legacy Skill2"
+			"messageText": "繼承技2"
 		},
 		{
 			"messageCode": "ListPartsChatGroup_txt",
-			"messageText": "[Guide]"
+			"messageText": "【攻略】"
 		},
 		{
 			"messageCode": "ListPartsTicketQuest_txt",
-			"messageText": "# Owned:"
+			"messageText": "持有數"
 		},
 		{
 			"messageCode": "CMD_QuestMultiDetailedPOP_txt",
-			"messageText": "▼ Tap for details"
+			"messageText": "點擊▼顯示抗性"
 		},
 		{
 			"messageCode": "CMD_QuestMultiDetailedPOP_txt2",
-			"messageText": "▼ Tap for more info"
+			"messageText": "點擊▼顯示詳細資訊"
 		},
 		{
 			"messageCode": "CMD_QuestMultiDetailedPOP_txt4",
-			"messageText": "Switch"
+			"messageText": "顯示切換"
 		},
 		{
 			"messageCode": "CMD_QuestMultiDetailedPOP_txt5",
-			"messageText": "Co-op"
+			"messageText": "協力戰鬥"
 		},
 		{
 			"messageCode": "BackupModalGoogle",
-			"messageText": "Back up with Google Play"
+			"messageText": "使用Google Play進行資料轉移"
 		},
 		{
 			"messageCode": "BackupModaliCloud",
-			"messageText": "Back up with iCloud"
+			"messageText": "使用iCloud進行資料轉移"
 		},
 		{
 			"messageCode": "ColosseumTopLimit",
-			"messageText": "Limit"
+			"messageText": "限制"
 		},
 		{
 			"messageCode": "GashaTOP_txt",
@@ -6346,7 +6346,7 @@
 		},
 		{
 			"messageCode": "PartsStatusAp_txt",
-			"messageText": "0 AP"
+			"messageText": "AP 0"
 		},
 		{
 			"messageCode": "Common02_Friendship_txt",
@@ -6374,11 +6374,11 @@
 		},
 		{
 			"messageCode": "QuestRankingList",
-			"messageText": "Rank {0}~{1}"
+			"messageText": "{0}～{1}名"
 		},
 		{
 			"messageCode": "PRIVACY_POLICY",
-			"messageText": "Privacy Policy"
+			"messageText": "私隱政策"
 		},
 		{
 			"messageCode": "Common02_text_Clear_txt",
@@ -6418,39 +6418,39 @@
 		},
 		{
 			"messageCode": "MultiLangSettingMainLabel",
-			"messageText": "Please select a language"
+			"messageText": "請選擇使用的語言"
 		},
 		{
 			"messageCode": "MultiLangSettingCaution",
-			"messageText": "* When you switch between languages, a resource download will begin\n* Please do not close the app until the download has finished\n* Language can be switched more than once\n* When downloading, you will be temporarily returned to the title screen"
+			"messageText": "※重新設定語言時，將下載所需資源。\n※請勿於下載完成前關閉App。\n※可再次重新設定語言。\n※下載時將返回標題畫面。"
 		},
 		{
 			"messageCode": "MaintenanceBtnInfo",
-			"messageText": "Inquiry"
+			"messageText": "詢問"
 		},
 		{
 			"messageCode": "MaintenanceBtnReconnect",
-			"messageText": "Reconnect"
+			"messageText": "再連線"
 		},
 		{
 			"messageCode": "Present-22",
-			"messageText": "Stage Clear Prize"
+			"messageText": "過關報酬"
 		},
 		{
 			"messageCode": "Present-23",
-			"messageText": "Stage First Clear Prize"
+			"messageText": "初次過關報酬"
 		},
 		{
 			"messageCode": "Present-24",
-			"messageText": "Cumulative %spt Achievement Prize"
+			"messageText": "累計獲得 %spt 達成報酬"
 		},
 		{
 			"messageCode": "PVPBattleResult_txt",
-			"messageText": "Battle Party"
+			"messageText": "戰鬥隊伍"
 		},
 		{
 			"messageCode": "PVPBattleResult_txt2",
-			"messageText": "DP Change"
+			"messageText": "DP 變動"
 		},
 		{
 			"messageCode": "PVPBattleResult_txt3",
@@ -6458,51 +6458,51 @@
 		},
 		{
 			"messageCode": "PVPBattleResult_txt4",
-			"messageText": "Total Wins/Losses"
+			"messageText": "勝利次數總和"
 		},
 		{
 			"messageCode": "LoginTime-01",
-			"messageText": ">5 days"
+			"messageText": "5天以上"
 		},
 		{
 			"messageCode": "LoginTime-02",
-			"messageText": "%s days ago"
+			"messageText": "%s天前"
 		},
 		{
 			"messageCode": "LoginTime-03",
-			"messageText": "%s hours ago"
+			"messageText": "%s小時前"
 		},
 		{
 			"messageCode": "LoginTime-04",
-			"messageText": "%s min ago"
+			"messageText": "%s分鐘前"
 		},
 		{
 			"messageCode": "MondayShortName",
-			"messageText": "Mo"
+			"messageText": "週一"
 		},
 		{
 			"messageCode": "TuesdayShortName",
-			"messageText": "Tu"
+			"messageText": "週二"
 		},
 		{
 			"messageCode": "WednesdayShortName",
-			"messageText": "We"
+			"messageText": "週三"
 		},
 		{
 			"messageCode": "ThursdayShortName",
-			"messageText": "Th"
+			"messageText": "週四"
 		},
 		{
 			"messageCode": "FridayShortName",
-			"messageText": "Fr"
+			"messageText": "週五"
 		},
 		{
 			"messageCode": "SaturdayShortName",
-			"messageText": "Sa"
+			"messageText": "週六"
 		},
 		{
 			"messageCode": "SundayShortName",
-			"messageText": "Su"
+			"messageText": "週日"
 		},
 		{
 			"messageCode": "MultiRecruitChat-07",
@@ -6510,7 +6510,7 @@
 		},
 		{
 			"messageCode": "ItemTruncated",
-			"messageText": "Other"
+			"messageText": "其他"
 		},
 		{
 			"messageCode": "SpeedClearRank1",
@@ -6554,63 +6554,63 @@
 		},
 		{
 			"messageCode": "PlayLimitQuestRestCT_4",
-			"messageText": "Daily Remainder {0}"
+			"messageText": "每日次數尚餘{0}次"
 		},
 		{
 			"messageCode": "SpeedClearDetail",
-			"messageText": "{0}Special Challenge Clear"
+			"messageText": "{0}特殊挑戰過關"
 		},
 		{
 			"messageCode": "SpeedClearChipEffectDetail",
-			"messageText": "{0}Special Challenge Clear Bonus"
+			"messageText": "{0}特殊挑戰過關特攻獎勵"
 		},
 		{
 			"messageCode": "ExchangeNone",
-			"messageText": "No exchange is currently being held."
+			"messageText": "目前並無舉辦中的交換所"
 		},
 		{
 			"messageCode": "ColosseumAggregating",
-			"messageText": "Calculating"
+			"messageText": "現在計算中"
 		},
 		{
 			"messageCode": "BattleNotice-19",
-			"messageText": "It's going to run! {0} turns left!"
+			"messageText": "正在準備逃跑！　還有{0}回合"
 		},
 		{
 			"messageCode": "BattleNotice-20",
-			"messageText": "{0} has escaped."
+			"messageText": "{0}成功逃跑了"
 		},
 		{
 			"messageCode": "BattleNotice-21",
-			"messageText": "{0} didn't escape."
+			"messageText": "{0}逃跑失敗了"
 		},
 		{
 			"messageCode": "HitIconEscape",
-			"messageText": "Escape"
+			"messageText": "逃跑"
 		},
 		{
 			"messageCode": "prize-1",
-			"messageText": "Regarding the Server Issue"
+			"messageText": "關於出現異常的道歉啟事"
 		},
 		{
 			"messageCode": "Present-25",
-			"messageText": "【%s】Item acquired by \"Release\" or \"Sell\""
+			"messageText": "【%s】｢別離｣或是｢賣出｣時取得的道具"
 		},
 		{
 			"messageCode": "ChipSellRecoverItem",
-			"messageText": "Item has been sent\nto the Present Box."
+			"messageText": "道具已送至禮物盒。"
 		},
 		{
 			"messageCode": "ReplacementTitle",
-			"messageText": "Changing Chips"
+			"messageText": "替換晶片"
 		},
 		{
 			"messageCode": "QuestForceOpenConfirmInfo",
-			"messageText": "Can be unlocked for {1} minute(s) with {0}.\nUnlock Dungeon?\n*Please note the event end time."
+			"messageText": "使用{0}即可開放 {1}分鐘。\n確定要開放迷宮嗎？\n※請留意活動結束時間"
 		},
 		{
 			"messageCode": "AssetSalesBonusConfirmInfo",
-			"messageText": "Are you sure want to exchange?"
+			"messageText": "確定要兌換嗎？"
 		},
 		{
 			"messageCode": "AssetSalesBonusCount",
@@ -6618,7 +6618,7 @@
 		},
 		{
 			"messageCode": "NonBillingCountry",
-			"messageText": "The billing function could not be used."
+			"messageText": "付費功能無法使用"
 		}
 	]
 }

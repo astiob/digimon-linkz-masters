@@ -2,67 +2,67 @@
 	"monsterGrowStepM": [
 		{
 			"monsterGrowStepId": "1",
-			"monsterGrowStepName": "DigiEgg",
+			"monsterGrowStepName": "數碼蛋",
 			"maxFriendship": "15"
 		},
 		{
 			"monsterGrowStepId": "2",
-			"monsterGrowStepName": "In-Training",
+			"monsterGrowStepName": "幼年期I",
 			"maxFriendship": "30"
 		},
 		{
 			"monsterGrowStepId": "3",
-			"monsterGrowStepName": "In-Training II",
+			"monsterGrowStepName": "幼年期II",
 			"maxFriendship": "60"
 		},
 		{
 			"monsterGrowStepId": "4",
-			"monsterGrowStepName": "Rookie",
+			"monsterGrowStepName": "成長期",
 			"maxFriendship": "90"
 		},
 		{
 			"monsterGrowStepId": "5",
-			"monsterGrowStepName": "Champion",
+			"monsterGrowStepName": "成熟期",
 			"maxFriendship": "150"
 		},
 		{
 			"monsterGrowStepId": "6",
-			"monsterGrowStepName": "Ultimate",
+			"monsterGrowStepName": "完全體",
 			"maxFriendship": "210"
 		},
 		{
 			"monsterGrowStepId": "7",
-			"monsterGrowStepName": "Mega",
+			"monsterGrowStepName": "究極體",
 			"maxFriendship": "300"
 		},
 		{
 			"monsterGrowStepId": "8",
-			"monsterGrowStepName": "Armor",
+			"monsterGrowStepName": "裝甲體",
 			"maxFriendship": "150"
 		},
 		{
 			"monsterGrowStepId": "9",
-			"monsterGrowStepName": "Armor",
+			"monsterGrowStepName": "裝甲體",
 			"maxFriendship": "300"
 		},
 		{
 			"monsterGrowStepId": "10",
-			"monsterGrowStepName": "Hybrid",
+			"monsterGrowStepName": "混合體",
 			"maxFriendship": "90"
 		},
 		{
 			"monsterGrowStepId": "11",
-			"monsterGrowStepName": "Hybrid",
+			"monsterGrowStepName": "混合體",
 			"maxFriendship": "150"
 		},
 		{
 			"monsterGrowStepId": "12",
-			"monsterGrowStepName": "Hybrid",
+			"monsterGrowStepName": "混合體",
 			"maxFriendship": "210"
 		},
 		{
 			"monsterGrowStepId": "13",
-			"monsterGrowStepName": "Hybrid",
+			"monsterGrowStepName": "混合體",
 			"maxFriendship": "300"
 		}
 	]
