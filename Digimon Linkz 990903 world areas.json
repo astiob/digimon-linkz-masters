@@ -1175,6 +1175,18 @@
 			"prerequisiteWorldAreaId": "0",
 			"openTime": "2015-05-01 00:00:00",
 			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "1092",
+			"worldId": "6",
+			"priority": "9",
+			"name": "究極X騎士 -OMEGA-",
+			"img": "point/36/Holding_1.png",
+			"description": "ポイントや断片データを集めて究極体を手に入れよう！",
+			"type": "3",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
 		}
 	]
 }

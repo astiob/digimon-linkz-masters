@@ -7817,7 +7817,7 @@
 			"img": "/events/syuusyuu/50/Holding_3.png",
 			"linkCategoryType": "4",
 			"url": "/information/InformationDetail?informationId=1192",
-			"dispNum": "50",
+			"dispNum": "60",
 			"startTime": "2018-09-20 18:00:00",
 			"endTime": "2018-10-03 23:59:59"
 		},
@@ -7831,6 +7831,39 @@
 			"dispNum": "100",
 			"startTime": "2018-09-20 16:00:00",
 			"endTime": "2018-10-11 15:59:59"
+		},
+		{
+			"bannerId": "750",
+			"actionType": "menu",
+			"name": "イベント「究極X騎士 -OMEGA-」開催！",
+			"img": "/events/point/36/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1196",
+			"dispNum": "55",
+			"startTime": "2018-09-27 18:00:00",
+			"endTime": "2018-10-03 23:59:59"
+		},
+		{
+			"bannerId": "751",
+			"actionType": "menu",
+			"name": "無属性継承技キャプチャ開催！",
+			"img": "/gasha/special/10192/10192_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1202",
+			"dispNum": "4",
+			"startTime": "2018-09-27 16:00:00",
+			"endTime": "2018-10-04 15:59:59"
+		},
+		{
+			"bannerId": "752",
+			"actionType": "menu",
+			"name": "究極X騎士 -OMEGA- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30091/30091_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1203",
+			"dispNum": "6",
+			"startTime": "2018-09-27 16:00:00",
+			"endTime": "2018-10-03 23:59:59"
 		}
 	]
 }
