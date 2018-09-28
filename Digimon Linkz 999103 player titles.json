@@ -729,6 +729,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1086",
+			"name": "第18回覇者",
+			"detail": "第18回コロシアムの覇者に送られる栄光の証",
+			"img": "honorific_colosseum_86",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1087",
+			"name": "第18回SSSランカー",
+			"detail": "第18回コロシアムの最上位ランカーに送られる栄誉の証",
+			"img": "honorific_colosseum_87",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1088",
+			"name": "第18回SSランカー",
+			"detail": "第18回コロシアムの上位ランカーに送られる名誉の証",
+			"img": "honorific_colosseum_88",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1089",
+			"name": "第18回Sランカー",
+			"detail": "第18回コロシアムのランカーに送られる名声の証",
+			"img": "honorific_colosseum_89",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1090",
+			"name": "第18回挑戦者",
+			"detail": "第18回コロシアムの挑戦者に送られる証",
+			"img": "honorific_colosseum_90",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10001",
 			"name": "竜帝の系譜トップ100",
 			"detail": "イベント「竜帝の系譜」トップ100位に送られる栄誉の証",
