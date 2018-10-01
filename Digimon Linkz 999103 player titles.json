@@ -482,6 +482,55 @@
 			"detail": "Proof of being a challenger in the Colosseum (x10)",
 			"img": "honorific_colosseum_50",
 			"dispFlg": "0"
+		},
+		{
+			"titleId": "1051",
+			"name": "11-Time Champion",
+			"detail": "Proof of the glory of becoming Champion of the Colosseum (x11)",
+			"img": "honorific_colosseum_51",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1052",
+			"name": "11-Time SSS-Ranker",
+			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x11)",
+			"img": "honorific_colosseum_52",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1053",
+			"name": "11-Time SS-Ranker",
+			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x11)",
+			"img": "honorific_colosseum_53",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1054",
+			"name": "11-Time S-Ranker",
+			"detail": "Proof of the renown of reaching a rank in the Colosseum (x11)",
+			"img": "honorific_colosseum_54",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1055",
+			"name": "11-Time Challenger",
+			"detail": "Proof of being a challenger in the Colosseum (x11)",
+			"img": "honorific_colosseum_55",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10005",
+			"name": "Supreme X Knight -OMEGA- ",
+			"detail": "Proof of the honor of reaching the highest rank in the Supreme X Knight -OMEGA- ",
+			"img": "honorific_event_5",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10006",
+			"name": "Supreme X Knight -OMEGA- ",
+			"detail": "Proof of the prestige of reaching a high rank in the Supreme X Knight -OMEGA- ",
+			"img": "honorific_event_6",
+			"dispFlg": "0"
 		}
 	]
 }

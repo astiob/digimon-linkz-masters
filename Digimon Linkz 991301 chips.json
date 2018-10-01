@@ -7085,6 +7085,94 @@
 			"effect": "chip_effect_131"
 		},
 		{
+			"chipId": "1225",
+			"chipGroupId": "140",
+			"name": "Null Skill Impact G",
+			"rank": "1",
+			"multiNum": "1",
+			"needChip": "10",
+			"icon": "chip_140",
+			"detail": "Miniscule Boost to Null Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_140"
+		},
+		{
+			"chipId": "1226",
+			"chipGroupId": "140",
+			"name": "Null Skill Impact F",
+			"rank": "2",
+			"multiNum": "1",
+			"needChip": "9",
+			"icon": "chip_140",
+			"detail": "Miniscule Boost to Null Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_140"
+		},
+		{
+			"chipId": "1227",
+			"chipGroupId": "140",
+			"name": "Null Skill Impact E",
+			"rank": "3",
+			"multiNum": "1",
+			"needChip": "8",
+			"icon": "chip_140",
+			"detail": "Miniscule Boost to Null Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_140"
+		},
+		{
+			"chipId": "1228",
+			"chipGroupId": "140",
+			"name": "Null Skill Impact D",
+			"rank": "4",
+			"multiNum": "1",
+			"needChip": "7",
+			"icon": "chip_140",
+			"detail": "Miniscule Boost to Null Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_140"
+		},
+		{
+			"chipId": "1229",
+			"chipGroupId": "140",
+			"name": "Null Skill Impact C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "6",
+			"icon": "chip_140",
+			"detail": "Miniscule Boost to Null Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_140"
+		},
+		{
+			"chipId": "1230",
+			"chipGroupId": "140",
+			"name": "Null Skill Impact B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_140",
+			"detail": "Minor Boost to Null Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_140"
+		},
+		{
+			"chipId": "1231",
+			"chipGroupId": "140",
+			"name": "Null Skill Impact A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_140",
+			"detail": "Moderate Boost to Null Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_140"
+		},
+		{
+			"chipId": "1232",
+			"chipGroupId": "140",
+			"name": "Null Skill Impact S",
+			"rank": "8",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_140",
+			"detail": "Major Boost to Null Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_140"
+		},
+		{
 			"chipId": "1235",
 			"chipGroupId": "141",
 			"name": "Fire Skill Impact G",
@@ -7578,6 +7666,72 @@
 			"icon": "chip_10122",
 			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Excalibur X Counterattack -OMEGA-\" event.",
 			"effect": "chip_effect_10122"
+		},
+		{
+			"chipId": "100354",
+			"chipGroupId": "10123",
+			"name": "Supreme Knight Point Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10123",
+			"detail": "ATK+20, Also increases obtainable points by x1.5 in \"Supreme X Knight -OMEGA-\" event.",
+			"effect": "chip_effect_10123"
+		},
+		{
+			"chipId": "100355",
+			"chipGroupId": "10123",
+			"name": "Supreme Knight Point Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10123",
+			"detail": "ATK+30, Also increases obtainable points by x2.5 in \"Supreme X Knight -OMEGA-\" event.",
+			"effect": "chip_effect_10123"
+		},
+		{
+			"chipId": "100356",
+			"chipGroupId": "10123",
+			"name": "Supreme Knight Point Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10123",
+			"detail": "ATK+50, Also increases obtainable points by x5.5 in \"Supreme X Knight -OMEGA-\" event.",
+			"effect": "chip_effect_10123"
+		},
+		{
+			"chipId": "100357",
+			"chipGroupId": "10124",
+			"name": "Supreme Knight EX stage Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10124",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"Supreme X Knight -OMEGA-\" event.",
+			"effect": "chip_effect_10124"
+		},
+		{
+			"chipId": "100358",
+			"chipGroupId": "10124",
+			"name": "Supreme Knight EX stage Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10124",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"Supreme X Knight -OMEGA-\" event.",
+			"effect": "chip_effect_10124"
+		},
+		{
+			"chipId": "100359",
+			"chipGroupId": "10124",
+			"name": "Supreme Knight EX stage Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10124",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Supreme X Knight -OMEGA-\" event.",
+			"effect": "chip_effect_10124"
 		},
 		{
 			"chipId": "10000001",

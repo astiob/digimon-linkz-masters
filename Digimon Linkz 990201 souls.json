@@ -769,6 +769,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070335",
+			"soulName": "Omegamon X Anti-body Data Fragment",
+			"description": "A data fragment required to Digivolve into Omegamon X Anti-body .",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070336",
 			"soulName": "Magnamon X Anti-body Data Fragment",
 			"description": "A data fragment required to Digivolve into MagnamonX Anti-body .",

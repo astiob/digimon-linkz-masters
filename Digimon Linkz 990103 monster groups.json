@@ -4744,6 +4744,23 @@
 			"modelId": "334"
 		},
 		{
+			"monsterGroupId": "335",
+			"monsterCollectionId": "60335",
+			"monsterName": "Omegamon X Anti-body",
+			"simpleDescription": "",
+			"description": "Theoretically, no other Digimon can defeat Omegamon. This is because it has acquired the Omega Gain Force, an ultimate power with which it can read what's about to happen in battle in an instant and respond accordingly.",
+			"growStep": "7",
+			"tribe": "6",
+			"partyCharaPosX": "-0.01",
+			"partyCharaPosY": "-1.39",
+			"partyCharaPosZ": "-0.69",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "335"
+		},
+		{
 			"monsterGroupId": "336",
 			"monsterCollectionId": "60336",
 			"monsterName": "Magnamon X Anti-body",

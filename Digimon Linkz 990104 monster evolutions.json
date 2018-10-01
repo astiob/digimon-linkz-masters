@@ -25831,6 +25831,51 @@
 			"monsterEvolutionMaterialId": 457
 		},
 		{
+			"monsterEvolutionId": "2891",
+			"baseMonsterId": "1161",
+			"nextMonsterId": "1666",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 458
+		},
+		{
+			"monsterEvolutionId": "2892",
+			"baseMonsterId": "1162",
+			"nextMonsterId": "1667",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 459
+		},
+		{
+			"monsterEvolutionId": "2893",
+			"baseMonsterId": "1163",
+			"nextMonsterId": "1668",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 460
+		},
+		{
+			"monsterEvolutionId": "2894",
+			"baseMonsterId": "1164",
+			"nextMonsterId": "1669",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 461
+		},
+		{
+			"monsterEvolutionId": "2895",
+			"baseMonsterId": "1165",
+			"nextMonsterId": "1670",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 461
+		},
+		{
 			"monsterEvolutionId": "2896",
 			"baseMonsterId": "1191",
 			"nextMonsterId": "1671",
