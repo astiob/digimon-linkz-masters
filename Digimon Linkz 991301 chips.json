@@ -7085,6 +7085,94 @@
 			"effect": "chip_effect_131"
 		},
 		{
+			"chipId": "1225",
+			"chipGroupId": "140",
+			"name": "무속성 임팩트 G",
+			"rank": "1",
+			"multiNum": "1",
+			"needChip": "10",
+			"icon": "chip_140",
+			"detail": "무속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 미세하게 상승",
+			"effect": "chip_effect_140"
+		},
+		{
+			"chipId": "1226",
+			"chipGroupId": "140",
+			"name": "무속성 임팩트 F",
+			"rank": "2",
+			"multiNum": "1",
+			"needChip": "9",
+			"icon": "chip_140",
+			"detail": "무속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 미세하게 상승",
+			"effect": "chip_effect_140"
+		},
+		{
+			"chipId": "1227",
+			"chipGroupId": "140",
+			"name": "무속성 임팩트 E",
+			"rank": "3",
+			"multiNum": "1",
+			"needChip": "8",
+			"icon": "chip_140",
+			"detail": "무속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 미세하게 상승",
+			"effect": "chip_effect_140"
+		},
+		{
+			"chipId": "1228",
+			"chipGroupId": "140",
+			"name": "무속성 임팩트 D",
+			"rank": "4",
+			"multiNum": "1",
+			"needChip": "7",
+			"icon": "chip_140",
+			"detail": "무속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 미세하게 상승",
+			"effect": "chip_effect_140"
+		},
+		{
+			"chipId": "1229",
+			"chipGroupId": "140",
+			"name": "무속성 임팩트 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "6",
+			"icon": "chip_140",
+			"detail": "무속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 미세하게 상승",
+			"effect": "chip_effect_140"
+		},
+		{
+			"chipId": "1230",
+			"chipGroupId": "140",
+			"name": "무속성 임팩트 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_140",
+			"detail": "무속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 소폭 상승",
+			"effect": "chip_effect_140"
+		},
+		{
+			"chipId": "1231",
+			"chipGroupId": "140",
+			"name": "무속성 임팩트 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_140",
+			"detail": "무속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 상승",
+			"effect": "chip_effect_140"
+		},
+		{
+			"chipId": "1232",
+			"chipGroupId": "140",
+			"name": "무속성 임팩트 S",
+			"rank": "8",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_140",
+			"detail": "무속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 크게 상승",
+			"effect": "chip_effect_140"
+		},
+		{
 			"chipId": "1235",
 			"chipGroupId": "141",
 			"name": "불속성 임팩트 G",
@@ -7578,6 +7666,72 @@
 			"icon": "chip_10122",
 			"detail": "S-ATK+50, ‘성검X역습 -OMEGA-’에서 EXTRA STAGE 발생 확률 크게 상승",
 			"effect": "chip_effect_10122"
+		},
+		{
+			"chipId": "100354",
+			"chipGroupId": "10123",
+			"name": "궁극 기사의 Pt 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10123",
+			"detail": "ATK+20, ‘궁극X기사 -OMEGA-’에서 획득 포인트 1.5배",
+			"effect": "chip_effect_10123"
+		},
+		{
+			"chipId": "100355",
+			"chipGroupId": "10123",
+			"name": "궁극 기사의 Pt 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10123",
+			"detail": "ATK+30, ‘궁극X기사 -OMEGA-’에서 획득 포인트 2.5배",
+			"effect": "chip_effect_10123"
+		},
+		{
+			"chipId": "100356",
+			"chipGroupId": "10123",
+			"name": "궁극 기사의 Pt 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10123",
+			"detail": "ATK+50, ‘궁극X기사 -OMEGA-’에서 획득 포인트 5.5배",
+			"effect": "chip_effect_10123"
+		},
+		{
+			"chipId": "100357",
+			"chipGroupId": "10124",
+			"name": "궁극 기사의 EX STAGE 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10124",
+			"detail": "S-ATK+20, ‘궁극X기사 -OMEGA-’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_10124"
+		},
+		{
+			"chipId": "100358",
+			"chipGroupId": "10124",
+			"name": "궁극 기사의 EX STAGE 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10124",
+			"detail": "S-ATK+30, ‘궁극X기사 -OMEGA-’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_10124"
+		},
+		{
+			"chipId": "100359",
+			"chipGroupId": "10124",
+			"name": "궁극 기사의 EX STAGE 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10124",
+			"detail": "S-ATK+50, ‘궁극X기사 -OMEGA-’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_10124"
 		},
 		{
 			"chipId": "10000001",

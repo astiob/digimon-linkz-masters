@@ -4744,6 +4744,23 @@
 			"modelId": "334"
 		},
 		{
+			"monsterGroupId": "335",
+			"monsterCollectionId": "60335",
+			"monsterName": "오메가몬X항체",
+			"simpleDescription": "",
+			"description": "이론상 다른 디지몬이 오메가몬을 쓰러뜨리는 것은 불가능하다. 전투에서 순식간에 다음 수를 읽고 대응하는 궁극의 힘 ‘오메가 인포스(Omega Gain Force)'를 다룰 수 있기 때문이다.",
+			"growStep": "7",
+			"tribe": "6",
+			"partyCharaPosX": "-0.01",
+			"partyCharaPosY": "-1.39",
+			"partyCharaPosZ": "-0.69",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "335"
+		},
+		{
 			"monsterGroupId": "336",
 			"monsterCollectionId": "60336",
 			"monsterName": "매그너몬X항체",

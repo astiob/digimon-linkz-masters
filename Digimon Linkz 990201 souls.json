@@ -769,6 +769,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070335",
+			"soulName": "오메가몬X항체의 데이터 조각",
+			"description": "오메가몬X항체으로 진화할 때 필요한 데이터 조각",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070336",
 			"soulName": "매그너몬X항체의 데이터 조각",
 			"description": "매그너몬X항체으로 진화할 때 필요한 데이터 조각",

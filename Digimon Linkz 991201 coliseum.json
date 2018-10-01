@@ -105,6 +105,19 @@
 			"extraRewardRate": "3"
 		},
 		{
+			"colosseumId": "10011",
+			"title": "제11회",
+			"openStatus": "1",
+			"prevColosseumId": "10010",
+			"openTime": "2018-10-01 14:00:00",
+			"startDate": "2018-10-01",
+			"endDate": "2018-11-01",
+			"closeTime": "2018-11-01 13:59:59",
+			"worldDungeonId": "10001",
+			"rewardGroupId": "100011",
+			"extraRewardRate": "3"
+		},
+		{
 			"colosseumId": "100001",
 			"title": "제1회",
 			"openStatus": "1",
