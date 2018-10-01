@@ -769,6 +769,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070335",
+			"soulName": "奧米加獸X抗體的資料碎片",
+			"description": "進化成奧米加獸X抗體時所需的資料碎片。",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070336",
 			"soulName": "金甲龍獸X抗體的資料碎片",
 			"description": "進化成金甲龍獸X抗體時所需的資料碎片。",

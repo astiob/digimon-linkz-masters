@@ -482,6 +482,55 @@
 			"detail": "贈予第10期競技場挑戰者的證明。",
 			"img": "honorific_colosseum_50",
 			"dispFlg": "0"
+		},
+		{
+			"titleId": "1051",
+			"name": "第11期霸主",
+			"detail": "贈予第11期競技場霸主的光榮之證。",
+			"img": "honorific_colosseum_51",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1052",
+			"name": "第11期SSS級排名玩家",
+			"detail": "贈予第11期競技場最頂尖排名玩家的榮譽之證。",
+			"img": "honorific_colosseum_52",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1053",
+			"name": "第11期SS級排名玩家",
+			"detail": "贈予第11期競技場頂尖排名玩家的名譽之證。",
+			"img": "honorific_colosseum_53",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1054",
+			"name": "第11期S級排名玩家",
+			"detail": "贈予第11期競技場排名玩家的名聲之證。",
+			"img": "honorific_colosseum_54",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1055",
+			"name": "第11期挑戰者",
+			"detail": "贈予第11期競技場挑戰者的證明。",
+			"img": "honorific_colosseum_55",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10005",
+			"name": "究極X騎士 -OMEGA-",
+			"detail": "究極X騎士 -OMEGA- 最頂尖排名玩家的榮譽之證。",
+			"img": "honorific_event_5",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10006",
+			"name": "究極X騎士 -OMEGA-",
+			"detail": "究極X騎士 -OMEGA- 頂尖排名玩家的名譽之證。",
+			"img": "honorific_event_6",
+			"dispFlg": "0"
 		}
 	]
 }

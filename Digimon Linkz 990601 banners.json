@@ -2111,6 +2111,39 @@
 			"dispNum": "51",
 			"startTime": "2018-09-24 18:00:00",
 			"endTime": "2018-10-07 13:59:59"
+		},
+		{
+			"bannerId": "100195",
+			"actionType": "menu",
+			"name": "舉辦無屬性攻擊繼承技捕捉！",
+			"img": "/gasha/special/10188/10188_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=385",
+			"dispNum": "16",
+			"startTime": "2018-10-01 16:00:00",
+			"endTime": "2018-10-08 15:59:59"
+		},
+		{
+			"bannerId": "100196",
+			"actionType": "menu",
+			"name": "舉辦「究極X騎士 -OMEGA-」特效晶片捕捉！",
+			"img": "/gasha/special/300047/300047_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=386",
+			"dispNum": "19",
+			"startTime": "2018-10-01 16:00:00",
+			"endTime": "2018-10-07 13:59:59"
+		},
+		{
+			"bannerId": "100197",
+			"actionType": "menu",
+			"name": "舉辦活動「究極X騎士 -OMEGA-」！",
+			"img": "/events/point/36/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=388",
+			"dispNum": "50",
+			"startTime": "2018-10-01 18:00:00",
+			"endTime": "2018-10-07 13:59:59"
 		}
 	]
 }

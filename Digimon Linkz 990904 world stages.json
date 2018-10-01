@@ -833,6 +833,19 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6146",
+			"worldAreaId": "1092",
+			"priority": "1051",
+			"name": "究極X騎士 -OMEGA-",
+			"description": "ポイントや断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "point/36/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",
