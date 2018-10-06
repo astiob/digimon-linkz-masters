@@ -7864,6 +7864,72 @@
 			"dispNum": "6",
 			"startTime": "2018-09-27 16:00:00",
 			"endTime": "2018-10-03 23:59:59"
+		},
+		{
+			"bannerId": "753",
+			"actionType": "menu",
+			"name": "1周年記念究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10193/10193_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1207",
+			"dispNum": "3",
+			"startTime": "2018-10-04 16:00:00",
+			"endTime": "2018-10-11 15:59:59"
+		},
+		{
+			"bannerId": "754",
+			"actionType": "menu",
+			"name": "断罪する正義 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30092/30092_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1208",
+			"dispNum": "7",
+			"startTime": "2018-10-04 16:00:00",
+			"endTime": "2018-10-10 23:59:59"
+		},
+		{
+			"bannerId": "755",
+			"actionType": "menu",
+			"name": "1周年記念ログインボーナス開催！",
+			"img": "/login/10027/10027_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1211",
+			"dispNum": "101",
+			"startTime": "2018-10-05 05:00:00",
+			"endTime": "2018-10-19 04:59:59"
+		},
+		{
+			"bannerId": "756",
+			"actionType": "menu",
+			"name": "イベント「断罪する正義」開催！",
+			"img": "/events/syuusyuu/51/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1212",
+			"dispNum": "50",
+			"startTime": "2018-10-04 18:00:00",
+			"endTime": "2018-10-10 23:59:59"
+		},
+		{
+			"bannerId": "757",
+			"actionType": "menu",
+			"name": "「クラスタクエスト」改修と開催のお知らせ",
+			"img": "/events/extra/6007.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1209",
+			"dispNum": "102",
+			"startTime": "2018-10-05 16:00:00",
+			"endTime": "2018-10-11 15:59:59"
+		},
+		{
+			"bannerId": "758",
+			"actionType": "menu",
+			"name": "「EXPクエスト」改修と開催のお知らせ",
+			"img": "/events/extra/6008.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1210",
+			"dispNum": "103",
+			"startTime": "2018-10-05 16:00:00",
+			"endTime": "2018-10-11 15:59:59"
 		}
 	]
 }

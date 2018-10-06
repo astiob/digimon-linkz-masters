@@ -6515,6 +6515,30 @@
 		{
 			"messageCode": "AssetSalesBonusCount",
 			"messageText": "x {0}"
+		},
+		{
+			"messageCode": "DownloadSizeTitle",
+			"messageText": "ダウンロード確認"
+		},
+		{
+			"messageCode": "DownloadSizeInfo",
+			"messageText": "データをDLします。よろしいですか？\nファイルサイズ\n{0:0.00}{1}\n[ff0000]wifi環境でのDLを推奨いたします[-]"
+		},
+		{
+			"messageCode": "DownloadSizeExit",
+			"messageText": "ファイルをDLせず、アプリを終了します。\nよろしいですか"
+		},
+		{
+			"messageCode": "DownloadSizeKB",
+			"messageText": "KB"
+		},
+		{
+			"messageCode": "DownloadSizeMB",
+			"messageText": "MB"
+		},
+		{
+			"messageCode": "DownloadSizeGB",
+			"messageText": "GB"
 		}
 	]
 }

@@ -20971,6 +20971,24 @@
 			"everyTimeFlg": "0"
 		},
 		{
+			"worldDungeonRewardId": "8591",
+			"worldDungeonId": "12125",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "2",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8592",
+			"worldDungeonId": "12126",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "2",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
 			"worldDungeonRewardId": "8593",
 			"worldDungeonId": "12127",
 			"assetCategoryId": "2",
@@ -21081,6 +21099,42 @@
 		{
 			"worldDungeonRewardId": "8605",
 			"worldDungeonId": "12139",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "1",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8606",
+			"worldDungeonId": "12140",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "1",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8607",
+			"worldDungeonId": "12141",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "1",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8608",
+			"worldDungeonId": "12142",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "1",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8609",
+			"worldDungeonId": "12143",
 			"assetCategoryId": "2",
 			"assetValue": "1",
 			"assetNum": "1",
