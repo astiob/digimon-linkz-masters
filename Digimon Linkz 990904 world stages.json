@@ -736,7 +736,7 @@
 			"description": "クラスタをたくさん集めよう！",
 			"type": "1",
 			"prerequisiteWorldStageId": "0",
-			"stageImage": "extra/6007.png",
+			"stageImage": "extra/6007.png?1",
 			"openTime": "2016-11-14 16:00:00",
 			"closeTime": "2030-05-01 00:00:00",
 			"adminOpenFlg": "0"
@@ -841,6 +841,19 @@
 			"type": "1",
 			"prerequisiteWorldStageId": "0",
 			"stageImage": "point/36/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
+			"worldStageId": "6147",
+			"worldAreaId": "1093",
+			"priority": "1050",
+			"name": "Rogue Justice",
+			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/51/Holding_2.png",
 			"openTime": "2015-04-01 00:00:00",
 			"closeTime": "2030-05-01 00:00:00",
 			"adminOpenFlg": "0"

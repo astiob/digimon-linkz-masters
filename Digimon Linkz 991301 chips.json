@@ -7734,6 +7734,39 @@
 			"effect": "chip_effect_10124"
 		},
 		{
+			"chipId": "100360",
+			"chipGroupId": "10125",
+			"name": "Rogue Justice Drop Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10125",
+			"detail": "ATK+20 Also increases Data Byte drop by 1 in \"Rogue Justice\".",
+			"effect": "chip_effect_10125"
+		},
+		{
+			"chipId": "100361",
+			"chipGroupId": "10125",
+			"name": "Rogue Justice Drop Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10125",
+			"detail": "ATK+30 Also increases Data Byte drop by 3 in \"Rogue Justice\".",
+			"effect": "chip_effect_10125"
+		},
+		{
+			"chipId": "100362",
+			"chipGroupId": "10125",
+			"name": "Rogue Justice Drop Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10125",
+			"detail": "ATK+50 Also increases Data Byte drop by 9 in \"Rogue Justice\".",
+			"effect": "chip_effect_10125"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",

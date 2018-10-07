@@ -680,7 +680,7 @@
 			"url": "/information/InformationDetail?informationId=126",
 			"dispNum": "100",
 			"startTime": "2018-02-05 18:00:00",
-			"endTime": "2018-10-15 17:59:59"
+			"endTime": "2019-01-07 17:59:59"
 		},
 		{
 			"bannerId": "100063",
@@ -2144,6 +2144,72 @@
 			"dispNum": "50",
 			"startTime": "2018-10-01 18:00:00",
 			"endTime": "2018-10-07 13:59:59"
+		},
+		{
+			"bannerId": "100198",
+			"actionType": "menu",
+			"name": "\"1st Anniversary Login Bonus \" has begun!",
+			"img": "/login/10027/10027_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=391",
+			"dispNum": "101",
+			"startTime": "2018-10-05 05:00:00",
+			"endTime": "2018-10-19 04:59:59"
+		},
+		{
+			"bannerId": "100199",
+			"actionType": "menu",
+			"name": "\"1st Anniversary Mega Capture\" has begun!",
+			"img": "/gasha/special/10193/10193_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=392",
+			"dispNum": "15",
+			"startTime": "2018-10-08 16:00:00",
+			"endTime": "2018-10-15 15:59:59"
+		},
+		{
+			"bannerId": "100200",
+			"actionType": "menu",
+			"name": "The \"Rogue Justice\"Special Chip Capture has begun!",
+			"img": "/gasha/special/30092/30092_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=393",
+			"dispNum": "20",
+			"startTime": "2018-10-08 16:00:00",
+			"endTime": "2018-10-14 13:59:59"
+		},
+		{
+			"bannerId": "100201",
+			"actionType": "menu",
+			"name": "\"Cluster Quest\" has begun!",
+			"img": "/events/extra/6007.png?1",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=394",
+			"dispNum": "102",
+			"startTime": "2018-10-05 16:00:00",
+			"endTime": "2018-10-11 13:59:59"
+		},
+		{
+			"bannerId": "100202",
+			"actionType": "menu",
+			"name": "\"EXP Quest\" has begun!",
+			"img": "/events/extra/6008.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=395",
+			"dispNum": "103",
+			"startTime": "2018-10-05 16:00:00",
+			"endTime": "2018-10-11 13:59:59"
+		},
+		{
+			"bannerId": "100203",
+			"actionType": "menu",
+			"name": "The \"Rogue Justice\" event has begun!",
+			"img": "/events/syuusyuu/51/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=397",
+			"dispNum": "50",
+			"startTime": "2018-10-08 18:00:00",
+			"endTime": "2018-10-14 13:59:59"
 		}
 	]
 }
