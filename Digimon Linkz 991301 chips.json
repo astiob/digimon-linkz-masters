@@ -7734,6 +7734,39 @@
 			"effect": "chip_effect_10124"
 		},
 		{
+			"chipId": "100360",
+			"chipGroupId": "10125",
+			"name": "定罪的 掉落特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10125",
+			"detail": "ATK+20。並且於「定罪的正義」中使片斷資料的獲得個數+1。",
+			"effect": "chip_effect_10125"
+		},
+		{
+			"chipId": "100361",
+			"chipGroupId": "10125",
+			"name": "定罪的 掉落特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10125",
+			"detail": "ATK+30。並且於「定罪的正義」中使片斷資料的獲得個數+3。",
+			"effect": "chip_effect_10125"
+		},
+		{
+			"chipId": "100362",
+			"chipGroupId": "10125",
+			"name": "定罪的 掉落特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10125",
+			"detail": "ATK+50。並且於「定罪的正義」中使片斷資料的獲得個數+9。",
+			"effect": "chip_effect_10125"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "破壞與救世的Pt特效 C",
