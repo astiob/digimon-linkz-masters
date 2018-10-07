@@ -7734,6 +7734,39 @@
 			"effect": "chip_effect_10124"
 		},
 		{
+			"chipId": "100360",
+			"chipGroupId": "10125",
+			"name": "단죄의 드롭 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10125",
+			"detail": "ATK+20, ‘단죄하는 정의’에서 데이터 단편의 획득 수 +1",
+			"effect": "chip_effect_10125"
+		},
+		{
+			"chipId": "100361",
+			"chipGroupId": "10125",
+			"name": "단죄의 드롭 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10125",
+			"detail": "ATK+30, ‘단죄하는 정의’에서 데이터 단편의 획득 수 +3",
+			"effect": "chip_effect_10125"
+		},
+		{
+			"chipId": "100362",
+			"chipGroupId": "10125",
+			"name": "단죄의 드롭 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10125",
+			"detail": "ATK+50, ‘단죄하는 정의’에서 데이터 단편의 획득 수 +9",
+			"effect": "chip_effect_10125"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "파괴와 구세의 Pt 특효 C",
