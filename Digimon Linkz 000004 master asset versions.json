@@ -197,8 +197,8 @@
 		},
 		{
 			"tableName": "message_string_m",
-			"version": "167",
-			"cacheVersion": "167"
+			"version": "168",
+			"cacheVersion": "168"
 		},
 		{
 			"tableName": "world_event_m",
@@ -340,6 +340,6 @@
 		"versionManagerId": "5",
 		"versionManagerType": "2",
 		"osType": "2",
-		"version": "326"
+		"version": "327"
 	}
 }
