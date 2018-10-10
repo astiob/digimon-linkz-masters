@@ -6619,6 +6619,30 @@
 		{
 			"messageCode": "NonBillingCountry",
 			"messageText": "과금 기능을 이용하실 수 없습니다."
+		},
+		{
+			"messageCode": "DownloadSizeTitle",
+			"messageText": "다운로드 확인"
+		},
+		{
+			"messageCode": "DownloadSizeInfo",
+			"messageText": "데이터를 다운로드합니다. 진행하시겠습니까?\n파일 사이즈\n{0:0.00}{1}\n[ff0000] Wi-Fi 환경에서 다운로드하시길 권장합니다.[-]"
+		},
+		{
+			"messageCode": "DownloadSizeExit",
+			"messageText": "파일을 다운로드하지 않고 앱을 종료합니다. \n 종료하시겠습니까?"
+		},
+		{
+			"messageCode": "DownloadSizeKB",
+			"messageText": "KB"
+		},
+		{
+			"messageCode": "DownloadSizeMB",
+			"messageText": "MB"
+		},
+		{
+			"messageCode": "DownloadSizeGB",
+			"messageText": "GB"
 		}
 	]
 }
