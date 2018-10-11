@@ -7930,6 +7930,61 @@
 			"dispNum": "103",
 			"startTime": "2018-10-05 16:00:00",
 			"endTime": "2018-10-11 15:59:59"
+		},
+		{
+			"bannerId": "759",
+			"actionType": "menu",
+			"name": "イベント「乱戦　-業火-」開催！",
+			"img": "/events/syuusyuu/52/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1216",
+			"dispNum": "50",
+			"startTime": "2018-10-11 18:00:00",
+			"endTime": "2018-10-17 23:59:59"
+		},
+		{
+			"bannerId": "760",
+			"actionType": "menu",
+			"name": "才能メダルキャプチャ開催！",
+			"img": "/gasha/special/10099/10099_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1217",
+			"dispNum": "5",
+			"startTime": "2018-10-11 16:00:00",
+			"endTime": "2018-10-18 15:59:59"
+		},
+		{
+			"bannerId": "761",
+			"actionType": "menu",
+			"name": "才能メダル引き継ぎ確率UPキャンペーン開催",
+			"img": "/campaign/11002/11002_labomedal.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1218",
+			"dispNum": "100",
+			"startTime": "2018-10-11 16:00:00",
+			"endTime": "2018-10-18 15:59:59"
+		},
+		{
+			"bannerId": "762",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10194/10194_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1219",
+			"dispNum": "3",
+			"startTime": "2018-10-11 16:00:00",
+			"endTime": "2018-10-25 15:59:59"
+		},
+		{
+			"bannerId": "763",
+			"actionType": "menu",
+			"name": "乱戦 -業火- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30093/30093_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1220",
+			"dispNum": "7",
+			"startTime": "2018-10-11 16:00:00",
+			"endTime": "2018-10-17 23:59:59"
 		}
 	]
 }
