@@ -2210,6 +2210,50 @@
 			"dispNum": "50",
 			"startTime": "2018-10-08 18:00:00",
 			"endTime": "2018-10-14 13:59:59"
+		},
+		{
+			"bannerId": "100204",
+			"actionType": "menu",
+			"name": "이벤트 ‘양염×심연 RUSH!’ 개최!",
+			"img": "/events/syuusyuu/52/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=399",
+			"dispNum": "50",
+			"startTime": "2018-10-15 18:00:00",
+			"endTime": "2018-10-21 13:59:59"
+		},
+		{
+			"bannerId": "100205",
+			"actionType": "menu",
+			"name": "‘궁극체 페스티벌 캡처’ 이벤트 개최!",
+			"img": "/gasha/special/10194/10194_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=400",
+			"dispNum": "15",
+			"startTime": "2018-10-15 16:00:00",
+			"endTime": "2018-10-29 15:59:59"
+		},
+		{
+			"bannerId": "100206",
+			"actionType": "menu",
+			"name": "‘재능 메달 캡처’ 이벤트 개최!",
+			"img": "/gasha/special/100062/100062_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=401",
+			"dispNum": "20",
+			"startTime": "2018-10-15 16:00:00",
+			"endTime": "2018-10-22 15:59:59"
+		},
+		{
+			"bannerId": "100207",
+			"actionType": "menu",
+			"name": "‘양염×심연 RUSH!’ 특효 칩 캡처 이벤트 개최!",
+			"img": "/gasha/special/30093/30093_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=403",
+			"dispNum": "25",
+			"startTime": "2018-10-15 16:00:00",
+			"endTime": "2018-10-21 13:59:59"
 		}
 	]
 }

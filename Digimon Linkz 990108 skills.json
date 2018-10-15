@@ -14131,6 +14131,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "960",
+			"name": "드래곤즈 거스트",
+			"simpleDescription": "",
+			"description": "적 하나에게 자연속성으로\n매우 높은 마법 대미지",
+			"type": "2",
+			"skillGroupId": "341",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "341",
+			"soundEffect": "bt_919",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "961",
+			"name": "드래곤즈 거스트",
+			"simpleDescription": "",
+			"description": "적 하나에게 자연속성으로\n매우 높은 마법 대미지",
+			"type": "2",
+			"skillGroupId": "341",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "341",
+			"soundEffect": "bt_919",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "962",
 			"name": "샤프니스 클레이모어",
 			"simpleDescription": "",

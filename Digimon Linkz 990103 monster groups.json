@@ -4846,6 +4846,23 @@
 			"modelId": "340"
 		},
 		{
+			"monsterGroupId": "341",
+			"monsterCollectionId": "60341",
+			"monsterName": "듀나스몬X항체",
+			"simpleDescription": "",
+			"description": "X항체가 비룡의 능력을 이끌어내 불길한 모습으로 변했다. 넘쳐나는 강력한 힘 덕분에 날갯짓 한 번이면 아성층권에 도달한다. 공중전에서는 로열 나이츠 중에서도 제일가는 실력을 자랑한다.",
+			"growStep": "7",
+			"tribe": "1",
+			"partyCharaPosX": "0",
+			"partyCharaPosY": "-1.4",
+			"partyCharaPosZ": "-0.1",
+			"partyCharaRotY": "-180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "341"
+		},
+		{
 			"monsterGroupId": "342",
 			"monsterCollectionId": "60342",
 			"monsterName": "에이션트가루몬",

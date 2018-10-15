@@ -26101,6 +26101,51 @@
 			"monsterEvolutionMaterialId": 481
 		},
 		{
+			"monsterEvolutionId": "2921",
+			"baseMonsterId": "991",
+			"nextMonsterId": "1696",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 482
+		},
+		{
+			"monsterEvolutionId": "2922",
+			"baseMonsterId": "992",
+			"nextMonsterId": "1697",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 483
+		},
+		{
+			"monsterEvolutionId": "2923",
+			"baseMonsterId": "993",
+			"nextMonsterId": "1698",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 484
+		},
+		{
+			"monsterEvolutionId": "2924",
+			"baseMonsterId": "994",
+			"nextMonsterId": "1699",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 485
+		},
+		{
+			"monsterEvolutionId": "2925",
+			"baseMonsterId": "995",
+			"nextMonsterId": "1700",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 485
+		},
+		{
 			"monsterEvolutionId": "2926",
 			"baseMonsterId": "816",
 			"nextMonsterId": "1701",
@@ -30160,6 +30205,15 @@
 			"monsterEvolutionMaterialId": 20026
 		},
 		{
+			"monsterEvolutionId": "200031",
+			"baseMonsterId": "865",
+			"nextMonsterId": "20031",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20031
+		},
+		{
 			"monsterEvolutionId": "200071",
 			"baseMonsterId": "905",
 			"nextMonsterId": "20071",
@@ -30266,6 +30320,24 @@
 			"effectType": "5",
 			"effectMonsterId": "0",
 			"monsterEvolutionMaterialId": 20286
+		},
+		{
+			"monsterEvolutionId": "200411",
+			"baseMonsterId": "1580",
+			"nextMonsterId": "20436",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20411
+		},
+		{
+			"monsterEvolutionId": "200446",
+			"baseMonsterId": "1645",
+			"nextMonsterId": "20476",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20446
 		},
 		{
 			"monsterEvolutionId": "200456",

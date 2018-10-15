@@ -817,6 +817,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070341",
+			"soulName": "듀나스몬X항체의 데이터 조각",
+			"description": "듀나스몬X항체으로 진화할 때 필요한 데이터 조각",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070342",
 			"soulName": "에이션트가루몬의 데이터 조각",
 			"description": "에이션트가루몬으로 진화할 때 필요한 데이터 조각",
@@ -1169,6 +1177,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "4000002",
+			"soulName": "불의 버전업 데이터",
+			"description": "양염계 디지몬을 버전업할 때 필요한 프로그램",
+			"soulGroup": "3",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
 			"soulId": "4000003",
 			"soulName": "물의 버전업 데이터",
 			"description": "빙하계 디지몬을 버전업할 때 필요한 프로그램",
@@ -1193,9 +1209,25 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "4000007",
+			"soulName": "어둠의 버전업 데이터",
+			"description": "심연계 디지몬을 버전업할 때 필요한 프로그램",
+			"soulGroup": "3",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
 			"soulId": "5000001",
 			"soulName": "무의 리팩터",
 			"description": "버전업한 환생계 디지몬의 상태이상 내성을 변화시킬 때 필요한 카드 매체",
+			"soulGroup": "4",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "5000002",
+			"soulName": "불의 리팩터",
+			"description": "버전업한 양염계 디지몬의 상태이상 내성을 변화시킬 때 필요한 카드 매체",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
@@ -1220,6 +1252,14 @@
 			"soulId": "5000006",
 			"soulName": "빛의 리팩터",
 			"description": "버전업한 광망계 디지몬의 상태이상 내성을 변화시킬 때 필요한 카드 매체",
+			"soulGroup": "4",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "5000007",
+			"soulName": "어둠의 리팩터",
+			"description": "버전업한 심연계 디지몬의 상태이상 내성을 변화시킬 때 필요한 카드 매체",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
