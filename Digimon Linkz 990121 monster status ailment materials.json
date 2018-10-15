@@ -16,6 +16,21 @@
 			"materialAssetNum4": "20"
 		},
 		{
+			"monsterStatusAilmentMaterialId": "2",
+			"materialAssetCategoryId1": "14",
+			"materialAssetValue1": "5000002",
+			"materialAssetNum1": "3",
+			"materialAssetCategoryId2": "14",
+			"materialAssetValue2": "2010002",
+			"materialAssetNum2": "40",
+			"materialAssetCategoryId3": "14",
+			"materialAssetValue3": "2010003",
+			"materialAssetNum3": "30",
+			"materialAssetCategoryId4": "14",
+			"materialAssetValue4": "2010004",
+			"materialAssetNum4": "20"
+		},
+		{
 			"monsterStatusAilmentMaterialId": "3",
 			"materialAssetCategoryId1": "14",
 			"materialAssetValue1": "5000003",
@@ -58,6 +73,21 @@
 			"materialAssetNum3": "30",
 			"materialAssetCategoryId4": "14",
 			"materialAssetValue4": "2050004",
+			"materialAssetNum4": "20"
+		},
+		{
+			"monsterStatusAilmentMaterialId": "7",
+			"materialAssetCategoryId1": "14",
+			"materialAssetValue1": "5000007",
+			"materialAssetNum1": "3",
+			"materialAssetCategoryId2": "14",
+			"materialAssetValue2": "2060002",
+			"materialAssetNum2": "40",
+			"materialAssetCategoryId3": "14",
+			"materialAssetValue3": "2060003",
+			"materialAssetNum3": "30",
+			"materialAssetCategoryId4": "14",
+			"materialAssetValue4": "2060004",
 			"materialAssetNum4": "20"
 		},
 		{

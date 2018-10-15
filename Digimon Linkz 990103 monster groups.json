@@ -4846,6 +4846,23 @@
 			"modelId": "340"
 		},
 		{
+			"monsterGroupId": "341",
+			"monsterCollectionId": "60341",
+			"monsterName": "Dynasmon X Anti-body",
+			"simpleDescription": "",
+			"description": "The powers of a wyvern drawn out by the X Anti-body, and transformed into a sinister figure. With it's excessive power it can reach high altitudes in an instant with just a flap of its wings. It's the most skillful Royal Knight when it comes to aerial combat.",
+			"growStep": "7",
+			"tribe": "1",
+			"partyCharaPosX": "0",
+			"partyCharaPosY": "-1.4",
+			"partyCharaPosZ": "-0.1",
+			"partyCharaRotY": "-180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "341"
+		},
+		{
 			"monsterGroupId": "342",
 			"monsterCollectionId": "60342",
 			"monsterName": "AncientGarurumon",

@@ -14131,6 +14131,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "960",
+			"name": "Dragon's Gust",
+			"simpleDescription": "",
+			"description": "Massive magical Nature damage to a single enemy",
+			"type": "2",
+			"skillGroupId": "341",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "341",
+			"soundEffect": "bt_919",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "961",
+			"name": "Dragon's Gust",
+			"simpleDescription": "",
+			"description": "Massive magical Nature damage to a single enemy",
+			"type": "2",
+			"skillGroupId": "341",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "341",
+			"soundEffect": "bt_919",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "962",
 			"name": "Sharp Claymore",
 			"simpleDescription": "",

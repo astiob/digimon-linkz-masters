@@ -817,6 +817,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070341",
+			"soulName": "Dynasmon X Anti-body Data Fragment",
+			"description": "A data fragment required to Digivolve into Dynasmon X Anti-body.",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070342",
 			"soulName": "AncientGarurumon Data Fragment",
 			"description": "A data fragment required to Digivolve into AncientGarurumon.",
@@ -1169,6 +1177,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "4000002",
+			"soulName": "Fire Upgrade Data",
+			"description": "A program required to Version Upgrade a Blazing Digimon.",
+			"soulGroup": "3",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
 			"soulId": "4000003",
 			"soulName": "Water Upgrade Data",
 			"description": "A program required to Version Upgrade a Glacier Digimon.",
@@ -1193,9 +1209,25 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "4000007",
+			"soulName": "Darkness Upgrade Data",
+			"description": "A program required to Version Upgrade an Abyss Digimon.",
+			"soulGroup": "3",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
 			"soulId": "5000001",
 			"soulName": "Null Re-factor",
 			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Mirage Tribe Digimon.",
+			"soulGroup": "4",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "5000002",
+			"soulName": "Fire Re-factor",
+			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Blazing Tribe Digimon.",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
@@ -1220,6 +1252,14 @@
 			"soulId": "5000006",
 			"soulName": "Light Re-factor",
 			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Bright Tribe Digimon.",
+			"soulGroup": "4",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "5000007",
+			"soulName": "Darkness Re-factor",
+			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Abyss Tribe Digimon.",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"

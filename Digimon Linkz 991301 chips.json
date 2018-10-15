@@ -7767,6 +7767,72 @@
 			"effect": "chip_effect_10125"
 		},
 		{
+			"chipId": "100363",
+			"chipGroupId": "10126",
+			"name": "Blazing x Abyss RUSH Drop Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10126",
+			"detail": "ATK +20. Also increases Data Byte drop by 1 in \"Blazing x Abyss RUSH\".",
+			"effect": "chip_effect_10126"
+		},
+		{
+			"chipId": "100364",
+			"chipGroupId": "10126",
+			"name": "Blazing x Abyss RUSH Drop Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10126",
+			"detail": "ATK +30. Also increases Data Byte drop by 3 in \"Blazing x Abyss RUSH\".",
+			"effect": "chip_effect_10126"
+		},
+		{
+			"chipId": "100365",
+			"chipGroupId": "10126",
+			"name": "Blazing x Abyss RUSH Drop Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10126",
+			"detail": "ATK +50. Also increases Data Byte drop by 9 in \"Blazing x Abyss RUSH\".",
+			"effect": "chip_effect_10126"
+		},
+		{
+			"chipId": "100366",
+			"chipGroupId": "10127",
+			"name": "Blazing × Abyss RUSH EX stage Specialty Chip  C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10127",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"Blazing x Abyss RUSH\" event.",
+			"effect": "chip_effect_10127"
+		},
+		{
+			"chipId": "100367",
+			"chipGroupId": "10127",
+			"name": "Blazing × Abyss RUSH EX stage Specialty Chip  B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10127",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"Blazing x Abyss RUSH\" event.",
+			"effect": "chip_effect_10127"
+		},
+		{
+			"chipId": "100368",
+			"chipGroupId": "10127",
+			"name": "Blazing × Abyss RUSH EX stage Specialty Chip  A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10127",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Blazing x Abyss RUSH\" event.",
+			"effect": "chip_effect_10127"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",
