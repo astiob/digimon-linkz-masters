@@ -859,6 +859,19 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6148",
+			"worldAreaId": "1094",
+			"priority": "1050",
+			"name": "陽炎 × 深淵 RUSH！",
+			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/52/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",

@@ -817,6 +817,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070341",
+			"soulName": "杜納斯獸X抗體的資料碎片",
+			"description": "杜納斯獸X抗體時所需的資料碎片。",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070342",
 			"soulName": "古代加魯魯獸的資料碎片",
 			"description": "進化成電古代加魯魯獸時所需的資料碎片。",
@@ -1169,6 +1177,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "4000002",
+			"soulName": "火的升級資料",
+			"description": "陽炎系數碼寶貝進行型態升級時所需的程式。",
+			"soulGroup": "3",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
 			"soulId": "4000003",
 			"soulName": "水的升級資料",
 			"description": "冰河系數碼寶貝進行型態升級時所需的程式。",
@@ -1193,9 +1209,25 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "4000007",
+			"soulName": "闇的升級資料",
+			"description": "深淵系數碼寶貝進行型態升級時所需的程式。",
+			"soulGroup": "3",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
 			"soulId": "5000001",
 			"soulName": "無的重構工具",
 			"description": "已型態升級的幻生系數碼寶貝，進行異常狀態抗性變化時所需的卡片媒體。",
+			"soulGroup": "4",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "5000002",
+			"soulName": "火的重構工具",
+			"description": "已型態升級的陽炎系數碼寶貝，進行異常狀態抗性變化時所需的卡片媒體。",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
@@ -1220,6 +1252,14 @@
 			"soulId": "5000006",
 			"soulName": "光的重構工具",
 			"description": "已型態升級的光芒系數碼寶貝，進行異常狀態抗性變化時所需的卡片媒體。",
+			"soulGroup": "4",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "5000007",
+			"soulName": "闇的重構工具",
+			"description": "已型態升級的深淵系數碼寶貝，進行異常狀態抗性變化時所需的卡片媒體。",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"

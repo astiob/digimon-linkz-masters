@@ -14131,6 +14131,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "960",
+			"name": "飛龍暴風",
+			"simpleDescription": "",
+			"description": "以自然屬性攻擊\n給予敵人單體魔法特大傷害。",
+			"type": "2",
+			"skillGroupId": "341",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "341",
+			"soundEffect": "bt_919",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "961",
+			"name": "飛龍暴風",
+			"simpleDescription": "",
+			"description": "以自然屬性攻擊\n給予敵人單體魔法特大傷害。",
+			"type": "2",
+			"skillGroupId": "341",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "341",
+			"soundEffect": "bt_919",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "962",
 			"name": "鋒利雙刃",
 			"simpleDescription": "",

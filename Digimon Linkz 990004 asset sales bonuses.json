@@ -199,6 +199,60 @@
 			"exValue": "0"
 		},
 		{
+			"assetSalesBonusId": "366",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100363",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "1",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "367",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100364",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "8",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "368",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100365",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "50",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "369",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100366",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "1",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "370",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100367",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "8",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "371",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100368",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "50",
+			"exValue": "0"
+		},
+		{
 			"assetSalesBonusId": "500001",
 			"baseAssetCategoryId": "1",
 			"baseAssetValue": "831",
@@ -5662,6 +5716,15 @@
 			"exValue": "0"
 		},
 		{
+			"assetSalesBonusId": "520030",
+			"baseAssetCategoryId": "1",
+			"baseAssetValue": "20031",
+			"bonusAssetCategoryId": "14",
+			"bonusAssetValue": "1070173",
+			"bonusAssetNum": "14",
+			"exValue": "0"
+		},
+		{
 			"assetSalesBonusId": "520055",
 			"baseAssetCategoryId": "1",
 			"baseAssetValue": "20056",
@@ -5883,6 +5946,24 @@
 			"baseAssetValue": "20291",
 			"bonusAssetCategoryId": "14",
 			"bonusAssetValue": "1070225",
+			"bonusAssetNum": "14",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "520435",
+			"baseAssetCategoryId": "1",
+			"baseAssetValue": "20436",
+			"bonusAssetCategoryId": "14",
+			"bonusAssetValue": "1070317",
+			"bonusAssetNum": "14",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "520475",
+			"baseAssetCategoryId": "1",
+			"baseAssetValue": "20476",
+			"bonusAssetCategoryId": "14",
+			"bonusAssetValue": "1070330",
 			"bonusAssetNum": "14",
 			"exValue": "0"
 		},
