@@ -12013,6 +12013,72 @@
 			"effect": "chip_effect_10127"
 		},
 		{
+			"chipId": "100369",
+			"chipGroupId": "10128",
+			"name": "蒼零のPt特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10128",
+			"detail": "ATK+20。「蒼零X機獣」で獲得Ptが1.5倍になる。",
+			"effect": "chip_effect_10128"
+		},
+		{
+			"chipId": "100370",
+			"chipGroupId": "10128",
+			"name": "蒼零のPt特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10128",
+			"detail": "ATK+30。「蒼零X機獣」で獲得Ptが2.5倍になる。",
+			"effect": "chip_effect_10128"
+		},
+		{
+			"chipId": "100371",
+			"chipGroupId": "10128",
+			"name": "蒼零のPt特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10128",
+			"detail": "ATK+50。「蒼零X機獣」で獲得Ptが5.5倍になる。",
+			"effect": "chip_effect_10128"
+		},
+		{
+			"chipId": "100372",
+			"chipGroupId": "10129",
+			"name": "蒼零のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10129",
+			"detail": "S-ATK+20。「蒼零X機獣」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10129"
+		},
+		{
+			"chipId": "100373",
+			"chipGroupId": "10129",
+			"name": "蒼零のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10129",
+			"detail": "S-ATK+30。「蒼零X機獣」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10129"
+		},
+		{
+			"chipId": "100374",
+			"chipGroupId": "10129",
+			"name": "蒼零のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10129",
+			"detail": "S-ATK+50。「蒼零X機獣」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10129"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

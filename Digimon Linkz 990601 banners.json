@@ -7985,6 +7985,50 @@
 			"dispNum": "7",
 			"startTime": "2018-10-11 16:00:00",
 			"endTime": "2018-10-17 23:59:59"
+		},
+		{
+			"bannerId": "764",
+			"actionType": "menu",
+			"name": "イベント「蒼零X機獣」開催！",
+			"img": "/events/point/37/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1225",
+			"dispNum": "50",
+			"startTime": "2018-10-18 18:00:00",
+			"endTime": "2018-10-24 23:59:59"
+		},
+		{
+			"bannerId": "765",
+			"actionType": "menu",
+			"name": "蒼零X機獣 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30094/30094_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1226",
+			"dispNum": "7",
+			"startTime": "2018-10-18 16:00:00",
+			"endTime": "2018-10-24 23:59:59"
+		},
+		{
+			"bannerId": "766",
+			"actionType": "menu",
+			"name": "爆炎竜育成チケットキャプチャ開催！",
+			"img": "/gasha/special/20010/20010_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1227",
+			"dispNum": "23",
+			"startTime": "2018-10-19 16:00:00",
+			"endTime": "2018-10-22 23:59:59"
+		},
+		{
+			"bannerId": "767",
+			"actionType": "menu",
+			"name": "イベント「爆炎の竜影」開催！",
+			"img": "/events/syuusyuu/10001/Holding_5.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1228",
+			"dispNum": "52",
+			"startTime": "2018-10-19 18:00:00",
+			"endTime": "2018-10-22 23:59:59"
 		}
 	]
 }
