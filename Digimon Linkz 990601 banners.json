@@ -2254,6 +2254,50 @@
 			"dispNum": "25",
 			"startTime": "2018-10-15 16:00:00",
 			"endTime": "2018-10-21 13:59:59"
+		},
+		{
+			"bannerId": "100208",
+			"actionType": "menu",
+			"name": "The \"Glacier Blue X Mechanical Beast\"Special Chip Capture has begun!",
+			"img": "/gasha/special/30094/30094_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=408",
+			"dispNum": "20",
+			"startTime": "2018-10-22 16:00:00",
+			"endTime": "2018-10-28 13:59:59"
+		},
+		{
+			"bannerId": "100209",
+			"actionType": "menu",
+			"name": "\"Fire Blasting Dragon Training\" Tickets Capture",
+			"img": "/gasha/special/200015/200015_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=409",
+			"dispNum": "25",
+			"startTime": "2018-10-23 16:00:00",
+			"endTime": "2018-10-26 23:59:59"
+		},
+		{
+			"bannerId": "100210",
+			"actionType": "menu",
+			"name": "The \"Dragon Shadow of the Fire Blast\" event has begun!",
+			"img": "/events/syuusyuu/10001/Holding_5.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=410",
+			"dispNum": "51",
+			"startTime": "2018-10-23 18:00:00",
+			"endTime": "2018-10-26 23:59:59"
+		},
+		{
+			"bannerId": "100211",
+			"actionType": "menu",
+			"name": "The \"Glacier Blue X Mechanical Beast\" event has begun!",
+			"img": "/events/point/37/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=407",
+			"dispNum": "50",
+			"startTime": "2018-10-22 18:00:00",
+			"endTime": "2018-10-28 13:59:59"
 		}
 	]
 }

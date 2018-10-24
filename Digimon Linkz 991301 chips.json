@@ -7833,6 +7833,72 @@
 			"effect": "chip_effect_10127"
 		},
 		{
+			"chipId": "100369",
+			"chipGroupId": "10128",
+			"name": "Glacier Blue Pt Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10128",
+			"detail": "ATK +20. Also increases obtainable Pts by x1.5 in \"Glacier Blue X Mechanical Beast\" event.",
+			"effect": "chip_effect_10128"
+		},
+		{
+			"chipId": "100370",
+			"chipGroupId": "10128",
+			"name": "Glacier Blue Pt Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10128",
+			"detail": "ATK +30. Also increases obtainable Pts by x2.5 in \"Glacier Blue X Mechanical Beast\" event.",
+			"effect": "chip_effect_10128"
+		},
+		{
+			"chipId": "100371",
+			"chipGroupId": "10128",
+			"name": "Glacier Blue Pt Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10128",
+			"detail": "ATK +50. Also increases obtainable Pts by x5.5 in \"Glacier Blue X Mechanical Beast\" event.",
+			"effect": "chip_effect_10128"
+		},
+		{
+			"chipId": "100372",
+			"chipGroupId": "10129",
+			"name": "Glacier Blue EX stage Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10129",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the EXTRA STAGE in the \"Glacier Blue X Mechanical Beast\" event.",
+			"effect": "chip_effect_10129"
+		},
+		{
+			"chipId": "100373",
+			"chipGroupId": "10129",
+			"name": "Glacier Blue EX stage Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10129",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the EXTRA STAGE in the \"Glacier Blue X Mechanical Beast\" event.",
+			"effect": "chip_effect_10129"
+		},
+		{
+			"chipId": "100374",
+			"chipGroupId": "10129",
+			"name": "Glacier Blue EX stage Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10129",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the EXTRA STAGE in the \"Glacier Blue X Mechanical Beast\" event.",
+			"effect": "chip_effect_10129"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",
