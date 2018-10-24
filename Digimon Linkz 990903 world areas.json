@@ -123,7 +123,7 @@
 		{
 			"worldAreaId": "1010",
 			"worldId": "6",
-			"priority": "10",
+			"priority": "20",
 			"name": "爆炎的龍影",
 			"img": "syuusyuu/10001/Holding_1.png",
 			"description": "",
@@ -200,6 +200,18 @@
 			"img": "syuusyuu/52/Holding_1.png",
 			"description": "陽炎 × 深淵 RUSH！",
 			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "1095",
+			"worldId": "6",
+			"priority": "10",
+			"name": "蒼零X機獸",
+			"img": "point/37/Holding_1.png",
+			"description": "蒼零X機獸",
+			"type": "4",
 			"prerequisiteWorldAreaId": "0",
 			"openTime": "2015-05-01 00:00:00",
 			"closeTime": "2030-05-01 00:00:00"

@@ -3,177 +3,177 @@
 		{
 			"helpId": "1",
 			"helpCategoryId": "1",
-			"helpTitle": "디지몬 링크즈",
+			"helpTitle": "數碼寶貝Linkz",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>디지털 월드와 현실 세계를 연결하는 앱,<br/><span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>입니다.</div><div class='txt margin_top_10'>사람들은 <span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>를 통해 또 다른 세계인<br/>디지털 월드에 접속할 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>連結數碼世界與現實世界的App，<br/>就是<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>。</div><div class='txt margin_top_10'>藉由<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>，人們就能夠登入位於<br/>異世界的數碼世界。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "2",
 			"helpCategoryId": "1",
-			"helpTitle": "게임 목적",
+			"helpTitle": "遊戲目的",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>디지털 월드의 붕괴로 다양한 디지털 데이터가<br/>분해되어 <span class='fnt_emphasis fnt_bold'>클러스터</span>로 변했고,<br/>그 영향으로 각지의 디지몬이 폭주했습니다.</div><div class='txt margin_top_10'>디지털 월드를 바로잡기 위해<br/>폭주한 디지몬과 싸우고 클러스터를 모아<br/>디지몬을 육성합시다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>由於數碼世界崩壞，所有數碼資料皆片斷化，<br/>成為<span class='fnt_emphasis fnt_bold'>數碼碎片</span>。<br/>各地的數碼寶貝也因此受到影響開始失控。</div><div class='txt margin_top_10'>與失控的數碼寶貝進行戰鬥，蒐集數碼碎片，<br/>為了重新建構數碼世界而<br/>養成數碼寶貝，就是本遊戲的主要目的。</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "3",
 			"helpCategoryId": "1",
-			"helpTitle": "디지몬알",
+			"helpTitle": "數碼蛋",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>디지몬의 알입니다. 디지몬알을 쓰다듬으면 유년기 Ⅰ 디지몬이 태어납니다.</div><div class='txt margin_top_10'>디지몬 링크즈에선<span class='fnt_emphasis fnt_bold'>연구</span>를 통해 <span class='fnt_emphasis fnt_bold'>디지몬알</span>이 태어납니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>數碼寶貝的蛋。若撫摸數碼蛋，會孵化出幼年期I的數碼寶貝。</div><div class='txt margin_top_10'>在數碼寶貝Linkz中，進行<span class='fnt_emphasis fnt_bold'>研究</span>，會產生<span class='fnt_emphasis fnt_bold'>數碼蛋</span>。</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "4",
 			"helpCategoryId": "2",
-			"helpTitle": "스테이터스",
+			"helpTitle": "狀態",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>디지몬의 각 스테이터스는 다음과 같습니다.</div><br /><div class='txt margin_top_10'>HP: 디지몬의 '체력'을 나타내는 수치입니다.<br /><div class='txt margin_top_10'>ATK: '공격력'을 나타냅니다. 이 수치가 높을수록<br />물리공격 계열 스킬 및 '공격' 대미지가 상승합니다.</div><div class='txt margin_top_10'>DEF: '방어력'을 나타냅니다. 이 수치가 높을수록<br />상대의 물리공격 계열 스킬 및 '공격' 대미지가 감소합니다.</div><div class='txt margin_top_10'>S-ATK: '마법공격력'을 나타냅니다. 이 수치가 높을수록<br />마법공격 계열 스킬 대미지가 상승합니다.</div><div class='txt margin_top_10'> S-DEF: '마법방어력'을 나타냅니다. 이 수치가 높을수록<br />적의 마법공격 계열 스킬 대미지가 감소합니다.</div><div class='txt margin_top_10'>SPD: '속도'를 나타내며, 라운드 내 공격 순서에 영향을 줍니다.<br />수치가 높을수록 순서가 빨리 돌아옵니다.</div><div class='txt margin_top_10'>행운: 이 수치가 높을수록 행운 보너스 추첨이 자주 발생합니다.<br />성장 단계 및 각성치에 따라 최대치가 다릅니다.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>數碼寶貝的各項狀態如下。</div><br /><div class='txt margin_top_10'>HP：顯示數碼寶貝「體力」的數值。<br /><div class='txt margin_top_10'>ATK：顯示「攻擊力」的數值。當此數值越高，<br />物理攻擊系的技能與「ATTACK」所造成的傷害也就越高。</div><div class='txt margin_top_10'>DEF：顯示「防禦力」的數值。當此數值越高，<br />對手的物理攻擊系技能與「ATTACK」所造成的傷害也就越低。</div><div class='txt margin_top_10'>S-ATK：顯示「魔法攻擊力」的數值。當此數值越高，<br />魔法攻擊系的技能所造成的傷害也就越高。</div><div class='txt margin_top_10'>S-DEF：顯示「魔法防禦力」的數值。當此數值越高，<br />對手的魔法攻擊系技能所造成的傷害也就越低。</div><div class='txt margin_top_10'>SPD：顯示「速度」的數值。會影響回合內的攻擊順序。<br />當此數值越高，能夠提升優先發動攻擊的機率。</div><div class='txt margin_top_10'>運氣：當此數值越高，會提升運氣獎勵抽籤發生的機率。<br />依成長階段及覺醒值，上限值也會隨之不同。<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "5",
 			"helpCategoryId": "2",
-			"helpTitle": "우정도",
+			"helpTitle": "友情度",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>당신과 디지몬의 우정이 얼마나 깊어졌는지 알 수 있습니다.<br/>농장에서 디지몬을 터치하거나, 배틀에 참가시켜<br/>승리하면 우정도가 상승합니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>우정도</span>가 일정 수치 이상이 되면 스테이터스도 상승합니다.</div><div class='txt margin_top_10'>또한 우정도가 최대일 때 연구를 실행하면<br/><span class='fnt_emphasis fnt_bold'>각성치</span>가 1 상승합니다.</div><div class='txt margin_top_10'>농장에서는 디지몬 한 마리당 하루에 한번 우정도를 올릴 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>顯示您與數碼寶貝間培育出的友情程度。<br/>在農場內點擊數碼寶貝， <br/>或參加戰鬥並獲得勝利皆會提升。</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>友情度</span>達到一定程度，狀態也會提升。</div><div class='txt margin_top_10'>若在友情度達到上限的狀態進行研究，<br/><span class='fnt_emphasis fnt_bold'>覺醒值</span>將會提升1。</div><div class='txt margin_top_10'>每隻數碼寶貝，每天僅能在農場提升一次友情度。</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "6",
 			"helpCategoryId": "2",
-			"helpTitle": "각성치",
+			"helpTitle": "覺醒值",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>디지몬의 기본 스테이터스에 영향을 주는 수치입니다.</div><div class='txt margin_top_10'>베이스 디지몬의 우정도가 최대치인 상태에서 '연구'를 실행하면, 각성하여 기본 스테이터스가 상승합니다.<br />각성치는 최대 '+4'까지 올릴 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>影響數碼寶貝基本狀態的數值。</div><div class='txt margin_top_10'>在基本體數碼寶貝友情度達到上限值的狀態下進行「研究」，能夠覺醒並提升基本狀態。<br />覺醒值最大可達到「+4」。</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "7",
 			"helpCategoryId": "2",
-			"helpTitle": "재능이란",
+			"helpTitle": "關於才能",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>디지몬은 드물게 <span class='fnt_emphasis fnt_bold'>재능</span>을 지니고 있기도 합니다.<br />재능을 지니고 있으면 스테이터스에 <span class='fnt_emphasis fnt_bold'>재능 메달</span>이 붙습니다.</div><div class='txt margin_top_10'>재능 메달이 붙은 스테이터스는<br />이름과 각성치가 같은 디지몬의 스테이터스보다 <span class='fnt_emphasis fnt_bold'>높습니다</span>.</div><div class='txt margin_top_10'>재능 메달엔 <span class='fnt_emphasis fnt_bold'>금 재능 메달</span>과 <span class='fnt_emphasis fnt_bold'>은 재능 메달</span> 2종류가 있으며,<br />은 재능 메달보다 금 재능 메달의<br />스테이터스 상승폭이 높습니다.<br />또한 각 메달에는 Ⅰ~Ⅵ까지 숫자가 붙으며<br />숫자가 높을수록 스테이터스도 높아집니다.</div><div class='txt margin_top_10'>재능 메달은 재능 개발 시 디지몬 1마리당<br /><span class='fnt_emphasis fnt_bold'>행운·우정도를 제외한 각 스테이터스에 1개씩</span>,<br /><span class='fnt_emphasis fnt_bold'>최대 6개</span>까지 부여할 수 있습니다.<br />또한 <span class='fnt_emphasis fnt_bold'>금 재능 메달은 최대 2개</span>, <span class='fnt_emphasis fnt_bold'>은 재능 메달은 최대 6개</span>까지<br />부여할 수 있습니다.</div><div class='txt margin_top_10'>베이스 디지몬과 파트너 디지몬의 재능 메달은<br />재능 개발을 반복하면<br /><span class='fnt_emphasis fnt_bold'>확률에 따라 스테이터스 상승폭이 오릅니다.</span><br />※재능 메달로 올라가는 스테이터스에는 상한선이 있습니다.</div><div class='txt margin_top_10'>또한 파트너 디지몬의 재능 메달은 확률에 따라 계승됩니다.<br />재능 개발로 계승되는 재능 메달은 다음과 같습니다.<br />·은 재능 메달을 지닌 경우: 은 재능 메달 계승 혹은 아무것도 계승되지 않음.<br />·금 재능 메달을 지닌 경우: 금 재능 메달 계승 혹은 은 재능 메달 계승.</div><div class='txt margin_top_10'>재능 개발 시 금 재능 메달의 수가 상한선을 초과하는 경우<br />금 재능 메달을 부여할 수 있는 스테이터스 중에서<br />무작위로 선택된 스테이터스가 최대치까지 상승하며, 선택되지 않은 스테이터스엔<br />은 재능 메달이 부여됩니다.</div><div class='txt margin_top_10'>이미 금 재능 메달이 상한선에 도달한 디지몬에겐 새로운 금 재능 메달이 부여되지 않습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>有些數碼寶貝擁有極為稀少的<span class='fnt_emphasis fnt_bold'>才能</span>。<br />若數碼寶貝擁有才能時，狀態中會顯示<span class='fnt_emphasis fnt_bold'>才能獎牌</span>。</div><div class='txt margin_top_10'>附加有才能獎牌的狀態，<br />會比同名稱、同覺醒值的數碼寶貝狀態<span class='fnt_emphasis fnt_bold'>數值更高</span>。</div><div class='txt margin_top_10'>才能獎牌分為<span class='fnt_emphasis fnt_bold'>金色的才能獎牌</span>與<span class='fnt_emphasis fnt_bold'>銀色的才能獎牌</span>兩種，<br />比起銀色的才能獎牌，金色的才能獎牌<br />的狀態數值更高。<br />而每個獎牌上都有I～VI的數字，<br />數字越高，狀態數值也越高。</div><div class='txt margin_top_10'>藉由才能開花，每隻數碼寶貝能夠在<br /><span class='fnt_emphasis fnt_bold'>運氣、友情度以外的狀態各裝備1個才能獎牌</span>，<br /><span class='fnt_emphasis fnt_bold'>最多可裝備6個</span>。<br />另外，<span class='fnt_emphasis fnt_bold'>金色的才能獎牌最多2個</span> ，<span class='fnt_emphasis fnt_bold'>銀色的才能獎牌最多6個</span>，<br />各有其裝備數量的限制。</div><div class='txt margin_top_10'>基本體數碼寶貝與夥伴數碼寶貝的才能獎牌，<br />藉由才能開花進行重合，<br /><span class='fnt_emphasis fnt_bold'>狀態的提升值將會隨機率上升</span>。<br />※才能獎牌的狀態提升值具有上限。</div><div class='txt margin_top_10'>另外，有一定機率能夠繼承夥伴數碼寶貝的才能獎牌。<br />藉由才能開花能夠繼承的才能獎牌如下述：<br />・若是銀色的才能獎牌，將會維持銀色的才能獎牌或無才能獎牌的狀態。<br />・若是金色的才能獎牌，將會維持金色的才能獎牌或變成銀色的才能獎牌。 </div><div class='txt margin_top_10'>在才能開花時，若金色的才能獎牌超過上限數，<br />將會從可裝上金色的才能獎牌之狀態中亂數選擇，<br />使其達到上限數，未被選擇的狀態則會變成<br />銀色的才能獎牌。</div><div class='txt margin_top_10'>金色的才能獎牌已達到上限數的數碼寶貝，無法再裝備金色的才能獎牌。</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "8",
 			"helpCategoryId": "3",
-			"helpTitle": "농장이란",
+			"helpTitle": "關於農場",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>디지털 월드의 바탕과도 같은 데이터가 있는 영역입니다.<br/>플레이어는 이곳을 거점으로 삼아 게임을 진행합니다.</div><div class='txt margin_top_10'>배틀에 도움이 되거나, 디지몬 육성에 필요한 시설을<br/>만들 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>含有數碼世界基礎資料的領域。<br/>玩家以此處為據點進行遊戲。</div><div class='txt margin_top_10'>可建蓋各種有利於進行戰鬥或<br/>養成數碼寶貝的設施。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "9",
 			"helpCategoryId": "3",
-			"helpTitle": "스태미너",
+			"helpTitle": "體力",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>퀘스트에서 소비하는 포인트입니다. 3분마다 1씩 회복됩니다.<br/>디지스톤을 사용하면 현재 스태미너의 최대치까지<br/>바로 회복할 수 있습니다.</div><div class='txt margin_top_10'>초기 스태미너는 30이며, 농장의 시설에 따라 증가합니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>進行冒險時消耗的點數。每3分鐘可回復1點。<br/>若使用數碼石，<br/>可馬上回復至當下的最大體力值。</div><div class='txt margin_top_10'>初期數值為30，可藉由農場設施增加。</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "10",
 			"helpCategoryId": "3",
-			"helpTitle": "디지스톤",
+			"helpTitle": "數碼石",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>특별한 데이터의 조각입니다.<br/>모으면 디지몬을 호출하거나<br/>시간 개념을 비틀 수 있습니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>레어 캡처</span>로 디지몬을 호출하거나<br/>전투불능 상태가 된 디지몬을 <span class='fnt_emphasis fnt_bold'>부활</span>시키기도 하며,<br/><span class='fnt_emphasis fnt_bold'>스태미너 회복</span> 및 퀘스트에서 <span class='fnt_emphasis fnt_bold'>컨티뉴</span>할 때도 사용합니다.</div><div class='txt margin_top_10'>디지스톤은 각종 보상으로 획득하거나, 샵에서 구입할 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>特別的資料變成的碎片。<br/>藉由蒐集數碼石，可召喚數碼寶貝，<br/>或扭曲時間的概念。</div><div class='txt margin_top_10'>能夠以<span class='fnt_emphasis fnt_bold'>稀有捕捉</span>召喚數碼寶貝，<br/>或是<span class='fnt_emphasis fnt_bold'>復活</span>無法戰鬥的數碼寶貝、<br/><span class='fnt_emphasis fnt_bold'>回復體力、</span>冒險時進行<span class='fnt_emphasis fnt_bold'>接關</span>等，有各種使用方式。</div><div class='txt margin_top_10'>數碼石可藉由各種報酬獲得，或是由商店購得。</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "11",
 			"helpCategoryId": "3",
-			"helpTitle": "클러스터",
+			"helpTitle": "資料碎片",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>디지털 월드가 균열을 일으키면서<br/>데이터가 분해되어 만들어진 파편입니다.</div><div class='txt margin_top_10 '>모으면 농장의<span class='fnt_emphasis fnt_bold'>시설</span>을 건설할 때나,<br/>디지몬의 <span class='fnt_emphasis fnt_bold'>강화</span>·<span class='fnt_emphasis fnt_bold'>진화</span> 등에 사용할 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>由於數碼世界的片斷化，<br/>而被分解成碎片的資料。</div><div class='txt margin_top_10 '>蒐集數碼碎片後，可用於<span class='fnt_emphasis fnt_bold'>建蓋農場設施</span>， <br/>以及數碼寶貝的<span class='fnt_emphasis fnt_bold'>強化</span>、<span class='fnt_emphasis fnt_bold'>進化</span>等。</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "12",
 			"helpCategoryId": "3",
-			"helpTitle": "미션",
+			"helpTitle": "任務",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>[농장]에서 <span class='fnt_emphasis fnt_bold'>미션</span>을 터치하면 확인할 수 있습니다.<br/>미션 조건을 클리어하면 보상을 얻습니다.<br/>클리어한 미션의 [수령하기]를 터치하면<br/>보상이 선물상자에 도착합니다.</div><div class='txt margin_top_10'>미션 중에는 초보자를 위한 <span class='fnt_emphasis fnt_bold'>초보자 미션</span>과 매일 갱신되는 <span class='fnt_emphasis fnt_bold'>데일리 미션</span>, 꾸준한 플레이를 통해 달성하는 <span class='fnt_emphasis fnt_bold'>누적 미션</span>이 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>點擊【農場】中的<span class='fnt_emphasis fnt_bold'>任務</span>即可確認。<br/>完成任務條件後即可獲得報酬。<br/>點擊完成任務的〔領取〕，<br/>報酬將會送到禮物盒中。</div><div class='txt margin_top_10'>任務有分為針對新手的<span class='fnt_emphasis fnt_bold'>新手任務</span>、每天不同的<span class='fnt_emphasis fnt_bold'>每日任務</span>，和達成累積數的<span class='fnt_emphasis fnt_bold'>累積任務</span>。</div></article>",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "13",
 			"helpCategoryId": "3",
-			"helpTitle": "선물 수령 방법",
+			"helpTitle": "領取禮物的方法",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>[농장]에서 <span class='fnt_emphasis fnt_bold'>선물상자</span>를 터치한 뒤 [수령하기]를 터치하면<br/><span class='fnt_emphasis fnt_bold'>선물</span>을 받을 수 있습니다.</div><div class='txt margin_top_10'>선물이 여러 개 있을 경우<span class='fnt_emphasis fnt_bold'>, 모두 수령하기</span>로 한꺼번에 받을 수도 있습니다.</div><div class='txt margin_top_10'>선물은 <span class='fnt_emphasis fnt_bold'>30일 동안</span> 보관되며, 기간이 지나면 오래된 것부터<br/>차례대로 소멸합니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>點擊【農場】中的<span class='fnt_emphasis fnt_bold'>禮物盒</span>，並點擊〔領取〕，<br/>即可領取<span class='fnt_emphasis fnt_bold'>禮物</span>。</div><div class='txt margin_top_10'>當禮物數量在兩個以上時，能夠一次<span class='fnt_emphasis fnt_bold'>全部領取</span>。</div><div class='txt margin_top_10'>禮物將會被保管<span class='fnt_emphasis fnt_bold'>30天</span>，若超過保管期限，將會依序由舊的禮物<br/>開始刪除。</div></article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "14",
 			"helpCategoryId": "3",
-			"helpTitle": "로그인 보너스",
+			"helpTitle": "登入獎勵",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>하루에 한 번, 로그인하면 <span class='fnt_emphasis fnt_bold'>로그인 보너스</span>를 받을 수 있습니다.</div><div class='txt margin_top_10'>로그인 보너스는 매일 {'5:00:00'|timezone_format:0:'H:i'}에 갱신됩니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>每天登入一次，將會獲得<span class='fnt_emphasis fnt_bold'>登入獎勵</span>。</div><div class='txt margin_top_10'>登入獎勵於每天{'5:00:00'|timezone_format:0:'H:i'}更新。</div></article>",
 			"helpPriority": "7"
 		},
 		{
 			"helpId": "15",
 			"helpCategoryId": "4",
-			"helpTitle": "탐색이란",
+			"helpTitle": "關於探索",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>스태미너를 소비하여 각지에서 폭주한 디지몬을 쓰러뜨리는<br/>퀘스트로 진입하는 입구입니다.</div><div class='txt margin_top_10'>상시 개방되는 <span class='fnt_emphasis fnt_bold'>통상 퀘스트</span>와 기간 한정으로 개방되는<br/><span class='fnt_emphasis fnt_bold'>요일 퀘스트, 강림 퀘스트</span> 등이 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>消耗體力，打倒各地失控的數碼寶貝的<br/>冒險入口。</div><div class='txt margin_top_10'>分為隨時開啟的<span class='fnt_emphasis fnt_bold'>一般冒險</span>及限期開啟的<br/><span class='fnt_emphasis fnt_bold'>每日冒險、降臨冒險</span>等不同種類。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "16",
 			"helpCategoryId": "4",
-			"helpTitle": "통상 퀘스트",
+			"helpTitle": "一般冒險",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>상시 개방되는 메인 퀘스트입니다. 배틀에서 승리하면<br/><span class='fnt_emphasis fnt_bold'>EXP</span>와 <span class='fnt_emphasis fnt_bold'>클러스터</span>, <span class='fnt_emphasis fnt_bold'>플러그인(진화 재료)</span>를 얻을 수 있습니다.</div><div class='txt margin_top_10'>에어리어의 모든 스테이지를 클리어하면 다음 에어리어가 해금됩니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>隨時開啟的主要冒險。若戰鬥勝利，可獲得<br/><span class='fnt_emphasis fnt_bold'>EXP</span>、 <span class='fnt_emphasis fnt_bold'>數碼碎片</span>或<span class='fnt_emphasis fnt_bold'>外掛（進化素材）</span>。</div><div class='txt margin_top_10'>若將區域內所有關卡過關，就會解鎖下一個區域。</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "17",
 			"helpCategoryId": "4",
-			"helpTitle": "요일 퀘스트",
+			"helpTitle": "每日冒險",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>요일에 따라 다른 퀘스트가 개방됩니다.</div><div class='txt margin_top_10'>각 요일마다 드롭되는<span class='fnt_emphasis fnt_bold'>플러그인(진화 재료)</span>가 다릅니다.</div><div class='txt margin_top_10'>요일 퀘스트는’<span class='fnt_emphasis fnt_bold'>ver1.0, ver2.0, ver3.0, ver4.0, ver1.0＆2.0, ver3.0＆4.0</span>‘으로 구성된<br/>6단계의 난이도가 있습니다.</div><div class='txt margin_top_10'>해당 요일의 퀘스트가 아닌 경우, 디지스톤 5개를 사용하면 30분동안 개방됩니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>每日冒險的關卡異動。</div><div class='txt margin_top_10'>每日冒險會掉落的<span class='fnt_emphasis fnt_bold'>外掛（進化素材）</span>有所固定。</div><div class='txt margin_top_10'>每日冒險有：「<span class='fnt_emphasis fnt_bold'>ver1.0、ver2.0、ver3.0、ver4.0、ver1.0＆2.0、ver3.0＆4.0</span>」<br/>6種階段難易度的冒險。</div><div class='txt margin_top_10'>而非當日的每日冒險，可使用5顆數碼石來開放30分鐘。</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "18",
 			"helpCategoryId": "4",
-			"helpTitle": "강림 퀘스트",
+			"helpTitle": "降臨冒險",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>궁극체가 등장하는 퀘스트로, 한정된 기간동안 등장합니다.</div><div class='txt margin_top_10'>궁극체 진화에 필요한 <span class='fnt_emphasis fnt_bold'>데이터 조각</span>이 드롭됩니다.</div><div class='txt margin_top_10'>강림 퀘스트는 '<span class='fnt_emphasis fnt_bold'>초급, 중급, 상급</span>'으로 구성된 3단계의 난이도가 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>究極體登場的冒險，將會限期舉辦。</div><div class='txt margin_top_10'>會掉落進化為究極體所需的<span class='fnt_emphasis fnt_bold'>資料碎片</span>。</div><div class='txt margin_top_10'>降臨冒險依難易度分為「<span class='fnt_emphasis fnt_bold'>初級、中級、高級</span>」三個階段。</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "19",
 			"helpCategoryId": "5",
-			"helpTitle": "배틀 형식",
+			"helpTitle": "戰鬥形式",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>턴제 커맨드 배틀입니다.<br/>내 디지몬 3마리가 적 디지몬과 전투합니다.</div><div class='txt margin_top_10'>모든 WAVE의 적 디지몬을 쓰러뜨리면 전투에 <span class='fnt_emphasis fnt_bold'>승리</span>합니다.<br/>플레이어의 디지몬이 전멸하면 <span class='fnt_emphasis fnt_bold'>패배</span>합니다.<br/>배틀에 승리하면 보상이 주어지나,<br/>패배할 경우 EXP 등<br/>적이 드롭한 것들을 일체 획득할 수 없습니다.</div><div class='txt margin_top_20'>배틀 화면은 다음과 같습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info4.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info5.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info3.png' width=90%></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>採取回合制的指令戰鬥。<br/>使用己方的3隻數碼寶貝與敵方數碼寶貝對戰。</div><div class='txt margin_top_10'>只要打倒全部WAVE的敵方數碼寶貝，就能取得<span class='fnt_emphasis fnt_bold'>勝利</span>。<br/>若己方數碼寶貝全滅，則會<span class='fnt_emphasis fnt_bold'>敗北</span>。<br/>勝利將可獲得報酬，<br/>但若是敗北，則無法獲得EXP和<br/>敵方掉落的物品。</div><div class='txt margin_top_20'>戰鬥畫面如下：</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info4.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info5.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info3.png' width=90%></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "20",
 			"helpCategoryId": "5",
-			"helpTitle": "파티",
+			"helpTitle": "隊伍",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>배틀에 참가할 디지몬들입니다. 한 파티는 3마리의 디지몬으로 구성됩니다.</div><div class='txt margin_top_10'>3마리 중 1마리는 <span class='fnt_emphasis fnt_bold'>리더 디지몬</span>으로 설정됩니다.</div><div class='txt margin_top_10'>파티 멤버는 [파티 편성]에서 바꿀 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>戰鬥時攜帶同行的數碼寶貝。由3隻組成一個隊伍。</div><div class='txt margin_top_10'>其中1隻為<span class='fnt_emphasis fnt_bold'>隊長數碼寶貝</span>。</div><div class='txt margin_top_10'>可在【整編隊伍】變更隊伍中的數碼寶貝。</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "21",
 			"helpCategoryId": "5",
-			"helpTitle": "리더 스킬",
+			"helpTitle": "隊長技能",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>파티의 <span class='fnt_emphasis fnt_bold'>리더</span>로 선택된 디지몬이<br/><span class='fnt_emphasis fnt_bold'>리더 스킬</span>을 지닌 경우, 파티 전체에 효과가 적용됩니다.</div><div class='txt margin_top_10'>능력치 상승 등 다양한 스킬이 있습니다.</div><div class='txt margin_top_10'>리더 스킬 효과는 리더로 선택한 디지몬이<br/>전투불능 상태가 될 때까지 지속됩니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>隊伍中被選為<span class='fnt_emphasis fnt_bold'>隊長</span>的數碼寶貝若擁有<br/><span class='fnt_emphasis fnt_bold'>隊長技能</span>時，效果可對我方全體發動。</div><div class='txt margin_top_10'>包含有能力提升等各種技能。</div><div class='txt margin_top_10'>即使隊長數碼寶貝無法戰鬥，<br/>隊長技能的效果仍會持續。</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "22",
 			"helpCategoryId": "5",
-			"helpTitle": "라운드",
+			"helpTitle": "回合",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>나와 적, 모든 디지몬이 한 번씩<br/>행동을 완료하는 것을 <span class='fnt_emphasis fnt_bold'>라운드</span>라고 합니다.</div><div class='txt margin_top_10'>기술 효과 시간은 이 <span class='fnt_emphasis fnt_bold'>라운드</span>를 기준으로 카운트되며,<br/>기술을 발동한 <span class='fnt_emphasis fnt_bold'>다음 라운드</span>가 1라운드째로 카운트됩니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>包含己方與敵方的所有數碼寶貝皆攻擊一次，<br/>稱為1<span class='fnt_emphasis fnt_bold'>回合</span>。</div><div class='txt margin_top_10'>技能的有效時間以此<span class='fnt_emphasis fnt_bold'>回合</span>為基準計算，<br/>發動技能後的<span class='fnt_emphasis fnt_bold'>下一回合</span>計為第1回合。</div></article>",
 			"helpPriority": "4"
 		},
 		{
@@ -181,607 +181,607 @@
 			"helpCategoryId": "5",
 			"helpTitle": "WAVE",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>적 디지몬이 출현하여 전멸할 때까지를 <span class='fnt_emphasis fnt_bold'>WAVE</span>라고 합니다.</div><div class='txt margin_top_10'>하나의 배틀은 복수의 <span class='fnt_emphasis fnt_bold'>WAVE</span>로 구성됩니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>從敵方數碼寶貝出現後到全滅為止稱為<span class='fnt_emphasis fnt_bold'>WAVE</span>。</div><div class='txt margin_top_10'>一場戰鬥由複數的<span class='fnt_emphasis fnt_bold'>WAVE</span>所構成。</div></article>",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "24",
 			"helpCategoryId": "5",
-			"helpTitle": "배틀 중단 종료",
+			"helpTitle": "戰鬥中斷結束",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>배틀 중 앱을 종료한 경우,<br/><span class='fnt_emphasis fnt_bold'>중단한 라운드의 시작 시점</span>부터 배틀을 재개할 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>若於戰鬥中退出App，<br/><span class='fnt_emphasis fnt_bold'>可從中斷回合的一開始</span>重啟戰鬥。</div></article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "25",
 			"helpCategoryId": "5",
-			"helpTitle": "배틀 기한",
+			"helpTitle": "戰鬥期限",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>배틀 시작 후 <span class='fnt_emphasis fnt_bold'>72시간(3일)</span>이 경과하면<br/>배틀에 승리해도 보상을 받을 수 없습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>自戰鬥開始<span class='fnt_emphasis fnt_bold'>經過72小時（3天）</span>後，<br/>即使戰鬥勝利也無法領取報酬。</div></article>",
 			"helpPriority": "7"
 		},
 		{
 			"helpId": "26",
 			"helpCategoryId": "5",
-			"helpTitle": "행동 순서",
+			"helpTitle": "攻擊順序",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>행동 순서는 디지몬의 <span class='fnt_emphasis fnt_bold'>SPD</span>를 기준으로 결정됩니다.</div><div class='txt margin_top_10'>디지몬의 머리 위에 0부터 순서대로 번호가 표시됩니다.<br/>행동 순서가 돌아오면 숫자가 0이 됩니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>攻擊順序基本上取決於數碼寶貝的<span class='fnt_emphasis fnt_bold'>SPD</span>。</div><div class='txt margin_top_10'>數碼寶貝的頭上會標示由0開始的數字，<br/>輪到該數碼寶貝攻擊時，數字將會顯示為0。</div></article>",
 			"helpPriority": "8"
 		},
 		{
 			"helpId": "27",
 			"helpCategoryId": "5",
-			"helpTitle": "공격",
+			"helpTitle": "攻擊",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>공격에는 통상 공격과 <span class='fnt_emphasis fnt_bold'>고유기</span>, <span class='fnt_emphasis fnt_bold'>계승기</span>가 있습니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>고유기</span>는 각 디지몬의 고유 기술로,<br/>높은 공격력과 강력한 효과를 지니고 있습니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>계승기</span>는 모든 디지몬이 습득할 수 있는 기술로,<br/>능력치 상승이나 특수효과를 지닌 것들도 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>攻擊分為普通攻擊、<span class='fnt_emphasis fnt_bold'>固定技</span>與<span class='fnt_emphasis fnt_bold'>繼承技</span>。</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>固定技</span>為各數碼寶貝的固定技能，<br/>擁有高攻擊力與強力效果。</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>繼承技</span>為不分數碼寶貝皆可擁有的技能，<br/>包含有能力提升及擁有特殊效果等技能。</div></article>",
 			"helpPriority": "9"
 		},
 		{
 			"helpId": "28",
 			"helpCategoryId": "5",
-			"helpTitle": "속성과 내성",
+			"helpTitle": "屬性與抗性",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>공격(기술)에는 <span class='fnt_emphasis fnt_bold'>속성</span>이 있습니다.<br/>속성에는 <span class='fnt_emphasis fnt_bold'>공격 속성</span>과 <span class='fnt_emphasis fnt_bold'>상태이상 속성</span>이 있습니다.</div><div class='txt margin_top_10'>속성 효과의 효율을 나타내는 것이 바로 <span class='fnt_emphasis fnt_bold'>내성</span>입니다.<br/><span class='fnt_emphasis fnt_bold'>내성을 지닌</span> 경우, 기술 대미지가 <span class='fnt_emphasis fnt_bold'>하락</span>하며, 효과도 <span class='fnt_emphasis fnt_bold'>낮아</span>집니다.<br/>반대로 <span class='fnt_emphasis fnt_bold'>약점인</span> 경우, 기술 대미지가 <span class='fnt_emphasis fnt_bold'>상승</span>하며 효과도 <span class='fnt_emphasis fnt_bold'>높아</span>집니다.</div><div class='txt margin_top_10'>또한 [농장]에 있는 <span class='fnt_emphasis fnt_bold'>수련장</span>에서 <span class='fnt_emphasis fnt_bold'>내성 변화</span>를 실행하면<br/>내성을 추가할 수 있습니다.</div><div class='txt margin_top_20'><span class='fnt_bold'>■내성 확인 방법</span><br/>배틀 중 적을 길게 누르면 적의 내성을 확인할 수 있습니다.<br/>또한 BOSS는 탐색 출발 전 화면에서도 확인할 수 있습니다.</div><div class='txt margin_top_10'>각 내성 아이콘은 효과가 큰 것이 <span class='fnt_emphasis fnt_bold'>청색</span>,<br/>효과가 낮은 것이 <span class='fnt_emphasis fnt_bold'>적색</span>으로 표시됩니다.</div><h2 class='margin_top_20'>공격 속성 목록</h2><table class='fnt_xxsmall txt_center margin_top' style='table-layout:fixed;'><tr><td><img src='/img/help/attribute/1_normal.png' width='90%'></td><td><img src='/img/help/attribute/2_normal.png' width='90%'></td><td><img src='/img/help/attribute/3_normal.png' width='90%'></td><td><img src='/img/help/attribute/4_normal.png' width='90%'></td><td><img src='/img/help/attribute/5_normal.png' width='90%'></td><td><img src='/img/help/attribute/6_normal.png' width='90%'></td><td><img src='/img/help/attribute/7_normal.png' width='90%'></td></tr><tr><td>무속성</td><td>화속성</td><td>수속성</td><td>자연속성</td><td>번개속성</td><td>어둠속성</td><td>빛속성</td></tr></table></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>攻擊（技能）皆擁有<span class='fnt_emphasis fnt_bold'>屬性</span>。<br/>屬性包含<span class='fnt_emphasis fnt_bold'>攻擊屬性</span>與<span class='fnt_emphasis fnt_bold'>異常狀態屬性</span>。</div><div class='txt margin_top_10'>顯示產生屬性效果之難度的數值為<span class='fnt_emphasis fnt_bold'>抗性</span>。<br/><span class='fnt_emphasis fnt_bold'>若抗性越高</span>，技能造成的傷害將會<span class='fnt_emphasis fnt_bold'>降低</span>，也<span class='fnt_emphasis fnt_bold'>越難</span>產生效果。<br/>相反的，<span class='fnt_emphasis fnt_bold'>抗性越低</span>，技能造成的傷害將會<span class='fnt_emphasis fnt_bold'>提升</span>，也<span class='fnt_emphasis fnt_bold' >更容易</span>產生效果。</div><div class='txt margin_top_10'>若在【農場】中的<span class='fnt_emphasis fnt_bold'>道場</span>進行<span class='fnt_emphasis fnt_bold'>抗性變化</span>，<br/>則能夠追加或變更抗性。</div><div class='txt margin_top_20'><span class='fnt_bold'>■抗性的確認方法</span><br/>戰鬥中長按敵人，就能夠確認敵人的抗性。<br/>另外，關於魔王的抗性則可在探索出發前的畫面進行確認。</div><div class='txt margin_top_10'>關於各自的抗性圖示，容易產生效果的為<span class='fnt_emphasis fnt_bold'>藍色</span>，<br/>難以產生效果的則是以<span class='fnt_emphasis fnt_bold'>紅色</span>表示。</div><h2 class='margin_top_20'>攻擊屬性一覽：</h2><table class='fnt_xxsmall txt_center margin_top' style='table-layout:fixed;'><tr><td><img src='/img/help/attribute/1_normal.png' width='90%'></td><td><img src='/img/help/attribute/2_normal.png' width='90%'></td><td><img src='/img/help/attribute/3_normal.png' width='90%'></td><td><img src='/img/help/attribute/4_normal.png' width='90%'></td><td><img src='/img/help/attribute/5_normal.png' width='90%'></td><td><img src='/img/help/attribute/6_normal.png' width='90%'></td><td><img src='/img/help/attribute/7_normal.png' width='90%'></td></tr><tr><td>無</td><td>火</td><td>水</td><td>自然</td><td>雷</td><td>闇</td><td>光</td></tr></table></article>",
 			"helpPriority": "10"
 		},
 		{
 			"helpId": "29",
 			"helpCategoryId": "5",
-			"helpTitle": "상태이상",
+			"helpTitle": "異常狀態",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>배틀 중 공격을 받으면<br/><span class='fnt_emphasis fnt_bold'>상태이상</span>에 빠질 때가 있습니다.</div><div class='txt margin_top_10'>상태이상에 빠지면 HP가 감소할 때도 있고,<br/>일정 라운드 동안 움직이지 못할 때도 있습니다.</div><div class='txt margin_top_10'>상태이상은 <span class='fnt_emphasis fnt_bold'>기절·스킬 봉인·수면·마비·혼란·독·즉사</span><br/>7종류가 있습니다.</div><h2 class='margin_top_20'>상태이상 목록</h2><table class='fnt_xxsmall txt_center margin_top' style='table-layout:fixed;'><tr><td><img src='/img/help/attribute/8_normal.png' width='90%'></td><td><img src='/img/help/attribute/9_normal.png' width='90%'></td><td><img src='/img/help/attribute/10_normal.png' width='90%'></td><td><img src='/img/help/attribute/11_normal.png' width='90%'></td><td><img src='/img/help/attribute/12_normal.png' width='90%'></td><td><img src='/img/help/attribute/13_normal.png' width='90%'></td><td><img src='/img/help/attribute/14_normal.png' width='90%'></td></tr><tr><td>기절</td><td>스킬<br />봉인</td><td>수면</td><td>마비</td><td>혼란</td><td>독</td><td>즉사</td></tr></table></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>戰鬥中受到攻擊，有時會陷入<br/><span class='fnt_emphasis fnt_bold'>異常狀態</span>。</div><div class='txt margin_top_10'>陷入異常狀態時會發生HP減少、<br/>一定回合無法行動等情形。</div><div class='txt margin_top_10'>異常狀態分為<span class='fnt_emphasis fnt_bold'>暈眩、技能鎖定、睡眠、麻痺、混亂、中毒、即死</span>等<br/>7種。</div><h2 class='margin_top_20'>異常狀態一覽：</h2><table class='fnt_xxsmall txt_center margin_top' style='table-layout:fixed;'><tr><td><img src='/img/help/attribute/8_normal.png' width='90%'></td><td><img src='/img/help/attribute/9_normal.png' width='90%'></td><td><img src='/img/help/attribute/10_normal.png' width='90%'></td><td><img src='/img/help/attribute/11_normal.png' width='90%'></td><td><img src='/img/help/attribute/12_normal.png' width='90%'></td><td><img src='/img/help/attribute/13_normal.png' width='90%'></td><td><img src='/img/help/attribute/14_normal.png' width='90%'></td></tr><tr><td>暈眩</td><td>技能<br />鎖定</td><td>睡眠</td><td>麻痺</td><td>混亂</td><td>中毒</td><td>即死</td></tr></table></article>",
 			"helpPriority": "11"
 		},
 		{
 			"helpId": "30",
 			"helpCategoryId": "5",
-			"helpTitle": "종족",
+			"helpTitle": "種族",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>각 디지몬은 <span class='fnt_emphasis fnt_bold'>종족</span>으로 구분됩니다.<br/>종족에 따라 속성과 상태이상에 대한 내성이 다릅니다.</div><div class='txt margin_top_10'>종족은 <span class='fnt_emphasis fnt_bold'>환생계, 양염계, 빙하계, 전자계, 대지계, 광망계, 심연계</span><br/>7종류로 나뉩니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>每個數碼寶貝皆有設定<span class='fnt_emphasis fnt_bold'>種族</span>。<br/>每個種族對於屬性與異常狀態的抗性皆不同。</div><div class='txt margin_top_10'>種族分為<span class='fnt_emphasis fnt_bold'>幻生系、陽炎系、冰河系、電磁系、大地系、光芒系、深淵系</span> <br/>共7種。</div></article>",
 			"helpPriority": "12"
 		},
 		{
 			"helpId": "31",
 			"helpCategoryId": "5",
-			"helpTitle": "타깃",
+			"helpTitle": "目標",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>공격 시 적 디지몬이나 내 디지몬을 터치하여<br/><span class='fnt_emphasis fnt_bold'>타깃</span>을 변경할 수 있습니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>타깃 아이콘</span>은 기술 속성과 디지몬의 내성 상성에 따라<br/>색이 변화합니다.<br/>기술 선택 시 아이콘이 적색으로 변하면 효과가 높고<br/>청색으로 변하면 효과가 낮습니다.</div><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial2_quest_2.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>於攻擊時點擊敵方或己方數碼寶貝，則可切換<br/><span class='fnt_emphasis fnt_bold'>目標</span>。</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>目標圖示</span>會隨與技能屬性和數碼寶貝抗性的適性<br/>改變顏色。<br/>選擇技能時，若圖示的顏色為紅色則效果較強，<br/>顯示藍色則效果較弱。</div><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial2_quest_2.png' width=90%></figure></article>",
 			"helpPriority": "13"
 		},
 		{
 			"helpId": "32",
 			"helpCategoryId": "5",
-			"helpTitle": "디지몬 부활",
+			"helpTitle": "數碼寶貝復活",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>HP가 0이 되면 디지몬은 <span class='fnt_emphasis fnt_bold'>전투불능</span> 상태가 됩니다.</div><div class='txt margin_top_10'>전투불능 상태가 되면 디지스톤을 사용하여<br/><span class='fnt_emphasis fnt_bold'>부활</span>시킬 수 있습니다.</div><div class='txt margin_top_10'>디지몬은 부활시킨 라운드의 다음 라운드부터 전투에 복귀합니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>若HP變為0，數碼寶貝將<span class='fnt_emphasis fnt_bold'>無法戰鬥</span>。</div><div class='txt margin_top_10'>無法戰鬥時，使用數碼石可讓數碼寶貝<br/><span class='fnt_emphasis fnt_bold'>復活</span>。</div><div class='txt margin_top_10'>復活的數碼寶貝則會在下一回合回到戰鬥。</div></article>",
 			"helpPriority": "14"
 		},
 		{
 			"helpId": "33",
 			"helpCategoryId": "5",
-			"helpTitle": "컨티뉴",
+			"helpTitle": "接關",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>내 디지몬이 전멸한 경우,<br/>디지스톤을 사용하여 <span class='fnt_emphasis fnt_bold'>컨티뉴</span>할 수 있습니다.</div><div class='txt margin_top_10'>컨티뉴하면 내 디지몬이 전부 회복된 상태에서<br/>배틀을 다시 시작하게 됩니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>己方的數碼寶貝全滅時，<br/>可以使用數碼石<span class='fnt_emphasis fnt_bold'>接關</span>。</div><div class='txt margin_top_10'>若進行接關，己方數碼寶貝則會以全部回復的狀態<br/>重新開始戰鬥。</div></article>",
 			"helpPriority": "15"
 		},
 		{
 			"helpId": "34",
 			"helpCategoryId": "5",
-			"helpTitle": "배틀 모드 변경",
+			"helpTitle": "變更戰鬥模式",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>배틀은 다음과 같은 모드로 변경할 수 있습니다.</div><div class='txt margin_top_10'>·배속 모드: 배틀 속도가 두 배로 빨라집니다.</div><div class='txt margin_top_10'>·오토 모드: 배틀이 자동으로 진행됩니다.<br/>오토 모드에서는 각 디지몬이 고유기를 우선적으로 발동합니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>戰鬥時可變更以下的戰鬥模式。</div><div class='txt margin_top_10'>・倍速模式：能夠以倍速進行戰鬥。</div><div class='txt margin_top_10'>・自動模式：能夠自動進行戰鬥。<br/>　在自動模式下各數碼寶貝行動時會優先發動固定技。</div></article>",
 			"helpPriority": "16"
 		},
 		{
 			"helpId": "35",
 			"helpCategoryId": "5",
-			"helpTitle": "행운 보너스",
+			"helpTitle": "運氣獎勵",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>디지몬의 스테이터스 '<span class='fnt_emphasis fnt_bold'>행운</span>' 수치에 따라 얻을 수 있는 특별 보상입니다.</div><div class='txt margin_top_10'>통상 드롭 보상과는 별개로, 행운 보너스가 발생하면<br/><span class='fnt_emphasis fnt_bold'>평소보다 많은 보상</span>을 획득할 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>依據在數碼寶貝狀態中的「<span class='fnt_emphasis fnt_bold'>運氣</span>」數值可獲得的特別報酬。</div><div class='txt margin_top_10'>與一般掉落報酬分開計算，發生運氣獎勵時，可獲得<br/><span class='fnt_emphasis fnt_bold'>比平常更多</span>的報酬。</div></article>",
 			"helpPriority": "17"
 		},
 		{
 			"helpId": "36",
 			"helpCategoryId": "8",
-			"helpTitle": "시설이란",
+			"helpTitle": "關於設施",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>농장에 설치할 수 있는 건물입니다.<br/>시설은 <span class='fnt_emphasis fnt_bold'>클러스터</span>를 소비하여 건설할 수 있습니다.<br/>일부 시설은 특정 조건을 만족해야 건설할 수 있습니다.</div><div class='txt margin_top_10'>시설을 만들면<br/>게임을 유리하게 진행할 수 있는 다양한 효과를 받습니다.</div><div class='txt margin_top_10'>건설한 시설은 농장에 있는 <span class='fnt_emphasis fnt_bold'>배치 버튼</span>을 이용하거나<br/><span class='fnt_emphasis fnt_bold'>각 시설을 터치·드래그</span>하여<br/>설치 장소를 변경할 수 있습니다.</div><div class='txt margin_top_20'>시설을 만드는 방법은 다음과 같습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info1.png' width=90%></figure><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial_info2.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>可設置在農場內的建築物。<br/>可藉由消耗<span class='fnt_emphasis fnt_bold'>數碼碎片</span>建蓋設施。<br/>部分設施需在滿足特定條件後才可建蓋。</div><div class='txt margin_top_10'>藉由建蓋設施，<br/>能夠取得各式各樣有利於遊戲進行的效果。</div><div class='txt margin_top_10'>建蓋的設施可使用農場內的<span class='fnt_emphasis fnt_bold'>配置鍵</span>，<br/>或是<span class='fnt_emphasis fnt_bold'>點擊、拖曳各設施</span>，<br/>來變更設置場所。</div><div class='txt margin_top_20'>設施的建蓋方式如下：</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial_info1.png' width=90%></figure><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial_info2.png' width=90%></figure></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "37",
 			"helpCategoryId": "8",
-			"helpTitle": "시설 업그레이드",
+			"helpTitle": "設施升級",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>시설은 클러스터 혹은 디지스톤을 사용하여<br/><span class='fnt_emphasis fnt_bold'>업그레이드</span>할 수 있습니다.<br/>시설을 터치하고 업그레이드 버튼을 누르면<br/>클러스터 혹은 디지스톤을 사용해 업그레이드를 시작합니다.</div><div class='txt margin_top_10'>업그레이드 시 해당 시설의 기능이 강화됩니다.</div><div class='txt margin_top_10'>건설·업그레이드는 동시에 2개까지 실행할 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>藉由消耗數碼碎片與數碼石，<br/>即可<span class='fnt_emphasis fnt_bold'>升級</span>設施。<br/>點擊設施並按下升級鍵後，<br/>則會消耗數碼碎片或數碼石並開始升級。</div><div class='txt margin_top_10'>藉由升級能夠強化該設施的功能。</div><div class='txt margin_top_10'>一次最多可同時進行兩項建蓋、升級作業。</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "38",
 			"helpCategoryId": "8",
-			"helpTitle": "건설·업그레이드 시간 단축",
+			"helpTitle": "建造、升級的時間縮短",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>건설·업그레이드가 완료될 때까지 시간이 소요됩니다.<br/>건설·업그레이드 중인 시설을 터치하면<br/>시간 단축 버튼이 표시됩니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>디지스톤</span>을 소비하여<br/>건설·업그레이드 시간을 단축할 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>建蓋、升級完成需要花費一定的時間。<br/>點擊建蓋、升級中的設施，<br/>則會出現時間縮短鍵。</div><div class='txt margin_top_10'>消耗<span class='fnt_emphasis fnt_bold'>數碼石</span>，<br/>可縮短建蓋、升級時間。</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "39",
 			"helpCategoryId": "8",
-			"helpTitle": "하우스",
+			"helpTitle": "小屋",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>최대 디지몬 보유 수를 추가하는 시설입니다.<br/>보유 중인 디지몬<span class='fnt_emphasis fnt_bold'>의 목록</span>과 진화 전후를 확인할 수 있는 <span class='fnt_emphasis fnt_bold'>진화도</span>를 확인하거나 <span class='fnt_emphasis fnt_bold'>이별</span>할 수 있습니다.</div><div class='txt margin_top_10'>이별한 디지몬은 클러스터로 변환됩니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>可提升數碼寶貝持有數上限的設施。<br/>可觀看<span class='fnt_emphasis fnt_bold'>進化圖</span>，以確認持有數碼寶貝的<span class='fnt_emphasis fnt_bold'>一覽</span>及進化前後的資訊等，並可與數碼寶貝<span class='fnt_emphasis fnt_bold'>別離</span>。</div><div class='txt margin_top_10'>別離後數碼寶貝將會轉換為數碼碎片。</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "40",
 			"helpCategoryId": "8",
-			"helpTitle": "고기 밭",
+			"helpTitle": "肉田",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>디지몬에게 줄 고기를 재배하는 밭입니다. 시간이 지나면 <span class='fnt_emphasis fnt_bold'>고기</span>가 열립니다.<br/><span class='fnt_emphasis fnt_bold'>고기 밭</span>을 터치하면 고기를 수확할 수 있습니다.</div><div class='txt margin_top_10'>고기는 최대 보유 수 이상 수확할 수 없으므로<br/>고기를 수확할 수 없을 땐 최대 고기 보유 수를 늘려야 합니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>在田裡可栽培餵食給數碼寶貝的肉。<span class='fnt_emphasis fnt_bold'>肉</span>會隨著時間成長。<br/>點擊<span class='fnt_emphasis fnt_bold'>肉田</span>則可收成肉。</div><div class='txt margin_top_10'>超過肉的持有數上限則無法進行收成，<br/>此時需要提升肉的持有數上限。</div></article>",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "41",
 			"helpCategoryId": "8",
-			"helpTitle": "창고",
+			"helpTitle": "倉庫",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>고기 밭에서 수확한 고기의 최대 보유 수를 늘려주는 시설입니다.<br/>보유 고기 수가 최대치여서 수확할 수 없을 땐<br/><span class='fnt_emphasis fnt_bold'>창고</span>를 업그레이드해야 합니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>從肉田收成的肉可在此設施內提升持有數上限。<br/>達到持有數上限，而無法收成肉時，<br/>必須強化<span class='fnt_emphasis fnt_bold'>倉庫</span>。</div></article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "42",
 			"helpCategoryId": "8",
-			"helpTitle": "레스토랑",
+			"helpTitle": "餐廳",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>스태미너의 최대치를 올려주는 시설입니다.<br/><span class='fnt_emphasis fnt_bold'>레스토랑</span>을 업그레이드하면<br/>스태미너의 최대치가 상승합니다.</div><div class='txt margin_top_10'>레스토랑을 설치·업그레이드 완료하면<br/>스태미너가 회복됩니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>可提升體力上限值的設施。<br/>將<span class='fnt_emphasis fnt_bold'>餐廳</span>升級，<br/>則可提升體力上限值。</div><div class='txt margin_top_10'>餐廳建蓋、升級完成時，<br/>體力將完全回復。</div></article>",
 			"helpPriority": "7"
 		},
 		{
 			"helpId": "43",
 			"helpCategoryId": "8",
-			"helpTitle": "수련장",
+			"helpTitle": "道場",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>계승</span>과 <span class='fnt_emphasis fnt_bold'>내성 변화</span>를 실행하는 시설입니다.</div><div class='txt margin_top_20'><span class='fnt_emphasis fnt_bold'>계승</span>을 하면 디지몬이 지닌 <span class='fnt_emphasis fnt_bold'>계승기</span>를 다른 디지몬이 지닌 계승기로<br/>바꿀 수 있습니다.</div><div class='txt margin_top_20'><span class='fnt_emphasis fnt_bold'>내성 변화</span>를 하면 같은 이름의 디지몬과 진화 재료를 함께 사용하여<br/>내성을 랜덤으로 하나 추가할 수 있습니다.</div><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial2_succession_1.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_Arousal_1.png' width=90%></article>",
+			"detail": "<article id='help'> <div class='txt margin_top_10'>可進行<span class='fnt_emphasis fnt_bold'>繼承</span>與<span class='fnt_emphasis fnt_bold'>抗性變化</span>的設施。</div><div class='txt margin_top_20'><span class='fnt_emphasis fnt_bold'>繼承</span>能夠將數碼寶貝所持有的<span class='fnt_emphasis fnt_bold'>繼承技</span>覆寫在<br/>其他數碼寶貝所持有的繼承技之上。</div><div class='txt margin_top_20'><span class='fnt_emphasis fnt_bold'>抗性變化</span>則可將相同數碼寶貝與進化素材結合，<br/>隨機增加一項抗性。</div><figure class=margin_top_20><img src='/img/help/tutorial/web_Tutorial2_succession_1.png' width=90%><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_Arousal_1.png' width=90%></article>",
 			"helpPriority": "8"
 		},
 		{
 			"helpId": "44",
 			"helpCategoryId": "8",
-			"helpTitle": "계승이란",
+			"helpTitle": "關於繼承",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>디지몬이 보유한 <span class='fnt_emphasis fnt_bold'>계승기</span>를 다른 디지몬의 계승기로<br/>바꿀 수 있습니다.<br/>계승을 하려면 파트너 디지몬이<br/>최대 레벨이여야 합니다.</div><div class='txt margin_top_10'>계승을 하면 파트너로 선택한 디지몬이 사라집니다.</div><div class='txt margin_top_20'>계승 방법은 다음과 같습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_succession_3_v4.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>能夠將數碼寶貝所持有的<span class='fnt_emphasis fnt_bold'>繼承技</span>覆寫在<br/>其他數碼寶貝所持有的繼承技之上。<br/>繼承須在夥伴數碼寶貝<br/>達到最高等級時才可進行。</div><div class='txt margin_top_10'>進行繼承後，被選為夥伴的數碼寶貝將消失。</div><div class='txt margin_top_20'>繼承的方法如下：</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_succession_3_v4.png' width=90%></figure></article>",
 			"helpPriority": "9"
 		},
 		{
 			"helpId": "45",
 			"helpCategoryId": "8",
-			"helpTitle": "내성 변화란",
+			"helpTitle": "關於抗性變化",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>같은 이름의 디지몬과 진화 재료를 함께 사용하여<br/>내성을 랜덤으로 하나 추가할 수 있습니다.<br/>궁극체는 그 궁극체의 데이터 조각과 진화 재료로<br/>내성 변화를 할 수 있습니다.</div><div class='txt margin_top_10'>내성 변화를 거듭해서 실행하면 내성이 더해집니다.</div><div class='txt margin_top_10'>추가한 내성은 진화 시와 모드 체인지 시에 계승됩니다.<br/>내성이 중복된 경우, 다시 랜덤으로 내성을 추첨합니다.</div><div class='txt margin_top_10'>내성 변화를 하면 파트너로 선택한 디지몬이 사라집니다.</div><div class='txt margin_top_20'>내성 변화 방법은 다음과 같습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_Arousal_2_v4.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>將相同的數碼寶貝與進化素材結合，<br/>可隨機增加一項抗性。<br/>究極體能夠以該究極體的資料碎片與進化素材<br/>進行抗性變化。</div><div class='txt margin_top_10'>藉由再次進行抗性變化，能夠將已追加的抗性更改為新的抗性。</div><div class='txt margin_top_10'>進化時與變更模式時將繼承追加的抗性。<br/>抗性重複時，將再度進行抗性的抽籤。</div><div class='txt margin_top_10'>進行抗性變化後，被選為夥伴的數碼寶貝將消失。</div><div class='txt margin_top_20'>抗性變化的方法如下：</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_Arousal_2_v4.png' width=90%></figure></article>",
 			"helpPriority": "10"
 		},
 		{
 			"helpId": "46",
 			"helpCategoryId": "8",
-			"helpTitle": "연구소",
+			"helpTitle": "研究所",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>궁극체 2마리로 디지몬알을 탄생시킬 수 있는 시설입니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>연구소</span>에는 디지몬알이 탄생하는 <span class='fnt_emphasis fnt_bold'>연구</span>와<br/>디지몬알을 부화시키는 <span class='fnt_emphasis fnt_bold'>가든</span>,<br/>재능 메달을 계승시키는<span class='fnt_emphasis fnt_bold'>재능 개발</span>이 있습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_labo_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_garden_1.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>能夠讓兩隻究極體間誕生數碼蛋的設施。</div><div class='txt margin_top_10'>在<span class='fnt_emphasis fnt_bold'>研究所</span>中，能夠進行讓數碼蛋誕生的<span class='fnt_emphasis fnt_bold'>研究</span>、<br/>孵化數碼蛋的<span class='fnt_emphasis fnt_bold'>花園</span>與<br/>繼承才能獎牌的<span class='fnt_emphasis fnt_bold'>才能開花</span>。</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_labo_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_garden_1.png' width=90%></figure></article>",
 			"helpPriority": "11"
 		},
 		{
 			"helpId": "47",
 			"helpCategoryId": "8",
-			"helpTitle": "연구란",
+			"helpTitle": "關於研究",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>궁극체를 조합하여 디지몬알을 탄생시킬 수 있습니다.<br/><span class='fnt_emphasis fnt_bold'>연구</span>를 하면 베이스가 된 디지몬의 유년기로 성장하는<br/><span class='fnt_emphasis fnt_bold'>디지몬알</span>이 탄생합니다.</div><div class='txt margin_top_10'>연구로 <span class='fnt_emphasis fnt_bold'>계승되는 요소</span>는 다음과 같습니다.<br />·베이스 디지몬의 계승기<br />·베이스 디지몬의 리더 스킬<br />·베이스 디지몬의 재능<br />·베이스 디지몬의 행운</div><div class='txt margin_top_10'><br />※재능은 도움말에 있는 '디지몬'의 '재능이란' 항목에 자세히 설명되어 있습니다.</div><div class='txt margin_top_10'>연구로 <span class='fnt_emphasis fnt_bold'>리셋되는 요소</span>는 다음과 같습니다.<br />·우정도<br />·'내성 변화'로 추가한 내성</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>베이스 디지몬의 우정도가 최대치</span>인 경우,<br/>디지몬알의 <span class='fnt_emphasis fnt_bold'>각성치가 1 상승</span>합니다.</div><div class='txt margin_top_20'>또한 각성치가 4였을 경우, 우정도가 최대치여도 각성치는 상승하지 않습니다.</div><div class='txt margin_top_10'>※연구를 실행하면 베이스와 파트너 디지몬이 사라집니다.</div><div class='txt margin_top_20'>연구 방법은 다음과 같습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_labo_3.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>組合究極體，將會誕生數碼蛋。<br/>若進行<span class='fnt_emphasis fnt_bold'>研究</span>，將會誕生<span class='fnt_emphasis fnt_bold'>數碼蛋</span>，<br/>未來將成長為基本體數碼寶貝的幼年期。</div><div class='txt margin_top_10'>藉由研究<span class='fnt_emphasis fnt_bold'>能夠繼承的項目</span>如下：<br />・基本體數碼寶貝的繼承技<br />・基本體數碼寶貝的隊長技能<br />・基本體數碼寶貝的才能<br />・基本體數碼寶貝的運氣</div><div class='txt margin_top_10'><br />※關於才能請參考幫助中的「數碼寶貝」中的「關於才能」項目。</div><div class='txt margin_top_10'>藉由研究<span class='fnt_emphasis fnt_bold'>重置的項目</span>如下：<br />・友情度<br />・經由「抗性變化」所賦予的抗性</div><div class='txt margin_top_10'>另外，<span class='fnt_emphasis fnt_bold'>基本體數碼寶貝的友情度達到上限</span>時，<br/>數碼蛋的<span class='fnt_emphasis fnt_bold'>覺醒值將提升1</span>。</div><div class='txt margin_top_20'>而當覺醒值已達到4時，即使友情度達到上限，覺醒值也不會提升。</div><div class='txt margin_top_10'>※進行研究後，被選為基本體與夥伴的數碼寶貝皆會消失。</div><div class='txt margin_top_20'>研究的方法如下：</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_labo_3.png' width=90%></figure></article>",
 			"helpPriority": "12"
 		},
 		{
 			"helpId": "48",
 			"helpCategoryId": "8",
-			"helpTitle": "가든이란",
+			"helpTitle": "關於花園",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>연구로 탄생한 디지몬알을 돌보는 곳입니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>가든</span>에서 디지몬알을 쓰다듬으면 유년기 I 디지몬이 탄생합니다.<br/>디지몬알~유년기 Ⅱ 동안은 가든에서 생활합니다.<br/>가든을 나올 때까지<br/>그 디지몬은 편성과 강화를 할 수 없습니다.</div><div class='txt margin_top_10'>또한 가든 <span class='fnt_emphasis fnt_bold'>목록</span>에는 링크 캡처로 동료가 된<br/>유년기 디지몬이 있습니다.<br/>목록의 디지몬을 선택하면 가든에서 육성할 수 있습니다.</div><div class='txt margin_top_20'>탄생과 진화 방법은 다음과 같습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_garden_2.png' width=90%></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>保管透過研究誕生之數碼蛋的場所。</div><div class='txt margin_top_10'>在<span class='fnt_emphasis fnt_bold'>花園</span>內撫摸數碼蛋，將會誕生幼年期I的數碼寶貝。<br/>處於數碼蛋～幼年期II時，將維持待在花園內的狀態，<br/>在離開花園之前，<br/>無法進行該數碼寶貝的整編或強化。</div><div class='txt margin_top_10'>另外，在花園的<span class='fnt_emphasis fnt_bold'>一覽</span>中可看到透過Link捕捉<br/>成為夥伴的幼年期數碼寶貝。<br/>藉由選擇一覽內的數碼寶貝，能夠在花園內養成數碼寶貝。</div><div class='txt margin_top_20'>誕生與進化的方法如下：</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_garden_2.png' width=90%></article>",
 			"helpPriority": "13"
 		},
 		{
 			"helpId": "50",
 			"helpCategoryId": "8",
-			"helpTitle": "모집 게시판",
+			"helpTitle": "招募板",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>협동전 모집 공고가 게시되는 곳입니다.<br /><br />본인의 진행도를 앞서는 통상 퀘스트는 참가할 수 없으므로 표시되지 않습니다.<br />이벤트 퀘스트는 본인의 진행도를 앞서는 퀘스트도 표시되지만, 난이도를 충분히 고려한 다음에 참가하세요.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>招募協力戰鬥的委託將集中於此處。<br /><br />在一般冒險中無法參加超前自己進度的冒險，因此不會顯示。<br />活動冒險則會顯示超前自己進度的冒險，因此參加前請先衡量難易度。</div></article>",
 			"helpPriority": "15"
 		},
 		{
 			"helpId": "51",
 			"helpCategoryId": "8",
-			"helpTitle": "장식이란",
+			"helpTitle": "關於裝飾",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>농장에 배치할 수 있는 장식용 아이템입니다.<br/>특별한 기능은 없으나, 배치하면 <span class='fnt_emphasis fnt_bold'>나만의 농장</span>을<br/>꾸밀 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>可配置在農場的各種裝飾。<br/>雖然沒有特殊功能，但可以配置出<span class='fnt_emphasis fnt_bold'>專屬於自己的農場</span>。</div></article>",
 			"helpPriority": "16"
 		},
 		{
 			"helpId": "52",
 			"helpCategoryId": "9",
-			"helpTitle": "식사",
+			"helpTitle": "餵食",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>식사를 통해 고기 밭에서 수확한 고기를 디지몬에게 줄 수 있습니다.</div><div class='txt margin_top_10'>디지몬에게 고기를 주면 <span class='fnt_emphasis fnt_bold'>EXP</span>를 획득합니다.<div class='txt margin_top_10'>또한 <span class='fnt_emphasis fnt_bold'>고급 고기</span>를 주면 현재 진화 단계, 레벨, 획득 EXP, 각성치를 불문하고 레벨을 최대치까지 올릴 수 있습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_2_v4.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_3.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>「餵食」可將肉田收成的肉餵給數碼寶貝。</div><div class='txt margin_top_10'>餵食肉給數碼寶貝可獲得<span class='fnt_emphasis fnt_bold'>EXP</span>。<div class='txt margin_top_10'>另外，<span class='fnt_emphasis fnt_bold'>高級肉</span>可使數碼寶貝提升至最高等級，且不論目前進化階段、等級、獲得EXP和覺醒值。</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_2_v4.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_eat_3.png' width=90%></figure></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "53",
 			"helpCategoryId": "9",
-			"helpTitle": "강화",
+			"helpTitle": "強化",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>베이스 디지몬과 파트너 디지몬을 조합하면<br/>베이스 디지몬이 EXP를 획득할 수 있습니다.<br/>파트너로 선택한 디지몬은 사라집니다.</div><div class='txt margin_top_10'>베이스와 파트너가 같은 종족일 경우,<br/>랜덤으로 <span class='fnt_emphasis fnt_bold'>행운</span>이 상승합니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_training_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_training_2_v4.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>藉由結合基本體數碼寶貝與夥伴數碼寶貝，<br/>基本體數碼寶貝可獲得EXP。<br/>被選為夥伴的數碼寶貝將消失。</div><div class='txt margin_top_10'>若基本體與夥伴為同一種族時，<br/>有一定機率可使<span class='fnt_emphasis fnt_bold'>運氣</span>提升。</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_training_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_training_2_v4.png' width=90%></figure></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "54",
 			"helpCategoryId": "9",
-			"helpTitle": "진화",
+			"helpTitle": "進化",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>플러그인이나 데이터 조각, 클러스터를 사용하여<br/>디지몬을 진화시킬 수 있습니다.<br/>진화를 시키려면 디지몬이 최대 레벨이어야 합니다.</div><div class='txt margin_top_10'>유년기 I, II는 가든에서 시간을 소모하여<br/>진화할 수 있습니다.</div><div class='txt margin_top_10'>외형과 스테이터스가 변화하는 <span class='fnt_emphasis fnt_bold'>모드 체인지</span>를<br/>할 수 있는 디지몬도 있습니다.</div><div class='txt margin_top_10'>진화와는 달리 최대 레벨이 아니어도 가능하며, 플러그인 없이<br/>할 수 있습니다.</div><div class='txt margin_top_20'>진화 순서는 다음과 같습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_evolution_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_evolution_2.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>可使用外掛或數碼碎片<br/>使數碼寶貝進化。<br/>進化時數碼寶貝需升至最高等級。</div><div class='txt margin_top_10'>幼年期I、II在花園經過一定的時間，<br/>即可進化。</div><div class='txt margin_top_10'>部分數碼寶貝可進行<span class='fnt_emphasis fnt_bold'>變更模式</span>，其外型與狀態皆會產生變化。<br/></div><div class='txt margin_top_10'>與進化不同，不要求等級，<br/>也不消耗外掛即可進行。</div><div class='txt margin_top_20'>進化的步驟如下：</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_evolution_1.png' width=90%></figure><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_evolution_2.png' width=90%></figure></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "55",
 			"helpCategoryId": "9",
-			"helpTitle": "편성",
+			"helpTitle": "整編",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>배틀에 참가하는 디지몬 파티를 <span class='fnt_emphasis fnt_bold'>편성</span>할 수 있습니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>주력 파티</span>로 설정한 파티 디지몬은<br/>농장에 등장합니다.</div><div class='txt margin_top_20'>파티 편성 방법은 다음과 같습니다.</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_deck_1_v4.png' width=90%></figure></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>能夠<span class='fnt_emphasis fnt_bold'>整編</span>參加戰鬥的數碼寶貝隊伍。</div><div class='txt margin_top_10'>設定為<span class='fnt_emphasis fnt_bold'>我的最愛</span>隊伍的數碼寶貝<br/>將出現在農場。</div><div class='txt margin_top_20'>隊伍的整編方法如下：</div><figure class=margin_top_10><img src='/img/help/tutorial/web_Tutorial2_deck_1_v4.png' width=90%></figure></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "56",
 			"helpCategoryId": "11",
-			"helpTitle": "레어 캡처",
+			"helpTitle": "稀有捕捉",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>디지스톤을 사용하여 디지몬을 호출할 수 있습니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>레어 캡처</span>에서는 <span class='fnt_emphasis fnt_bold'>성장기 이상</span>의 디지몬을 획득할 수 있습니다.</div><div class='txt margin_top_10'>중복된 디지몬이 출현할 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>使用數碼石可召喚出數碼寶貝。</div><div class='txt margin_top_10'>在<span class='fnt_emphasis fnt_bold'>稀有捕捉</span>中可獲得<span class='fnt_emphasis fnt_bold'>成長期以上</span>的數碼寶貝。</div><div class='txt margin_top_10'>出現的數碼寶貝可能重複。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "57",
 			"helpCategoryId": "11",
-			"helpTitle": "링크 캡처",
+			"helpTitle": "Link捕捉",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>링크 포인트를 사용하여 디지몬을 호출할 수 있습니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>링크 캡처</span>에서는 <span class='fnt_emphasis fnt_bold'>유년기 Ⅰ·Ⅱ</span>의 디지몬을 획득할 수 있습니다.</div><div class='txt margin_top_10'>중복된 디지몬이 출현할 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>使用Link點數可召喚出數碼寶貝。</div><div class='txt margin_top_10'>在<span class='fnt_emphasis fnt_bold'>Link捕捉</span>中可獲得<span class='fnt_emphasis fnt_bold'>幼年期I、II</span>的數碼寶貝。</div><div class='txt margin_top_10'>出現的數碼寶貝可能重複。</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "58",
 			"helpCategoryId": "11",
-			"helpTitle": "링크 포인트",
+			"helpTitle": "Link點數",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>링크 캡처에 사용하는 포인트입니다.</div><div class='txt margin_top_10'>로그인 보너스 등 다양한 보상을 통해 얻을 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>進行Link捕捉時所需的點數。</div><div class='txt margin_top_10'>可透過登入獎勵等各式各樣的報酬中取得。</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "60",
 			"helpCategoryId": "13",
-			"helpTitle": "친구",
+			"helpTitle": "好友",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>메뉴 아이콘의 [친구]를 선택하면<br/><span class='fnt_emphasis fnt_bold'>친구 확인</span>과 검색 항목에서 친한 유저의 ID를 입력하여<br/><span class='fnt_emphasis fnt_bold'>유저 검색 및 친구 신청</span>을 할 수 있습니다.</div><div class='txt margin_top_10'>나 또는 친구를 신청한 유저의 친구 수가 최대치일 경우,<br/>친구 신청을 할 수 없으니 주의하시기 바랍니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>친구 신청 중인 유저</span>와 <span class='fnt_emphasis fnt_bold'>승낙 대기 중인 유저</span>는<br/>[친구] 메뉴의 <span class='fnt_emphasis fnt_bold'>신청 중</span>, <span class='fnt_emphasis fnt_bold'>승낙 대기</span>에서 확인할 수 있습니다.</div><div class='txt margin_top_10'>또한 다른 유저의 친구 신청을<br/>승낙하면 친구로 등록됩니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>選擇選單圖示的【好友】後，<br/>可進行<span class='fnt_emphasis fnt_bold'>好友確認</span>或在搜尋欄輸入朋友的用戶ID，<br/>來進行<span class='fnt_emphasis fnt_bold'>用戶搜尋及好友申請</span>。</div><div class='txt margin_top_10'>自己或提出好友申請的對象之好友數已達到上限數時，<br/>則無法提出好友申請，請特別注意。</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>申請好友中的用戶</span>或<span class='fnt_emphasis fnt_bold'>等待好友核准的用戶</span>可從<br/>【好友】欄位內的<span class='fnt_emphasis fnt_bold'>申請中</span>、<span class='fnt_emphasis fnt_bold'>待核准</span>進行確認。</div><div class='txt margin_top_10'>另外，其他用戶對您提出好友申請時，<br/>核准申請即可將對方登錄為好友。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "61",
 			"helpCategoryId": "13",
-			"helpTitle": "도감",
+			"helpTitle": "圖鑑",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>메뉴 아이콘의 [도감]을 선택하면<br/>지금까지 획득한 디지몬의 정보를 확인할 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>選擇選單圖示中的【圖鑑】，<br/>即可確認目前為止獲得的數碼寶貝資訊。</div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "62",
 			"helpCategoryId": "13",
-			"helpTitle": "사운드 및 알림 설정 변경 방법",
+			"helpTitle": "音效及通知設定變更方法",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>메뉴 아이콘의 [설정]을 선택하면<br/>BGM/SE 볼륨 설정·푸시 알림 ON/OFF를 선택할 수 있습니다.</div><div class='txt margin_top_10'>또한 [타이틀]의 [옵션]에서도 BGM/SE 볼륨을<br/>조정할 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>選擇選單圖示中的【設定】，<br/>即可調整BGM/SE的音量，以及啟用或關閉推播通知。</div><div class='txt margin_top_10'>此外，從【標題畫面】＞【選項】<br/>也可調整BGM/SE的音量。</div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "63",
 			"helpCategoryId": "13",
-			"helpTitle": "공지사항 확인 방법",
+			"helpTitle": "公告的確認方法",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>메뉴 아이콘의 [공지사항]을 선택하면<br/>공지사항을 확인할 수 있습니다.<br/>공지사항을 터치하면 자세한 내용이 표시됩니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>選擇選單圖示中的【公告】，<br/>即可確認送達的公告。<br/>點擊送達的公告即可閱讀詳細資訊。</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "64",
 			"helpCategoryId": "13",
-			"helpTitle": "프로필",
+			"helpTitle": "基本資料",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>메뉴 아이콘의 [프로필]을 선택하면<br />내 프로필이 표시됩니다.</div><div class='txt margin_top_10'>프로필에서는<span class='fnt_emphasis fnt_bold'> 칭호·유저 코드·유저 이름·도감 등록 수·코멘트</span>를<br />확인할 수 있습니다.</div><div class='txt margin_top_10'>칭호·유저 이름 변경과 코멘트 편집도 가능합니다.<br />개인정보 및 부적절한 표현이 포함된 내용은<br />사용을 금지하고 있사오니 양해해주시기 바랍니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>選擇選單圖示中的【基本資料】，<br />將會出現自己的基本資料。</div><div class='txt margin_top_10'>可在基本資料中確認<br /><span class='fnt_emphasis fnt_bold'>稱號、用戶碼、用戶名稱、圖鑑登錄數、留言</span>。</div><div class='txt margin_top_10'>也可變更稱號、用戶名稱或編輯留言。<br />有關個人資訊及誹謗重傷、違反善良風俗的內容<br />一律禁止，敬請見諒。</div></article>",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "65",
 			"helpCategoryId": "13",
-			"helpTitle": "다른 OS에서 데이터 이전",
+			"helpTitle": "不同作業系統間的資料轉移",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>기기를 변경할 때 유저 데이터를 보존하려면<br/><span class='fnt_emphasis fnt_bold'>데이터 이전 코드</span>를 발행해야 합니다.</div><div class='txt margin_top_10'>메뉴 아이콘의 [기타]에서 [데이터 이전]을 선택하면<br/>이전 코드를 발급받을 수 있습니다.<br/><span class='fnt_emphasis fnt_bold'>코드 발행</span>을 터치하면 <span class='fnt_emphasis fnt_bold'>이전 코드</span>가 발급됩니다.</article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>進行機種變更前，為了保留用戶資料，<br/>將會發行必要的<span class='fnt_emphasis fnt_bold'>資料轉移碼</span>。</div><div class='txt margin_top_10'>從選單圖示中的【其他】＞【資料轉移】<br/>可進行資料轉移碼的發行。<br/>點擊<span class='fnt_emphasis fnt_bold'>發行代碼</span>後，將發行<span class='fnt_emphasis fnt_bold'>資料轉移碼</span>。</article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "66",
 			"helpCategoryId": "13",
-			"helpTitle": "동일한 OS에서 데이터 이전",
+			"helpTitle": "相同作業系統間的資料轉移",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_bold'>■기기변경에 따른 데이터 이전 설정</span><br/> 단말기 종류에 따라 데이터 이전 방법이 다릅니다.</div><div class='txt margin_top_20'><span class='fnt_bold'>■[iOS]에서 [iOS]로 이전하는 경우</span><br/> iCloud를 이용하여 게임 데이터를 백업할 수 있습니다.<br/></div><h3 class='margin_top_20'>―――― 기본 단말기 설정 ――――</h3><div class='txt margin_top'><span class='fnt_bold'>○iCloud Drive를 사용하는 경우</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_iOS.png' width=100%></figure><br/> ①단말기 '설정' 메뉴에서 '<span class='fnt_emphasis fnt_bold'>iCloud</span>'에 로그인<br/> ②'<span class='fnt_emphasis fnt_bold'>iCloud Drive</span>'를 사용(on)으로 설정<br/> ③'<span class='fnt_emphasis fnt_bold'>iCloud Drive</span>' 상세 화면에서도 '<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'를 사용(on)으로 설정<br/> ④위 상태에서 '<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'를 실행하면 자동으로 백업됩니다.<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○iCloud Drive를 사용하지 않는 경우</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_iOS.png' width=100%></figure><br/> ①단말기 '설정' 메뉴에서 '<span class='fnt_emphasis fnt_bold'>iCloud</span>'에 로그인하여<br/> ②'<span class='fnt_emphasis fnt_bold'>서류 및 데이터</span>'를 사용(on)으로 설정<br/> ③'<span class='fnt_emphasis fnt_bold'>서류 및 데이터</span>' 상세 화면에서도 '<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'를 사용(on)으로 설정<br/> ④위 상태에서 '<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'를 실행하면 자동으로 백업됩니다.<br/></div><h3 class='margin_top_20'>―――― 새로운 단말기 설정 ――――</h3><div class='txt margin_top'><span class='fnt_bold'>○iCloud Drive를 사용하는 경우</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info3_iOS.png' width=100%></figure><br/> ①단말기 '설정' 메뉴에서 '<span class='fnt_emphasis fnt_bold'>iCloud</span>'에 로그인<br/> ②로그인한 상태에서 새로 디지몬 링크즈를<br/>   인스톨하여 기동하면 백업 데이터를 불러올 수 있습니다.<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○iCloud Drive를 사용하지 않는 경우</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info4_iOS.png' width=100%></figure><br/> ①단말기 '설정' 메뉴에서 '<span class='fnt_emphasis fnt_bold'>iCloud</span>'에 로그인<br/> ②로그인한 상태에서 새로 디지몬 링크즈를<br/>   인스톨하여 기동하면 백업 데이터를 불러올 수 있습니다.<br/></div><div class='txt margin_top_10'><h4>■주의사항</h4><br/> ※새로 인스톨할 때 <span class='fnt_emphasis fnt_bold'>플레이 당시에 사용했던 iCloud 계정</span>에 로그인해야 합니다.<br/><br/> ※복수의 단말기로 같은 계정의 데이터를 사용하는 경우 <span class='fnt_emphasis fnt_bold'>마지막으로 플레이한 단말기의 게임 데이터가 덮어쓰기</span>됩니다.<br/><br/> ※복수의 단말기에서 같은 게임 데이터를 플레이하면 <span class='fnt_emphasis fnt_bold'>데이터가 손상될 수 있으니</span>이용을 삼가시기 바랍니다.<br/><br/><br/></div><div class='txt margin_top_20'><span class='fnt_bold'>■[안드로이드]에서 [안드로이드]로 데이터를 이전하는 경우</span><br/> 안드로이드 단말기에서 같은 안드로이드 단말기로 이전하는 경우, 구글 계정을 이용하여<br/> 게임 데이터를 백업할 수 있습니다.<br/></div><h3 class='margin_top_20'>―――― 기존 단말기 설정 ――――</h3><div class='txt margin_top'><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_and.png' width=100%></figure><br/> ①게임 내 메뉴에서 '<span class='fnt_emphasis fnt_bold'>구글로 이전</span>'을 터치<br/> ②위 내용을 확인한 후 '<span class='fnt_emphasis fnt_bold'>구글로 동기화</span>'를 터치<br/> ③권한 요청 화면이 표시되는 경우, 내용과 구글 계정을 확인한 후<br/> '<span class='fnt_emphasis fnt_bold'>접근 허가</span>'<br/> →위 순서를 따르면 백업 데이터가 생성됩니다.<br/></div><h3 class='margin_top_20'>―――― 새로운 단말기 설정 ――――</h3><div class='txt margin_top'><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_and.png' width=100%></figure><br/> ①새로 디지몬 링크즈를 인스톨하여 타이틀 우측의 '데이터 이전'에서<br/>   '<span class='fnt_emphasis fnt_bold'>구글로 이전</span>' 터치<br/> ②위 내용을 확인한 후 '<span class='fnt_emphasis fnt_bold'>구글로 이전</span>' 터치<br/> ③권한 요청 화면이 표시되는 경우, 내용과 구글 계정을 확인한 후<br/>   '<span class='fnt_emphasis fnt_bold'>접근 허가</span>'<br/> →위 순서를 따르면 백업된 게임 데이터를 불러올 수 있습니다.<br/></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_bold'>■機種變更時的資料轉移設定。</span><br/>　裝置的種類不同，資料轉移的方法也隨之不同。</div><div class='txt margin_top_20'><span class='fnt_bold'>■由【iOS】轉移至【iOS】裝置時</span><br/>　可利用iCloud備份遊戲資料。<br/></div><h3 class='margin_top_20'>————　資料轉移原帳號的設定　————</h3><div class='txt margin_top'><span class='fnt_bold'>○使用iCloud Drive時</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_iOS.png' width=100%></figure><br/>　①由裝置「設定」內的選單登入「<span class='fnt_emphasis fnt_bold'>iCloud</span>」。<br/>　②開啟（ON）「<span class='fnt_emphasis fnt_bold'>iCloud Drive</span>」。<br/>　③在「<span class='fnt_emphasis fnt_bold'>iCloud Drive</span」的詳細畫面開啟（ON）「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」。<br/>　④在以上狀態下啟動「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」則會自動備份。<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○未使用iCloud Drive時</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_iOS.png' width=100%></figure><br/>　①由裝置「設定」內的選單登入「<span class='fnt_emphasis fnt_bold'>iCloud</span>」。<br/>　②開啟（ON）「<span class='fnt_emphasis fnt_bold'>文件和資料</span>」。<br/>　③在「<span class='fnt_emphasis fnt_bold'>文件和資料</span>」的詳細畫面中開啟（ON）「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」。<br/>　④在以上狀態下啟動「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」則會自動備份。<br/></div><h3 class='margin_top_20'>————資料轉移新帳號的設定————</h3><div class='txt margin_top'><span class='fnt_bold'>○使用iCloud Drive時</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info3_iOS.png' width=100%></figure><br/>　①由裝置「設定」內的選單登入「<span class='fnt_emphasis fnt_bold'>iCloud</span>」。<br/>　②在登入的狀態下重新安裝並啟動數碼寶貝Linkz<br/>　　則會還原備份。</div><div class='txt margin_top_20'><span class='fnt_bold'>○未使用iCloud Drive時</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info4_iOS.png' width=100%></figure><br/>　①由裝置「設定」內的選單登入「<span class='fnt_emphasis fnt_bold'>iCloud</span」。<br/>　②在登入的狀態下重新安裝並啟動數碼寶貝Linkz<br/>　　則會還原備份。<br/></div><div class='txt margin_top_10'><h4>■注意事項</h4><br/>　※重新安裝時，<span class='fnt_emphasis fnt_bold'>需使用與原本進行遊戲時相同的iCloud帳號</span>進行登入。<br/><br/>　※若在兩個以上的裝置使用相同的iCloud帳號，<span class='fnt_emphasis fnt_bold'>最後一次進行遊戲的裝置之遊戲資料將被覆寫</span>。<br/><br/>　※若在兩個以上的裝置使用相同遊戲資料進行遊戲，<span class='fnt_emphasis fnt_bold'>則可能造成資料毀損</span>，請務必避免這種情況發生。<br/><br/><br/></div><div class='txt margin_top_20'><span class='fnt_bold'>■由【Android】轉移至【Android】裝置時</span><br/>　由Android裝置轉移資料至同為Android裝置時，可利用Google帳號<br/>　備份遊戲資料。<br/></div><h3 class='margin_top_20'————　資料轉移原帳號的設定　————</h3><div class='txt margin_top'><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_and.png' width=100%></figure><br/>　①在遊戲內的選單點擊「<span class='fnt_emphasis fnt_bold'>使用Google資料轉移</span>」。<br/>　②確認記載內容，點擊「<span class='fnt_emphasis fnt_bold'>使用Google同步</span>」。<br/>　③出現要求權限畫面時，於確認內容與Google帳號後<br/>　　進行「<span class='fnt_emphasis fnt_bold'>登入許可</span>」。<br/>　→完成以上步驟即可備份遊戲資料。<br/></div><h3 class='margin_top_20'>————　資料轉移新帳號的設定　————</h3><div class='txt margin_top'><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_and.png' width=100%></figure><br/>　①重新安裝數碼寶貝Linkz後，點擊標題畫面右方的「資料轉移」， <br/>　　再點擊「<span class='fnt_emphasis fnt_bold'>使用Google資料轉移</span>」。<br/>　②確認記載內容，點擊「<span class='fnt_emphasis fnt_bold'>使用Google資料轉移</span>」。<br/>　③出現要求權限畫面時，於確認內容與Google帳號後<br/>　　進行「<span class='fnt_emphasis fnt_bold'>登入許可</span>」。<br/>　→完成以上步驟即可復原遊戲資料備份。<br/></div></article>",
 			"helpPriority": "7"
 		},
 		{
 			"helpId": "67",
 			"helpCategoryId": "13",
-			"helpTitle": "데이터 이전 관련 주의 사항",
+			"helpTitle": "資料轉移的相關注意事項",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>■사용 중인 단말기 변경·고장, 앱 삭제, 운영 측의 문제 등의<br/> 원인으로 이용 단말기에서 플레이 데이터(로그인 데이터)가<br/> 사라질 수 있습니다. 이에 대비하여<br/> 사전에 데이터 이전 정보를 설정해주십시오.</div><div class='txt margin_top_10'>■플레이 데이터가 소실된 경우, 이전 플레이 데이터를<br/> 계속해서 이용하시려면 다음의 이전 정보가 필요합니다.<br/><span class='fnt_emphasis fnt_bold margin_x_20'>·이전 코드</span><br/><span class='fnt_emphasis fnt_bold margin_x_20'>·비밀번호</span></div><div class='txt margin_top_10'>■본 서비스 이용 전 다음 순서에 따라 이전 정보 확인(설정)을<br/> 진행하고 반드시 메모 등으로 남겨 보존하십시오.<br/><span class='fnt_emphasis fnt_bold margin_x_20'>·메뉴→이전 데이터 선택→비밀번호 설정</span><br/><span class='margin_x_10'>※이용하시는 단말기에 스크린샷, 문자 송신 등을 해두는 경우엔</span><br/><span class='margin_x_10'> 단말기 고장 시 확인이 불가능하므로</span><br/><span class='margin_x_10'> 수기 혹은 이메일로 보존하시는 것을 권장합니다.</span></div><div class='txt margin_top_10'>■이전 데이터 정보는 고객님이 직접 엄중히 보관하십시오.<br/> 도난, 분실 등 어떠한 경우에도<br/> 당사는 이전 정보를 안내해드리지 않습니다.<br/></div><div class='txt margin_top_10'>■다른 OS에서 데이터를 이전하면<br/> 보유한 앱 전용 화폐가 소실됩니다.<br/> 앱 전용 화폐가 소실된 경우에도<br/> 당사는 앱 전용 화폐 복원 및 이동 등의 서비스를 지원하지 않습니다.<br/> 따라서 이전하기 전 아이템 등을 구입하여<br/> 앱 전용 화폐를 모두 사용하시는 것을 권장합니다.</div><div class='txt margin_top_10'>■앱 내에서 지원하지 않는 방법(PC 백업)등으로<br/> 플레이 데이터를 백업, 복원해도<br/> 플레이 데이터는 이전되지 않습니다.</div><div class='txt margin_top_10'>■이전 정보는 한 번 이전하면 무효화됩니다.<br/> (이전 정보가 1회 한정인 경우)<br/> 이전 정보를 재설정하지 않아 이전할 수 없게 된 경우에도<br/> 당사는 연동 정보 유효화, 플레이 데이터 전환 등의 서비스를<br/> 지원하지 않습니다.</div><div class='txt margin_top_10'>■이전 정보는 다음과 같은 유효기간이 있습니다.<br/> (이전 정보 유효기간이 있는 경우)<br/><span class='fnt_emphasis fnt_bold margin_x_20'>·이전 정보 설정일로부터 1개월</span><br/> 유효기간이 경과한 경우, 연동 정보를 재설정해야 합니다.<br/> 이전 정보를 재설정하지 않아 이전이 불가능한 경우,<br/> 당사는 이전 정보 유효화,<br/> 플레이 데이터 전환 등의 서비스를 지원하지 않습니다.</div><div class='txt margin_top_10'>■플레이 데이터는 당사 서버에 보존된<br/> 범위 내에서 이전할 수 있습니다.<br/> 또한 본 서비스에는 이용하시는 단말기와 OS에 보존된 데이터에 기초한 기능 등이 있어<br/> 데이터를 이전해도 모든 플레이 데이터가<br/> 반영되지 않을 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>■因使用的裝置變更、故障、App的解除安裝、本服務端的問題等，<br/>　可能造成裝置中的遊戲資料（登入資料）消失。<br/>　進行遊戲時請自行隨時設定資料轉移資訊，<br/>　以避免資料消失。</div><div class='txt margin_top_10'>■若遊戲資料消失，希望繼續使用以前的遊戲資料時，<br/>　需要以下的資料轉移資訊。<br/><span class='fnt_emphasis fnt_bold margin_x_20'>・資料轉移碼</span><br/><span class='fnt_emphasis fnt_bold margin_x_20'>・密碼</span></div><div class='txt margin_top_10'>■使用本服務前，請依照以下步驟進行資料轉移資訊的確認（設定），<br/>　並請務必留下筆記等紀錄。<br/><span class='fnt_emphasis fnt_bold margin_x_20'>・選單→選擇資料轉移→設定密碼</span><br/><span class='margin_x_10'>※若擷取螢幕畫面或發送簡訊，保存於同裝置中，</span><br/><span class='margin_x_10'>　遇裝置故障時將無法確認資訊，</span><br/><span class='margin_x_10'>　因此建議以手寫的筆記或電腦郵件等其他裝置保存。</span></div><div class='txt margin_top_10'>■資料轉移資訊請用戶自行慎重保管。<br/>　即使遇到失竊、遺失等狀況，<br/>　恕本公司無法公開資料轉移資訊。<br/></div><div class='txt margin_top_10'>■在不同作業系統間進行資料轉移時，<br/>　持有的App專用貨幣將會消失，<br/>　即使App專用貨幣消失，<br/>　本公司也無法進行App專用貨幣的補發或轉移。<br/>　因此，建議於資料轉移前先行購買道具，<br/>　將App專用貨幣使用完畢。</div><div class='txt margin_top_10'>■即使採取App內指定步驟以外的方法（以電腦備份等）<br/>　備份或復原遊戲資料，<br/>　也無法轉移遊戲資料。</div><div class='txt margin_top_10'>■資料轉移資訊使用一次後就會失效，<br/>　（資料轉移資訊僅限一次時）<br/>　未重新設定資料轉移資訊，造成資料無法轉移時，<br/>　恕本公司無法使資料轉移資訊重新生效，<br/>　或是進行遊戲資料的轉移。</div><div class='txt margin_top_10'>■資料轉移資訊的有效期限如下。<br/>　（資料轉移資訊有期限時）<br/><span class='fnt_emphasis fnt_bold margin_x_20'>・資料轉移資訊設定日開始算起1個月內</span><br/>　超過有效期限時，必須重新設定資料轉移資訊。<br/>　未重新設定資料轉移資訊，造成資料無法轉移時，<br/>　恕本公司無法使資料轉移資訊重新生效，<br/>　或是進行遊戲資料的轉移。</div><div class='txt margin_top_10'>■僅限保存於本公司伺服器的遊戲資料，<br/>　可進行資料轉移。<br/>　另外，由於本服務部分功能依賴裝置及作業系統，<br/>　因此即使進行資料轉移，<br/>　也無法保證客戶的所有遊戲資料皆能正常反應。</div></article>",
 			"helpPriority": "8"
 		},
 		{
 			"helpId": "68",
 			"helpCategoryId": "13",
-			"helpTitle": "앱 삭제",
+			"helpTitle": "解除安裝",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>앱을 삭제하면 '디지스톤', '클러스터',<br/>획득한 '디지몬' 등<span class='fnt_emphasis fnt_bold'>모든 유저 데이터가 사라지니</span><br/>주의하시기 바랍니다.</div><div class='txt margin_top_10'>유저 데이터를 보존하려면<br/><span class='fnt_emphasis fnt_bold'>반드시 [데이터 이전]에서 '데이터 이전 코드'를</span> 발행하십시오.</article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>若解除安裝，獲得的「數碼石」、「數碼碎片」及「數碼寶貝」等<span class='fnt_emphasis fnt_bold'>所有用戶資料將全部被刪除</span>，<br/>請特別注意。</div><div class='txt margin_top_10'>想留存用戶資料時，<br/><span class='fnt_emphasis fnt_bold'>請務必使用【資料轉移】發行「資料轉移碼」</span>，並妥善保存。</article>",
 			"helpPriority": "9"
 		},
 		{
 			"helpId": "69",
 			"helpCategoryId": "13",
-			"helpTitle": "주의 사항 '이용 약관 위반에 따른 계정 정지 조치'",
+			"helpTitle": "注意事項「禁止行為的帳號停用處置等」",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_bold'>본 게임에서는 다음 행위를 금지합니다.</span></div><div class='txt margin_top_10'>  당사에서 제한하는 행위가 적발된 경우, 이용 규약에 따라<br/>  사전 고지 없이 이용을 제한하거나<br/>  계정 정지 등의 조치를 취합니다.<br/>  또한 위반 행위를 반복하거나<br/>  악질적인 위반 행위가 한 번이라도 발생한 경우<br/>  영구 계정 정지를 포함한 엄중히 처벌이 이루어지고 있습니다.<br/>  위 조치는 본 게임을 이용하는 유저에게<br/>  쾌적한 환경을 제공하려는 취지이므로 양해 부탁드립니다.</div><div class='txt margin_top_10'>※이용 규칙 위반 여부는 당사가 판단합니다.<br/>※다음 조치가 취해진 경우에도<br/>  당사는 해당 조치를 진행한 이유, 경위 등에 대한<br/>  개별 문의에는 답변해드리지 않습니다.<br/>※영구 계정 정지가 된 경우<br/>  본 게임을 이용하실 수 없습니다.<br/>  또한 위와 같은 경우에도 앱 전용 캐시와 각종 아이템은<br/>  환불해드리지 않습니다.</div><div class='txt margin_top_10'><span class='fnt_bold'>■범죄 행위 또는 공공 질서 위반 행위</span><br/>  ·심한 가학적, 폭력적 표현, 성적 표현, 차별 표현,<br/>   불쾌감을 주는 표현을 사용하는 행위.<br/>  ·스토커 행위, 당사 또는 제삼자에게 피해를 주는 행위.</div><div class='txt margin_top_10'><span class='fnt_bold'>■당사 또는 제삼자의 재산, 명예, 개인 정보 등의 권리를 침해하는 행위.</span><br/>  ·게임 계정, 앱 전용 캐시나 다른 아이템(이하, 계정 등)을<br/>   양도, 대여, 공유하는 행위 또는 제삼자의 계정을 이용하는 행위.<br/>  ·계정 등을 부정한 방법으로 취득하는 행위(본 서비스의 버그 등을 이용하여<br/>   계정을 부정 취득한 경우를 포함)<br/>  ·본 서비스의 버그 등을 이용하여 자신 또는 제삼자에게 이익을 주는 행위<br/>   및 당사 또는 제삼자에게 불이익을 주는 행위.<br/>  ·개인 정보를 수집하는 행위, 또는 자신이나 제삼자의 개인정보를<br/>   공개하는 행위.<br/>  ·당사 또는 제삼자의 신용, 명예를 훼손하거나 모욕하는 행위.<br/></div><div class='txt margin_top_10'><span class='fnt_bold'>■허위 정보를 제공하거나 본 서비스를 부정한 목적으로 이용하는 행위.</span><br/>  ·본 서비스 관련 허위 정보나 버그 정보를<br/>　　유포하는 행위.<br/>  ·당사 또는 제삼자를 사칭하는 행위.<br/>  ·정치, 종교적 목적 행위.<br/></div><div class='txt margin_top_10'><span class='fnt_bold'>■본 게임의 제공을 방해하는 행위.</span><br/>  ·본 서비스를 제공하는 시설(이하, 서버 등)에 부정 접근<br/>   또는 데이터 갈취 행위, 소프트웨어 부정 처리 프로그램을<br/>   사용하는 행위.<br/>  ·서버 등에 과도한 부담을 주는 행위(툴 등을 이용하여<br/>   본 서비스에 접속하여 서버에 부담을 주는 행위 포함).<br/>  ·다른 사용자의 본 게임의 이용을 방해하는 행위,<br/>   또는 다른 사용자의 본 게임 이용에 지장을 주는 행위.<br/>  ·여러 개의 단말기로 플레이어 데이터를 복수 등록하여<br/>   부정한 게임 내 이득을 취하는 행위.<br/>  ·당사 및 제삼자에게 법적 책임 이상의 부당한 문의나<br/>   요청을 하는 행위.</div><div class='txt margin_top_10'><span class='fnt_bold'>■본 게임의 내용을 전제, 수정, 축적 또는 전송하는 행위.</span><br/>  ·본 게임 데이터, 프로그램 등을 분해하거나<br/>   재구성 및 그 외 해석, 복제, 편집, 변경,<br/>   번안 등을 하는 행위.</div><div class='txt margin_top_10'><span class='fnt_bold'>■본 서비스를 이용한 영리 행위</span><br/>  ·게임 계정을 판매하는 행위,<br/>   또는 본 서비스에서 당사가 지정한 것 외의 방법으로<br/>   앱 전용 캐시나 다른 아이템을 판매하는 행위.<br/>  ·상업용 광고 선전 목적으로 정보를 개제하는 행위.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_bold'>本服務禁止以下行為。</span></div><div class='txt margin_top_10'>　一旦發現用戶從事本公司禁止行為，將基於服務條款的規定，<br/>　不經事前通知，對用戶執行使用機能限制<br/>　或帳號停用等處置。<br/>　此外，若反覆從事禁止行為，<br/>　或從事一次惡質的禁止行為，<br/>　將加以嚴格處置，包括無限期停用帳號等。<br/>　這些處置，都是為了使本服務的用戶享有更優質的遊戲環境。<br/>　敬請各位用戶理解。</div><div class='txt margin_top_10'>※是否為禁止行為由本公司進行判斷。<br/>※若受到上述處置， <br/>　本公司將不回覆個別提問，<br/>包括處置的理由及事情經過等。<br/>※帳號一旦經無限期停用，<br/>　今後將完全無法使用本服務。<br/>　且在此情況下，也不會將App專用貨幣及其他道具以現金退還，<br/>　或交換抵用券等。</div><div class='txt margin_top_10'><span class='fnt_bold'>■犯罪行為、違反公序良俗的行為</span><br/>　・使用含顯著的殘虐、暴力、性、歧視、<br/>　　使人不愉快之言論的行為。<br/>　・包含跟蹤行為等，造成本公司或第三者困擾的行為。</div><div class='txt margin_top_10'><span class='fnt_bold'>■侵害本公司及第三者的財產、名譽、隱私等權利的行為</span><br/>　・將遊戲帳號、App專用貨幣或其他道具（以下稱「帳號等」）<br/>　　轉讓、出借、共有等行為，或利用第三者帳號的行為。<br/>　・以不當方式取得帳號等的行為（包含利用本服務的漏洞，<br/>　　不當取得帳號等的行為）。<br/>　・利用本服務的漏洞，為自己或第三者帶來利益的行為，<br/>　　以及為本公司或第三者帶來不利益的行為。<br/>　・蒐集個人資訊的行為，或公開自己<br/>　　及第三者個人資訊的行為。<br/>　・毀損或侮辱本公司及第三者信譽的行為。<br/></div><div class='txt margin_top_10'><span class='fnt_bold'>■提供虛偽的資訊，或為了不當目的利用本服務的行為</span><br/>　・將和本服務相關的虛偽資訊，以及本服務的漏洞等資訊<br/>　　向外散佈的行為。<br/>　・偽裝成本公司或第三者的行為。<br/>　・以政治、宗教為目的的行為。<br/></div><div class='txt margin_top_10'><span class='fnt_bold'>■妨礙本服務提供或毀謗的行為</span><br/>　・不當進入本服務所提供、管理的設備（以下稱「伺服器等」）<br/>　　以及竊取資料的行為，使用程式對軟體進行<br/>不當處理的行為。<br/>　・對伺服器等造成過度負擔的行為（包括利用工具等<br/>　　進入本服務，對伺服器造成負擔的行為）。<br/>　・妨礙其他用戶使用本服務的行為、<br/>　　或造成其他用戶無法使用本服務的行為。<br/>　・使用複數裝置等，註冊複數玩家資料，<br/>　　以不當手段讓遊戲有利進行的行為。<br/>　・對本公司及第三者進行超過法定責任的不當提問<br/>　　或要求行為。</div><div class='txt margin_top_10'><span class='fnt_bold'>■轉載、複製、修正、儲存或轉寄本服務內容的行為</span><br/>　・對本服務的數據、程式等進行反編譯、反彙編、<br/>　　逆向工程等其他解析、複製、編輯、修改<br/>　　及翻案等行為。</div><div class='txt margin_top_10'><span class='fnt_bold'>■利用本服務進行營利行為</span><br/>　・買賣遊戲帳號的行為、<br/>　　或在本服務中，以本公司指定以外的方式，<br/>　　買賣App專用貨幣或其他道具的行為。<br/>　・以商業廣告宣傳為目的刊載資訊的行為。</div></article>",
 			"helpPriority": "10"
 		},
 		{
 			"helpId": "70",
 			"helpCategoryId": "13",
-			"helpTitle": "문의하기",
+			"helpTitle": "詢問",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>메뉴 아이콘의 [기타]>[문의하기]<br/>또는 [타이틀]>[문의하기]에서 각종 문의사항을 접수하실 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>在選單圖示的【其他】＞【詢問】<br/>或是【標題畫面】＞【詢問】皆可向客服提出各種疑問。</div></article>",
 			"helpPriority": "11"
 		},
 		{
 			"helpId": "71",
 			"helpCategoryId": "99",
-			"helpTitle": "iCloud를 이용한 데이터 이전",
+			"helpTitle": "使用iCloud的資料轉移方法",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_20'><span class='fnt_bold'>■[iOS]에서 [iOS]로 이전하는 경우</span><br/> iCloud를 이용하여 게임 데이터를 백업할 수 있습니다.<br/></div><h3 class='margin_top_20'>―――― 기존 단말기 설정――――</h3><div class='txt margin_top'><span class='fnt_bold'>○iCloud Drive를 사용하는 경우</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_iOS.png' width=100%></figure><br/> ①단말기 '설정' 메뉴에서 '<span class='fnt_emphasis fnt_bold'>iCloud</span>'에 로그인<br/> ②'<span class='fnt_emphasis fnt_bold'>iCloud Drive</span>'를 사용(on)으로 설정<br/> ③'<span class='fnt_emphasis fnt_bold'>iCloud Drive</span>' 상세 화면에서도 '<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'를 사용(on)으로 설정<br/> ④위 상태에서 '<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'를 실행하면 자동으로 백업됩니다.<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○iCloud Drive를 사용하지 않는 경우</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_iOS.png' width=100%></figure><br/> ①단말기 '설정' 메뉴에서 '<span class='fnt_emphasis fnt_bold'>iCloud</span>'에 로그인<br/> ②'<span class='fnt_emphasis fnt_bold'>서류 및 데이터</span>'를 사용(on)으로 설정<br/> ③'<span class='fnt_emphasis fnt_bold'>서류 및 데이터</span>' 상세 화면에서도 '<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'를 사용(on)으로 설정<br/> ④ 위 상태에서 '<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'를 실행하면 자동으로 백업됩니다.<br/></div><h3 class='margin_top_20'>―――― 새로운 단말기 설정――――</h3><div class='txt margin_top'><span class='fnt_bold'>○iCloud Drive를 사용하는 경우</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info3_iOS.png' width=100%></figure><br/> ①단말기 '설정' 메뉴에서 '<span class='fnt_emphasis fnt_bold'>iCloud</span>'에 로그인<br/> ②로그인한 상태로 새로 디지몬 링크즈를<br/> 인스톨하여 실행하면 백업 데이터를 불러올 수 있습니다.<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○iCloud Drive를 사용하지 않는 경우</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info4_iOS.png' width=100%></figure><br/> ①단말기 '설정' 메뉴에서 '<span class='fnt_emphasis fnt_bold'>iCloud</span>'에 로그인하여<br/> ②로그인한 상태로 새롭게 디지몬 링크즈를<br/> 인스톨하여 실행하면 백업 데이터를 불러올 수 있습니다.<br/></div><div class='txt margin_top_10'><h4>■주의사항</h4><br/> ※새로 인스톨할 때 <span class='fnt_emphasis fnt_bold'>플레이 당시에 사용했던 iCloud 계정</span>에 로그인해야 합니다.<br/><br/> ※복수의 단말기로 같은 계정의 데이터를 사용하는 경우<span class='fnt_emphasis fnt_bold'>마지막으로 플레이한 단말기의 게임 데이터가 덮어쓰기</span>됩니다.<br/><br/> ※복수의 단말기에서 같은 게임 데이터를 플레이하면 <span class='fnt_emphasis fnt_bold'>데이터가 손상될 수 있으니</span>이용을 삼가시기 바랍니다.<br/></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_20'><span class='fnt_bold'>■由【iOS】轉移至【iOS】裝置時</span><br/>　可利用iCloud備份遊戲資料。<br/></div><h3 class='margin_top_20'>————　資料轉移原帳號的設定　————</h3><div class='txt margin_top'><span class='fnt_bold'>○使用iCloud Drive時</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info1_iOS.png' width=100%></figure><br/>　①由裝置「設定」內的選單登入「<span class='fnt_emphasis fnt_bold'>iCloud</span>」。<br/>　②開啟（ON）「<span class='fnt_emphasis fnt_bold'>iCloud Drive</span>」。<br/>　③在「<span class='fnt_emphasis fnt_bold'>iCloud Drive</span>」的詳細畫面開啟（ON）「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」。<br/>　④在以上狀態下啟動「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」則會自動備份。<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○未使用iCloud Drive時</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info2_iOS.png' width=100%></figure><br/>　①由裝置「設定」內的選單登入「<span class='fnt_emphasis fnt_bold'>iCloud</span>」。<br/>　②開啟（ON）「<span class='fnt_emphasis fnt_bold'>文件和資料</span>」。<br/>　③在「<span class='fnt_emphasis fnt_bold'>文件和資料</span>」的詳細畫面開啟（ON）「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」。<br/>　④在以上狀態下啟動「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」則會自動備份。<br/></div><h3 class='margin_top_20'>————　資料轉移新帳號的設定　————</h3><div class='txt margin_top'><span class='fnt_bold'>○使用iCloud Drive時</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info3_iOS.png' width=100%></figure><br/>　①由裝置「設定」內的選單登入「<span class='fnt_emphasis fnt_bold'>iCloud</span>」。<br/>　②在登入的狀態下重新安裝並啟動數碼寶貝Linkz<br/>　　則會還原備份。<br/></div><div class='txt margin_top_20'><span class='fnt_bold'>○未使用iCloud Drive時</span><figure class=margin_top_10><img src='/img/help/backup/Backup_info4_iOS.png' width=100%></figure><br/>　①由裝置「設定」內的選單登入「<span class='fnt_emphasis fnt_bold'>iCloud</span>」。<br/>　②在登入的狀態下重新安裝並啟動數碼寶貝Linkz<br/>　　則會還原備份。<br/></div><div class='txt margin_top_10'><h4>■注意事項</h4><br/>　※重新安裝時，<span class='fnt_emphasis fnt_bold'>需使用與原本進行遊戲時相同的iCloud帳號</span>進行登入。<br/><br/>※若在兩個以上的裝置使用相同的iCloud帳號，<span class='fnt_emphasis fnt_bold'>最後一次進行遊戲的裝置之遊戲資料將被覆寫</span>。<br/><br/>　※若在兩個以上的裝置使用相同遊戲資料進行遊戲，<span class='fnt_emphasis fnt_bold'>則可能造成資料毀損</span>，請務必避免這種情況發生。<br/></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "72",
 			"helpCategoryId": "7",
-			"helpTitle": "콜로세움이란",
+			"helpTitle": "關於競技場",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>전국의 유저와 실시간으로 배틀을 진행하는 곳입니다.<br/><br/>콜로세움에서는 <span class='fnt_emphasis fnt_bold'>스태미너를 소비</span>하여 배틀할 수 있으나, <span class='fnt_emphasis fnt_bold'>매일 최대 3번까지는 스태미너를 소비하지 않고 배틀</span>할 수 있습니다.<br/><span class='fnt_emphasis fnt_bold'>※프리 플레이 횟수는 매일 {'2017-10-01 14:00:00'|timezone_format:0:'H:i'}에 리셋됩니다.</span><br/><br/>콜로세움은 랭크에 따라 랜덤 매칭되는 <span class='fnt_emphasis fnt_bold'>'대인전'</span>, 유저 코드로 검색한 상대 또는 친구와 즐길 수 있는 <span class='fnt_emphasis fnt_bold'>'모의전'</span> 2종류가 있습니다.<br/>대인전은 소비 스태미너가 많을수록 승리 시에 BP(배틀 포인트)를 많이 획득합니다. 우측의 '대인전' 메뉴를 통해 이용하시기 바랍니다.<br/><br/>또한 콜로세움 배틀에 참여하려면 디지몬 6마리로 구성된 <span class='fnt_emphasis fnt_bold'>콜로세움 전용 파티</span>를 편성해야 합니다.<br/>단, 배틀에 사용하는 디지몬은 최대 <span class='fnt_emphasis fnt_bold'>3마리</span>이며, 매칭 후 <span class='fnt_emphasis fnt_bold'>배틀 멤버 선출 화면에서 배틀에 참가할 디지몬을 선출</span>해야 합니다.<br/><br/>※BP(배틀 포인트)란 교환소에서 경품으로 교환할 수 있는 포인트입니다.<br/>※좌우에 위치한 '대인전' 양쪽 모두 획득하는 DP(듀얼 포인트)는 동일합니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>在這裡可以和全國用戶進行即時戰鬥。<br/><br/>進行競技場對戰需要<span class='fnt_emphasis fnt_bold'>消耗體力</span>，但<span class='fnt_emphasis fnt_bold'>每天最多可進行3次免消耗的對戰</span>。<br/><span class='fnt_emphasis fnt_bold'>※免消耗的次數會於每天{'2017-10-01 14:00:00'|timezone_format:0:'H:i'}重置。</span><br/><br/>競技場共分為兩種，分別是依RANK進行隨機配對的<span class='fnt_emphasis fnt_bold'>「VS戰鬥」</span>，以及可輸入用戶碼進行配對或和好友一同暢玩的<span class='fnt_emphasis fnt_bold'>「模擬戰」</span>。<br/>進行VS戰鬥時消耗的體力越多，勝利時即可獲得越多BP（戰鬥點數）。選擇右側的「VS戰鬥」即可使用此項目。<br/><br/>另外，參加競技場對戰需要以6隻數碼寶貝組成<span class='fnt_emphasis fnt_bold'>競技場專用隊伍</span>。<br/>但戰鬥時最多只能使用<span class='fnt_emphasis fnt_bold'>3隻</span>數碼寶貝，所以配對成功後必須<span class='fnt_emphasis fnt_bold'>於選擇戰鬥成員畫面選出參加戰鬥的數碼寶貝</span>。<br/><br/>※BP（戰鬥點數）是可在交換所交換獎品的點數。<br/>※左右兩側的「VS戰鬥」可獲得的DP（決鬥點數）皆相同。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "73",
 			"helpCategoryId": "7",
-			"helpTitle": "퀘스트와 콜로세움의 차이",
+			"helpTitle": "冒險與競技場的差異",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>콜로세움은 퀘스트 배틀과 달리 다음과 같은 특징이 있습니다.<br />·<span class='fnt_emphasis fnt_bold'>커맨드 선택 제한시간이 10초</span>입니다. 10초가 경과하면 자동으로 '공격'이 선택되어 랜덤으로 상대를 공격합니다.<br/>·배틀 속도는 기본 '2배속'으로 설정됩니다. 'AUTO' 및 '배틀 속도 변경'은 불가능합니다.<br/>·최대 20라운드까지 진행됩니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>競技場與冒險的戰鬥方法差異如下：<br />・<span class='fnt_emphasis fnt_bold'>選擇行動指令的限制時間為10秒。</span>超過時間限制則會自動選擇「ATTACK」，並隨機攻擊敵人。<br/>・戰鬥速度的預設值為「2倍速」。無法使用「AUTO」、「變更戰鬥速度」。<br/>・最大回合數為20回合。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "74",
 			"helpCategoryId": "7",
-			"helpTitle": "DP와 랭크",
+			"helpTitle": "DP與RANK",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>DP란 '듀얼 포인트'의 약자로, 콜로세움에서 승리하면 획득하는 수치입니다.<br/>또한 획득한 DP에 따라 랭킹이 정해지며, 랭킹에 따른 보상이 주어집니다.<br/>※패배해도 DP는 변동되지 않습니다.<br/><span class='fnt_emphasis fnt_bold'>승리 수에 따라 랭크가 상승하며, 획득 가능한 DP가 증가하고 랭크에 맞는 상대가 매칭됩니다.</span><br/>단, S랭크는 승률에 따라 내부 랭크가 변동됩니다.<br/><br/><span class='fnt_emphasis fnt_bold'>▼변동 조건</span><br/>30회 이상 전투를 했으며 승리 시 승률이 75%를 넘은 경우<br/><span class='fnt_emphasis fnt_bold'>또는</span><br/>30회 이상 전투를 했으며 패배 시 승률이 25% 이하인 경우나 중간 랭킹을 포함한 각 랭킹 집계일까지 전투를 5회 이하로 진행한 경우.<br/></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>DP即為「決鬥點數」的簡稱，這是在競技場勝利時可獲得的數值。<br/>此外，玩家間將依據所獲得的DP進行排名，並可獲得對應的排名報酬。<br/>※敗北時DP不會發生變動。<br/><span class='fnt_emphasis fnt_bold'>隨著勝利次數增加，不僅能提升RANK，可獲得的DP也會增加，對戰對手也將依據RANK進行配對。</span><br/>唯獨S RANK是依據獲勝率進行內部RANK的變動。<br/><br/><span class='fnt_emphasis fnt_bold'>▼變動條件</span><br/>進行戰鬥30次以上且勝利時獲勝率超過75％<br/><span class='fnt_emphasis fnt_bold'>或者</span><br/>進行戰鬥30次以上且敗北時獲勝率低於25％，或在中途排名等各項排名統計日到來前，戰鬥次數未達5次以上。<br/></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "75",
 			"helpCategoryId": "7",
-			"helpTitle": "DP 초기화에 대하여",
+			"helpTitle": "關於DP重置",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>DP는 콜로세움의 개최 기간마다 초기화됩니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>DP將會於每次競技場的舉辦期間重置</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "76",
 			"helpCategoryId": "7",
-			"helpTitle": "승리와 패배에 대하여",
+			"helpTitle": "關於勝敗",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>승리 조건은 <span class='fnt_emphasis fnt_bold'>20라운드 이내에 상대 디지몬 3마리의 HP를 0로 만드는 것</span>입니다.<br /><br />20라운드를 초과하면 다음 조건에 따라 승부가 결정됩니다.<br />1. 생존한 디지몬의 잔여 HP의 합이 상대방보다 큰 경우 승리<br />2. 조건 1로 승부를 가릴 수 없는 경우, 생존한 디지몬의 잔여 HP의 합을 생존한 디지몬 3마리의 최대 HP의 합으로 나눈 비율이 큰 유저가 승리<br />3. 조건 2로도 승부를 가릴 수 없는 경우, 생존 디지몬이 많은 유저가 승리<br />조건 3마저 동일한 경우에는 규정에 따라 결정됩니다.<br /><br />배틀 중 네트워크 오류로 퇴장한 후 규정 시간 내에 복귀하지 못하면 패배 처리되오니, 통신이 원활한 환경에서 진행하십시오.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>勝利條件是<span class='fnt_emphasis fnt_bold'>在20回合內，將對手3隻數碼寶貝的HP降為0則勝利</span>。<br /><br />若超過20回合，則根據下列條件決定勝敗。<br />1.存活的數碼寶貝總和HP較多者勝利。<br />2.若1的數字相同時，存活的數碼寶貝所剩HP占3隻HP總和比例較高者勝利。<br />3.若2也無法分出高下時，存活的數碼寶貝較多者勝利。<br />若還是相同，則以既定條件決定。<br /><br />戰鬥中若連線中斷，無法在規定時間內回到戰鬥時，則視為敗北，因此請在訊號良好的環境遊玩。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "77",
 			"helpCategoryId": "7",
-			"helpTitle": "랭킹 보상에 대하여",
+			"helpTitle": "關於排名報酬",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>랭킹 보상은 <span class='fnt_emphasis fnt_bold'>집계 완료 후 7일 이내에 콜로세움을 방문하면 보상이 선물 상자로 지급됩니다.</span><br/>콜로세움을 방문하지 않은 상태에서 수령 기간이 경과하면 보상을 수령할 수 없으니 주의하십시오.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>排名報酬<span class='fnt_emphasis fnt_bold'>只要在統計完成後的7天內移動至競技場TOP畫面，便會自動送入禮物盒。</span><br/>超過期間未前往競技場，將會無法領取報酬，因此請特別注意。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "78",
 			"helpCategoryId": "7",
-			"helpTitle": "무효 시합에 대하여",
+			"helpTitle": "關於無效比賽",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>매칭되기 전에 연결이 끊어지는 등의 사태가 발생한 경우 시합이 무효 처리됩니다.<br/><br />시합이 무효로 돌아가면 보상을 획득할 수 없으며, DP에도 변동이 없습니다.<br />또한 배틀 횟수, 승리 수 등도 바뀌지 않습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>在配對前即發生連線中斷等情形，即視為無效比賽。<br/><br />無效比賽則無法獲得報酬與產生DP變動。<br />另外，戰鬥次數與勝利數也不會改變。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "79",
 			"helpCategoryId": "7",
-			"helpTitle": "모의전에 대하여",
+			"helpTitle": "關於模擬戰",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>모의전은 스태미너 소비, 보상, DP 변동이 없으나 다음 방법으로 언제든지 콜로세움에서 배틀할 수 있습니다.<br />·유저 코드를 입력하여 배틀<br />·친구와 배틀<br /><br />랭크, DP 걱정 없이 직접 키운 디지몬으로 배틀을 즐겨보세요.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>在模擬戰雖然不會消耗體力，報酬與DP等也不會產生變動，但是使用以下的方法，可以隨時在競技場享受戰鬥。<br />・輸入用戶碼進行戰鬥<br />・與好友進行戰鬥<br /><br />不須介意RANK與DP，以自己養育的數碼寶貝享受戰鬥的樂趣吧。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "80",
 			"helpCategoryId": "10",
-			"helpTitle": "디지채팅이란",
+			"helpTitle": "關於數碼聊天室",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>전국의 유저들과 대화하는 기능입니다.<br/><br/>디지채팅은 최대 3그룹까지 참가할 수 있습니다.<br/>디지채팅 코멘트는 100글자까지 입력할 수 있습니다.<br/>채팅 마스터만 그룹을 해체할 수 있으며, 다른 멤버는 그룹을 해체할 수 없습니다.</div><div class='txt margin_top_10'>또한 채팅 마스터만 멤버 목록에서 채팅 멤버를 강제로 퇴장시킬 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>可以和全國用戶進行對話的功能。<br/><br/>玩家在數碼聊天室最多可以參加3個群組。<br/>在數碼聊天室留言時，字數限制為不限全形半形最多100字。<br/>唯有群組主人有權刪除群組，刪除時群組內不能存在群組主人以外的成員。</div><div class='txt margin_top_10'>此外，也唯有群組主人可由成員一覽將成員強制退出。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "81",
 			"helpCategoryId": "7",
-			"helpTitle": "기타 주의사항",
+			"helpTitle": "其他注意事項",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>기타 주의사항은 다음과 같습니다.<br />·예고 없이 콜로세움 개최 기간이 변동될 수 있습니다.<br />·랭킹은 DP를 기준으로 집계하지만, 동일한 경우 승률, 승리 수, 배틀 수 등을 고려하여 결정됩니다.<br />·콜로세움은 실시간 배틀이므로 통신이 원활한 환경에서 진행하십시오.<br />·규정 시간 중 여러 번 부전패 한 유저는 일정 시간 매칭이 제한되오니 주의하십시오.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>其他注意事項如下：<br />‧競技場舉辦期間可能未經預告逕行變更。<br />‧排名的統計基準為DP，若相同時則以獲勝率、勝利次數，以及戰鬥次數等進行最終判斷。<br />‧競技場為即時戰鬥，請在連線環境良好的地方遊玩。<br />‧規定時間內發生多次不戰而敗的用戶，於一定時間內將無法再進行配對，因此請特別注意。<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "82",
 			"helpCategoryId": "6",
-			"helpTitle": "협동전의 특징",
+			"helpTitle": "協力戰鬥的特徵",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>최대 3명의 다른 유저와 함께 퀘스트를 진행할 수 있습니다.<br /><br />협동전의 특징은 다음과 같습니다.<br />·협동전에서는 기술을 쓸 때 필요한 AP가 <span class='fnt_emphasis fnt_bold'>공유되며, 최대 AP16까지 쌓을 수 있습니다.</span><br />·아군과 적병이 드물게 랜덤 공격을 실행합니다.<br />·함께 클리어하는 인원이 많을수록 혼자 클리어하는 것보다 많은 보상을 얻게 됩니다.<br />·협동전에서도 각자 부활할 수 있습니다.<br />·컨티뉴는 10초가 지나기 전, 호스트만 할 수 있습니다.<br />·<span class='fnt_emphasis fnt_bold'>배틀 포기와 2배속 진행은 호스트만</span> 실행할 수 있습니다.<br /><br />협동전 중에는 커뮤니케이션용 스탬프를 사용할 수 있으니, 활용해보세요.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>最多能夠與全國其他用戶一起進行三人冒險。<br /><br />關於協力戰鬥詳細如下：<br />・協力戰鬥中發動技能所需的AP<span class='fnt_emphasis fnt_bold'>為共用，最多可儲存16AP。</span><br />・敵我雙方皆有低機率隨機發動攻擊。<br />・比起一個人冒險過關，過關人數越多，獲得的報酬也越豐厚。<br />・在協力戰鬥也能夠以個人為單位進行復活。<br />・僅有主人能在10秒內進行接關。<br />・<span class='fnt_emphasis fnt_bold'>棄權、2倍速等功能僅有主人</span>能夠使用。<br /><br />在協力戰鬥中貼圖可當作交流工具，請活用它來進行戰鬥。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "83",
 			"helpCategoryId": "6",
-			"helpTitle": "모집 게시판 설정",
+			"helpTitle": "招募板設定",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>호스트는 협동전 모집을 진행할 때 원하는 참가 조건을 설정할 수 있습니다.<br /><br />'게시판 등록 확인'에서는 '모집 게시판' 게시 여부를 선택할 수 있습니다.<br />'모집 게시판'에 게시하면 전국의 유저가 협동전에 참가 의뢰를 할 수 있습니다.<br />게시하지 않으면 협동전 대기화면에 표시된 PASS를 전달받고, '모집 게시판'에서 입력한 사람만 참가할 수 있습니다.<br /><br />'성향'에서는 자신이 원하는 유저의 조건을 선택할 수 있습니다.<br /><br />더욱 구체적인 희망사항이 있는 경우, 한 마디 기능을 이용하시기 바랍니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>以主人身分招募協力戰鬥時可設定希望的參加條件。<br /><br />在「招募刊登確認」中可選擇是否刊登於「招募板」。<br />若選擇刊登於「招募板」，就能夠向全國的用戶委託協力戰鬥。<br />若選擇不刊登，則可以將顯示於協力戰鬥待機畫面的通行密碼告訴朋友，由「招募板」輸入通行密碼即可參加。<br /><br />在「氛圍」中可選擇自己希望尋找的用戶條件。<br /><br />若有更詳細的要求，就利用留言來招募看看吧。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "84",
 			"helpCategoryId": "6",
-			"helpTitle": "협동전 진행 방법",
+			"helpTitle": "協力戰鬥的方法",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>협동전은 다음 두 가지 방법으로 진행됩니다.<br /><br />·직접 호스트가 되어 참가하는 협동전<br />가고 싶은 퀘스트에서 '협동전' 버튼을 선택한 후 파티를 결정합니다.<br />그리고 모집 방법을 정한 후 함께 퀘스트에 갈 유저를 기다립니다.<br />혹은 자신이 속한 채팅 그룹 멤버를 모집할 수도 있습니다.<br />멤버 모집 화면에서 좌측 상단의 채팅 아이콘을 터치하면 멤버 모집용 화면이 나타납니다.<br /><br />3명일 경우 각 유저가 퀘스트에 데려갈 디지몬을 한 마리씩 선택합니다.<br />2명일 경우 리더 디지몬 외에 디지몬을 한 마리 더 데려갈 수 있습니다. <span class='fnt_emphasis fnt_bold'>리더 디지몬은 변경할 수 있으나, 두 번째 디지몬은 선택한 파티의 두 번째 디지몬이 자동으로 선택됩니다.</span><br /><br /><br />·멤버가 되어 참가하는 협동전<br />농장에서 '모집 게시판'을 통해 가고 싶은 퀘스트에 참가하는 것과, 디지채팅의 '협동전 의뢰'에서 참가하는 두 가지 방법이 있습니다.<br />'모집 게시판'엔 전국의 유저에게 의뢰가 오며, 디지채팅의 '협동전 의뢰'에는 친구의 의뢰가 옵니다.<br />어느 방법을 선택해도 보상은 같으므로 원하는 퀘스트에 참가합시다.<br />참가하면 협동전 대기 화면이 표시되며 <span class='fnt_emphasis fnt_bold'>파티를 편성할 때와 같은 방법으로 디지몬을 변경할 수 있습니다.</span> 퀘스트에 맞는 디지몬으로 도전하세요.<br />준비가 끝나면 '준비 완료'버튼을 누른 후, 다른 유저의 준비를 기다립시다. 전원의 준비가 끝나면 배틀이 시작됩니다.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>進行協力戰鬥的方法有以下兩種：<br /><br />・自己當主人參加。<br />在想進行的冒險選擇「協力戰鬥」鍵，並決定隊伍。<br />之後選擇招募方法，等待一起參加冒險的用戶。<br />或是在自己加入的數碼聊天室群組招募成員。<br />在招募成員的畫面內點擊左上方的聊天鍵，則會進入招募用畫面。<br /><br />三人冒險時，每位用戶需選擇冒險同行的數碼寶貝。<br />兩人冒險時，則可帶隊長數碼寶貝及第2隻數碼寶貝同行。<span class='fnt_emphasis fnt_bold'>雖然隊長數碼寶貝可變更，但第2隻則是自動選擇隊伍內的第2隻數碼寶貝。</span><br /><br /><br />・以成員身分參加協力戰鬥的方法有兩種。<br />可從農場的「招募板」選擇想進行的冒險，或從數碼聊天室中的「協力戰鬥委託」參加。<br />「招募板」會有來自全國用戶的委託，數碼聊天室的「協力戰鬥委託」則為來自好友的委託。<br />不管選擇哪一個報酬都相同，因此可隨意選擇自己想進行的冒險。<br />選擇參加則會轉為協力戰鬥待機畫面，<span class='fnt_emphasis fnt_bold'>和隊伍整編相同，可變更數碼寶貝。</span>以適合冒險內容的數碼寶貝來挑戰吧。<br />準備好後按下「準備完成」鍵，等待其他用戶準備好後即可開始戰鬥。<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "85",
 			"helpCategoryId": "6",
-			"helpTitle": "호스트와 멤버의 차이",
+			"helpTitle": "主人與成員的差異",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>호스트와 멤버는 다음과 같은 차이가 있습니다.<br /><br />·호스트만 퀘스트를 클리어한 것으로 인정되며, 멤버는 처음으로 퀘스트를 클리어해도 첫 클리어 보상을 받을 수 없습니다.<br />·호스트만 스태미너를 소비하며, 멤버는 스태미너 소비 없이 참가할 수 있습니다.<br />·호스트로 퀘스트에 참가할 경우, 적 디지몬을 쓰러뜨렸을 때 얻는 EXP, 클러스터가 상승합니다.<br />·협동전 클리어 보상은 호스트로 참가한 경우 더 많이 얻을 수 있습니다.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>主人與成員的差異如下：<br /><br />‧冒險的過關處理以主人為基準，成員即使首次過關也無法領取首次過關報酬。<br />‧僅有主人需要消耗體力，成員不須消耗體力即可參加冒險。<br />‧以主人身分參加冒險時，打倒敵方數碼寶貝時獲得的EXP、數碼碎片將會增加。<br />‧以主人身分參加協力戰鬥時將可取得更多過關報酬。<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "86",
 			"helpCategoryId": "6",
-			"helpTitle": "첫 링크 보너스에 대하여",
+			"helpTitle": "關於初次Link獎勵",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>협동전에서 처음으로 함께 퀘스트를 클리어하면 첫 링크 보너스를 획득합니다.<br /><br /> <span class='fnt_emphasis fnt_bold'>10명까지는 디지스톤 10개, 11명부터 50명까지는 디지스톤 3개</span>가 첫 링크 보너스로 지급됩니다.<br />또한 친구와 함께 협동전을 처음 클리어하면 별개로 <span class='fnt_emphasis fnt_bold'>10명까지 디지스톤 10개</span>를 첫 친구 링크 보너스로 획득할 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>第一次協力冒險過關時，能夠獲得初次Link獎勵。<br /><br />初次Link獎勵<span class='fnt_emphasis fnt_bold'>在第10人以前為數碼石10個，第11到50人則是數碼石3個。<br />另外，第一次與好友進行協力冒險過關時，可另外獲得好友初次Link獎勵。<span class='fnt_emphasis fnt_bold'>第10人以前為數碼石10個</span>。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "87",
 			"helpCategoryId": "6",
-			"helpTitle": "네트워크 오류에 대하여",
+			"helpTitle": "關於連線中斷",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>협동전 퀘스트에서 접속이 끊어진 상태로 일정 시간이 지나면 배틀 포기 처리 되오니 주의하십시오.</span><br />또한 호스트와 멤버는 다음 차이점이 있습니다.<br /><br />호스트의 접속이 끊어진 경우<br />·호스트를 포함한 참가 유저 전원이 배틀 포기 처리됩니다.<br />·호스트를 포함한 모든 참가자가 드롭된 아이템을 획득할 수 없습니다.<br /><br />멤버의 접속이 끊어진 경우<br />·접속이 끊긴 멤버의 디지몬은 호스트가 조작합니다.<br />·해당 협동전 퀘스트를 다른 참가자가 클리어해도 접속이 끊긴 멤버는 보상을 받을 수 없습니다.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>協力冒險在連線中斷一定時間後會被視為棄權，請特別注意。</span><br />另外，主人與成員的差異如下。<br /><br />主人連線中斷時：<br />・包含主人在內的全體參加用戶皆被視為棄權。<br />・包含主人在內的全體參加用戶皆無法獲得掉落道具。<br /><br />成員連線中斷時：<br />・中斷成員的數碼寶貝將由主人選擇指令。<br />・即使其他參加者過關，中斷成員還是無法獲得報酬。<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "88",
 			"helpCategoryId": "3",
-			"helpTitle": "시설 창고에 대하여",
+			"helpTitle": "關於設施倉庫",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>장식물만 보관할 수 있는 창고입니다.<br />보관한 장식물은 클러스터 소비 없이 다시 농장에 설치할 수 있습니다.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>僅可保管裝飾的場所。<br />保管的裝飾不需消耗數碼碎片，即可再度設置在農場中。<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "89",
 			"helpCategoryId": "10",
-			"helpTitle": "협동전'과 '콜로세움'에 대하여",
+			"helpTitle": "關於「協力戰鬥」與「競技場」",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>친구에게 '협동전' 참가 요청이 도착하면 알림이 옵니다.<br /><br />친구 혹은 다른 유저에게 '콜로세움'의 모의전 도전 신청을 받으면 알림이 옵니다.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>被好友邀請參加「協力戰鬥」時會收到通知。<br /><br />而在「競技場」，被好友或其他用戶輸入用戶碼挑戰模擬戰時也會收到通知。<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "90",
 			"helpCategoryId": "14",
-			"helpTitle": "칩에 대하여",
+			"helpTitle": "關於晶片",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>디지몬에게 장착하면 디지몬이 각 칩의 능력을 발휘합니다.<br />능력에는 스테이터스 상승뿐 아니라 배틀 중 특수 스킬 발동 효과도 있습니다.<br /><br /><span class='fnt_emphasis fnt_bold'>칩은 랭크가 달라도 이름이 같으면 장착할 수 없습니다.</span><br /><br />칩은 판매하면 클러스터로 변환됩니다.<br />또한, 특정 칩 판매 시 아이템을 획득하는 경우가 있습니다.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>藉由裝備晶片，數碼寶貝可發揮出晶片的能力。<br />其產生的效果不只有狀態提升，也可能在戰鬥中發動特殊技能。<br /><br /><span class='fnt_emphasis fnt_bold'>即使RANK不同，也無法裝備同名稱的晶片。</span><br /><br />晶片賣出後將轉換為數碼碎片。<br />此外，賣出特定晶片時將會獲得道具。<br /></div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "91",
 			"helpCategoryId": "14",
-			"helpTitle": "슬롯에 대하여",
+			"helpTitle": "關於凹槽",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>슬롯은 칩을 장착할 수 있는 공간입니다.<br /><br />최대 슬롯 수는 <span class='fnt_emphasis fnt_bold'>디지스톤</span> 캡처로 획득한 디지몬의 경우 <span class='fnt_emphasis fnt_bold'>10칸</span>, <span class='fnt_emphasis fnt_bold'>링크 포인트</span> 캡처로 획득한 디지몬의 경우 <span class='fnt_emphasis fnt_bold'>5칸</span>입니다.<br /><br />처음엔 개방되지 않은 상태의 슬롯도 있습니다.<br />개방되지 않은 슬롯은 <span class='fnt_emphasis fnt_bold'>진화, 각성, 전용 아이템 등</span> 다양한 조건에 따라 개방됩니다.<br />슬롯을 개방하면 더 많은 칩을 장착할 수 있습니다.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>凹槽為裝備晶片之處。<br /><br />若為使用<span class='fnt_emphasis fnt_bold'>數碼石</span>捕捉到的數碼寶貝，其最大凹槽數為<span class='fnt_emphasis fnt_bold'>10格</span>，若是使用<span class='fnt_emphasis fnt_bold'>Link點數</span>捕捉到的數碼寶貝則為<span class='fnt_emphasis fnt_bold'>5格</span>。<br /><br />部分凹槽起初並未解鎖。<br />未解鎖的凹槽可藉由<span class='fnt_emphasis fnt_bold'>進化、覺醒、專用道具等</span>各式各樣的條件解鎖。<br />凹槽解鎖後，將可裝備更多晶片。<br /></div></article>",
 			"helpPriority": "2"
 		},
 		{
 			"helpId": "92",
 			"helpCategoryId": "14",
-			"helpTitle": "칩 강화에 대하여",
+			"helpTitle": "關於晶片強化",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>칩은 강화하면 랭크가 상승하며, 그에 따라 칩 기능도 향상됩니다.<br /><br />칩을 강화하려면 <span class='fnt_emphasis fnt_bold'>같은 이름을 지닌 같은 랭크의 칩이 필요</span>합니다.<br />강화에 필요한 재료의 수는 랭크와 칩에 따라 다릅니다.<br /></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>晶片可藉由強化來提升RANK，晶片能力也會隨之提升。<br /><br />強化晶片需要<span class='fnt_emphasis fnt_bold'>相同RANK、相同名稱的晶片</span>。<br />強化所需的素材數量隨RANK與晶片有所差異。<br /></div></article>",
 			"helpPriority": "3"
 		},
 		{
 			"helpId": "94",
 			"helpCategoryId": "11",
-			"helpTitle": "칩 캡처",
+			"helpTitle": "晶片捕捉",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>디지스톤을 사용하여 칩을 얻을 수 있습니다.</div><div class='txt margin_top_10'><span class='fnt_emphasis fnt_bold'>레어 칩 캡처</span>에서는 <span class='fnt_emphasis fnt_bold'>랭크 C 이상</span>의 칩을 획득 가능합니다.</div><div class='txt margin_top_10'>중복된 칩이 등장할 수 있습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>使用數碼石可獲得晶片。</div><div class='txt margin_top_10'>在<span class='fnt_emphasis fnt_bold'>稀有晶片捕捉</span>中<span class='fnt_emphasis fnt_bold'>可以獲得RANK C以上</span>的晶片。</div><div class='txt margin_top_10'>出現的晶片可能重複。</div></article>",
 			"helpPriority": "4"
 		},
 		{
 			"helpId": "95",
 			"helpCategoryId": "4",
-			"helpTitle": "퀘스트 티켓",
+			"helpTitle": "冒險入場券",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>특별한 퀘스트에 도전할 수 있는 티켓입니다.<br/>유효 기간이 있는 것과 없는 것이 있습니다.</div><div class='txt margin_top_10'>티켓은 해당 퀘스트를 <span class='fnt_emphasis fnt_bold'>클리어</span>했을 때 <span class='fnt_emphasis fnt_bold'>1장</span>씩 소비됩니다.",
+			"detail": "<article id='help'><div class='txt margin_top_10'>可挑戰特別冒險的入場券。<br/>分成有使用期限與沒有使用期限的入場券。</div><div class='txt margin_top_10'>在對應的冒險<span class='fnt_emphasis fnt_bold'>過關</span>時將消耗<span class='fnt_emphasis fnt_bold'>一張</span>入場券。",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "96",
 			"helpCategoryId": "11",
-			"helpTitle": "티켓 캡처",
+			"helpTitle": "入場券捕捉",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>디지스톤을 사용하여 퀘스트 티켓을 얻을 수 있습니다.</div><div class='txt margin_top_10'>중복된 퀘스트 티켓이 등장할 수 있습니다.</div><br/><div class='txt margin_top_10'>※티켓의 유효 기간은 획득월로부터 4개월 뒤의 말일까지입니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>使用數碼石可獲得冒險入場券。</div><div class='txt margin_top_10'>出現的冒險入場券可能重複。</div><br/><div class='txt margin_top_10'>※入場券的使用期限為取得入場券當月開始計算第四個月的最後一天。</div></article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "97",
 			"helpCategoryId": "8",
-			"helpTitle": "재능 개발이란",
+			"helpTitle": "關於才能開花",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>베이스 디지몬에 파트너 디지몬의 재능을 <span class='fnt_emphasis fnt_bold'>일정 확률</span>로 계승할 수 있습니다.</div><div class='txt margin_top_10'>계승 성공률은 파트너 디지몬의 성장 단계에 따라 다르며, <span class='fnt_emphasis fnt_bold'>성장 단계가 높을</span>수록 성공률이 상승합니다. </div><div class='txt margin_top_10'>또한 같은 재능을 지닌 베이스 디지몬과 파트너 디지몬을 선택하여 재능 개발을 하면, 베이스 디지몬의 재능이 <span class='fnt_emphasis fnt_bold'>1단계 강화</span>되기도 합니다.</div><br/><div class='txt margin_top_10'>※재능 개발을 하면 파트너로 선택한 디지몬이 사라집니다. </div>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>基本體數碼寶貝有一定<span class='fnt_emphasis fnt_bold'>機率</span>能夠繼承夥伴數碼寶貝的才能。</div><div class='txt margin_top_10'>繼承的成功率隨夥伴數碼寶貝的成長階段而不同，<span class='fnt_emphasis fnt_bold'>成長階段越高</span>成功率也越高。</div><div class='txt margin_top_10'>此外，若選擇擁有同樣才能的基本體數碼寶貝與夥伴數碼寶貝進行才能開花，則基本體數碼寶貝的才能將<span class='fnt_emphasis fnt_bold'>強化一階段</span>。</div><br/><div class='txt margin_top_10'>※若進行才能開花，被選為夥伴的數碼寶貝將會消失。</div>",
 			"helpPriority": "5"
 		},
 		{
 			"helpId": "98",
 			"helpCategoryId": "13",
-			"helpTitle": "칭호",
+			"helpTitle": "稱號",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>미션 보상 등, 특정 조건을 클리어하면 얻을 수 있습니다. 특별한 효과는 없으나 프로필에 표시되는 칭호를 설정할 수 있습니다.</div><br/><div class='txt margin_top_10'>※획득한 칭호는 선물상자로 지급되기도 합니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>像是任務的報酬等，完成特定條件後即可獲得。雖然沒有特殊效果，但可於基本資料設定顯示的稱號。</div><br/><div class='txt margin_top_10'>※獲得的稱號可能作為禮物贈送。</div></article>",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "100",
 			"helpCategoryId": "8",
-			"helpTitle": "버전업이란",
+			"helpTitle": "關於型態升級",
 			"tplPath": "",
-			"detail": "각성치가 4이면서 동시에 최대 레벨인 궁극체 디지몬을 강화하는 방법입니다.<br />이벤트 등으로 얻는 버전업 전용 재료 '버전업 데이터'를 사용하여 실행합니다.<br />버전업을 실행한 디지몬은 다음 능력을 획득하며, 각성 단계 표기 방식이 각성에서 Ver으로 바뀝니다.<br />·최대 레벨 확장<br />·두 번째 계승기 슬롯 추가<br />·수련장에서 상태이상 내성 변화 개방<br /><br />※버전업을 실행하면 폼 체인지에 필요한 클러스터 수가 증가합니다.<br />※버전업을 실행하면 초궁극체로 진화할 때 버전업 전용 재료가 필요합니다.<br />※버전업을 마친 디지몬을 베이스로 연구를 진행하면 각성치 4, Lv1인 디지몬알로 돌아갑니다.<br />※연구를 통해 디지몬알로 돌아갈 땐 최대 레벨이 80으로 돌아가며, 두 번째 계승기 슬롯에 장착한 계승기 및 변화한 상태이상 내성이 사라집니다.",
+			"detail": "覺醒值為4且LvMAX的究極體數碼寶貝可使用的強化方法。<br />使用經由活動等方式獲得的專用素材「升級資料」即可執行型態升級。<br />執行型態升級的數碼寶貝可獲得以下能力，覺醒階段也將由原本的覺醒變更為Ver標記。<br />‧提升Lv上限<br />‧追加繼承技凹槽2<br />‧開放道場的異常狀態抗性變化<br /><br />※執行型態升級後，變更模式時所需的數碼碎片數將會增加。<br />※執行型態升級後，進化為超究極體時將需要使用型態升級專用素材。<br />※若將已型態升級的數碼寶貝作為基本體執行研究，將會變回覺醒值為4的Lv1數碼蛋。<br />※執行研究變回數碼蛋後，Lv上限將變回80，裝備於繼承技凹槽2的繼承技和變化過的異常狀態抗性則會消失。",
 			"helpPriority": "6"
 		},
 		{
 			"helpId": "102",
 			"helpCategoryId": "7",
-			"helpTitle": "콜로세움 파티에 대하여",
+			"helpTitle": "關於競技場隊伍",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_10'>콜로세움에 참가하려면 디지몬 6마리로 구성된 콜로세움 전용 파티를 편성해야 합니다.<br/>콜로세움 전용 파티는 파티 편성 화면의 콜로세움 버튼을 눌러 구성할 수 있습니다.</div><article id='help'><div class='txt margin_top_10'>※파티 편성 화면의 콜로세움 버튼은 콜로세움이 개방되기 전에는 표시되지 않습니다.</div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_10'>參加競技場時，需要以6隻數碼寶貝組成競技場專用隊伍。<br/>由整編隊伍畫面點選競技場鍵，即可組成競技場專用隊伍。</div><article id='help'><div class='txt margin_top_10'>※若競技場尚未開放，整編隊伍畫面內將不會顯示競技場鍵。</div></article>",
 			"helpPriority": "1"
 		},
 		{
 			"helpId": "103",
 			"helpCategoryId": "13",
-			"helpTitle": "Facebook을 이용한 데이터 이전 방법",
+			"helpTitle": "使用Facebook的資料轉移方法",
 			"tplPath": "",
-			"detail": "<article id='help'><div class='txt margin_top_20'><span class='fnt_bold'>■유저 데이터를 다른 단말기로 이전하는 경우</span><br/> Facebook을 이용하여 게임 데이터를 백업할 수 있습니다.<br/></div><h3 class='margin_top_20'>―――― 기존 단말기 설정 ――――</h3><div class='txt margin_top'><span class='fnt_bold'> ①디지몬 링크즈 내 메뉴의 '기타' > '데이터 이전'에서 '<span class='fnt_emphasis fnt_bold'>Facebook 연동</span>'을 선택한 다음 '네'를 선택합니다.<br/> ②Facebook 로그인 화면이 나오면 로그인합니다.<br/> ③'<span class='fnt_emphasis fnt_bold'>디지몬 링크즈</span>'의 Facebook 접근을 허가합니다.<br/> ④'데이터 이전' 화면에 '<span class='fnt_emphasis fnt_bold'>연동 중</span>' 표시가 된 것을 확인합니다.<br/></div><h3 class='margin_top_20'>―――― 새로운 단말기 설정 ――――</h3><div class='txt margin_top'><span class='fnt_bold'> ①새로 디지몬 링크스를 인스톨합니다.<br/> ②타이틀 화면의 '<span class='fnt_emphasis fnt_bold'>데이터 이전</span>'을 선택하여 유저 데이터를 불러옵니다.<br/></div><div class='txt margin_top_20'><span class='fnt_bold'><h4>■주의사항</h4><br/> ※새로 인스톨할 때 <span class='fnt_emphasis fnt_bold'>플레이 당시에 사용했던 Facebook 계정</span>에 로그인해야 합니다.<br/><br/> ※복수의 단말기에서 같은 게임 데이터를 플레이하면 <span class='fnt_emphasis fnt_bold'>데이터가 손상될 수 있으니</span> 이용을 삼가시기 바랍니다.<br/></div></article>",
+			"detail": "<article id='help'><div class='txt margin_top_20'><span class='fnt_bold'>■需要將用戶資料轉移至其他裝置時，</span><br/>　可透過Facebook備份遊戲資料。<br/></div><h3 class='margin_top_20'>――――　資料轉移原帳號的設定　――――</h3><div class='txt margin_top'><span class='fnt_bold'>　①由數碼寶貝Linkz內的選單選擇「其他」＞「資料轉移」中的「<span class='fnt_emphasis fnt_bold'>綁定Facebook</span>」，並選擇「是」。<br/>　②若是出現Facebook登入畫面，請進行登入。<br/>　③許可「<span class='fnt_emphasis fnt_bold'>數碼寶貝Linkz</span>」登入Facebook。<br/>　④於「資料轉移」畫面確認狀態已改變為「<span class='fnt_emphasis fnt_bold'>綁定中</span>」。<br/></div><h3 class='margin_top_20'>――――　資料轉移新帳號的設定　――――</h3><div class='txt margin_top'><span class='fnt_bold'>　①全新安裝數碼寶貝Linkz。<br/>　②由標題畫面選擇「<span class='fnt_emphasis fnt_bold'>資料轉移</span>」，轉移用戶資料。<br/></div><div class='txt margin_top_20'><span class='fnt_bold'><h4>■注意事項</h4><br/>　※重新安裝時，<span class='fnt_emphasis fnt_bold'>需使用與原本進行遊戲時相同的Facebook帳號</span>進行登入。<br/><br/>　※若在兩個以上的裝置使用相同遊戲資料進行遊戲，<span class='fnt_emphasis fnt_bold'>則可能造成資料毀損</span>，請務必避免這種情況發生。<br/></div></article>",
 			"helpPriority": "1"
 		}
 	]
