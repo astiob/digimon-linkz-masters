@@ -8029,6 +8029,83 @@
 			"dispNum": "52",
 			"startTime": "2018-10-19 18:00:00",
 			"endTime": "2018-10-22 23:59:59"
+		},
+		{
+			"bannerId": "768",
+			"actionType": "menu",
+			"name": "イベント「陽天月華の灼煌」開催！",
+			"img": "/events/syuusyuu/53/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1230",
+			"dispNum": "50",
+			"startTime": "2018-10-25 18:00:00",
+			"endTime": "2018-10-31 23:59:59"
+		},
+		{
+			"bannerId": "770",
+			"actionType": "menu",
+			"name": "ハッピーハロウィンログインボーナス開催！",
+			"img": "/login/10028/10028_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1233",
+			"dispNum": "100",
+			"startTime": "2018-10-26 05:00:00",
+			"endTime": "2018-11-02 04:59:59"
+		},
+		{
+			"bannerId": "771",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10196/10196_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1234",
+			"dispNum": "3",
+			"startTime": "2018-10-25 16:00:00",
+			"endTime": "2018-11-08 15:59:59"
+		},
+		{
+			"bannerId": "772",
+			"actionType": "menu",
+			"name": "陽天月華の灼煌 育成デジモンキャプチャ開催！",
+			"img": "/gasha/special/10197/10197_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1235",
+			"dispNum": "5",
+			"startTime": "2018-10-25 16:00:00",
+			"endTime": "2018-11-01 15:59:59"
+		},
+		{
+			"bannerId": "773",
+			"actionType": "menu",
+			"name": "陽天月華の灼煌 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30095/30095_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1236",
+			"dispNum": "7",
+			"startTime": "2018-10-25 16:00:00",
+			"endTime": "2018-10-31 23:59:59"
+		},
+		{
+			"bannerId": "774",
+			"actionType": "menu",
+			"name": "ハロウィンスペシャルキャプチャ開催！",
+			"img": "/gasha/special/10198/10198_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1237",
+			"dispNum": "2",
+			"startTime": "2018-10-25 16:00:00",
+			"endTime": "2018-10-31 23:59:59"
+		},
+		{
+			"bannerId": "775",
+			"actionType": "menu",
+			"name": "強化運上昇確率アップキャンペーン開催！",
+			"img": "/campaign/10004/10004_powerluck.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1238",
+			"dispNum": "101",
+			"startTime": "2018-10-25 16:00:00",
+			"endTime": "2018-11-08 15:59:59"
 		}
 	]
 }
