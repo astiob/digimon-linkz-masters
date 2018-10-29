@@ -7899,6 +7899,72 @@
 			"effect": "chip_effect_10129"
 		},
 		{
+			"chipId": "100375",
+			"chipGroupId": "10130",
+			"name": "陽輝月華的 掉落特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10130",
+			"detail": "ATK+20。並且於「陽輝月華的灼煌」中使片斷資料的獲得個數+1。",
+			"effect": "chip_effect_10130"
+		},
+		{
+			"chipId": "100376",
+			"chipGroupId": "10130",
+			"name": "陽輝月華的 掉落特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10130",
+			"detail": "ATK+30。並且於「陽輝月華的灼煌」中使片斷資料的獲得個數+3。",
+			"effect": "chip_effect_10130"
+		},
+		{
+			"chipId": "100377",
+			"chipGroupId": "10130",
+			"name": "陽輝月華的 掉落特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10130",
+			"detail": "ATK+50。並且於「陽輝月華的灼煌」中使片斷資料的獲得個數+9。",
+			"effect": "chip_effect_10130"
+		},
+		{
+			"chipId": "100378",
+			"chipGroupId": "10131",
+			"name": "陽輝月華的 EXTRA STAGE特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10131",
+			"detail": "S-ATK+20。並且於「陽輝月華的灼煌」中令EXTRA STAGE的發動率小幅提升。",
+			"effect": "chip_effect_10131"
+		},
+		{
+			"chipId": "100379",
+			"chipGroupId": "10131",
+			"name": "陽輝月華的 EXTRA STAGE特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10131",
+			"detail": "S-ATK+30。並且於「陽輝月華的灼煌」中令EXTRA STAGE的發動率中幅提升。",
+			"effect": "chip_effect_10131"
+		},
+		{
+			"chipId": "100380",
+			"chipGroupId": "10131",
+			"name": "陽輝月華的 EXTRA STAGE特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10131",
+			"detail": "S-ATK+50。並且於「陽輝月華的灼煌」中令EXTRA STAGE的發動率大幅提升。",
+			"effect": "chip_effect_10131"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "破壞與救世的Pt特效 C",

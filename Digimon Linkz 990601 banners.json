@@ -2298,6 +2298,50 @@
 			"dispNum": "50",
 			"startTime": "2018-10-22 18:00:00",
 			"endTime": "2018-10-28 13:59:59"
+		},
+		{
+			"bannerId": "100212",
+			"actionType": "menu",
+			"name": "舉辦活動「陽輝月華的灼煌」！",
+			"img": "/events/syuusyuu/53/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=419",
+			"dispNum": "50",
+			"startTime": "2018-10-29 18:00:00",
+			"endTime": "2018-11-04 13:59:59"
+		},
+		{
+			"bannerId": "100213",
+			"actionType": "menu",
+			"name": "舉辦「究極體大會捕捉」！",
+			"img": "/gasha/special/10196/10196_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=420",
+			"dispNum": "15",
+			"startTime": "2018-10-29 16:00:00",
+			"endTime": "2018-11-12 15:59:59"
+		},
+		{
+			"bannerId": "100214",
+			"actionType": "menu",
+			"name": "舉辦「陽輝月華的灼煌 養成數碼寶貝捕捉」！",
+			"img": "/gasha/special/10197/10197_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=421",
+			"dispNum": "16",
+			"startTime": "2018-10-29 16:00:00",
+			"endTime": "2018-11-05 15:59:59"
+		},
+		{
+			"bannerId": "100215",
+			"actionType": "menu",
+			"name": "舉辦「陽輝月華的灼煌」特效晶片捕捉！",
+			"img": "/gasha/special/30095/30095_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=422",
+			"dispNum": "20",
+			"startTime": "2018-10-29 16:00:00",
+			"endTime": "2018-11-04 13:59:59"
 		}
 	]
 }
