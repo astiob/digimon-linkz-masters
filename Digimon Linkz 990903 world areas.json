@@ -217,6 +217,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1096",
+			"worldId": "6",
+			"priority": "10",
+			"name": "Blaze of the Heavenly Bodies",
+			"img": "syuusyuu/53/Holding_1.png",
+			"description": "Blaze of the Heavenly Bodies",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "100001",
 			"worldId": "6",
 			"priority": "10",

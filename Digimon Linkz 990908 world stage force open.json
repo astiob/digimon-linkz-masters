@@ -69,6 +69,13 @@
 			"assetCategoryId": 2,
 			"assetValue": 1,
 			"assetNum": 15
+		},
+		{
+			"worldStageId": 6151,
+			"forceOpenMinute": 30,
+			"assetCategoryId": 2,
+			"assetValue": 1,
+			"assetNum": 20
 		}
 	]
 }

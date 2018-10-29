@@ -7899,6 +7899,72 @@
 			"effect": "chip_effect_10129"
 		},
 		{
+			"chipId": "100375",
+			"chipGroupId": "10130",
+			"name": "Heavenly Bodies Drop Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10130",
+			"detail": "ATK +20. Also increases Data Byte drop by 1 in \"Blaze of the Heavenly Bodies\".",
+			"effect": "chip_effect_10130"
+		},
+		{
+			"chipId": "100376",
+			"chipGroupId": "10130",
+			"name": "Heavenly Bodies Drop Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10130",
+			"detail": "ATK +30. Also increases Data Byte drop by 3 in \"Blaze of the Heavenly Bodies\".",
+			"effect": "chip_effect_10130"
+		},
+		{
+			"chipId": "100377",
+			"chipGroupId": "10130",
+			"name": "Heavenly Bodies Drop Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10130",
+			"detail": "ATK +50. Also increases Data Byte drop by 9 in \"Blaze of the Heavenly Bodies\".",
+			"effect": "chip_effect_10130"
+		},
+		{
+			"chipId": "100378",
+			"chipGroupId": "10131",
+			"name": "Heavenly Bodies EX stage Specialty Chip  C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10131",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"Blaze of the Heavenly Bodies\" event.",
+			"effect": "chip_effect_10131"
+		},
+		{
+			"chipId": "100379",
+			"chipGroupId": "10131",
+			"name": "Heavenly Bodies EX stage Specialty Chip  B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10131",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"Blaze of the Heavenly Bodies\" event.",
+			"effect": "chip_effect_10131"
+		},
+		{
+			"chipId": "100380",
+			"chipGroupId": "10131",
+			"name": "Heavenly Bodies EX stage Specialty Chip  A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10131",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Blaze of the Heavenly Bodies\" event.",
+			"effect": "chip_effect_10131"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",
