@@ -921,6 +921,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1076066",
+			"soulName": "Lilithmon Data Fragment",
+			"description": "A data fragment required to Digivolve into Lilithmon.",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "2000001",
 			"soulName": "Null Plugin ver1.0",
 			"description": "A program encoded with a hint of Null energy, used for Digivolution.",
