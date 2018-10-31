@@ -921,6 +921,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1076066",
+			"soulName": "莉莉絲獸的資料碎片",
+			"description": "進化成莉莉絲獸時所需的資料碎片。",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "2000001",
 			"soulName": "無的外掛ver1.0",
 			"description": "進化時所需，包含「無」屬性微弱力量的程式。",
