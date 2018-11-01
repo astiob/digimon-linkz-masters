@@ -764,6 +764,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1091",
+			"name": "第19回覇者",
+			"detail": "第19回コロシアムの覇者に送られる栄光の証",
+			"img": "honorific_colosseum_91",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1092",
+			"name": "第19回SSSランカー",
+			"detail": "第19回コロシアムの最上位ランカーに送られる栄誉の証",
+			"img": "honorific_colosseum_92",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1093",
+			"name": "第19回SSランカー",
+			"detail": "第19回コロシアムの上位ランカーに送られる名誉の証",
+			"img": "honorific_colosseum_93",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1094",
+			"name": "第19回Sランカー",
+			"detail": "第19回コロシアムのランカーに送られる名声の証",
+			"img": "honorific_colosseum_94",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1095",
+			"name": "第19回挑戦者",
+			"detail": "第19回コロシアムの挑戦者に送られる証",
+			"img": "honorific_colosseum_95",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10001",
 			"name": "竜帝の系譜トップ100",
 			"detail": "イベント「竜帝の系譜」トップ100位に送られる栄誉の証",
