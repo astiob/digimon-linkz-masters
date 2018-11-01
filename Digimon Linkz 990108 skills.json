@@ -14596,6 +14596,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "974",
+			"name": "ヒャズニング・ワルツ",
+			"simpleDescription": "",
+			"description": "自然属性で敵全体に物理大ダメージ、自身のHPが高いほど威力アップ",
+			"type": "2",
+			"skillGroupId": "348",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "348",
+			"soundEffect": "bt_927",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "975",
+			"name": "ヒャズニング・ワルツ",
+			"simpleDescription": "",
+			"description": "自然属性で敵全体に物理大ダメージ、自身のHPが高いほど威力アップ",
+			"type": "2",
+			"skillGroupId": "348",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "348",
+			"soundEffect": "bt_927",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "プチフレイム",
 			"simpleDescription": "",

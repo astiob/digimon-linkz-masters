@@ -7481,6 +7481,94 @@
 			"effect": "chip_effect_131"
 		},
 		{
+			"chipId": "1215",
+			"chipGroupId": "100",
+			"name": "タエール G",
+			"rank": "1",
+			"multiNum": "1",
+			"needChip": "10",
+			"icon": "chip_100",
+			"detail": "HP95%以上の時、バトル中に1回だけHPが0になるダメージを受けてもHP1で耐える",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1216",
+			"chipGroupId": "100",
+			"name": "タエール F",
+			"rank": "2",
+			"multiNum": "1",
+			"needChip": "9",
+			"icon": "chip_100",
+			"detail": "HP85%以上の時、バトル中に1回だけHPが0になるダメージを受けてもHP1で耐える",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1217",
+			"chipGroupId": "100",
+			"name": "タエール E",
+			"rank": "3",
+			"multiNum": "1",
+			"needChip": "8",
+			"icon": "chip_100",
+			"detail": "HP75%以上の時、バトル中に1回だけHPが0になるダメージを受けてもHP1で耐える",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1218",
+			"chipGroupId": "100",
+			"name": "タエール D",
+			"rank": "4",
+			"multiNum": "1",
+			"needChip": "7",
+			"icon": "chip_100",
+			"detail": "HP65%以上の時、バトル中に1回だけHPが0になるダメージを受けてもHP1で耐える",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1219",
+			"chipGroupId": "100",
+			"name": "タエール C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "6",
+			"icon": "chip_100",
+			"detail": "HP50%以上の時、バトル中に1回だけHPが0になるダメージを受けてもHP1で耐える",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1220",
+			"chipGroupId": "100",
+			"name": "タエール B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_100",
+			"detail": "HP40%以上の時、バトル中に1回だけHPが0になるダメージを受けてもHP1で耐える",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1221",
+			"chipGroupId": "100",
+			"name": "タエール A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_100",
+			"detail": "HP30%以上の時、バトル中に1回だけHPが0になるダメージを受けてもHP1で耐える",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1222",
+			"chipGroupId": "100",
+			"name": "タエール S",
+			"rank": "8",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_100",
+			"detail": "HP10%以上の時、バトル中に1回だけHPが0になるダメージを受けてもHP1で耐える",
+			"effect": "chip_effect_100"
+		},
+		{
 			"chipId": "1225",
 			"chipGroupId": "140",
 			"name": "無技インパクト G",
@@ -12143,6 +12231,72 @@
 			"icon": "chip_10131",
 			"detail": "S-ATK+50。「陽天月華の灼煌」でEXTRA STAGE発生率が大アップする。",
 			"effect": "chip_effect_10131"
+		},
+		{
+			"chipId": "100381",
+			"chipGroupId": "10132",
+			"name": "魔槍のPt特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10132",
+			"detail": "ATK+20。「魔槍 X 円舞」で獲得Ptが1.5倍になる。",
+			"effect": "chip_effect_10132"
+		},
+		{
+			"chipId": "100382",
+			"chipGroupId": "10132",
+			"name": "魔槍のPt特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10132",
+			"detail": "ATK+30。「魔槍 X 円舞」で獲得Ptが2.5倍になる。",
+			"effect": "chip_effect_10132"
+		},
+		{
+			"chipId": "100383",
+			"chipGroupId": "10132",
+			"name": "魔槍のPt特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10132",
+			"detail": "ATK+50。「魔槍 X 円舞」で獲得Ptが5.5倍になる。",
+			"effect": "chip_effect_10132"
+		},
+		{
+			"chipId": "100384",
+			"chipGroupId": "10133",
+			"name": "魔槍のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10133",
+			"detail": "S-ATK+20。「魔槍 X 円舞」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10133"
+		},
+		{
+			"chipId": "100385",
+			"chipGroupId": "10133",
+			"name": "魔槍のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10133",
+			"detail": "S-ATK+30。「魔槍 X 円舞」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10133"
+		},
+		{
+			"chipId": "100386",
+			"chipGroupId": "10133",
+			"name": "魔槍のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10133",
+			"detail": "S-ATK+50。「魔槍 X 円舞」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10133"
 		},
 		{
 			"chipId": "200001",

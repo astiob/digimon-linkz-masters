@@ -4999,6 +4999,23 @@
 			"modelId": "347"
 		},
 		{
+			"monsterGroupId": "348",
+			"monsterCollectionId": "60348",
+			"monsterName": "クレニアムモンX抗体",
+			"simpleDescription": "",
+			"description": "全身のブラックデジゾイドは、並大抵の攻撃では傷を負わせるどころか攻撃した側にダメージを負わせる。また最強の魔楯「アヴァロン」を背に仕舞っているのは自分に使う必要がないという自信の表れである。",
+			"growStep": "7",
+			"tribe": "5",
+			"partyCharaPosX": "0.1",
+			"partyCharaPosY": "-1.03",
+			"partyCharaPosZ": "0.48",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "348"
+		},
+		{
 			"monsterGroupId": "5002",
 			"monsterCollectionId": "0",
 			"monsterName": "アグモン",

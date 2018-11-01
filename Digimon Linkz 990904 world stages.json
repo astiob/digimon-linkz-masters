@@ -3381,6 +3381,19 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6152",
+			"worldAreaId": "1097",
+			"priority": "1050",
+			"name": "魔槍 X 円舞",
+			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "point/38/Holding_3.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",
