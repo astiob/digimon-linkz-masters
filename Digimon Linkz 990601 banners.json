@@ -2342,6 +2342,39 @@
 			"dispNum": "20",
 			"startTime": "2018-10-29 16:00:00",
 			"endTime": "2018-11-04 13:59:59"
+		},
+		{
+			"bannerId": "100216",
+			"actionType": "menu",
+			"name": "舉辦「魔槍 X 圓舞」特效晶片捕捉！",
+			"img": "/gasha/special/30096/30096_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=426",
+			"dispNum": "20",
+			"startTime": "2018-11-05 16:00:00",
+			"endTime": "2018-11-11 13:59:59"
+		},
+		{
+			"bannerId": "100217",
+			"actionType": "menu",
+			"name": "舉辦活動「秋 登入獎勵」！",
+			"img": "/login/10029/10029_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=427",
+			"dispNum": "101",
+			"startTime": "2018-11-06 05:00:00",
+			"endTime": "2018-11-20 04:59:59"
+		},
+		{
+			"bannerId": "100218",
+			"actionType": "menu",
+			"name": "舉辦活動「魔槍 X 圓舞」！",
+			"img": "/events/point/38/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=429",
+			"dispNum": "50",
+			"startTime": "2018-11-05 18:00:00",
+			"endTime": "2018-11-11 13:59:59"
 		}
 	]
 }

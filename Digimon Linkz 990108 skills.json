@@ -14251,6 +14251,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "974",
+			"name": "赫金華爾茲",
+			"simpleDescription": "",
+			"description": "以自然屬性攻擊\n給予敵人全體物理特大傷害，\n自己的HP越高威力就越高。",
+			"type": "2",
+			"skillGroupId": "348",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "348",
+			"soundEffect": "bt_927",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "975",
+			"name": "赫金華爾茲",
+			"simpleDescription": "",
+			"description": "以自然屬性攻擊\n給予敵人全體物理特大傷害，\n自己的HP越高威力就越高。",
+			"type": "2",
+			"skillGroupId": "348",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "348",
+			"soundEffect": "bt_927",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "小巧火焰",
 			"simpleDescription": "",

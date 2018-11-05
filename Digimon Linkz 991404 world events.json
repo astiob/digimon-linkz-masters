@@ -127,6 +127,15 @@
 			"backgroundImg": "syuusyuu/53/bg.png"
 		},
 		{
+			"worldEventId": "146",
+			"eventType": "1",
+			"startTime": "2016-01-01 18:00:00",
+			"endTime": "2018-11-11 13:59:59",
+			"receiveStartTime": "2018-11-12 05:00:00",
+			"receiveEndTime": "2018-11-19 04:59:59",
+			"backgroundImg": "point/38/bg.png"
+		},
+		{
 			"worldEventId": "100001",
 			"eventType": "0",
 			"startTime": "2017-10-12 19:00:00",

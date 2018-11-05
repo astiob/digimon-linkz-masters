@@ -229,6 +229,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1097",
+			"worldId": "6",
+			"priority": "10",
+			"name": "魔槍 X 圓舞",
+			"img": "point/38/Holding_1.png",
+			"description": "魔槍 X 圓舞",
+			"type": "3",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "100001",
 			"worldId": "6",
 			"priority": "10",

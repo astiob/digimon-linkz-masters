@@ -7085,6 +7085,94 @@
 			"effect": "chip_effect_131"
 		},
 		{
+			"chipId": "1215",
+			"chipGroupId": "100",
+			"name": "忍耐 晶片 G",
+			"rank": "1",
+			"multiNum": "1",
+			"needChip": "10",
+			"icon": "chip_100",
+			"detail": "戰鬥中僅限一次，若HP在95%以上時，\n即使受到使HP變0的攻擊，也能以HP1的狀態存活。",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1216",
+			"chipGroupId": "100",
+			"name": "忍耐 晶片 F",
+			"rank": "2",
+			"multiNum": "1",
+			"needChip": "9",
+			"icon": "chip_100",
+			"detail": "戰鬥中僅限一次，若HP在85%以上時，\n即使受到使HP變0的攻擊，也能以HP1的狀態存活。",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1217",
+			"chipGroupId": "100",
+			"name": "忍耐 晶片 E",
+			"rank": "3",
+			"multiNum": "1",
+			"needChip": "8",
+			"icon": "chip_100",
+			"detail": "戰鬥中僅限一次，若HP在75%以上時，\n即使受到使HP變0的攻擊，也能以HP1的狀態存活。",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1218",
+			"chipGroupId": "100",
+			"name": "忍耐 晶片 D",
+			"rank": "4",
+			"multiNum": "1",
+			"needChip": "7",
+			"icon": "chip_100",
+			"detail": "戰鬥中僅限一次，若HP在65%以上時，\n即使受到使HP變0的攻擊，也能以HP1的狀態存活。",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1219",
+			"chipGroupId": "100",
+			"name": "忍耐 晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "6",
+			"icon": "chip_100",
+			"detail": "戰鬥中僅限一次，若HP在50%以上時，\n即使受到使HP變0的攻擊，也能以HP1的狀態存活。",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1220",
+			"chipGroupId": "100",
+			"name": "忍耐 晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_100",
+			"detail": "戰鬥中僅限一次，若HP在40%以上時，\n即使受到使HP變0的攻擊，也能以HP1的狀態存活。",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1221",
+			"chipGroupId": "100",
+			"name": "忍耐 晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_100",
+			"detail": "戰鬥中僅限一次，若HP在30%以上時，\n即使受到使HP變0的攻擊，也能以HP1的狀態存活。",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1222",
+			"chipGroupId": "100",
+			"name": "忍耐 晶片 S",
+			"rank": "8",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_100",
+			"detail": "戰鬥中僅限一次，若HP在10%以上時，\n即使受到使HP變0的攻擊，也能以HP1的狀態存活。",
+			"effect": "chip_effect_100"
+		},
+		{
 			"chipId": "1225",
 			"chipGroupId": "140",
 			"name": "無技衝擊 G",
@@ -7435,6 +7523,50 @@
 			"icon": "chip_143",
 			"detail": "提升雷屬性技能的威力。\n當技能的攻擊次數越少則大幅提升威力。",
 			"effect": "chip_effect_143"
+		},
+		{
+			"chipId": "1269",
+			"chipGroupId": "144",
+			"name": "自然技衝擊 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "6",
+			"icon": "chip_144",
+			"detail": "提升自然屬性技能的威力。\n當技能的攻擊次數越少則微小幅提升威力。",
+			"effect": "chip_effect_144"
+		},
+		{
+			"chipId": "1270",
+			"chipGroupId": "144",
+			"name": "自然技衝擊 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_144",
+			"detail": "提升自然屬性技能的威力。\n當技能的攻擊次數越少則小幅提升威力。",
+			"effect": "chip_effect_144"
+		},
+		{
+			"chipId": "1271",
+			"chipGroupId": "144",
+			"name": "自然技衝擊 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_144",
+			"detail": "提升自然屬性技能的威力。\n當技能的攻擊次數越少則中幅提升威力。",
+			"effect": "chip_effect_144"
+		},
+		{
+			"chipId": "1272",
+			"chipGroupId": "144",
+			"name": "自然技衝擊 S",
+			"rank": "8",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_144",
+			"detail": "提升自然屬性技能的威力。\n當技能的攻擊次數越少則大幅提升威力。",
+			"effect": "chip_effect_144"
 		},
 		{
 			"chipId": "1275",
@@ -7963,6 +8095,72 @@
 			"icon": "chip_10131",
 			"detail": "S-ATK+50。並且於「陽輝月華的灼煌」中令EXTRA STAGE的發動率大幅提升。",
 			"effect": "chip_effect_10131"
+		},
+		{
+			"chipId": "100381",
+			"chipGroupId": "10132",
+			"name": "魔槍的 Pt特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10132",
+			"detail": "ATK+20。並且於「魔槍 X 圓舞」中獲得的積分變為1.5倍。",
+			"effect": "chip_effect_10132"
+		},
+		{
+			"chipId": "100382",
+			"chipGroupId": "10132",
+			"name": "魔槍的 Pt特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10132",
+			"detail": "ATK+30。並且於「魔槍 X 圓舞」中獲得的積分變為2.5倍。",
+			"effect": "chip_effect_10132"
+		},
+		{
+			"chipId": "100383",
+			"chipGroupId": "10132",
+			"name": "魔槍的 Pt特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10132",
+			"detail": "ATK+50。並且於「魔槍 X 圓舞」中獲得的積分變為5.5倍。",
+			"effect": "chip_effect_10132"
+		},
+		{
+			"chipId": "100384",
+			"chipGroupId": "10133",
+			"name": "魔槍的 EXTRA STAGE特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10133",
+			"detail": "S-ATK+20。並且於「魔槍 X 圓舞」中令EXTRA STAGE的發動率小幅提升。",
+			"effect": "chip_effect_10133"
+		},
+		{
+			"chipId": "100385",
+			"chipGroupId": "10133",
+			"name": "魔槍的 EXTRA STAGE特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10133",
+			"detail": "S-ATK+30。並且於「魔槍 X 圓舞」中令EXTRA STAGE的發動率中幅提升。",
+			"effect": "chip_effect_10133"
+		},
+		{
+			"chipId": "100386",
+			"chipGroupId": "10133",
+			"name": "魔槍的 EXTRA STAGE特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10133",
+			"detail": "S-ATK+50。並且於「魔槍 X 圓舞」中令EXTRA STAGE的發動率大幅提升。",
+			"effect": "chip_effect_10133"
 		},
 		{
 			"chipId": "10000001",

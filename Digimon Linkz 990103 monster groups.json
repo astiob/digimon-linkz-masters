@@ -4914,6 +4914,23 @@
 			"modelId": "345"
 		},
 		{
+			"monsterGroupId": "348",
+			"monsterCollectionId": "60348",
+			"monsterName": "顱骨獸X抗體",
+			"simpleDescription": "",
+			"description": "全身的黑數碼合金變得更加頑強，不僅能防禦一般的攻擊，甚至能讓攻擊者受傷。而不使用最強的魔盾「阿瓦隆」，是表示自己不需使用之自信展現。",
+			"growStep": "7",
+			"tribe": "5",
+			"partyCharaPosX": "0.1",
+			"partyCharaPosY": "-1.03",
+			"partyCharaPosZ": "0.48",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "348"
+		},
+		{
 			"monsterGroupId": "6001",
 			"monsterCollectionId": "0",
 			"monsterName": "黑球獸",
