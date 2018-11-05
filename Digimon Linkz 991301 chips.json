@@ -7085,6 +7085,94 @@
 			"effect": "chip_effect_131"
 		},
 		{
+			"chipId": "1215",
+			"chipGroupId": "100",
+			"name": "인내 칩 G",
+			"rank": "1",
+			"multiNum": "1",
+			"needChip": "10",
+			"icon": "chip_100",
+			"detail": "HP가 95% 이상일 때, 배틀 중 1번에 한하여 HP가 0이 되는 대미지를 받아도 HP 1로 버팀",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1216",
+			"chipGroupId": "100",
+			"name": "인내 칩 F",
+			"rank": "2",
+			"multiNum": "1",
+			"needChip": "9",
+			"icon": "chip_100",
+			"detail": "HP가 85% 이상일 때, 배틀 중 1번에 한하여 HP가 0이 되는 대미지를 받아도 HP 1로 버팀",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1217",
+			"chipGroupId": "100",
+			"name": "인내 칩 E",
+			"rank": "3",
+			"multiNum": "1",
+			"needChip": "8",
+			"icon": "chip_100",
+			"detail": "HP가 75% 이상일 때, 배틀 중 1번에 한하여 HP가 0이 되는 대미지를 받아도 HP 1로 버팀",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1218",
+			"chipGroupId": "100",
+			"name": "인내 칩 D",
+			"rank": "4",
+			"multiNum": "1",
+			"needChip": "7",
+			"icon": "chip_100",
+			"detail": "HP가 65% 이상일 때, 배틀 중 1번에 한하여 HP가 0이 되는 대미지를 받아도 HP 1로 버팀",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1219",
+			"chipGroupId": "100",
+			"name": "인내 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "6",
+			"icon": "chip_100",
+			"detail": "HP가 50% 이상일 때, 배틀 중 1번에 한하여 HP가 0이 되는 대미지를 받아도 HP 1로 버팀",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1220",
+			"chipGroupId": "100",
+			"name": "인내 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_100",
+			"detail": "HP가 40% 이상일 때, 배틀 중 1번에 한하여 HP가 0이 되는 대미지를 받아도 HP 1로 버팀",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1221",
+			"chipGroupId": "100",
+			"name": "인내 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_100",
+			"detail": "HP가 30% 이상일 때, 배틀 중 1번에 한하여 HP가 0이 되는 대미지를 받아도 HP 1로 버팀",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1222",
+			"chipGroupId": "100",
+			"name": "인내 칩 S",
+			"rank": "8",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_100",
+			"detail": "HP가 10% 이상일 때, 배틀 중 1번에 한하여 HP가 0이 되는 대미지를 받아도 HP 1로 버팀",
+			"effect": "chip_effect_100"
+		},
+		{
 			"chipId": "1225",
 			"chipGroupId": "140",
 			"name": "무속성 임팩트 G",
@@ -7435,6 +7523,50 @@
 			"icon": "chip_143",
 			"detail": "번개속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 크게 상승",
 			"effect": "chip_effect_143"
+		},
+		{
+			"chipId": "1269",
+			"chipGroupId": "144",
+			"name": "자연속성 임팩트 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "6",
+			"icon": "chip_144",
+			"detail": "자연속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 미세하게 상승",
+			"effect": "chip_effect_144"
+		},
+		{
+			"chipId": "1270",
+			"chipGroupId": "144",
+			"name": "자연속성 임팩트 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_144",
+			"detail": "자연속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 소폭 상승",
+			"effect": "chip_effect_144"
+		},
+		{
+			"chipId": "1271",
+			"chipGroupId": "144",
+			"name": "자연속성 임팩트 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_144",
+			"detail": "자연속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 상승",
+			"effect": "chip_effect_144"
+		},
+		{
+			"chipId": "1272",
+			"chipGroupId": "144",
+			"name": "자연속성 임팩트 S",
+			"rank": "8",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_144",
+			"detail": "자연속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 크게 상승",
+			"effect": "chip_effect_144"
 		},
 		{
 			"chipId": "1275",
@@ -7963,6 +8095,72 @@
 			"icon": "chip_10131",
 			"detail": "S-ATK+50, ‘양천월화의 타오르는 빛’에서 EXTRA STAGE 발생 확률 크게 상승",
 			"effect": "chip_effect_10131"
+		},
+		{
+			"chipId": "100381",
+			"chipGroupId": "10132",
+			"name": "마창의 Pt 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10132",
+			"detail": "ATK+20, ‘마창 X 원무’에서 획득 포인트 1.5배",
+			"effect": "chip_effect_10132"
+		},
+		{
+			"chipId": "100382",
+			"chipGroupId": "10132",
+			"name": "마창의 Pt 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10132",
+			"detail": "ATK+30, ‘마창 X 원무’에서 획득 포인트 2.5배",
+			"effect": "chip_effect_10132"
+		},
+		{
+			"chipId": "100383",
+			"chipGroupId": "10132",
+			"name": "마창의 Pt 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10132",
+			"detail": "ATK+50, ‘마창 X 원무’에서 획득 포인트 5.5배",
+			"effect": "chip_effect_10132"
+		},
+		{
+			"chipId": "100384",
+			"chipGroupId": "10133",
+			"name": "마창 EX STAGE 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10133",
+			"detail": "S-ATK+20, ‘마창 X 원무’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_10133"
+		},
+		{
+			"chipId": "100385",
+			"chipGroupId": "10133",
+			"name": "마창 EX STAGE 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10133",
+			"detail": "S-ATK+30, ‘마창 X 원무’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_10133"
+		},
+		{
+			"chipId": "100386",
+			"chipGroupId": "10133",
+			"name": "마창 EX STAGE 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10133",
+			"detail": "S-ATK+50, ‘마창 X 원무’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_10133"
 		},
 		{
 			"chipId": "10000001",

@@ -4914,6 +4914,23 @@
 			"modelId": "345"
 		},
 		{
+			"monsterGroupId": "348",
+			"monsterCollectionId": "60348",
+			"monsterName": "크레니엄몬X항체",
+			"simpleDescription": "",
+			"description": "전신의 블랙디지조이드는 더욱 단단해져 왠만한 공격으로는 상처를 입히기는커녕 공격한 쪽이 오히려 대미지를 입는다. 또한, 최강의 악마 방패 ‘아발론’을 등에 갈무리해둔 것은 쓸 필요가 없다는 자신감의 표출이다. ",
+			"growStep": "7",
+			"tribe": "5",
+			"partyCharaPosX": "0.1",
+			"partyCharaPosY": "-1.03",
+			"partyCharaPosZ": "0.48",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "348"
+		},
+		{
 			"monsterGroupId": "6001",
 			"monsterCollectionId": "0",
 			"monsterName": "깜몬",

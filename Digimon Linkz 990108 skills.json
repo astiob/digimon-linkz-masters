@@ -14251,6 +14251,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "974",
+			"name": "햐드닝 왈츠",
+			"simpleDescription": "",
+			"description": "적 전체에게 자연속성으로\n매우 높은 물리 대미지+HP가 높을수록 위력 상승",
+			"type": "2",
+			"skillGroupId": "348",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "348",
+			"soundEffect": "bt_927",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "975",
+			"name": "햐드닝 왈츠",
+			"simpleDescription": "",
+			"description": "",
+			"type": "2",
+			"skillGroupId": "348",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "348",
+			"soundEffect": "bt_927",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "푸치 플레임",
 			"simpleDescription": "",
