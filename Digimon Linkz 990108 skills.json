@@ -14251,6 +14251,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "974",
+			"name": "Heodenings Waltz",
+			"simpleDescription": "",
+			"description": "Massive physical Nature damage to all enemies, the higher its own HP is, the stronger the attack will be",
+			"type": "2",
+			"skillGroupId": "348",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "348",
+			"soundEffect": "bt_927",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "975",
+			"name": "Heodenings Waltz",
+			"simpleDescription": "",
+			"description": "Massive physical Nature damage to all enemies, the higher its own HP is, the stronger the attack will be",
+			"type": "2",
+			"skillGroupId": "348",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "348",
+			"soundEffect": "bt_927",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "Petit Flame",
 			"simpleDescription": "",

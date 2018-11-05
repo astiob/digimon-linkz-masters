@@ -7085,6 +7085,94 @@
 			"effect": "chip_effect_131"
 		},
 		{
+			"chipId": "1215",
+			"chipGroupId": "100",
+			"name": "Survival Chip G",
+			"rank": "1",
+			"multiNum": "1",
+			"needChip": "10",
+			"icon": "chip_100",
+			"detail": "Survive a finishing blow once during a battle with 1 HP when HP is 95% or more.",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1216",
+			"chipGroupId": "100",
+			"name": "Survival Chip F",
+			"rank": "2",
+			"multiNum": "1",
+			"needChip": "9",
+			"icon": "chip_100",
+			"detail": "Survive a finishing blow once during a battle with 1 HP when HP is 85% or more.",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1217",
+			"chipGroupId": "100",
+			"name": "Survival Chip E",
+			"rank": "3",
+			"multiNum": "1",
+			"needChip": "8",
+			"icon": "chip_100",
+			"detail": "Survive a finishing blow once during a battle with 1 HP when HP is 75% or more.",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1218",
+			"chipGroupId": "100",
+			"name": "Survival Chip D",
+			"rank": "4",
+			"multiNum": "1",
+			"needChip": "7",
+			"icon": "chip_100",
+			"detail": "Survive a finishing blow once during a battle with 1 HP when HP is 65% or more.",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1219",
+			"chipGroupId": "100",
+			"name": "Survival Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "6",
+			"icon": "chip_100",
+			"detail": "Survive a finishing blow once during a battle with 1 HP when HP is 50% or more.",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1220",
+			"chipGroupId": "100",
+			"name": "Survival Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_100",
+			"detail": "Survive a finishing blow once during a battle with 1 HP when HP is 40% or more.",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1221",
+			"chipGroupId": "100",
+			"name": "Survival Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_100",
+			"detail": "Survive a finishing blow once during a battle with 1 HP when HP is 30% or more.",
+			"effect": "chip_effect_100"
+		},
+		{
+			"chipId": "1222",
+			"chipGroupId": "100",
+			"name": "Survival Chip S",
+			"rank": "8",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_100",
+			"detail": "Survive a finishing blow once during a battle with 1 HP when HP is 10% or more.",
+			"effect": "chip_effect_100"
+		},
+		{
 			"chipId": "1225",
 			"chipGroupId": "140",
 			"name": "Null Skill Impact G",
@@ -7435,6 +7523,50 @@
 			"icon": "chip_143",
 			"detail": "Major Boost to Thunder Skill Damage. The smaller number of skill attacks used, the greater the boost.",
 			"effect": "chip_effect_143"
+		},
+		{
+			"chipId": "1269",
+			"chipGroupId": "144",
+			"name": "Nature Skill Impact C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "6",
+			"icon": "chip_144",
+			"detail": "Miniscule Boost to Nature Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_144"
+		},
+		{
+			"chipId": "1270",
+			"chipGroupId": "144",
+			"name": "Nature Skill Impact B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_144",
+			"detail": "Minor Boost to Nature Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_144"
+		},
+		{
+			"chipId": "1271",
+			"chipGroupId": "144",
+			"name": "Nature Skill Impact A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_144",
+			"detail": "Moderate Boost to Nature Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_144"
+		},
+		{
+			"chipId": "1272",
+			"chipGroupId": "144",
+			"name": "Nature Skill Impact S",
+			"rank": "8",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_144",
+			"detail": "Major Boost to Nature Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_144"
 		},
 		{
 			"chipId": "1275",
@@ -7963,6 +8095,72 @@
 			"icon": "chip_10131",
 			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Blaze of the Heavenly Bodies\" event.",
 			"effect": "chip_effect_10131"
+		},
+		{
+			"chipId": "100381",
+			"chipGroupId": "10132",
+			"name": "Balmung Pt Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10132",
+			"detail": "ATK +20. Also increases obtainable Pts by x1.5 in \"Balmung X Waltz\" event.",
+			"effect": "chip_effect_10132"
+		},
+		{
+			"chipId": "100382",
+			"chipGroupId": "10132",
+			"name": "Balmung Pt Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10132",
+			"detail": "ATK +30. Also increases obtainable Pts by x2.5 in \"Balmung X Waltz\" event.",
+			"effect": "chip_effect_10132"
+		},
+		{
+			"chipId": "100383",
+			"chipGroupId": "10132",
+			"name": "Balmung Pt Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10132",
+			"detail": "ATK +50. Also increases obtainable Pts by x5.5 in \"Balmung X Waltz\" event.",
+			"effect": "chip_effect_10132"
+		},
+		{
+			"chipId": "100384",
+			"chipGroupId": "10133",
+			"name": "Balmung EX stage Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10133",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the EXTRA STAGE in the \"Balmung X Waltz\" event.",
+			"effect": "chip_effect_10133"
+		},
+		{
+			"chipId": "100385",
+			"chipGroupId": "10133",
+			"name": "Balmung EX stage Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10133",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the EXTRA STAGE in the \"Balmung X Waltz\" event.",
+			"effect": "chip_effect_10133"
+		},
+		{
+			"chipId": "100386",
+			"chipGroupId": "10133",
+			"name": "Balmung EX stage Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10133",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the EXTRA STAGE in the \"Balmung X Waltz\" event.",
+			"effect": "chip_effect_10133"
 		},
 		{
 			"chipId": "10000001",

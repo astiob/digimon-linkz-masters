@@ -4914,6 +4914,23 @@
 			"modelId": "345"
 		},
 		{
+			"monsterGroupId": "348",
+			"monsterCollectionId": "60348",
+			"monsterName": "Craniamon X Anti-body",
+			"simpleDescription": "",
+			"description": "The Black Digizoid on its whole body is so strengthened that normal attacks leave no mark, and damages the attacker instead. Craniamon purposely wears the magic shield \"Avalon\" on its back just to show the confidence in its strength.",
+			"growStep": "7",
+			"tribe": "5",
+			"partyCharaPosX": "0.1",
+			"partyCharaPosY": "-1.03",
+			"partyCharaPosZ": "0.48",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "348"
+		},
+		{
 			"monsterGroupId": "6001",
 			"monsterCollectionId": "0",
 			"monsterName": "Botamon",

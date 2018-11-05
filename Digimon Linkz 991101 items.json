@@ -181,6 +181,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "88",
+			"name": "Balmung Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_88",
+				"EventResource/Item/item_88"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "50001",
 			"name": "Gourmet Meat",
 			"description": "High-quality meat harvested from special fields. It's sure to make your Digimon happy!",
