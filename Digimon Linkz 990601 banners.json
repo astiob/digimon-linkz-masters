@@ -8150,6 +8150,61 @@
 			"dispNum": "50",
 			"startTime": "2018-11-01 18:00:00",
 			"endTime": "2018-11-07 23:59:59"
+		},
+		{
+			"bannerId": "779",
+			"actionType": "menu",
+			"name": "イベント「乱戦　-秋嵐-」開催！",
+			"img": "/events/syuusyuu/54/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1248",
+			"dispNum": "50",
+			"startTime": "2018-11-08 18:00:00",
+			"endTime": "2018-11-14 23:59:59"
+		},
+		{
+			"bannerId": "780",
+			"actionType": "menu",
+			"name": "イベント「爆炎の竜影」開催！",
+			"img": "/events/syuusyuu/10001/Holding_5.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1249",
+			"dispNum": "52",
+			"startTime": "2018-11-09 18:00:00",
+			"endTime": "2018-11-12 23:59:59"
+		},
+		{
+			"bannerId": "781",
+			"actionType": "menu",
+			"name": "爆炎竜育成チケットキャプチャ開催！",
+			"img": "/gasha/special/20010/20010_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1250",
+			"dispNum": "23",
+			"startTime": "2018-11-09 16:00:00",
+			"endTime": "2018-11-12 23:59:59"
+		},
+		{
+			"bannerId": "782",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10199/10199_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1251",
+			"dispNum": "3",
+			"startTime": "2018-11-08 16:00:00",
+			"endTime": "2018-11-21 15:59:59"
+		},
+		{
+			"bannerId": "783",
+			"actionType": "menu",
+			"name": "乱戦 -秋嵐- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30097/30097_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1252",
+			"dispNum": "7",
+			"startTime": "2018-11-08 16:00:00",
+			"endTime": "2018-11-14 23:59:59"
 		}
 	]
 }
