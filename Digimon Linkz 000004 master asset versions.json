@@ -27,8 +27,8 @@
 		},
 		{
 			"tableName": "skill_detail_m",
-			"version": "255",
-			"cacheVersion": "255"
+			"version": "256",
+			"cacheVersion": "256"
 		},
 		{
 			"tableName": "monster_evolution_route_m",
@@ -340,6 +340,6 @@
 		"versionManagerId": "5",
 		"versionManagerType": "2",
 		"osType": "2",
-		"version": "332"
+		"version": "333"
 	}
 }
