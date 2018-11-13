@@ -8163,6 +8163,72 @@
 			"effect": "chip_effect_10133"
 		},
 		{
+			"chipId": "100387",
+			"chipGroupId": "10134",
+			"name": "추람 RUSH 드롭 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10134",
+			"detail": "ATK+20, ‘추람 RUSH’에서 데이터 단편의 획득 수 +1",
+			"effect": "chip_effect_10134"
+		},
+		{
+			"chipId": "100388",
+			"chipGroupId": "10134",
+			"name": "추람 RUSH 드롭 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10134",
+			"detail": "ATK+30, ‘추람 RUSH’에서 데이터 단편의 획득 수 +3",
+			"effect": "chip_effect_10134"
+		},
+		{
+			"chipId": "100389",
+			"chipGroupId": "10134",
+			"name": "추람 RUSH 드롭 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10134",
+			"detail": "ATK+50, ‘추람 RUSH’에서 데이터 단편의 획득 수 +9",
+			"effect": "chip_effect_10134"
+		},
+		{
+			"chipId": "100390",
+			"chipGroupId": "10135",
+			"name": "추람 RUSH EX STAGE 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10135",
+			"detail": "S-ATK+20, ‘추람 RUSH’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_10135"
+		},
+		{
+			"chipId": "100391",
+			"chipGroupId": "10135",
+			"name": "추람 RUSH EX STAGE 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10135",
+			"detail": "S-ATK+30, ‘추람 RUSH’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_10135"
+		},
+		{
+			"chipId": "100392",
+			"chipGroupId": "10135",
+			"name": "추람 RUSH EX STAGE 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10135",
+			"detail": "S-ATK+50, ‘추람 RUSH’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_10135"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "파괴와 구세의 Pt 특효 C",

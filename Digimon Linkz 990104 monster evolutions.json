@@ -30403,6 +30403,15 @@
 			"monsterEvolutionMaterialId": 20071
 		},
 		{
+			"monsterEvolutionId": "200076",
+			"baseMonsterId": "910",
+			"nextMonsterId": "20076",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20076
+		},
+		{
 			"monsterEvolutionId": "200086",
 			"baseMonsterId": "920",
 			"nextMonsterId": "20086",
@@ -30421,6 +30430,15 @@
 			"monsterEvolutionMaterialId": 20091
 		},
 		{
+			"monsterEvolutionId": "200096",
+			"baseMonsterId": "930",
+			"nextMonsterId": "20096",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20096
+		},
+		{
 			"monsterEvolutionId": "200111",
 			"baseMonsterId": "945",
 			"nextMonsterId": "20111",
@@ -30428,6 +30446,24 @@
 			"effectType": "5",
 			"effectMonsterId": "0",
 			"monsterEvolutionMaterialId": 20111
+		},
+		{
+			"monsterEvolutionId": "200116",
+			"baseMonsterId": "950",
+			"nextMonsterId": "20116",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20116
+		},
+		{
+			"monsterEvolutionId": "200131",
+			"baseMonsterId": "965",
+			"nextMonsterId": "20131",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20131
 		},
 		{
 			"monsterEvolutionId": "200136",
@@ -30446,6 +30482,15 @@
 			"effectType": "5",
 			"effectMonsterId": "0",
 			"monsterEvolutionMaterialId": 20141
+		},
+		{
+			"monsterEvolutionId": "200181",
+			"baseMonsterId": "1015",
+			"nextMonsterId": "20181",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20181
 		},
 		{
 			"monsterEvolutionId": "200196",
@@ -30482,6 +30527,15 @@
 			"effectType": "5",
 			"effectMonsterId": "0",
 			"monsterEvolutionMaterialId": 20216
+		},
+		{
+			"monsterEvolutionId": "200251",
+			"baseMonsterId": "1085",
+			"nextMonsterId": "20251",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20251
 		},
 		{
 			"monsterEvolutionId": "200256",
