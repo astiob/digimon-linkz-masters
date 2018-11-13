@@ -1209,6 +1209,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "4000004",
+			"soulName": "雷的升級資料",
+			"description": "電磁系數碼寶貝進行型態升級時所需的程式。",
+			"soulGroup": "3",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
 			"soulId": "4000005",
 			"soulName": "自然的升級資料",
 			"description": "大地系數碼寶貝進行型態升級時所需的程式。",
@@ -1252,6 +1260,14 @@
 			"soulId": "5000003",
 			"soulName": "水的重構工具",
 			"description": "已型態升級的冰河系數碼寶貝，進行異常狀態抗性變化時所需的卡片媒體。",
+			"soulGroup": "4",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "5000004",
+			"soulName": "雷的重構工具",
+			"description": "已型態升級的電磁系數碼寶貝，進行異常狀態抗性變化時所需的卡片媒體。",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
