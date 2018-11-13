@@ -2375,6 +2375,72 @@
 			"dispNum": "50",
 			"startTime": "2018-11-05 18:00:00",
 			"endTime": "2018-11-11 13:59:59"
+		},
+		{
+			"bannerId": "100219",
+			"actionType": "menu",
+			"name": "The \"Autumn Tempest RUSH\" event has begun!",
+			"img": "/events/syuusyuu/54/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=431",
+			"dispNum": "50",
+			"startTime": "2018-11-12 18:00:00",
+			"endTime": "2018-11-21 13:59:59"
+		},
+		{
+			"bannerId": "100221",
+			"actionType": "menu",
+			"name": "\"Mega Festival Capture\" has begun!",
+			"img": "/gasha/special/10199/10199_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=433",
+			"dispNum": "15",
+			"startTime": "2018-11-12 16:00:00",
+			"endTime": "2018-11-26 15:59:59"
+		},
+		{
+			"bannerId": "100222",
+			"actionType": "menu",
+			"name": "The \"Autumn Tempest RUSH!\"Special Chip Capture has begun!",
+			"img": "/gasha/special/30097/30097_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=434",
+			"dispNum": "20",
+			"startTime": "2018-11-12 16:00:00",
+			"endTime": "2018-11-18 13:59:59"
+		},
+		{
+			"bannerId": "100223",
+			"actionType": "menu",
+			"name": "\"Fire Blasting Dragon Training\" Tickets Capture",
+			"img": "/gasha/special/200015/200015_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=435",
+			"dispNum": "25",
+			"startTime": "2018-11-14 16:00:00",
+			"endTime": "2018-11-17 23:59:59"
+		},
+		{
+			"bannerId": "100224",
+			"actionType": "menu",
+			"name": "\"Cluster Quest\" has begun!",
+			"img": "/events/extra/6007.png?1",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=436",
+			"dispNum": "102",
+			"startTime": "2018-11-12 16:00:00",
+			"endTime": "2018-11-19 15:59:59"
+		},
+		{
+			"bannerId": "100225",
+			"actionType": "menu",
+			"name": "\"EXP Quest\" has begun!",
+			"img": "/events/extra/6008.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=437",
+			"dispNum": "103",
+			"startTime": "2018-11-12 16:00:00",
+			"endTime": "2018-11-19 15:59:59"
 		}
 	]
 }

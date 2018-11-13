@@ -46,6 +46,21 @@
 			"materialAssetNum4": "20"
 		},
 		{
+			"monsterStatusAilmentMaterialId": "4",
+			"materialAssetCategoryId1": "14",
+			"materialAssetValue1": "5000004",
+			"materialAssetNum1": "3",
+			"materialAssetCategoryId2": "14",
+			"materialAssetValue2": "2030002",
+			"materialAssetNum2": "40",
+			"materialAssetCategoryId3": "14",
+			"materialAssetValue3": "2030003",
+			"materialAssetNum3": "30",
+			"materialAssetCategoryId4": "14",
+			"materialAssetValue4": "2030004",
+			"materialAssetNum4": "20"
+		},
+		{
 			"monsterStatusAilmentMaterialId": "5",
 			"materialAssetCategoryId1": "14",
 			"materialAssetValue1": "5000005",

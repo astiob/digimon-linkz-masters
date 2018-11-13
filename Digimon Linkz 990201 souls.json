@@ -1209,6 +1209,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "4000004",
+			"soulName": "Thunder Upgrade Data",
+			"description": "A program required to Version Upgrade an Electric Digimon.",
+			"soulGroup": "3",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
 			"soulId": "4000005",
 			"soulName": "Nature Upgrade Data",
 			"description": "A program required to Version Upgrade an Earth Digimon.",
@@ -1252,6 +1260,14 @@
 			"soulId": "5000003",
 			"soulName": "Water Re-factor",
 			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Glacier Tribe Digimon.",
+			"soulGroup": "4",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "5000004",
+			"soulName": "Thunder Re-factor",
+			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Electric Tribe Digimon.",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"

@@ -241,6 +241,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1098",
+			"worldId": "6",
+			"priority": "10",
+			"name": "Autumn Tempest RUSH!",
+			"img": "syuusyuu/54/Holding_1.png",
+			"description": "Glacier Blue X Mechanical Beast",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "100001",
 			"worldId": "6",
 			"priority": "10",

@@ -194,6 +194,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "89",
+			"name": "Autumn Tempest Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_89",
+				"EventResource/Item/item_89"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "50001",
 			"name": "Gourmet Meat",
 			"description": "High-quality meat harvested from special fields. It's sure to make your Digimon happy!",

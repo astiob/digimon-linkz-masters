@@ -1,6 +1,126 @@
 {
 	"worldDungeonExtraEffectManageM": [
 		{
+			"worldDungeonExtraEffectManageId": "1188",
+			"worldDungeonId": "12160",
+			"worldDungeonExtraEffectId": "395"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1189",
+			"worldDungeonId": "12160",
+			"worldDungeonExtraEffectId": "396"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1190",
+			"worldDungeonId": "12160",
+			"worldDungeonExtraEffectId": "397"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1191",
+			"worldDungeonId": "12160",
+			"worldDungeonExtraEffectId": "398"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1192",
+			"worldDungeonId": "12160",
+			"worldDungeonExtraEffectId": "399"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1193",
+			"worldDungeonId": "12160",
+			"worldDungeonExtraEffectId": "400"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1194",
+			"worldDungeonId": "12161",
+			"worldDungeonExtraEffectId": "395"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1195",
+			"worldDungeonId": "12161",
+			"worldDungeonExtraEffectId": "396"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1196",
+			"worldDungeonId": "12161",
+			"worldDungeonExtraEffectId": "397"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1197",
+			"worldDungeonId": "12161",
+			"worldDungeonExtraEffectId": "398"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1198",
+			"worldDungeonId": "12161",
+			"worldDungeonExtraEffectId": "399"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1199",
+			"worldDungeonId": "12161",
+			"worldDungeonExtraEffectId": "400"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1200",
+			"worldDungeonId": "12162",
+			"worldDungeonExtraEffectId": "395"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1201",
+			"worldDungeonId": "12162",
+			"worldDungeonExtraEffectId": "396"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1202",
+			"worldDungeonId": "12162",
+			"worldDungeonExtraEffectId": "397"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1203",
+			"worldDungeonId": "12162",
+			"worldDungeonExtraEffectId": "398"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1204",
+			"worldDungeonId": "12162",
+			"worldDungeonExtraEffectId": "399"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1205",
+			"worldDungeonId": "12162",
+			"worldDungeonExtraEffectId": "400"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1206",
+			"worldDungeonId": "12163",
+			"worldDungeonExtraEffectId": "395"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1207",
+			"worldDungeonId": "12163",
+			"worldDungeonExtraEffectId": "396"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1208",
+			"worldDungeonId": "12163",
+			"worldDungeonExtraEffectId": "397"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1209",
+			"worldDungeonId": "12163",
+			"worldDungeonExtraEffectId": "398"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1210",
+			"worldDungeonId": "12163",
+			"worldDungeonExtraEffectId": "399"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "1211",
+			"worldDungeonId": "12163",
+			"worldDungeonExtraEffectId": "400"
+		},
+		{
 			"worldDungeonExtraEffectManageId": "1537",
 			"worldDungeonId": "12127",
 			"worldDungeonExtraEffectId": "295"
