@@ -1366,6 +1366,41 @@
 			"growthMonsterId": "1445"
 		},
 		{
+			"monsterEvolutionRouteId": "196",
+			"eggMonsterId": "10002",
+			"childhood1MonsterId": "1536",
+			"childhood2MonsterId": "1541",
+			"growthMonsterId": "1451"
+		},
+		{
+			"monsterEvolutionRouteId": "197",
+			"eggMonsterId": "10002",
+			"childhood1MonsterId": "1537",
+			"childhood2MonsterId": "1542",
+			"growthMonsterId": "1452"
+		},
+		{
+			"monsterEvolutionRouteId": "198",
+			"eggMonsterId": "10002",
+			"childhood1MonsterId": "1538",
+			"childhood2MonsterId": "1543",
+			"growthMonsterId": "1453"
+		},
+		{
+			"monsterEvolutionRouteId": "199",
+			"eggMonsterId": "10002",
+			"childhood1MonsterId": "1539",
+			"childhood2MonsterId": "1544",
+			"growthMonsterId": "1454"
+		},
+		{
+			"monsterEvolutionRouteId": "200",
+			"eggMonsterId": "10002",
+			"childhood1MonsterId": "1540",
+			"childhood2MonsterId": "1545",
+			"growthMonsterId": "1455"
+		},
+		{
 			"monsterEvolutionRouteId": "201",
 			"eggMonsterId": "10002",
 			"childhood1MonsterId": "16",

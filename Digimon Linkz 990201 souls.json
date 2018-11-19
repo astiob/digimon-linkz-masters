@@ -625,6 +625,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070293",
+			"soulName": "아레스타드라몬의 데이터 조각",
+			"description": "아레스타드라몬으로 진화할 때 필요한 데이터 조각",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070303",
 			"soulName": "샤인그레이몬BM의 데이터 조각",
 			"description": "샤인그레이몬BM으로 진화할 때 필요한 데이터 조각",

@@ -8229,6 +8229,72 @@
 			"effect": "chip_effect_10135"
 		},
 		{
+			"chipId": "100393",
+			"chipGroupId": "10136",
+			"name": "가을 하늘  드롭 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10136",
+			"detail": "ATK+20, ‘가을 하늘 RUSH’에서 데이터 단편의 획득 수 +1",
+			"effect": "chip_effect_10136"
+		},
+		{
+			"chipId": "100394",
+			"chipGroupId": "10136",
+			"name": "가을 하늘  드롭 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10136",
+			"detail": "ATK+30, ‘가을 하늘 RUSH’에서 데이터 단편의 획득 수 +3",
+			"effect": "chip_effect_10136"
+		},
+		{
+			"chipId": "100395",
+			"chipGroupId": "10136",
+			"name": "가을 하늘  드롭 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10136",
+			"detail": "ATK+50, ‘가을 하늘 RUSH’에서 데이터 단편의 획득 수 +9",
+			"effect": "chip_effect_10136"
+		},
+		{
+			"chipId": "100396",
+			"chipGroupId": "10137",
+			"name": "가을 하늘  EX STAGE 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10137",
+			"detail": "S-ATK+20, ‘가을 하늘 RUSH’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_10137"
+		},
+		{
+			"chipId": "100397",
+			"chipGroupId": "10137",
+			"name": "가을 하늘  EX STAGE 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10137",
+			"detail": "S-ATK+30, ‘가을 하늘 RUSH’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_10137"
+		},
+		{
+			"chipId": "100398",
+			"chipGroupId": "10137",
+			"name": "가을 하늘  EX STAGE 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10137",
+			"detail": "S-ATK+50, ‘가을 하늘 RUSH’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_10137"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "파괴와 구세의 Pt 특효 C",
