@@ -625,6 +625,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070293",
+			"soulName": "獵龍獸的資料碎片",
+			"description": "進化成獵龍獸時所需的資料碎片。",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070303",
 			"soulName": "閃光暴龍獸BM的資料碎片",
 			"description": "進化成閃光暴龍獸BM時所需的資料碎片。",

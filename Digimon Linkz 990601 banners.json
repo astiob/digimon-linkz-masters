@@ -2385,7 +2385,7 @@
 			"url": "/information/InformationDetail?informationId=431",
 			"dispNum": "50",
 			"startTime": "2018-11-12 18:00:00",
-			"endTime": "2018-11-21 13:59:59"
+			"endTime": "2018-11-18 13:59:59"
 		},
 		{
 			"bannerId": "100220",
@@ -2452,6 +2452,28 @@
 			"dispNum": "103",
 			"startTime": "2018-11-12 16:00:00",
 			"endTime": "2018-11-19 15:59:59"
+		},
+		{
+			"bannerId": "100226",
+			"actionType": "menu",
+			"name": "舉辦「金秋 RUSH!」特效晶片捕捉！",
+			"img": "/gasha/special/30098/30098_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=440",
+			"dispNum": "20",
+			"startTime": "2018-11-19 16:00:00",
+			"endTime": "2018-11-25 13:59:59"
+		},
+		{
+			"bannerId": "100227",
+			"actionType": "menu",
+			"name": "舉辦活動「金秋 RUSH!」！",
+			"img": "/events/syuusyuu/55/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=442",
+			"dispNum": "50",
+			"startTime": "2018-11-19 18:00:00",
+			"endTime": "2018-11-25 13:59:59"
 		}
 	]
 }
