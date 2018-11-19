@@ -625,6 +625,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070293",
+			"soulName": "Arresterdramon Data Fragment",
+			"description": "A data fragment required to Digivolve into Arresterdramon.",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070303",
 			"soulName": "ShineGreymon BM Data Fragment",
 			"description": "A data fragment required to Digivolve into ShineGreymon BM.",

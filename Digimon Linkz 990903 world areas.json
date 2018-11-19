@@ -253,6 +253,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1099",
+			"worldId": "6",
+			"priority": "10",
+			"name": "Fall Sky RUSH!",
+			"img": "syuusyuu/55/Holding_1.png",
+			"description": "Fall Sky RUSH!",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "100001",
 			"worldId": "6",
 			"priority": "10",

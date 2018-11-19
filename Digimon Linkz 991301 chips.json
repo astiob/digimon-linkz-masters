@@ -8229,6 +8229,72 @@
 			"effect": "chip_effect_10135"
 		},
 		{
+			"chipId": "100393",
+			"chipGroupId": "10136",
+			"name": "Fall Sky Drop Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10136",
+			"detail": "ATK +20. Also increases Data Byte drop by 1 in \"Fall Sky RUSH\".",
+			"effect": "chip_effect_10136"
+		},
+		{
+			"chipId": "100394",
+			"chipGroupId": "10136",
+			"name": "Fall Sky Drop Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10136",
+			"detail": "ATK +30. Also increases Data Byte drop by 3 in \"Fall Sky RUSH\".",
+			"effect": "chip_effect_10136"
+		},
+		{
+			"chipId": "100395",
+			"chipGroupId": "10136",
+			"name": "Fall Sky Drop Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10136",
+			"detail": "ATK +50. Also increases Data Byte drop by 9 in \"Fall Sky RUSH\".",
+			"effect": "chip_effect_10136"
+		},
+		{
+			"chipId": "100396",
+			"chipGroupId": "10137",
+			"name": "Fall Sky EX stage Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10137",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"Fall Sky RUSH\" event.",
+			"effect": "chip_effect_10137"
+		},
+		{
+			"chipId": "100397",
+			"chipGroupId": "10137",
+			"name": "Fall Sky EX stage Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10137",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"Fall Sky RUSH\" event.",
+			"effect": "chip_effect_10137"
+		},
+		{
+			"chipId": "100398",
+			"chipGroupId": "10137",
+			"name": "Fall Sky EX stage Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10137",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Fall Sky RUSH\" event.",
+			"effect": "chip_effect_10137"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",
