@@ -1233,6 +1233,13 @@
 			"actionValue": "1"
 		},
 		{
+			"messageCode": "E-WD74",
+			"messageTitle": "期間終了",
+			"messageText": "【E-WD74】クエストの開放期間が終了しています。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
 			"messageCode": "E-MS01",
 			"messageTitle": "受け取り済み",
 			"messageText": "【E-MS01】既に受け取り済みです。",

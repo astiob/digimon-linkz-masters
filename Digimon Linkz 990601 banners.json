@@ -8193,7 +8193,7 @@
 			"url": "/information/InformationDetail?informationId=1251",
 			"dispNum": "3",
 			"startTime": "2018-11-08 16:00:00",
-			"endTime": "2018-11-21 15:59:59"
+			"endTime": "2018-11-22 15:59:59"
 		},
 		{
 			"bannerId": "783",
@@ -8249,6 +8249,83 @@
 			"dispNum": "50",
 			"startTime": "2018-11-15 18:00:00",
 			"endTime": "2018-11-21 23:59:59"
+		},
+		{
+			"bannerId": "788",
+			"actionType": "menu",
+			"name": "イベント「究極決戦 -勇気と友情の絆-」開催！",
+			"img": "/events/point/39/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1263",
+			"dispNum": "55",
+			"startTime": "2018-11-22 18:00:00",
+			"endTime": "2018-12-05 23:59:59"
+		},
+		{
+			"bannerId": "789",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10200/10200_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1264",
+			"dispNum": "3",
+			"startTime": "2018-11-22 16:00:00",
+			"endTime": "2018-12-06 15:59:59"
+		},
+		{
+			"bannerId": "790",
+			"actionType": "menu",
+			"name": "究極決戦 -勇気と友情の絆- 育成デジモンキャプチャ開催！",
+			"img": "/gasha/special/10201/10201_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1265",
+			"dispNum": "5",
+			"startTime": "2018-11-22 16:00:00",
+			"endTime": "2018-12-06 15:59:59"
+		},
+		{
+			"bannerId": "791",
+			"actionType": "menu",
+			"name": "究極決戦 -勇気と友情の絆- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30099/30099_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1266",
+			"dispNum": "7",
+			"startTime": "2018-11-22 16:00:00",
+			"endTime": "2018-12-05 23:59:59"
+		},
+		{
+			"bannerId": "792",
+			"actionType": "menu",
+			"name": "降臨チケットキャプチャ開催！",
+			"img": "/gasha/special/20016/20016_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1267",
+			"dispNum": "23",
+			"startTime": "2018-11-22 16:00:00",
+			"endTime": "2018-11-29 15:59:59"
+		},
+		{
+			"bannerId": "793",
+			"actionType": "menu",
+			"name": "「クラスタクエスト」開放のお知らせ",
+			"img": "/events/extra/6007.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1271",
+			"dispNum": "102",
+			"startTime": "2018-11-22 16:00:00",
+			"endTime": "2018-11-26 15:59:59"
+		},
+		{
+			"bannerId": "794",
+			"actionType": "menu",
+			"name": "「EXPクエスト」開放のお知らせ",
+			"img": "/events/extra/6008.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1272",
+			"dispNum": "103",
+			"startTime": "2018-11-22 16:00:00",
+			"endTime": "2018-11-26 15:59:59"
 		}
 	]
 }
