@@ -4914,6 +4914,23 @@
 			"modelId": "342"
 		},
 		{
+			"monsterGroupId": "343",
+			"monsterCollectionId": "60343",
+			"monsterName": "베르제브몬X항체",
+			"simpleDescription": "",
+			"description": "베르제브몬의 데이터가 X항체의 힘으로 바뀐 결과 홍련의 불꽃 ‘엘:에반헬리오’를 소환하는 능력을 얻었다. \nX항체를 획득한 베르제브몬은 몸을 불태우지 않고도 스스로 ‘엘:에반헬리오’를 조종할 수 있다.",
+			"growStep": "7",
+			"tribe": "7",
+			"partyCharaPosX": "0.03",
+			"partyCharaPosY": "-1.31",
+			"partyCharaPosZ": "-0.5",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "343"
+		},
+		{
 			"monsterGroupId": "344",
 			"monsterCollectionId": "60344",
 			"monsterName": "블리츠그레이몬",

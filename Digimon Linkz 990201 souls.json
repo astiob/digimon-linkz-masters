@@ -841,6 +841,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070343",
+			"soulName": "베르제브몬X항체의 데이터 조각",
+			"description": "베르제브몬X항체으로 진화할 때 필요한 데이터 조각",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070344",
 			"soulName": "블리츠그레이몬의 데이터 조각",
 			"description": "블리츠그레이몬으로 진화할 때 필요한 데이터 조각",

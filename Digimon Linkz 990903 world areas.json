@@ -265,6 +265,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1100",
+			"worldId": "6",
+			"priority": "10",
+			"name": "궁극 결전 -용기와 우정의 유대-",
+			"img": "point/39/Holding_1.png",
+			"description": "궁극 결전 -용기와 우정의 유대-",
+			"type": "4",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "100001",
 			"worldId": "6",
 			"priority": "10",
