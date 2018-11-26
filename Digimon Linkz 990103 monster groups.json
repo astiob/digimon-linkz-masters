@@ -4914,6 +4914,23 @@
 			"modelId": "342"
 		},
 		{
+			"monsterGroupId": "343",
+			"monsterCollectionId": "60343",
+			"monsterName": "墮天地獄獸X抗體",
+			"simpleDescription": "",
+			"description": "墮天地獄獸的資料被X抗體改寫後的結果，便是獲得了召喚紅蓮之炎「至高神：福音」的能力。\n身懷X抗體的墮天地獄獸並不會被灼燒，而是能將「至高神：福音」當作自己的力量自由操縱。",
+			"growStep": "7",
+			"tribe": "7",
+			"partyCharaPosX": "0.03",
+			"partyCharaPosY": "-1.31",
+			"partyCharaPosZ": "-0.5",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "343"
+		},
+		{
 			"monsterGroupId": "344",
 			"monsterCollectionId": "60344",
 			"monsterName": "電光暴龍獸",

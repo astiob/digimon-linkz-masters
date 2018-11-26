@@ -1969,8 +1969,8 @@
 		},
 		{
 			"messageCode": "C-SH05",
-			"messageTitle": "This feature is unavailable in your territory. ",
-			"messageText": "【C-SH05】This feature is unavailable in your territory. ",
+			"messageTitle": "維護",
+			"messageText": "【C-SH05】目前無法購買。",
 			"actionType": "1",
 			"actionValue": "1"
 		},

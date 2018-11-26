@@ -841,6 +841,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070343",
+			"soulName": "墮天地獄獸X抗體的資料碎片",
+			"description": "進化成墮天地獄獸X抗體時所需的資料碎片。",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070344",
 			"soulName": "電光暴龍獸的資料碎片",
 			"description": "進化成電光暴龍獸時所需的資料碎片。",

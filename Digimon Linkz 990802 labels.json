@@ -222,11 +222,11 @@
 		},
 		{
 			"messageCode": "Maintenance-03",
-			"messageText": "This feature is unavailable in your territory. "
+			"messageText": "維護中"
 		},
 		{
 			"messageCode": "Maintenance-04",
-			"messageText": "This feature is unavailable in your territory. "
+			"messageText": "現在無法購買。"
 		},
 		{
 			"messageCode": "GoogleLoginFailedTitle",
@@ -6617,6 +6617,10 @@
 			"messageText": "x {0}"
 		},
 		{
+			"messageCode": "QuestPointRankingCounting",
+			"messageText": "排行榜計算中。"
+		},
+		{
 			"messageCode": "NonBillingCountry",
 			"messageText": "付費功能無法使用"
 		},
@@ -6643,6 +6647,14 @@
 		{
 			"messageCode": "DownloadSizeGB",
 			"messageText": "GB"
+		},
+		{
+			"messageCode": "QuestPointRankingClosed",
+			"messageText": "活動已結束"
+		},
+		{
+			"messageCode": "Inquiry_MaintenanceText",
+			"messageText": "▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\n【發生時間】\n\n【異常狀態發生詳情】（執行某動作後導致某畫面發生某異常）\n\n▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\n詢問碼：{0}\n裝置：{1}\n作業系統版本：{2}\nApp版本：{3}\n"
 		}
 	]
 }
