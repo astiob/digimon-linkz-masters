@@ -220,6 +220,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "91",
+			"name": "Courageous Friendship Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_91",
+				"EventResource/Item/item_91"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "50001",
 			"name": "Gourmet Meat",
 			"description": "High-quality meat harvested from special fields. It's sure to make your Digimon happy!",

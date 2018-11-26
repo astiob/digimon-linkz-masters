@@ -841,6 +841,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070343",
+			"soulName": "Beelzemon X Anti-body Data Fragment",
+			"description": "A data fragment required to Digivolve into Beelzemon X Anti-body.",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070344",
 			"soulName": "BlitzGreymon Data Fragment",
 			"description": "A data fragment required to Digivolve into BlitzGreymon.",

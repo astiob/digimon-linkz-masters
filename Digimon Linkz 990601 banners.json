@@ -2474,6 +2474,83 @@
 			"dispNum": "50",
 			"startTime": "2018-11-19 18:00:00",
 			"endTime": "2018-11-25 13:59:59"
+		},
+		{
+			"bannerId": "100228",
+			"actionType": "menu",
+			"name": "\"Ability Medal Capture\" has begun!",
+			"img": "/gasha/special/100062/100062_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=444",
+			"dispNum": "20",
+			"startTime": "2018-11-21 16:00:00",
+			"endTime": "2018-11-27 15:59:59"
+		},
+		{
+			"bannerId": "100229",
+			"actionType": "menu",
+			"name": "The \"Mega Battle -Bonds of Courage and Friendship-\" event has begun!",
+			"img": "/events/point/39/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=453",
+			"dispNum": "103",
+			"startTime": "2018-11-26 18:00:00",
+			"endTime": "2018-12-09 13:59:59"
+		},
+		{
+			"bannerId": "100230",
+			"actionType": "menu",
+			"name": "\"Mega Festival Capture\" has begun!",
+			"img": "/gasha/special/10200/10200_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=450",
+			"dispNum": "15",
+			"startTime": "2018-11-26 16:00:00",
+			"endTime": "2018-12-10 15:59:59"
+		},
+		{
+			"bannerId": "100231",
+			"actionType": "menu",
+			"name": "\"Mega Battle -Bonds of Courage and Friendship- Training Digimon Capture\" has begun!",
+			"img": "/gasha/special/10201/10201_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=451",
+			"dispNum": "16",
+			"startTime": "2018-11-26 16:00:00",
+			"endTime": "2018-12-10 15:59:59"
+		},
+		{
+			"bannerId": "100232",
+			"actionType": "menu",
+			"name": "The \"Mega Battle -Bonds of Courage and Friendship-\"Special Chip Capture has begun!",
+			"img": "/gasha/special/30099/30099_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=452",
+			"dispNum": "19",
+			"startTime": "2018-11-26 16:00:00",
+			"endTime": "2018-12-09 13:59:59"
+		},
+		{
+			"bannerId": "100233",
+			"actionType": "menu",
+			"name": "\"Cluster Quest\" has begun!",
+			"img": "/events/extra/6007.png?1",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=456",
+			"dispNum": "104",
+			"startTime": "2018-11-26 16:00:00",
+			"endTime": "2018-12-03 15:59:59"
+		},
+		{
+			"bannerId": "100234",
+			"actionType": "menu",
+			"name": "\"EXP Quest\" has begun!",
+			"img": "/events/extra/6008.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=457",
+			"dispNum": "105",
+			"startTime": "2018-11-26 16:00:00",
+			"endTime": "2018-12-03 15:59:59"
 		}
 	]
 }

@@ -1117,6 +1117,24 @@
 			"death": "0"
 		},
 		{
+			"monsterResistanceId": "64",
+			"description": "",
+			"fire": "-1",
+			"water": "0",
+			"thunder": "0",
+			"nature": "0",
+			"none": "0",
+			"light": "-1",
+			"dark": "1",
+			"poison": "0",
+			"confusion": "-1",
+			"paralysis": "-1",
+			"sleep": "0",
+			"stun": "1",
+			"skillLock": "-1",
+			"death": "1"
+		},
+		{
 			"monsterResistanceId": "67",
 			"description": "",
 			"fire": "-1",

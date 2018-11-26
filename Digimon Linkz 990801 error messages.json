@@ -1969,8 +1969,8 @@
 		},
 		{
 			"messageCode": "C-SH05",
-			"messageTitle": "This feature is unavailable in your territory. ",
-			"messageText": "【C-SH05】This feature is unavailable in your territory. ",
+			"messageTitle": "Maintenance",
+			"messageText": "[C-SH05] Cannot purchase at this time.",
 			"actionType": "1",
 			"actionValue": "1"
 		},

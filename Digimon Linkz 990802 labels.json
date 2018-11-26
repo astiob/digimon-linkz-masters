@@ -222,11 +222,11 @@
 		},
 		{
 			"messageCode": "Maintenance-03",
-			"messageText": "This feature is unavailable in your territory. "
+			"messageText": "Under maintenance"
 		},
 		{
 			"messageCode": "Maintenance-04",
-			"messageText": "This feature is unavailable in your territory. "
+			"messageText": "Unable to purchase now."
 		},
 		{
 			"messageCode": "GoogleLoginFailedTitle",
@@ -6617,6 +6617,10 @@
 			"messageText": "x {0}"
 		},
 		{
+			"messageCode": "QuestPointRankingCounting",
+			"messageText": "Rankings are currently being calculated."
+		},
+		{
 			"messageCode": "NonBillingCountry",
 			"messageText": "The billing function could not be used."
 		},
@@ -6643,6 +6647,14 @@
 		{
 			"messageCode": "DownloadSizeGB",
 			"messageText": "GB"
+		},
+		{
+			"messageCode": "QuestPointRankingClosed",
+			"messageText": "This event has ended."
+		},
+		{
+			"messageCode": "Inquiry_MaintenanceText",
+			"messageText": "▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\n[Date and time issue occurred]\n\n[Information about the issue] (What you were doing, on which screen, and what occurred)\n\n▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\nInquiry Code: {0}\nDevice: {1}\nOS Version: {2} \nApp Version: {3}\n"
 		}
 	]
 }
