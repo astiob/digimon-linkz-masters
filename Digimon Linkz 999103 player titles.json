@@ -799,6 +799,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1096",
+			"name": "第20回覇者",
+			"detail": "第20回コロシアムの覇者に送られる栄光の証",
+			"img": "honorific_colosseum_96",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1097",
+			"name": "第20回SSSランカー",
+			"detail": "第20回コロシアムの最上位ランカーに送られる栄誉の証",
+			"img": "honorific_colosseum_97",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1098",
+			"name": "第20回SSランカー",
+			"detail": "第20回コロシアムの上位ランカーに送られる名誉の証",
+			"img": "honorific_colosseum_98",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1099",
+			"name": "第20回Sランカー",
+			"detail": "第20回コロシアムのランカーに送られる名声の証",
+			"img": "honorific_colosseum_99",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1100",
+			"name": "第20回挑戦者",
+			"detail": "第20回コロシアムの挑戦者に送られる証",
+			"img": "honorific_colosseum_100",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10001",
 			"name": "竜帝の系譜トップ100",
 			"detail": "イベント「竜帝の系譜」トップ100位に送られる栄誉の証",
@@ -838,6 +873,27 @@
 			"name": "究極X騎士 -OMEGA-",
 			"detail": "イベント「究極X騎士 -OMEGA-」トップ100位に送られる名誉の証",
 			"img": "honorific_event_6",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10007",
+			"name": "究極決戦 -ゴールド-",
+			"detail": "イベント「究極決戦-破滅の黙示録-」トップ30位に送られる英傑の証",
+			"img": "honorific_event_7",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10008",
+			"name": "究極決戦 -シルバー-",
+			"detail": "イベント「究極決戦-破滅の黙示録-」トップ100位に送られる栄誉の証",
+			"img": "honorific_event_8",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10009",
+			"name": "究極決戦 -ブロンズ-",
+			"detail": "イベント「究極決戦-破滅の黙示録-」トップ250位に送られる名誉の証",
+			"img": "honorific_event_9",
 			"dispFlg": "0"
 		}
 	]

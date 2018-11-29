@@ -1207,6 +1207,24 @@
 			"death": "-1"
 		},
 		{
+			"monsterResistanceId": "68",
+			"description": "アポカリモン",
+			"fire": "-1",
+			"water": "-1",
+			"thunder": "0",
+			"nature": "0",
+			"none": "0",
+			"light": "-1",
+			"dark": "1",
+			"poison": "1",
+			"confusion": "1",
+			"paralysis": "1",
+			"sleep": "1",
+			"stun": "1",
+			"skillLock": "1",
+			"death": "1"
+		},
+		{
 			"monsterResistanceId": "101",
 			"description": "幻生系降臨初級",
 			"fire": "0",

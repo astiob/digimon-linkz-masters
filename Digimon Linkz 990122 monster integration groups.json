@@ -2139,6 +2139,14 @@
 		{
 			"monsterIntegrationId": "10042",
 			"monsterId": "1055"
+		},
+		{
+			"monsterIntegrationId": "10043",
+			"monsterId": "20036"
+		},
+		{
+			"monsterIntegrationId": "10044",
+			"monsterId": "20276"
 		}
 	]
 }

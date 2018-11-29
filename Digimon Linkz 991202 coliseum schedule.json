@@ -191,6 +191,30 @@
 			"colosseumId": "49",
 			"startHour": "22:00:00",
 			"endHour": "22:59:59"
+		},
+		{
+			"colosseumTimeScheduleId": "197",
+			"colosseumId": "50",
+			"startHour": "08:00:00",
+			"endHour": "08:59:59"
+		},
+		{
+			"colosseumTimeScheduleId": "198",
+			"colosseumId": "50",
+			"startHour": "12:00:00",
+			"endHour": "12:59:59"
+		},
+		{
+			"colosseumTimeScheduleId": "199",
+			"colosseumId": "50",
+			"startHour": "19:00:00",
+			"endHour": "19:59:59"
+		},
+		{
+			"colosseumTimeScheduleId": "200",
+			"colosseumId": "50",
+			"startHour": "22:00:00",
+			"endHour": "22:59:59"
 		}
 	]
 }

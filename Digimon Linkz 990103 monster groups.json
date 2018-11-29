@@ -5016,6 +5016,23 @@
 			"modelId": "348"
 		},
 		{
+			"monsterGroupId": "349",
+			"monsterCollectionId": "60349",
+			"monsterName": "アポカリモン",
+			"simpleDescription": "",
+			"description": "負の想念が、闇のパワーによって集まって出現した謎のデジモン。その正体を知るものは誰もおらず、この物体がデジモンなのかも解析することはできない。一説には太古の予言書にアポカリモンの出現を予言しているものがあると言われている。",
+			"growStep": "7",
+			"tribe": "7",
+			"partyCharaPosX": "0",
+			"partyCharaPosY": "-1.74",
+			"partyCharaPosZ": "1.05",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "349"
+		},
+		{
 			"monsterGroupId": "5002",
 			"monsterCollectionId": "0",
 			"monsterName": "アグモン",

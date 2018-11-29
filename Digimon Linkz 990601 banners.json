@@ -8326,6 +8326,28 @@
 			"dispNum": "103",
 			"startTime": "2018-11-22 16:00:00",
 			"endTime": "2018-11-26 15:59:59"
+		},
+		{
+			"bannerId": "795",
+			"actionType": "menu",
+			"name": "究極決戦 -破滅の黙示録- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30100/30100_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1273",
+			"dispNum": "7",
+			"startTime": "2018-11-29 16:00:00",
+			"endTime": "2018-12-05 23:59:59"
+		},
+		{
+			"bannerId": "796",
+			"actionType": "menu",
+			"name": "イベント「究極決戦 -破滅の黙示録-」開催！",
+			"img": "/events/point/40/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1276",
+			"dispNum": "50",
+			"startTime": "2018-11-29 18:00:00",
+			"endTime": "2018-12-05 23:59:59"
 		}
 	]
 }
