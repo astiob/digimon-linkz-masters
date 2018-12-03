@@ -873,6 +873,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070349",
+			"soulName": "Apocalymon Data Fragment",
+			"description": "A data fragment required to Digivolve into Apocalymon.",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1076006",
 			"soulName": "ShineGreymon Data Fragment",
 			"description": "A data fragment required to Digivolve into ShineGreymon.",
@@ -940,6 +948,14 @@
 			"soulId": "1076054",
 			"soulName": "Barbamon Data Fragment",
 			"description": "A data fragment required to Digivolve into Barbamon.",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
+			"soulId": "1076060",
+			"soulName": "Creepymon Data Fragment",
+			"description": "A data fragment required to Digivolve into Creepymon.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"

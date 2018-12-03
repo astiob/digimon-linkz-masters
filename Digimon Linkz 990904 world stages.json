@@ -963,6 +963,19 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6156",
+			"worldAreaId": "1101",
+			"priority": "1052",
+			"name": "Mega Battle -Apocalypse of Ruin-",
+			"description": "ポイントや断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "point/40/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "6157",
 			"worldAreaId": "1100",
 			"priority": "1050",

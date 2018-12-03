@@ -14311,6 +14311,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "976",
+			"name": "Darkness Zone",
+			"simpleDescription": "",
+			"description": "Removes status abnormalities from all allies and enemies, deals massive Dark damage to all enemies",
+			"type": "2",
+			"skillGroupId": "349",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "349",
+			"soundEffect": "bt_928",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "977",
+			"name": "Darkness Zone",
+			"simpleDescription": "",
+			"description": "Removes status abnormalities from all allies and enemies, deals massive Dark damage to all enemies",
+			"type": "2",
+			"skillGroupId": "349",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "349",
+			"soundEffect": "bt_928",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "Petit Flame",
 			"simpleDescription": "",

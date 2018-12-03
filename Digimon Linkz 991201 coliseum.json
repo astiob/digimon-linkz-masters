@@ -131,6 +131,19 @@
 			"extraRewardRate": "3"
 		},
 		{
+			"colosseumId": "10013",
+			"title": "13-Time",
+			"openStatus": "1",
+			"prevColosseumId": "10012",
+			"openTime": "2018-12-01 14:00:00",
+			"startDate": "2018-12-01",
+			"endDate": "2019-01-01",
+			"closeTime": "2019-01-01 13:59:59",
+			"worldDungeonId": "10001",
+			"rewardGroupId": "100013",
+			"extraRewardRate": "3"
+		},
+		{
 			"colosseumId": "100001",
 			"title": "1-Time",
 			"openStatus": "1",

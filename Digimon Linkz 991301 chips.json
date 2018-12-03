@@ -8999,6 +8999,72 @@
 			"effect": "chip_effect_10134"
 		},
 		{
+			"chipId": "100407",
+			"chipGroupId": "10141",
+			"name": "Apocalyptic Pt Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10141",
+			"detail": "ATK +20. Also increases obtainable Pts by x1.5 in \"Mega Battle -Apocalypse of Ruin-\" event.",
+			"effect": "chip_effect_10135"
+		},
+		{
+			"chipId": "100408",
+			"chipGroupId": "10141",
+			"name": "Apocalyptic Pt Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10141",
+			"detail": "ATK +30. Also increases obtainable Pts by x2.5 in \"Mega Battle -Apocalypse of Ruin-\" event.",
+			"effect": "chip_effect_10135"
+		},
+		{
+			"chipId": "100409",
+			"chipGroupId": "10141",
+			"name": "Apocalyptic Pt Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10141",
+			"detail": "ATK +50. Also increases obtainable Pts by x6 in \"Mega Battle -Apocalypse of Ruin-\" event.",
+			"effect": "chip_effect_10135"
+		},
+		{
+			"chipId": "100410",
+			"chipGroupId": "10142",
+			"name": "Apocalyptic EX stage Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10142",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the EXTRA STAGE in the \"Mega Battle -Apocalypse of Ruin-\" event.",
+			"effect": "chip_effect_10135"
+		},
+		{
+			"chipId": "100411",
+			"chipGroupId": "10142",
+			"name": "Apocalyptic EX stage Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10142",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the EXTRA STAGE in the \"Mega Battle -Apocalypse of Ruin-\" event.",
+			"effect": "chip_effect_10136"
+		},
+		{
+			"chipId": "100412",
+			"chipGroupId": "10142",
+			"name": "Apocalyptic EX stage Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10142",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the EXTRA STAGE in the \"Mega Battle -Apocalypse of Ruin-\" event.",
+			"effect": "chip_effect_10136"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",
