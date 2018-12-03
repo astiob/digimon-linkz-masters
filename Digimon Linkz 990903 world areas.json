@@ -277,6 +277,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1101",
+			"worldId": "6",
+			"priority": "9",
+			"name": "究極決戰 -破滅的啟示錄-",
+			"img": "point/40/Holding_1.png",
+			"description": "究極決戰 -破滅的啟示錄-",
+			"type": "3",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "100001",
 			"worldId": "6",
 			"priority": "10",

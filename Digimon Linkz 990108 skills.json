@@ -14311,6 +14311,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "976",
+			"name": "黑暗",
+			"simpleDescription": "",
+			"description": "解除敵我雙方全體所有異常狀態，並以闇屬性攻擊追加給予敵人全體魔法大傷害。",
+			"type": "2",
+			"skillGroupId": "349",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "349",
+			"soundEffect": "bt_928",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "977",
+			"name": "黑暗",
+			"simpleDescription": "",
+			"description": "解除敵我雙方全體所有異常狀態，並以闇屬性攻擊追加給予敵人全體魔法大傷害。",
+			"type": "2",
+			"skillGroupId": "349",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "349",
+			"soundEffect": "bt_928",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "小巧火焰",
 			"simpleDescription": "",

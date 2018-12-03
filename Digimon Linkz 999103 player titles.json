@@ -554,6 +554,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1061",
+			"name": "第13期霸主",
+			"detail": "贈予第13期競技場霸主的光榮之證。",
+			"img": "honorific_colosseum_61",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1062",
+			"name": "第13期SSS級排名玩家",
+			"detail": "贈予第13期競技場最頂尖排名玩家的榮譽之證。",
+			"img": "honorific_colosseum_62",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1063",
+			"name": "第13期SS級排名玩家",
+			"detail": "贈予第13期競技場頂尖排名玩家的名譽之證。",
+			"img": "honorific_colosseum_63",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1064",
+			"name": "第13期S級排名玩家",
+			"detail": "贈予第13期競技場排名玩家的名聲之證。",
+			"img": "honorific_colosseum_64",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1065",
+			"name": "第13期挑戰者",
+			"detail": "贈予第13期競技場挑戰者的證明。",
+			"img": "honorific_colosseum_65",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10005",
 			"name": "究極X騎士 -OMEGA-",
 			"detail": "究極X騎士 -OMEGA- 最頂尖排名玩家的榮譽之證。",
@@ -565,6 +600,27 @@
 			"name": "究極X騎士 -OMEGA-",
 			"detail": "究極X騎士 -OMEGA- 頂尖排名玩家的名譽之證。",
 			"img": "honorific_event_6",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10007",
+			"name": "究極決戰",
+			"detail": "究極決戰 -破滅的啟示錄- 最頂尖排名玩家的榮譽之證。",
+			"img": "honorific_event_7",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10008",
+			"name": "究極決戰",
+			"detail": "究極決戰 -破滅的啟示錄- 頂尖排名玩家的名譽之證。",
+			"img": "honorific_event_8",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10009",
+			"name": "究極決戰",
+			"detail": "究極決戰 -破滅的啟示錄- 排名玩家的名譽之證。",
+			"img": "honorific_event_9",
 			"dispFlg": "0"
 		}
 	]

@@ -873,6 +873,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070349",
+			"soulName": "啟示錄獸的資料碎片",
+			"description": "進化成啟示錄獸時所需的資料碎片。",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1076006",
 			"soulName": "閃光暴龍獸的資料碎片",
 			"description": "閃光暴龍獸的資料碎片",
@@ -940,6 +948,14 @@
 			"soulId": "1076054",
 			"soulName": "巴爾巴獸的資料碎片",
 			"description": "進化成巴爾巴獸時所需的資料碎片。",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
+			"soulId": "1076060",
+			"soulName": "究極魔獸的資料碎片",
+			"description": "進化成究極魔獸時所需的資料碎片。",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"

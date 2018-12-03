@@ -8999,6 +8999,72 @@
 			"effect": "chip_effect_10134"
 		},
 		{
+			"chipId": "100407",
+			"chipGroupId": "10141",
+			"name": "啟示錄的 Pt特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10141",
+			"detail": "ATK+20。並且於「究極決戰 -破滅的啟示錄-」中獲得的積分變為1.5倍。",
+			"effect": "chip_effect_10135"
+		},
+		{
+			"chipId": "100408",
+			"chipGroupId": "10141",
+			"name": "啟示錄的 Pt特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10141",
+			"detail": "ATK+30。並且於「究極決戰 -破滅的啟示錄-」中獲得的積分變為2.5倍。",
+			"effect": "chip_effect_10135"
+		},
+		{
+			"chipId": "100409",
+			"chipGroupId": "10141",
+			"name": "啟示錄的 Pt特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10141",
+			"detail": "ATK+50。並且於「究極決戰 -破滅的啟示錄-」中獲得的積分變為6倍。",
+			"effect": "chip_effect_10135"
+		},
+		{
+			"chipId": "100410",
+			"chipGroupId": "10142",
+			"name": "啟示錄的 EXTRA STAGE特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10142",
+			"detail": "S-ATK+20。並且於「究極決戰 -破滅的啟示錄-」中令EXTRA STAGE的發動率小幅提升。",
+			"effect": "chip_effect_10135"
+		},
+		{
+			"chipId": "100411",
+			"chipGroupId": "10142",
+			"name": "啟示錄的 EXTRA STAGE特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10142",
+			"detail": "S-ATK+30。並且於「究極決戰 -破滅的啟示錄-」中令EXTRA STAGE的發動率中幅提升。",
+			"effect": "chip_effect_10136"
+		},
+		{
+			"chipId": "100412",
+			"chipGroupId": "10142",
+			"name": "啟示錄的 EXTRA STAGE特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10142",
+			"detail": "S-ATK+50。並且於「究極決戰 -破滅的啟示錄-」中令EXTRA STAGE的發動率大幅提升。",
+			"effect": "chip_effect_10136"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "破壞與救世的Pt特效 C",
