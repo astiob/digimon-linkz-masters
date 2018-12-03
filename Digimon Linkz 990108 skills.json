@@ -14311,6 +14311,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "976",
+			"name": "암흑",
+			"simpleDescription": "",
+			"description": "아군 전체와 적 전체의 모든 상태이상 제거+적 전체에게 어둠속성으로 높은 마법 대미지",
+			"type": "2",
+			"skillGroupId": "349",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "349",
+			"soundEffect": "bt_928",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "977",
+			"name": "암흑",
+			"simpleDescription": "",
+			"description": "아군 전체와 적 전체의 모든 상태이상 제거+적 전체에게 어둠속성으로 높은 마법 대미지",
+			"type": "2",
+			"skillGroupId": "349",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "349",
+			"soundEffect": "bt_928",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "푸치 플레임",
 			"simpleDescription": "",

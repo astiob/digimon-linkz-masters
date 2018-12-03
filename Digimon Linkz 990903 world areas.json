@@ -277,6 +277,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1101",
+			"worldId": "6",
+			"priority": "9",
+			"name": "궁극 결전 -파멸의 묵시록-",
+			"img": "point/40/Holding_1.png",
+			"description": "궁극 결전 -파멸의 묵시록-",
+			"type": "3",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "100001",
 			"worldId": "6",
 			"priority": "10",

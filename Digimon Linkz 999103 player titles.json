@@ -554,6 +554,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1061",
+			"name": "제13회 제패자",
+			"detail": "제13회 콜로세움을 재패한 자에게 수여되는 영광의 증표",
+			"img": "honorific_colosseum_61",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1062",
+			"name": "제13회 SSS랭커",
+			"detail": "제13회 콜로세움의 최상위 랭커에게 수여되는 영예의 증표",
+			"img": "honorific_colosseum_62",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1063",
+			"name": "제13회 SS랭커",
+			"detail": "제13회 콜로세움의 상위 랭커에게 수여되는 명예의 증표",
+			"img": "honorific_colosseum_63",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1064",
+			"name": "제13회 S랭커",
+			"detail": "제13회 콜로세움의 랭커에게 수여되는 명성의 증표",
+			"img": "honorific_colosseum_64",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1065",
+			"name": "제13회 도전자",
+			"detail": "제13회 콜로세움에 도전한 자에게 수여되는 증표",
+			"img": "honorific_colosseum_65",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10005",
 			"name": "궁극X기사 -OMEGA- ",
 			"detail": "궁극X기사 -OMEGA 의 최상위 랭커에게 수여되는 영예의 증표",
@@ -565,6 +600,27 @@
 			"name": "궁극X기사 -OMEGA- ",
 			"detail": "궁극X기사 -OMEGA 의 상위 랭커에게 수여되는 명예의 증표",
 			"img": "honorific_event_6",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10007",
+			"name": "궁극 결전",
+			"detail": "궁극 결전 -파멸의 묵시록- 의 최상위 랭커에게 수여되는 영예의 증표",
+			"img": "honorific_event_7",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10008",
+			"name": "궁극 결전",
+			"detail": "궁극 결전 -파멸의 묵시록- 의 상위 랭커에게 수여되는 명예의 증표",
+			"img": "honorific_event_8",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10009",
+			"name": "궁극 결전",
+			"detail": "궁극 결전 -파멸의 묵시록- 의 랭커에게 수여되는 명예의 증표",
+			"img": "honorific_event_9",
 			"dispFlg": "0"
 		}
 	]
