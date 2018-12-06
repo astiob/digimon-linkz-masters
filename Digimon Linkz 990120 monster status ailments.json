@@ -36,6 +36,13 @@
 			"monsterStatusAilmentMaterialId": "2"
 		},
 		{
+			"monsterId": "20041",
+			"assetCategoryId": "14",
+			"assetValue": "1070175",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "2"
+		},
+		{
 			"monsterId": "20056",
 			"assetCategoryId": "14",
 			"assetValue": "1070178",
@@ -279,6 +286,13 @@
 			"assetValue": "1070317",
 			"assetNum": "15",
 			"monsterStatusAilmentMaterialId": "2"
+		},
+		{
+			"monsterId": "20441",
+			"assetCategoryId": "14",
+			"assetValue": "1070320",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "4"
 		},
 		{
 			"monsterId": "20476",

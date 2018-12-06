@@ -26791,6 +26791,25 @@
 			"isMissTrough": "0"
 		},
 		{
+			"skillDetailId": "10015",
+			"skillId": "10016",
+			"subId": "1",
+			"effectType": "69",
+			"effect": "5000",
+			"effect2": "0",
+			"effect3": "0",
+			"effect4": "0",
+			"effect5": "0",
+			"target": "3",
+			"targetType": "1",
+			"attribute": "0",
+			"continuousRound": "3",
+			"motionCount": "1",
+			"hitRate": "10000",
+			"subRate": "0",
+			"isMissTrough": "0"
+		},
+		{
 			"skillDetailId": "15001",
 			"skillId": "15001",
 			"subId": "1",

@@ -13201,6 +13201,72 @@
 			"effect": "chip_effect_10142"
 		},
 		{
+			"chipId": "100413",
+			"chipGroupId": "10143",
+			"name": "更なる高みのドロップ特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10143",
+			"detail": "ATK+20。「竜帝 -更なる高みへ-」で交換所アイテムドロップ時の取得個数が+1される。",
+			"effect": "chip_effect_10143"
+		},
+		{
+			"chipId": "100414",
+			"chipGroupId": "10143",
+			"name": "更なる高みのドロップ特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10143",
+			"detail": "ATK+30。「竜帝 -更なる高みへ-」で交換所アイテムドロップ時の取得個数が+3される。",
+			"effect": "chip_effect_10143"
+		},
+		{
+			"chipId": "100415",
+			"chipGroupId": "10143",
+			"name": "更なる高みのドロップ特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10143",
+			"detail": "ATK+50。「竜帝 -更なる高みへ-」で交換所アイテムドロップ時の取得個数が+9される。",
+			"effect": "chip_effect_10143"
+		},
+		{
+			"chipId": "100416",
+			"chipGroupId": "10144",
+			"name": "更なる高みのEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10144",
+			"detail": "S-ATK+20。「竜帝 -更なる高みへ-」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10144"
+		},
+		{
+			"chipId": "100417",
+			"chipGroupId": "10144",
+			"name": "更なる高みのEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10144",
+			"detail": "S-ATK+30。「竜帝 -更なる高みへ-」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10144"
+		},
+		{
+			"chipId": "100418",
+			"chipGroupId": "10144",
+			"name": "更なる高みのEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10144",
+			"detail": "S-ATK+50。「竜帝 -更なる高みへ-」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10144"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",
