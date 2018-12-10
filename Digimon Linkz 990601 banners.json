@@ -2573,6 +2573,72 @@
 			"dispNum": "102",
 			"startTime": "2018-12-03 18:00:00",
 			"endTime": "2018-12-09 13:59:59"
+		},
+		{
+			"bannerId": "100237",
+			"actionType": "menu",
+			"name": "舉辦「究極體大會捕捉」！",
+			"img": "/gasha/special/10203/10203_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=463",
+			"dispNum": "15",
+			"startTime": "2018-12-10 16:00:00",
+			"endTime": "2018-12-24 15:59:59"
+		},
+		{
+			"bannerId": "100238",
+			"actionType": "menu",
+			"name": "舉辦「龍帝 -邁向更高峰- 養成數碼寶貝捕捉」！",
+			"img": "/gasha/special/10204/10204_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=464",
+			"dispNum": "16",
+			"startTime": "2018-12-10 16:00:00",
+			"endTime": "2018-12-24 15:59:59"
+		},
+		{
+			"bannerId": "100239",
+			"actionType": "menu",
+			"name": "舉辦「龍帝 -邁向更高峰-」特效晶片捕捉！",
+			"img": "/gasha/special/30101/30101_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=465",
+			"dispNum": "19",
+			"startTime": "2018-12-10 16:00:00",
+			"endTime": "2018-12-16 13:59:59"
+		},
+		{
+			"bannerId": "100240",
+			"actionType": "menu",
+			"name": "舉辦「才能獎牌捕捉」！",
+			"img": "/gasha/special/100062/100062_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=467",
+			"dispNum": "20",
+			"startTime": "2018-12-11 16:00:00",
+			"endTime": "2018-12-18 15:59:59"
+		},
+		{
+			"bannerId": "100241",
+			"actionType": "menu",
+			"name": "舉辦活動「聖誕快樂登入獎勵」！",
+			"img": "/login/10030/10030_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=468",
+			"dispNum": "101",
+			"startTime": "2018-12-11 05:00:00",
+			"endTime": "2019-01-01 04:59:59"
+		},
+		{
+			"bannerId": "100242",
+			"actionType": "menu",
+			"name": "舉辦活動「龍帝 -邁向更高峰-」！",
+			"img": "/events/syuusyuu/56/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=470",
+			"dispNum": "50",
+			"startTime": "2018-12-10 18:00:00",
+			"endTime": "2018-12-16 13:59:59"
 		}
 	]
 }

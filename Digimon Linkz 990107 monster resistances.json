@@ -5221,6 +5221,24 @@
 			"death": "1"
 		},
 		{
+			"monsterResistanceId": "30195",
+			"description": "",
+			"fire": "0",
+			"water": "0",
+			"thunder": "0",
+			"nature": "-1",
+			"none": "0",
+			"light": "0",
+			"dark": "0",
+			"poison": "1",
+			"confusion": "0",
+			"paralysis": "-1",
+			"sleep": "-1",
+			"stun": "0",
+			"skillLock": "0",
+			"death": "0"
+		},
+		{
 			"monsterResistanceId": "40001",
 			"description": "毒状態耐性変化",
 			"fire": "0",

@@ -29,6 +29,13 @@
 			"monsterStatusAilmentMaterialId": "2"
 		},
 		{
+			"monsterId": "20041",
+			"assetCategoryId": "14",
+			"assetValue": "1070175",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "2"
+		},
+		{
 			"monsterId": "20066",
 			"assetCategoryId": "14",
 			"assetValue": "1070180",
@@ -120,6 +127,13 @@
 			"monsterStatusAilmentMaterialId": "5"
 		},
 		{
+			"monsterId": "20186",
+			"assetCategoryId": "14",
+			"assetValue": "1070204",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "7"
+		},
+		{
 			"monsterId": "20196",
 			"assetCategoryId": "14",
 			"assetValue": "1070206",
@@ -162,6 +176,13 @@
 			"monsterStatusAilmentMaterialId": "1"
 		},
 		{
+			"monsterId": "20266",
+			"assetCategoryId": "14",
+			"assetValue": "1070220",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "4"
+		},
+		{
 			"monsterId": "20276",
 			"assetCategoryId": "14",
 			"assetValue": "1070222",
@@ -188,6 +209,13 @@
 			"assetValue": "1070317",
 			"assetNum": "15",
 			"monsterStatusAilmentMaterialId": "2"
+		},
+		{
+			"monsterId": "20441",
+			"assetCategoryId": "14",
+			"assetValue": "1070320",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "4"
 		},
 		{
 			"monsterId": "20476",
