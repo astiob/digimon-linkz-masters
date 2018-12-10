@@ -7041,6 +7041,94 @@
 			"effect": "chip_effect_129"
 		},
 		{
+			"chipId": "1115",
+			"chipGroupId": "132",
+			"name": "Stun Remedy G",
+			"rank": "1",
+			"multiNum": "1",
+			"needChip": "10",
+			"icon": "chip_132",
+			"detail": "Cures user of Stun at start of turn. 1 use. Lowers user's Max HP by 20%",
+			"effect": "chip_effect_132"
+		},
+		{
+			"chipId": "1116",
+			"chipGroupId": "132",
+			"name": "Stun Remedy F",
+			"rank": "2",
+			"multiNum": "1",
+			"needChip": "9",
+			"icon": "chip_132",
+			"detail": "Cures user of Stun at start of turn. 1 use. Lowers user's Max HP by 18%",
+			"effect": "chip_effect_132"
+		},
+		{
+			"chipId": "1117",
+			"chipGroupId": "132",
+			"name": "Stun Remedy E",
+			"rank": "3",
+			"multiNum": "1",
+			"needChip": "8",
+			"icon": "chip_132",
+			"detail": "Cures user of Stun at start of turn. 1 use. Lowers user's Max HP by 15%",
+			"effect": "chip_effect_132"
+		},
+		{
+			"chipId": "1118",
+			"chipGroupId": "132",
+			"name": "Stun Remedy D",
+			"rank": "4",
+			"multiNum": "1",
+			"needChip": "7",
+			"icon": "chip_132",
+			"detail": "Cures user of Stun at start of turn. 1 use. Lowers user's Max HP by 12%",
+			"effect": "chip_effect_132"
+		},
+		{
+			"chipId": "1119",
+			"chipGroupId": "132",
+			"name": "Stun Remedy C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "6",
+			"icon": "chip_132",
+			"detail": "Cures user of Stun at start of turn. 1 use. Lowers user's Max HP by 10%",
+			"effect": "chip_effect_132"
+		},
+		{
+			"chipId": "1120",
+			"chipGroupId": "132",
+			"name": "Stun Remedy B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_132",
+			"detail": "Cures user of Stun at start of turn. 1 use. Lowers user's Max HP by 7%",
+			"effect": "chip_effect_132"
+		},
+		{
+			"chipId": "1121",
+			"chipGroupId": "132",
+			"name": "Stun Remedy A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_132",
+			"detail": "Cures user of Stun at start of turn. 2 use. Lowers user's Max HP by 7%",
+			"effect": "chip_effect_132"
+		},
+		{
+			"chipId": "1122",
+			"chipGroupId": "132",
+			"name": "Stun Remedy S",
+			"rank": "8",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_132",
+			"detail": "Cures user of Stun at start of turn. 2 use. Lowers user's Max HP by 5%",
+			"effect": "chip_effect_132"
+		},
+		{
 			"chipId": "1129",
 			"chipGroupId": "131",
 			"name": "Skill Lock Remedy C",
@@ -9063,6 +9151,72 @@
 			"icon": "chip_10142",
 			"detail": "S-ATK +50. Also greatly raises the chance of triggering the EXTRA STAGE in the \"Mega Battle -Apocalypse of Ruin-\" event.",
 			"effect": "chip_effect_10136"
+		},
+		{
+			"chipId": "100413",
+			"chipGroupId": "10143",
+			"name": "Greater Heights Drop Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10143",
+			"detail": "ATK +20. Also increases Data Byte drop by 1 in \"Dragon Empire -Aim for Greater Heights-\".",
+			"effect": "chip_effect_10143"
+		},
+		{
+			"chipId": "100414",
+			"chipGroupId": "10143",
+			"name": "Greater Heights Drop Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10143",
+			"detail": "ATK +30. Also increases Data Byte drop by 3 in \"Dragon Empire -Aim for Greater Heights-\".",
+			"effect": "chip_effect_10143"
+		},
+		{
+			"chipId": "100415",
+			"chipGroupId": "10143",
+			"name": "Greater Heights Drop Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10143",
+			"detail": "ATK +50. Also increases Data Byte drop by 9 in \"Dragon Empire -Aim for Greater Heights-\".",
+			"effect": "chip_effect_10143"
+		},
+		{
+			"chipId": "100416",
+			"chipGroupId": "10144",
+			"name": "Greater Heights EX stage Specialty Chip  C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10144",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"Dragon Empire -Aim for Greater Heights-\" event.",
+			"effect": "chip_effect_10144"
+		},
+		{
+			"chipId": "100417",
+			"chipGroupId": "10144",
+			"name": "Greater Heights EX stage Specialty Chip  B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10144",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"Dragon Empire -Aim for Greater Heights-\" event.",
+			"effect": "chip_effect_10144"
+		},
+		{
+			"chipId": "100418",
+			"chipGroupId": "10144",
+			"name": "Greater Heights EX stage Specialty Chip  A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10144",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Dragon Empire -Aim for Greater Heights-\" event.",
+			"effect": "chip_effect_10144"
 		},
 		{
 			"chipId": "10000001",

@@ -14821,6 +14821,21 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "10016",
+			"name": "Escape",
+			"simpleDescription": "",
+			"description": "",
+			"type": "3",
+			"skillGroupId": "0",
+			"skillGroupSubId": "0",
+			"needPoint": "1",
+			"inheritancePrice": "50",
+			"attackEffect": "none",
+			"soundEffect": "bt_010",
+			"rank": "3",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "40017",
 			"name": "DEF Debuff IV",
 			"simpleDescription": "",
@@ -16775,6 +16790,21 @@
 			"name": "Sleep Remedy",
 			"simpleDescription": "",
 			"description": "Cure self of Sleep",
+			"type": "3",
+			"skillGroupId": "0",
+			"skillGroupSubId": "0",
+			"needPoint": "0",
+			"inheritancePrice": "0",
+			"attackEffect": "none",
+			"soundEffect": "bt_010",
+			"rank": "4",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "50150",
+			"name": "Stun Remedy",
+			"simpleDescription": "",
+			"description": "Cure self of Stun",
 			"type": "3",
 			"skillGroupId": "0",
 			"skillGroupSubId": "0",
