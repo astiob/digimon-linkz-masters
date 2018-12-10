@@ -7041,6 +7041,94 @@
 			"effect": "chip_effect_129"
 		},
 		{
+			"chipId": "1115",
+			"chipGroupId": "132",
+			"name": "기절 자가 치유 G",
+			"rank": "1",
+			"multiNum": "1",
+			"needChip": "10",
+			"icon": "chip_132",
+			"detail": "행동 개시 시, 자신의 [ 기절 ] 전투당 최대 1회 제거. 최대 HP-20%’",
+			"effect": "chip_effect_132"
+		},
+		{
+			"chipId": "1116",
+			"chipGroupId": "132",
+			"name": "기절 자가 치유 F",
+			"rank": "2",
+			"multiNum": "1",
+			"needChip": "9",
+			"icon": "chip_132",
+			"detail": "행동 개시 시, 자신의 [ 기절 ] 전투당 최대 1회 제거. 최대 HP-18%’",
+			"effect": "chip_effect_132"
+		},
+		{
+			"chipId": "1117",
+			"chipGroupId": "132",
+			"name": "기절 자가 치유 E",
+			"rank": "3",
+			"multiNum": "1",
+			"needChip": "8",
+			"icon": "chip_132",
+			"detail": "행동 개시 시, 자신의 [ 기절 ] 전투당 최대 1회 제거. 최대 HP-15%’",
+			"effect": "chip_effect_132"
+		},
+		{
+			"chipId": "1118",
+			"chipGroupId": "132",
+			"name": "기절 자가 치유 D",
+			"rank": "4",
+			"multiNum": "1",
+			"needChip": "7",
+			"icon": "chip_132",
+			"detail": "행동 개시 시, 자신의 [ 기절 ] 전투당 최대 1회 제거. 최대 HP-12%’",
+			"effect": "chip_effect_132"
+		},
+		{
+			"chipId": "1119",
+			"chipGroupId": "132",
+			"name": "기절 자가 치유 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "6",
+			"icon": "chip_132",
+			"detail": "행동 개시 시, 자신의 [ 기절 ] 전투당 최대 1회 제거. 최대 HP-10%’",
+			"effect": "chip_effect_132"
+		},
+		{
+			"chipId": "1120",
+			"chipGroupId": "132",
+			"name": "기절 자가 치유 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_132",
+			"detail": "행동 개시 시, 자신의 [ 기절 ] 전투당 최대 1회 제거. 최대 HP-7%’",
+			"effect": "chip_effect_132"
+		},
+		{
+			"chipId": "1121",
+			"chipGroupId": "132",
+			"name": "기절 자가 치유 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_132",
+			"detail": "행동 개시 시, 자신의 [ 기절 ] 전투당 최대 2회 제거. 최대 HP-7%’",
+			"effect": "chip_effect_132"
+		},
+		{
+			"chipId": "1122",
+			"chipGroupId": "132",
+			"name": "기절 자가 치유 S",
+			"rank": "8",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_132",
+			"detail": "행동 개시 시, 자신의 [ 기절 ] 전투당 최대 2회 제거. 최대 HP-5%’",
+			"effect": "chip_effect_132"
+		},
+		{
 			"chipId": "1129",
 			"chipGroupId": "131",
 			"name": "스킬 봉인 자가 치유 C",
@@ -9063,6 +9151,72 @@
 			"icon": "chip_10142",
 			"detail": "S-ATK+50, ‘궁극 결전 -파멸의 묵시록-’에서 EXTRA STAGE 발생 확률 크게 상승",
 			"effect": "chip_effect_10136"
+		},
+		{
+			"chipId": "100413",
+			"chipGroupId": "10143",
+			"name": "더높은곳의 드롭 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10143",
+			"detail": "ATK+20, ‘용제 -더 높은 곳을 향해-’에서 데이터 단편의 획득 수 +1",
+			"effect": "chip_effect_10143"
+		},
+		{
+			"chipId": "100414",
+			"chipGroupId": "10143",
+			"name": "더높은곳의 드롭 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10143",
+			"detail": "ATK+30, ‘용제 -더 높은 곳을 향해-’에서 데이터 단편의 획득 수 +3",
+			"effect": "chip_effect_10143"
+		},
+		{
+			"chipId": "100415",
+			"chipGroupId": "10143",
+			"name": "더높은곳의 드롭 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10143",
+			"detail": "ATK+50, ‘용제 -더 높은 곳을 향해-’에서 데이터 단편의 획득 수 +9",
+			"effect": "chip_effect_10143"
+		},
+		{
+			"chipId": "100416",
+			"chipGroupId": "10144",
+			"name": "더높은곳의 EX STAGE 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10144",
+			"detail": "S-ATK+20, ‘용제 -더 높은 곳을 향해-’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_10144"
+		},
+		{
+			"chipId": "100417",
+			"chipGroupId": "10144",
+			"name": "더높은곳의 EX STAGE 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10144",
+			"detail": "S-ATK+30, ‘용제 -더 높은 곳을 향해-’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_10144"
+		},
+		{
+			"chipId": "100418",
+			"chipGroupId": "10144",
+			"name": "더높은곳의 EX STAGE 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10144",
+			"detail": "S-ATK+50, ‘용제 -더 높은 곳을 향해-’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_10144"
 		},
 		{
 			"chipId": "10000001",
