@@ -13267,6 +13267,72 @@
 			"effect": "chip_effect_10144"
 		},
 		{
+			"chipId": "100419",
+			"chipGroupId": "10145",
+			"name": "乱戦-OMEGA-のドロップ特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10145",
+			"detail": "ATK+20。「乱戦-OMEGA-」で交換所アイテムドロップ時の取得個数が+1される。",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100420",
+			"chipGroupId": "10145",
+			"name": "乱戦-OMEGA-のドロップ特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10145",
+			"detail": "ATK+30。「乱戦-OMEGA-」で交換所アイテムドロップ時の取得個数が+3される。",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100421",
+			"chipGroupId": "10145",
+			"name": "乱戦-OMEGA-のドロップ特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10145",
+			"detail": "ATK+50。「乱戦-OMEGA-」で交換所アイテムドロップ時の取得個数が+9される。",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100422",
+			"chipGroupId": "10146",
+			"name": "乱戦-OMEGA-のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10146",
+			"detail": "S-ATK+20。「乱戦-OMEGA-」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100423",
+			"chipGroupId": "10146",
+			"name": "乱戦-OMEGA-のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10146",
+			"detail": "S-ATK+30。「乱戦-OMEGA-」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100424",
+			"chipGroupId": "10146",
+			"name": "乱戦-OMEGA-のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10146",
+			"detail": "S-ATK+50。「乱戦-OMEGA-」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10146"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

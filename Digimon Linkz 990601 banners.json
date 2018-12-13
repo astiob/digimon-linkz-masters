@@ -8425,6 +8425,50 @@
 			"dispNum": "50",
 			"startTime": "2018-12-06 18:00:00",
 			"endTime": "2018-12-12 23:59:59"
+		},
+		{
+			"bannerId": "804",
+			"actionType": "menu",
+			"name": "イベント「乱戦-OMEGA-」開催！",
+			"img": "/events/syuusyuu/57/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1289",
+			"dispNum": "50",
+			"startTime": "2018-12-13 18:00:00",
+			"endTime": "2018-12-19 23:59:59"
+		},
+		{
+			"bannerId": "805",
+			"actionType": "menu",
+			"name": "乱戦 -OMEGA- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30102/30102_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1290",
+			"dispNum": "7",
+			"startTime": "2018-12-13 16:00:00",
+			"endTime": "2018-12-19 23:59:59"
+		},
+		{
+			"bannerId": "806",
+			"actionType": "menu",
+			"name": "爆炎竜育成チケットキャプチャ開催！",
+			"img": "/gasha/special/20010/20010_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1291",
+			"dispNum": "23",
+			"startTime": "2018-12-14 16:00:00",
+			"endTime": "2018-12-17 23:59:59"
+		},
+		{
+			"bannerId": "807",
+			"actionType": "menu",
+			"name": "イベント「爆炎の竜影」開催！",
+			"img": "/events/syuusyuu/10001/Holding_5.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1293",
+			"dispNum": "52",
+			"startTime": "2018-12-14 18:00:00",
+			"endTime": "2018-12-17 23:59:59"
 		}
 	]
 }
