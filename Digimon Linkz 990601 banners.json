@@ -2639,6 +2639,50 @@
 			"dispNum": "50",
 			"startTime": "2018-12-10 18:00:00",
 			"endTime": "2018-12-16 13:59:59"
+		},
+		{
+			"bannerId": "100243",
+			"actionType": "menu",
+			"name": "‘OMEGA RUSH!’ 특효 칩 캡처 이벤트 개최!",
+			"img": "/gasha/special/30102/30102_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=473",
+			"dispNum": "19",
+			"startTime": "2018-12-17 16:00:00",
+			"endTime": "2018-12-23 13:59:59"
+		},
+		{
+			"bannerId": "100244",
+			"actionType": "menu",
+			"name": "폭염룡 육성 티켓 캡처",
+			"img": "/gasha/special/200015/200015_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=474",
+			"dispNum": "25",
+			"startTime": "2018-12-18 16:00:00",
+			"endTime": "2018-12-21 23:59:59"
+		},
+		{
+			"bannerId": "100245",
+			"actionType": "menu",
+			"name": "이벤트 ‘폭염룡의 그림자’ 개최!",
+			"img": "/events/syuusyuu/10001/Holding_5.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=475",
+			"dispNum": "51",
+			"startTime": "2018-12-18 18:00:00",
+			"endTime": "2018-12-21 23:59:59"
+		},
+		{
+			"bannerId": "100246",
+			"actionType": "menu",
+			"name": "이벤트 ‘OMEGA RUSH!’ 개최!",
+			"img": "/events/syuusyuu/57/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=477",
+			"dispNum": "50",
+			"startTime": "2018-12-17 18:00:00",
+			"endTime": "2018-12-23 13:59:59"
 		}
 	]
 }

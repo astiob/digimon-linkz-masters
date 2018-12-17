@@ -703,6 +703,60 @@
 			"exValue": "0"
 		},
 		{
+			"assetSalesBonusId": "422",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100419",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "1",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "423",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100420",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "8",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "424",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100421",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "50",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "425",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100422",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "1",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "426",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100423",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "8",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "427",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100424",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "50",
+			"exValue": "0"
+		},
+		{
 			"assetSalesBonusId": "500001",
 			"baseAssetCategoryId": "1",
 			"baseAssetValue": "831",
@@ -6463,6 +6517,15 @@
 			"exValue": "0"
 		},
 		{
+			"assetSalesBonusId": "520200",
+			"baseAssetCategoryId": "1",
+			"baseAssetValue": "20201",
+			"bonusAssetCategoryId": "14",
+			"bonusAssetValue": "1070207",
+			"bonusAssetNum": "14",
+			"exValue": "0"
+		},
+		{
 			"assetSalesBonusId": "520205",
 			"baseAssetCategoryId": "1",
 			"baseAssetValue": "20206",
@@ -6571,6 +6634,15 @@
 			"exValue": "0"
 		},
 		{
+			"assetSalesBonusId": "520280",
+			"baseAssetCategoryId": "1",
+			"baseAssetValue": "20281",
+			"bonusAssetCategoryId": "14",
+			"bonusAssetValue": "1070223",
+			"bonusAssetNum": "14",
+			"exValue": "0"
+		},
+		{
 			"assetSalesBonusId": "520285",
 			"baseAssetCategoryId": "1",
 			"baseAssetValue": "20286",
@@ -6585,6 +6657,24 @@
 			"baseAssetValue": "20291",
 			"bonusAssetCategoryId": "14",
 			"bonusAssetValue": "1070225",
+			"bonusAssetNum": "14",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "520330",
+			"baseAssetCategoryId": "1",
+			"baseAssetValue": "20331",
+			"bonusAssetCategoryId": "14",
+			"bonusAssetValue": "1070233",
+			"bonusAssetNum": "14",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "520335",
+			"baseAssetCategoryId": "1",
+			"baseAssetValue": "20336",
+			"bonusAssetCategoryId": "14",
+			"bonusAssetValue": "1070234",
 			"bonusAssetNum": "14",
 			"exValue": "0"
 		},
