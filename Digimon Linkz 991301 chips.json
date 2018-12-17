@@ -9219,6 +9219,72 @@
 			"effect": "chip_effect_10144"
 		},
 		{
+			"chipId": "100419",
+			"chipGroupId": "10145",
+			"name": "OMEGA RUSH Drop Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10145",
+			"detail": "ATK +20. Also increases Data Byte drop by 1 in \"OMEGA RUSH!\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100420",
+			"chipGroupId": "10145",
+			"name": "OMEGA RUSH Drop Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10145",
+			"detail": "ATK +30. Also increases Data Byte drop by 3 in \"OMEGA RUSH!\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100421",
+			"chipGroupId": "10145",
+			"name": "OMEGA RUSH Drop Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10145",
+			"detail": "ATK +50. Also increases Data Byte drop by 9 in \"OMEGA RUSH!\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100422",
+			"chipGroupId": "10146",
+			"name": "OMEGA RUSH EX stage Specialty Chip  C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10146",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"OMEGA RUSH!\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100423",
+			"chipGroupId": "10146",
+			"name": "OMEGA RUSH EX stage Specialty Chip  B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10146",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"OMEGA RUSH!\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100424",
+			"chipGroupId": "10146",
+			"name": "OMEGA RUSH EX stage Specialty Chip  A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10146",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"OMEGA RUSH!\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",
