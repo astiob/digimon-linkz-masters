@@ -13333,6 +13333,72 @@
 			"effect": "chip_effect_10146"
 		},
 		{
+			"chipId": "100425",
+			"chipGroupId": "10147",
+			"name": "OMEGAの系譜のPt特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10147",
+			"detail": "ATK+20。「OMEGAの系譜」で獲得ポイントが1.5倍になる。",
+			"effect": "chip_effect_10147"
+		},
+		{
+			"chipId": "100426",
+			"chipGroupId": "10147",
+			"name": "OMEGAの系譜のPt特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10147",
+			"detail": "ATK+30。「OMEGAの系譜」で獲得ポイントが2.5倍になる。",
+			"effect": "chip_effect_10147"
+		},
+		{
+			"chipId": "100427",
+			"chipGroupId": "10147",
+			"name": "OMEGAの系譜のPt特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10147",
+			"detail": "ATK+50。「OMEGAの系譜」で獲得ポイントが5.5倍になる。",
+			"effect": "chip_effect_10147"
+		},
+		{
+			"chipId": "100428",
+			"chipGroupId": "10148",
+			"name": "OMEGAの系譜のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10148",
+			"detail": "S-ATK+20。「OMEGAの系譜」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10148"
+		},
+		{
+			"chipId": "100429",
+			"chipGroupId": "10148",
+			"name": "OMEGAの系譜のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10148",
+			"detail": "S-ATK+30。「OMEGAの系譜」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10148"
+		},
+		{
+			"chipId": "100430",
+			"chipGroupId": "10148",
+			"name": "OMEGAの系譜のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10148",
+			"detail": "S-ATK+50。「OMEGAの系譜」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10148"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

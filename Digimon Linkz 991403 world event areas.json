@@ -575,6 +575,10 @@
 		{
 			"worldEventId": "152",
 			"worldAreaId": "1103"
+		},
+		{
+			"worldEventId": "153",
+			"worldAreaId": "1104"
 		}
 	]
 }

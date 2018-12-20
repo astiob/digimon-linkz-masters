@@ -8469,6 +8469,50 @@
 			"dispNum": "52",
 			"startTime": "2018-12-14 18:00:00",
 			"endTime": "2018-12-17 23:59:59"
+		},
+		{
+			"bannerId": "808",
+			"actionType": "menu",
+			"name": "イベント「OMEGAの系譜」開催！",
+			"img": "/events/point/41/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1297",
+			"dispNum": "50",
+			"startTime": "2018-12-20 18:00:00",
+			"endTime": "2018-12-26 23:59:59"
+		},
+		{
+			"bannerId": "809",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10206/10206_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1298",
+			"dispNum": "3",
+			"startTime": "2018-12-20 16:00:00",
+			"endTime": "2019-01-03 15:59:59"
+		},
+		{
+			"bannerId": "810",
+			"actionType": "menu",
+			"name": "乱戦 -OMEGA- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30103/30103_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1299",
+			"dispNum": "7",
+			"startTime": "2018-12-20 16:00:00",
+			"endTime": "2018-12-26 23:59:59"
+		},
+		{
+			"bannerId": "813",
+			"actionType": "menu",
+			"name": "クリスマス記念キャプチャ開催！",
+			"img": "/gasha/special/10207/10207_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1305",
+			"dispNum": "2",
+			"startTime": "2018-12-24 16:00:00",
+			"endTime": "2018-12-31 23:59:59"
 		}
 	]
 }

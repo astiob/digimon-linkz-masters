@@ -895,6 +895,27 @@
 			"detail": "イベント「究極決戦-破滅の黙示録-」トップ250位に送られる名誉の証",
 			"img": "honorific_event_9",
 			"dispFlg": "0"
+		},
+		{
+			"titleId": "10010",
+			"name": "OMEGAの系譜 -ゴールド-",
+			"detail": "イベント「OMEGAの系譜」トップ30位に送られる英傑の証",
+			"img": "honorific_event_10",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10011",
+			"name": "OMEGAの系譜 -シルバー-",
+			"detail": "イベント「OMEGAの系譜」トップ100位に送られる栄誉の証",
+			"img": "honorific_event_11",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10012",
+			"name": "OMEGAの系譜 -ブロンズ-",
+			"detail": "イベント「OMEGAの系譜」トップ250位に送られる名誉の証",
+			"img": "honorific_event_12",
+			"dispFlg": "0"
 		}
 	]
 }
