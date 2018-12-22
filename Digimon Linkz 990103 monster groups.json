@@ -4965,6 +4965,23 @@
 			"modelId": "345"
 		},
 		{
+			"monsterGroupId": "346",
+			"monsterCollectionId": "60346",
+			"monsterName": "오메가몬Alter-S",
+			"simpleDescription": "",
+			"description": "워그레이몬의 아종 “블리츠그레이몬”, 메탈가루몬의 아종 “크레스가루몬”이 융합해서 탄생한 오메가몬의 새로운 일면. 로열 나이츠에 소속된 오메가몬과는 다른 개체이나, 두 가지 특성을 보유한 멀티 타입의 성능은 여전하며 그 힘 또한 변하지 않았다.",
+			"growStep": "7",
+			"tribe": "6",
+			"partyCharaPosX": "-0.02",
+			"partyCharaPosY": "-1.52",
+			"partyCharaPosZ": "-0.45",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "346"
+		},
+		{
 			"monsterGroupId": "348",
 			"monsterCollectionId": "60348",
 			"monsterName": "크레니엄몬X항체",

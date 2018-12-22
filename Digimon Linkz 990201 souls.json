@@ -865,6 +865,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070346",
+			"soulName": "오메가몬Alter-S의 데이터 조각",
+			"description": "오메가몬Alter-S으로 진화할 때 필요한 데이터 조각",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070348",
 			"soulName": "크레니엄몬X항체의 데이터 조각",
 			"description": "크레니엄몬X항체으로 진화할 때 필요한 데이터 조각",

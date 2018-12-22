@@ -9285,6 +9285,72 @@
 			"effect": "chip_effect_10146"
 		},
 		{
+			"chipId": "100425",
+			"chipGroupId": "10147",
+			"name": "OMEGA의 계보의 Pt 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10147",
+			"detail": "ATK+20, ‘OMEGA의 계보’에서 획득 포인트 1.5배",
+			"effect": "chip_effect_10147"
+		},
+		{
+			"chipId": "100426",
+			"chipGroupId": "10147",
+			"name": "OMEGA의 계보의 Pt 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10147",
+			"detail": "ATK+30, ‘OMEGA의 계보’에서 획득 포인트 2.5배",
+			"effect": "chip_effect_10147"
+		},
+		{
+			"chipId": "100427",
+			"chipGroupId": "10147",
+			"name": "OMEGA의 계보의 Pt 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10147",
+			"detail": "ATK+50, ‘OMEGA의 계보록-’에서 획득 포인트 5.5배",
+			"effect": "chip_effect_10147"
+		},
+		{
+			"chipId": "100428",
+			"chipGroupId": "10148",
+			"name": "OMEGA의 계보의 EX STAGE 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10148",
+			"detail": "S-ATK+20, ‘OMEGA의 계보-’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_10148"
+		},
+		{
+			"chipId": "100429",
+			"chipGroupId": "10148",
+			"name": "OMEGA의 계보의 EX STAGE 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10148",
+			"detail": "S-ATK+30, ‘OMEGA의 계보’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_10148"
+		},
+		{
+			"chipId": "100430",
+			"chipGroupId": "10148",
+			"name": "OMEGA의 계보의 EX STAGE 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10148",
+			"detail": "S-ATK+50, ‘OMEGA의 계보’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_10148"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "파괴와 구세의 Pt 특효 C",

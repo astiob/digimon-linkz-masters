@@ -14281,6 +14281,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "970",
+			"name": "가루루 소드",
+			"simpleDescription": "",
+			"description": "적 하나에게 무속성으로여러 번 물리 대미지+일정 확률로 기절 부여",
+			"type": "2",
+			"skillGroupId": "346",
+			"skillGroupSubId": "1",
+			"needPoint": "2",
+			"inheritancePrice": "300",
+			"attackEffect": "346",
+			"soundEffect": "bt_924",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "971",
+			"name": "그레이 캐논",
+			"simpleDescription": "",
+			"description": "적 하나에게 번개속성으로매우 높은 물리 대미지+일정 확률로 AP 1 감소",
+			"type": "2",
+			"skillGroupId": "346",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "346_2",
+			"soundEffect": "bt_925",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "974",
 			"name": "햐드닝 왈츠",
 			"simpleDescription": "",
