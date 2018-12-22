@@ -589,6 +589,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1066",
+			"name": "14-Time Champion",
+			"detail": "Proof of the glory of becoming Champion of the Colosseum (x14)",
+			"img": "honorific_colosseum_66",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1067",
+			"name": "14-Time SSS-Ranker",
+			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x14)",
+			"img": "honorific_colosseum_67",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1068",
+			"name": "14-Time SS-Ranker",
+			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x14)",
+			"img": "honorific_colosseum_68",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1069",
+			"name": "14-Time S-Ranker",
+			"detail": "Proof of the renown of reaching a rank in the Colosseum (x14)",
+			"img": "honorific_colosseum_69",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1070",
+			"name": "14-Time Challenger",
+			"detail": "Proof of being a challenger in the Colosseum (x14)",
+			"img": "honorific_colosseum_70",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10005",
 			"name": "Supreme X Knight -OMEGA- ",
 			"detail": "Proof of the honor of reaching the highest rank in the Supreme X Knight -OMEGA- ",
@@ -621,6 +656,27 @@
 			"name": "Mega Battle",
 			"detail": "Proof of the renown of reaching a high rank in the Mega Battle -Apocalypse of Ruin-",
 			"img": "honorific_event_9",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10010",
+			"name": "OMEGA Lineage",
+			"detail": "Proof of the honor of reaching the highest rank in the OMEGA Lineage",
+			"img": "honorific_event_10",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10011",
+			"name": "OMEGA Lineage",
+			"detail": "Proof of the prestige of reaching a high rank in the OMEGA Lineage",
+			"img": "honorific_event_11",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10012",
+			"name": "OMEGA Lineage",
+			"detail": "Proof of the renown of reaching a high rank in the OMEGA Lineage",
+			"img": "honorific_event_12",
 			"dispFlg": "0"
 		}
 	]

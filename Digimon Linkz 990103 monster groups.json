@@ -4965,6 +4965,23 @@
 			"modelId": "345"
 		},
 		{
+			"monsterGroupId": "346",
+			"monsterCollectionId": "60346",
+			"monsterName": "Omegamon Alter-S",
+			"simpleDescription": "",
+			"description": "A new version of Omegamon,which was created by fusing the subspecies of WarGreymon, BlitzGreymon,and the subspecies of MetalGarurumon,CresGarurumon. It has the multitype abilities of both Digimon,and though they are different individuals,its strength is on a par with the Omegamon.",
+			"growStep": "7",
+			"tribe": "6",
+			"partyCharaPosX": "-0.02",
+			"partyCharaPosY": "-1.52",
+			"partyCharaPosZ": "-0.45",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "346"
+		},
+		{
 			"monsterGroupId": "348",
 			"monsterCollectionId": "60348",
 			"monsterName": "Craniamon X Anti-body",

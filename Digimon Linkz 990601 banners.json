@@ -2683,6 +2683,50 @@
 			"dispNum": "50",
 			"startTime": "2018-12-17 18:00:00",
 			"endTime": "2018-12-23 13:59:59"
+		},
+		{
+			"bannerId": "100247",
+			"actionType": "menu",
+			"name": "The \"OMEGA Lineage\" event has begun!",
+			"img": "/events/point/41/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=479",
+			"dispNum": "50",
+			"startTime": "2018-12-24 18:00:00",
+			"endTime": "2018-12-30 13:59:59"
+		},
+		{
+			"bannerId": "100250",
+			"actionType": "menu",
+			"name": "\"Mega Festival Capture\" has begun!",
+			"img": "/gasha/special/10206/10206_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=484",
+			"dispNum": "15",
+			"startTime": "2018-12-24 16:00:00",
+			"endTime": "2019-01-07 15:59:59"
+		},
+		{
+			"bannerId": "100251",
+			"actionType": "menu",
+			"name": "The \"OMEGA Lineage\"Special Chip Capture has begun!",
+			"img": "/gasha/special/30103/30103_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=485",
+			"dispNum": "19",
+			"startTime": "2018-12-24 16:00:00",
+			"endTime": "2018-12-30 13:59:59"
+		},
+		{
+			"bannerId": "100252",
+			"actionType": "menu",
+			"name": "\"Christmas Celebration Capture\" has begun!",
+			"img": "/gasha/special/10207/10207_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=486",
+			"dispNum": "14",
+			"startTime": "2018-12-24 16:00:00",
+			"endTime": "2018-12-31 23:59:59"
 		}
 	]
 }

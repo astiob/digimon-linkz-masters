@@ -1093,6 +1093,19 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6167",
+			"worldAreaId": "1104",
+			"priority": "1051",
+			"name": "OMEGA Lineage",
+			"description": "ポイントや断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "point/41/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",

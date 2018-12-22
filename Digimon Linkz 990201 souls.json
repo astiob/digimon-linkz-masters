@@ -865,6 +865,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070346",
+			"soulName": "Omegamon Alter-S Data Fragment",
+			"description": "A data fragment required to Digivolve into Omegamon Alter-S.",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070348",
 			"soulName": "Craniamon X Anti-body Data Fragment",
 			"description": "A data fragment required to Digivolve into Craniamon X Anti-body.",

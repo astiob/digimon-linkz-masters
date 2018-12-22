@@ -14281,6 +14281,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "970",
+			"name": "Garuruzoid",
+			"simpleDescription": "",
+			"description": "Multiple hits of moderate physical Null damage to a single enemy with a chance to Stun",
+			"type": "2",
+			"skillGroupId": "346",
+			"skillGroupSubId": "1",
+			"needPoint": "2",
+			"inheritancePrice": "300",
+			"attackEffect": "346",
+			"soundEffect": "bt_924",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "971",
+			"name": "Transcendent Cannon",
+			"simpleDescription": "",
+			"description": "Massive physical Thunder damage to a single enemy with a chance to reduce AP by 1",
+			"type": "2",
+			"skillGroupId": "346",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "346_2",
+			"soundEffect": "bt_925",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "974",
 			"name": "Heodenings Waltz",
 			"simpleDescription": "",
