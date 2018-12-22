@@ -589,6 +589,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1066",
+			"name": "第14期霸主",
+			"detail": "贈予第14期競技場霸主的光榮之證。",
+			"img": "honorific_colosseum_66",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1067",
+			"name": "第14期SSS級排名玩家",
+			"detail": "贈予第14期競技場最頂尖排名玩家的榮譽之證。",
+			"img": "honorific_colosseum_67",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1068",
+			"name": "第14期SS級排名玩家",
+			"detail": "贈予第14期競技場頂尖排名玩家的名譽之證。",
+			"img": "honorific_colosseum_68",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1069",
+			"name": "第14期S級排名玩家",
+			"detail": "贈予第14期競技場排名玩家的名聲之證。",
+			"img": "honorific_colosseum_69",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1070",
+			"name": "第14期挑戰者",
+			"detail": "贈予第14期競技場挑戰者的證明。",
+			"img": "honorific_colosseum_70",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10005",
 			"name": "究極X騎士 -OMEGA-",
 			"detail": "究極X騎士 -OMEGA- 最頂尖排名玩家的榮譽之證。",
@@ -621,6 +656,27 @@
 			"name": "究極決戰",
 			"detail": "究極決戰 -破滅的啟示錄- 排名玩家的名譽之證。",
 			"img": "honorific_event_9",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10010",
+			"name": "OMEGA的系譜",
+			"detail": "OMEGA的系譜 最頂尖排名玩家的榮譽之證。",
+			"img": "honorific_event_10",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10011",
+			"name": "OMEGA的系譜",
+			"detail": "OMEGA的系譜 頂尖排名玩家的名譽之證。",
+			"img": "honorific_event_11",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10012",
+			"name": "OMEGA的系譜",
+			"detail": "OMEGA的系譜 排名玩家的名譽之證。",
+			"img": "honorific_event_12",
 			"dispFlg": "0"
 		}
 	]

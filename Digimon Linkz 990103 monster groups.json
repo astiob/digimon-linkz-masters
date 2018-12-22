@@ -4965,6 +4965,23 @@
 			"modelId": "345"
 		},
 		{
+			"monsterGroupId": "346",
+			"monsterCollectionId": "60346",
+			"monsterName": "奧米加獸Alter-S",
+			"simpleDescription": "",
+			"description": "戰鬥暴龍獸的亞種「電光暴龍獸」與鋼鐵加魯魯獸的亞種「偃月加魯魯獸」，兩者融合而誕生的嶄新奧米加獸。與皇家騎士的奧米加獸為不同的個體，但兼具兩者特性之多重類型的性能不變，連強度也相等。",
+			"growStep": "7",
+			"tribe": "6",
+			"partyCharaPosX": "-0.02",
+			"partyCharaPosY": "-1.52",
+			"partyCharaPosZ": "-0.45",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "346"
+		},
+		{
 			"monsterGroupId": "348",
 			"monsterCollectionId": "60348",
 			"monsterName": "顱骨獸X抗體",

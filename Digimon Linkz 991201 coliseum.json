@@ -144,6 +144,19 @@
 			"extraRewardRate": "3"
 		},
 		{
+			"colosseumId": "10014",
+			"title": "第14期",
+			"openStatus": "1",
+			"prevColosseumId": "10013",
+			"openTime": "2019-01-01 14:00:00",
+			"startDate": "2019-01-01",
+			"endDate": "2019-02-01",
+			"closeTime": "2019-02-01 13:59:59",
+			"worldDungeonId": "10001",
+			"rewardGroupId": "100014",
+			"extraRewardRate": "3"
+		},
+		{
 			"colosseumId": "100001",
 			"title": "第1期",
 			"openStatus": "1",

@@ -14281,6 +14281,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "970",
+			"name": "加魯魯颶風劍",
+			"simpleDescription": "",
+			"description": "以無屬性攻擊給予敵人單體數次物理中傷害，且有一定機率使敵人陷入暈眩。",
+			"type": "2",
+			"skillGroupId": "346",
+			"skillGroupSubId": "1",
+			"needPoint": "2",
+			"inheritancePrice": "300",
+			"attackEffect": "346",
+			"soundEffect": "bt_924",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "971",
+			"name": "暴龍加農炮",
+			"simpleDescription": "",
+			"description": "以雷屬性攻擊給予敵人單體物理特大傷害，且有一定機率減少敵人1AP。",
+			"type": "2",
+			"skillGroupId": "346",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "346_2",
+			"soundEffect": "bt_925",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "974",
 			"name": "赫金華爾茲",
 			"simpleDescription": "",

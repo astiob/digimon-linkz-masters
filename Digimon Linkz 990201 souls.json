@@ -865,6 +865,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070346",
+			"soulName": "奧米加獸Alter-S的資料碎片",
+			"description": "進化成奧米加獸Alter-S時所需的資料碎片。",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070348",
 			"soulName": "顱骨獸X抗體的資料碎片",
 			"description": "進化成顱骨獸X抗體時所需的資料碎片。",
