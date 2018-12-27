@@ -324,6 +324,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "60004",
+			"name": "새해 교환권 2019",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_60004",
+				"EventResource/Item/item_60004"
+			],
+			"unitName": "개 ",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "70002",
 			"name": "1주년 기념 교환권",
 			"description": "교환소에서 원하는 궁극체 디지몬으로 교환할 수 있는 교환권.",
