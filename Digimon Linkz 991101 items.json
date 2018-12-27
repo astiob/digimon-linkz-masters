@@ -324,6 +324,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "60004",
+			"name": "新春兌換券2019",
+			"description": "可在交換所兌換各種東西。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_60004",
+				"EventResource/Item/item_60004"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "70002",
 			"name": "1週年紀念兌換券",
 			"description": "可在交換所兌換任意究極體數碼寶貝的兌換券。",
