@@ -1203,6 +1203,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "96",
+			"name": "瞬速の断片データ",
+			"description": "瞬速のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_96",
+				"EventResource/Item/item_96"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "50001",
 			"name": "特上肉",
 			"description": "特別な畑で取れた特上の肉。これでデジモンも気分上々。",
@@ -1262,6 +1275,19 @@
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_60003",
 				"EventResource/Item/item_60003"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "60004",
+			"name": "新春引換券2019",
+			"description": "交換所でデジモンやチップと交換できる引換券",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_60004",
+				"EventResource/Item/item_60004"
 			],
 			"unitName": "個",
 			"upValue": "1",

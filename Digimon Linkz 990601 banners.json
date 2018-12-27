@@ -8504,6 +8504,17 @@
 			"endTime": "2018-12-26 23:59:59"
 		},
 		{
+			"bannerId": "811",
+			"actionType": "menu",
+			"name": "イベント「瞬速 X 紅馬」開催！",
+			"img": "/events/syuusyuu/58/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1301",
+			"dispNum": "50",
+			"startTime": "2018-12-27 18:00:00",
+			"endTime": "2019-01-02 23:59:59"
+		},
+		{
 			"bannerId": "813",
 			"actionType": "menu",
 			"name": "クリスマス記念キャプチャ開催！",
@@ -8513,6 +8524,50 @@
 			"dispNum": "2",
 			"startTime": "2018-12-24 16:00:00",
 			"endTime": "2018-12-31 23:59:59"
+		},
+		{
+			"bannerId": "814",
+			"actionType": "menu",
+			"name": "新春才能メダルキャプチャ開催！",
+			"img": "/gasha/special/10208/10208_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1307",
+			"dispNum": "5",
+			"startTime": "2018-12-27 16:00:00",
+			"endTime": "2019-01-03 23:59:59"
+		},
+		{
+			"bannerId": "815",
+			"actionType": "menu",
+			"name": "才能メダル引き継ぎ確率UPキャンペーン開催",
+			"img": "/campaign/11002/11002_labomedal.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1308",
+			"dispNum": "100",
+			"startTime": "2018-12-27 16:00:00",
+			"endTime": "2019-01-03 23:59:59"
+		},
+		{
+			"bannerId": "816",
+			"actionType": "menu",
+			"name": "ニューイヤーログインボーナス開催！",
+			"img": "/login/10031/10031_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1309",
+			"dispNum": "100",
+			"startTime": "2018-12-28 05:00:00",
+			"endTime": "2019-01-04 04:59:59"
+		},
+		{
+			"bannerId": "817",
+			"actionType": "menu",
+			"name": "瞬速 X 紅馬 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30104/30104_banner_1.png?v=3",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1312",
+			"dispNum": "7",
+			"startTime": "2018-12-27 16:00:00",
+			"endTime": "2019-01-02 23:59:59"
 		}
 	]
 }

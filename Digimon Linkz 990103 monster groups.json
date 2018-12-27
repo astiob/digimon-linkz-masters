@@ -5033,6 +5033,23 @@
 			"modelId": "349"
 		},
 		{
+			"monsterGroupId": "350",
+			"monsterCollectionId": "60350",
+			"monsterName": "スレイプモンX抗体",
+			"simpleDescription": "",
+			"description": "従来の６本脚に加え４本腕に変化したことによって、装填から発射までに隙は無く、瞬間高速移動の中で絶え間なく射撃を繰り出す。必殺技は背中の羽を合体させた「究極戦弩弓エインヘリアル」から全てを灼き尽くす業火を纏った光矢『スルトブランダー』を放つ。",
+			"growStep": "7",
+			"tribe": "6",
+			"partyCharaPosX": "0",
+			"partyCharaPosY": "-1.2",
+			"partyCharaPosZ": "0.5",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "350"
+		},
+		{
 			"monsterGroupId": "5002",
 			"monsterCollectionId": "0",
 			"monsterName": "アグモン",

@@ -834,6 +834,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1101",
+			"name": "第21回覇者",
+			"detail": "第21回コロシアムの覇者に送られる栄光の証",
+			"img": "honorific_colosseum_101",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1102",
+			"name": "第21回SSSランカー",
+			"detail": "第21回コロシアムの最上位ランカーに送られる栄誉の証",
+			"img": "honorific_colosseum_102",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1103",
+			"name": "第21回SSランカー",
+			"detail": "第21回コロシアムの上位ランカーに送られる名誉の証",
+			"img": "honorific_colosseum_103",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1104",
+			"name": "第21回Sランカー",
+			"detail": "第21回コロシアムのランカーに送られる名声の証",
+			"img": "honorific_colosseum_104",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1105",
+			"name": "第21回挑戦者",
+			"detail": "第21回コロシアムの挑戦者に送られる証",
+			"img": "honorific_colosseum_105",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10001",
 			"name": "竜帝の系譜トップ100",
 			"detail": "イベント「竜帝の系譜」トップ100位に送られる栄誉の証",
