@@ -1153,6 +1153,24 @@
 			"death": "0"
 		},
 		{
+			"monsterResistanceId": "66",
+			"description": "",
+			"fire": "0",
+			"water": "0",
+			"thunder": "0",
+			"nature": "-1",
+			"none": "0",
+			"light": "1",
+			"dark": "-1",
+			"poison": "1",
+			"confusion": "1",
+			"paralysis": "0",
+			"sleep": "-1",
+			"stun": "-1",
+			"skillLock": "-1",
+			"death": "0"
+		},
+		{
 			"monsterResistanceId": "67",
 			"description": "",
 			"fire": "-1",
@@ -1186,6 +1204,24 @@
 			"sleep": "1",
 			"stun": "1",
 			"skillLock": "1",
+			"death": "1"
+		},
+		{
+			"monsterResistanceId": "69",
+			"description": "",
+			"fire": "0",
+			"water": "0",
+			"thunder": "-1",
+			"nature": "0",
+			"none": "0",
+			"light": "1",
+			"dark": "-1",
+			"poison": "0",
+			"confusion": "-1",
+			"paralysis": "-1",
+			"sleep": "1",
+			"stun": "-1",
+			"skillLock": "0",
 			"death": "1"
 		},
 		{

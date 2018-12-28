@@ -9527,6 +9527,138 @@
 			"effect": "chip_effect_10148"
 		},
 		{
+			"chipId": "100431",
+			"chipGroupId": "10149",
+			"name": "Swift X Drop Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10149",
+			"detail": "ATK +20. Also increases Data Byte drop by 1 in \"Swift X Red Horse\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100432",
+			"chipGroupId": "10149",
+			"name": "Swift X Drop Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10149",
+			"detail": "ATK +30. Also increases Data Byte drop by 3 in \"Swift X Red Horse\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100433",
+			"chipGroupId": "10149",
+			"name": "Swift X Drop Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10149",
+			"detail": "ATK +50. Also increases Data Byte drop by 9 in \"Swift X Red Horse\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100434",
+			"chipGroupId": "10150",
+			"name": "Swift X EX stage Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10150",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"Swift X Red Horse\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100435",
+			"chipGroupId": "10150",
+			"name": "Swift X EX stage Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10150",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"Swift X Red Horse\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100436",
+			"chipGroupId": "10150",
+			"name": "Swift X EX stage Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10150",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Swift X Red Horse\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100437",
+			"chipGroupId": "10151",
+			"name": "Burst Drop Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10151",
+			"detail": "ATK +20. Also increases Data Byte drop by 1 in \"Burst RUSH!\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100438",
+			"chipGroupId": "10151",
+			"name": "Burst Drop Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10151",
+			"detail": "ATK +30. Also increases Data Byte drop by 3 in \"Burst RUSH!\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100439",
+			"chipGroupId": "10151",
+			"name": "Burst Drop Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10151",
+			"detail": "ATK +50. Also increases Data Byte drop by 9 in \"Burst RUSH!\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100440",
+			"chipGroupId": "10152",
+			"name": "Burst EX stage Specialty Chip  C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10152",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"Burst RUSH!\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100441",
+			"chipGroupId": "10152",
+			"name": "Burst EX stage Specialty Chip  B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10152",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"Burst RUSH!\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100442",
+			"chipGroupId": "10152",
+			"name": "Burst EX stage Specialty Chip  A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10152",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Burst RUSH!\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",

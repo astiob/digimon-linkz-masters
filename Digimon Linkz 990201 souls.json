@@ -873,6 +873,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070347",
+			"soulName": "Leopardmon X Anti-body Data Fragment",
+			"description": "A data fragment required to Digivolve into Leopardmon X Anti-body.",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1070348",
 			"soulName": "Craniamon X Anti-body Data Fragment",
 			"description": "A data fragment required to Digivolve into Craniamon X Anti-body.",
@@ -884,6 +892,14 @@
 			"soulId": "1070349",
 			"soulName": "Apocalymon Data Fragment",
 			"description": "A data fragment required to Digivolve into Apocalymon.",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
+			"soulId": "1070350",
+			"soulName": "Kentaurosmon X Anti-body Data Fragment",
+			"description": "A data fragment required to Digivolve into Kentaurosmon X Anti-body.",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"

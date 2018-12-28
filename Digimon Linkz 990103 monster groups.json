@@ -4982,6 +4982,23 @@
 			"modelId": "346"
 		},
 		{
+			"monsterGroupId": "347",
+			"monsterCollectionId": "60347",
+			"monsterName": "Leopardmon X Anti-body",
+			"simpleDescription": "",
+			"description": "Its Chrome Digizoid armor has converted into more flexible Brown Digizoid armor, and tremendously enhanced Leopardmon's smooth movements. Even if attacked from all sides at once, it can easily avoid everything with its outstanding Braun Nebel skill.",
+			"growStep": "7",
+			"tribe": "6",
+			"partyCharaPosX": "0",
+			"partyCharaPosY": "-1.46",
+			"partyCharaPosZ": "-0.41",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "347"
+		},
+		{
 			"monsterGroupId": "348",
 			"monsterCollectionId": "60348",
 			"monsterName": "Craniamon X Anti-body",
@@ -5014,6 +5031,23 @@
 			"monsterStatusId": "0",
 			"leaderSkillId": "0",
 			"modelId": "349"
+		},
+		{
+			"monsterGroupId": "350",
+			"monsterCollectionId": "60350",
+			"monsterName": "Kentaurosmon X Anti-body",
+			"simpleDescription": "",
+			"description": "In addition to its 6 legs, now it has 4 arms, meaning it can reload in an instant, and fire off continuous shots while moving rapidly. For its special move, it forms the Great Battle Bow Einherjar from the wings on its back and fires a powerful arrow of light, named Surtr Brander, that burns all in its path.",
+			"growStep": "7",
+			"tribe": "6",
+			"partyCharaPosX": "0",
+			"partyCharaPosY": "-1.2",
+			"partyCharaPosZ": "0.5",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "350"
 		},
 		{
 			"monsterGroupId": "6001",
