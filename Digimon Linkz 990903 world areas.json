@@ -325,6 +325,30 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1105",
+			"worldId": "6",
+			"priority": "10",
+			"name": "신속 X 홍마",
+			"img": "syuusyuu/58/Holding_1.png",
+			"description": "신속 X 홍마",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "1106",
+			"worldId": "6",
+			"priority": "10",
+			"name": "버스트 RUSH!",
+			"img": "syuusyuu/59/Holding_1.png",
+			"description": "버스트 RUSH!",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "100001",
 			"worldId": "6",
 			"priority": "10",

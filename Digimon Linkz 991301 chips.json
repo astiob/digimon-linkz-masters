@@ -9527,6 +9527,138 @@
 			"effect": "chip_effect_10148"
 		},
 		{
+			"chipId": "100431",
+			"chipGroupId": "10149",
+			"name": "신속X 드롭 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10149",
+			"detail": "ATK+20, ‘신속 X 홍마’에서 데이터 단편의 획득 수 +1",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100432",
+			"chipGroupId": "10149",
+			"name": "신속X 드롭 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10149",
+			"detail": "ATK+30, ‘신속 X 홍마’에서 데이터 단편의 획득 수 +3",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100433",
+			"chipGroupId": "10149",
+			"name": "신속X 드롭 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10149",
+			"detail": "ATK+50, ‘신속 X 홍마’에서 데이터 단편의 획득 수 +9",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100434",
+			"chipGroupId": "10150",
+			"name": "신속X EX STAGE 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10150",
+			"detail": "S-ATK+20, ‘신속 X 홍마’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100435",
+			"chipGroupId": "10150",
+			"name": "신속X EX STAGE 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10150",
+			"detail": "S-ATK+30, ‘신속 X 홍마’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100436",
+			"chipGroupId": "10150",
+			"name": "신속X EX STAGE 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10150",
+			"detail": "S-ATK+50, ‘신속 X 홍마’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100437",
+			"chipGroupId": "10151",
+			"name": "버스트의 드롭 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10151",
+			"detail": "ATK+20, ‘버스트 RUSH!’에서 데이터 단편의 획득 수 +1",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100438",
+			"chipGroupId": "10151",
+			"name": "버스트의 드롭 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10151",
+			"detail": "ATK+30, ‘버스트 RUSH!’에서 데이터 단편의 획득 수 +3",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100439",
+			"chipGroupId": "10151",
+			"name": "버스트의 드롭 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10151",
+			"detail": "ATK+50, ‘버스트 RUSH!’에서 데이터 단편의 획득 수 +9",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100440",
+			"chipGroupId": "10152",
+			"name": "버스트의 EX STAGE 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10152",
+			"detail": "S-ATK+20, ‘버스트 RUSH!’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100441",
+			"chipGroupId": "10152",
+			"name": "버스트의 EX STAGE 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10152",
+			"detail": "S-ATK+30, ‘버스트 RUSH!’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100442",
+			"chipGroupId": "10152",
+			"name": "버스트의 EX STAGE 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10152",
+			"detail": "S-ATK+50, ‘버스트 RUSH!’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_10146"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "파괴와 구세의 Pt 특효 C",

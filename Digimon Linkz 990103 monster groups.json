@@ -4982,6 +4982,23 @@
 			"modelId": "346"
 		},
 		{
+			"monsterGroupId": "347",
+			"monsterCollectionId": "60347",
+			"monsterName": "두프트몬X항체",
+			"simpleDescription": "",
+			"description": "몸을 뒤덮은 크롬디지조이드 갑옷은 매우 유연한 “브라운디지조이드”가 되어 두프트몬의 부드러운 움직임을 폭발적으로 향상시켰다. 설령 사방에서 공격을 받더라도 그 뛰어난 체술 ‘브라온 네벨’로 모두 회피해 버릴 것이다.",
+			"growStep": "7",
+			"tribe": "6",
+			"partyCharaPosX": "0",
+			"partyCharaPosY": "-1.46",
+			"partyCharaPosZ": "-0.41",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "347"
+		},
+		{
 			"monsterGroupId": "348",
 			"monsterCollectionId": "60348",
 			"monsterName": "크레니엄몬X항체",
@@ -5014,6 +5031,23 @@
 			"monsterStatusId": "0",
 			"leaderSkillId": "0",
 			"modelId": "349"
+		},
+		{
+			"monsterGroupId": "350",
+			"monsterCollectionId": "60350",
+			"monsterName": "슬레이프몬X항체",
+			"simpleDescription": "",
+			"description": "기존의 6개의 다리에 더해 팔이 4개로 늘어난 것으로 인해 장전부터 발사까지 빈틈이 없으며, 순간적으로 고속 이동하는 중에도 끊임없는 사격을 퍼붓는다. \r\n필살기로는 등의 날개를 합체시킨 ‘궁극전노궁 에인헤랴르’로 모든 것을 태워버리는 업화를 두른 빛의 화살 “수르트 브랜더”를 발사한다.\r\n",
+			"growStep": "7",
+			"tribe": "6",
+			"partyCharaPosX": "0",
+			"partyCharaPosY": "-1.2",
+			"partyCharaPosZ": "0.5",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "350"
 		},
 		{
 			"monsterGroupId": "6001",
