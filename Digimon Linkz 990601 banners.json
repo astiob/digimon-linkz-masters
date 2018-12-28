@@ -8515,6 +8515,17 @@
 			"endTime": "2019-01-02 23:59:59"
 		},
 		{
+			"bannerId": "812",
+			"actionType": "menu",
+			"name": "イベント「乱戦-バースト-」開催！",
+			"img": "/events/syuusyuu/59/Holding_4.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1303",
+			"dispNum": "50",
+			"startTime": "2019-01-03 18:00:00",
+			"endTime": "2019-01-09 23:59:59"
+		},
+		{
 			"bannerId": "813",
 			"actionType": "menu",
 			"name": "クリスマス記念キャプチャ開催！",
@@ -8568,6 +8579,28 @@
 			"dispNum": "7",
 			"startTime": "2018-12-27 16:00:00",
 			"endTime": "2019-01-02 23:59:59"
+		},
+		{
+			"bannerId": "818",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10209/10209_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1314",
+			"dispNum": "3",
+			"startTime": "2019-01-03 16:00:00",
+			"endTime": "2019-01-17 15:59:59"
+		},
+		{
+			"bannerId": "819",
+			"actionType": "menu",
+			"name": "乱戦 -バースト- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30105/30105_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1315",
+			"dispNum": "7",
+			"startTime": "2019-01-03 16:00:00",
+			"endTime": "2019-01-09 23:59:59"
 		}
 	]
 }
