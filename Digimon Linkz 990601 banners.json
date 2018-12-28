@@ -2696,6 +2696,28 @@
 			"endTime": "2018-12-30 13:59:59"
 		},
 		{
+			"bannerId": "100248",
+			"actionType": "menu",
+			"name": "舉辦活動「瞬速 X 紅馬」！",
+			"img": "/events/syuusyuu/58/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=481",
+			"dispNum": "50",
+			"startTime": "2018-12-31 18:00:00",
+			"endTime": "2019-01-06 13:59:59"
+		},
+		{
+			"bannerId": "100249",
+			"actionType": "menu",
+			"name": "舉辦活動「爆裂 RUSH!」！",
+			"img": "/events/syuusyuu/59/Holding_4.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=483",
+			"dispNum": "50",
+			"startTime": "2019-01-07 18:00:00",
+			"endTime": "2019-01-13 13:59:59"
+		},
+		{
 			"bannerId": "100250",
 			"actionType": "menu",
 			"name": "舉辦「究極體大會捕捉」！",
@@ -2771,6 +2793,28 @@
 			"dispNum": "19",
 			"startTime": "2018-12-31 16:00:00",
 			"endTime": "2019-01-06 13:59:59"
+		},
+		{
+			"bannerId": "100257",
+			"actionType": "menu",
+			"name": "舉辦「究極體大會捕捉」！",
+			"img": "/gasha/special/10209/10209_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=495",
+			"dispNum": "15",
+			"startTime": "2019-01-07 16:00:00",
+			"endTime": "2019-01-21 15:59:59"
+		},
+		{
+			"bannerId": "100258",
+			"actionType": "menu",
+			"name": "舉辦「爆裂 RUSH!」特效晶片捕捉！",
+			"img": "/gasha/special/30105/30105_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=496",
+			"dispNum": "19",
+			"startTime": "2019-01-07 16:00:00",
+			"endTime": "2019-01-13 13:59:59"
 		}
 	]
 }

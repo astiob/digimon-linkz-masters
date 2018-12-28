@@ -9527,6 +9527,138 @@
 			"effect": "chip_effect_10148"
 		},
 		{
+			"chipId": "100431",
+			"chipGroupId": "10149",
+			"name": "瞬速X 掉落特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10149",
+			"detail": "ATK+20。並且於「瞬速 X 紅馬」中使片斷資料的獲得個數+1。",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100432",
+			"chipGroupId": "10149",
+			"name": "瞬速X 掉落特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10149",
+			"detail": "ATK+30。並且於「瞬速 X 紅馬」中使片斷資料的獲得個數+3。",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100433",
+			"chipGroupId": "10149",
+			"name": "瞬速X 掉落特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10149",
+			"detail": "ATK+50。並且於「瞬速 X 紅馬」中使片斷資料的獲得個數+9。",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100434",
+			"chipGroupId": "10150",
+			"name": "瞬速X EXTRA STAGE特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10150",
+			"detail": "S-ATK+20。並且於「瞬速 X 紅馬」中令EXTRA STAGE的發動率小幅提升。",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100435",
+			"chipGroupId": "10150",
+			"name": "瞬速X EXTRA STAGE特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10150",
+			"detail": "S-ATK+30。並且於「瞬速 X 紅馬」中令EXTRA STAGE的發動率中幅提升。",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100436",
+			"chipGroupId": "10150",
+			"name": "瞬速X EXTRA STAGE特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10150",
+			"detail": "S-ATK+50。並且於「瞬速 X 紅馬」中令EXTRA STAGE的發動率大幅提升。",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100437",
+			"chipGroupId": "10151",
+			"name": "爆裂的 掉落特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10151",
+			"detail": "ATK+20。並且於「爆裂 RUSH!」中使片斷資料的獲得個數+1。",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100438",
+			"chipGroupId": "10151",
+			"name": "爆裂的 掉落特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10151",
+			"detail": "ATK+30。並且於「爆裂 RUSH!」中使片斷資料的獲得個數+3。",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100439",
+			"chipGroupId": "10151",
+			"name": "爆裂的 掉落特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10151",
+			"detail": "ATK+50。並且於「爆裂 RUSH!」中使片斷資料的獲得個數+9。",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100440",
+			"chipGroupId": "10152",
+			"name": "爆裂的 EXTRA STAGE特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10152",
+			"detail": "S-ATK+20。並且於「爆裂 RUSH!」中令EXTRA STAGE的發動率小幅提升。",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100441",
+			"chipGroupId": "10152",
+			"name": "爆裂的 EXTRA STAGE特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10152",
+			"detail": "S-ATK+30。並且於「爆裂 RUSH!」中令EXTRA STAGE的發動率中幅提升。",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100442",
+			"chipGroupId": "10152",
+			"name": "爆裂的 EXTRA STAGE特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10152",
+			"detail": "S-ATK+50。並且於「爆裂 RUSH!」中令EXTRA STAGE的發動率大幅提升。",
+			"effect": "chip_effect_10146"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "破壞與救世的Pt特效 C",

@@ -4982,6 +4982,23 @@
 			"modelId": "346"
 		},
 		{
+			"monsterGroupId": "347",
+			"monsterCollectionId": "60347",
+			"monsterName": "芳香獸X抗體",
+			"simpleDescription": "",
+			"description": "覆蓋在芳香獸身上的數碼合金之鎧變化為十分柔軟的「褐數碼合金」，使它柔順的動作有了爆炸性的強化。即便是受到四面八方的同時進攻，它也能用其卓越的體術「棕褐之霧」迴避一切攻擊吧。",
+			"growStep": "7",
+			"tribe": "6",
+			"partyCharaPosX": "0",
+			"partyCharaPosY": "-1.46",
+			"partyCharaPosZ": "-0.41",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "347"
+		},
+		{
 			"monsterGroupId": "348",
 			"monsterCollectionId": "60348",
 			"monsterName": "顱骨獸X抗體",
@@ -5014,6 +5031,23 @@
 			"monsterStatusId": "0",
 			"leaderSkillId": "0",
 			"modelId": "349"
+		},
+		{
+			"monsterGroupId": "350",
+			"monsterCollectionId": "60350",
+			"monsterName": "八腳馬獸X抗體",
+			"simpleDescription": "",
+			"description": "維持以往的６條腿,並將手臂變化至４隻,使它能從裝填到發射完全沒有間隙,在瞬間高速移動中不間斷地進行射擊。必殺技為用背上的翅膀合體而成的「究極戰弩弓恩赫里亞」,發射出纏繞著燒盡一切的業火的光矢「史爾特爾之掠奪」。",
+			"growStep": "7",
+			"tribe": "6",
+			"partyCharaPosX": "0",
+			"partyCharaPosY": "-1.2",
+			"partyCharaPosZ": "0.5",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "350"
 		},
 		{
 			"monsterGroupId": "6001",
