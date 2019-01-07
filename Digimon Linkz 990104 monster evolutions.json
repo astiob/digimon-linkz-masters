@@ -31051,6 +31051,15 @@
 			"monsterEvolutionMaterialId": 20041
 		},
 		{
+			"monsterEvolutionId": "200046",
+			"baseMonsterId": "880",
+			"nextMonsterId": "20046",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20046
+		},
+		{
 			"monsterEvolutionId": "200051",
 			"baseMonsterId": "885",
 			"nextMonsterId": "20051",
@@ -31112,6 +31121,15 @@
 			"effectType": "5",
 			"effectMonsterId": "0",
 			"monsterEvolutionMaterialId": 20096
+		},
+		{
+			"monsterEvolutionId": "200106",
+			"baseMonsterId": "940",
+			"nextMonsterId": "20106",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20106
 		},
 		{
 			"monsterEvolutionId": "200111",
@@ -31249,6 +31267,15 @@
 			"monsterEvolutionMaterialId": 20256
 		},
 		{
+			"monsterEvolutionId": "200261",
+			"baseMonsterId": "1095",
+			"nextMonsterId": "20261",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20261
+		},
+		{
 			"monsterEvolutionId": "200266",
 			"baseMonsterId": "1100",
 			"nextMonsterId": "20266",
@@ -31283,6 +31310,33 @@
 			"effectType": "5",
 			"effectMonsterId": "0",
 			"monsterEvolutionMaterialId": 20286
+		},
+		{
+			"monsterEvolutionId": "200306",
+			"baseMonsterId": "1140",
+			"nextMonsterId": "20306",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20306
+		},
+		{
+			"monsterEvolutionId": "200316",
+			"baseMonsterId": "1150",
+			"nextMonsterId": "20316",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20316
+		},
+		{
+			"monsterEvolutionId": "200321",
+			"baseMonsterId": "1155",
+			"nextMonsterId": "20321",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20321
 		},
 		{
 			"monsterEvolutionId": "200331",
@@ -31321,6 +31375,42 @@
 			"monsterEvolutionMaterialId": 20386
 		},
 		{
+			"monsterEvolutionId": "200391",
+			"baseMonsterId": "1510",
+			"nextMonsterId": "20416",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20391
+		},
+		{
+			"monsterEvolutionId": "200396",
+			"baseMonsterId": "1515",
+			"nextMonsterId": "20421",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20396
+		},
+		{
+			"monsterEvolutionId": "200401",
+			"baseMonsterId": "1520",
+			"nextMonsterId": "20426",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20401
+		},
+		{
+			"monsterEvolutionId": "200406",
+			"baseMonsterId": "1525",
+			"nextMonsterId": "20431",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20406
+		},
+		{
 			"monsterEvolutionId": "200411",
 			"baseMonsterId": "1580",
 			"nextMonsterId": "20436",
@@ -31337,6 +31427,15 @@
 			"effectType": "5",
 			"effectMonsterId": "0",
 			"monsterEvolutionMaterialId": 20416
+		},
+		{
+			"monsterEvolutionId": "200436",
+			"baseMonsterId": "1640",
+			"nextMonsterId": "20466",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20436
 		},
 		{
 			"monsterEvolutionId": "200446",
@@ -31438,6 +31537,42 @@
 			"monsterEvolutionMaterialId": 40031
 		},
 		{
+			"monsterEvolutionId": "400051",
+			"baseMonsterId": "20106",
+			"nextMonsterId": "20416",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 40051
+		},
+		{
+			"monsterEvolutionId": "400056",
+			"baseMonsterId": "20261",
+			"nextMonsterId": "20421",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 40056
+		},
+		{
+			"monsterEvolutionId": "400061",
+			"baseMonsterId": "20306",
+			"nextMonsterId": "20426",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 40061
+		},
+		{
+			"monsterEvolutionId": "400066",
+			"baseMonsterId": "20316",
+			"nextMonsterId": "20431",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 40066
+		},
+		{
 			"monsterEvolutionId": "400071",
 			"baseMonsterId": "20436",
 			"nextMonsterId": "20041",
@@ -31454,6 +31589,15 @@
 			"effectType": "4",
 			"effectMonsterId": "20436",
 			"monsterEvolutionMaterialId": 40076
+		},
+		{
+			"monsterEvolutionId": "400091",
+			"baseMonsterId": "20106",
+			"nextMonsterId": "20466",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 40091
 		}
 	]
 }
