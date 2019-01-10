@@ -3693,6 +3693,19 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6177",
+			"worldAreaId": "1107",
+			"priority": "1050",
+			"name": "信義と信念",
+			"description": "ポイントや断片データを集めて究極体を手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "point/42/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",
