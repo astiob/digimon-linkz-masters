@@ -6337,6 +6337,50 @@
 			"effect": "chip_effect_91"
 		},
 		{
+			"chipId": "1009",
+			"chipGroupId": "113",
+			"name": "환생 킬러 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "6",
+			"icon": "chip_113",
+			"detail": "공격 대상이 환생계일 때 대미지+10%\nDEF-20%, S-DEF-20%",
+			"effect": "chip_effect_113"
+		},
+		{
+			"chipId": "1010",
+			"chipGroupId": "113",
+			"name": "환생 킬러 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_113",
+			"detail": "공격 대상이 환생계일 때 대미지+12%\nDEF-18%, S-DEF-18%",
+			"effect": "chip_effect_113"
+		},
+		{
+			"chipId": "1011",
+			"chipGroupId": "113",
+			"name": "환생 킬러 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_113",
+			"detail": "공격 대상이 환생계일 때 대미지+15%\nDEF-15%, S-DEF-15%",
+			"effect": "chip_effect_113"
+		},
+		{
+			"chipId": "1012",
+			"chipGroupId": "113",
+			"name": "환생 킬러 S",
+			"rank": "8",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_113",
+			"detail": "공격 대상이 환생계일 때 대미지+18%\nDEF-12%, S-DEF-12%",
+			"effect": "chip_effect_113"
+		},
+		{
 			"chipId": "1015",
 			"chipGroupId": "107",
 			"name": "양염 킬러 G",
@@ -9657,6 +9701,72 @@
 			"icon": "chip_10152",
 			"detail": "S-ATK+50, ‘버스트 RUSH!’에서 EXTRA STAGE 발생 확률 크게 상승",
 			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100443",
+			"chipGroupId": "10153",
+			"name": "신의와 신념의 Pt 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10153",
+			"detail": "ATK+20, ‘신의와 신념’에서 획득 포인트 1.5배",
+			"effect": "chip_effect_10153"
+		},
+		{
+			"chipId": "100444",
+			"chipGroupId": "10153",
+			"name": "신의와 신념의 Pt 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10153",
+			"detail": "ATK+30, ‘신의와 신념’에서 획득 포인트 2.5배",
+			"effect": "chip_effect_10153"
+		},
+		{
+			"chipId": "100445",
+			"chipGroupId": "10153",
+			"name": "신의와 신념의 Pt 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10153",
+			"detail": "ATK+50, ‘신의와 신념록-’에서 획득 포인트 5.5배",
+			"effect": "chip_effect_10153"
+		},
+		{
+			"chipId": "100446",
+			"chipGroupId": "10154",
+			"name": "신의와 신념의 EX STAGE 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10154",
+			"detail": "S-ATK+20, ‘신의와 신념-’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_10154"
+		},
+		{
+			"chipId": "100447",
+			"chipGroupId": "10154",
+			"name": "신의와 신념의 EX STAGE 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10154",
+			"detail": "S-ATK+30, ‘신의와 신념’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_10154"
+		},
+		{
+			"chipId": "100448",
+			"chipGroupId": "10154",
+			"name": "신의와 신념의 EX STAGE 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10154",
+			"detail": "S-ATK+50, ‘신의와 신념’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_10154"
 		},
 		{
 			"chipId": "10000001",
