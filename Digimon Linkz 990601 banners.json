@@ -2815,6 +2815,50 @@
 			"dispNum": "19",
 			"startTime": "2019-01-07 16:00:00",
 			"endTime": "2019-01-13 13:59:59"
+		},
+		{
+			"bannerId": "100259",
+			"actionType": "menu",
+			"name": "舉辦「信義與信念」特效晶片捕捉！",
+			"img": "/gasha/special/30106/30106_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=500",
+			"dispNum": "19",
+			"startTime": "2019-01-14 16:00:00",
+			"endTime": "2019-01-20 13:59:59"
+		},
+		{
+			"bannerId": "100260",
+			"actionType": "menu",
+			"name": "舉辦活動「爆炎的龍影」！",
+			"img": "/events/syuusyuu/10001/Holding_5.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=502",
+			"dispNum": "51",
+			"startTime": "2019-01-18 18:00:00",
+			"endTime": "2019-01-21 23:59:59"
+		},
+		{
+			"bannerId": "100261",
+			"actionType": "menu",
+			"name": "爆炎龍養成入場券捕捉",
+			"img": "/gasha/special/200015/200015_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=503",
+			"dispNum": "25",
+			"startTime": "2019-01-18 16:00:00",
+			"endTime": "2019-01-21 23:59:59"
+		},
+		{
+			"bannerId": "100262",
+			"actionType": "menu",
+			"name": "舉辦活動「信義與信念」！",
+			"img": "/events/point/42/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=505",
+			"dispNum": "50",
+			"startTime": "2019-01-14 18:00:00",
+			"endTime": "2019-01-20 13:59:59"
 		}
 	]
 }

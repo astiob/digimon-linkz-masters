@@ -6337,6 +6337,50 @@
 			"effect": "chip_effect_91"
 		},
 		{
+			"chipId": "1009",
+			"chipGroupId": "113",
+			"name": "幻生剋星 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "6",
+			"icon": "chip_113",
+			"detail": "攻擊幻生系種族時，造成傷害+10%。\n裝備時DEF-20%、S-DEF-20%。",
+			"effect": "chip_effect_113"
+		},
+		{
+			"chipId": "1010",
+			"chipGroupId": "113",
+			"name": "幻生剋星 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_113",
+			"detail": "攻擊幻生系種族時，造成傷害+12%。\n裝備時DEF-18%、S-DEF-18%。",
+			"effect": "chip_effect_113"
+		},
+		{
+			"chipId": "1011",
+			"chipGroupId": "113",
+			"name": "幻生剋星 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_113",
+			"detail": "攻擊幻生系種族時，造成傷害+15%。\n裝備時DEF-15%、S-DEF-15%。",
+			"effect": "chip_effect_113"
+		},
+		{
+			"chipId": "1012",
+			"chipGroupId": "113",
+			"name": "幻生剋星 S",
+			"rank": "8",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_113",
+			"detail": "攻擊幻生系種族時，造成傷害+18%。\n裝備時DEF-12%、S-DEF-12%。",
+			"effect": "chip_effect_113"
+		},
+		{
 			"chipId": "1015",
 			"chipGroupId": "107",
 			"name": "陽炎剋星 G",
@@ -9657,6 +9701,72 @@
 			"icon": "chip_10152",
 			"detail": "S-ATK+50。並且於「爆裂 RUSH!」中令EXTRA STAGE的發動率大幅提升。",
 			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100443",
+			"chipGroupId": "10153",
+			"name": "信義與信念的 Pt特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10153",
+			"detail": "ATK+20。並且於「信義與信念」中獲得的積分變為1.5倍。",
+			"effect": "chip_effect_10153"
+		},
+		{
+			"chipId": "100444",
+			"chipGroupId": "10153",
+			"name": "信義與信念的 Pt特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10153",
+			"detail": "ATK+30。並且於「信義與信念」中獲得的積分變為2.5倍。",
+			"effect": "chip_effect_10153"
+		},
+		{
+			"chipId": "100445",
+			"chipGroupId": "10153",
+			"name": "信義與信念的 Pt特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10153",
+			"detail": "ATK+50。並且於「信義與信念」中獲得的積分變為5.5倍。",
+			"effect": "chip_effect_10153"
+		},
+		{
+			"chipId": "100446",
+			"chipGroupId": "10154",
+			"name": "信義與信念的 EXTRA STAGE特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10154",
+			"detail": "S-ATK+20。並且於「信義與信念」中令EXTRA STAGE的發動率小幅提升。",
+			"effect": "chip_effect_10154"
+		},
+		{
+			"chipId": "100447",
+			"chipGroupId": "10154",
+			"name": "信義與信念的 EXTRA STAGE特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10154",
+			"detail": "S-ATK+30。並且於「信義與信念」中令EXTRA STAGE的發動率中幅提升。",
+			"effect": "chip_effect_10154"
+		},
+		{
+			"chipId": "100448",
+			"chipGroupId": "10154",
+			"name": "信義與信念的 EXTRA STAGE特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10154",
+			"detail": "S-ATK+50。並且於「信義與信念」中令EXTRA STAGE的發動率大幅提升。",
+			"effect": "chip_effect_10154"
 		},
 		{
 			"chipId": "10000001",
