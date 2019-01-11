@@ -6337,6 +6337,50 @@
 			"effect": "chip_effect_91"
 		},
 		{
+			"chipId": "1009",
+			"chipGroupId": "113",
+			"name": "Mirage Killer C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "6",
+			"icon": "chip_113",
+			"detail": "+10% damage when attacking Mirage. DEF -20%, S-DEF -20% when installed",
+			"effect": "chip_effect_113"
+		},
+		{
+			"chipId": "1010",
+			"chipGroupId": "113",
+			"name": "Mirage Killer B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_113",
+			"detail": "+12% damage when attacking Mirage. DEF -18%, S-DEF -18% when installed",
+			"effect": "chip_effect_113"
+		},
+		{
+			"chipId": "1011",
+			"chipGroupId": "113",
+			"name": "Mirage Killer A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_113",
+			"detail": "+15% damage when attacking Mirage. DEF -15%, S-DEF -15% when installed",
+			"effect": "chip_effect_113"
+		},
+		{
+			"chipId": "1012",
+			"chipGroupId": "113",
+			"name": "Mirage Killer S",
+			"rank": "8",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_113",
+			"detail": "+18% damage when attacking Mirage. DEF -12%, S-DEF -12% when installed",
+			"effect": "chip_effect_113"
+		},
+		{
 			"chipId": "1015",
 			"chipGroupId": "107",
 			"name": "Blazing Killer G",
@@ -9657,6 +9701,72 @@
 			"icon": "chip_10152",
 			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Burst RUSH!\" event.",
 			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100443",
+			"chipGroupId": "10153",
+			"name": "Loyalty and Faith Pt Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10153",
+			"detail": "ATK +20. Also increases obtainable Pts by x1.5 in \"Loyalty and Faith\" event.",
+			"effect": "chip_effect_10153"
+		},
+		{
+			"chipId": "100444",
+			"chipGroupId": "10153",
+			"name": "Loyalty and Faith Pt Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10153",
+			"detail": "ATK +30. Also increases obtainable Pts by x2.5 in \"Loyalty and Faith\" event.",
+			"effect": "chip_effect_10153"
+		},
+		{
+			"chipId": "100445",
+			"chipGroupId": "10153",
+			"name": "Loyalty and Faith Pt Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10153",
+			"detail": "ATK +50. Also increases obtainable Pts by x5.5 in \"Loyalty and Faith-\" event.",
+			"effect": "chip_effect_10153"
+		},
+		{
+			"chipId": "100446",
+			"chipGroupId": "10154",
+			"name": "Loyalty and Faith EX stage Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10154",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the EXTRA STAGE in the \"Loyalty and Faith\" event.",
+			"effect": "chip_effect_10154"
+		},
+		{
+			"chipId": "100447",
+			"chipGroupId": "10154",
+			"name": "Loyalty and Faith EX stage Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10154",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the EXTRA STAGE in the \"Loyalty and Faith\" event.",
+			"effect": "chip_effect_10154"
+		},
+		{
+			"chipId": "100448",
+			"chipGroupId": "10154",
+			"name": "Loyalty and Faith EX stage Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10154",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the EXTRA STAGE in the \"Loyalty and Faith\" event.",
+			"effect": "chip_effect_10154"
 		},
 		{
 			"chipId": "10000001",
