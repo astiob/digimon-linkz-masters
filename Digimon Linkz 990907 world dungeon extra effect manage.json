@@ -11129,6 +11129,96 @@
 			"worldDungeonExtraEffectManageId": "2278",
 			"worldDungeonId": "12209",
 			"worldDungeonExtraEffectId": "463"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2279",
+			"worldDungeonId": "12214",
+			"worldDungeonExtraEffectId": "464"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2280",
+			"worldDungeonId": "12214",
+			"worldDungeonExtraEffectId": "465"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2281",
+			"worldDungeonId": "12214",
+			"worldDungeonExtraEffectId": "466"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2282",
+			"worldDungeonId": "12214",
+			"worldDungeonExtraEffectId": "467"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2283",
+			"worldDungeonId": "12214",
+			"worldDungeonExtraEffectId": "468"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2284",
+			"worldDungeonId": "12214",
+			"worldDungeonExtraEffectId": "469"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2285",
+			"worldDungeonId": "12215",
+			"worldDungeonExtraEffectId": "464"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2286",
+			"worldDungeonId": "12215",
+			"worldDungeonExtraEffectId": "465"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2287",
+			"worldDungeonId": "12215",
+			"worldDungeonExtraEffectId": "466"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2288",
+			"worldDungeonId": "12215",
+			"worldDungeonExtraEffectId": "467"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2289",
+			"worldDungeonId": "12215",
+			"worldDungeonExtraEffectId": "468"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2290",
+			"worldDungeonId": "12215",
+			"worldDungeonExtraEffectId": "469"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2291",
+			"worldDungeonId": "12216",
+			"worldDungeonExtraEffectId": "464"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2292",
+			"worldDungeonId": "12216",
+			"worldDungeonExtraEffectId": "465"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2293",
+			"worldDungeonId": "12216",
+			"worldDungeonExtraEffectId": "466"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2294",
+			"worldDungeonId": "12216",
+			"worldDungeonExtraEffectId": "467"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2295",
+			"worldDungeonId": "12216",
+			"worldDungeonExtraEffectId": "468"
+		},
+		{
+			"worldDungeonExtraEffectManageId": "2296",
+			"worldDungeonId": "12216",
+			"worldDungeonExtraEffectId": "469"
 		}
 	]
 }

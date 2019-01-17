@@ -8645,6 +8645,72 @@
 			"dispNum": "50",
 			"startTime": "2019-01-10 18:00:00",
 			"endTime": "2019-01-16 23:59:59"
+		},
+		{
+			"bannerId": "824",
+			"actionType": "menu",
+			"name": "イベント「神槍と魔弾-前編-」開催！",
+			"img": "/events/syuusyuu/60/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1326",
+			"dispNum": "50",
+			"startTime": "2019-01-17 18:00:00",
+			"endTime": "2019-01-30 23:59:59"
+		},
+		{
+			"bannerId": "825",
+			"actionType": "menu",
+			"name": "神槍と魔弾イベントログインボーナス開催！",
+			"img": "/login/10032/10032_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1328",
+			"dispNum": "100",
+			"startTime": "2019-01-18 05:00:00",
+			"endTime": "2019-02-01 04:59:59"
+		},
+		{
+			"bannerId": "826",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10210/10210_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1329",
+			"dispNum": "3",
+			"startTime": "2019-01-17 16:00:00",
+			"endTime": "2019-01-31 15:59:59"
+		},
+		{
+			"bannerId": "827",
+			"actionType": "menu",
+			"name": "神槍と魔弾-前編- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30107/30107_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1330",
+			"dispNum": "7",
+			"startTime": "2019-01-17 16:00:00",
+			"endTime": "2019-01-30 23:59:59"
+		},
+		{
+			"bannerId": "828",
+			"actionType": "menu",
+			"name": "才能メダルキャプチャ開催！",
+			"img": "/gasha/special/10099/10099_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1331",
+			"dispNum": "5",
+			"startTime": "2019-01-17 16:00:00",
+			"endTime": "2019-01-24 15:59:59"
+		},
+		{
+			"bannerId": "829",
+			"actionType": "menu",
+			"name": "才能メダル引き継ぎ確率UPキャンペーン開催",
+			"img": "/campaign/11002/11002_labomedal.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1332",
+			"dispNum": "100",
+			"startTime": "2019-01-17 16:00:00",
+			"endTime": "2019-01-24 15:59:59"
 		}
 	]
 }

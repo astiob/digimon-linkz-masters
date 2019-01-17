@@ -13773,6 +13773,72 @@
 			"effect": "chip_effect_10154"
 		},
 		{
+			"chipId": "100449",
+			"chipGroupId": "10155",
+			"name": "神槍と魔弾-前編-のドロップ特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10155",
+			"detail": "ATK+20。「神槍と魔弾-前編-」で交換所アイテムドロップ時の取得個数が+1される。",
+			"effect": "chip_effect_10155"
+		},
+		{
+			"chipId": "100450",
+			"chipGroupId": "10155",
+			"name": "神槍と魔弾-前編-のドロップ特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10155",
+			"detail": "ATK+30。「神槍と魔弾-前編-」で交換所アイテムドロップ時の取得個数が+3される。",
+			"effect": "chip_effect_10155"
+		},
+		{
+			"chipId": "100451",
+			"chipGroupId": "10155",
+			"name": "神槍と魔弾-前編-のドロップ特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10155",
+			"detail": "ATK+50。「神槍と魔弾-前編-」で交換所アイテムドロップ時の取得個数が+9される。",
+			"effect": "chip_effect_10155"
+		},
+		{
+			"chipId": "100452",
+			"chipGroupId": "10156",
+			"name": "神槍と魔弾-前編-のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10156",
+			"detail": "S-ATK+20。「神槍と魔弾-前編-」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10156"
+		},
+		{
+			"chipId": "100453",
+			"chipGroupId": "10156",
+			"name": "神槍と魔弾-前編-のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10156",
+			"detail": "S-ATK+30。「神槍と魔弾-前編-」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10156"
+		},
+		{
+			"chipId": "100454",
+			"chipGroupId": "10156",
+			"name": "神槍と魔弾-前編-のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10156",
+			"detail": "S-ATK+50。「神槍と魔弾-前編-」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10156"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",
