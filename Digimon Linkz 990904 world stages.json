@@ -1236,6 +1236,19 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6178",
+			"worldAreaId": "1108",
+			"priority": "1050",
+			"name": "Holy Lance and Demon Bullet -Part 1-",
+			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/60/Holding_3.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",

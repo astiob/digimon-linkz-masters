@@ -9769,6 +9769,72 @@
 			"effect": "chip_effect_10154"
 		},
 		{
+			"chipId": "100449",
+			"chipGroupId": "10155",
+			"name": "Holy Lance and Demon Bullet -Part 1- Drop Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10155",
+			"detail": "ATK +20. Also increases Data Byte drop by 1 in \"Holy Lance and Demon Bullet -Part 1-\".",
+			"effect": "chip_effect_10155"
+		},
+		{
+			"chipId": "100450",
+			"chipGroupId": "10155",
+			"name": "Holy Lance and Demon Bullet -Part 1- Drop Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10155",
+			"detail": "ATK +30. Also increases Data Byte drop by 3 in \"Holy Lance and Demon Bullet -Part 1-\".",
+			"effect": "chip_effect_10155"
+		},
+		{
+			"chipId": "100451",
+			"chipGroupId": "10155",
+			"name": "Holy Lance and Demon Bullet -Part 1- Drop Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10155",
+			"detail": "ATK +50. Also increases Data Byte drop by 9 in \"Holy Lance and Demon Bullet -Part 1-\".",
+			"effect": "chip_effect_10155"
+		},
+		{
+			"chipId": "100452",
+			"chipGroupId": "10156",
+			"name": "Holy Lance and Demon Bullet -Part 1- EX stage Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10156",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the EXTRA STAGE in the \"Holy Lance and Demon Bullet -Part 1-\" event.",
+			"effect": "chip_effect_10156"
+		},
+		{
+			"chipId": "100453",
+			"chipGroupId": "10156",
+			"name": "Holy Lance and Demon Bullet -Part 1- EX stage Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10156",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the EXTRA STAGE in the \"Holy Lance and Demon Bullet -Part 1-\" event.",
+			"effect": "chip_effect_10156"
+		},
+		{
+			"chipId": "100454",
+			"chipGroupId": "10156",
+			"name": "Holy Lance and Demon Bullet -Part 1- EX stage Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10156",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the EXTRA STAGE in the \"Holy Lance and Demon Bullet -Part 1-\" event.",
+			"effect": "chip_effect_10156"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",
