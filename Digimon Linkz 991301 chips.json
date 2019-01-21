@@ -9769,6 +9769,72 @@
 			"effect": "chip_effect_10154"
 		},
 		{
+			"chipId": "100449",
+			"chipGroupId": "10155",
+			"name": "神槍與魔彈-前篇-的 掉落特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10155",
+			"detail": "ATK+20。並且於「神槍與魔彈-前篇-」中使片斷資料的獲得個數+1。",
+			"effect": "chip_effect_10155"
+		},
+		{
+			"chipId": "100450",
+			"chipGroupId": "10155",
+			"name": "神槍與魔彈-前篇-的 掉落特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10155",
+			"detail": "ATK+30。並且於「神槍與魔彈-前篇-」中使片斷資料的獲得個數+3。",
+			"effect": "chip_effect_10155"
+		},
+		{
+			"chipId": "100451",
+			"chipGroupId": "10155",
+			"name": "神槍與魔彈-前篇-的 掉落特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10155",
+			"detail": "ATK+50。並且於「神槍與魔彈-前篇-」中使片斷資料的獲得個數+9。",
+			"effect": "chip_effect_10155"
+		},
+		{
+			"chipId": "100452",
+			"chipGroupId": "10156",
+			"name": "神槍與魔彈-前篇-的 EXTRA STAGE特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10156",
+			"detail": "S-ATK+20。並且於「神槍與魔彈-前篇-」中令EXTRA STAGE的發動率小幅提升。",
+			"effect": "chip_effect_10156"
+		},
+		{
+			"chipId": "100453",
+			"chipGroupId": "10156",
+			"name": "神槍與魔彈-前篇-的 EXTRA STAGE特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10156",
+			"detail": "S-ATK+30。並且於「神槍與魔彈-前篇-」中令EXTRA STAGE的發動率中幅提升。",
+			"effect": "chip_effect_10156"
+		},
+		{
+			"chipId": "100454",
+			"chipGroupId": "10156",
+			"name": "神槍與魔彈-前篇-的 EXTRA STAGE特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10156",
+			"detail": "S-ATK+50。並且於「神槍與魔彈-前篇-」中令EXTRA STAGE的發動率大幅提升。",
+			"effect": "chip_effect_10156"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "破壞與救世的Pt特效 C",
