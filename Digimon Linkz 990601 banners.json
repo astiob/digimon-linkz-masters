@@ -8050,7 +8050,7 @@
 			"url": "/information/InformationDetail?informationId=1231",
 			"dispNum": "70",
 			"startTime": "2018-10-29 18:00:00",
-			"endTime": "2019-02-11 17:59:59"
+			"endTime": "2019-01-21 17:59:59"
 		},
 		{
 			"bannerId": "770",
@@ -8653,7 +8653,7 @@
 			"img": "/events/syuusyuu/60/Holding_3.png",
 			"linkCategoryType": "4",
 			"url": "/information/InformationDetail?informationId=1326",
-			"dispNum": "50",
+			"dispNum": "51",
 			"startTime": "2019-01-17 18:00:00",
 			"endTime": "2019-01-30 23:59:59"
 		},
@@ -8711,6 +8711,17 @@
 			"dispNum": "100",
 			"startTime": "2019-01-17 16:00:00",
 			"endTime": "2019-01-24 15:59:59"
+		},
+		{
+			"bannerId": "830",
+			"actionType": "menu",
+			"name": "降臨のスケジュールについて",
+			"img": "/events/advent/info_adventschedule.png",
+			"linkCategoryType": "9",
+			"url": "/information/InformationDetail?informationId=1333",
+			"dispNum": "70",
+			"startTime": "2019-01-21 18:00:00",
+			"endTime": "2019-04-22 17:59:59"
 		}
 	]
 }
