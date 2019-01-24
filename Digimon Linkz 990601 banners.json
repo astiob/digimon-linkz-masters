@@ -8722,6 +8722,39 @@
 			"dispNum": "70",
 			"startTime": "2019-01-21 18:00:00",
 			"endTime": "2019-04-22 17:59:59"
+		},
+		{
+			"bannerId": "831",
+			"actionType": "menu",
+			"name": "究極体リミテッドキャプチャ開催！",
+			"img": "/gasha/special/10212/10212_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1334",
+			"dispNum": "2",
+			"startTime": "2019-01-24 16:00:00",
+			"endTime": "2019-01-31 15:59:59"
+		},
+		{
+			"bannerId": "832",
+			"actionType": "menu",
+			"name": "神槍と魔弾-後編- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30108/30108_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1335",
+			"dispNum": "7",
+			"startTime": "2019-01-24 16:00:00",
+			"endTime": "2019-01-30 23:59:59"
+		},
+		{
+			"bannerId": "833",
+			"actionType": "menu",
+			"name": "イベント「神槍と魔弾-後編-」開催！",
+			"img": "/events/point/43/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1337",
+			"dispNum": "50",
+			"startTime": "2019-01-24 18:00:00",
+			"endTime": "2019-01-30 23:59:59"
 		}
 	]
 }

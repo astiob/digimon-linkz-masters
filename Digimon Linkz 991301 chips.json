@@ -13839,6 +13839,72 @@
 			"effect": "chip_effect_10156"
 		},
 		{
+			"chipId": "100455",
+			"chipGroupId": "10157",
+			"name": "神槍と魔弾-後編-のPt特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10157",
+			"detail": "ATK+20。「神槍と魔弾-後編-」で獲得ポイントが1.5倍になる。",
+			"effect": "chip_effect_10157"
+		},
+		{
+			"chipId": "100456",
+			"chipGroupId": "10157",
+			"name": "神槍と魔弾-後編-のPt特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10157",
+			"detail": "ATK+30。「神槍と魔弾-後編-」で獲得ポイントが2.5倍になる。",
+			"effect": "chip_effect_10157"
+		},
+		{
+			"chipId": "100457",
+			"chipGroupId": "10157",
+			"name": "神槍と魔弾-後編-のPt特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10157",
+			"detail": "ATK+50。「神槍と魔弾-後編-」で獲得ポイントが5.5倍になる。",
+			"effect": "chip_effect_10157"
+		},
+		{
+			"chipId": "100458",
+			"chipGroupId": "10158",
+			"name": "神槍と魔弾-後編-のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10158",
+			"detail": "S-ATK+20。「神槍と魔弾-後編-」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10158"
+		},
+		{
+			"chipId": "100459",
+			"chipGroupId": "10158",
+			"name": "神槍と魔弾-後編-のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10158",
+			"detail": "S-ATK+30。「神槍と魔弾-後編-」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10158"
+		},
+		{
+			"chipId": "100460",
+			"chipGroupId": "10158",
+			"name": "神槍と魔弾-後編-のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10158",
+			"detail": "S-ATK+50。「神槍と魔弾-後編-」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10158"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

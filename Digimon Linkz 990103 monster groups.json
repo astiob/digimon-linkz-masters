@@ -5050,6 +5050,23 @@
 			"modelId": "350"
 		},
 		{
+			"monsterGroupId": "351",
+			"monsterCollectionId": "60351",
+			"monsterName": "ベルゼブモンBM",
+			"simpleDescription": "",
+			"description": "力と精神を極限にまで高めた究極魔王。邪悪に進化したのとは違い、より安定した精神状態を保ち、凶々しかった３つの赤眼は緑色になっている。右腕がブラスターと一体化しており、強烈なエネルギー波を放ちあらゆるものを原子分解してしまう。",
+			"growStep": "7",
+			"tribe": "7",
+			"partyCharaPosX": "-0.03",
+			"partyCharaPosY": "-1.06",
+			"partyCharaPosZ": "-0.14",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "351"
+		},
+		{
 			"monsterGroupId": "5002",
 			"monsterCollectionId": "0",
 			"monsterName": "アグモン",

@@ -14686,6 +14686,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "980",
+			"name": "カオスフレア",
+			"simpleDescription": "",
+			"description": "敵単体の魔法防御力をダウンし、闇属性で魔法特大ダメージ、確率でAPを1減らす",
+			"type": "2",
+			"skillGroupId": "351",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "351",
+			"soundEffect": "bt_930",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "981",
+			"name": "カオスフレア",
+			"simpleDescription": "",
+			"description": "敵単体の魔法防御力をダウンし、闇属性で魔法特大ダメージ、確率でAPを1減らす",
+			"type": "2",
+			"skillGroupId": "351",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "351",
+			"soundEffect": "bt_930",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "プチフレイム",
 			"simpleDescription": "",

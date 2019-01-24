@@ -3719,6 +3719,19 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6179",
+			"worldAreaId": "1109",
+			"priority": "1051",
+			"name": "神槍と魔弾-後編-",
+			"description": "ポイントや断片データを集めて究極体を手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "point/43/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",
