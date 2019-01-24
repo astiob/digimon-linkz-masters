@@ -2925,6 +2925,28 @@
 			"dispNum": "50",
 			"startTime": "2019-01-21 18:00:00",
 			"endTime": "2019-02-03 13:59:59"
+		},
+		{
+			"bannerId": "100269",
+			"actionType": "menu",
+			"name": "\"Mega Limited Capture\" has begun!",
+			"img": "/gasha/special/10212/10212_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=515",
+			"dispNum": "14",
+			"startTime": "2019-01-24 18:00:00",
+			"endTime": "2019-02-04 15:59:59"
+		},
+		{
+			"bannerId": "100270",
+			"actionType": "menu",
+			"name": "The \"Holy Lance and Demon Bullet -Part 2-\"Special Chip Capture has begun!",
+			"img": "/gasha/special/30108/30108_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=516",
+			"dispNum": "19",
+			"startTime": "2019-01-28 16:00:00",
+			"endTime": "2019-02-03 13:59:59"
 		}
 	]
 }
