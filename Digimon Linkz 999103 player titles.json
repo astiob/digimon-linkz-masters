@@ -678,6 +678,27 @@
 			"detail": "OMEGA的系譜 排名玩家的名譽之證。",
 			"img": "honorific_event_12",
 			"dispFlg": "0"
+		},
+		{
+			"titleId": "10013",
+			"name": "神槍與魔彈",
+			"detail": "神槍與魔彈-後篇- 排名玩家的名譽之證。",
+			"img": "honorific_event_13",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10014",
+			"name": "神槍與魔彈",
+			"detail": "神槍與魔彈-後篇- 排名玩家的名譽之證。",
+			"img": "honorific_event_14",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10015",
+			"name": "神槍與魔彈",
+			"detail": "神槍與魔彈-後篇- 排名玩家的名譽之證。",
+			"img": "honorific_event_15",
+			"dispFlg": "0"
 		}
 	]
 }

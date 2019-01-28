@@ -14431,6 +14431,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "980",
+			"name": "混沌炎擊",
+			"simpleDescription": "",
+			"description": "降低敵人單體魔法防禦力，以闇屬性攻擊給予魔法特大傷害，且有一定機率減少敵人1AP。",
+			"type": "2",
+			"skillGroupId": "351",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "351",
+			"soundEffect": "bt_930",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "981",
+			"name": "混沌炎擊",
+			"simpleDescription": "",
+			"description": "降低敵人單體魔法防禦力，以闇屬性攻擊給予魔法特大傷害，且有一定機率減少敵人1AP。",
+			"type": "2",
+			"skillGroupId": "351",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "351",
+			"soundEffect": "bt_930",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "小巧火焰",
 			"simpleDescription": "",

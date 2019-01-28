@@ -5050,6 +5050,23 @@
 			"modelId": "350"
 		},
 		{
+			"monsterGroupId": "351",
+			"monsterCollectionId": "60351",
+			"monsterName": "墮天地獄獸 BM",
+			"simpleDescription": "",
+			"description": "將力量與精神皆提升至極限的究極魔王。與邪惡進化的不同，維持著更為安定的精神狀態，兇惡的三顆赤眼也轉為綠色。牠的右手與衝擊炮化為一體，發出的強烈能量波可從原子層面分解萬物。",
+			"growStep": "7",
+			"tribe": "7",
+			"partyCharaPosX": "-0.03",
+			"partyCharaPosY": "-1.06",
+			"partyCharaPosZ": "-0.14",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "351"
+		},
+		{
 			"monsterGroupId": "6001",
 			"monsterCollectionId": "0",
 			"monsterName": "黑球獸",

@@ -8405,6 +8405,94 @@
 			"effect": "chip_effect_145"
 		},
 		{
+			"chipId": "1285",
+			"chipGroupId": "146",
+			"name": "闇技衝擊 G",
+			"rank": "1",
+			"multiNum": "1",
+			"needChip": "10",
+			"icon": "chip_146",
+			"detail": "提升闇屬性技能的威力。\n當技能的攻擊次數越少則微小幅提升威力。",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1286",
+			"chipGroupId": "146",
+			"name": "闇技衝擊 F",
+			"rank": "2",
+			"multiNum": "1",
+			"needChip": "9",
+			"icon": "chip_146",
+			"detail": "提升闇屬性技能的威力。\n當技能的攻擊次數越少則微小幅提升威力。",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1287",
+			"chipGroupId": "146",
+			"name": "闇技衝擊 E",
+			"rank": "3",
+			"multiNum": "1",
+			"needChip": "8",
+			"icon": "chip_146",
+			"detail": "提升闇屬性技能的威力。\n當技能的攻擊次數越少則微小幅提升威力。",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1288",
+			"chipGroupId": "146",
+			"name": "闇技衝擊 D",
+			"rank": "4",
+			"multiNum": "1",
+			"needChip": "7",
+			"icon": "chip_146",
+			"detail": "提升闇屬性技能的威力。\n當技能的攻擊次數越少則微小幅提升威力。",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1289",
+			"chipGroupId": "146",
+			"name": "闇技衝擊 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "6",
+			"icon": "chip_146",
+			"detail": "提升闇屬性技能的威力。\n當技能的攻擊次數越少則微小幅提升威力。",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1290",
+			"chipGroupId": "146",
+			"name": "闇技衝擊 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_146",
+			"detail": "提升闇屬性技能的威力。\n當技能的攻擊次數越少則小幅提升威力。",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1291",
+			"chipGroupId": "146",
+			"name": "闇技衝擊 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_146",
+			"detail": "提升闇屬性技能的威力。\n當技能的攻擊次數越少則中幅提升威力。",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1292",
+			"chipGroupId": "146",
+			"name": "闇技衝擊 S",
+			"rank": "8",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_146",
+			"detail": "提升闇屬性技能的威力。\n當技能的攻擊次數越少則大幅提升威力。",
+			"effect": "chip_effect_146"
+		},
+		{
 			"chipId": "1295",
 			"chipGroupId": "117",
 			"name": "勝利激昂 G",
@@ -9833,6 +9921,72 @@
 			"icon": "chip_10156",
 			"detail": "S-ATK+50。並且於「神槍與魔彈-前篇-」中令EXTRA STAGE的發動率大幅提升。",
 			"effect": "chip_effect_10156"
+		},
+		{
+			"chipId": "100455",
+			"chipGroupId": "10157",
+			"name": "神槍與魔彈-後篇-的 Pt特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10157",
+			"detail": "ATK+20。並且於「神槍與魔彈-後篇-」中獲得的積分變為1.5倍。",
+			"effect": "chip_effect_10157"
+		},
+		{
+			"chipId": "100456",
+			"chipGroupId": "10157",
+			"name": "神槍與魔彈-後篇-的 Pt特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10157",
+			"detail": "ATK+30。並且於「神槍與魔彈-後篇-」中獲得的積分變為2.5倍。",
+			"effect": "chip_effect_10157"
+		},
+		{
+			"chipId": "100457",
+			"chipGroupId": "10157",
+			"name": "神槍與魔彈-後篇-的 Pt特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10157",
+			"detail": "ATK+50。並且於「神槍與魔彈-後篇-」中獲得的積分變為5.5倍。",
+			"effect": "chip_effect_10157"
+		},
+		{
+			"chipId": "100458",
+			"chipGroupId": "10158",
+			"name": "神槍與魔彈-後篇-的 EXTRA STAGE特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10158",
+			"detail": "S-ATK+20。並且於「神槍與魔彈-後篇-」中令EXTRA STAGE的發動率小幅提升。",
+			"effect": "chip_effect_10158"
+		},
+		{
+			"chipId": "100459",
+			"chipGroupId": "10158",
+			"name": "神槍與魔彈-後篇-的 EXTRA STAGE特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10158",
+			"detail": "S-ATK+30。並且於「神槍與魔彈-後篇-」中令EXTRA STAGE的發動率中幅提升。",
+			"effect": "chip_effect_10158"
+		},
+		{
+			"chipId": "100460",
+			"chipGroupId": "10158",
+			"name": "神槍與魔彈-後篇-的 EXTRA STAGE特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10158",
+			"detail": "S-ATK+50。並且於「神槍與魔彈-後篇-」中令EXTRA STAGE的發動率大幅提升。",
+			"effect": "chip_effect_10158"
 		},
 		{
 			"chipId": "10000001",

@@ -905,6 +905,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070351",
+			"soulName": "墮天地獄獸 BM的資料碎片",
+			"description": "進化成墮天地獄獸 BM時所需的資料碎片。",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1076006",
 			"soulName": "閃光暴龍獸的資料碎片",
 			"description": "閃光暴龍獸的資料碎片",
