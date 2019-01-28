@@ -678,6 +678,27 @@
 			"detail": "Proof of the renown of reaching a high rank in the OMEGA Lineage",
 			"img": "honorific_event_12",
 			"dispFlg": "0"
+		},
+		{
+			"titleId": "10013",
+			"name": "Holy Lance and Demon Bullet",
+			"detail": "Proof of the renown of reaching a high rank in the Holy Lance and Demon Bullet -Part 2-",
+			"img": "honorific_event_13",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10014",
+			"name": "Holy Lance and Demon Bullet",
+			"detail": "Proof of the renown of reaching a high rank in the Holy Lance and Demon Bullet -Part 2-",
+			"img": "honorific_event_14",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10015",
+			"name": "Holy Lance and Demon Bullet",
+			"detail": "Proof of the renown of reaching a high rank in the Holy Lance and Demon Bullet -Part 2-",
+			"img": "honorific_event_15",
+			"dispFlg": "0"
 		}
 	]
 }

@@ -5050,6 +5050,23 @@
 			"modelId": "350"
 		},
 		{
+			"monsterGroupId": "351",
+			"monsterCollectionId": "60351",
+			"monsterName": "Beelzemon BM",
+			"simpleDescription": "",
+			"description": "A Mega Evil King Digimon with extremely high strength and spirit. Instead of Digivolving to be evil, it maintains a more stable mental state, and its three, once-fearsome red eyes have become green. With the blaster fused to its right arm, it fires a powerful energy blast that disintegrates anything into atoms.",
+			"growStep": "7",
+			"tribe": "7",
+			"partyCharaPosX": "-0.03",
+			"partyCharaPosY": "-1.06",
+			"partyCharaPosZ": "-0.14",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "351"
+		},
+		{
 			"monsterGroupId": "6001",
 			"monsterCollectionId": "0",
 			"monsterName": "Botamon",

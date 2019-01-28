@@ -905,6 +905,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070351",
+			"soulName": "Beelzemon BM Data Fragment",
+			"description": "A data fragment required to Digivolve into Beelzemon BM.",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1076006",
 			"soulName": "ShineGreymon Data Fragment",
 			"description": "A data fragment required to Digivolve into ShineGreymon.",

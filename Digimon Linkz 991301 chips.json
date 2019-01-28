@@ -8405,6 +8405,94 @@
 			"effect": "chip_effect_145"
 		},
 		{
+			"chipId": "1285",
+			"chipGroupId": "146",
+			"name": "Darkness Skill Impact G",
+			"rank": "1",
+			"multiNum": "1",
+			"needChip": "10",
+			"icon": "chip_146",
+			"detail": "Miniscule Boost to Darkness Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1286",
+			"chipGroupId": "146",
+			"name": "Darkness Skill Impact F",
+			"rank": "2",
+			"multiNum": "1",
+			"needChip": "9",
+			"icon": "chip_146",
+			"detail": "Miniscule Boost to Darkness Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1287",
+			"chipGroupId": "146",
+			"name": "Darkness Skill Impact E",
+			"rank": "3",
+			"multiNum": "1",
+			"needChip": "8",
+			"icon": "chip_146",
+			"detail": "Miniscule Boost to Darkness Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1288",
+			"chipGroupId": "146",
+			"name": "Darkness Skill Impact D",
+			"rank": "4",
+			"multiNum": "1",
+			"needChip": "7",
+			"icon": "chip_146",
+			"detail": "Miniscule Boost to Darkness Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1289",
+			"chipGroupId": "146",
+			"name": "Darkness Skill Impact C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "6",
+			"icon": "chip_146",
+			"detail": "Miniscule Boost to Darkness Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1290",
+			"chipGroupId": "146",
+			"name": "Darkness Skill Impact B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_146",
+			"detail": "Minor Boost to Darkness Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1291",
+			"chipGroupId": "146",
+			"name": "Darkness Skill Impact A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_146",
+			"detail": "Moderate Boost to Darkness Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1292",
+			"chipGroupId": "146",
+			"name": "Darkness Skill Impact S",
+			"rank": "8",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_146",
+			"detail": "Major Boost to Darkness Skill Damage. The smaller number of skill attacks used, the greater the boost.",
+			"effect": "chip_effect_146"
+		},
+		{
 			"chipId": "1295",
 			"chipGroupId": "117",
 			"name": "Exalting Victory G",
@@ -9833,6 +9921,72 @@
 			"icon": "chip_10156",
 			"detail": "S-ATK +50. Also greatly raises the chance of triggering the EXTRA STAGE in the \"Holy Lance and Demon Bullet -Part 1-\" event.",
 			"effect": "chip_effect_10156"
+		},
+		{
+			"chipId": "100455",
+			"chipGroupId": "10157",
+			"name": "Holy Lance and Demon Bullet -Part 2- Pt Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10157",
+			"detail": "ATK +20. Also increases obtainable Pts by x1.5 in \"Holy Lance and Demon Bullet -Part 2-\" event.",
+			"effect": "chip_effect_10157"
+		},
+		{
+			"chipId": "100456",
+			"chipGroupId": "10157",
+			"name": "Holy Lance and Demon Bullet -Part 2- Pt Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10157",
+			"detail": "ATK +30. Also increases obtainable Pts by x2.5 in \"Holy Lance and Demon Bullet -Part 2-\" event.",
+			"effect": "chip_effect_10157"
+		},
+		{
+			"chipId": "100457",
+			"chipGroupId": "10157",
+			"name": "Holy Lance and Demon Bullet -Part 2- Pt Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10157",
+			"detail": "ATK +50. Also increases obtainable Pts by x5.5 in \"Holy Lance and Demon Bullet -Part 2-\" event.",
+			"effect": "chip_effect_10157"
+		},
+		{
+			"chipId": "100458",
+			"chipGroupId": "10158",
+			"name": "Holy Lance and Demon Bullet -Part 2- EX stage Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10158",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the EXTRA STAGE in the \"Holy Lance and Demon Bullet -Part 2-\" event.",
+			"effect": "chip_effect_10158"
+		},
+		{
+			"chipId": "100459",
+			"chipGroupId": "10158",
+			"name": "Holy Lance and Demon Bullet -Part 2- EX stage Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10158",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the EXTRA STAGE in the \"Holy Lance and Demon Bullet -Part 2-\" event.",
+			"effect": "chip_effect_10158"
+		},
+		{
+			"chipId": "100460",
+			"chipGroupId": "10158",
+			"name": "Holy Lance and Demon Bullet -Part 2- EX stage Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10158",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the EXTRA STAGE in the \"Holy Lance and Demon Bullet -Part 2-\" event.",
+			"effect": "chip_effect_10158"
 		},
 		{
 			"chipId": "10000001",

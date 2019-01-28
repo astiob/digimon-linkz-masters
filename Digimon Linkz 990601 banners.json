@@ -2947,6 +2947,17 @@
 			"dispNum": "19",
 			"startTime": "2019-01-28 16:00:00",
 			"endTime": "2019-02-03 13:59:59"
+		},
+		{
+			"bannerId": "100271",
+			"actionType": "menu",
+			"name": "The \"Holy Lance and Demon Bullet -Part 2-\" event has begun!",
+			"img": "/events/point/43/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=518",
+			"dispNum": "49",
+			"startTime": "2019-01-28 18:00:00",
+			"endTime": "2019-02-03 13:59:59"
 		}
 	]
 }

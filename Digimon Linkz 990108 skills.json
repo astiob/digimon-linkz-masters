@@ -14431,6 +14431,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "980",
+			"name": "Corona Destroyer",
+			"simpleDescription": "",
+			"description": "Chance to lower S-Defense and gives a Massive magical Darkness damage to a single enemy. chance to reduce AP by1",
+			"type": "2",
+			"skillGroupId": "351",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "351",
+			"soundEffect": "bt_930",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "981",
+			"name": "Corona Destroyer",
+			"simpleDescription": "",
+			"description": "Chance to lower S-Defense and gives a Massive magical Darkness damage to a single enemy. chance to reduce AP by1",
+			"type": "2",
+			"skillGroupId": "351",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "351",
+			"soundEffect": "bt_930",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "Petit Flame",
 			"simpleDescription": "",
