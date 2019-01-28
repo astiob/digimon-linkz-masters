@@ -157,6 +157,19 @@
 			"extraRewardRate": "3"
 		},
 		{
+			"colosseumId": "10015",
+			"title": "제15회",
+			"openStatus": "1",
+			"prevColosseumId": "10014",
+			"openTime": "2019-02-01 14:00:00",
+			"startDate": "2019-02-01",
+			"endDate": "2019-03-01",
+			"closeTime": "2019-03-01 13:59:59",
+			"worldDungeonId": "10001",
+			"rewardGroupId": "100015",
+			"extraRewardRate": "3"
+		},
+		{
 			"colosseumId": "100001",
 			"title": "제1회",
 			"openStatus": "1",

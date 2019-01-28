@@ -14431,6 +14431,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "980",
+			"name": "카오스 플레어",
+			"simpleDescription": "",
+			"description": "적 하나의 마법방어력 감소 및 어둠속성으로 매우 높은 마법 대미지+일정 확률로 AP 1 감소",
+			"type": "2",
+			"skillGroupId": "351",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "351",
+			"soundEffect": "bt_930",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "981",
+			"name": "카오스 플레어",
+			"simpleDescription": "",
+			"description": "적 하나의 마법방어력 감소 및 어둠속성으로 매우 높은 마법 대미지+일정 확률로 AP 1 감소",
+			"type": "2",
+			"skillGroupId": "351",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "351",
+			"soundEffect": "bt_930",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "푸치 플레임",
 			"simpleDescription": "",

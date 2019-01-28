@@ -5050,6 +5050,23 @@
 			"modelId": "350"
 		},
 		{
+			"monsterGroupId": "351",
+			"monsterCollectionId": "60351",
+			"monsterName": "베르제브몬 BM",
+			"simpleDescription": "",
+			"description": "힘과 정신을 극한까지 끌어올린 궁극의 마왕. 사악함에 의한 진화와는 달리 보다 안정된 정신 상태를 가지며, 섬뜩했던 3개의 적안은 녹색으로 변했다. 오른팔이 블래스터와 일체화되어 강렬한 에너지파를 발사하고 모든 것을 원자 분해 시켜버린다.",
+			"growStep": "7",
+			"tribe": "7",
+			"partyCharaPosX": "-0.03",
+			"partyCharaPosY": "-1.06",
+			"partyCharaPosZ": "-0.14",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "351"
+		},
+		{
 			"monsterGroupId": "6001",
 			"monsterCollectionId": "0",
 			"monsterName": "깜몬",

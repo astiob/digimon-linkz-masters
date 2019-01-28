@@ -8405,6 +8405,94 @@
 			"effect": "chip_effect_145"
 		},
 		{
+			"chipId": "1285",
+			"chipGroupId": "146",
+			"name": "어둠속성 임팩트 G",
+			"rank": "1",
+			"multiNum": "1",
+			"needChip": "10",
+			"icon": "chip_146",
+			"detail": "어둠속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 미세하게 상승",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1286",
+			"chipGroupId": "146",
+			"name": "어둠속성 임팩트 F",
+			"rank": "2",
+			"multiNum": "1",
+			"needChip": "9",
+			"icon": "chip_146",
+			"detail": "어둠속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 미세하게 상승",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1287",
+			"chipGroupId": "146",
+			"name": "어둠속성 임팩트 E",
+			"rank": "3",
+			"multiNum": "1",
+			"needChip": "8",
+			"icon": "chip_146",
+			"detail": "어둠속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 미세하게 상승",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1288",
+			"chipGroupId": "146",
+			"name": "어둠속성 임팩트 D",
+			"rank": "4",
+			"multiNum": "1",
+			"needChip": "7",
+			"icon": "chip_146",
+			"detail": "어둠속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 미세하게 상승",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1289",
+			"chipGroupId": "146",
+			"name": "어둠속성 임팩트 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "6",
+			"icon": "chip_146",
+			"detail": "어둠속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 미세하게 상승",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1290",
+			"chipGroupId": "146",
+			"name": "어둠속성 임팩트 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_146",
+			"detail": "어둠속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 소폭 상승",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1291",
+			"chipGroupId": "146",
+			"name": "어둠속성 임팩트 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_146",
+			"detail": "어둠속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 상승",
+			"effect": "chip_effect_146"
+		},
+		{
+			"chipId": "1292",
+			"chipGroupId": "146",
+			"name": "어둠속성 임팩트 S",
+			"rank": "8",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_146",
+			"detail": "어둠속성 스킬 위력 상승. 스킬 공격 횟수가 적을수록 위력이 크게 상승",
+			"effect": "chip_effect_146"
+		},
+		{
 			"chipId": "1295",
 			"chipGroupId": "117",
 			"name": "승리의 분발 G",
@@ -9833,6 +9921,72 @@
 			"icon": "chip_10156",
 			"detail": "S-ATK+50, ‘신창과 마탄 -전편-’에서 EXTRA STAGE 발생 확률 크게 상승",
 			"effect": "chip_effect_10156"
+		},
+		{
+			"chipId": "100455",
+			"chipGroupId": "10157",
+			"name": "신창과 마탄 -후편-의 Pt 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10157",
+			"detail": "ATK+20, ‘신창과 마탄 -후편-’에서 획득 포인트 1.5배",
+			"effect": "chip_effect_10157"
+		},
+		{
+			"chipId": "100456",
+			"chipGroupId": "10157",
+			"name": "신창과 마탄 -후편-의 Pt 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10157",
+			"detail": "ATK+30, ‘신창과 마탄 -후편-’에서 획득 포인트 2.5배",
+			"effect": "chip_effect_10157"
+		},
+		{
+			"chipId": "100457",
+			"chipGroupId": "10157",
+			"name": "신창과 마탄 -후편-의 Pt 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10157",
+			"detail": "ATK+50, ‘신창과 마탄 -후편-’에서 획득 포인트 5.5배",
+			"effect": "chip_effect_10157"
+		},
+		{
+			"chipId": "100458",
+			"chipGroupId": "10158",
+			"name": "신창과 마탄 -후편-의 EX STAGE 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10158",
+			"detail": "S-ATK+20, ‘신창과 마탄 -후편-’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_10158"
+		},
+		{
+			"chipId": "100459",
+			"chipGroupId": "10158",
+			"name": "신창과 마탄 -후편-의 EX STAGE 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10158",
+			"detail": "S-ATK+30, ‘신창과 마탄 -후편-’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_10158"
+		},
+		{
+			"chipId": "100460",
+			"chipGroupId": "10158",
+			"name": "신창과 마탄 -후편-의 EX STAGE 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10158",
+			"detail": "S-ATK+50, ‘신창과 마탄 -후편-’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_10158"
 		},
 		{
 			"chipId": "10000001",
