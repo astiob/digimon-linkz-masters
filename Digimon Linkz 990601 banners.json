@@ -8755,6 +8755,50 @@
 			"dispNum": "50",
 			"startTime": "2019-01-24 18:00:00",
 			"endTime": "2019-01-30 23:59:59"
+		},
+		{
+			"bannerId": "834",
+			"actionType": "menu",
+			"name": "イベント「救世の聖騎士」開催！",
+			"img": "/events/syuusyuu/61/Holding_4.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1339",
+			"dispNum": "50",
+			"startTime": "2019-01-31 18:00:00",
+			"endTime": "2019-02-06 23:59:59"
+		},
+		{
+			"bannerId": "835",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10213/10213_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1340",
+			"dispNum": "3",
+			"startTime": "2019-01-31 16:00:00",
+			"endTime": "2019-02-14 15:59:59"
+		},
+		{
+			"bannerId": "836",
+			"actionType": "menu",
+			"name": "救世の聖騎士 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30109/30109_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1341",
+			"dispNum": "7",
+			"startTime": "2019-01-31 16:00:00",
+			"endTime": "2019-02-06 23:59:59"
+		},
+		{
+			"bannerId": "837",
+			"actionType": "menu",
+			"name": "ウィンターログインボーナス開催！",
+			"img": "/login/10033/10033_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1342",
+			"dispNum": "100",
+			"startTime": "2019-02-01 05:00:00",
+			"endTime": "2019-02-15 04:59:59"
 		}
 	]
 }

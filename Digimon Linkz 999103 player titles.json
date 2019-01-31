@@ -869,6 +869,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1106",
+			"name": "第22回覇者",
+			"detail": "第22回コロシアムの覇者に送られる栄光の証",
+			"img": "honorific_colosseum_106",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1107",
+			"name": "第22回SSSランカー",
+			"detail": "第22回コロシアムの最上位ランカーに送られる栄誉の証",
+			"img": "honorific_colosseum_107",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1108",
+			"name": "第22回SSランカー",
+			"detail": "第22回コロシアムの上位ランカーに送られる名誉の証",
+			"img": "honorific_colosseum_108",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1109",
+			"name": "第22回Sランカー",
+			"detail": "第22回コロシアムのランカーに送られる名声の証",
+			"img": "honorific_colosseum_109",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1110",
+			"name": "第22回挑戦者",
+			"detail": "第22回コロシアムの挑戦者に送られる証",
+			"img": "honorific_colosseum_110",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10001",
 			"name": "竜帝の系譜トップ100",
 			"detail": "イベント「竜帝の系譜」トップ100位に送られる栄誉の証",
