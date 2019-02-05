@@ -2958,6 +2958,72 @@
 			"dispNum": "49",
 			"startTime": "2019-01-28 18:00:00",
 			"endTime": "2019-02-03 13:59:59"
+		},
+		{
+			"bannerId": "100272",
+			"actionType": "menu",
+			"name": "舉辦活動「救世的聖騎士」！",
+			"img": "/events/syuusyuu/61/Holding_4.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=522",
+			"dispNum": "50",
+			"startTime": "2019-02-04 18:00:00",
+			"endTime": "2019-02-10 13:59:59"
+		},
+		{
+			"bannerId": "100273",
+			"actionType": "menu",
+			"name": "舉辦「究極體大會捕捉」！",
+			"img": "/gasha/special/10213/10213_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=523",
+			"dispNum": "15",
+			"startTime": "2019-02-04 16:00:00",
+			"endTime": "2019-02-18 15:59:59"
+		},
+		{
+			"bannerId": "100274",
+			"actionType": "menu",
+			"name": "舉辦「救世的聖騎士」特效晶片捕捉！",
+			"img": "/gasha/special/30109/30109_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=524",
+			"dispNum": "19",
+			"startTime": "2019-02-04 16:00:00",
+			"endTime": "2019-02-10 13:59:59"
+		},
+		{
+			"bannerId": "100276",
+			"actionType": "menu",
+			"name": "爆炎龍養成入場券捕捉",
+			"img": "/gasha/special/200015/200015_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=526",
+			"dispNum": "25",
+			"startTime": "2019-02-08 16:00:00",
+			"endTime": "2019-02-11 23:59:59"
+		},
+		{
+			"bannerId": "100277",
+			"actionType": "menu",
+			"name": "舉辦活動「冬日 登入獎勵」！",
+			"img": "/login/10033/10033_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=527",
+			"dispNum": "100",
+			"startTime": "2019-02-05 05:00:00",
+			"endTime": "2019-02-19 04:59:59"
+		},
+		{
+			"bannerId": "100278",
+			"actionType": "menu",
+			"name": "舉辦活動「爆炎的龍影」！",
+			"img": "/events/syuusyuu/10001/Holding_5.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=528",
+			"dispNum": "51",
+			"startTime": "2019-02-08 18:00:00",
+			"endTime": "2019-02-11 23:59:59"
 		}
 	]
 }
