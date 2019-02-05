@@ -9989,6 +9989,72 @@
 			"effect": "chip_effect_10158"
 		},
 		{
+			"chipId": "100461",
+			"chipGroupId": "10159",
+			"name": "Salvation Knight  Drop Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10159",
+			"detail": "ATK +20. Also increases Data Byte drop by 1 in \"Holy Knight of Salvation\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100462",
+			"chipGroupId": "10159",
+			"name": "Salvation Knight  Drop Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10159",
+			"detail": "ATK +30. Also increases Data Byte drop by 3 in \"Holy Knight of Salvation\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100463",
+			"chipGroupId": "10159",
+			"name": "Salvation Knight  Drop Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10159",
+			"detail": "ATK +50. Also increases Data Byte drop by 9 in \"Holy Knight of Salvation\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100464",
+			"chipGroupId": "10160",
+			"name": "Salvation Knight  EX stage Specialty Chip  C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10160",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"Holy Knight of Salvation\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100465",
+			"chipGroupId": "10160",
+			"name": "Salvation Knight  EX stage Specialty Chip  B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10160",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"Holy Knight of Salvation\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100466",
+			"chipGroupId": "10160",
+			"name": "Salvation Knight  EX stage Specialty Chip  A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10160",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Holy Knight of Salvation\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",
