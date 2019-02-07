@@ -8799,6 +8799,72 @@
 			"dispNum": "100",
 			"startTime": "2019-02-01 05:00:00",
 			"endTime": "2019-02-15 04:59:59"
+		},
+		{
+			"bannerId": "838",
+			"actionType": "menu",
+			"name": "常闇に潜む邪影 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30110/30110_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1344",
+			"dispNum": "7",
+			"startTime": "2019-02-07 16:00:00",
+			"endTime": "2019-02-13 23:59:59"
+		},
+		{
+			"bannerId": "839",
+			"actionType": "menu",
+			"name": "爆炎竜育成チケットキャプチャ開催！",
+			"img": "/gasha/special/20010/20010_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1345",
+			"dispNum": "23",
+			"startTime": "2019-02-08 16:00:00",
+			"endTime": "2019-02-11 23:59:59"
+		},
+		{
+			"bannerId": "840",
+			"actionType": "menu",
+			"name": "イベント「爆炎の竜影」開催！",
+			"img": "/events/syuusyuu/10001/Holding_5.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1346",
+			"dispNum": "52",
+			"startTime": "2019-02-08 18:00:00",
+			"endTime": "2019-02-11 23:59:59"
+		},
+		{
+			"bannerId": "841",
+			"actionType": "menu",
+			"name": "才能メダルキャプチャ開催！",
+			"img": "/gasha/special/10099/10099_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1348",
+			"dispNum": "5",
+			"startTime": "2019-02-07 16:00:00",
+			"endTime": "2019-02-14 15:59:59"
+		},
+		{
+			"bannerId": "842",
+			"actionType": "menu",
+			"name": "才能メダル引き継ぎ確率UPキャンペーン開催",
+			"img": "/campaign/11002/11002_labomedal.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1349",
+			"dispNum": "100",
+			"startTime": "2019-02-07 16:00:00",
+			"endTime": "2019-02-14 15:59:59"
+		},
+		{
+			"bannerId": "844",
+			"actionType": "menu",
+			"name": "イベント「常闇に潜む邪影」開催！",
+			"img": "/events/syuusyuu/62/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1354",
+			"dispNum": "50",
+			"startTime": "2019-02-07 18:00:00",
+			"endTime": "2019-02-13 23:59:59"
 		}
 	]
 }

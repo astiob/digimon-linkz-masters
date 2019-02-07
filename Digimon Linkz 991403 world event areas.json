@@ -603,6 +603,10 @@
 		{
 			"worldEventId": "159",
 			"worldAreaId": "1110"
+		},
+		{
+			"worldEventId": "160",
+			"worldAreaId": "1111"
 		}
 	]
 }
