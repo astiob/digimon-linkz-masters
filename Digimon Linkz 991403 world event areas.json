@@ -113,6 +113,10 @@
 			"worldAreaId": "1110"
 		},
 		{
+			"worldEventId": "160",
+			"worldAreaId": "1111"
+		},
+		{
 			"worldEventId": "100001",
 			"worldAreaId": "100001"
 		},
