@@ -2993,6 +2993,17 @@
 			"endTime": "2019-02-10 13:59:59"
 		},
 		{
+			"bannerId": "100275",
+			"actionType": "menu",
+			"name": "舉辦「潛於常闇的邪影」特效晶片捕捉！",
+			"img": "/gasha/special/30110/30110_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=525",
+			"dispNum": "19",
+			"startTime": "2019-02-11 16:00:00",
+			"endTime": "2019-02-17 13:59:59"
+		},
+		{
 			"bannerId": "100276",
 			"actionType": "menu",
 			"name": "爆炎龍養成入場券捕捉",
@@ -3024,6 +3035,39 @@
 			"dispNum": "51",
 			"startTime": "2019-02-08 18:00:00",
 			"endTime": "2019-02-11 23:59:59"
+		},
+		{
+			"bannerId": "100279",
+			"actionType": "menu",
+			"name": "舉辦「才能獎牌捕捉」！",
+			"img": "/gasha/special/100062/100062_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=531",
+			"dispNum": "20",
+			"startTime": "2019-02-11 16:00:00",
+			"endTime": "2019-02-18 15:59:59"
+		},
+		{
+			"bannerId": "100280",
+			"actionType": "menu",
+			"name": "將舉辦「養成應援活動」！",
+			"img": "/campaign/11002/11002_labomedal.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=532",
+			"dispNum": "99",
+			"startTime": "2019-02-11 16:00:00",
+			"endTime": "2019-02-18 15:59:59"
+		},
+		{
+			"bannerId": "100281",
+			"actionType": "menu",
+			"name": "舉辦活動「潛於常闇的邪影」！",
+			"img": "/events/syuusyuu/62/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=534",
+			"dispNum": "50",
+			"startTime": "2019-02-11 18:00:00",
+			"endTime": "2019-02-17 13:59:59"
 		}
 	]
 }
