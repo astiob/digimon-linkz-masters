@@ -176,6 +176,13 @@
 			"monsterStatusAilmentMaterialId": "3"
 		},
 		{
+			"monsterId": "20146",
+			"assetCategoryId": "14",
+			"assetValue": "1070196",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "7"
+		},
+		{
 			"monsterId": "20151",
 			"assetCategoryId": "14",
 			"assetValue": "1070197",
@@ -202,6 +209,13 @@
 			"assetValue": "1070200",
 			"assetNum": "15",
 			"monsterStatusAilmentMaterialId": "6"
+		},
+		{
+			"monsterId": "20176",
+			"assetCategoryId": "14",
+			"assetValue": "1070202",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "7"
 		},
 		{
 			"monsterId": "20181",
@@ -260,6 +274,13 @@
 			"monsterStatusAilmentMaterialId": "7"
 		},
 		{
+			"monsterId": "20226",
+			"assetCategoryId": "14",
+			"assetValue": "1070212",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "7"
+		},
+		{
 			"monsterId": "20251",
 			"assetCategoryId": "14",
 			"assetValue": "1070217",
@@ -305,6 +326,13 @@
 			"monsterId": "20286",
 			"assetCategoryId": "14",
 			"assetValue": "1070224",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "3"
+		},
+		{
+			"monsterId": "20296",
+			"assetCategoryId": "14",
+			"assetValue": "1070226",
 			"assetNum": "15",
 			"monsterStatusAilmentMaterialId": "3"
 		},
@@ -372,6 +400,13 @@
 			"monsterStatusAilmentMaterialId": "5"
 		},
 		{
+			"monsterId": "20346",
+			"assetCategoryId": "14",
+			"assetValue": "1070212",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "7"
+		},
+		{
 			"monsterId": "20391",
 			"assetCategoryId": "14",
 			"assetValue": "1070289",
@@ -435,11 +470,25 @@
 			"monsterStatusAilmentMaterialId": "4"
 		},
 		{
+			"monsterId": "20461",
+			"assetCategoryId": "14",
+			"assetValue": "1070312",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "1"
+		},
+		{
 			"monsterId": "20466",
 			"assetCategoryId": "14",
 			"assetValue": "1070329",
 			"assetNum": "15",
 			"monsterStatusAilmentMaterialId": "7"
+		},
+		{
+			"monsterId": "20471",
+			"assetCategoryId": "14",
+			"assetValue": "1070313",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "4"
 		},
 		{
 			"monsterId": "20476",
