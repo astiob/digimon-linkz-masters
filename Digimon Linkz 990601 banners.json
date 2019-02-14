@@ -8856,6 +8856,17 @@
 			"endTime": "2019-02-14 15:59:59"
 		},
 		{
+			"bannerId": "843",
+			"actionType": "menu",
+			"name": "イベント「獣機X龍機」開催！",
+			"img": "/events/point/44/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1352",
+			"dispNum": "50",
+			"startTime": "2019-02-14 18:00:00",
+			"endTime": "2019-02-20 23:59:59"
+		},
+		{
 			"bannerId": "844",
 			"actionType": "menu",
 			"name": "イベント「常闇に潜む邪影」開催！",
@@ -8865,6 +8876,39 @@
 			"dispNum": "50",
 			"startTime": "2019-02-07 18:00:00",
 			"endTime": "2019-02-13 23:59:59"
+		},
+		{
+			"bannerId": "845",
+			"actionType": "menu",
+			"name": "獣機X龍機 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30111/30111_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1357",
+			"dispNum": "7",
+			"startTime": "2019-02-14 16:00:00",
+			"endTime": "2019-02-20 23:59:59"
+		},
+		{
+			"bannerId": "846",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10215/10215_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1358",
+			"dispNum": "3",
+			"startTime": "2019-02-14 16:00:00",
+			"endTime": "2019-02-28 15:59:59"
+		},
+		{
+			"bannerId": "847",
+			"actionType": "menu",
+			"name": "育成応援ログインボーナス開催！",
+			"img": "/login/10034/10034_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1359",
+			"dispNum": "100",
+			"startTime": "2019-02-15 05:00:00",
+			"endTime": "2019-03-01 04:59:59"
 		}
 	]
 }
