@@ -376,6 +376,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "103",
+			"name": "獸機X龍機的片斷資料",
+			"description": "可在交換所兌換各種東西。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_103",
+				"EventResource/Item/item_103"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "50001",
 			"name": "高級肉",
 			"description": "在特殊肉田收成的高級肉，能讓數碼寶貝心情非常好。",
