@@ -10121,6 +10121,72 @@
 			"effect": "chip_effect_10162"
 		},
 		{
+			"chipId": "100473",
+			"chipGroupId": "10163",
+			"name": "수기 x 용기의 Pt 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10163",
+			"detail": "ATK+20, ‘수기 x 용기’에서 획득 포인트 1.5배",
+			"effect": "chip_effect_10163"
+		},
+		{
+			"chipId": "100474",
+			"chipGroupId": "10163",
+			"name": "수기 x 용기의 Pt 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10163",
+			"detail": "ATK+30, ‘수기 x 용기’에서 획득 포인트 2.5배",
+			"effect": "chip_effect_10163"
+		},
+		{
+			"chipId": "100475",
+			"chipGroupId": "10163",
+			"name": "수기 x 용기의 Pt 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10163",
+			"detail": "ATK+50, ‘수기 x 용기’에서 획득 포인트 5.5배",
+			"effect": "chip_effect_10163"
+		},
+		{
+			"chipId": "100476",
+			"chipGroupId": "10164",
+			"name": "수기 x 용기의 EX STAGE 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10164",
+			"detail": "S-ATK+20, ‘수기 x 용기’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_10164"
+		},
+		{
+			"chipId": "100477",
+			"chipGroupId": "10164",
+			"name": "수기 x 용기의 EX STAGE 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10164",
+			"detail": "S-ATK+30, ‘수기 x 용기’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_10164"
+		},
+		{
+			"chipId": "100478",
+			"chipGroupId": "10164",
+			"name": "수기 x 용기의 EX STAGE 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10164",
+			"detail": "S-ATK+50, ‘수기 x 용기’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_10164"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "파괴와 구세의 Pt 특효 C",

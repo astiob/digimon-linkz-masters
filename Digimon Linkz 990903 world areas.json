@@ -409,6 +409,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1112",
+			"worldId": "6",
+			"priority": "10",
+			"name": "수기 x 용기",
+			"img": "point/44/Holding_1.png",
+			"description": "수기 x 용기",
+			"type": "4",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "100001",
 			"worldId": "6",
 			"priority": "10",
