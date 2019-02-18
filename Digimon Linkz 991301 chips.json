@@ -10121,6 +10121,72 @@
 			"effect": "chip_effect_10162"
 		},
 		{
+			"chipId": "100473",
+			"chipGroupId": "10163",
+			"name": " Beast X  Dragon Pt Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10163",
+			"detail": "ATK +20. Also increases obtainable Pts by x1.5 in \"Mechanical Beast X Mechanical Dragon\" event.",
+			"effect": "chip_effect_10163"
+		},
+		{
+			"chipId": "100474",
+			"chipGroupId": "10163",
+			"name": " Beast X  Dragon Pt Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10163",
+			"detail": "ATK +30. Also increases obtainable Pts by x2.5 in \"Mechanical Beast X Mechanical Dragon\" event.",
+			"effect": "chip_effect_10163"
+		},
+		{
+			"chipId": "100475",
+			"chipGroupId": "10163",
+			"name": " Beast X  Dragon Pt Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10163",
+			"detail": "ATK +50. Also increases obtainable Pts by x5.5 in \"Mechanical Beast X Mechanical Dragon\" event.",
+			"effect": "chip_effect_10163"
+		},
+		{
+			"chipId": "100476",
+			"chipGroupId": "10164",
+			"name": " Beast X  Dragon EX stage Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10164",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"Mechanical Beast X Mechanical Dragon\" event.",
+			"effect": "chip_effect_10164"
+		},
+		{
+			"chipId": "100477",
+			"chipGroupId": "10164",
+			"name": " Beast X  Dragon EX stage Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10164",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"Mechanical Beast X Mechanical Dragon\" event.",
+			"effect": "chip_effect_10164"
+		},
+		{
+			"chipId": "100478",
+			"chipGroupId": "10164",
+			"name": " Beast X  Dragon EX stage Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10164",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Mechanical Beast X Mechanical Dragon\" event.",
+			"effect": "chip_effect_10164"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",
