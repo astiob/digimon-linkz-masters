@@ -8909,6 +8909,39 @@
 			"dispNum": "100",
 			"startTime": "2019-02-15 05:00:00",
 			"endTime": "2019-03-01 04:59:59"
+		},
+		{
+			"bannerId": "848",
+			"actionType": "menu",
+			"name": "イベント「輝晶 X 聖覇 -前編-」開催！",
+			"img": "/events/syuusyuu/63/Holding_4.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1361",
+			"dispNum": "60",
+			"startTime": "2019-02-21 18:00:00",
+			"endTime": "2019-03-06 23:59:59"
+		},
+		{
+			"bannerId": "850",
+			"actionType": "menu",
+			"name": "究極体リミテッドキャプチャ開催！",
+			"img": "/gasha/special/10216/10216_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1364",
+			"dispNum": "2",
+			"startTime": "2019-02-21 16:00:00",
+			"endTime": "2019-02-28 23:59:59"
+		},
+		{
+			"bannerId": "851",
+			"actionType": "menu",
+			"name": "輝晶 X 聖覇 -前編- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30112/30112_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1365",
+			"dispNum": "7",
+			"startTime": "2019-02-21 16:00:00",
+			"endTime": "2019-03-06 23:59:59"
 		}
 	]
 }
