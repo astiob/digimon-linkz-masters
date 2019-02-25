@@ -15001,6 +15001,21 @@
 			"useCountValue": "1"
 		},
 		{
+			"skillId": "40031",
+			"name": "破壞加農X",
+			"simpleDescription": "",
+			"description": "以闇屬性攻擊\n給予敵人單體物理特大傷害。可在戰鬥中使用一次。",
+			"type": "3",
+			"skillGroupId": "0",
+			"skillGroupSubId": "0",
+			"needPoint": "4",
+			"inheritancePrice": "40",
+			"attackEffect": "EFF_COM_DARK_PHYSICAL",
+			"soundEffect": "bt_522",
+			"rank": "5",
+			"useCountValue": "1"
+		},
+		{
 			"skillId": "40032",
 			"name": "馬赫突擊X",
 			"simpleDescription": "",
@@ -15012,6 +15027,21 @@
 			"inheritancePrice": "40",
 			"attackEffect": "EFF_COM_UNATTRIBUTED_ALL",
 			"soundEffect": "bt_527",
+			"rank": "5",
+			"useCountValue": "1"
+		},
+		{
+			"skillId": "40038",
+			"name": "符文之森X",
+			"simpleDescription": "",
+			"description": "以闇屬性攻擊\n給予敵人全體物理特大傷害。可在戰鬥中使用一次。",
+			"type": "3",
+			"skillGroupId": "0",
+			"skillGroupSubId": "0",
+			"needPoint": "4",
+			"inheritancePrice": "40",
+			"attackEffect": "EFF_COM_DARK_ALL",
+			"soundEffect": "bt_524",
 			"rank": "5",
 			"useCountValue": "1"
 		},
@@ -15031,6 +15061,21 @@
 			"useCountValue": "1"
 		},
 		{
+			"skillId": "40045",
+			"name": "夢魘X",
+			"simpleDescription": "",
+			"description": "以闇屬性攻擊\n給予敵人單體魔法特大傷害。可在戰鬥中使用一次。",
+			"type": "3",
+			"skillGroupId": "0",
+			"skillGroupSubId": "0",
+			"needPoint": "4",
+			"inheritancePrice": "40",
+			"attackEffect": "EFF_COM_DARK_MAGIC",
+			"soundEffect": "bt_523",
+			"rank": "5",
+			"useCountValue": "1"
+		},
+		{
 			"skillId": "40046",
 			"name": "能源突擊X",
 			"simpleDescription": "",
@@ -15042,6 +15087,21 @@
 			"inheritancePrice": "40",
 			"attackEffect": "EFF_COM_UNATTRIBUTED_ALL",
 			"soundEffect": "bt_527",
+			"rank": "5",
+			"useCountValue": "1"
+		},
+		{
+			"skillId": "40052",
+			"name": "地獄粉碎X",
+			"simpleDescription": "",
+			"description": "以闇屬性攻擊\n給予敵人全體魔法特大傷害。可在戰鬥中使用一次。",
+			"type": "3",
+			"skillGroupId": "0",
+			"skillGroupSubId": "0",
+			"needPoint": "4",
+			"inheritancePrice": "40",
+			"attackEffect": "EFF_COM_DARK_ALL",
+			"soundEffect": "bt_524",
 			"rank": "5",
 			"useCountValue": "1"
 		},

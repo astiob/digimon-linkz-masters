@@ -10187,6 +10187,83 @@
 			"effect": "chip_effect_10164"
 		},
 		{
+			"chipId": "100479",
+			"chipGroupId": "10165",
+			"name": "輝晶的 掉落特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10165",
+			"detail": "ATK+20。並且於「輝晶X聖霸-前篇-」中使片斷資料的獲得個數+1。",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100480",
+			"chipGroupId": "10165",
+			"name": "輝晶的 掉落特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10165",
+			"detail": "ATK+30。並且於「輝晶X聖霸-前篇-」中使片斷資料的獲得個數+3。",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100481",
+			"chipGroupId": "10165",
+			"name": "輝晶的 掉落特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10165",
+			"detail": "ATK+50。並且於「輝晶X聖霸-前篇-」中使片斷資料的獲得個數+9。",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100482",
+			"chipGroupId": "10166",
+			"name": "輝晶的 EXTRA STAGE特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10166",
+			"detail": "S-ATK+20。並且於「輝晶X聖霸-前篇-」中令EXTRA STAGE的發動率小幅提升。",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100483",
+			"chipGroupId": "10166",
+			"name": "輝晶的 EXTRA STAGE特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10166",
+			"detail": "S-ATK+30。並且於「輝晶X聖霸-前篇-」中令EXTRA STAGE的發動率中幅提升。",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100484",
+			"chipGroupId": "10166",
+			"name": "輝晶的 EXTRA STAGE特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10166",
+			"detail": "S-ATK+50。並且於「輝晶X聖霸-前篇-」中令EXTRA STAGE的發動率大幅提升。",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100485",
+			"chipGroupId": "10167",
+			"name": "聖霸的狀態特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10167",
+			"detail": "HP+50，並且於「輝晶X聖霸-後篇-」中的HP變為1.5倍、ATK、S-ATK變為2倍。",
+			"effect": "chip_effect_10134"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "破壞與救世的Pt特效 C",

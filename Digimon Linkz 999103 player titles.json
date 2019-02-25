@@ -659,6 +659,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1076",
+			"name": "第16期霸主",
+			"detail": "贈予第16期競技場霸主的光榮之證。",
+			"img": "honorific_colosseum_76",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1077",
+			"name": "第16期SSS級排名玩家",
+			"detail": "贈予第16期競技場最頂尖排名玩家的榮譽之證。",
+			"img": "honorific_colosseum_77",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1078",
+			"name": "第16期SS級排名玩家",
+			"detail": "贈予第16期競技場頂尖排名玩家的名譽之證。",
+			"img": "honorific_colosseum_78",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1079",
+			"name": "第16期S級排名玩家",
+			"detail": "贈予第16期競技場排名玩家的名聲之證。",
+			"img": "honorific_colosseum_79",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1080",
+			"name": "第16期挑戰者",
+			"detail": "贈予第16期競技場挑戰者的證明。",
+			"img": "honorific_colosseum_80",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10005",
 			"name": "究極X騎士 -OMEGA-",
 			"detail": "究極X騎士 -OMEGA- 最頂尖排名玩家的榮譽之證。",
