@@ -15001,6 +15001,21 @@
 			"useCountValue": "1"
 		},
 		{
+			"skillId": "40031",
+			"name": "Destroyer Cannon X",
+			"simpleDescription": "",
+			"description": "Massive physical Darkness damage to a single enemy. Usable once per battle",
+			"type": "3",
+			"skillGroupId": "0",
+			"skillGroupSubId": "0",
+			"needPoint": "4",
+			"inheritancePrice": "40",
+			"attackEffect": "EFF_COM_DARK_PHYSICAL",
+			"soundEffect": "bt_522",
+			"rank": "5",
+			"useCountValue": "1"
+		},
+		{
 			"skillId": "40032",
 			"name": "Racing Rush X",
 			"simpleDescription": "",
@@ -15012,6 +15027,21 @@
 			"inheritancePrice": "40",
 			"attackEffect": "EFF_COM_UNATTRIBUTED_ALL",
 			"soundEffect": "bt_527",
+			"rank": "5",
+			"useCountValue": "1"
+		},
+		{
+			"skillId": "40038",
+			"name": "Runic Forest X",
+			"simpleDescription": "",
+			"description": "Massive physical Darkness damage to all enemies. Usable once per battle",
+			"type": "3",
+			"skillGroupId": "0",
+			"skillGroupSubId": "0",
+			"needPoint": "4",
+			"inheritancePrice": "40",
+			"attackEffect": "EFF_COM_DARK_ALL",
+			"soundEffect": "bt_524",
 			"rank": "5",
 			"useCountValue": "1"
 		},
@@ -15031,6 +15061,21 @@
 			"useCountValue": "1"
 		},
 		{
+			"skillId": "40045",
+			"name": "Nightmare X",
+			"simpleDescription": "",
+			"description": "Massive magical Darkness damage to a single enemy. Usable once per battle",
+			"type": "3",
+			"skillGroupId": "0",
+			"skillGroupSubId": "0",
+			"needPoint": "4",
+			"inheritancePrice": "40",
+			"attackEffect": "EFF_COM_DARK_MAGIC",
+			"soundEffect": "bt_523",
+			"rank": "5",
+			"useCountValue": "1"
+		},
+		{
 			"skillId": "40046",
 			"name": "Energy Rush X",
 			"simpleDescription": "",
@@ -15042,6 +15087,21 @@
 			"inheritancePrice": "40",
 			"attackEffect": "EFF_COM_UNATTRIBUTED_ALL",
 			"soundEffect": "bt_527",
+			"rank": "5",
+			"useCountValue": "1"
+		},
+		{
+			"skillId": "40052",
+			"name": "Hades Crusher X",
+			"simpleDescription": "",
+			"description": "Massive magical Darkness damage to all enemies. Usable once per battle",
+			"type": "3",
+			"skillGroupId": "0",
+			"skillGroupSubId": "0",
+			"needPoint": "4",
+			"inheritancePrice": "40",
+			"attackEffect": "EFF_COM_DARK_ALL",
+			"soundEffect": "bt_524",
 			"rank": "5",
 			"useCountValue": "1"
 		},
