@@ -15001,6 +15001,21 @@
 			"useCountValue": "1"
 		},
 		{
+			"skillId": "40031",
+			"name": "디스트로이 캐논 X",
+			"simpleDescription": "",
+			"description": "적 하나에게 어둠속성으로\n매우 높은 물리 대미지. 배틀 중 1회 사용 가능",
+			"type": "3",
+			"skillGroupId": "0",
+			"skillGroupSubId": "0",
+			"needPoint": "4",
+			"inheritancePrice": "40",
+			"attackEffect": "EFF_COM_DARK_PHYSICAL",
+			"soundEffect": "bt_522",
+			"rank": "5",
+			"useCountValue": "1"
+		},
+		{
 			"skillId": "40032",
 			"name": "마하 러시 X",
 			"simpleDescription": "",
@@ -15012,6 +15027,21 @@
 			"inheritancePrice": "40",
 			"attackEffect": "EFF_COM_UNATTRIBUTED_ALL",
 			"soundEffect": "bt_527",
+			"rank": "5",
+			"useCountValue": "1"
+		},
+		{
+			"skillId": "40038",
+			"name": "룬 포레스트 X",
+			"simpleDescription": "",
+			"description": "적 전체에게 어둠속성으로\n매우 높은 물리 대미지. 배틀 중 1회 사용 가능",
+			"type": "3",
+			"skillGroupId": "0",
+			"skillGroupSubId": "0",
+			"needPoint": "4",
+			"inheritancePrice": "40",
+			"attackEffect": "EFF_COM_DARK_ALL",
+			"soundEffect": "bt_524",
 			"rank": "5",
 			"useCountValue": "1"
 		},
@@ -15031,6 +15061,21 @@
 			"useCountValue": "1"
 		},
 		{
+			"skillId": "40045",
+			"name": "나이트메어 X",
+			"simpleDescription": "",
+			"description": "적 하나에게 어둠속성으로\n매우 높은 마법 대미지. 배틀 중 1회 사용 가능",
+			"type": "3",
+			"skillGroupId": "0",
+			"skillGroupSubId": "0",
+			"needPoint": "4",
+			"inheritancePrice": "40",
+			"attackEffect": "EFF_COM_DARK_MAGIC",
+			"soundEffect": "bt_523",
+			"rank": "5",
+			"useCountValue": "1"
+		},
+		{
 			"skillId": "40046",
 			"name": "에너지 러시 X",
 			"simpleDescription": "",
@@ -15042,6 +15087,21 @@
 			"inheritancePrice": "40",
 			"attackEffect": "EFF_COM_UNATTRIBUTED_ALL",
 			"soundEffect": "bt_527",
+			"rank": "5",
+			"useCountValue": "1"
+		},
+		{
+			"skillId": "40052",
+			"name": "헬 크러셔 X",
+			"simpleDescription": "",
+			"description": "적 전체에게 어둠속성으로\n매우 높은 마법 대미지. 배틀 중 1회 사용 가능",
+			"type": "3",
+			"skillGroupId": "0",
+			"skillGroupSubId": "0",
+			"needPoint": "4",
+			"inheritancePrice": "40",
+			"attackEffect": "EFF_COM_DARK_ALL",
+			"soundEffect": "bt_524",
 			"rank": "5",
 			"useCountValue": "1"
 		},

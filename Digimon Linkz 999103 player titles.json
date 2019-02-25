@@ -659,6 +659,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1076",
+			"name": "제16회 제패자",
+			"detail": "제16회 콜로세움을 재패한 자에게 수여되는 영광의 증표",
+			"img": "honorific_colosseum_76",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1077",
+			"name": "제16회 SSS랭커",
+			"detail": "제16회 콜로세움의 최상위 랭커에게 수여되는 영예의 증표",
+			"img": "honorific_colosseum_77",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1078",
+			"name": "제16회 SS랭커",
+			"detail": "제16회 콜로세움의 상위 랭커에게 수여되는 명예의 증표",
+			"img": "honorific_colosseum_78",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1079",
+			"name": "제16회 S랭커",
+			"detail": "제16회 콜로세움의 랭커에게 수여되는 명성의 증표",
+			"img": "honorific_colosseum_79",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1080",
+			"name": "제16회 도전자",
+			"detail": "제16회 콜로세움에 도전한 자에게 수여되는 증표",
+			"img": "honorific_colosseum_80",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10005",
 			"name": "궁극X기사 -OMEGA- ",
 			"detail": "궁극X기사 -OMEGA 의 최상위 랭커에게 수여되는 영예의 증표",
