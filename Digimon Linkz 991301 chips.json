@@ -14180,6 +14180,72 @@
 			"effect": "chip_effect_10167"
 		},
 		{
+			"chipId": "100486",
+			"chipGroupId": "10168",
+			"name": "聖覇のPt特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10168",
+			"detail": "ATK+20。「輝晶 X 聖覇 -後編-」で獲得ポイントが1.5倍になる。",
+			"effect": "chip_effect_10168"
+		},
+		{
+			"chipId": "100487",
+			"chipGroupId": "10168",
+			"name": "聖覇のPt特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10168",
+			"detail": "ATK+30。「輝晶 X 聖覇 -後編-」で獲得ポイントが2.5倍になる。",
+			"effect": "chip_effect_10168"
+		},
+		{
+			"chipId": "100488",
+			"chipGroupId": "10168",
+			"name": "聖覇のPt特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10168",
+			"detail": "ATK+50。「輝晶 X 聖覇 -後編-」で獲得ポイントが5.5倍になる。",
+			"effect": "chip_effect_10168"
+		},
+		{
+			"chipId": "100489",
+			"chipGroupId": "10169",
+			"name": "聖覇のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10169",
+			"detail": "S-ATK+20。「輝晶 X 聖覇 -後編-」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10169"
+		},
+		{
+			"chipId": "100490",
+			"chipGroupId": "10169",
+			"name": "聖覇のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10169",
+			"detail": "S-ATK+30。「輝晶 X 聖覇 -後編-」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10169"
+		},
+		{
+			"chipId": "100491",
+			"chipGroupId": "10169",
+			"name": "聖覇のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10169",
+			"detail": "S-ATK+50。「輝晶 X 聖覇 -後編-」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10169"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

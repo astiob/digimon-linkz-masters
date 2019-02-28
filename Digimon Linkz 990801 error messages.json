@@ -128,7 +128,7 @@
 		},
 		{
 			"messageCode": "E-AL80",
-			"messageTitle": "重要なご報告",
+			"messageTitle": "重要なお知らせ",
 			"messageText": "【E-AL80】不正なデータを検知したため現在調査させて頂いております。\n調査の結果、不正行為が確認された場合、\nアカウントの削除の処置を行う場合がございます。",
 			"actionType": "1",
 			"actionValue": "1"

@@ -5067,6 +5067,23 @@
 			"modelId": "351"
 		},
 		{
+			"monsterGroupId": "352",
+			"monsterCollectionId": "60352",
+			"monsterName": "ジエスモンX抗体",
+			"simpleDescription": "",
+			"description": " X抗体が全身の装甲を刃に変え、より攻撃に特化したフォルムとなった。新たに装備されたいくつもの剣はそれぞれが自立行動を可能としており、一対一の勝負において一方的に敵を圧倒し続ける攻撃力をジエスモンに与えている。",
+			"growStep": "7",
+			"tribe": "1",
+			"partyCharaPosX": "0",
+			"partyCharaPosY": "-1.06",
+			"partyCharaPosZ": "-0.5",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "352"
+		},
+		{
 			"monsterGroupId": "5002",
 			"monsterCollectionId": "0",
 			"monsterName": "アグモン",

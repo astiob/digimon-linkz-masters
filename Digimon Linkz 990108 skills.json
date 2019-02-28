@@ -14716,6 +14716,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "982",
+			"name": "鉄拳断罪",
+			"simpleDescription": "",
+			"description": "確率で敵単体をスタンにし、無属性で物理大ダメージ、攻撃相手がスタン状態の場合威力アップ",
+			"type": "2",
+			"skillGroupId": "352",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "352",
+			"soundEffect": "bt_931",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "983",
+			"name": "鉄拳断罪",
+			"simpleDescription": "",
+			"description": "確率で敵単体をスタンにし、無属性で物理大ダメージ、攻撃相手がスタン状態の場合威力アップ",
+			"type": "2",
+			"skillGroupId": "352",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "352",
+			"soundEffect": "bt_931",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "プチフレイム",
 			"simpleDescription": "",

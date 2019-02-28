@@ -1150,7 +1150,7 @@
 		},
 		{
 			"messageCode": "OtherHistory",
-			"messageText": "履歴"
+			"messageText": "履歴/デジストーン内訳"
 		},
 		{
 			"messageCode": "OtherOfficialSite",
@@ -6547,6 +6547,46 @@
 		{
 			"messageCode": "Inquiry_MaintenanceText",
 			"messageText": "▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\n【発生日時】\n\n【発生した現象の詳細】（どの画面で何をしたらどうなったか）\n\n▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\nお問い合わせコード:{0}\nデバイス: {1}\nOSバージョン：{2}\nアプリバージョン：{3}\n"
+		},
+		{
+			"messageCode": "HitIconAttributeToleranceUp",
+			"messageText": "耐性UP"
+		},
+		{
+			"messageCode": "HitIconAttributeToleranceDown",
+			"messageText": "耐性DOWN"
+		},
+		{
+			"messageCode": "HitIconStateToleranceUp",
+			"messageText": "耐性UP"
+		},
+		{
+			"messageCode": "HitIconStateToleranceDown",
+			"messageText": "耐性DOWN"
+		},
+		{
+			"messageCode": "HitIconInvalidAttribute",
+			"messageText": "耐性UP"
+		},
+		{
+			"messageCode": "HitIconInvalidState",
+			"messageText": "耐性UP"
+		},
+		{
+			"messageCode": "HitIconAttributeAbsorption",
+			"messageText": "耐性UP"
+		},
+		{
+			"messageCode": "HitIconClearTolerance",
+			"messageText": "耐性クリア"
+		},
+		{
+			"messageCode": "MissionClearItemGet",
+			"messageText": "受け取り"
+		},
+		{
+			"messageCode": "MissionNotClear",
+			"messageText": "受け取れる報酬はありません"
 		}
 	]
 }

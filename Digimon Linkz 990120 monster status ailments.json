@@ -638,11 +638,25 @@
 			"monsterStatusAilmentMaterialId": "1"
 		},
 		{
+			"monsterId": "20511",
+			"assetCategoryId": "14",
+			"assetValue": "1070336",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "1"
+		},
+		{
 			"monsterId": "20516",
 			"assetCategoryId": "14",
 			"assetValue": "1070337",
 			"assetNum": "15",
 			"monsterStatusAilmentMaterialId": "7"
+		},
+		{
+			"monsterId": "20521",
+			"assetCategoryId": "14",
+			"assetValue": "1070338",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "6"
 		},
 		{
 			"monsterId": "20541",

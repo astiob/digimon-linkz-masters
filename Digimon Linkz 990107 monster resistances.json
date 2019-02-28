@@ -1261,6 +1261,24 @@
 			"death": "0"
 		},
 		{
+			"monsterResistanceId": "71",
+			"description": "ジエスモンX抗体",
+			"fire": "0",
+			"water": "0",
+			"thunder": "-1",
+			"nature": "0",
+			"none": "1",
+			"light": "0",
+			"dark": "-1",
+			"poison": "0",
+			"confusion": "-1",
+			"paralysis": "-1",
+			"sleep": "1",
+			"stun": "1",
+			"skillLock": "0",
+			"death": "-1"
+		},
+		{
 			"monsterResistanceId": "101",
 			"description": "幻生系降臨初級",
 			"fire": "0",

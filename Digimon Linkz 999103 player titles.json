@@ -904,6 +904,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1111",
+			"name": "第23回覇者",
+			"detail": "第23回コロシアムの覇者に送られる栄光の証",
+			"img": "honorific_colosseum_111",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1112",
+			"name": "第23回SSSランカー",
+			"detail": "第23回コロシアムの最上位ランカーに送られる栄誉の証",
+			"img": "honorific_colosseum_112",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1113",
+			"name": "第23回SSランカー",
+			"detail": "第23回コロシアムの上位ランカーに送られる名誉の証",
+			"img": "honorific_colosseum_113",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1114",
+			"name": "第23回Sランカー",
+			"detail": "第23回コロシアムのランカーに送られる名声の証",
+			"img": "honorific_colosseum_114",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1115",
+			"name": "第23回挑戦者",
+			"detail": "第23回コロシアムの挑戦者に送られる証",
+			"img": "honorific_colosseum_115",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10001",
 			"name": "竜帝の系譜トップ100",
 			"detail": "イベント「竜帝の系譜」トップ100位に送られる栄誉の証",
@@ -1006,6 +1041,27 @@
 			"name": "神槍と魔弾 -ブロンズ-",
 			"detail": "イベント「神槍と魔弾」トップ250位に送られる名誉の証",
 			"img": "honorific_event_15",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10016",
+			"name": "輝晶 X 聖覇 -ゴールド-",
+			"detail": "イベント「輝晶 X 聖覇」トップ30位に送られる英傑の証",
+			"img": "honorific_event_16",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10017",
+			"name": "輝晶 X 聖覇 -シルバー-",
+			"detail": "イベント「輝晶 X 聖覇」トップ100位に送られる栄誉の証",
+			"img": "honorific_event_17",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10018",
+			"name": "輝晶 X 聖覇 -ブロンズ-",
+			"detail": "イベント「輝晶 X 聖覇」トップ250位に送られる名誉の証",
+			"img": "honorific_event_18",
 			"dispFlg": "0"
 		}
 	]

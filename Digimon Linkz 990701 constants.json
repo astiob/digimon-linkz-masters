@@ -108,6 +108,7 @@
 		"pvpPartySelectTime": "15",
 		"pvpSelectDataRetryTime": "5",
 		"pvpSelectDataRetryCount": "10",
-		"pvpMaxRank": "8"
+		"pvpMaxRank": "8",
+		"pvpBattleEndJudgmentCheck": "5"
 	}
 }
