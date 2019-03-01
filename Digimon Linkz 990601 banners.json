@@ -3167,6 +3167,17 @@
 			"dispNum": "14",
 			"startTime": "2019-02-25 16:00:00",
 			"endTime": "2019-02-28 23:59:59"
+		},
+		{
+			"bannerId": "100291",
+			"actionType": "menu",
+			"name": "舉辦活動「第1彈　春祭典登入獎勵」！",
+			"img": "/login/10035/10035_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=551",
+			"dispNum": "100",
+			"startTime": "2019-03-01 05:00:00",
+			"endTime": "2019-03-08 04:59:59"
 		}
 	]
 }
