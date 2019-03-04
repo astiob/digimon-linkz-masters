@@ -6655,6 +6655,46 @@
 		{
 			"messageCode": "Inquiry_MaintenanceText",
 			"messageText": "▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\n[발생 일시]\n\n[발생한 현상에 대한 자세한 정보](어떤 화면에서 무슨 조작을 했고 어떻게 되었는지)\n\n▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\n문의 코드: {0}\n디바이스: {1}\nOS 버전: {2}\n어플리케이션 버전: {3}\n"
+		},
+		{
+			"messageCode": "HitIconAttributeToleranceUp",
+			"messageText": "내성UP"
+		},
+		{
+			"messageCode": "HitIconAttributeToleranceDown",
+			"messageText": "내성DOWN"
+		},
+		{
+			"messageCode": "HitIconStateToleranceUp",
+			"messageText": "내성UP"
+		},
+		{
+			"messageCode": "HitIconStateToleranceDown",
+			"messageText": "내성DOWN"
+		},
+		{
+			"messageCode": "HitIconInvalidAttribute",
+			"messageText": "내성UP"
+		},
+		{
+			"messageCode": "HitIconInvalidState",
+			"messageText": "내성UP"
+		},
+		{
+			"messageCode": "HitIconAttributeAbsorption",
+			"messageText": "내성UP"
+		},
+		{
+			"messageCode": "HitIconClearTolerance",
+			"messageText": "내성해제"
+		},
+		{
+			"messageCode": "MissionClearItemGet",
+			"messageText": "수령한다"
+		},
+		{
+			"messageCode": "MissionNotClear",
+			"messageText": "수령 가능한 보상이 없습니다."
 		}
 	]
 }

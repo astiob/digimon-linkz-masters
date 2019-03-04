@@ -5067,6 +5067,23 @@
 			"modelId": "351"
 		},
 		{
+			"monsterGroupId": "352",
+			"monsterCollectionId": "60352",
+			"monsterName": "제스몬X항체",
+			"simpleDescription": "",
+			"description": "X항체가 영향을 끼쳐 전신의 장갑이 검으로 바뀌면서 더욱 공격에 특화된 모습으로 변했다. 새롭게 장착된 여러 개의 검은 각각 자립 행동이 가능하며, 제스몬에게 1대1 승부에서 일방적으로 적을 압도하는 공격력을 부여한다.",
+			"growStep": "7",
+			"tribe": "1",
+			"partyCharaPosX": "0",
+			"partyCharaPosY": "-1.06",
+			"partyCharaPosZ": "-0.5",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "352"
+		},
+		{
 			"monsterGroupId": "6001",
 			"monsterCollectionId": "0",
 			"monsterName": "깜몬",

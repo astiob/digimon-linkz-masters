@@ -913,6 +913,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1070352",
+			"soulName": "제스몬X항체 데이터 조각",
+			"description": "제스몬X항체으로 진화할 때 필요한 데이터 조각",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "1076006",
 			"soulName": "샤인그레이몬의 데이터 조각",
 			"description": "샤인그레이몬으로 진화할 때 필요한 데이터 조각",

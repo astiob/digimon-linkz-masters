@@ -769,6 +769,27 @@
 			"detail": "신창과 마탄 -후편- 의 랭커에게 수여되는 명예의 증표",
 			"img": "honorific_event_15",
 			"dispFlg": "0"
+		},
+		{
+			"titleId": "10016",
+			"name": "성패",
+			"detail": "빛나는 크리스탈 X 성패 -후편- 의 랭커에게 수여되는 명예의 증표",
+			"img": "honorific_event_16",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10017",
+			"name": "성패",
+			"detail": "빛나는 크리스탈 X 성패 -후편- 의 랭커에게 수여되는 명예의 증표",
+			"img": "honorific_event_17",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10018",
+			"name": "성패",
+			"detail": "빛나는 크리스탈 X 성패 -후편- 의 랭커에게 수여되는 명예의 증표",
+			"img": "honorific_event_18",
+			"dispFlg": "0"
 		}
 	]
 }

@@ -14461,6 +14461,36 @@
 			"useCountValue": "0"
 		},
 		{
+			"skillId": "982",
+			"name": "철권단죄",
+			"simpleDescription": "",
+			"description": "적 하나에게 일정 확률로 기절 부여 및 무속성으로 매우 높은 물리 대미지+공격 대상이 기절 상태일 때 위력 상승",
+			"type": "2",
+			"skillGroupId": "352",
+			"skillGroupSubId": "1",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "352",
+			"soundEffect": "bt_931",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
+			"skillId": "983",
+			"name": "철권단죄",
+			"simpleDescription": "",
+			"description": "적 하나에게 일정 확률로 기절 부여 및 무속성으로 매우 높은 물리 대미지+공격 대상이 기절 상태일 때 위력 상승",
+			"type": "2",
+			"skillGroupId": "352",
+			"skillGroupSubId": "2",
+			"needPoint": "3",
+			"inheritancePrice": "300",
+			"attackEffect": "352",
+			"soundEffect": "bt_931",
+			"rank": "1",
+			"useCountValue": "0"
+		},
+		{
 			"skillId": "9001",
 			"name": "푸치 플레임",
 			"simpleDescription": "",
