@@ -3361,6 +3361,36 @@
 			"num": "10"
 		},
 		{
+			"monsterTranceId": "561",
+			"monsterId": "1751",
+			"soulId": "1070352",
+			"num": "2"
+		},
+		{
+			"monsterTranceId": "562",
+			"monsterId": "1752",
+			"soulId": "1070352",
+			"num": "3"
+		},
+		{
+			"monsterTranceId": "563",
+			"monsterId": "1753",
+			"soulId": "1070352",
+			"num": "5"
+		},
+		{
+			"monsterTranceId": "564",
+			"monsterId": "1754",
+			"soulId": "1070352",
+			"num": "7"
+		},
+		{
+			"monsterTranceId": "565",
+			"monsterId": "1755",
+			"soulId": "1070352",
+			"num": "10"
+		},
+		{
 			"monsterTranceId": "10001",
 			"monsterId": "6026",
 			"soulId": "1076006",
@@ -13327,7 +13357,19 @@
 			"num": "15"
 		},
 		{
+			"monsterTranceId": "20481",
+			"monsterId": "20511",
+			"soulId": "1070336",
+			"num": "15"
+		},
+		{
 			"monsterTranceId": "20491",
+			"monsterId": "20521",
+			"soulId": "1070338",
+			"num": "15"
+		},
+		{
+			"monsterTranceId": "20511",
 			"monsterId": "20541",
 			"soulId": "1070342",
 			"num": "15"

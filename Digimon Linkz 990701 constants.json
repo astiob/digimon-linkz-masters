@@ -112,6 +112,7 @@
 		"pvpMaxRank": "8",
 		"gdprOptOutSiteURL": "https://optout.channel.or.jp",
 		"usdigimonAgreeAdress": "http://legal.bandainamcoent.co.jp/terms/",
-		"usdigimonPrivacyPolicyAdress": "http://legal.bandainamcoent.co.jp/privacy/"
+		"usdigimonPrivacyPolicyAdress": "http://legal.bandainamcoent.co.jp/privacy/",
+		"pvpBattleEndJudgmentCheck": "5"
 	}
 }

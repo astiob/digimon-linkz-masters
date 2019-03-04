@@ -5067,6 +5067,23 @@
 			"modelId": "351"
 		},
 		{
+			"monsterGroupId": "352",
+			"monsterCollectionId": "60352",
+			"monsterName": "Jesmon X Anti-body",
+			"simpleDescription": "",
+			"description": "The X Anti-body has turned its full-body armor into blades.The newly equipped multiple blades are all capable of independent movement, giving Jesmon a power to keep dominating its enemy one-sidedly in single combat.",
+			"growStep": "7",
+			"tribe": "1",
+			"partyCharaPosX": "0",
+			"partyCharaPosY": "-1.06",
+			"partyCharaPosZ": "-0.5",
+			"partyCharaRotY": "180",
+			"monsterType": "0",
+			"monsterStatusId": "0",
+			"leaderSkillId": "0",
+			"modelId": "352"
+		},
+		{
 			"monsterGroupId": "6001",
 			"monsterCollectionId": "0",
 			"monsterName": "Botamon",

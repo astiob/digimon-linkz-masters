@@ -769,6 +769,27 @@
 			"detail": "Proof of the renown of reaching a high rank in the Holy Lance and Demon Bullet -Part 2-",
 			"img": "honorific_event_15",
 			"dispFlg": "0"
+		},
+		{
+			"titleId": "10016",
+			"name": "Holy Conquest",
+			"detail": "Proof of the renown of reaching a high rank in the Radiant Crystal X Holy Conquest -Part 2-",
+			"img": "honorific_event_16",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10017",
+			"name": "Holy Conquest",
+			"detail": "Proof of the renown of reaching a high rank in the Radiant Crystal X Holy Conquest -Part 2-",
+			"img": "honorific_event_17",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10018",
+			"name": "Holy Conquest",
+			"detail": "Proof of the renown of reaching a high rank in the Radiant Crystal X Holy Conquest -Part 2-",
+			"img": "honorific_event_18",
+			"dispFlg": "0"
 		}
 	]
 }

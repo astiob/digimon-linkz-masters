@@ -6655,6 +6655,46 @@
 		{
 			"messageCode": "Inquiry_MaintenanceText",
 			"messageText": "▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\n[Date and time issue occurred]\n\n[Information about the issue] (What you were doing, on which screen, and what occurred)\n\n▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\nInquiry Code: {0}\nDevice: {1}\nOS Version: {2} \nApp Version: {3}\n"
+		},
+		{
+			"messageCode": "HitIconAttributeToleranceUp",
+			"messageText": "Resistance UP"
+		},
+		{
+			"messageCode": "HitIconAttributeToleranceDown",
+			"messageText": "Resistance DOWN"
+		},
+		{
+			"messageCode": "HitIconStateToleranceUp",
+			"messageText": "Resistance UP"
+		},
+		{
+			"messageCode": "HitIconStateToleranceDown",
+			"messageText": "Resistance DOWN"
+		},
+		{
+			"messageCode": "HitIconInvalidAttribute",
+			"messageText": "Resistance UP"
+		},
+		{
+			"messageCode": "HitIconInvalidState",
+			"messageText": "Resistance UP"
+		},
+		{
+			"messageCode": "HitIconAttributeAbsorption",
+			"messageText": "Resistance UP"
+		},
+		{
+			"messageCode": "HitIconClearTolerance",
+			"messageText": "resistance Clear"
+		},
+		{
+			"messageCode": "MissionClearItemGet",
+			"messageText": "Claim"
+		},
+		{
+			"messageCode": "MissionNotClear",
+			"messageText": "No Rewards Available"
 		}
 	]
 }

@@ -10264,6 +10264,72 @@
 			"effect": "chip_effect_10134"
 		},
 		{
+			"chipId": "100486",
+			"chipGroupId": "10168",
+			"name": "Holy Conquest Pt Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10168",
+			"detail": "ATK +20. Also increases obtainable Pts by x1.5 in \"Radiant Crystal X Holy Conquest -Part 2-\" event.",
+			"effect": "chip_effect_10157"
+		},
+		{
+			"chipId": "100487",
+			"chipGroupId": "10168",
+			"name": "Holy Conquest Pt Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10168",
+			"detail": "ATK +30. Also increases obtainable Pts by x3 in \"Radiant Crystal X Holy Conquest -Part 2-\" event.",
+			"effect": "chip_effect_10157"
+		},
+		{
+			"chipId": "100488",
+			"chipGroupId": "10168",
+			"name": "Holy Conquest Pt Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10168",
+			"detail": "ATK +50. Also increases obtainable Pts by x7.5 in \"Radiant Crystal X Holy Conquest -Part 2-\" event.",
+			"effect": "chip_effect_10157"
+		},
+		{
+			"chipId": "100489",
+			"chipGroupId": "10169",
+			"name": "Holy Conquest EX stage Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10169",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the EXTRA STAGE in the \"Radiant Crystal X Holy Conquest -Part 2-\" event.",
+			"effect": "chip_effect_10158"
+		},
+		{
+			"chipId": "100490",
+			"chipGroupId": "10169",
+			"name": "Holy Conquest EX stage Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10169",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the EXTRA STAGE in the \"Radiant Crystal X Holy Conquest -Part 2-\" event.",
+			"effect": "chip_effect_10158"
+		},
+		{
+			"chipId": "100491",
+			"chipGroupId": "10169",
+			"name": "Holy Conquest EX stage Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10169",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the EXTRA STAGE in the \"Radiant Crystal X Holy Conquest -Part 2-\" event.",
+			"effect": "chip_effect_10158"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",
