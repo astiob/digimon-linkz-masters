@@ -6655,6 +6655,46 @@
 		{
 			"messageCode": "Inquiry_MaintenanceText",
 			"messageText": "▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\n【發生時間】\n\n【異常狀態發生詳情】（執行某動作後導致某畫面發生某異常）\n\n▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼▽▼\n詢問碼：{0}\n裝置：{1}\n作業系統版本：{2}\nApp版本：{3}\n"
+		},
+		{
+			"messageCode": "HitIconAttributeToleranceUp",
+			"messageText": "抗性UP"
+		},
+		{
+			"messageCode": "HitIconAttributeToleranceDown",
+			"messageText": "抗性DOWN"
+		},
+		{
+			"messageCode": "HitIconStateToleranceUp",
+			"messageText": "抗性UP"
+		},
+		{
+			"messageCode": "HitIconStateToleranceDown",
+			"messageText": "抗性DOWN"
+		},
+		{
+			"messageCode": "HitIconInvalidAttribute",
+			"messageText": "抗性UP"
+		},
+		{
+			"messageCode": "HitIconInvalidState",
+			"messageText": "抗性UP"
+		},
+		{
+			"messageCode": "HitIconAttributeAbsorption",
+			"messageText": "抗性UP"
+		},
+		{
+			"messageCode": "HitIconClearTolerance",
+			"messageText": "抗性解除"
+		},
+		{
+			"messageCode": "MissionClearItemGet",
+			"messageText": "領取"
+		},
+		{
+			"messageCode": "MissionNotClear",
+			"messageText": "沒有能夠領取的報酬"
 		}
 	]
 }

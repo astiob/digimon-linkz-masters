@@ -3178,6 +3178,39 @@
 			"dispNum": "100",
 			"startTime": "2019-03-01 05:00:00",
 			"endTime": "2019-03-08 04:59:59"
+		},
+		{
+			"bannerId": "100292",
+			"actionType": "menu",
+			"name": "舉辦活動「輝晶X聖霸-後篇-」！",
+			"img": "/events/point/45/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=547",
+			"dispNum": "50",
+			"startTime": "2019-03-04 18:00:00",
+			"endTime": "2019-03-10 13:59:59"
+		},
+		{
+			"bannerId": "100295",
+			"actionType": "menu",
+			"name": "舉辦「究極體大會捕捉」！",
+			"img": "/gasha/special/10218/10218_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=555",
+			"dispNum": "15",
+			"startTime": "2019-03-04 16:00:00",
+			"endTime": "2019-03-11 15:59:59"
+		},
+		{
+			"bannerId": "100296",
+			"actionType": "menu",
+			"name": "舉辦「輝晶X聖霸-後篇-」特效晶片捕捉！",
+			"img": "/gasha/special/30113/30113_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=556",
+			"dispNum": "19",
+			"startTime": "2019-03-04 16:00:00",
+			"endTime": "2019-03-10 13:59:59"
 		}
 	]
 }

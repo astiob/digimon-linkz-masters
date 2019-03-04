@@ -769,6 +769,27 @@
 			"detail": "神槍與魔彈-後篇- 排名玩家的名譽之證。",
 			"img": "honorific_event_15",
 			"dispFlg": "0"
+		},
+		{
+			"titleId": "10016",
+			"name": "輝晶X聖霸",
+			"detail": "輝晶X聖霸-後篇- 排名玩家的名譽之證。",
+			"img": "honorific_event_16",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10017",
+			"name": "輝晶X聖霸",
+			"detail": "輝晶X聖霸-後篇- 排名玩家的名譽之證。",
+			"img": "honorific_event_17",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10018",
+			"name": "輝晶X聖霸",
+			"detail": "輝晶X聖霸-後篇- 排名玩家的名譽之證。",
+			"img": "honorific_event_18",
+			"dispFlg": "0"
 		}
 	]
 }
