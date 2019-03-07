@@ -480,6 +480,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "70003",
+			"name": "究極體禮物捕捉券",
+			"description": "究極體禮物捕捉券，為可在同時舉辦之「究極體禮物捕捉」進行捕捉的道具。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/special_ticket_00",
+				"EventResource/Item/item_70003"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "100000",
 			"name": "碎片任選兌換券",
 			"description": "可在交換所兌換任意究極體數碼寶貝進化素材的兌換券。",
