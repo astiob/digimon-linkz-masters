@@ -2274,6 +2274,196 @@
 			"tutorialNaviId": "19088",
 			"message": "さあ！帰りましょう♪",
 			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20001",
+			"message": "$USER_INPUT_NAME$さんの活躍で、デジタルワールド各エリアの復旧もだいぶ進んできましたね！",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20002",
+			"message": "でも､各機能は回復させたのですが、\nエリア間のリンクが不安定で\n相互干渉が起きているようです。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20003",
+			"message": "この対応方法を調べていたんですが… ",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20004",
+			"message": "先日のヴォルケニックドラモンの襲撃で、ファームの一部が書き換えられているみたいなんです。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20005",
+			"message": "そのプロセスには､\nデジタルワールド基幹フレームに干渉できる\n特定の上位コードが使用されていました",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20006",
+			"message": "この｢キーコード｣と呼ばれるデータを、\n使えば､相互干渉しているデータを制御し\nリンクを安定化できるはず!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20007",
+			"message": "そのキーコードがある場所は\n解析で割り出せたのですが…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20008",
+			"message": "そこには強力なデジモン達の反応も…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20009",
+			"message": "$USER_INPUT_NAME$さん！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20010",
+			"message": "お願いします！\nまた力を貸してもらえませんか？",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20011",
+			"message": "…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20012",
+			"message": "$USER_INPUT_NAME$さんなら\nそう言ってもらえると信じていました！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20013",
+			"message": "ばっちりサポートしちゃいますからね！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20014",
+			"message": "…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20015",
+			"message": "(…でも､ヴォルケニックドラモンは \nどうして基幹フレームにアクセスすることができたの？)",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20016",
+			"message": "(襲撃時にみせた周囲の環境データすら\n書き換えるあの能力…)",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20017",
+			"message": "(上位干渉権限すらもつあのデジモン…)",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20018",
+			"message": "(ヴォルケニックドラモンには、\n 何かデジタルワールドでの役割があった…とか？)",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20019",
+			"message": "…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20020",
+			"message": "…あ！ごめんなさい！\nちょっと考え事してました…",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20021",
+			"message": "それじゃあ、さっそく向かいましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20022",
+			"message": "$USER_INPUT_NAME$さん",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20023",
+			"message": "これでキーコードが全て集まりました！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20024",
+			"message": "これでリンクを安定させることが…",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20025",
+			"message": "あ…あれ？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20026",
+			"message": "プログラムが実行できない？",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20027",
+			"message": "そんなはずは…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20028",
+			"message": "ちょ…ちょっと待っててくださいね",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20029",
+			"message": "今､解析します！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20030",
+			"message": "…ランレベル変更…サブコーポネント…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20031",
+			"message": "参照先トレース…エラー…エラー…エラー",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20032",
+			"message": "なら､クラスドライバを変更…これで！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20033",
+			"message": "出ました！",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20034",
+			"message": "管理者権限での実行が必要みたいですね",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20035",
+			"message": "えーと…この割り当てIPは…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20036",
+			"message": "… ",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20037",
+			"message": "これは…！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20038",
+			"message": "ヴォルケニックドラモン！？",
+			"face": "2"
 		}
 	]
 }

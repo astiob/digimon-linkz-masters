@@ -1320,6 +1320,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "106",
+			"name": "春宴の断片データ",
+			"description": "春宴のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_106",
+				"EventResource/Item/item_106"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "115",
 			"name": "聖覇の断片データ",
 			"description": "聖覇のデータが断片化したもの。交換所で様々なものと交換可能。",
@@ -1431,6 +1444,19 @@
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_70002",
 				"EventResource/Item/item_70002"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
+			"itemId": "70003",
+			"name": "究極体プレゼントキャプチャ券",
+			"description": "究極体プレゼントキャプチャを行うことができるキャプチャ券。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_70003",
+				"EventResource/Item/item_70003"
 			],
 			"unitName": "個",
 			"upValue": "1",

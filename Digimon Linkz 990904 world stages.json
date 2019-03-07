@@ -3823,6 +3823,19 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6187",
+			"worldAreaId": "1115",
+			"priority": "1050",
+			"name": "乱戦 -春宴-",
+			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/64/Holding_3.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",
@@ -4430,6 +4443,19 @@
 			"prerequisiteWorldStageId": "0",
 			"stageImage": "null",
 			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
+			"worldStageId": "9100001",
+			"worldAreaId": "9100001",
+			"priority": "1",
+			"name": "天地龍明 一章 「龍脈の鍵」",
+			"description": "ヒナと共に7つのキーコードを集めよう",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/10002/Holding_3.png",
+			"openTime": "2015-05-01 00:00:00",
 			"closeTime": "2030-05-01 00:00:00",
 			"adminOpenFlg": "0"
 		}

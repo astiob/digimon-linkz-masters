@@ -8986,6 +8986,94 @@
 			"dispNum": "100",
 			"startTime": "2019-03-01 05:00:00",
 			"endTime": "2019-03-08 04:59:59"
+		},
+		{
+			"bannerId": "855",
+			"actionType": "menu",
+			"name": "イベント「乱戦 -春宴-」開催！",
+			"img": "/events/syuusyuu/64/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1374",
+			"dispNum": "50",
+			"startTime": "2019-03-07 18:00:00",
+			"endTime": "2019-03-13 23:59:59"
+		},
+		{
+			"bannerId": "856",
+			"actionType": "menu",
+			"name": "食事経験値アップキャンペーン",
+			"img": "/campaign/10003/10003_mealexp_99.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1375",
+			"dispNum": "103",
+			"startTime": "2019-03-07 16:00:00",
+			"endTime": "2019-04-04 15:59:59"
+		},
+		{
+			"bannerId": "857",
+			"actionType": "menu",
+			"name": "強化運上昇確率アップキャンペーン開催！",
+			"img": "/campaign/10004/10004_powerluck.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1376",
+			"dispNum": "102",
+			"startTime": "2019-03-07 16:00:00",
+			"endTime": "2019-04-04 15:59:59"
+		},
+		{
+			"bannerId": "858",
+			"actionType": "menu",
+			"name": "才能メダル引き継ぎ確率UPキャンペーン開催",
+			"img": "/campaign/11002/11002_labomedal.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1377",
+			"dispNum": "101",
+			"startTime": "2019-03-07 16:00:00",
+			"endTime": "2019-03-14 15:59:59"
+		},
+		{
+			"bannerId": "859",
+			"actionType": "menu",
+			"name": "才能メダルキャプチャ開催！",
+			"img": "/gasha/special/10099/10099_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1378",
+			"dispNum": "5",
+			"startTime": "2019-03-07 16:00:00",
+			"endTime": "2019-03-14 15:59:59"
+		},
+		{
+			"bannerId": "860",
+			"actionType": "menu",
+			"name": "乱戦 -春宴- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30114/30114_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1379",
+			"dispNum": "7",
+			"startTime": "2019-03-07 16:00:00",
+			"endTime": "2019-03-13 23:59:59"
+		},
+		{
+			"bannerId": "861",
+			"actionType": "menu",
+			"name": "第2弾 3周年記念ログインボーナス開催！",
+			"img": "/login/10036/10036_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1380",
+			"dispNum": "100",
+			"startTime": "2019-03-08 05:00:00",
+			"endTime": "2019-03-23 04:59:59"
+		},
+		{
+			"bannerId": "863",
+			"actionType": "menu",
+			"name": "3周年記念究極体プレゼントキャプチャ開催！",
+			"img": "/gasha/special/10220/10220_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1384",
+			"dispNum": "20",
+			"startTime": "2019-03-08 05:00:00",
+			"endTime": "2019-04-11 15:59:59"
 		}
 	]
 }

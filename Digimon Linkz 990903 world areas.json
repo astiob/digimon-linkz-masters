@@ -1451,6 +1451,30 @@
 			"prerequisiteWorldAreaId": "0",
 			"openTime": "2015-05-01 00:00:00",
 			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "1115",
+			"worldId": "6",
+			"priority": "10",
+			"name": "乱戦 -春宴-",
+			"img": "syuusyuu/64/Holding_1.png",
+			"description": "断片データを集めて、さまざまな報酬を手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "9100001",
+			"worldId": "6",
+			"priority": "19",
+			"name": "天地龍明 一章",
+			"img": "syuusyuu/10002/Holding_1.png",
+			"description": "ヒナと共に7つのキーコードを集めよう！",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
 		}
 	]
 }

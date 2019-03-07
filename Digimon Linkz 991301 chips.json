@@ -14246,6 +14246,72 @@
 			"effect": "chip_effect_10169"
 		},
 		{
+			"chipId": "100492",
+			"chipGroupId": "10170",
+			"name": "春宴のドロップ特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10170",
+			"detail": "ATK+20。「乱戦 -春宴-」で交換所アイテムドロップ時の取得個数が+1される。",
+			"effect": "chip_effect_10170"
+		},
+		{
+			"chipId": "100493",
+			"chipGroupId": "10170",
+			"name": "春宴のドロップ特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10170",
+			"detail": "ATK+30。「乱戦 -春宴-」で交換所アイテムドロップ時の取得個数が+3される。",
+			"effect": "chip_effect_10170"
+		},
+		{
+			"chipId": "100494",
+			"chipGroupId": "10170",
+			"name": "春宴のドロップ特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10170",
+			"detail": "ATK+50。「乱戦 -春宴-」で交換所アイテムドロップ時の取得個数が+9される。",
+			"effect": "chip_effect_10170"
+		},
+		{
+			"chipId": "100495",
+			"chipGroupId": "10171",
+			"name": "春宴のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10171",
+			"detail": "S-ATK+20。「乱戦 -春宴-」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10171"
+		},
+		{
+			"chipId": "100496",
+			"chipGroupId": "10171",
+			"name": "春宴のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10171",
+			"detail": "S-ATK+30。「乱戦 -春宴-」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10171"
+		},
+		{
+			"chipId": "100497",
+			"chipGroupId": "10171",
+			"name": "春宴のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10171",
+			"detail": "S-ATK+50。「乱戦 -春宴-」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10171"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",
