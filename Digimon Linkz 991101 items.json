@@ -480,6 +480,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "70003",
+			"name": "궁극체 선물 캡처 티켓",
+			"description": " ‘궁극체 선물 캡처 티켓’은 동시에 개최되는 ‘궁극체 선물 캡처’를 이용할 수 있는 아이템입니다.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/special_ticket_00",
+				"EventResource/Item/item_70003"
+			],
+			"unitName": "개 ",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "100000",
 			"name": "조각 선택 교환권",
 			"description": "교환소에서 원하는 궁극체 디지몬의 진화 재료로 교환할 수 있는 교환권.",
