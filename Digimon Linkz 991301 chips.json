@@ -10330,6 +10330,72 @@
 			"effect": "chip_effect_10158"
 		},
 		{
+			"chipId": "100492",
+			"chipGroupId": "10170",
+			"name": "春嵐的 掉落特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10170",
+			"detail": "ATK+20。並且於「春嵐 RUSH!」中使片斷資料的獲得個數+1。",
+			"effect": "chip_effect_10170"
+		},
+		{
+			"chipId": "100493",
+			"chipGroupId": "10170",
+			"name": "春嵐的 掉落特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10170",
+			"detail": "ATK+30。並且於「春嵐 RUSH!」中使片斷資料的獲得個數+3。",
+			"effect": "chip_effect_10170"
+		},
+		{
+			"chipId": "100494",
+			"chipGroupId": "10170",
+			"name": "春嵐的 掉落特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10170",
+			"detail": "ATK+50。並且於「春嵐 RUSH!」中使片斷資料的獲得個數+9。",
+			"effect": "chip_effect_10170"
+		},
+		{
+			"chipId": "100495",
+			"chipGroupId": "10171",
+			"name": "春嵐的 EXTRA STAGE特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10171",
+			"detail": "S-ATK+20。並且於「春嵐 RUSH!」中令EXTRA STAGE的發動率小幅提升。",
+			"effect": "chip_effect_10171"
+		},
+		{
+			"chipId": "100496",
+			"chipGroupId": "10171",
+			"name": "春嵐的 EXTRA STAGE特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10171",
+			"detail": "S-ATK+30。並且於「春嵐 RUSH!」中令EXTRA STAGE的發動率中幅提升。",
+			"effect": "chip_effect_10171"
+		},
+		{
+			"chipId": "100497",
+			"chipGroupId": "10171",
+			"name": "春嵐的 EXTRA STAGE特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10171",
+			"detail": "S-ATK+50。並且於「春嵐 RUSH!」中令EXTRA STAGE的發動率大幅提升。",
+			"effect": "chip_effect_10171"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "破壞與救世的Pt特效 C",
