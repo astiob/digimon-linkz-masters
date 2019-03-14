@@ -4501,6 +4501,60 @@
 			"exValue": "0"
 		},
 		{
+			"assetSalesBonusId": "501",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100498",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "1",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "502",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100499",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "8",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "503",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100500",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "50",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "504",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100501",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "1",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "505",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100502",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "8",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "506",
+			"baseAssetCategoryId": "17",
+			"baseAssetValue": "100503",
+			"bonusAssetCategoryId": "6",
+			"bonusAssetValue": "50002",
+			"bonusAssetNum": "50",
+			"exValue": "0"
+		},
+		{
 			"assetSalesBonusId": "500001",
 			"baseAssetCategoryId": "1",
 			"baseAssetValue": "831",
@@ -11202,6 +11256,24 @@
 			"baseAssetValue": "20541",
 			"bonusAssetCategoryId": "14",
 			"bonusAssetValue": "1070342",
+			"bonusAssetNum": "14",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "520565",
+			"baseAssetCategoryId": "1",
+			"baseAssetValue": "20566",
+			"bonusAssetCategoryId": "14",
+			"bonusAssetValue": "1070347",
+			"bonusAssetNum": "14",
+			"exValue": "0"
+		},
+		{
+			"assetSalesBonusId": "520580",
+			"baseAssetCategoryId": "1",
+			"baseAssetValue": "20581",
+			"bonusAssetCategoryId": "14",
+			"bonusAssetValue": "1070350",
 			"bonusAssetNum": "14",
 			"exValue": "0"
 		}

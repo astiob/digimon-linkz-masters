@@ -14312,6 +14312,72 @@
 			"effect": "chip_effect_10171"
 		},
 		{
+			"chipId": "100498",
+			"chipGroupId": "10172",
+			"name": "神馬 X 豹傑のPt特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10172",
+			"detail": "ATK+20。「神馬 X 豹傑」で獲得ポイントが1.5倍になる。",
+			"effect": "chip_effect_10172"
+		},
+		{
+			"chipId": "100499",
+			"chipGroupId": "10172",
+			"name": "神馬 X 豹傑のPt特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10172",
+			"detail": "ATK+30。「神馬 X 豹傑」で獲得ポイントが2.5倍になる。",
+			"effect": "chip_effect_10172"
+		},
+		{
+			"chipId": "100500",
+			"chipGroupId": "10172",
+			"name": "神馬 X 豹傑のPt特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10172",
+			"detail": "ATK+50。「神馬 X 豹傑」で獲得ポイントが5.5倍になる。",
+			"effect": "chip_effect_10172"
+		},
+		{
+			"chipId": "100501",
+			"chipGroupId": "10173",
+			"name": "神馬 X 豹傑のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10173",
+			"detail": "S-ATK+20。「神馬 X 豹傑」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10173"
+		},
+		{
+			"chipId": "100502",
+			"chipGroupId": "10173",
+			"name": "神馬 X 豹傑のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10173",
+			"detail": "S-ATK+30。「神馬 X 豹傑」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10173"
+		},
+		{
+			"chipId": "100503",
+			"chipGroupId": "10173",
+			"name": "神馬 X 豹傑のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10173",
+			"detail": "S-ATK+50。「神馬 X 豹傑」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10173"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",
