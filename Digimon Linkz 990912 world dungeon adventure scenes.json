@@ -1,3 +1,53 @@
 {
-	"worldDungeonAdventureSceneM": []
+	"worldDungeonAdventureSceneM": [
+		{
+			"worldDungeonId": "9100002",
+			"adventureId": "0",
+			"adventureTrigger": "1",
+			"adventureTriggerValue": "1",
+			"adventureValue": "adv102_01/adv102_01_event"
+		},
+		{
+			"worldDungeonId": "9100003",
+			"adventureId": "0",
+			"adventureTrigger": "1",
+			"adventureTriggerValue": "1",
+			"adventureValue": "adv103_01/adv103_01_event"
+		},
+		{
+			"worldDungeonId": "9100004",
+			"adventureId": "0",
+			"adventureTrigger": "1",
+			"adventureTriggerValue": "1",
+			"adventureValue": "adv104_01/adv104_01_event"
+		},
+		{
+			"worldDungeonId": "9100005",
+			"adventureId": "0",
+			"adventureTrigger": "1",
+			"adventureTriggerValue": "1",
+			"adventureValue": "adv105_01/adv105_01_event"
+		},
+		{
+			"worldDungeonId": "9100006",
+			"adventureId": "0",
+			"adventureTrigger": "1",
+			"adventureTriggerValue": "2",
+			"adventureValue": "adv106_01/adv106_01_event"
+		},
+		{
+			"worldDungeonId": "9100007",
+			"adventureId": "0",
+			"adventureTrigger": "1",
+			"adventureTriggerValue": "1",
+			"adventureValue": "adv107_01/adv107_01_event"
+		},
+		{
+			"worldDungeonId": "9100008",
+			"adventureId": "0",
+			"adventureTrigger": "1",
+			"adventureTriggerValue": "1",
+			"adventureValue": "adv108_01/adv108_01_event"
+		}
+	]
 }

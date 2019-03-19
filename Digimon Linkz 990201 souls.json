@@ -1009,6 +1009,22 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1076072",
+			"soulName": "벨페몬SM의 데이터 조각",
+			"description": "벨페몬SM으로 진화할 때 필요한 데이터 조각",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
+			"soulId": "1076078",
+			"soulName": "루체몬SM의 데이터 조각",
+			"description": "루체몬SM으로 진화할 때 필요한 데이터 조각",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "2000001",
 			"soulName": "무속성 플러그인 ver1.0",
 			"description": "미약한 '무속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",

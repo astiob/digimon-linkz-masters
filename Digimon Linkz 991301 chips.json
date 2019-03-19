@@ -10396,6 +10396,72 @@
 			"effect": "chip_effect_10171"
 		},
 		{
+			"chipId": "100498",
+			"chipGroupId": "10172",
+			"name": "신마 x 표걸의 Pt 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10172",
+			"detail": "ATK+20, ‘신마 x 표걸’에서 획득 포인트 1.5배",
+			"effect": "chip_effect_10163"
+		},
+		{
+			"chipId": "100499",
+			"chipGroupId": "10172",
+			"name": "신마 x 표걸의 Pt 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10172",
+			"detail": "ATK+30, ‘신마 x 표걸’에서 획득 포인트 2.5배",
+			"effect": "chip_effect_10163"
+		},
+		{
+			"chipId": "100500",
+			"chipGroupId": "10172",
+			"name": "신마 x 표걸의 Pt 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10172",
+			"detail": "ATK+50, ‘신마 x 표걸’에서 획득 포인트 5.5배",
+			"effect": "chip_effect_10163"
+		},
+		{
+			"chipId": "100501",
+			"chipGroupId": "10173",
+			"name": "신마 x 표걸의 EX STAGE 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10173",
+			"detail": "S-ATK+20, ‘신마 x 표걸’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_10164"
+		},
+		{
+			"chipId": "100502",
+			"chipGroupId": "10173",
+			"name": "신마 x 표걸의 EX STAGE 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10173",
+			"detail": "S-ATK+30, ‘신마 x 표걸’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_10164"
+		},
+		{
+			"chipId": "100503",
+			"chipGroupId": "10173",
+			"name": "신마 x 표걸의 EX STAGE 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10173",
+			"detail": "S-ATK+50, ‘신마 x 표걸’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_10164"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "파괴와 구세의 Pt 특효 C",

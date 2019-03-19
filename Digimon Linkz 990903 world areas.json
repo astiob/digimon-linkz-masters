@@ -457,6 +457,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1116",
+			"worldId": "6",
+			"priority": "10",
+			"name": "신마 x 표걸",
+			"img": "point/46/Holding_1.png",
+			"description": "신마 x 표걸",
+			"type": "4",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "100001",
 			"worldId": "6",
 			"priority": "10",
@@ -995,6 +1007,18 @@
 			"prerequisiteWorldAreaId": "0",
 			"openTime": "2015-05-01 00:00:00",
 			"closeTime": "2099-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "9100001",
+			"worldId": "6",
+			"priority": "19",
+			"name": "천지용명 1장 용맥의 열쇠",
+			"img": "syuusyuu/10002/Holding_1.png",
+			"description": "천지용명 1장 용맥의 열쇠",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
 		}
 	]
 }

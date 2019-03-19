@@ -2274,6 +2274,196 @@
 			"tutorialNaviId": "19088",
 			"message": "자! 그럼 농장으로 돌아가요♪",
 			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20001",
+			"message": "$USER_INPUT_NAME$ 님의 활약 덕분에 디지털 월드의 각 에어리어도 대부분 복구됐어요!",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20002",
+			"message": "각 기능은 회복됐지만, 에어리어간의 링크가 불안정해서 상호 간섭이 발생하는 것 같아요.",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20003",
+			"message": "대응 방법을 조사하고 있습니다만….",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20004",
+			"message": "지난번 볼케닉드라몬의 습격으로 농장 일부가 변조된 것 같아요.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20005",
+			"message": "그 프로세스에는 디지털 월드의 메인 프레임에 간섭할 수 있는 특정 상위 코드가 사용됐어요.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20006",
+			"message": "이 ‘키 코드’라는 데이터를 사용하면 상호 간섭하는 데이터를 제어해 링크를 안정화할 수 있을 거예요!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20007",
+			"message": "그 키 코드가 있는 장소는 분석해서 알아냈지만….",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20008",
+			"message": "거기에는 꽤 강력한 디지몬들의 반응도 있었어요….",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20009",
+			"message": "$USER_INPUT_NAME$ 님!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20010",
+			"message": "부탁드려요. 한 번 더 힘을 빌려주실 수 없을까요!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20011",
+			"message": "….",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20012",
+			"message": "$USER_INPUT_NAME$ 님이라면 그렇게 말씀해주실 거라고 믿었어요!",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20013",
+			"message": "이번에도 열심히 서포트할게요!",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20014",
+			"message": "….",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20015",
+			"message": "(…그런데, 볼케닉드라몬은 어떻게 메인 프레임에 접속했던 거지?)",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20016",
+			"message": "(습격 때 목격한 주변의 환경 데이터까지 변조해 버리는 그 능력….）",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20017",
+			"message": "(상위 간섭 권한까지 가진 그 디지몬은….)",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20018",
+			"message": "(볼케닉드라몬은 디지털 월드에서 어떤 역할을 맡고 있었다…?)",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20019",
+			"message": "….",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20020",
+			"message": "…아! 죄송해요! 잠깐 생각 좀 했어요….",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20021",
+			"message": "그럼 어서 가 보죠!",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20022",
+			"message": "$USER_INPUT_NAME$ 님!",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20023",
+			"message": "이걸로 모든 키 코드를 모았어요!",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20024",
+			"message": "이제 링크를 안정시킬 수….",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20025",
+			"message": "어… 어라?",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20026",
+			"message": "프로그램이 실행되지 않잖아?",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20027",
+			"message": "이럴 리가….",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20028",
+			"message": "자… 잠시만 기다려 주세요.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20029",
+			"message": "지금 분석할게요!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20030",
+			"message": "…런 레벨 변경… 서브 컴포넌트…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20031",
+			"message": "참조처 추적… 에러… 에러… 에러.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20032",
+			"message": "그럼 클래스 드라이버를 변경하면…!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20033",
+			"message": "됐어요!",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20034",
+			"message": "관리자 권한으로 실행해야 하는 것 같네요.",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20035",
+			"message": "으음… 할당된 IP는….",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20036",
+			"message": "… ",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20037",
+			"message": "이건…!",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20038",
+			"message": "볼케닉드라몬?!",
+			"face": "2"
 		}
 	]
 }

@@ -1366,6 +1366,19 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6188",
+			"worldAreaId": "1116",
+			"priority": "1050",
+			"name": "신마 x 표걸",
+			"description": "ポイントや断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "point/46/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",
@@ -2518,6 +2531,19 @@
 			"type": "1",
 			"prerequisiteWorldStageId": "0",
 			"stageImage": "syuusyuu/100026/Holding_3.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
+			"worldStageId": "9100001",
+			"worldAreaId": "9100001",
+			"priority": "1",
+			"name": "천지용명 1장 용맥의 열쇠",
+			"description": "ヒナと共に7つのキーコードを集めよう",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/10002/Holding_3.png",
 			"openTime": "2015-04-01 00:00:00",
 			"closeTime": "2030-05-01 00:00:00",
 			"adminOpenFlg": "0"
