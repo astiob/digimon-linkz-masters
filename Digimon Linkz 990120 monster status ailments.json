@@ -587,6 +587,20 @@
 			"assetValue": "1070342",
 			"assetNum": "15",
 			"monsterStatusAilmentMaterialId": "6"
+		},
+		{
+			"monsterId": "20566",
+			"assetCategoryId": "14",
+			"assetValue": "1070347",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "6"
+		},
+		{
+			"monsterId": "20581",
+			"assetCategoryId": "14",
+			"assetValue": "1070350",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "6"
 		}
 	]
 }

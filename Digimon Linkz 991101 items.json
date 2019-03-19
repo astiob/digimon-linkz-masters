@@ -415,6 +415,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "107",
+			"name": "神馬 X 豹傑的片斷資料",
+			"description": "可在交換所兌換各種東西。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_107",
+				"EventResource/Item/item_107"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "115",
 			"name": "聖霸的片斷資料",
 			"description": "可在交換所兌換各種東西。",

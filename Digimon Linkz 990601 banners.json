@@ -680,7 +680,7 @@
 			"url": "/information/InformationDetail?informationId=126",
 			"dispNum": "100",
 			"startTime": "2018-02-05 18:00:00",
-			"endTime": "2019-04-01 17:59:59"
+			"endTime": "2019-06-24 15:59:59"
 		},
 		{
 			"bannerId": "100063",
@@ -3288,6 +3288,61 @@
 			"dispNum": "19",
 			"startTime": "2019-03-11 16:00:00",
 			"endTime": "2019-03-17 13:59:59"
+		},
+		{
+			"bannerId": "100303",
+			"actionType": "menu",
+			"name": "舉辦「究極體限定捕捉」！",
+			"img": "/gasha/special/10224/10224_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=571",
+			"dispNum": "14",
+			"startTime": "2019-03-15 16:00:00",
+			"endTime": "2019-03-19 23:59:59"
+		},
+		{
+			"bannerId": "100304",
+			"actionType": "menu",
+			"name": "舉辦「究極體大會捕捉」！",
+			"img": "/gasha/special/10223/10223_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=572",
+			"dispNum": "15",
+			"startTime": "2019-03-18 16:00:00",
+			"endTime": "2019-04-01 15:59:59"
+		},
+		{
+			"bannerId": "100305",
+			"actionType": "menu",
+			"name": "舉辦「神馬 X 豹傑」特效晶片捕捉！",
+			"img": "/gasha/special/30115/30115_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=573",
+			"dispNum": "19",
+			"startTime": "2019-03-18 20:00:00",
+			"endTime": "2019-03-24 13:59:59"
+		},
+		{
+			"bannerId": "100306",
+			"actionType": "menu",
+			"name": "爆炎龍養成入場券捕捉",
+			"img": "/gasha/special/200015/200015_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=574",
+			"dispNum": "25",
+			"startTime": "2019-03-19 16:00:00",
+			"endTime": "2019-03-23 15:59:59"
+		},
+		{
+			"bannerId": "100307",
+			"actionType": "menu",
+			"name": "舉辦活動「神馬 X 豹傑」！",
+			"img": "/events/point/46/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=576",
+			"dispNum": "50",
+			"startTime": "2019-03-18 20:00:00",
+			"endTime": "2019-03-24 13:59:59"
 		}
 	]
 }

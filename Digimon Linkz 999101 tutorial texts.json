@@ -2274,6 +2274,196 @@
 			"tutorialNaviId": "19088",
 			"message": "好了！我們回去吧♪",
 			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20001",
+			"message": "因為$USER_INPUT_NAME$的活躍，數碼世界各個區域的修復也都進行得很順利呢！",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20002",
+			"message": "可是，雖然各個機能都回復了，但區域間的連結還是不穩定，發生了互相干涉的情況。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20003",
+			"message": "然後我就調查了解決方法……",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20004",
+			"message": "之前受到爆炎龍獸襲擊時，農場的一部分好像被改寫了。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20005",
+			"message": "那個程序似乎是使用了特定高等代碼，能干涉數碼世界主機。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20006",
+			"message": "而只要用被稱為「金鑰代碼」的資料，應該就能停止資料互相干涉，讓連結恢復穩定！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20007",
+			"message": "雖然我解析出了那個金鑰代碼的所在地……",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20008",
+			"message": "但那邊也有非常強大數碼寶貝們的反應……",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20009",
+			"message": "$USER_INPUT_NAME$！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20010",
+			"message": "拜託你了！能再次借用你的力量嗎？",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20011",
+			"message": "……",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20012",
+			"message": "我就知道$USER_INPUT_NAME$一定會這麼說的！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20013",
+			"message": "這次也會完美地支援你的！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20014",
+			"message": "……",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20015",
+			"message": "（……但是，爆炎龍獸它為什麼能夠登入主機呢？）",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20016",
+			"message": "（襲擊過來時，展現出連周遭環境都能改寫的能力……）",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20017",
+			"message": "（甚至有著高等干涉權限的那隻數碼寶貝……）",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20018",
+			"message": "（難道說爆炎龍獸在數碼世界之中，有著某種職責……？）",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20019",
+			"message": "……",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20020",
+			"message": "……啊！不好意思！我稍微想了一下事情……",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20021",
+			"message": "那就趕緊出發吧！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20022",
+			"message": "$USER_INPUT_NAME$。",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20023",
+			"message": "這樣就收集完所有金鑰代碼了！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20024",
+			"message": "這樣就能讓連結穩定……",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20025",
+			"message": "咦……奇怪？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20026",
+			"message": "程式無法實行？",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20027",
+			"message": "不該是這樣的……",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20028",
+			"message": "請……請稍等一下喔。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20029",
+			"message": "我現在立刻解析！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20030",
+			"message": "……執行級別變更……副元件……",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20031",
+			"message": "追蹤從屬參照……錯誤……錯誤……錯誤。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20032",
+			"message": "那就，變更類驅動程式……好！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20033",
+			"message": "解析完成了！",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20034",
+			"message": "似乎需要管理者權限才能實行呢。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20035",
+			"message": "我看看……這個分配IP是……",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20036",
+			"message": "……",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20037",
+			"message": "這個是……！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20038",
+			"message": "爆炎龍獸！？",
+			"face": "2"
 		}
 	]
 }

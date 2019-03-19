@@ -1009,6 +1009,22 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1076072",
+			"soulName": "貝爾菲獸SM的資料碎片",
+			"description": "進化成貝爾菲獸SM時所需的資料碎片。",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
+			"soulId": "1076078",
+			"soulName": "光明獸SM的資料碎片",
+			"description": "進化成光明獸SM時所需的資料碎片。",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "2000001",
 			"soulName": "無的外掛ver1.0",
 			"description": "進化時所需，包含「無」屬性微弱力量的程式。",
