@@ -10396,6 +10396,72 @@
 			"effect": "chip_effect_10171"
 		},
 		{
+			"chipId": "100498",
+			"chipGroupId": "10172",
+			"name": "Sacred x Heroic Pt Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10172",
+			"detail": "ATK +20. Also increases obtainable Pts by x1.5 in \"Sacred Horse x Heroic Panther\" event.",
+			"effect": "chip_effect_10163"
+		},
+		{
+			"chipId": "100499",
+			"chipGroupId": "10172",
+			"name": "Sacred x Heroic Pt Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10172",
+			"detail": "ATK +30. Also increases obtainable Pts by x2.5 in \"Sacred Horse x Heroic Panther\" event.",
+			"effect": "chip_effect_10163"
+		},
+		{
+			"chipId": "100500",
+			"chipGroupId": "10172",
+			"name": "Sacred x Heroic Pt Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10172",
+			"detail": "ATK +50. Also increases obtainable Pts by x5.5 in \"Sacred Horse x Heroic Panther\" event.",
+			"effect": "chip_effect_10163"
+		},
+		{
+			"chipId": "100501",
+			"chipGroupId": "10173",
+			"name": "Sacred x Heroic EX stage Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10173",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"Sacred Horse x Heroic Panther\" event.",
+			"effect": "chip_effect_10164"
+		},
+		{
+			"chipId": "100502",
+			"chipGroupId": "10173",
+			"name": "Sacred x Heroic EX stage Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10173",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"Sacred Horse x Heroic Panther\" event.",
+			"effect": "chip_effect_10164"
+		},
+		{
+			"chipId": "100503",
+			"chipGroupId": "10173",
+			"name": "Sacred x Heroic EX stage Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10173",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Sacred Horse x Heroic Panther\" event.",
+			"effect": "chip_effect_10164"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",

@@ -2274,6 +2274,196 @@
 			"tutorialNaviId": "19088",
 			"message": "Okay! Let's go home! ♪",
 			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20001",
+			"message": "Thanks to your efforts, the restoration of each area of the Digital World is going well!",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20002",
+			"message": "But even though each function is working again, the links between the areas are still unstable and mutual interference seems to be occurring.",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20003",
+			"message": "I tried to find a fix for this problem, but…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20004",
+			"message": "It seems like some of the Farm data was overwritten when Volcanicdramon attacked the other day.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20005",
+			"message": "This process used certain upper-level codes that allow access and editing of the mainframe of the Digital World.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20006",
+			"message": "If we use this \"keycode\" data, we should be able to take control of the data interfering with each other and stabilize the links!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20007",
+			"message": "Well, I managed to identify where the key codes can be found, but...",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20008",
+			"message": "the signals of powerful Digimon are also there...",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20009",
+			"message": "$USER_INPUT_NAME$!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20010",
+			"message": "Please, will you help me again?",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20011",
+			"message": "…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20012",
+			"message": "I just knew you'd say that, $USER_INPUT_NAME$!",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20013",
+			"message": "I'll be sure to offer as much support as I can!",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20014",
+			"message": "…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20015",
+			"message": "(But... I wonder how Volcanicdramon was able to access the mainframe?",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20016",
+			"message": "(The ability to overwrite the surrounding environmental data it showed in the raid...)",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20017",
+			"message": "(A Digimon with that high access authority...)",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20018",
+			"message": "(Could it be that Volcanicdramon once had an important role in the Digital World... or something like that?)",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20019",
+			"message": "…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20020",
+			"message": "Oh...! Sorry! I got a bit lost in thought...",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20021",
+			"message": "Anyway, let's get going!",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20022",
+			"message": "$USER_INPUT_NAME$,",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20023",
+			"message": "We collected all the key codes!",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20024",
+			"message": "Now we can stabilize the links...",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20025",
+			"message": "H-Huh...?",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20026",
+			"message": "The program can't be launched?",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20027",
+			"message": "No way...",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20028",
+			"message": "Uh... g-give me a moment, please...",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20029",
+			"message": "I'll figure this out!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20030",
+			"message": "...switching runlevels... sub-component... ",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20031",
+			"message": "Trace precedents... error... error... error...",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20032",
+			"message": "Okay, let's change the class driver and... there we go!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20033",
+			"message": "I see the problem!",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20034",
+			"message": "We need administration privileges to do this...",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20035",
+			"message": "...and the IP required for that is... um...",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20036",
+			"message": "・・・・・・",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20037",
+			"message": "Is this…",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20038",
+			"message": "Is this Volcanicdramon?!",
+			"face": "2"
 		}
 	]
 }

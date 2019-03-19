@@ -1009,6 +1009,22 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "1076072",
+			"soulName": "Belphemon SM Data Fragment",
+			"description": "A data fragment required to Digivolve into Belphemon SM.",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
+			"soulId": "1076078",
+			"soulName": "Lucemon SM Data Fragment",
+			"description": "A data fragment required to Digivolve into Lucemon SM.",
+			"soulGroup": "1",
+			"rare": "5",
+			"priority": "1"
+		},
+		{
 			"soulId": "2000001",
 			"soulName": "Null Plugin ver1.0",
 			"description": "A program encoded with a hint of Null energy, used for Digivolution.",
