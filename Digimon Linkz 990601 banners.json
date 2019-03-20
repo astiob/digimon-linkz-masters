@@ -3202,6 +3202,17 @@
 			"endTime": "2019-03-23 04:59:59"
 		},
 		{
+			"bannerId": "100294",
+			"actionType": "menu",
+			"name": "\"Spring Festival Login Bonus Part 3\" has begun!",
+			"img": "/login/10037/10037_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=553",
+			"dispNum": "100",
+			"startTime": "2019-03-22 05:00:00",
+			"endTime": "2019-04-06 04:59:59"
+		},
+		{
 			"bannerId": "100295",
 			"actionType": "menu",
 			"name": "\"Mega Festival Capture\" has begun!",
