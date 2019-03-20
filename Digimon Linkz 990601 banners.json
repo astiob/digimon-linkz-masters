@@ -3202,6 +3202,17 @@
 			"endTime": "2019-03-23 04:59:59"
 		},
 		{
+			"bannerId": "100294",
+			"actionType": "menu",
+			"name": "‘제3탄  봄축제 로그인 보너스’ 개최!",
+			"img": "/login/10037/10037_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=553",
+			"dispNum": "100",
+			"startTime": "2019-03-22 05:00:00",
+			"endTime": "2019-04-06 04:59:59"
+		},
+		{
 			"bannerId": "100295",
 			"actionType": "menu",
 			"name": "‘궁극체 페스티벌 캡처’ 이벤트 개최!",
