@@ -1477,6 +1477,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1117",
+			"worldId": "6",
+			"priority": "10",
+			"name": "OMEGA -3rd Anniversary- 前編",
+			"img": "syuusyuu/65/Holding_1.png",
+			"description": "断片データを集めて、さまざまな報酬を手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "9100001",
 			"worldId": "6",
 			"priority": "19",

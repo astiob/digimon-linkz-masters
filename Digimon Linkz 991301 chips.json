@@ -14378,6 +14378,72 @@
 			"effect": "chip_effect_10173"
 		},
 		{
+			"chipId": "100504",
+			"chipGroupId": "10174",
+			"name": "OMEGA-3rd Anniv.-前編のドロップ特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10174",
+			"detail": "ATK+20。「OMEGA -3rd Anniversary- 前編」で交換所アイテムドロップ時の取得個数が+1される。",
+			"effect": "chip_effect_10174"
+		},
+		{
+			"chipId": "100505",
+			"chipGroupId": "10174",
+			"name": "OMEGA-3rd Anniv.-前編のドロップ特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10174",
+			"detail": "ATK+30。「OMEGA -3rd Anniversary- 前編」で交換所アイテムドロップ時の取得個数が+3される。",
+			"effect": "chip_effect_10174"
+		},
+		{
+			"chipId": "100506",
+			"chipGroupId": "10174",
+			"name": "OMEGA-3rd Anniv.-前編のドロップ特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10174",
+			"detail": "ATK+50。「OMEGA -3rd Anniversary- 前編」で交換所アイテムドロップ時の取得個数が+9される。",
+			"effect": "chip_effect_10174"
+		},
+		{
+			"chipId": "100507",
+			"chipGroupId": "10175",
+			"name": "OMEGA-3rd Anniv.-前編のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10175",
+			"detail": "S-ATK+20。「OMEGA -3rd Anniversary- 前編」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10175"
+		},
+		{
+			"chipId": "100508",
+			"chipGroupId": "10175",
+			"name": "OMEGA-3rd Anniv.-前編のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10175",
+			"detail": "S-ATK+30。「OMEGA -3rd Anniversary- 前編」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10175"
+		},
+		{
+			"chipId": "100509",
+			"chipGroupId": "10175",
+			"name": "OMEGA-3rd Anniv.-前編のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10175",
+			"detail": "S-ATK+50。「OMEGA -3rd Anniversary- 前編」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10175"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

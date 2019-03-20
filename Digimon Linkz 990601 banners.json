@@ -9065,6 +9065,17 @@
 			"endTime": "2019-03-23 04:59:59"
 		},
 		{
+			"bannerId": "862",
+			"actionType": "menu",
+			"name": "第3弾 3周年記念ログインボーナス開催！",
+			"img": "/login/10037/10037_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1381",
+			"dispNum": "100",
+			"startTime": "2019-03-22 05:00:00",
+			"endTime": "2019-04-06 04:59:59"
+		},
+		{
 			"bannerId": "863",
 			"actionType": "menu",
 			"name": "3周年記念究極体プレゼントキャプチャ開催！",
@@ -9129,6 +9140,28 @@
 			"dispNum": "7",
 			"startTime": "2019-03-14 16:00:00",
 			"endTime": "2019-03-20 23:59:59"
+		},
+		{
+			"bannerId": "869",
+			"actionType": "menu",
+			"name": "イベント「OMEGA -3rd Anniversary- 前編」開催！",
+			"img": "/events/syuusyuu/65/Holding_4.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1395",
+			"dispNum": "50",
+			"startTime": "2019-03-21 18:00:00",
+			"endTime": "2019-03-27 23:59:59"
+		},
+		{
+			"bannerId": "872",
+			"actionType": "menu",
+			"name": "OMEGA -3rd Anniversary- 前編 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30116/30116_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1402",
+			"dispNum": "7",
+			"startTime": "2019-03-21 16:00:00",
+			"endTime": "2019-03-27 23:59:59"
 		}
 	]
 }
