@@ -2,344 +2,344 @@
 	"dataVersionList": [
 		{
 			"tableName": "asset_category_m",
-			"version": "1028",
-			"cacheVersion": "1028"
+			"version": "1040",
+			"cacheVersion": "1040"
 		},
 		{
 			"tableName": "monster_m",
-			"version": "1122",
-			"cacheVersion": "1122"
+			"version": "1134",
+			"cacheVersion": "1134"
 		},
 		{
 			"tableName": "monster_evolution_m",
-			"version": "1074",
-			"cacheVersion": "1074"
+			"version": "1086",
+			"cacheVersion": "1086"
 		},
 		{
 			"tableName": "monster_experience_m",
-			"version": "1021",
-			"cacheVersion": "1021"
-		},
-		{
-			"tableName": "skill_m",
-			"version": "1119",
-			"cacheVersion": "1119"
-		},
-		{
-			"tableName": "skill_detail_m",
-			"version": "1132",
-			"cacheVersion": "1132"
-		},
-		{
-			"tableName": "monster_evolution_route_m",
-			"version": "1037",
-			"cacheVersion": "1037"
-		},
-		{
-			"tableName": "soul_m",
-			"version": "1057",
-			"cacheVersion": "1057"
-		},
-		{
-			"tableName": "monster_resistance_m",
-			"version": "1111",
-			"cacheVersion": "1111"
-		},
-		{
-			"tableName": "facility_m",
-			"version": "1051",
-			"cacheVersion": "1051"
-		},
-		{
-			"tableName": "facility_upgrade_m",
-			"version": "1024",
-			"cacheVersion": "1024"
-		},
-		{
-			"tableName": "facility_meat_field_m",
-			"version": "1021",
-			"cacheVersion": "1021"
-		},
-		{
-			"tableName": "facility_warehouse_m",
-			"version": "1021",
-			"cacheVersion": "1021"
-		},
-		{
-			"tableName": "facility_exp_up_m",
-			"version": "1021",
-			"cacheVersion": "1021"
-		},
-		{
-			"tableName": "facility_restaurant_m",
-			"version": "1021",
-			"cacheVersion": "1021"
-		},
-		{
-			"tableName": "facility_house_m",
-			"version": "1021",
-			"cacheVersion": "1021"
-		},
-		{
-			"tableName": "facility_condition_m",
-			"version": "1024",
-			"cacheVersion": "1024"
-		},
-		{
-			"tableName": "world_area_m",
-			"version": "1105",
-			"cacheVersion": "1105"
-		},
-		{
-			"tableName": "world_stage_m",
-			"version": "1135",
-			"cacheVersion": "1135"
-		},
-		{
-			"tableName": "world_dungeon_m",
-			"version": "1174",
-			"cacheVersion": "1174"
-		},
-		{
-			"tableName": "monster_tribe_m",
-			"version": "1021",
-			"cacheVersion": "1021"
-		},
-		{
-			"tableName": "monster_grow_step_m",
-			"version": "1022",
-			"cacheVersion": "1022"
-		},
-		{
-			"tableName": "tips_m",
-			"version": "1040",
-			"cacheVersion": "1040"
-		},
-		{
-			"tableName": "help_category_m",
-			"version": "1030",
-			"cacheVersion": "1030"
-		},
-		{
-			"tableName": "help_m",
-			"version": "1052",
-			"cacheVersion": "1052"
-		},
-		{
-			"tableName": "tutorial_navi_m",
-			"version": "1037",
-			"cacheVersion": "1037"
-		},
-		{
-			"tableName": "monster_trance_m",
-			"version": "1067",
-			"cacheVersion": "1067"
-		},
-		{
-			"tableName": "monster_tribe_trance_m",
-			"version": "1021",
-			"cacheVersion": "1021"
-		},
-		{
-			"tableName": "code_m",
-			"version": "1043",
-			"cacheVersion": "1043"
-		},
-		{
-			"tableName": "message_m",
-			"version": "1052",
-			"cacheVersion": "1052"
-		},
-		{
-			"tableName": "item_m",
-			"version": "1090",
-			"cacheVersion": "1090"
-		},
-		{
-			"tableName": "world_dungeon_reward_m",
-			"version": "1139",
-			"cacheVersion": "1139"
-		},
-		{
-			"tableName": "colosseum_m",
-			"version": "1054",
-			"cacheVersion": "1054"
-		},
-		{
-			"tableName": "colosseum_time_schedule_m",
-			"version": "1064",
-			"cacheVersion": "1064"
-		},
-		{
-			"tableName": "world_dungeon_extra_effect_m",
-			"version": "1064",
-			"cacheVersion": "1064"
-		},
-		{
-			"tableName": "world_dungeon_extra_effect_manage_m",
-			"version": "1060",
-			"cacheVersion": "1060"
-		},
-		{
-			"tableName": "monster_evolution_material_m",
-			"version": "1068",
-			"cacheVersion": "1068"
-		},
-		{
-			"tableName": "chip_m",
-			"version": "1110",
-			"cacheVersion": "1110"
-		},
-		{
-			"tableName": "chip_effect_m",
-			"version": "1111",
-			"cacheVersion": "1111"
-		},
-		{
-			"tableName": "message_string_m",
-			"version": "1040",
-			"cacheVersion": "1040"
-		},
-		{
-			"tableName": "world_event_m",
-			"version": "1095",
-			"cacheVersion": "1095"
-		},
-		{
-			"tableName": "world_event_area_m",
-			"version": "1090",
-			"cacheVersion": "1090"
-		},
-		{
-			"tableName": "event_point_achieve_reward_m",
-			"version": "1052",
-			"cacheVersion": "1052"
-		},
-		{
-			"tableName": "event_point_bonus_m",
-			"version": "1056",
-			"cacheVersion": "1056"
-		},
-		{
-			"tableName": "event_ranking_reward_m",
-			"version": "1042",
-			"cacheVersion": "1042"
-		},
-		{
-			"tableName": "facility_key_m",
-			"version": "1021",
-			"cacheVersion": "1021"
-		},
-		{
-			"tableName": "facility_chip_m",
-			"version": "1021",
-			"cacheVersion": "1021"
-		},
-		{
-			"tableName": "monster_fixed_value_m",
-			"version": "1058",
-			"cacheVersion": "1058"
-		},
-		{
-			"tableName": "navigation_message_m",
-			"version": "1023",
-			"cacheVersion": "1023"
-		},
-		{
-			"tableName": "dungeon_ticket_m",
-			"version": "1025",
-			"cacheVersion": "1025"
-		},
-		{
-			"tableName": "colosseum_event_m",
-			"version": "1021",
-			"cacheVersion": "1021"
-		},
-		{
-			"tableName": "colosseum_rank_m",
-			"version": "1025",
-			"cacheVersion": "1025"
-		},
-		{
-			"tableName": "title_m",
 			"version": "1033",
 			"cacheVersion": "1033"
 		},
 		{
-			"tableName": "ability_upgrade_rate_m",
-			"version": "1022",
-			"cacheVersion": "1022"
+			"tableName": "skill_m",
+			"version": "1131",
+			"cacheVersion": "1131"
 		},
 		{
-			"tableName": "world_dungeon_sortie_limit_m",
-			"version": "1022",
-			"cacheVersion": "1022"
+			"tableName": "skill_detail_m",
+			"version": "1144",
+			"cacheVersion": "1144"
 		},
 		{
-			"tableName": "monster_status_ailment_material_m",
-			"version": "1022",
-			"cacheVersion": "1022"
+			"tableName": "monster_evolution_route_m",
+			"version": "1049",
+			"cacheVersion": "1049"
 		},
 		{
-			"tableName": "monster_status_ailment_m",
-			"version": "1029",
-			"cacheVersion": "1029"
+			"tableName": "soul_m",
+			"version": "1069",
+			"cacheVersion": "1069"
 		},
 		{
-			"tableName": "monster_integration_group_m",
-			"version": "1024",
-			"cacheVersion": "1024"
+			"tableName": "monster_resistance_m",
+			"version": "1123",
+			"cacheVersion": "1123"
 		},
 		{
-			"tableName": "monster_status_m",
-			"version": "1023",
-			"cacheVersion": "1023"
+			"tableName": "facility_m",
+			"version": "1063",
+			"cacheVersion": "1063"
 		},
 		{
-			"tableName": "monster_sell_recover_item_m",
-			"version": "1048",
-			"cacheVersion": "1048"
+			"tableName": "facility_upgrade_m",
+			"version": "1036",
+			"cacheVersion": "1036"
 		},
 		{
-			"tableName": "monster_rare_m",
-			"version": "1022",
-			"cacheVersion": "1022"
+			"tableName": "facility_meat_field_m",
+			"version": "1033",
+			"cacheVersion": "1033"
 		},
 		{
-			"tableName": "world_dungeon_adventure_scene_m",
-			"version": "1025",
-			"cacheVersion": "1025"
+			"tableName": "facility_warehouse_m",
+			"version": "1033",
+			"cacheVersion": "1033"
 		},
 		{
-			"tableName": "world_dungeon_option_reward_m",
-			"version": "1023",
-			"cacheVersion": "1023"
+			"tableName": "facility_exp_up_m",
+			"version": "1033",
+			"cacheVersion": "1033"
 		},
 		{
-			"tableName": "banner_m",
+			"tableName": "facility_restaurant_m",
+			"version": "1033",
+			"cacheVersion": "1033"
+		},
+		{
+			"tableName": "facility_house_m",
+			"version": "1033",
+			"cacheVersion": "1033"
+		},
+		{
+			"tableName": "facility_condition_m",
+			"version": "1036",
+			"cacheVersion": "1036"
+		},
+		{
+			"tableName": "world_area_m",
+			"version": "1117",
+			"cacheVersion": "1117"
+		},
+		{
+			"tableName": "world_stage_m",
+			"version": "1147",
+			"cacheVersion": "1147"
+		},
+		{
+			"tableName": "world_dungeon_m",
+			"version": "1186",
+			"cacheVersion": "1186"
+		},
+		{
+			"tableName": "monster_tribe_m",
+			"version": "1033",
+			"cacheVersion": "1033"
+		},
+		{
+			"tableName": "monster_grow_step_m",
+			"version": "1034",
+			"cacheVersion": "1034"
+		},
+		{
+			"tableName": "tips_m",
+			"version": "1052",
+			"cacheVersion": "1052"
+		},
+		{
+			"tableName": "help_category_m",
+			"version": "1042",
+			"cacheVersion": "1042"
+		},
+		{
+			"tableName": "help_m",
+			"version": "1064",
+			"cacheVersion": "1064"
+		},
+		{
+			"tableName": "tutorial_navi_m",
+			"version": "1049",
+			"cacheVersion": "1049"
+		},
+		{
+			"tableName": "monster_trance_m",
+			"version": "1079",
+			"cacheVersion": "1079"
+		},
+		{
+			"tableName": "monster_tribe_trance_m",
+			"version": "1033",
+			"cacheVersion": "1033"
+		},
+		{
+			"tableName": "code_m",
+			"version": "1055",
+			"cacheVersion": "1055"
+		},
+		{
+			"tableName": "message_m",
+			"version": "1064",
+			"cacheVersion": "1064"
+		},
+		{
+			"tableName": "item_m",
+			"version": "1102",
+			"cacheVersion": "1102"
+		},
+		{
+			"tableName": "world_dungeon_reward_m",
+			"version": "1151",
+			"cacheVersion": "1151"
+		},
+		{
+			"tableName": "colosseum_m",
+			"version": "1066",
+			"cacheVersion": "1066"
+		},
+		{
+			"tableName": "colosseum_time_schedule_m",
+			"version": "1076",
+			"cacheVersion": "1076"
+		},
+		{
+			"tableName": "world_dungeon_extra_effect_m",
+			"version": "1076",
+			"cacheVersion": "1076"
+		},
+		{
+			"tableName": "world_dungeon_extra_effect_manage_m",
+			"version": "1072",
+			"cacheVersion": "1072"
+		},
+		{
+			"tableName": "monster_evolution_material_m",
+			"version": "1080",
+			"cacheVersion": "1080"
+		},
+		{
+			"tableName": "chip_m",
+			"version": "1122",
+			"cacheVersion": "1122"
+		},
+		{
+			"tableName": "chip_effect_m",
+			"version": "1123",
+			"cacheVersion": "1123"
+		},
+		{
+			"tableName": "message_string_m",
+			"version": "1052",
+			"cacheVersion": "1052"
+		},
+		{
+			"tableName": "world_event_m",
+			"version": "1107",
+			"cacheVersion": "1107"
+		},
+		{
+			"tableName": "world_event_area_m",
+			"version": "1102",
+			"cacheVersion": "1102"
+		},
+		{
+			"tableName": "event_point_achieve_reward_m",
+			"version": "1064",
+			"cacheVersion": "1064"
+		},
+		{
+			"tableName": "event_point_bonus_m",
+			"version": "1068",
+			"cacheVersion": "1068"
+		},
+		{
+			"tableName": "event_ranking_reward_m",
+			"version": "1054",
+			"cacheVersion": "1054"
+		},
+		{
+			"tableName": "facility_key_m",
+			"version": "1033",
+			"cacheVersion": "1033"
+		},
+		{
+			"tableName": "facility_chip_m",
+			"version": "1033",
+			"cacheVersion": "1033"
+		},
+		{
+			"tableName": "monster_fixed_value_m",
+			"version": "1070",
+			"cacheVersion": "1070"
+		},
+		{
+			"tableName": "navigation_message_m",
+			"version": "1035",
+			"cacheVersion": "1035"
+		},
+		{
+			"tableName": "dungeon_ticket_m",
 			"version": "1037",
 			"cacheVersion": "1037"
 		},
 		{
+			"tableName": "colosseum_event_m",
+			"version": "1033",
+			"cacheVersion": "1033"
+		},
+		{
+			"tableName": "colosseum_rank_m",
+			"version": "1037",
+			"cacheVersion": "1037"
+		},
+		{
+			"tableName": "title_m",
+			"version": "1045",
+			"cacheVersion": "1045"
+		},
+		{
+			"tableName": "ability_upgrade_rate_m",
+			"version": "1034",
+			"cacheVersion": "1034"
+		},
+		{
+			"tableName": "world_dungeon_sortie_limit_m",
+			"version": "1034",
+			"cacheVersion": "1034"
+		},
+		{
+			"tableName": "monster_status_ailment_material_m",
+			"version": "1034",
+			"cacheVersion": "1034"
+		},
+		{
+			"tableName": "monster_status_ailment_m",
+			"version": "1041",
+			"cacheVersion": "1041"
+		},
+		{
+			"tableName": "monster_integration_group_m",
+			"version": "1036",
+			"cacheVersion": "1036"
+		},
+		{
+			"tableName": "monster_status_m",
+			"version": "1035",
+			"cacheVersion": "1035"
+		},
+		{
+			"tableName": "monster_sell_recover_item_m",
+			"version": "1060",
+			"cacheVersion": "1060"
+		},
+		{
+			"tableName": "monster_rare_m",
+			"version": "1034",
+			"cacheVersion": "1034"
+		},
+		{
+			"tableName": "world_dungeon_adventure_scene_m",
+			"version": "1037",
+			"cacheVersion": "1037"
+		},
+		{
+			"tableName": "world_dungeon_option_reward_m",
+			"version": "1035",
+			"cacheVersion": "1035"
+		},
+		{
+			"tableName": "banner_m",
+			"version": "1049",
+			"cacheVersion": "1049"
+		},
+		{
 			"tableName": "world_stage_force_open_m",
-			"version": "677",
-			"cacheVersion": "677"
+			"version": "689",
+			"cacheVersion": "689"
 		},
 		{
 			"tableName": "asset_sales_bonus_m",
-			"version": "681",
-			"cacheVersion": "681"
+			"version": "693",
+			"cacheVersion": "693"
 		},
 		{
 			"tableName": "monster_auto_load_chip_m",
-			"version": "677",
-			"cacheVersion": "677"
+			"version": "689",
+			"cacheVersion": "689"
 		}
 	],
 	"versionManagerMaster": {
 		"versionManagerId": "5",
 		"versionManagerType": "2",
 		"osType": "2",
-		"version": "378"
+		"version": "380"
 	}
 }
