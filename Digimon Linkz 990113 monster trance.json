@@ -13489,6 +13489,18 @@
 			"num": "15"
 		},
 		{
+			"monsterTranceId": "20371",
+			"monsterId": "20376",
+			"soulId": "1070286",
+			"num": "15"
+		},
+		{
+			"monsterTranceId": "20376",
+			"monsterId": "20386",
+			"soulId": "1070288",
+			"num": "15"
+		},
+		{
 			"monsterTranceId": "20386",
 			"monsterId": "20401",
 			"soulId": "1070293",
@@ -13598,14 +13610,20 @@
 		},
 		{
 			"monsterTranceId": "20476",
-			"monsterId": "20516",
-			"soulId": "1070337",
+			"monsterId": "20506",
+			"soulId": "1070335",
 			"num": "15"
 		},
 		{
 			"monsterTranceId": "20481",
 			"monsterId": "20511",
 			"soulId": "1070336",
+			"num": "15"
+		},
+		{
+			"monsterTranceId": "20486",
+			"monsterId": "20516",
+			"soulId": "1070337",
 			"num": "15"
 		},
 		{
