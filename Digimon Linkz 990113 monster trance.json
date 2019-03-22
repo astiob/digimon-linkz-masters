@@ -3721,6 +3721,12 @@
 			"num": "10"
 		},
 		{
+			"monsterTranceId": "10056",
+			"monsterId": "6356",
+			"soulId": "1076072",
+			"num": "2"
+		},
+		{
 			"monsterTranceId": "10057",
 			"monsterId": "6357",
 			"soulId": "1076072",
