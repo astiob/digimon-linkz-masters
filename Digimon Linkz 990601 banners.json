@@ -3354,6 +3354,17 @@
 			"dispNum": "50",
 			"startTime": "2019-03-18 20:00:00",
 			"endTime": "2019-03-24 13:59:59"
+		},
+		{
+			"bannerId": "100308",
+			"actionType": "menu",
+			"name": "舉辦「究極體限定捕捉」！",
+			"img": "/gasha/special/10225/10225_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=582",
+			"dispNum": "14",
+			"startTime": "2019-03-23 16:00:00",
+			"endTime": "2019-04-07 23:59:59"
 		}
 	]
 }
