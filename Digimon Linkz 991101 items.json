@@ -1052,6 +1052,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "100042",
+			"name": "OMEGA -Spring Fest.- Part 1 Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100042",
+				"EventResource/Item/item_100042"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "6000001",
 			"name": "Choose-A-Fragment Voucher",
 			"description": "A voucher that can be exchanged for Digivolution fuel for the Mega Digimon of your choice",
