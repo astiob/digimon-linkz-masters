@@ -469,6 +469,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1117",
+			"worldId": "6",
+			"priority": "10",
+			"name": "OMEGA -봄축제- 전편",
+			"img": "syuusyuu/65/Holding_1.png",
+			"description": "OMEGA -봄축제- 전편",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "100001",
 			"worldId": "6",
 			"priority": "10",

@@ -3365,6 +3365,28 @@
 			"dispNum": "14",
 			"startTime": "2019-03-23 16:00:00",
 			"endTime": "2019-04-07 23:59:59"
+		},
+		{
+			"bannerId": "100309",
+			"actionType": "menu",
+			"name": "‘OMEGA -봄축제- 전편’ 특효 칩 캡처 이벤트 개최!",
+			"img": "/gasha/special/30116/30116_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=583",
+			"dispNum": "19",
+			"startTime": "2019-03-25 16:00:00",
+			"endTime": "2019-03-31 13:59:59"
+		},
+		{
+			"bannerId": "100310",
+			"actionType": "menu",
+			"name": "이벤트 ‘OMEGA -봄축제- 전편’ 개최!",
+			"img": "/events/syuusyuu/65/Holding_4.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=585",
+			"dispNum": "55",
+			"startTime": "2019-03-25 18:00:00",
+			"endTime": "2019-03-31 13:59:59"
 		}
 	]
 }
