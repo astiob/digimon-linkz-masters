@@ -1489,6 +1489,30 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1118",
+			"worldId": "6",
+			"priority": "10",
+			"name": "OMEGA -3rd Anniversary- 後編",
+			"img": "syuusyuu/66/Holding_1.png",
+			"description": "断片データを集めて、さまざまな報酬を手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "1119",
+			"worldId": "6",
+			"priority": "10",
+			"name": "NUME -ヌメモンの逆襲-",
+			"img": "syuusyuu/67/Holding_1.png",
+			"description": "ヌメモンが逆襲を企てている！",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "9100001",
 			"worldId": "6",
 			"priority": "19",

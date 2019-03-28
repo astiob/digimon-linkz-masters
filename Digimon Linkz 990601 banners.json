@@ -9153,6 +9153,28 @@
 			"endTime": "2019-03-27 23:59:59"
 		},
 		{
+			"bannerId": "870",
+			"actionType": "menu",
+			"name": "イベント「OMEGA -3rd Anniversary- 後編」開催！",
+			"img": "/events/syuusyuu/66/Holding_4.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1397",
+			"dispNum": "55",
+			"startTime": "2019-03-28 18:00:00",
+			"endTime": "2019-04-03 23:59:59"
+		},
+		{
+			"bannerId": "871",
+			"actionType": "menu",
+			"name": "イベント「NUME -ヌメモンの逆襲-」開催！",
+			"img": "/events/syuusyuu/67/Holding_2.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1398",
+			"dispNum": "50",
+			"startTime": "2019-04-01 00:00:00",
+			"endTime": "2019-04-01 23:59:59"
+		},
+		{
 			"bannerId": "872",
 			"actionType": "menu",
 			"name": "OMEGA -3rd Anniversary- 前編 特効チップキャプチャ開催！",
@@ -9162,6 +9184,28 @@
 			"dispNum": "7",
 			"startTime": "2019-03-21 16:00:00",
 			"endTime": "2019-03-27 23:59:59"
+		},
+		{
+			"bannerId": "873",
+			"actionType": "menu",
+			"name": "3周年記念究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10226/10226_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1404",
+			"dispNum": "3",
+			"startTime": "2019-03-28 16:00:00",
+			"endTime": "2019-04-11 15:59:59"
+		},
+		{
+			"bannerId": "874",
+			"actionType": "menu",
+			"name": "OMEGA -3rd Anniversary- 後編 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30117/30117_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1405",
+			"dispNum": "7",
+			"startTime": "2019-03-28 16:00:00",
+			"endTime": "2019-04-03 23:59:59"
 		}
 	]
 }

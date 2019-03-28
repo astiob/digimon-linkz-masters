@@ -1359,6 +1359,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "109",
+			"name": "OMEGA-3rd Anniv.-後編の断片データ",
+			"description": "3周年記念後編のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_109",
+				"EventResource/Item/item_109"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "115",
 			"name": "聖覇の断片データ",
 			"description": "聖覇のデータが断片化したもの。交換所で様々なものと交換可能。",

@@ -3875,6 +3875,45 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6191",
+			"worldAreaId": "1118",
+			"priority": "1051",
+			"name": "OMEGA -3rd Anniversary- 後編　",
+			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/66/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
+			"worldStageId": "6192",
+			"worldAreaId": "1118",
+			"priority": "1050",
+			"name": "OMEGA -3rd Anniversary- 後編 ボーナス級",
+			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/66/Holding_3.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
+			"worldStageId": "6193",
+			"worldAreaId": "1119",
+			"priority": "1052",
+			"name": "NUME -ヌメモンの逆襲-",
+			"description": "ヌメモンが逆襲を企てている！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/67/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",

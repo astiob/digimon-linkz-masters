@@ -939,6 +939,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1116",
+			"name": "第24回覇者",
+			"detail": "第24回コロシアムの覇者に送られる栄光の証",
+			"img": "honorific_colosseum_116",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1117",
+			"name": "第24回SSSランカー",
+			"detail": "第24回コロシアムの最上位ランカーに送られる栄誉の証",
+			"img": "honorific_colosseum_117",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1118",
+			"name": "第24回SSランカー",
+			"detail": "第24回コロシアムの上位ランカーに送られる名誉の証",
+			"img": "honorific_colosseum_118",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1119",
+			"name": "第24回Sランカー",
+			"detail": "第24回コロシアムのランカーに送られる名声の証",
+			"img": "honorific_colosseum_119",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1120",
+			"name": "第24回挑戦者",
+			"detail": "第24回コロシアムの挑戦者に送られる証",
+			"img": "honorific_colosseum_120",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10001",
 			"name": "竜帝の系譜トップ100",
 			"detail": "イベント「竜帝の系譜」トップ100位に送られる栄誉の証",
@@ -1062,6 +1097,13 @@
 			"name": "輝晶 X 聖覇 -ブロンズ-",
 			"detail": "イベント「輝晶 X 聖覇」トップ250位に送られる名誉の証",
 			"img": "honorific_event_18",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10019",
+			"name": "NUME -ヌメモンの逆襲-",
+			"detail": "限定クエストクリアで獲得できるヌメモンの逆襲があった証…のようなもの",
+			"img": "honorific_event_19",
 			"dispFlg": "0"
 		}
 	]
