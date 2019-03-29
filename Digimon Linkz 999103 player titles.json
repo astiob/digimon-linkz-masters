@@ -694,6 +694,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1081",
+			"name": "第17期霸主",
+			"detail": "贈予第17期競技場霸主的光榮之證。",
+			"img": "honorific_colosseum_81",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1082",
+			"name": "第17期SSS級排名玩家",
+			"detail": "贈予第17期競技場最頂尖排名玩家的榮譽之證。",
+			"img": "honorific_colosseum_82",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1083",
+			"name": "第17期SS級排名玩家",
+			"detail": "贈予第17期競技場頂尖排名玩家的名譽之證。",
+			"img": "honorific_colosseum_83",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1084",
+			"name": "第17期S級排名玩家",
+			"detail": "贈予第17期競技場排名玩家的名聲之證。",
+			"img": "honorific_colosseum_84",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1085",
+			"name": "第17期挑戰者",
+			"detail": "贈予第17期競技場挑戰者的證明。",
+			"img": "honorific_colosseum_85",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10005",
 			"name": "究極X騎士 -OMEGA-",
 			"detail": "究極X騎士 -OMEGA- 最頂尖排名玩家的榮譽之證。",
@@ -789,6 +824,13 @@
 			"name": "輝晶X聖霸",
 			"detail": "輝晶X聖霸-後篇- 排名玩家的名譽之證。",
 			"img": "honorific_event_18",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "10019",
+			"name": "鼻涕獸的反擊",
+			"detail": "送給完成活動「NUME -鼻涕獸的反擊-」之人的幽默之證。",
+			"img": "honorific_event_19",
 			"dispFlg": "0"
 		}
 	]
