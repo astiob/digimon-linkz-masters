@@ -481,6 +481,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1119",
+			"worldId": "6",
+			"priority": "10",
+			"name": "NUME -Numemon Counterattack-",
+			"img": "syuusyuu/67/Holding_1.png",
+			"description": "NUME -Numemon Counterattack-",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "100001",
 			"worldId": "6",
 			"priority": "10",
