@@ -27988,25 +27988,6 @@
 			"isMissTrough": "1"
 		},
 		{
-			"skillDetailId": "10042",
-			"skillId": "10035",
-			"subId": "3",
-			"effectType": "20",
-			"effect": "15000",
-			"effect2": "0",
-			"effect3": "0",
-			"effect4": "0",
-			"effect5": "0",
-			"target": "3",
-			"targetType": "1",
-			"attribute": "0",
-			"continuousRound": "1",
-			"motionCount": "1",
-			"hitRate": "10000",
-			"subRate": "0",
-			"isMissTrough": "1"
-		},
-		{
 			"skillDetailId": "10040",
 			"skillId": "10036",
 			"subId": "1",
