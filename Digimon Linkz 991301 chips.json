@@ -10528,6 +10528,72 @@
 			"effect": "chip_effect_10146"
 		},
 		{
+			"chipId": "100510",
+			"chipGroupId": "10176",
+			"name": "OMEGA -봄축제- 후편의 드롭 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10000066",
+			"detail": "ATK+20, ‘OMEGA -봄축제- 후편’에서 데이터 단편의 획득 수 +1",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100511",
+			"chipGroupId": "10176",
+			"name": "OMEGA -봄축제- 후편의 드롭 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10000066",
+			"detail": "ATK+30, ‘OMEGA -봄축제- 후편’에서 데이터 단편의 획득 수 +3",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100512",
+			"chipGroupId": "10176",
+			"name": "OMEGA -봄축제- 후편의 드롭 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10000066",
+			"detail": "ATK+50, ‘OMEGA -봄축제- 후편’에서 데이터 단편의 획득 수 +9",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100513",
+			"chipGroupId": "10177",
+			"name": "OMEGA -봄축제- 후편의 EX STAGE 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10000067",
+			"detail": "S-ATK+20, ‘OMEGA -봄축제- 후편’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100514",
+			"chipGroupId": "10177",
+			"name": "OMEGA -봄축제- 후편의 EX STAGE 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10000067",
+			"detail": "S-ATK+30, ‘OMEGA -봄축제- 후편’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100515",
+			"chipGroupId": "10177",
+			"name": "OMEGA -봄축제- 후편의 EX STAGE 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10000067",
+			"detail": "S-ATK+50, ‘OMEGA -봄축제- 후편’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_10146"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "파괴와 구세의 Pt 특효 C",
