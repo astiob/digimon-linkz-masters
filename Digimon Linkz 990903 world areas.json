@@ -481,6 +481,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1118",
+			"worldId": "6",
+			"priority": "10",
+			"name": "OMEGA -Spring Festival- Part 2",
+			"img": "syuusyuu/66/Holding_1.png",
+			"description": "OMEGA -Spring Festival- Part 2",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "1119",
 			"worldId": "6",
 			"priority": "10",

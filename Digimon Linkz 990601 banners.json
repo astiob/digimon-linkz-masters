@@ -3389,6 +3389,39 @@
 			"endTime": "2019-03-31 13:59:59"
 		},
 		{
+			"bannerId": "100311",
+			"actionType": "menu",
+			"name": "\"Mega Festival Capture\" has begun!",
+			"img": "/gasha/special/10226/10226_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=587",
+			"dispNum": "15",
+			"startTime": "2019-04-01 16:00:00",
+			"endTime": "2019-04-15 15:59:59"
+		},
+		{
+			"bannerId": "100312",
+			"actionType": "menu",
+			"name": "The \"OMEGA -Spring Festival- Part 2\"Special Chip Capture has begun!",
+			"img": "/gasha/special/30117/30117_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=588",
+			"dispNum": "19",
+			"startTime": "2019-04-01 16:00:00",
+			"endTime": "2019-04-07 13:59:59"
+		},
+		{
+			"bannerId": "100313",
+			"actionType": "menu",
+			"name": "The \"OMEGA -Spring Festival- Part 2\" event has begun!",
+			"img": "/events/syuusyuu/66/Holding_4.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=590",
+			"dispNum": "50",
+			"startTime": "2019-04-01 18:00:00",
+			"endTime": "2019-04-07 13:59:59"
+		},
+		{
 			"bannerId": "100314",
 			"actionType": "menu",
 			"name": "The \"NUME -Numemon Counterattack-\" event has begun!",

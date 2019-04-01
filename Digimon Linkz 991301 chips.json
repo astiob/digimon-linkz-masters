@@ -10528,6 +10528,72 @@
 			"effect": "chip_effect_10146"
 		},
 		{
+			"chipId": "100510",
+			"chipGroupId": "10176",
+			"name": "OMEGA -Spring Fest.- Part 2 Drop Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10000066",
+			"detail": "ATK +20. Also increases Data Byte drop by 1 in \"OMEGA -Spring Festival- Part 2\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100511",
+			"chipGroupId": "10176",
+			"name": "OMEGA -Spring Fest.- Part 2 Drop Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10000066",
+			"detail": "ATK +30. Also increases Data Byte drop by 3 in \"OMEGA -Spring Festival- Part 2\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100512",
+			"chipGroupId": "10176",
+			"name": "OMEGA -Spring Fest.- Part 2 Drop Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10000066",
+			"detail": "ATK +50. Also increases Data Byte drop by 9 in \"OMEGA -Spring Festival- Part 2\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100513",
+			"chipGroupId": "10177",
+			"name": "OMEGA -Spring Fest.- Part 2 EX stage Specialty Chip  C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10000067",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"OMEGA -Spring Festival- Part 2\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100514",
+			"chipGroupId": "10177",
+			"name": "OMEGA -Spring Fest.- Part 2 EX stage Specialty Chip  B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10000067",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"OMEGA -Spring Festival- Part 2\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100515",
+			"chipGroupId": "10177",
+			"name": "OMEGA -Spring Fest.- Part 2 EX stage Specialty Chip  A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10000067",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"OMEGA -Spring Festival- Part 2\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",
