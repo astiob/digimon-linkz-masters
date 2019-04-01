@@ -1065,6 +1065,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "100043",
+			"name": "OMEGA -春祭典- 後篇的片斷資料",
+			"description": "可在交換所兌換各種東西。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_100043",
+				"EventResource/Item/item_100043"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "6000001",
 			"name": "碎片任選兌換券",
 			"description": "可在交換所兌換任意究極體數碼寶貝進化素材的兌換券。",
