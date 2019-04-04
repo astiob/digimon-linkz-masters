@@ -104,6 +104,21 @@
 			"materialAssetCategoryId4": "14",
 			"materialAssetValue4": "2060004",
 			"materialAssetNum4": "20"
+		},
+		{
+			"monsterStatusAilmentMaterialId": "10001",
+			"materialAssetCategoryId1": "14",
+			"materialAssetValue1": "2010002",
+			"materialAssetNum1": "40",
+			"materialAssetCategoryId2": "14",
+			"materialAssetValue2": "2010003",
+			"materialAssetNum2": "30",
+			"materialAssetCategoryId3": "14",
+			"materialAssetValue3": "2010004",
+			"materialAssetNum3": "20",
+			"materialAssetCategoryId4": "0",
+			"materialAssetValue4": "0",
+			"materialAssetNum4": "0"
 		}
 	]
 }

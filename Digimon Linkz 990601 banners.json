@@ -9206,6 +9206,39 @@
 			"dispNum": "7",
 			"startTime": "2019-03-28 16:00:00",
 			"endTime": "2019-04-03 23:59:59"
+		},
+		{
+			"bannerId": "875",
+			"actionType": "menu",
+			"name": "イベント「ワールドブレイカー」開催！",
+			"img": "/events/point/47/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1410",
+			"dispNum": "50",
+			"startTime": "2019-04-04 18:00:00",
+			"endTime": "2019-04-10 23:59:59"
+		},
+		{
+			"bannerId": "878",
+			"actionType": "menu",
+			"name": "ワールドブレイカー 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30118/30118_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1411",
+			"dispNum": "7",
+			"startTime": "2019-04-04 16:00:00",
+			"endTime": "2019-04-10 23:59:59"
+		},
+		{
+			"bannerId": "879",
+			"actionType": "menu",
+			"name": "育成応援ログインボーナス開催！",
+			"img": "/login/10038/10038_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1412",
+			"dispNum": "100",
+			"startTime": "2019-04-06 05:00:00",
+			"endTime": "2019-04-26 04:59:59"
 		}
 	]
 }

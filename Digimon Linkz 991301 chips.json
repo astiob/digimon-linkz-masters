@@ -14510,6 +14510,72 @@
 			"effect": "chip_effect_10177"
 		},
 		{
+			"chipId": "100516",
+			"chipGroupId": "10178",
+			"name": "破砕のPt特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10178",
+			"detail": "ATK+20。「ワールドブレイカー」で獲得ポイントが1.5倍になる。",
+			"effect": "chip_effect_10178"
+		},
+		{
+			"chipId": "100517",
+			"chipGroupId": "10178",
+			"name": "破砕のPt特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10178",
+			"detail": "ATK+30。「ワールドブレイカー」で獲得ポイントが2.5倍になる。",
+			"effect": "chip_effect_10178"
+		},
+		{
+			"chipId": "100518",
+			"chipGroupId": "10178",
+			"name": "破砕のPt特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10178",
+			"detail": "ATK+50。「ワールドブレイカー」で獲得ポイントが5.5倍になる。",
+			"effect": "chip_effect_10178"
+		},
+		{
+			"chipId": "100519",
+			"chipGroupId": "10179",
+			"name": "破砕のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10179",
+			"detail": "S-ATK+20。「ワールドブレイカー」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10179"
+		},
+		{
+			"chipId": "100520",
+			"chipGroupId": "10179",
+			"name": "破砕のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10179",
+			"detail": "S-ATK+30。「ワールドブレイカー」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10179"
+		},
+		{
+			"chipId": "100521",
+			"chipGroupId": "10179",
+			"name": "破砕のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10179",
+			"detail": "S-ATK+50。「ワールドブレイカー」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10179"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

@@ -1279,6 +1279,24 @@
 			"death": "-1"
 		},
 		{
+			"monsterResistanceId": "72",
+			"description": "ヴォルケニックドラモン",
+			"fire": "1",
+			"water": "-1",
+			"thunder": "0",
+			"nature": "0",
+			"none": "0",
+			"light": "0",
+			"dark": "0",
+			"poison": "0",
+			"confusion": "-1",
+			"paralysis": "-1",
+			"sleep": "1",
+			"stun": "1",
+			"skillLock": "1",
+			"death": "0"
+		},
+		{
 			"monsterResistanceId": "101",
 			"description": "幻生系降臨初級",
 			"fire": "0",
@@ -8117,6 +8135,24 @@
 			"stun": "0",
 			"skillLock": "1",
 			"death": "0"
+		},
+		{
+			"monsterResistanceId": "35001",
+			"description": "ストーリーヴォルケ",
+			"fire": "1",
+			"water": "0",
+			"thunder": "0",
+			"nature": "0",
+			"none": "1",
+			"light": "0",
+			"dark": "0",
+			"poison": "99",
+			"confusion": "99",
+			"paralysis": "99",
+			"sleep": "99",
+			"stun": "99",
+			"skillLock": "99",
+			"death": "99"
 		},
 		{
 			"monsterResistanceId": "40001",

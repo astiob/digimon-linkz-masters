@@ -47,6 +47,10 @@
 		{
 			"monsterStatusId": "10012",
 			"name": "速魔攻型"
+		},
+		{
+			"monsterStatusId": "10013",
+			"name": "覚醒型"
 		}
 	]
 }
