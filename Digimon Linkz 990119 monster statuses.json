@@ -47,6 +47,10 @@
 		{
 			"monsterStatusId": "10012",
 			"name": "SPD S-ATK"
+		},
+		{
+			"monsterStatusId": "10013",
+			"name": "Awakened"
 		}
 	]
 }

@@ -428,6 +428,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "110",
+			"name": "Demolition Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_110",
+				"EventResource/Item/item_110"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "115",
 			"name": "Holy Conquest Data Bytes",
 			"description": "Can be exchanged for various items.",

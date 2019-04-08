@@ -1329,6 +1329,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "4000009",
+			"soulName": "Core Upgrade Data",
+			"description": "A program required to Version Upgrade a Volcanicdramon line.",
+			"soulGroup": "3",
+			"rare": "1",
+			"priority": "2"
+		},
+		{
 			"soulId": "5000001",
 			"soulName": "Null Re-factor",
 			"description": "A storage card required to Upgrade the Status Effect Resistance of a Version-Upgraded Mirage Tribe Digimon.",

@@ -2464,6 +2464,176 @@
 			"tutorialNaviId": "20038",
 			"message": "Is this Volcanicdramon?!",
 			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20039",
+			"message": "$USER_INPUT_NAME$\nMy investigation revealed a few things…",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20040",
+			"message": "Activating the key codes we collected\nrequired authentication\nwith Volcanicdramon's IP.",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20041",
+			"message": "So I looked into the data on Vorvomon\nthat we brought before, but...\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20042",
+			"message": "only part of the IP was there.\nThe rest of it was lost.\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20043",
+			"message": "We can only assume the rest of the data\nmost probably resides within\nthe rampaging Volcanicdramon.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20044",
+			"message": "It probably chased us back to\nthe Farm trying to collect the data\nstill inside Vorvomon.",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20045",
+			"message": "$USER_INPUT_NAME$\nWe managed to fight it off in the last raid, but\nthere was a rise in heat energy readings underground.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20046",
+			"message": "I'm sure that Volcanicdramon\nintends to finish what it started\nin its next attack.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20047",
+			"message": "When it does, I think we'll need\nVorvomon's help. Please use this chance to\ntrain it!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20048",
+			"message": "Analyzing data...!\nThis heat is unreal!\nBut... something seems strange...?",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20049",
+			"message": "It's being destroyed by its own power?!\nIt looks like even its own body\ncan't handle the ultra-high energy within!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20050",
+			"message": "...? It's definitely strange...\nmost probably resides within\nVolcanicdramon is holding back its attacking impulse...",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20051",
+			"message": "It's clearly reining in attacks on us!\nWha...?! We're receiving data\nfrom Volcanicdramon?!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20052",
+			"message": "Ack... it's no good! The signal is getting weaker...\nThe energy's gone critical...!!\nPrepare for attack!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20053",
+			"message": "$USER_INPUT_NAME$\nVolcanicdramon... is lost.\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20054",
+			"message": "Huh...?",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20055",
+			"message": "No, it's not gone... what's that?",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20056",
+			"message": "The rampaging Volcanicdramon is...\nsending us data...? ",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20057",
+			"message": "The data that was broken and unavailable\nis now all working normally!\n",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20058",
+			"message": "Ah...! The authentication data has been updated!\nThe IP data is also complete!\nThe key codes can be activated!!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20059",
+			"message": "$USER_INPUT_NAME$!\nThe log data we received during the battle\nhas helped me understand some things!",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20060",
+			"message": "The data that people no longer have use for\nall ends up in the Digital World...\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20061",
+			"message": "Even in this world comprised of\nthis data, eventually disused data\nis generated over a long time.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20062",
+			"message": "The role of breaking down and resolving\nthat data went to Volcanicdramon and\nthe natural furnace in the Lava Area.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20063",
+			"message": "However, the increase in traffic from the Human World\nsurpassed its data handling capabilities.\nThe breach in the information force fields began to break the world apart... ",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20064",
+			"message": "When that happened, the Digital World's\nsafety protocols were activated and the\ncountdown began.",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20065",
+			"message": "All of the old data that comprised\nthis world would be mass deleted,\nthen rebooted to start over from zero.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20066",
+			"message": "But Volcanicdramon couldn't let it\nend that way.\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20067",
+			"message": "To protect our original world,\nit kept breaking down disused data\nin an effort to delay the countdown.",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20068",
+			"message": "That's also why I could gain the time\nto back up the data.\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20069",
+			"message": "The Vorvomon we found\nwas made from core data that\nVolcanicdramon itself had backed up.",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20070",
+			"message": "The original had been rebooted with over half of its abilities deleted,\ncausing it to go on the rampage and wander aimlessly.\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20071",
+			"message": "All it remembered was the mission to break down data\nand the issue with the core data.\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20072",
+			"message": "That's why it was coming after us,\nthe ones who kept restoring data. What's more,\nwe're accompanied by Vorvomon.",
+			"face": "3"
 		}
 	]
 }
