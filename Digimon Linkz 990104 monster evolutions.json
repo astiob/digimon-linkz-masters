@@ -32185,6 +32185,15 @@
 			"monsterEvolutionMaterialId": 20491
 		},
 		{
+			"monsterEvolutionId": "200496",
+			"baseMonsterId": "1695",
+			"nextMonsterId": "20531",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20496
+		},
+		{
 			"monsterEvolutionId": "200501",
 			"baseMonsterId": "1690",
 			"nextMonsterId": "20526",
@@ -32482,6 +32491,15 @@
 			"monsterEvolutionMaterialId": 40126
 		},
 		{
+			"monsterEvolutionId": "400131",
+			"baseMonsterId": "20146",
+			"nextMonsterId": "20531",
+			"type": "1",
+			"effectType": "1",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 40131
+		},
+		{
 			"monsterEvolutionId": "400136",
 			"baseMonsterId": "20331",
 			"nextMonsterId": "20526",
@@ -32588,6 +32606,447 @@
 			"effectType": "2",
 			"effectMonsterId": "0",
 			"monsterEvolutionMaterialId": 333
+		},
+		{
+			"monsterEvolutionId": "550000",
+			"baseMonsterId": "10085",
+			"nextMonsterId": "45000",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550001",
+			"baseMonsterId": "10090",
+			"nextMonsterId": "45000",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550002",
+			"baseMonsterId": "10095",
+			"nextMonsterId": "45000",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550003",
+			"baseMonsterId": "10100",
+			"nextMonsterId": "45000",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550004",
+			"baseMonsterId": "10105",
+			"nextMonsterId": "45000",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550005",
+			"baseMonsterId": "10110",
+			"nextMonsterId": "45000",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550006",
+			"baseMonsterId": "10115",
+			"nextMonsterId": "45000",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550007",
+			"baseMonsterId": "10120",
+			"nextMonsterId": "45006",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550008",
+			"baseMonsterId": "10125",
+			"nextMonsterId": "45006",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550009",
+			"baseMonsterId": "10130",
+			"nextMonsterId": "45006",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550010",
+			"baseMonsterId": "10135",
+			"nextMonsterId": "45006",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550011",
+			"baseMonsterId": "10140",
+			"nextMonsterId": "45006",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550012",
+			"baseMonsterId": "10145",
+			"nextMonsterId": "45006",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550013",
+			"baseMonsterId": "10150",
+			"nextMonsterId": "45006",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550014",
+			"baseMonsterId": "10155",
+			"nextMonsterId": "45012",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550015",
+			"baseMonsterId": "10160",
+			"nextMonsterId": "45012",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550016",
+			"baseMonsterId": "10165",
+			"nextMonsterId": "45012",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550017",
+			"baseMonsterId": "10170",
+			"nextMonsterId": "45012",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550018",
+			"baseMonsterId": "10175",
+			"nextMonsterId": "45012",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550019",
+			"baseMonsterId": "10180",
+			"nextMonsterId": "45012",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550020",
+			"baseMonsterId": "10185",
+			"nextMonsterId": "45012",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550021",
+			"baseMonsterId": "10190",
+			"nextMonsterId": "45018",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550022",
+			"baseMonsterId": "10195",
+			"nextMonsterId": "45018",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550023",
+			"baseMonsterId": "10200",
+			"nextMonsterId": "45018",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550024",
+			"baseMonsterId": "10205",
+			"nextMonsterId": "45018",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550025",
+			"baseMonsterId": "10210",
+			"nextMonsterId": "45018",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550026",
+			"baseMonsterId": "10215",
+			"nextMonsterId": "45018",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550027",
+			"baseMonsterId": "10220",
+			"nextMonsterId": "45018",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550028",
+			"baseMonsterId": "10225",
+			"nextMonsterId": "45024",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550029",
+			"baseMonsterId": "10230",
+			"nextMonsterId": "45024",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550030",
+			"baseMonsterId": "10235",
+			"nextMonsterId": "45024",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550031",
+			"baseMonsterId": "10240",
+			"nextMonsterId": "45024",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550032",
+			"baseMonsterId": "10245",
+			"nextMonsterId": "45024",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550033",
+			"baseMonsterId": "10250",
+			"nextMonsterId": "45024",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550034",
+			"baseMonsterId": "10255",
+			"nextMonsterId": "45024",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550035",
+			"baseMonsterId": "10260",
+			"nextMonsterId": "45030",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550036",
+			"baseMonsterId": "10265",
+			"nextMonsterId": "45030",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550037",
+			"baseMonsterId": "10270",
+			"nextMonsterId": "45030",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550038",
+			"baseMonsterId": "10275",
+			"nextMonsterId": "45030",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550039",
+			"baseMonsterId": "10280",
+			"nextMonsterId": "45030",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550040",
+			"baseMonsterId": "10285",
+			"nextMonsterId": "45030",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550041",
+			"baseMonsterId": "10290",
+			"nextMonsterId": "45030",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550042",
+			"baseMonsterId": "10295",
+			"nextMonsterId": "45036",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550043",
+			"baseMonsterId": "10300",
+			"nextMonsterId": "45036",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550044",
+			"baseMonsterId": "10305",
+			"nextMonsterId": "45036",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550045",
+			"baseMonsterId": "10310",
+			"nextMonsterId": "45036",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550046",
+			"baseMonsterId": "10315",
+			"nextMonsterId": "45036",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550047",
+			"baseMonsterId": "10320",
+			"nextMonsterId": "45036",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
+		},
+		{
+			"monsterEvolutionId": "550048",
+			"baseMonsterId": "10325",
+			"nextMonsterId": "45036",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 50000
 		}
 	]
 }

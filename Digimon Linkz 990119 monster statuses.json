@@ -47,6 +47,10 @@
 		{
 			"monsterStatusId": "10012",
 			"name": "SPD魔攻型"
+		},
+		{
+			"monsterStatusId": "10013",
+			"name": "覺醒型"
 		}
 	]
 }

@@ -2464,6 +2464,176 @@
 			"tutorialNaviId": "20038",
 			"message": "爆炎龍獸！？",
 			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20039",
+			"message": "$USER_INPUT_NAME$。\n在那之後，我進行了調查。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20040",
+			"message": "要啟動收集到的金鑰代碼，\n似乎需要爆炎龍獸\n所持IP的啟動認證。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20041",
+			"message": "於是我也調查了上次\n帶回來的火岩獸的資料……\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20042",
+			"message": "但是IP只剩下一部份，\n剩下的全都遺失了。\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20043",
+			"message": "那些遺失的資料，\n我認為寄宿在失控的\n爆炎龍獸身上的可能性很高。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20044",
+			"message": "至於會追到農場來，\n或許也是為了\n吸收這孩子身上的資料。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20045",
+			"message": "$USER_INPUT_NAME$。\n上次雖然成功擊退它了，\n但於地下確認了熱能的上升。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20046",
+			"message": "那隻失控的爆炎龍獸，\n應該也是想要在下次的\n攻擊分出勝負吧。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20047",
+			"message": "為了替那個時候做好準備，\n我認為需要這孩子的力量。\n就趁現在好好地培育它吧！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20048",
+			"message": "解析資料中……！\n是無比驚人的熱量！\n但是……好像哪裡怪怪的……？",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20049",
+			"message": "因為自己的能量而開始自我毀壞了！？\n似乎是無法承受\n自己體內的超高能量！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20050",
+			"message": "……？果然很奇怪……\n我認為寄宿在失控的\n像在拼命壓抑攻擊衝動……",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20051",
+			"message": "明顯是不願意攻擊這裡！\n這是……！爆炎龍獸\n傳送了資料過來！？",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20052",
+			"message": "啊……不行！信號正在變弱……\n能量就快要達到臨界點了……！！\n攻擊要來了！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20053",
+			"message": "$USER_INPUT_NAME$。\n爆炎龍獸……正在消失。\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20054",
+			"message": "咦……？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20055",
+			"message": "不，沒有消失……那是？",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20056",
+			"message": "失控的爆炎龍獸\n將資料交給了我們……？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20057",
+			"message": "因缺損而無法解析的資料\n全都恢復正常狀態了！\n",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20058",
+			"message": "啊……！認證資料正在更新！\nIP資料成為完整的狀態了！\n能夠啟動金鑰代碼了！！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20059",
+			"message": "$USER_INPUT_NAME$！\n從戰鬥中收到的紀錄資料\n明白了許多事！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20060",
+			"message": "人們不再使用的資料，\n最終會到達數碼世界……。\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20061",
+			"message": "由資料構成的這個世界，\n也在漫長時間中產生了\n許多不被需要的資料。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20062",
+			"message": "能夠分解、還原那些資料的，\n就是爆炎龍獸還有\n天然熔礦爐的熔岩區域。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20063",
+			"message": "但人類世界資訊傳輸量的擴張，\n遠遠超過了它們的處理上限。\n超過上限的資訊力場會破壞世界……",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20064",
+			"message": "在那個瞬間當中，\n數碼世界的安全機構\n就開始了倒數。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20065",
+			"message": "將至今構成這個世界\n的舊資料完全刪除，\n還有從零開始的重開機──",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20066",
+			"message": "可是，爆炎龍獸\n它還是不放棄。\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20067",
+			"message": "為了保護原本的世界，\n持續處理不需要的資料，\n想要延緩倒數。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20068",
+			"message": "所以也爭取到了\n讓我移動資料的時間。\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20069",
+			"message": "我們發現的那隻火岩獸，\n就是從那隻爆炎龍獸\n身上逃出來的核心資料，",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20070",
+			"message": "本體因重開機的影響失去大半的能力，\n而陷入失控狀態，不斷徘徊。\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20071",
+			"message": "只記得處理資料的使命，\n還有核心資料的事……\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20072",
+			"message": "所以它不斷修復資料，\n還追逐著帶走那孩子\n的我們呢。",
+			"face": "3"
 		}
 	]
 }
