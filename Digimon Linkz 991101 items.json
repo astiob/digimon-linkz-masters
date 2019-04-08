@@ -428,6 +428,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "110",
+			"name": "파쇄의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_110",
+				"EventResource/Item/item_110"
+			],
+			"unitName": "개 ",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "115",
 			"name": "성패의 데이터 단편",
 			"description": "교환소에서 다양한 물건으로 교환 가능.",

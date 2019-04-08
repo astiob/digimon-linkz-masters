@@ -1329,6 +1329,14 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "4000009",
+			"soulName": "코어 버전업 데이터",
+			"description": "볼케닉 계열 디지몬을 버전업할 때 필요한 프로그램",
+			"soulGroup": "3",
+			"rare": "1",
+			"priority": "2"
+		},
+		{
 			"soulId": "5000001",
 			"soulName": "무의 리팩터",
 			"description": "버전업한 환생계 디지몬의 상태이상 내성을 변화시킬 때 필요한 카드 매체",

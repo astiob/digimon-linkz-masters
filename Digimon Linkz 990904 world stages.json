@@ -1444,6 +1444,19 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6194",
+			"worldAreaId": "1120",
+			"priority": "1050",
+			"name": "월드 브레이커",
+			"description": "ポイントや断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "point/47/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",
@@ -2610,6 +2623,19 @@
 			"prerequisiteWorldStageId": "0",
 			"stageImage": "syuusyuu/10002/Holding_3.png",
 			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
+			"worldStageId": "9100002",
+			"worldAreaId": "9100002",
+			"priority": "1",
+			"name": "천지용명 2장 폭염룡의 각성",
+			"description": "ヴォルケニックドラモンとの決戦！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/10003/Holding_3.png",
+			"openTime": "2015-05-01 00:00:00",
 			"closeTime": "2030-05-01 00:00:00",
 			"adminOpenFlg": "0"
 		}

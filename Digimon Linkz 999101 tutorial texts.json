@@ -2464,6 +2464,176 @@
 			"tutorialNaviId": "20038",
 			"message": "볼케닉드라몬?!",
 			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20039",
+			"message": "$USER_INPUT_NAME$ 님.\n그 후에 조사를 해 봤어요.",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20040",
+			"message": "모은 키 코드를 기동시키려면\n볼케닉드라몬이 가진 IP로\n기동 인증을 해야 하는 것 같아요.",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20041",
+			"message": "그래서 전에 데려온 보보몬의\n데이터를 조사해 봤는데….\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20042",
+			"message": "IP의 일부만 남아 있고,\n나머지는 손실된 상태예요.\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20043",
+			"message": "아마 남은 데이터는\n폭주한 볼케닉드라몬이\n가지고 있을 가능성이 높을 거예요.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20044",
+			"message": "어쩌면 농장까지 쫓아온 것도\n이 아이가 가진 데이터를\n흡수하려고 그랬을지도 몰라요.",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20045",
+			"message": "$USER_INPUT_NAME$ 님.\n지난 습격 때는 물리쳤지만, 지하에서\n열에너지 상승이 확인되었어요.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20046",
+			"message": "폭주한 볼케닉드라몬도\n다음 공격으로 결판을 지으려는\n생각이겠죠.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20047",
+			"message": "그땐 분명히 이 아이의 힘이\n꼭 필요해질 거예요. 그전까지 열심히\n육성해 주세요!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20048",
+			"message": "데이터를 분석할게요…!\n엄청난 열에너지예요!\n하지만… 뭔가 이상해요…!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20049",
+			"message": "자신의 에너지에 의해 무너지고 있어요!\n체내의 막대한 에너지에 스스로가\n버티지 못하는 것 같아요!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20050",
+			"message": "…? 역시 이상하네요….\n폭주한 볼케닉드라몬이\n필사적으로 공격하려는 충동을 억누르는 것 같아요….",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20051",
+			"message": "저희를 공격하지 않으려고 해요!\n이건…! 볼케닉드라몬이\n데이터를 전송하고 있어요!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20052",
+			"message": "아아… 안 돼! 신호가 점점 약해져요….\n이제 에너지가 한계점에 도달했어요…!!\n공격해와요!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20053",
+			"message": "$USER_INPUT_NAME$ 님.\n볼케닉드라몬이… 소멸해요.\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20054",
+			"message": "어…?",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20055",
+			"message": "아니, 사라지지 않았어요… 저건?",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20056",
+			"message": "폭주하던 볼케닉드라몬이\n우리에게 데이터를…?",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20057",
+			"message": "누락으로 인해 분석할 수 없었던 데이터가\n모두 정상적인 상태로 변했어요!\n",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20058",
+			"message": "아…! 인증 데이터가 갱신돼 있어요!\nIP 데이터가 완전한 상태로 돌아왔어요!\n키 코드가 기동해요!!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20059",
+			"message": "$USER_INPUT_NAME$ 님!\n배틀 중에 전송된 로그 데이터를 통해\n여러 가지 사실을 밝혀냈어요!",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20060",
+			"message": "사람들이 사용하지 않게 된 데이터가 마지막에\n도달하는 곳이 디지털 월드…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20061",
+			"message": "그런 데이터로 구성된\n이 세계에서도 오랫동안 불필요한 데이터가\n생성되어 왔죠.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20062",
+			"message": "그 데이터를 분해하고 환원하는 역할을\n하던 것이 바로 볼케닉드라몬과\n천연 용광로인 용암 에어리어였던 거예요.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20063",
+			"message": "하지만 인간 세계의 정보 통신량이 늘어나\n그 처리 능력을 크게 웃돌고 말았어요.\n한계를 넘은 정보력은 세계를 파괴하죠…. ",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20064",
+			"message": "그 순간, 디지털 월드가 가진\n안전장치의 카운트다운이\n시작됐어요.",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20065",
+			"message": "지금까지 세계를 구성했던\n낡은 데이터를 일제 소거하고\n제로부터 재기동….",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20066",
+			"message": "하지만 볼케닉드라몬은\n포기하지 않았어요.",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20067",
+			"message": "원래 세계를 지키기 위해\n불필요한 데이터를 계속 처리하며\n카운트다운을 늦추려고 했죠.",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20068",
+			"message": "덕분에 제가 데이터를 대피 시킬\n시간도 벌 수 있었어요.",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20069",
+			"message": "저희가 발견한 보보몬은\n그 볼케닉드라몬이\n대피시킨 자신의 코어 데이터이고,",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20070",
+			"message": "본체는 재기동의 여파로 대부분의 능력을 잃어\n폭주 상태로 떠돌고 있었나 봐요.",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20071",
+			"message": "데이터를 처리해야 한다는 사명과\n코어 데이터에 관한 것만 기억하고 있어서",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20072",
+			"message": "데이터를 계속 복원하면서도\n그 아이까지 데리고 있던 저희를\n계속 쫓아왔던 거네요.",
+			"face": "3"
 		}
 	]
 }

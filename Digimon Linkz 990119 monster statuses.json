@@ -47,6 +47,10 @@
 		{
 			"monsterStatusId": "10012",
 			"name": "SPD 마법공격"
+		},
+		{
+			"monsterStatusId": "10013",
+			"name": "각성"
 		}
 	]
 }
