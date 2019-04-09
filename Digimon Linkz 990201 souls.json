@@ -1334,7 +1334,7 @@
 			"description": "爆炎系數碼寶貝進行型態升級時所需的程式。",
 			"soulGroup": "3",
 			"rare": "1",
-			"priority": "2"
+			"priority": "1"
 		},
 		{
 			"soulId": "5000001",
