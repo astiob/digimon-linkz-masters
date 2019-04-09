@@ -1334,7 +1334,7 @@
 			"description": "볼케닉 계열 디지몬을 버전업할 때 필요한 프로그램",
 			"soulGroup": "3",
 			"rare": "1",
-			"priority": "2"
+			"priority": "1"
 		},
 		{
 			"soulId": "5000001",
