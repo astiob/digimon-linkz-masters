@@ -1334,7 +1334,7 @@
 			"description": "A program required to Version Upgrade a Volcanicdramon line.",
 			"soulGroup": "3",
 			"rare": "1",
-			"priority": "2"
+			"priority": "1"
 		},
 		{
 			"soulId": "5000001",
