@@ -22321,6 +22321,96 @@
 			"everyTimeFlg": "0"
 		},
 		{
+			"worldDungeonRewardId": "8741",
+			"worldDungeonId": "12265",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "1",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8742",
+			"worldDungeonId": "12266",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "1",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8743",
+			"worldDungeonId": "12267",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "2",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8744",
+			"worldDungeonId": "12268",
+			"assetCategoryId": "6",
+			"assetValue": "111",
+			"assetNum": "10",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8745",
+			"worldDungeonId": "12269",
+			"assetCategoryId": "6",
+			"assetValue": "111",
+			"assetNum": "10",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8746",
+			"worldDungeonId": "12270",
+			"assetCategoryId": "6",
+			"assetValue": "111",
+			"assetNum": "10",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8747",
+			"worldDungeonId": "12271",
+			"assetCategoryId": "6",
+			"assetValue": "111",
+			"assetNum": "10",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8748",
+			"worldDungeonId": "12272",
+			"assetCategoryId": "6",
+			"assetValue": "111",
+			"assetNum": "10",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8749",
+			"worldDungeonId": "12273",
+			"assetCategoryId": "6",
+			"assetValue": "111",
+			"assetNum": "10",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8750",
+			"worldDungeonId": "12274",
+			"assetCategoryId": "6",
+			"assetValue": "111",
+			"assetNum": "10",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
 			"worldDungeonRewardId": "9100001",
 			"worldDungeonId": "9100001",
 			"assetCategoryId": "2",

@@ -8721,7 +8721,7 @@
 			"url": "/information/InformationDetail?informationId=1333",
 			"dispNum": "70",
 			"startTime": "2019-01-21 18:00:00",
-			"endTime": "2019-04-22 17:59:59"
+			"endTime": "2019-04-11 17:59:59"
 		},
 		{
 			"bannerId": "831",
@@ -9219,6 +9219,17 @@
 			"endTime": "2019-04-10 23:59:59"
 		},
 		{
+			"bannerId": "876",
+			"actionType": "menu",
+			"name": "イベント「乱戦 -幻地X竜鎧-」開催！",
+			"img": "/events/syuusyuu/68/Holding_2.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1415",
+			"dispNum": "50",
+			"startTime": "2019-04-11 18:00:00",
+			"endTime": "2019-04-17 23:59:59"
+		},
+		{
 			"bannerId": "878",
 			"actionType": "menu",
 			"name": "ワールドブレイカー 特効チップキャプチャ開催！",
@@ -9239,6 +9250,50 @@
 			"dispNum": "100",
 			"startTime": "2019-04-06 05:00:00",
 			"endTime": "2019-04-26 04:59:59"
+		},
+		{
+			"bannerId": "880",
+			"actionType": "menu",
+			"name": "降臨のスケジュールについて",
+			"img": "/events/advent/info_adventschedule.png",
+			"linkCategoryType": "9",
+			"url": "/information/InformationDetail?informationId=1413",
+			"dispNum": "70",
+			"startTime": "2019-04-11 18:00:00",
+			"endTime": "2019-07-15 17:59:59"
+		},
+		{
+			"bannerId": "881",
+			"actionType": "menu",
+			"name": "爆炎竜育成チケットキャプチャ開催！",
+			"img": "/gasha/special/20010/20010_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1418",
+			"dispNum": "23",
+			"startTime": "2019-04-12 16:00:00",
+			"endTime": "2019-04-16 15:59:59"
+		},
+		{
+			"bannerId": "882",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10227/10227_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1419",
+			"dispNum": "3",
+			"startTime": "2019-04-11 16:00:00",
+			"endTime": "2019-04-25 15:59:59"
+		},
+		{
+			"bannerId": "883",
+			"actionType": "menu",
+			"name": "乱戦 -幻地X竜鎧- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30120/30120_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1420",
+			"dispNum": "7",
+			"startTime": "2019-04-11 16:00:00",
+			"endTime": "2019-04-17 23:59:59"
 		}
 	]
 }

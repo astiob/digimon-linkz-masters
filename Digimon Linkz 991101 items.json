@@ -1385,6 +1385,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "111",
+			"name": "竜鎧の断片データ",
+			"description": "竜鎧のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_111",
+				"EventResource/Item/item_111"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "115",
 			"name": "聖覇の断片データ",
 			"description": "聖覇のデータが断片化したもの。交換所で様々なものと交換可能。",
