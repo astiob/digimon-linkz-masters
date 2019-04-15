@@ -10660,6 +10660,72 @@
 			"effect": "chip_effect_10179"
 		},
 		{
+			"chipId": "100522",
+			"chipGroupId": "10180",
+			"name": "Dragonarmored Drop Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10180",
+			"detail": "ATK +20. Also increases Data Byte drop by 1 in \"RUSH! -Earth Mirage X Dragonarmored-\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100523",
+			"chipGroupId": "10180",
+			"name": "Dragonarmored Drop Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10180",
+			"detail": "ATK +30. Also increases Data Byte drop by 3 in \"RUSH! -Earth Mirage X Dragonarmored-\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100524",
+			"chipGroupId": "10180",
+			"name": "Dragonarmored Drop Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10180",
+			"detail": "ATK +50. Also increases Data Byte drop by 9 in \"RUSH! -Earth Mirage X Dragonarmored-\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100525",
+			"chipGroupId": "10181",
+			"name": "Dragonarmored EX stage Specialty Chip  C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10181",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"RUSH! -Earth Mirage X Dragonarmored-\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100526",
+			"chipGroupId": "10181",
+			"name": "Dragonarmored EX stage Specialty Chip  B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10181",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"RUSH! -Earth Mirage X Dragonarmored-\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100527",
+			"chipGroupId": "10181",
+			"name": "Dragonarmored EX stage Specialty Chip  A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10181",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"RUSH! -Earth Mirage X Dragonarmored-\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",

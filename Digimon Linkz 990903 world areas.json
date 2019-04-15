@@ -517,6 +517,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1121",
+			"worldId": "6",
+			"priority": "10",
+			"name": "RUSH! -Earth Mirage X Dragonarmored-",
+			"img": "syuusyuu/68/Holding_1.png",
+			"description": "RUSH! -Earth Mirage X Dragonarmored-",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "100001",
 			"worldId": "6",
 			"priority": "10",

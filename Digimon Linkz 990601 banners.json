@@ -3464,6 +3464,39 @@
 			"dispNum": "100",
 			"startTime": "2019-04-11 05:00:00",
 			"endTime": "2019-04-30 04:59:59"
+		},
+		{
+			"bannerId": "100318",
+			"actionType": "menu",
+			"name": "The \"RUSH! -Earth Mirage X Dragonarmored-\" event has begun!",
+			"img": "/events/syuusyuu/68/Holding_2.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=599",
+			"dispNum": "50",
+			"startTime": "2019-04-15 18:00:00",
+			"endTime": "2019-04-21 13:59:59"
+		},
+		{
+			"bannerId": "100320",
+			"actionType": "menu",
+			"name": "\"Mega Festival Capture\" has begun!",
+			"img": "/gasha/special/10227/10227_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=603",
+			"dispNum": "15",
+			"startTime": "2019-04-15 16:00:00",
+			"endTime": "2019-04-29 15:59:59"
+		},
+		{
+			"bannerId": "100321",
+			"actionType": "menu",
+			"name": "The \"RUSH! -Earth Mirage X Dragonarmored-\"Special Chip Capture has begun!",
+			"img": "/gasha/special/30120/30120_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=604",
+			"dispNum": "19",
+			"startTime": "2019-04-15 16:00:00",
+			"endTime": "2019-04-21 13:59:59"
 		}
 	]
 }
