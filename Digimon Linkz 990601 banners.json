@@ -9230,6 +9230,17 @@
 			"endTime": "2019-04-17 23:59:59"
 		},
 		{
+			"bannerId": "877",
+			"actionType": "menu",
+			"name": "イベント「暗黒黙示録」開催！",
+			"img": "/events/syuusyuu/69/Holding_2.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1417",
+			"dispNum": "50",
+			"startTime": "2019-04-18 18:00:00",
+			"endTime": "2019-04-24 23:59:59"
+		},
+		{
 			"bannerId": "878",
 			"actionType": "menu",
 			"name": "ワールドブレイカー 特効チップキャプチャ開催！",
@@ -9294,6 +9305,72 @@
 			"dispNum": "7",
 			"startTime": "2019-04-11 16:00:00",
 			"endTime": "2019-04-17 23:59:59"
+		},
+		{
+			"bannerId": "884",
+			"actionType": "menu",
+			"name": "食事経験値アップキャンペーン",
+			"img": "/campaign/10003/10003_mealexp_99.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1424",
+			"dispNum": "103",
+			"startTime": "2019-04-18 16:00:00",
+			"endTime": "2019-05-09 15:59:59"
+		},
+		{
+			"bannerId": "885",
+			"actionType": "menu",
+			"name": "強化運上昇確率アップキャンペーン開催！",
+			"img": "/campaign/10004/10004_powerluck.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1425",
+			"dispNum": "102",
+			"startTime": "2019-04-18 16:00:00",
+			"endTime": "2019-05-09 15:59:59"
+		},
+		{
+			"bannerId": "886",
+			"actionType": "menu",
+			"name": "才能メダル引き継ぎ確率UPキャンペーン開催",
+			"img": "/campaign/11002/11002_labomedal.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1426",
+			"dispNum": "101",
+			"startTime": "2019-04-18 16:00:00",
+			"endTime": "2019-04-25 15:59:59"
+		},
+		{
+			"bannerId": "887",
+			"actionType": "menu",
+			"name": "才能メダルキャプチャ開催！",
+			"img": "/gasha/special/10099/10099_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1428",
+			"dispNum": "5",
+			"startTime": "2019-04-18 16:00:00",
+			"endTime": "2019-04-25 15:59:59"
+		},
+		{
+			"bannerId": "888",
+			"actionType": "menu",
+			"name": "暗黒の黙示録 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30121/30121_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1429",
+			"dispNum": "7",
+			"startTime": "2019-04-18 16:00:00",
+			"endTime": "2019-04-24 23:59:59"
+		},
+		{
+			"bannerId": "889",
+			"actionType": "menu",
+			"name": "究極体リミテッドキャプチャ開催！",
+			"img": "/gasha/special/10229/10229_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1430",
+			"dispNum": "2",
+			"startTime": "2019-04-22 16:00:00",
+			"endTime": "2019-04-29 15:59:59"
 		}
 	]
 }

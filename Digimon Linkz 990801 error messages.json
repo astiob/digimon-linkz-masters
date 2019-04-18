@@ -582,6 +582,13 @@
 			"actionValue": "1"
 		},
 		{
+			"messageCode": "E-MN156",
+			"messageTitle": "状態異常耐性変化",
+			"messageText": "全ての状態異常に耐性が付いているため、\r\n耐性変化の必要がありません。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
 			"messageCode": "E-US06",
 			"messageTitle": "スタミナ不足",
 			"messageText": "【E-US06】スタミナが足りません。\nデジストーンを所持していません。\n※デジストーン5個使用すると回復できます。",

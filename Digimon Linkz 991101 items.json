@@ -1398,6 +1398,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "112",
+			"name": "暗黒黙示録の断片データ",
+			"description": "暗黒黙示録のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_112",
+				"EventResource/Item/item_112"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "115",
 			"name": "聖覇の断片データ",
 			"description": "聖覇のデータが断片化したもの。交換所で様々なものと交換可能。",
