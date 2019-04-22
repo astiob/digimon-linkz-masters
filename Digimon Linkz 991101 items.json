@@ -454,6 +454,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "112",
+			"name": "暗黑啟示錄的片斷資料",
+			"description": "可在交換所兌換各種東西。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_112",
+				"EventResource/Item/item_112"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "115",
 			"name": "聖霸的片斷資料",
 			"description": "可在交換所兌換各種東西。",

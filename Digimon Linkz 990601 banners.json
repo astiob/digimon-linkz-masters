@@ -3477,6 +3477,17 @@
 			"endTime": "2019-04-21 13:59:59"
 		},
 		{
+			"bannerId": "100319",
+			"actionType": "menu",
+			"name": "舉辦活動「暗黑的啟示錄」！",
+			"img": "/events/syuusyuu/69/Holding_2.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=601",
+			"dispNum": "50",
+			"startTime": "2019-04-22 18:00:00",
+			"endTime": "2019-04-28 13:59:59"
+		},
+		{
 			"bannerId": "100320",
 			"actionType": "menu",
 			"name": "舉辦「究極體大會捕捉」！",
@@ -3497,6 +3508,50 @@
 			"dispNum": "19",
 			"startTime": "2019-04-15 16:00:00",
 			"endTime": "2019-04-21 13:59:59"
+		},
+		{
+			"bannerId": "100322",
+			"actionType": "menu",
+			"name": "將舉辦「才能獎牌繼承活動」！",
+			"img": "/campaign/11002/11002_labomedal.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=606",
+			"dispNum": "99",
+			"startTime": "2019-04-22 16:00:00",
+			"endTime": "2019-04-29 15:59:59"
+		},
+		{
+			"bannerId": "100323",
+			"actionType": "menu",
+			"name": "舉辦「才能獎牌捕捉」！",
+			"img": "/gasha/special/100062/100062_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=607",
+			"dispNum": "20",
+			"startTime": "2019-04-22 16:00:00",
+			"endTime": "2019-04-29 15:59:59"
+		},
+		{
+			"bannerId": "100324",
+			"actionType": "menu",
+			"name": "舉辦「暗黑的啟示錄」特效晶片捕捉！",
+			"img": "/gasha/special/30121/30121_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=608",
+			"dispNum": "19",
+			"startTime": "2019-04-22 16:00:00",
+			"endTime": "2019-04-28 13:59:59"
+		},
+		{
+			"bannerId": "100325",
+			"actionType": "menu",
+			"name": "舉辦「究極體限定捕捉」！",
+			"img": "/gasha/special/10228/10228_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=609",
+			"dispNum": "14",
+			"startTime": "2019-04-22 16:00:00",
+			"endTime": "2019-04-29 15:59:59"
 		}
 	]
 }

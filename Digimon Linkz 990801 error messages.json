@@ -582,6 +582,13 @@
 			"actionValue": "1"
 		},
 		{
+			"messageCode": "E-MN156",
+			"messageTitle": "狀態抗性",
+			"messageText": "因具備對所有異常狀態的抗性，\n\r\n不需進行抗性變化。",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
 			"messageCode": "E-US06",
 			"messageTitle": "體力不足",
 			"messageText": "【E-US06】體力不足。\n未持有數碼石。\n※使用5個數碼石即可回復。",

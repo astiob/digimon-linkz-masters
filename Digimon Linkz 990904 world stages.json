@@ -1561,6 +1561,32 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6203",
+			"worldAreaId": "1122",
+			"priority": "1051",
+			"name": "暗黑的啟示錄",
+			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/69/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
+			"worldStageId": "6204",
+			"worldAreaId": "1122",
+			"priority": "1050",
+			"name": "暗黑的啟示錄 獎勵級",
+			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/69/Holding_3.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",

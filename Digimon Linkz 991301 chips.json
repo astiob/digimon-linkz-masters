@@ -10726,6 +10726,72 @@
 			"effect": "chip_effect_10146"
 		},
 		{
+			"chipId": "100528",
+			"chipGroupId": "10182",
+			"name": "暗黑啟示錄的 掉落特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10182",
+			"detail": "ATK+20。並且於「暗黑的啟示錄」中使片斷資料的獲得個數+1。",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100529",
+			"chipGroupId": "10182",
+			"name": "暗黑啟示錄的 掉落特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10182",
+			"detail": "ATK+30。並且於「暗黑的啟示錄」中使片斷資料的獲得個數+3。",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100530",
+			"chipGroupId": "10182",
+			"name": "暗黑啟示錄的 掉落特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10182",
+			"detail": "ATK+50。並且於「暗黑的啟示錄」中使片斷資料的獲得個數+9。",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100531",
+			"chipGroupId": "10183",
+			"name": "暗黑啟示錄的 EXTRA STAGE特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10183",
+			"detail": "S-ATK+20。並且於「暗黑的啟示錄」中令EXTRA STAGE的發動率小幅提升。",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100532",
+			"chipGroupId": "10183",
+			"name": "暗黑啟示錄的 EXTRA STAGE特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10183",
+			"detail": "S-ATK+30。並且於「暗黑的啟示錄」中令EXTRA STAGE的發動率中幅提升。",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100533",
+			"chipGroupId": "10183",
+			"name": "暗黑啟示錄的 EXTRA STAGE特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10183",
+			"detail": "S-ATK+50。並且於「暗黑的啟示錄」中令EXTRA STAGE的發動率大幅提升。",
+			"effect": "chip_effect_10146"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "破壞與救世的Pt特效 C",
