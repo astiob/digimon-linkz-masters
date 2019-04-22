@@ -582,6 +582,13 @@
 			"actionValue": "1"
 		},
 		{
+			"messageCode": "E-MN156",
+			"messageTitle": "Resist Status",
+			"messageText": "Since it has Resistance \r\nto all Status Effects,\r\nResistance Upgrades are not required.\r\n",
+			"actionType": "1",
+			"actionValue": "1"
+		},
+		{
 			"messageCode": "E-US06",
 			"messageTitle": "Not Enough Stamina",
 			"messageText": "[E-US06] Not enough Stamina.\nYou are out of DigiStones.\n* Use 5 DS to restore.",

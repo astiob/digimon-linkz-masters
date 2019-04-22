@@ -529,6 +529,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1122",
+			"worldId": "6",
+			"priority": "10",
+			"name": "Dark Apocalypse",
+			"img": "syuusyuu/69/Holding_1.png",
+			"description": "Dark Apocalypse",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "100001",
 			"worldId": "6",
 			"priority": "10",

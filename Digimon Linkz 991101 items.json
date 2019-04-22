@@ -454,6 +454,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "112",
+			"name": "Dark Apocalyptic Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_112",
+				"EventResource/Item/item_112"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "115",
 			"name": "Holy Conquest Data Bytes",
 			"description": "Can be exchanged for various items.",

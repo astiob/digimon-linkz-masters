@@ -10726,6 +10726,72 @@
 			"effect": "chip_effect_10146"
 		},
 		{
+			"chipId": "100528",
+			"chipGroupId": "10182",
+			"name": "Dark Apocalyptic Drop Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10182",
+			"detail": "ATK +20. Also increases Data Byte drop by 1 in \"Dark Apocalypse\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100529",
+			"chipGroupId": "10182",
+			"name": "Dark Apocalyptic Drop Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10182",
+			"detail": "ATK +30. Also increases Data Byte drop by 3 in \"Dark Apocalypse\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100530",
+			"chipGroupId": "10182",
+			"name": "Dark Apocalyptic Drop Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10182",
+			"detail": "ATK +50. Also increases Data Byte drop by 9 in \"Dark Apocalypse\".",
+			"effect": "chip_effect_10145"
+		},
+		{
+			"chipId": "100531",
+			"chipGroupId": "10183",
+			"name": "Dark Apocalyptic EX stage Specialty Chip  C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10183",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"Dark Apocalypse\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100532",
+			"chipGroupId": "10183",
+			"name": "Dark Apocalyptic EX stage Specialty Chip  B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10183",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"Dark Apocalypse\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
+			"chipId": "100533",
+			"chipGroupId": "10183",
+			"name": "Dark Apocalyptic EX stage Specialty Chip  A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10183",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Dark Apocalypse\" event.",
+			"effect": "chip_effect_10146"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",
