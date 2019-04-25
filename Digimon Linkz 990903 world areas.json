@@ -1549,6 +1549,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1123",
+			"worldId": "6",
+			"priority": "10",
+			"name": "魔銃 X 戦刃",
+			"img": "point/48/Holding_1.png",
+			"description": "ポイントや断片データを集めて、さまざまな報酬を手に入れよう！",
+			"type": "4",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "9100001",
 			"worldId": "6",
 			"priority": "19",
@@ -1566,6 +1578,18 @@
 			"priority": "18",
 			"name": "天地龍明 二章",
 			"img": "syuusyuu/10003/Holding_1.png",
+			"description": "ヴォルケニックドラモンとの決戦に挑もう",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "9100003",
+			"worldId": "6",
+			"priority": "17",
+			"name": "天地龍明 三章",
+			"img": "syuusyuu/10004/Holding_1.png",
 			"description": "ヴォルケニックドラモンとの決戦に挑もう",
 			"type": "1",
 			"prerequisiteWorldAreaId": "0",

@@ -974,6 +974,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1121",
+			"name": "第25回覇者",
+			"detail": "第25回コロシアムの覇者に送られる栄光の証",
+			"img": "honorific_colosseum_121",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1122",
+			"name": "第25回SSSランカー",
+			"detail": "第25回コロシアムの最上位ランカーに送られる栄誉の証",
+			"img": "honorific_colosseum_126",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1123",
+			"name": "第25回SSランカー",
+			"detail": "第25回コロシアムの上位ランカーに送られる名誉の証",
+			"img": "honorific_colosseum_127",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1124",
+			"name": "第25回Sランカー",
+			"detail": "第25回コロシアムのランカーに送られる名声の証",
+			"img": "honorific_colosseum_128",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1125",
+			"name": "第25回挑戦者",
+			"detail": "第25回コロシアムの挑戦者に送られる証",
+			"img": "honorific_colosseum_130",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10001",
 			"name": "竜帝の系譜トップ100",
 			"detail": "イベント「竜帝の系譜」トップ100位に送られる栄誉の証",

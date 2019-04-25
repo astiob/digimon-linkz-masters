@@ -9371,6 +9371,61 @@
 			"dispNum": "2",
 			"startTime": "2019-04-22 16:00:00",
 			"endTime": "2019-04-29 15:59:59"
+		},
+		{
+			"bannerId": "890",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10231/10231_banner_1.png?v=1",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1435",
+			"dispNum": "3",
+			"startTime": "2019-04-25 16:00:00",
+			"endTime": "2019-05-09 15:59:59"
+		},
+		{
+			"bannerId": "891",
+			"actionType": "menu",
+			"name": "魔銃 X 戦刃 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30122/30122_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1436",
+			"dispNum": "7",
+			"startTime": "2019-04-25 16:00:00",
+			"endTime": "2019-05-08 23:59:59"
+		},
+		{
+			"bannerId": "892",
+			"actionType": "menu",
+			"name": "究極体リミテッドキャプチャ開催！",
+			"img": "/gasha/special/10232/10232_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1437",
+			"dispNum": "2",
+			"startTime": "2019-05-06 16:00:00",
+			"endTime": "2019-05-13 15:59:59"
+		},
+		{
+			"bannerId": "893",
+			"actionType": "menu",
+			"name": "イベント「魔銃 X 戦刃」開催！",
+			"img": "/events/point/48/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1439",
+			"dispNum": "50",
+			"startTime": "2019-04-25 18:00:00",
+			"endTime": "2019-05-08 23:59:59"
+		},
+		{
+			"bannerId": "894",
+			"actionType": "menu",
+			"name": "GWログインボーナス開催！",
+			"img": "/login/10039/10039_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1441",
+			"dispNum": "100",
+			"startTime": "2019-04-26 05:00:00",
+			"endTime": "2019-05-10 04:59:59"
 		}
 	]
 }

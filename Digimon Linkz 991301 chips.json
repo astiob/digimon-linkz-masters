@@ -14708,6 +14708,72 @@
 			"effect": "chip_effect_10183"
 		},
 		{
+			"chipId": "100534",
+			"chipGroupId": "10184",
+			"name": "魔銃戦刃のPt特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10184",
+			"detail": "ATK+20。「魔銃 X 戦刃」で獲得ポイントが1.5倍になる。",
+			"effect": "chip_effect_10184"
+		},
+		{
+			"chipId": "100535",
+			"chipGroupId": "10184",
+			"name": "魔銃戦刃のPt特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10184",
+			"detail": "ATK+30。「魔銃 X 戦刃」で獲得ポイントが2.5倍になる。",
+			"effect": "chip_effect_10184"
+		},
+		{
+			"chipId": "100536",
+			"chipGroupId": "10184",
+			"name": "魔銃戦刃のPt特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10184",
+			"detail": "ATK+50。「魔銃 X 戦刃」で獲得ポイントが5.5倍になる。",
+			"effect": "chip_effect_10184"
+		},
+		{
+			"chipId": "100537",
+			"chipGroupId": "10185",
+			"name": "魔銃戦刃のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10185",
+			"detail": "S-ATK+20。「魔銃 X 戦刃」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_10185"
+		},
+		{
+			"chipId": "100538",
+			"chipGroupId": "10185",
+			"name": "魔銃戦刃のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10185",
+			"detail": "S-ATK+30。「魔銃 X 戦刃」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_10185"
+		},
+		{
+			"chipId": "100539",
+			"chipGroupId": "10185",
+			"name": "魔銃戦刃のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10185",
+			"detail": "S-ATK+50。「魔銃 X 戦刃」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_10185"
+		},
+		{
 			"chipId": "200001",
 			"chipGroupId": "10039",
 			"name": "千年紀のPt特効 C",

@@ -1273,6 +1273,30 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "3000004",
+			"soulName": "ハルプラグインver1.0",
+			"description": "特定デジモンを進化する際に必要となるプログラム",
+			"soulGroup": "2",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "3000005",
+			"soulName": "ハルプラグインver2.0",
+			"description": "特定デジモンを進化する際に必要となるプログラム",
+			"soulGroup": "2",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "3000006",
+			"soulName": "ハルプラグインver3.0",
+			"description": "特定デジモンを進化する際に必要となるプログラム",
+			"soulGroup": "2",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
 			"soulId": "4000001",
 			"soulName": "無のアップデータ",
 			"description": "幻生系のデジモンをバージョンアップする為に必要となるプログラム",
@@ -1339,6 +1363,14 @@
 		{
 			"soulId": "4000009",
 			"soulName": "コアアップデータ",
+			"description": "特定デジモンをバージョンアップする際に必要となるプログラム",
+			"soulGroup": "3",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "4000010",
+			"soulName": "ハルアップデータ",
 			"description": "特定デジモンをバージョンアップする際に必要となるプログラム",
 			"soulGroup": "3",
 			"rare": "1",

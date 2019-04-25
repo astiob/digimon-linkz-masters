@@ -1411,6 +1411,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "113",
+			"name": "魔銃戦刃の断片データ",
+			"description": "魔銃戦刃のデータが断片化したもの。交換所で様々なものと交換可能。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_113",
+				"EventResource/Item/item_113"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "115",
 			"name": "聖覇の断片データ",
 			"description": "聖覇のデータが断片化したもの。交換所で様々なものと交換可能。",

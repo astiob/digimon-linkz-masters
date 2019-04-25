@@ -22447,6 +22447,51 @@
 			"everyTimeFlg": "0"
 		},
 		{
+			"worldDungeonRewardId": "8755",
+			"worldDungeonId": "12279",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "1",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8756",
+			"worldDungeonId": "12280",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "1",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8757",
+			"worldDungeonId": "12281",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "2",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8758",
+			"worldDungeonId": "12282",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "2",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8759",
+			"worldDungeonId": "12283",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "1",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
 			"worldDungeonRewardId": "9100001",
 			"worldDungeonId": "9100001",
 			"assetCategoryId": "2",
@@ -22566,6 +22611,42 @@
 		{
 			"worldDungeonRewardId": "9100014",
 			"worldDungeonId": "9100013",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "5",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "9100015",
+			"worldDungeonId": "9100014",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "5",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "9100016",
+			"worldDungeonId": "9100015",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "5",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "9100017",
+			"worldDungeonId": "9100016",
+			"assetCategoryId": "1",
+			"assetValue": "10336",
+			"assetNum": "1",
+			"exValue": "{\"abilityType\":3,\"monsterFixedValueId\":1251,\"maxExtraSlotNum\":5}",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "9100018",
+			"worldDungeonId": "9100016",
 			"assetCategoryId": "2",
 			"assetValue": "1",
 			"assetNum": "5",

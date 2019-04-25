@@ -111,6 +111,34 @@
 			"adventureTrigger": "11",
 			"adventureTriggerValue": "1",
 			"adventureValue": "adv111/adv111_07_event"
+		},
+		{
+			"worldDungeonId": "9100015",
+			"adventureId": "0",
+			"adventureTrigger": "1",
+			"adventureTriggerValue": "3",
+			"adventureValue": "adv114_01/adv114_01_event"
+		},
+		{
+			"worldDungeonId": "9100015",
+			"adventureId": "0",
+			"adventureTrigger": "4",
+			"adventureTriggerValue": "3,1",
+			"adventureValue": "adv114_01/adv114_02_event"
+		},
+		{
+			"worldDungeonId": "9100015",
+			"adventureId": "0",
+			"adventureTrigger": "11",
+			"adventureTriggerValue": "1",
+			"adventureValue": "adv114_01/adv114_03_event"
+		},
+		{
+			"worldDungeonId": "9100015",
+			"adventureId": "0",
+			"adventureTrigger": "1",
+			"adventureTriggerValue": "1",
+			"adventureValue": "adv114_01/adv114_04_event"
 		}
 	]
 }

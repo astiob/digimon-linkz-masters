@@ -2634,6 +2634,256 @@
 			"tutorialNaviId": "20072",
 			"message": "データを修復し続け､しかも\nあの子まで連れていた私達を\nずっと追いかけていたんですね。",
 			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20073",
+			"message": "$USER_INPUT_NAME$さん\nいよいよこの日が来ましたね。\n準備はばっちり出来てます！！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20074",
+			"message": "リンクを安定させるキーコード､\nこれを中心部で起動させれば完了です。\nさっそく向かいましょう！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20075",
+			"message": "…\n…\n…",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20076",
+			"message": "…\n…\n…$USER_INPUT_NAME$さん",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20077",
+			"message": "$USER_INPUT_NAME$さんとの旅も\nこれでもう､おしまいなんですね。\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20078",
+			"message": "そう思うと､なんだか私… \n\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20079",
+			"message": "…\n…\n…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20080",
+			"message": "あ､ごめんなさい！\nやっと復旧が完了する時に\nなんだか変な感じになっちゃいましたね！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20081",
+			"message": "それでは中心部に行きましょう！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20082",
+			"message": "さっ､ここが中心部です。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20083",
+			"message": "さっそくキーコードを… ",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20084",
+			"message": "！\nセキュリティアラート！？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20085",
+			"message": "メインシステムを護るセキュリティシステムが動いてる!? \n",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20086",
+			"message": "$USER_INPUT_NAME$さん！\n強行突破しちゃってください！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20087",
+			"message": "なんとか凌げましたね…\n",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20088",
+			"message": "えっ･･･\n",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20089",
+			"message": "あれはっ！",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20090",
+			"message": "このでたらめなデータ量っ…！\nサーチしますっ…！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20091",
+			"message": "個体名は…メタリックドラモン！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20092",
+			"message": "この子はヴォルケニックドラモンと同じ\nコードが収められたデータベースを護る\n最高セキュリティ！？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20093",
+			"message": "…",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20094",
+			"message": "$USER_INPUT_NAME$さん！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20095",
+			"message": "今まで一緒に居て…\n私､信じています！\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20096",
+			"message": "これが最後の戦いです！\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20097",
+			"message": "メインフレームアクセス\n認証クリア… \n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20098",
+			"message": "まずは情報処理の最適化開始… と\nデータを並列処理するように設定して… ",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20099",
+			"message": "うん！処理速度､正常値を維持してます！",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20100",
+			"message": "これでもうデータ量が増大しても\nデジタルワールドが崩壊することは\nちょっとやそっとじゃ起きないはずです。",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20101",
+			"message": "あとは$USER_INPUT_NAME$さんが復旧した\nデジタルワールドのデータを\nキーコードでアクティベートしたら… ",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20102",
+			"message": "…\n…\n…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20103",
+			"message": "あの､$USER_INPUT_NAME$さん\n\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20104",
+			"message": "ここまで色々ありましたね。\n\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20105",
+			"message": "私､ちゃんとあなたのナビ、\nできましたか？\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20106",
+			"message": "…\n…\n…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20107",
+			"message": "そうですか､ふふ\n私､結構がんばったんですよ\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20108",
+			"message": "本当はデジタルワールドに初めて来た人に\n簡単な案内をするだけのチュートリアル\nナビゲーションだったんですけど",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20109",
+			"message": "思った以上に長いお付き合いに\nなっちゃいましたね\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20110",
+			"message": "あ\n私､結構楽しかったですよ\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20111",
+			"message": "それじゃぁ… キーコードを\nアクティベート！と\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20112",
+			"message": "$USER_INPUT_NAME$さん…\nいままでありがとうございました",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20113",
+			"message": "さようなら…",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20114",
+			"message": "・・・",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20115",
+			"message": "\n>全システムの正常稼働を確認しました\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20116",
+			"message": ">ワールド危険Lv低下\n>ナビゲーションプログラムの\n>\"緊急自律思考モード\"を終了します",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20117",
+			"message": ">ナビゲーションプログラム再起動\n>メモリ初期化を実施します。\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20118",
+			"message": ">初期化完了しました。\n\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20119",
+			"message": ">ナビゲーションプログラム\"ヒナ\"を\n>\"固定ルーチンモード\"で起動します。\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20120",
+			"message": "ようこそ、[ffd700]デジモンリンクス[-]へ。\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20121",
+			"message": "はじめまして。\n私は、ナビゲーターのヒナです。\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20122",
+			"message": "$USER_INPUT_NAME$さんですね。\nそれではデジタルワールドを\nご案内いたします。",
+			"face": "5"
 		}
 	]
 }
