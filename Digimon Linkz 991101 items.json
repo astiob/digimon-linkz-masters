@@ -467,6 +467,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "113",
+			"name": "Demon Gun ＆ Battle Sword Data Bytes",
+			"description": "Can be exchanged for various items.",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_113",
+				"EventResource/Item/item_113"
+			],
+			"unitName": "pcs",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "115",
 			"name": "Holy Conquest Data Bytes",
 			"description": "Can be exchanged for various items.",

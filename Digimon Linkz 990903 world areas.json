@@ -541,6 +541,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "1123",
+			"worldId": "6",
+			"priority": "10",
+			"name": "Demon Gun X Battle Sword",
+			"img": "point/48/Holding_1.png",
+			"description": "Demon Gun X Battle Sword",
+			"type": "4",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "100001",
 			"worldId": "6",
 			"priority": "10",
@@ -1099,6 +1111,18 @@
 			"name": "Dragon's Light Chapter 2: The Awakening of Fire Blasting Dragon",
 			"img": "syuusyuu/10003/Holding_1.png",
 			"description": "Dragon's Light Chapter 2: The Awakening of Fire Blasting Dragon",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "9100003",
+			"worldId": "6",
+			"priority": "17",
+			"name": "Dragon's Light Chapter 3: Linking the Universe Together\n",
+			"img": "syuusyuu/10004/Holding_1.png?v=2",
+			"description": "Dragon's Light Chapter 3: Linking the Universe Together\n",
 			"type": "1",
 			"prerequisiteWorldAreaId": "0",
 			"openTime": "2015-05-01 00:00:00",

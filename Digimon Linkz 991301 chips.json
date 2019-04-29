@@ -10792,6 +10792,72 @@
 			"effect": "chip_effect_10146"
 		},
 		{
+			"chipId": "100534",
+			"chipGroupId": "10184",
+			"name": "Demon Gun ＆ Battle Sword Pt Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10184",
+			"detail": "ATK +20. Also increases obtainable Pts by x1.5 in \"Demon Gun X Battle Sword\" event.",
+			"effect": "chip_effect_10184"
+		},
+		{
+			"chipId": "100535",
+			"chipGroupId": "10184",
+			"name": "Demon Gun ＆ Battle Sword Pt Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10184",
+			"detail": "ATK +30. Also increases obtainable Pts by x2.5 in \"Demon Gun X Battle Sword\" event.",
+			"effect": "chip_effect_10184"
+		},
+		{
+			"chipId": "100536",
+			"chipGroupId": "10184",
+			"name": "Demon Gun ＆ Battle Sword Pt Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10184",
+			"detail": "ATK +50. Also increases obtainable Pts by x5.5 in \"Demon Gun X Battle Sword\" event.",
+			"effect": "chip_effect_10184"
+		},
+		{
+			"chipId": "100537",
+			"chipGroupId": "10185",
+			"name": "Demon Gun ＆ Battle Sword EX stage Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10185",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"Demon Gun X Battle Sword\" event.",
+			"effect": "chip_effect_10185"
+		},
+		{
+			"chipId": "100538",
+			"chipGroupId": "10185",
+			"name": "Demon Gun ＆ Battle Sword EX stage Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10185",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"Demon Gun X Battle Sword\" event.",
+			"effect": "chip_effect_10185"
+		},
+		{
+			"chipId": "100539",
+			"chipGroupId": "10185",
+			"name": "Demon Gun ＆ Battle Sword EX stage Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10185",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Demon Gun X Battle Sword\" event.",
+			"effect": "chip_effect_10185"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",

@@ -1273,6 +1273,30 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "3000004",
+			"soulName": "Hull Plugin ver1.0",
+			"description": "A program required when Digivolving Digimon in the Metallicdramon line.",
+			"soulGroup": "2",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "3000005",
+			"soulName": "Hull Plugin ver2.0",
+			"description": "A program required when Digivolving Digimon in the Metallicdramon line.",
+			"soulGroup": "2",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "3000006",
+			"soulName": "Hull Plugin ver3.0",
+			"description": "A program required when Digivolving Digimon in the Metallicdramon line.",
+			"soulGroup": "2",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
 			"soulId": "4000001",
 			"soulName": "Null Upgrade Data",
 			"description": "A program required to Version Upgrade a Mirage Digimon.",
@@ -1332,6 +1356,14 @@
 			"soulId": "4000009",
 			"soulName": "Core Upgrade Data",
 			"description": "A program required to Version Upgrade a Volcanicdramon line.",
+			"soulGroup": "3",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "4000010",
+			"soulName": "Core Upgrade Data",
+			"description": "A program required to Version Upgrade a Metallicdramon line.",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"

@@ -2634,6 +2634,256 @@
 			"tutorialNaviId": "20072",
 			"message": "That's why it was coming after us,\nthe ones who kept restoring data. What's more,\nwe're accompanied by Vorvomon.",
 			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20073",
+			"message": "$USER_INPUT_NAME$,\nthe day has finally come.\nEverything's all ready for you!\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20074",
+			"message": "Once we activate the key codes to secure\nthe link around the center, it'll be complete.\nSo let's get going!\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20075",
+			"message": "・・・・・・\n・・・・・・\n・・・・・・\n",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20076",
+			"message": "・・・・・・\n・・・・・・\n・・・・・・$USER_INPUT_NAME$,\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20077",
+			"message": "This will mark the end of\nmy travels with you, huh, $USER_INPUT_NAME$?\n\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20078",
+			"message": "It almost makes me feel a little sa... \n\n\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20079",
+			"message": "・・・・・・\n・・・・・・\n・・・・・・\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20080",
+			"message": "Er, um, never mind!\nWe'll finally complete the restoration,\nso it doesn't need to be like this!\n",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20081",
+			"message": "I'll be sure to offer as much support as I can!",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20082",
+			"message": "Okay, here's the center area.",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20083",
+			"message": "Now for the key codes... \n\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20084",
+			"message": "A security alert?!",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20085",
+			"message": "The main system's security is active?!",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20086",
+			"message": "It's the main system's security... \n$USER_INPUT_NAME$,！\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20087",
+			"message": "Seems we managed to withstand it...\n",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20088",
+			"message": "Huh...?",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20089",
+			"message": "Who's that...?!",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20090",
+			"message": "What's this ridiculous amount of data?!\n I'll do a search...!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20091",
+			"message": "Searching, reading the name as... Metallicdramon!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20092",
+			"message": "Just like Volcanicdramon,\nthis Digimon is the highest-level security protector\nfor a database with codes!",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20093",
+			"message": "・・・・・・\n",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20094",
+			"message": "$USER_INPUT_NAME$,！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20095",
+			"message": "We've been through a lot together...\nI trust you!\n ",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20096",
+			"message": "This is the final battle!\n ",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20097",
+			"message": "Main frame access...\nID authentications... cleared... \n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20098",
+			"message": "To begin with, let's start optimizing information processing...\nand... set it to parallel process data... \n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20099",
+			"message": "There we go! Processing speed remains normal!",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20100",
+			"message": "With this I think we can safely assume\nthat the Digital World won't fall apart so easily\nshould the amount of data increase again.\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20101",
+			"message": "Now, once we activate the key codes\nfor the Digital World data that\nyou recovered…\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20102",
+			"message": "・・・・・・\n・・・・・・\n・・・・・・\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20103",
+			"message": "Um, $USER_INPUT_NAME$,",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20104",
+			"message": "We've been through a lot, huh?",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20105",
+			"message": "Was I a good navigator for you?",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20106",
+			"message": "・・・・・・\n・・・・・・\n・・・・・・\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20107",
+			"message": "I see. Hee hee.\nI did my best.\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20108",
+			"message": "To tell the truth, I was only supposed to\nbe a simple tutorial program to help\nnewcomers navigate the Digital World, but\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20109",
+			"message": "we ended up spending quite a lot\nof time together.\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20110",
+			"message": "Oh, \nbut, it was a lot of fun!\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20111",
+			"message": "Now then, key codes...\nactivated! And...\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20112",
+			"message": "$USER_INPUT_NAME$...\nthank you for everything.",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20113",
+			"message": "Good-bye...",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20114",
+			"message": "・・・・・・\n・・・・・・\n・・・・・・\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20115",
+			"message": ">All systems operating normally.",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20116",
+			"message": ">World danger levels dropping.\n>Ending Navigation Program\n>\"Emergency Autonomous Mode\".",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20117",
+			"message": ">Restarting Navigation Program.\n>Implementing default memory.\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20118",
+			"message": ">Implementation complete.",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20119",
+			"message": ">Activating Navigation Program \"Hina\".\n>in Routine Mode.",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20120",
+			"message": "Welcome to the Digital World.",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20121",
+			"message": "Nice to meet you.\nI'll be your navigator, Hina.\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20122",
+			"message": "$USER_INPUT_NAME$.\nAllow me to show you around\nthe Digital World.\n",
+			"face": "5"
 		}
 	]
 }
