@@ -467,6 +467,19 @@
 			"dispFlg": "0"
 		},
 		{
+			"itemId": "113",
+			"name": "魔銃與戰刃的片斷資料",
+			"description": "可在交換所兌換各種東西。",
+			"category": "1",
+			"img": [
+				"EventResource/Thumbnail/item_thumbnail_113",
+				"EventResource/Item/item_113"
+			],
+			"unitName": "個",
+			"upValue": "1",
+			"dispFlg": "0"
+		},
+		{
 			"itemId": "115",
 			"name": "聖霸的片斷資料",
 			"description": "可在交換所兌換各種東西。",

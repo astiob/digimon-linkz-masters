@@ -1959,6 +1959,41 @@
 			"childhood1MonsterId": "10015",
 			"childhood2MonsterId": "10020",
 			"growthMonsterId": "10025"
+		},
+		{
+			"monsterEvolutionRouteId": "2006",
+			"eggMonsterId": "10002",
+			"childhood1MonsterId": "10326",
+			"childhood2MonsterId": "10331",
+			"growthMonsterId": "10336"
+		},
+		{
+			"monsterEvolutionRouteId": "2007",
+			"eggMonsterId": "10002",
+			"childhood1MonsterId": "10327",
+			"childhood2MonsterId": "10332",
+			"growthMonsterId": "10337"
+		},
+		{
+			"monsterEvolutionRouteId": "2008",
+			"eggMonsterId": "10002",
+			"childhood1MonsterId": "10328",
+			"childhood2MonsterId": "10333",
+			"growthMonsterId": "10338"
+		},
+		{
+			"monsterEvolutionRouteId": "2009",
+			"eggMonsterId": "10002",
+			"childhood1MonsterId": "10329",
+			"childhood2MonsterId": "10334",
+			"growthMonsterId": "10339"
+		},
+		{
+			"monsterEvolutionRouteId": "2010",
+			"eggMonsterId": "10002",
+			"childhood1MonsterId": "10330",
+			"childhood2MonsterId": "10335",
+			"growthMonsterId": "10340"
 		}
 	]
 }

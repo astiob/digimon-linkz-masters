@@ -1273,6 +1273,30 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "3000004",
+			"soulName": "表層外掛ver1.0",
+			"description": "鋼鐵系數碼寶貝進化時所需的程式。",
+			"soulGroup": "2",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "3000005",
+			"soulName": "表層外掛ver2.0",
+			"description": "鋼鐵系數碼寶貝進化時所需的程式。",
+			"soulGroup": "2",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "3000006",
+			"soulName": "表層外掛ver3.0",
+			"description": "鋼鐵系數碼寶貝進化時所需的程式。",
+			"soulGroup": "2",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
 			"soulId": "4000001",
 			"soulName": "無的升級資料",
 			"description": "幻生系數碼寶貝進行型態升級時所需的程式。",
@@ -1332,6 +1356,14 @@
 			"soulId": "4000009",
 			"soulName": "核心升級資料",
 			"description": "爆炎系數碼寶貝進行型態升級時所需的程式。",
+			"soulGroup": "3",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "4000010",
+			"soulName": "核心升級資料",
+			"description": "鋼鐵系數碼寶貝進行型態升級時所需的程式。",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"

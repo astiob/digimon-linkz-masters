@@ -3376,6 +3376,24 @@
 			"everyTimeFlg": "0"
 		},
 		{
+			"worldDungeonRewardId": "8657",
+			"worldDungeonId": "12184",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "2",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8658",
+			"worldDungeonId": "12185",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "2",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
 			"worldDungeonRewardId": "8659",
 			"worldDungeonId": "12186",
 			"assetCategoryId": "2",
@@ -4233,6 +4251,51 @@
 		{
 			"worldDungeonRewardId": "8754",
 			"worldDungeonId": "12278",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "1",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8755",
+			"worldDungeonId": "12279",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "1",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8756",
+			"worldDungeonId": "12280",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "1",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8757",
+			"worldDungeonId": "12281",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "2",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8758",
+			"worldDungeonId": "12282",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "2",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "8759",
+			"worldDungeonId": "12283",
 			"assetCategoryId": "2",
 			"assetValue": "1",
 			"assetNum": "1",
@@ -8211,6 +8274,42 @@
 		{
 			"worldDungeonRewardId": "9100014",
 			"worldDungeonId": "9100013",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "5",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "9100015",
+			"worldDungeonId": "9100014",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "5",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "9100016",
+			"worldDungeonId": "9100015",
+			"assetCategoryId": "2",
+			"assetValue": "1",
+			"assetNum": "5",
+			"exValue": "",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "9100017",
+			"worldDungeonId": "9100016",
+			"assetCategoryId": "1",
+			"assetValue": "10336",
+			"assetNum": "1",
+			"exValue": "{\"abilityType\":3,\"monsterFixedValueId\":1251,\"maxExtraSlotNum\":5}",
+			"everyTimeFlg": "0"
+		},
+		{
+			"worldDungeonRewardId": "9100018",
+			"worldDungeonId": "9100016",
 			"assetCategoryId": "2",
 			"assetValue": "1",
 			"assetNum": "5",

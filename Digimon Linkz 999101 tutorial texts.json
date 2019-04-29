@@ -2634,6 +2634,256 @@
 			"tutorialNaviId": "20072",
 			"message": "所以它不斷修復資料，\n還追逐著帶走那孩子\n的我們呢。",
 			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20073",
+			"message": "$USER_INPUT_NAME$。\n終於到了這一天呢。\n準備十分萬全！\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20074",
+			"message": "有了讓Link穩定的金鑰代碼，\n接下來只要在中心部啟動它就可以了。\n趕快出發吧！\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20075",
+			"message": "……\n……\n……\n",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20076",
+			"message": "……\n……\n……$USER_INPUT_NAME$，\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20077",
+			"message": "與$USER_INPUT_NAME$的旅行，\n也會在今天結束了呢。\n\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20078",
+			"message": "只要一想到這件事，我就……\n\n\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20079",
+			"message": "……\n……\n……\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20080",
+			"message": "啊，不好意思！\n在好不容易完成修復的時候，\n不小心陷入奇怪的感情裡了呢。\n",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20081",
+			"message": "這次也會完美地支援你的！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20082",
+			"message": "好了，這邊就是中心部。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20083",
+			"message": "趕緊將金鑰代碼……\n\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20084",
+			"message": "保全警報！？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20085",
+			"message": "保護主程式的保全系統在運作中！？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20086",
+			"message": "保護主程式的保全系統……\n$USER_INPUT_NAME$！\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20087",
+			"message": "總算是熬過去了呢……\n",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20088",
+			"message": "咦……？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20089",
+			"message": "那是……",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20090",
+			"message": "這離譜的資料量……！\n開始搜索……！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20091",
+			"message": "搜索，個體名是……鋼鐵龍獸！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20092",
+			"message": "這孩子跟爆炎龍獸一樣，\n是保護收納著代碼的資料庫\n的最高層級保全！？",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20093",
+			"message": "……\n",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20094",
+			"message": "$USER_INPUT_NAME$！",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20095",
+			"message": "一起相處至今……\n我相信你！\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20096",
+			"message": "這就是最後決戰！\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20097",
+			"message": "連結主機……\n通過認證……\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20098",
+			"message": "首先是開始資料處理的最優化……\n再設定為進行平行計算……\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20099",
+			"message": "嗯！處理速度維持在正常值！",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20100",
+			"message": "這樣一來，就算資料量繼續擴張，\n數碼世界應該也不會\n那麼簡單就再次崩壞了。\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20101",
+			"message": "剩下就是將$USER_INPUT_NAME$\n修復後的數碼世界資料\n用金鑰代碼來Activate……\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20102",
+			"message": "……\n……\n……\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20103",
+			"message": "那個，$USER_INPUT_NAME$，",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20104",
+			"message": "至今為止發生了許多事呢。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20105",
+			"message": "我有好好盡到導覽你的職責嗎？",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20106",
+			"message": "……\n……\n……\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20107",
+			"message": "是這樣呀，呵呵。\n我呢，其實非常努力喔。\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20108",
+			"message": "本來只是負責向第一次來到\n數碼世界的人，\n說明簡單介紹的教學導覽員，\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20109",
+			"message": "結果卻相處了比想像更長\n的時間呢。\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20110",
+			"message": "啊，\n我過得非常快樂喔！\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20111",
+			"message": "那麼……將金鑰代碼……\nActivate！\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20112",
+			"message": "$USER_INPUT_NAME$……\n謝謝你一直以來的照顧。",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20113",
+			"message": "再見……",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20114",
+			"message": "……\n……\n……\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20115",
+			"message": ">已確認全系統的正常運作",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20116",
+			"message": ">世界危險Lv降低\n>解除導覽程式的\n>「緊急自主思考模式」\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20117",
+			"message": ">將導覽程式重開機\n>實行記憶體初始化。\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20118",
+			"message": ">初始化完成。",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20119",
+			"message": ">將導覽程式「陽菜」\n>以「固定常規模式」啟動。\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20120",
+			"message": "歡迎來到數碼寶貝Linkz。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20121",
+			"message": "初次見面。\n我是導覽員陽菜。\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20122",
+			"message": "你是$USER_INPUT_NAME$對吧？\n那麼接下來，\n讓我為你介紹數碼世界。\n",
+			"face": "5"
 		}
 	]
 }

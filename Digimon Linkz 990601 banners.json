@@ -3552,6 +3552,72 @@
 			"dispNum": "14",
 			"startTime": "2019-04-22 16:00:00",
 			"endTime": "2019-04-29 15:59:59"
+		},
+		{
+			"bannerId": "100326",
+			"actionType": "menu",
+			"name": "舉辦活動「養成應援 登入獎勵」！",
+			"img": "/login/10039/10039_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=613",
+			"dispNum": "100",
+			"startTime": "2019-04-30 05:00:00",
+			"endTime": "2019-05-14 04:59:59"
+		},
+		{
+			"bannerId": "100327",
+			"actionType": "menu",
+			"name": "舉辦活動「魔銃 X 戰刃」！",
+			"img": "/events/point/48/Holding_3.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=615",
+			"dispNum": "50",
+			"startTime": "2019-04-29 18:00:00",
+			"endTime": "2019-05-12 13:59:59"
+		},
+		{
+			"bannerId": "100328",
+			"actionType": "menu",
+			"name": "舉辦「究極體限定捕捉」！",
+			"img": "/gasha/special/10229/10229_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=618",
+			"dispNum": "14",
+			"startTime": "2019-04-29 16:00:00",
+			"endTime": "2019-05-06 15:59:59"
+		},
+		{
+			"bannerId": "100329",
+			"actionType": "menu",
+			"name": "舉辦「究極體大會捕捉」！",
+			"img": "/gasha/special/10231/10231_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=617",
+			"dispNum": "15",
+			"startTime": "2019-04-29 16:00:00",
+			"endTime": "2019-05-13 15:59:59"
+		},
+		{
+			"bannerId": "100330",
+			"actionType": "menu",
+			"name": "舉辦「究極體限定捕捉」！",
+			"img": "/gasha/special/10232/10232_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=620",
+			"dispNum": "14",
+			"startTime": "2019-05-06 16:00:00",
+			"endTime": "2019-05-13 15:59:59"
+		},
+		{
+			"bannerId": "100331",
+			"actionType": "menu",
+			"name": "舉辦「魔銃 X 戰刃」特效晶片捕捉！",
+			"img": "/gasha/special/30122/30122_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=619",
+			"dispNum": "19",
+			"startTime": "2019-04-29 16:00:00",
+			"endTime": "2019-05-12 13:59:59"
 		}
 	]
 }
