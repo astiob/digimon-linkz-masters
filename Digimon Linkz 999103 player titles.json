@@ -729,6 +729,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1086",
+			"name": "제18회 제패자",
+			"detail": "제18회 콜로세움을 재패한 자에게 수여되는 영광의 증표",
+			"img": "honorific_colosseum_86",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1087",
+			"name": "제18회 SSS랭커",
+			"detail": "제18회 콜로세움의 최상위 랭커에게 수여되는 영예의 증표",
+			"img": "honorific_colosseum_87",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1088",
+			"name": "제18회 SS랭커",
+			"detail": "제18회 콜로세움의 상위 랭커에게 수여되는 명예의 증표",
+			"img": "honorific_colosseum_88",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1089",
+			"name": "제18회 S랭커",
+			"detail": "제18회 콜로세움의 랭커에게 수여되는 명성의 증표",
+			"img": "honorific_colosseum_89",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1090",
+			"name": "제18회 도전자",
+			"detail": "제18회 콜로세움에 도전한 자에게 수여되는 증표",
+			"img": "honorific_colosseum_90",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10005",
 			"name": "궁극X기사 -OMEGA- ",
 			"detail": "궁극X기사 -OMEGA 의 최상위 랭커에게 수여되는 영예의 증표",

@@ -2634,6 +2634,256 @@
 			"tutorialNaviId": "20072",
 			"message": "데이터를 계속 복원하면서도\n그 아이까지 데리고 있던 저희를\n계속 쫓아왔던 거네요.",
 			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20073",
+			"message": "$USER_INPUT_NAME$ 님!\n드디어 이날이 왔네요.\n준비는 완벽해요!\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20074",
+			"message": "링크를 안정시킬 키 코드,\n이걸 중심부에서 기동시키면 끝이에요.\n어서 가 보죠!\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20075",
+			"message": "… \n… \n… \n",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20076",
+			"message": "… \n… \n…$USER_INPUT_NAME$ 님!\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20077",
+			"message": "$USER_INPUT_NAME$ 님과의 여행도\n이걸로 끝이네요.\n\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20078",
+			"message": "그렇게 생각하니, 저 왠지…. \n\n\n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20079",
+			"message": "… \n… \n… \n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20080",
+			"message": "아, 죄송해요!\n드디어 복구가 끝나려는데\n갑자기 분위기가 이상해졌네요!　\n",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20081",
+			"message": "이번에도 열심히 서포트할게요!",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20082",
+			"message": "자, 여기가 중심부예요.",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20083",
+			"message": "바로 키 코드를…. \n\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20084",
+			"message": "보안 경보?!",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20085",
+			"message": "메인 시스템을 지키는 보안 시스템이 가동 중이잖아?! ",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20086",
+			"message": "메인 시스템을 지키는 보안…. \n$USER_INPUT_NAME$ 님!!\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20087",
+			"message": "간신히 버텼네요….\n",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20088",
+			"message": "어…?",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20089",
+			"message": "저건…!",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20090",
+			"message": "이 터무니없는 데이터양…!\n서치할게요…!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20091",
+			"message": "검색! 개체명은… 메탈릭드라몬!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20092",
+			"message": "이 아이는 볼케닉드라몬과 같은\n코드가 담긴 데이터베이스를 지키는\n최고 보안?!",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20093",
+			"message": "… \n",
+			"face": "2"
+		},
+		{
+			"tutorialNaviId": "20094",
+			"message": "$USER_INPUT_NAME$ 님!!",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20095",
+			"message": "지금까지 함께했잖아요….\n저는 당신을 믿어요!\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20096",
+			"message": "이것이 최후의 싸움이에요!\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20097",
+			"message": "메인 프레임 접속\n인증 완료…. \n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20098",
+			"message": "먼저 정보 처리의 최적화 개시….\n그리고 데이터를 병렬 처리하도록 설정해서…. \n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20099",
+			"message": "됐어요! 처리 속도는 정상값을 유지 중이에요!",
+			"face": "6"
+		},
+		{
+			"tutorialNaviId": "20100",
+			"message": "앞으로는 데이터양이 늘어나도\n디지털 월드는 웬만하면\n붕괴되지 않을 거예요.\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20101",
+			"message": "이제 $USER_INPUT_NAME$ 님이 복구한\n디지털 월드의 데이터를\n키 코드로 실행하면…. \n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20102",
+			"message": "… \n… \n… \n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20103",
+			"message": "저기, $USER_INPUT_NAME$ 님.",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20104",
+			"message": "지금까지 많은 일이 있었네요.",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20105",
+			"message": "저는 괜찮은 내비게이터였나요?",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20106",
+			"message": "… \n… \n… \n",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20107",
+			"message": "그렇군요, 후후.\n저, 꽤 열심히 했어요.\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20108",
+			"message": "사실은 처음 디지털 월드에 온 분께\n간단히 안내만 하는 튜토리얼\n내비게이션이었는데,\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20109",
+			"message": "생각보다 더 긴 시간 동안\n함께 있게 되었네요.\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20110",
+			"message": "아,\n전 정말 즐거웠어요.\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20111",
+			"message": "그럼… 키 코드를\n실행! 됐네요.\n",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20112",
+			"message": "$USER_INPUT_NAME$ 님….\n지금까지 감사했습니다.",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20113",
+			"message": "그럼, 안녕….",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20114",
+			"message": "… \n… \n… \n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20115",
+			"message": ">시스템의 정상 가동을 확인했습니다.",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20116",
+			"message": ">월드 위험 레벨 저하.\n>내비게이션 프로그램의\n>“긴급 자율 사고 모드”를 종료합니다.",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20117",
+			"message": ">내비게이션 프로그램 재기동.\n>메모리 초기화를 실시합니다.\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20118",
+			"message": ">초기화가 완료되었습니다.",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20119",
+			"message": ">내비게이션 프로그램 “히나”를\n>“고정 루틴 모드”로 기동합니다.",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20120",
+			"message": "디지몬 링크즈에 오신 것을 환영합니다.",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20121",
+			"message": "처음 뵙겠습니다.\n저는 네비게이터 히나라고 해요.\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20122",
+			"message": "$USER_INPUT_NAME$ 님이시죠?\n그럼, 계속해서\n디지털 월드를 안내해 드릴게요.\n",
+			"face": "5"
 		}
 	]
 }

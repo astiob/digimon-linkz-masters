@@ -1587,6 +1587,19 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "6205",
+			"worldAreaId": "1123",
+			"priority": "1050",
+			"name": "마의 총 x 전인",
+			"description": "ポイントや断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "point/48/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "9001",
 			"worldAreaId": "4",
 			"priority": "1",
@@ -2765,6 +2778,19 @@
 			"type": "1",
 			"prerequisiteWorldStageId": "0",
 			"stageImage": "syuusyuu/10003/Holding_3.png",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
+			"worldStageId": "9100003",
+			"worldAreaId": "9100003",
+			"priority": "1",
+			"name": "천지용명 3장 천지가 이어질 때",
+			"description": "デジタルワールドの再起動！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/10004/Holding_3.png?V=1",
 			"openTime": "2015-05-01 00:00:00",
 			"closeTime": "2030-05-01 00:00:00",
 			"adminOpenFlg": "0"

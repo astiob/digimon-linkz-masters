@@ -10792,6 +10792,72 @@
 			"effect": "chip_effect_10146"
 		},
 		{
+			"chipId": "100534",
+			"chipGroupId": "10184",
+			"name": "마의 총과 전인의 Pt 특효 칩  C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10184",
+			"detail": "ATK+20, ‘마의 총 x 전인’에서 획득 포인트 1.5배",
+			"effect": "chip_effect_10184"
+		},
+		{
+			"chipId": "100535",
+			"chipGroupId": "10184",
+			"name": "마의 총과 전인의 Pt 특효 칩  B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10184",
+			"detail": "ATK+30, ‘마의 총 x 전인’에서 획득 포인트 2.5배",
+			"effect": "chip_effect_10184"
+		},
+		{
+			"chipId": "100536",
+			"chipGroupId": "10184",
+			"name": "마의 총과 전인의 Pt 특효 칩  A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10184",
+			"detail": "ATK+50, ‘마의 총 x 전인’에서 획득 포인트 5.5배",
+			"effect": "chip_effect_10184"
+		},
+		{
+			"chipId": "100537",
+			"chipGroupId": "10185",
+			"name": "마의 총과 전인의 EX STGE 특효 칩  C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_10185",
+			"detail": "S-ATK+20, ‘마의 총 x 전인’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_10185"
+		},
+		{
+			"chipId": "100538",
+			"chipGroupId": "10185",
+			"name": "마의 총과 전인의 EX STGE 특효 칩  B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_10185",
+			"detail": "S-ATK+30, ‘마의 총 x 전인’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_10185"
+		},
+		{
+			"chipId": "100539",
+			"chipGroupId": "10185",
+			"name": "마의 총과 전인의 EX STGE 특효 칩  A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_10185",
+			"detail": "S-ATK+50, ‘마의 총 x 전인’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_10185"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "파괴와 구세의 Pt 특효 C",

@@ -161,6 +161,10 @@
 			"worldAreaId": "1122"
 		},
 		{
+			"worldEventId": "172",
+			"worldAreaId": "1123"
+		},
+		{
 			"worldEventId": "100001",
 			"worldAreaId": "100001"
 		},
@@ -347,6 +351,10 @@
 		{
 			"worldEventId": "9100002",
 			"worldAreaId": "9100002"
+		},
+		{
+			"worldEventId": "9100003",
+			"worldAreaId": "9100003"
 		}
 	]
 }

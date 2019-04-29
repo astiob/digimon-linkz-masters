@@ -1273,6 +1273,30 @@
 			"priority": "1"
 		},
 		{
+			"soulId": "3000004",
+			"soulName": "할 플러그인 ver1.0",
+			"description": "메탈릭 계열 디지몬이 진화할 때 필요한 프로그램",
+			"soulGroup": "2",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "3000005",
+			"soulName": "할 플러그인 ver2.0",
+			"description": "메탈릭 계열 디지몬이 진화할 때 필요한 프로그램",
+			"soulGroup": "2",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "3000006",
+			"soulName": "할 플러그인 ver3.0",
+			"description": "메탈릭 계열 디지몬이 진화할 때 필요한 프로그램",
+			"soulGroup": "2",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
 			"soulId": "4000001",
 			"soulName": "무의 버전업 데이터",
 			"description": "환생계 디지몬을 버전업할 때 필요한 프로그램",
@@ -1332,6 +1356,14 @@
 			"soulId": "4000009",
 			"soulName": "코어 버전업 데이터",
 			"description": "볼케닉 계열 디지몬을 버전업할 때 필요한 프로그램",
+			"soulGroup": "3",
+			"rare": "1",
+			"priority": "1"
+		},
+		{
+			"soulId": "4000010",
+			"soulName": "코어 버전업 데이터",
+			"description": "메탈릭 계열 디지몬을 버전업할 때 필요한 프로그램",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
