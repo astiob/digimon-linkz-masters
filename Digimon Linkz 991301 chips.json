@@ -14805,6 +14805,72 @@
 			"icon": "chip_10039",
 			"detail": "DEF+50。さらに、「千年紀大戦」で獲得ポイントが4倍になる。",
 			"effect": "chip_effect_10039"
+		},
+		{
+			"chipId": "300000",
+			"chipGroupId": "30000",
+			"name": "光芒のドロップ特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30000",
+			"detail": "ATK+20。「大乱戦 -光芒-」で交換所アイテムドロップ時の取得個数が+1される。",
+			"effect": "chip_effect_30000"
+		},
+		{
+			"chipId": "300001",
+			"chipGroupId": "30000",
+			"name": "光芒のドロップ特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30000",
+			"detail": "ATK+30。「大乱戦 -光芒-」で交換所アイテムドロップ時の取得個数が+3される。",
+			"effect": "chip_effect_30000"
+		},
+		{
+			"chipId": "300002",
+			"chipGroupId": "30000",
+			"name": "光芒のドロップ特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30000",
+			"detail": "ATK+50。「大乱戦 -光芒-」で交換所アイテムドロップ時の取得個数が+9される。",
+			"effect": "chip_effect_30000"
+		},
+		{
+			"chipId": "300003",
+			"chipGroupId": "30001",
+			"name": "光芒のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30001",
+			"detail": "S-ATK+20。「大乱戦 -光芒-」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_30001"
+		},
+		{
+			"chipId": "300004",
+			"chipGroupId": "30001",
+			"name": "光芒のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30001",
+			"detail": "S-ATK+30。「大乱戦 -光芒-」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_30001"
+		},
+		{
+			"chipId": "300005",
+			"chipGroupId": "30001",
+			"name": "光芒のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30001",
+			"detail": "S-ATK+50。「大乱戦 -光芒-」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_30001"
 		}
 	]
 }

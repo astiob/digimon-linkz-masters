@@ -9426,6 +9426,61 @@
 			"dispNum": "100",
 			"startTime": "2019-04-26 05:00:00",
 			"endTime": "2019-05-10 04:59:59"
+		},
+		{
+			"bannerId": "895",
+			"actionType": "menu",
+			"name": "イベント「大乱戦 -光芒-」開催！",
+			"img": "/events/syuusyuu/200/Holding_4.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1445",
+			"dispNum": "50",
+			"startTime": "2019-05-09 18:00:00",
+			"endTime": "2019-05-15 23:59:59"
+		},
+		{
+			"bannerId": "896",
+			"actionType": "menu",
+			"name": "究極体フェスキャプチャ開催！",
+			"img": "/gasha/special/10233/10233_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1446",
+			"dispNum": "3",
+			"startTime": "2019-05-09 16:00:00",
+			"endTime": "2019-05-23 15:59:59"
+		},
+		{
+			"bannerId": "897",
+			"actionType": "menu",
+			"name": "大乱戦 -光芒- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30123/30123_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1447",
+			"dispNum": "7",
+			"startTime": "2019-05-09 16:00:00",
+			"endTime": "2019-05-15 23:59:59"
+		},
+		{
+			"bannerId": "898",
+			"actionType": "menu",
+			"name": "究極体リミテッドキャプチャ開催！",
+			"img": "/gasha/special/10234/10234_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1448",
+			"dispNum": "2",
+			"startTime": "2019-05-13 16:00:00",
+			"endTime": "2019-05-20 15:59:59"
+		},
+		{
+			"bannerId": "899",
+			"actionType": "menu",
+			"name": "大乱戦ログインボーナス開催！",
+			"img": "/login/10040/10040_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1449",
+			"dispNum": "100",
+			"startTime": "2019-05-10 05:00:00",
+			"endTime": "2019-05-27 04:59:59"
 		}
 	]
 }
