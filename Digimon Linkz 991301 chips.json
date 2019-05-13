@@ -10858,6 +10858,72 @@
 			"effect": "chip_effect_10185"
 		},
 		{
+			"chipId": "300000",
+			"chipGroupId": "30000",
+			"name": "光芒的 掉落特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30000",
+			"detail": "ATK+20。並且於「亂戰 -光芒-」中使片斷資料的獲得個數+1。",
+			"effect": "chip_effect_30000"
+		},
+		{
+			"chipId": "300001",
+			"chipGroupId": "30000",
+			"name": "光芒的 掉落特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30000",
+			"detail": "ATK+30。並且於「亂戰 -光芒-」中使片斷資料的獲得個數+3。",
+			"effect": "chip_effect_30000"
+		},
+		{
+			"chipId": "300002",
+			"chipGroupId": "30000",
+			"name": "光芒的 掉落特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30000",
+			"detail": "ATK+50。並且於「亂戰 -光芒-」中使片斷資料的獲得個數+9。",
+			"effect": "chip_effect_30000"
+		},
+		{
+			"chipId": "300003",
+			"chipGroupId": "30001",
+			"name": "光芒的 EXTRA STAGE特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30001",
+			"detail": "S-ATK+20。並且於「亂戰 -光芒-」中令EXTRA STAGE的發動率小幅提升。",
+			"effect": "chip_effect_30001"
+		},
+		{
+			"chipId": "300004",
+			"chipGroupId": "30001",
+			"name": "光芒的 EXTRA STAGE特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30001",
+			"detail": "S-ATK+30。並且於「亂戰 -光芒-」中令EXTRA STAGE的發動率中幅提升。",
+			"effect": "chip_effect_30001"
+		},
+		{
+			"chipId": "300005",
+			"chipGroupId": "30001",
+			"name": "光芒的 EXTRA STAGE特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30001",
+			"detail": "S-ATK+50。並且於「亂戰 -光芒-」中令EXTRA STAGE的發動率大幅提升。",
+			"effect": "chip_effect_30001"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "破壞與救世的Pt特效 C",
