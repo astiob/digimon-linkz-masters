@@ -1613,6 +1613,19 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "10000",
+			"worldAreaId": "10000",
+			"priority": "1050",
+			"name": "Melee -Bright-",
+			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/200/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "10001",
 			"worldAreaId": "5",
 			"priority": "1",

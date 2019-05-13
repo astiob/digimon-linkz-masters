@@ -3618,6 +3618,61 @@
 			"dispNum": "19",
 			"startTime": "2019-04-29 16:00:00",
 			"endTime": "2019-05-12 13:59:59"
+		},
+		{
+			"bannerId": "100332",
+			"actionType": "menu",
+			"name": "\"Melee  Login Bonus\" has begun!",
+			"img": "/login/10040/10040_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=626",
+			"dispNum": "100",
+			"startTime": "2019-05-14 05:00:00",
+			"endTime": "2019-05-27 04:59:59"
+		},
+		{
+			"bannerId": "100333",
+			"actionType": "menu",
+			"name": "\"Mega Festival Capture\" has begun!",
+			"img": "/gasha/special/10233/10233_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=627",
+			"dispNum": "15",
+			"startTime": "2019-05-13 16:00:00",
+			"endTime": "2019-05-27 15:59:59"
+		},
+		{
+			"bannerId": "100334",
+			"actionType": "menu",
+			"name": "\"Mega Limited Capture\" has begun!",
+			"img": "/gasha/special/10234/10234_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=629",
+			"dispNum": "14",
+			"startTime": "2019-05-13 16:00:00",
+			"endTime": "2019-05-20 15:59:59"
+		},
+		{
+			"bannerId": "100335",
+			"actionType": "menu",
+			"name": "The \"Melee -Bright-\"Special Chip Capture has begun!",
+			"img": "/gasha/special/30123/30123_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=628",
+			"dispNum": "19",
+			"startTime": "2019-05-13 16:00:00",
+			"endTime": "2019-05-19 13:59:59"
+		},
+		{
+			"bannerId": "100336",
+			"actionType": "menu",
+			"name": "The \"Melee -Bright-\" event has begun!",
+			"img": "/events/syuusyuu/200/Holding_2.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=625",
+			"dispNum": "50",
+			"startTime": "2019-05-13 18:00:00",
+			"endTime": "2019-05-19 13:59:59"
 		}
 	]
 }
