@@ -295,6 +295,13 @@
 			"monsterStatusAilmentMaterialId": "7"
 		},
 		{
+			"monsterId": "20236",
+			"assetCategoryId": "14",
+			"assetValue": "1070214",
+			"assetNum": "15",
+			"monsterStatusAilmentMaterialId": "6"
+		},
+		{
 			"monsterId": "20251",
 			"assetCategoryId": "14",
 			"assetValue": "1070217",

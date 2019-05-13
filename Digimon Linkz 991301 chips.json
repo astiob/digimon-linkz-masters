@@ -10858,6 +10858,72 @@
 			"effect": "chip_effect_10185"
 		},
 		{
+			"chipId": "300000",
+			"chipGroupId": "30000",
+			"name": "광망의 드롭 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30000",
+			"detail": "ATK+20, ‘난전 -광망-’에서 데이터 단편의 획득 수 +1",
+			"effect": "chip_effect_30000"
+		},
+		{
+			"chipId": "300001",
+			"chipGroupId": "30000",
+			"name": "광망의 드롭 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30000",
+			"detail": "ATK+30, ‘난전 -광망-’에서 데이터 단편의 획득 수 +3",
+			"effect": "chip_effect_30000"
+		},
+		{
+			"chipId": "300002",
+			"chipGroupId": "30000",
+			"name": "광망의 드롭 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30000",
+			"detail": "ATK+50, ‘난전 -광망-’에서 데이터 단편의 획득 수 +9",
+			"effect": "chip_effect_30000"
+		},
+		{
+			"chipId": "300003",
+			"chipGroupId": "30001",
+			"name": "광망의 EX STAGE 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30001",
+			"detail": "S-ATK+20, ‘난전 -광망-’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_30001"
+		},
+		{
+			"chipId": "300004",
+			"chipGroupId": "30001",
+			"name": "광망의 EX STAGE 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30001",
+			"detail": "S-ATK+30, ‘난전 -광망-’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_30001"
+		},
+		{
+			"chipId": "300005",
+			"chipGroupId": "30001",
+			"name": "광망의 EX STAGE 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30001",
+			"detail": "S-ATK+50, ‘난전 -광망-’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_30001"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "파괴와 구세의 Pt 특효 C",
