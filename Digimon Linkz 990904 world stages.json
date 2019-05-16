@@ -4109,6 +4109,19 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "10002",
+			"worldAreaId": "10001",
+			"priority": "1051",
+			"name": "大乱戦 -深淵-",
+			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/201/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "50001",
 			"worldAreaId": "8",
 			"priority": "500",

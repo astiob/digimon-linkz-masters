@@ -14871,6 +14871,72 @@
 			"icon": "chip_30001",
 			"detail": "S-ATK+50。「大乱戦 -光芒-」でEXTRA STAGE発生率が大アップする。",
 			"effect": "chip_effect_30001"
+		},
+		{
+			"chipId": "300006",
+			"chipGroupId": "30002",
+			"name": "深淵のドロップ特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30002",
+			"detail": "ATK+20。「大乱戦 -深淵-」で交換所アイテムドロップ時の取得個数が+1される。",
+			"effect": "chip_effect_30002"
+		},
+		{
+			"chipId": "300007",
+			"chipGroupId": "30002",
+			"name": "深淵のドロップ特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30002",
+			"detail": "ATK+30。「大乱戦 -深淵-」で交換所アイテムドロップ時の取得個数が+3される。",
+			"effect": "chip_effect_30002"
+		},
+		{
+			"chipId": "300008",
+			"chipGroupId": "30002",
+			"name": "深淵のドロップ特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30002",
+			"detail": "ATK+50。「大乱戦 -深淵-」で交換所アイテムドロップ時の取得個数が+9される。",
+			"effect": "chip_effect_30002"
+		},
+		{
+			"chipId": "300009",
+			"chipGroupId": "30003",
+			"name": "深淵のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30003",
+			"detail": "S-ATK+20。「大乱戦 -深淵-」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_30003"
+		},
+		{
+			"chipId": "300010",
+			"chipGroupId": "30003",
+			"name": "深淵のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30003",
+			"detail": "S-ATK+30。「大乱戦 -深淵-」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_30003"
+		},
+		{
+			"chipId": "300011",
+			"chipGroupId": "30003",
+			"name": "深淵のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30003",
+			"detail": "S-ATK+50。「大乱戦 -深淵-」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_30003"
 		}
 	]
 }
