@@ -10924,6 +10924,72 @@
 			"effect": "chip_effect_30001"
 		},
 		{
+			"chipId": "300006",
+			"chipGroupId": "30002",
+			"name": "심연의 드롭 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30002",
+			"detail": "ATK+20, ‘난전 -심연-’에서 데이터 단편의 획득 수 +1",
+			"effect": "chip_effect_30002"
+		},
+		{
+			"chipId": "300007",
+			"chipGroupId": "30002",
+			"name": "심연의 드롭 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30002",
+			"detail": "ATK+30, ‘난전 -심연-’에서 데이터 단편의 획득 수 +3",
+			"effect": "chip_effect_30002"
+		},
+		{
+			"chipId": "300008",
+			"chipGroupId": "30002",
+			"name": "심연의 드롭 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30002",
+			"detail": "ATK+50, ‘난전 -심연-’에서 데이터 단편의 획득 수 +9",
+			"effect": "chip_effect_30002"
+		},
+		{
+			"chipId": "300009",
+			"chipGroupId": "30003",
+			"name": "심연의 EX STAGE 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30003",
+			"detail": "S-ATK+20, ‘난전 -심연-’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_30003"
+		},
+		{
+			"chipId": "300010",
+			"chipGroupId": "30003",
+			"name": "심연의 EX STAGE 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30003",
+			"detail": "S-ATK+30, ‘난전 -심연-’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_30003"
+		},
+		{
+			"chipId": "300011",
+			"chipGroupId": "30003",
+			"name": "심연의 EX STAGE 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30003",
+			"detail": "S-ATK+50, ‘난전 -심연-’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_30003"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "파괴와 구세의 Pt 특효 C",

@@ -1620,7 +1620,7 @@
 			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
 			"type": "1",
 			"prerequisiteWorldStageId": "0",
-			"stageImage": "syuusyuu/200/Holding_2.png",
+			"stageImage": "syuusyuu/200/Holding_2.png?v=1",
 			"openTime": "2015-04-01 00:00:00",
 			"closeTime": "2030-05-01 00:00:00",
 			"adminOpenFlg": "0"
@@ -1634,6 +1634,19 @@
 			"type": "1",
 			"prerequisiteWorldStageId": "8",
 			"stageImage": "null",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
+			"worldStageId": "10002",
+			"worldAreaId": "10001",
+			"priority": "1051",
+			"name": "난전 -심연-",
+			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/201/Holding_2.png",
 			"openTime": "2015-04-01 00:00:00",
 			"closeTime": "2030-05-01 00:00:00",
 			"adminOpenFlg": "0"

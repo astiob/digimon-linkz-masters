@@ -3623,7 +3623,7 @@
 			"bannerId": "100332",
 			"actionType": "menu",
 			"name": "‘난전 로그인 보너스’ 개최!",
-			"img": "/login/10040/10040_banner_1.png",
+			"img": "/login/10040/10040_banner_1.png?v=1",
 			"linkCategoryType": "4",
 			"url": "/information/InformationDetail?informationId=626",
 			"dispNum": "100",
@@ -3656,7 +3656,7 @@
 			"bannerId": "100335",
 			"actionType": "menu",
 			"name": "‘난전 -광망-’ 특효 칩 캡처 이벤트 개최!",
-			"img": "/gasha/special/30123/30123_banner_1.png",
+			"img": "/gasha/special/30123/30123_banner_1.png?v=1",
 			"linkCategoryType": "4",
 			"url": "/information/InformationDetail?informationId=628",
 			"dispNum": "19",
@@ -3667,12 +3667,34 @@
 			"bannerId": "100336",
 			"actionType": "menu",
 			"name": "이벤트 ‘난전 -광망-’ 개최!",
-			"img": "/events/syuusyuu/200/Holding_2.png",
+			"img": "/events/syuusyuu/200/Holding_2.png?v=1",
 			"linkCategoryType": "4",
 			"url": "/information/InformationDetail?informationId=625",
 			"dispNum": "50",
 			"startTime": "2019-05-13 18:00:00",
 			"endTime": "2019-05-19 13:59:59"
+		},
+		{
+			"bannerId": "100337",
+			"actionType": "menu",
+			"name": "‘난전 -심연-’ 특효 칩 캡처 이벤트 개최!",
+			"img": "/gasha/special/30124/30124_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=632",
+			"dispNum": "19",
+			"startTime": "2019-05-20 16:00:00",
+			"endTime": "2019-05-26 13:59:59"
+		},
+		{
+			"bannerId": "100338",
+			"actionType": "menu",
+			"name": "이벤트 ‘난전 -심연-’ 개최!",
+			"img": "/events/syuusyuu/201/Holding_2.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=634",
+			"dispNum": "50",
+			"startTime": "2019-05-20 18:00:00",
+			"endTime": "2019-05-26 13:59:59"
 		}
 	]
 }

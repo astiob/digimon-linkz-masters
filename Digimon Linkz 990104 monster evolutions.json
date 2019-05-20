@@ -31636,6 +31636,15 @@
 			"monsterEvolutionMaterialId": 20051
 		},
 		{
+			"monsterEvolutionId": "200056",
+			"baseMonsterId": "890",
+			"nextMonsterId": "20056",
+			"type": "3",
+			"effectType": "5",
+			"effectMonsterId": "0",
+			"monsterEvolutionMaterialId": 20056
+		},
+		{
 			"monsterEvolutionId": "200061",
 			"baseMonsterId": "895",
 			"nextMonsterId": "20061",
