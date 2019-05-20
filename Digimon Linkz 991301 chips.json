@@ -10924,6 +10924,72 @@
 			"effect": "chip_effect_30001"
 		},
 		{
+			"chipId": "300006",
+			"chipGroupId": "30002",
+			"name": "深淵的 掉落特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30002",
+			"detail": "ATK+20。並且於「亂戰 -深淵-」中使片斷資料的獲得個數+1。",
+			"effect": "chip_effect_30002"
+		},
+		{
+			"chipId": "300007",
+			"chipGroupId": "30002",
+			"name": "深淵的 掉落特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30002",
+			"detail": "ATK+30。並且於「亂戰 -深淵-」中使片斷資料的獲得個數+3。",
+			"effect": "chip_effect_30002"
+		},
+		{
+			"chipId": "300008",
+			"chipGroupId": "30002",
+			"name": "深淵的 掉落特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30002",
+			"detail": "ATK+50。並且於「亂戰 -深淵-」中使片斷資料的獲得個數+9。",
+			"effect": "chip_effect_30002"
+		},
+		{
+			"chipId": "300009",
+			"chipGroupId": "30003",
+			"name": "深淵的 EXTRA STAGE特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30003",
+			"detail": "S-ATK+20。並且於「亂戰 -深淵-」中令EXTRA STAGE的發動率小幅提升。",
+			"effect": "chip_effect_30003"
+		},
+		{
+			"chipId": "300010",
+			"chipGroupId": "30003",
+			"name": "深淵的 EXTRA STAGE特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30003",
+			"detail": "S-ATK+30。並且於「亂戰 -深淵-」中令EXTRA STAGE的發動率中幅提升。",
+			"effect": "chip_effect_30003"
+		},
+		{
+			"chipId": "300011",
+			"chipGroupId": "30003",
+			"name": "深淵的 EXTRA STAGE特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30003",
+			"detail": "S-ATK+50。並且於「亂戰 -深淵-」中令EXTRA STAGE的發動率大幅提升。",
+			"effect": "chip_effect_30003"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "破壞與救世的Pt特效 C",
