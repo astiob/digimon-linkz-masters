@@ -10924,6 +10924,72 @@
 			"effect": "chip_effect_30001"
 		},
 		{
+			"chipId": "300006",
+			"chipGroupId": "30002",
+			"name": "Abyss Drop Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30002",
+			"detail": "ATK +20. Also increases Data Byte drop by 1 in \"Melee -Abyss-\".",
+			"effect": "chip_effect_30002"
+		},
+		{
+			"chipId": "300007",
+			"chipGroupId": "30002",
+			"name": "Abyss Drop Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30002",
+			"detail": "ATK +30. Also increases Data Byte drop by 3 in \"Melee -Abyss-\".",
+			"effect": "chip_effect_30002"
+		},
+		{
+			"chipId": "300008",
+			"chipGroupId": "30002",
+			"name": "Abyss Drop Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30002",
+			"detail": "ATK +50. Also increases Data Byte drop by 9 in \"Melee -Abyss-\".",
+			"effect": "chip_effect_30002"
+		},
+		{
+			"chipId": "300009",
+			"chipGroupId": "30003",
+			"name": "Abyss EX stage Specialty Chip  C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30003",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"Melee -Abyss-\" event.",
+			"effect": "chip_effect_30003"
+		},
+		{
+			"chipId": "300010",
+			"chipGroupId": "30003",
+			"name": "Abyss EX stage Specialty Chip  B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30003",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"Melee -Abyss-\" event.",
+			"effect": "chip_effect_30003"
+		},
+		{
+			"chipId": "300011",
+			"chipGroupId": "30003",
+			"name": "Abyss EX stage Specialty Chip  A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30003",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Melee -Abyss-\" event.",
+			"effect": "chip_effect_30003"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",
