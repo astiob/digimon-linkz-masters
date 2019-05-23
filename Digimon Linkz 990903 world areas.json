@@ -1585,6 +1585,18 @@
 			"closeTime": "2030-05-01 00:00:00"
 		},
 		{
+			"worldAreaId": "10002",
+			"worldId": "6",
+			"priority": "15",
+			"name": "大乱戦 -陽炎-",
+			"img": "syuusyuu/202/Holding_1.png",
+			"description": "断片データを集めて、さまざまな報酬を手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
 			"worldAreaId": "9100001",
 			"worldId": "6",
 			"priority": "19",
@@ -1615,6 +1627,18 @@
 			"name": "天地龍明 三章",
 			"img": "syuusyuu/10004/Holding_1.png",
 			"description": "ヴォルケニックドラモンとの決戦に挑もう",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "9100004",
+			"worldId": "6",
+			"priority": "16",
+			"name": "天地龍明 外伝",
+			"img": "syuusyuu/10005/Holding_1.png",
+			"description": "天地龍明 外伝",
 			"type": "1",
 			"prerequisiteWorldAreaId": "0",
 			"openTime": "2015-05-01 00:00:00",

@@ -2884,6 +2884,181 @@
 			"tutorialNaviId": "20122",
 			"message": "$USER_INPUT_NAME$さんですね。\nそれではデジタルワールドを\nご案内いたします。",
 			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20123",
+			"message": "どうやら､これはメタリックドラモンの\n過去の戦闘データをもとに再現した\nシミュレーションバトルみたいですね。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20124",
+			"message": "このシミュレーションデータから､\nジャザモンの進化に必要なデータが\n抽出できそうです！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20125",
+			"message": "この子を進化させるためにバッチリ\nトレーニングしていきましょう！\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20126",
+			"message": "$USER_INPUT_NAME$さん\nデータの集まり具合はどうですか？\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20127",
+			"message": "私の方はデータを集めるうちに\nこのデジモンのことが\n色々判ってきましたよ！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20128",
+			"message": "このデジモンはヴォルケニックドラモンと\n対となる存在で､一方が地を統べるなら\nこちらは天を統べるとも言えるようです。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20129",
+			"message": "ヴォルケニックドラモンが\nデジタルワールドの古いデータを分解する\n役割を持っていた様に､",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20130",
+			"message": "メタリックドラモンは､そのデータや\n人間世界から流れ込むデータを再構築し\nデジタルワールドに還元していた様です。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20131",
+			"message": "天と地をつなぐデータの潮流があることで\nデジタルワールドは成長と進化が､\n生まれていたようですね！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20132",
+			"message": "$USER_INPUT_NAME$さん！\nこの子の育成は大事なミッションです！\nはりきっていきましょうね！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20133",
+			"message": "$USER_INPUT_NAME$さん！\nそういえば､ジャザモンから\n何かのデータを預かっていました。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20134",
+			"message": "進化データを集める際の断片データを\n再構築したみたいですね。\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20135",
+			"message": "えーと… これは手紙みたいですね。\n誰からかは判りませんが､宛名は… \n$USER_INPUT_NAME$さんですね。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20136",
+			"message": "… \n… \n… ",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20137",
+			"message": "$USER_INPUT_NAME$さん。\n\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20138",
+			"message": "今これを読んでいるということは\nメタリックドラモンの本来の力を\n取り戻しつつあるということですね。",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20139",
+			"message": "あの時､お別れしなければいけないことを\n伝えたら、あなたはキーコードの実行を\nためらったと思うので､",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20140",
+			"message": "何も伝えずにさよならして\nごめんなさい。\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20141",
+			"message": "キーコードの実行によって\n私はただのナビゲーションAIに戻って\n行動ログが､初期化されて消える瞬間､",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20142",
+			"message": "でも、やっぱり\n私はあなたに色々伝えたかった。\n…そう思ったんです。",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20143",
+			"message": "そう思ったデータも､\n本当は跡形もなく消えるはずだった。\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20144",
+			"message": "だけど、ここは人が使わなくなった\nデータが最後に行きつく\nデジタルワールド… 。",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20145",
+			"message": "その瞬間､メタリックドラモンが\n削除された私のデータを\nすくい上げてくれたんです。",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20146",
+			"message": "そして、私の想いを再構築して、\nあなたへのメッセージを残す時間を\nほんのちょっぴりだけくれたんです。",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20147",
+			"message": "私、あの時デジタルワールドのデータを\nあなたの端末に退避させることを選んで… \n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20148",
+			"message": "いえ、\nあなたを選んでよかった。\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20149",
+			"message": "私のデータは… この想いは\nもうすぐ、断片化されてしまうけど\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20150",
+			"message": "そのデータはデジタルワールドに還り\n世界のあちこちに偏在するはずです。\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20151",
+			"message": "いつか、私だったものが\nまた、あなたに会えるよう祈っています。\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20152",
+			"message": "それまでの、さようならですね！\n\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20153",
+			"message": "ふふ、$USER_INPUT_NAME$さん。\n私は本当にあなたといれたことが､\nあなたのことが… ",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20154",
+			"message": "…\n再構築されたデータは､ここまで\nみたいですね。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20155",
+			"message": "私にはこの方が誰なのか\nよくは判らないですが、\nそれでも… ",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20156",
+			"message": "$USER_INPUT_NAME$さんの事を\n大切に思ってた事だけは判ります！\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20157",
+			"message": "それでは$USER_INPUT_NAME$さん！\nデジタルワールドを\n引き続き､ご案内いたしますね！",
+			"face": "5"
 		}
 	]
 }
