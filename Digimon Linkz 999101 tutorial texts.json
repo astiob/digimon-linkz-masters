@@ -2884,6 +2884,181 @@
 			"tutorialNaviId": "20122",
 			"message": "你是$USER_INPUT_NAME$對吧？\n那麼接下來，\n讓我為你介紹數碼世界。\n",
 			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20123",
+			"message": "看來這是基於鋼鐵龍獸\n過去的戰鬥資料，\n進而重現的模擬戰鬥呢。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20124",
+			"message": "從這份模擬資料中，\n似乎可以取出機鳥獸進化\n所需的資料！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20125",
+			"message": "為了讓這孩子進化，\n請徹底地進行訓練吧！\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20126",
+			"message": "$USER_INPUT_NAME$，\n資料收集得如何呢？\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20127",
+			"message": "我在收集資料的過程中，\n知道了許多這隻數碼寶貝的事情喔！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20128",
+			"message": "它是與爆炎龍獸成對的存在，\n如果說對方統治著大地，\n那麼這隻數碼寶貝就是統治著天空。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20129",
+			"message": "如同爆炎龍獸有著\n分解數碼世界舊資料的職責，",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20130",
+			"message": "鋼鐵龍獸則會將這些資料，\n以及從人類世界傳來的資料重新建構，\n並還原至數碼世界。",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20131",
+			"message": "因為有著連結天空與大地的資料潮流，\n數碼世界才會開始成長與進化！",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20132",
+			"message": "$USER_INPUT_NAME$！\n養成這孩子是很重要的任務！\n要提起幹勁喔！",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20133",
+			"message": "$USER_INPUT_NAME$！\n話說回來，\n機鳥獸好像給了我某種資料。",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20134",
+			"message": "似乎是重新建構了\n收集進化資料時的片斷資料。\n",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20135",
+			"message": "我看看……這好像是信呢。\n雖然不曉得是誰給的，但收信人……\n是$USER_INPUT_NAME$呢。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20136",
+			"message": "……\n……\n…… ",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20137",
+			"message": "$USER_INPUT_NAME$。\n\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20138",
+			"message": "你現在讀著這封信，\n也就表示鋼鐵龍獸\n正逐漸取回原本的力量了吧。",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20139",
+			"message": "當時如果跟你說我們必須道別，\n我想你一定會對\n執行金鑰代碼感到猶豫。",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20140",
+			"message": "什麼都沒說就離開，\n真的很對不起。\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20141",
+			"message": "由於執行金鑰代碼，我變回了單純的導覽AI。\n就在行動紀錄被初始化，\n即將消失的瞬間，",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20142",
+			"message": "我不禁心想……\n我果然還有好多話想告訴你。",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20143",
+			"message": "原本就連這份思念的資料，\n都應該會消失得一乾二淨。\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20144",
+			"message": "但這個數碼世界是人類不再使用的資料\n最後的歸屬之地……",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20145",
+			"message": "在那個瞬間，\n鋼鐵龍獸取出了我那被刪除的資料。",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20146",
+			"message": "接著它重新建構了我的感情，\n給了我一點點時間，\n讓我可以留下給你的訊息。",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20147",
+			"message": "我當時選擇將數碼世界的資料，\n轉移到你的終端內……\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20148",
+			"message": "不對，\n應該說選擇轉移給你真是太好了。\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20149",
+			"message": "雖然我的資料……\n這份思念也很快就會片斷化，\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20150",
+			"message": "但這份資料會回到數碼世界，\n並遍布在世界的各個角落。\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20151",
+			"message": "我祈禱總有一天，\n曾經是我的那份資料能夠再次與你相遇。\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20152",
+			"message": "直到我們重逢，這是暫時的道別！\n\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20153",
+			"message": "呵呵，$USER_INPUT_NAME$。\n我真的很高興能陪伴在你身邊，\n我對你…… ",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20154",
+			"message": "……\n重新建構的資料\n似乎就到此為止了。",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20155",
+			"message": "我雖然不太清楚這個人是誰，\n但是…… ",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20156",
+			"message": "我明白了一件事，\n那就是她很重視$USER_INPUT_NAME$！\n",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20157",
+			"message": "那麼，$USER_INPUT_NAME$！\n讓我繼續為你介紹數碼世界吧！",
+			"face": "5"
 		}
 	]
 }

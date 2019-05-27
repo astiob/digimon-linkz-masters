@@ -1652,6 +1652,19 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "10003",
+			"worldAreaId": "10002",
+			"priority": "1052",
+			"name": "亂戰 -陽炎-",
+			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/202/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "50001",
 			"worldAreaId": "8",
 			"priority": "500",
@@ -2817,6 +2830,19 @@
 			"type": "1",
 			"prerequisiteWorldStageId": "0",
 			"stageImage": "syuusyuu/10004/Holding_3.png?V=1",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
+			"worldStageId": "9100004",
+			"worldAreaId": "9100004",
+			"priority": "1",
+			"name": "天地龍明 外傳　「信」",
+			"description": "手紙…",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/10005/Holding_3.png",
 			"openTime": "2015-05-01 00:00:00",
 			"closeTime": "2030-05-01 00:00:00",
 			"adminOpenFlg": "0"

@@ -1362,7 +1362,7 @@
 		},
 		{
 			"soulId": "4000010",
-			"soulName": "核心升級資料",
+			"soulName": "表層升級資料",
 			"description": "鋼鐵系數碼寶貝進行型態升級時所需的程式。",
 			"soulGroup": "3",
 			"rare": "1",
