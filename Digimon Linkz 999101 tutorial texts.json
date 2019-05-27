@@ -2884,6 +2884,181 @@
 			"tutorialNaviId": "20122",
 			"message": "$USER_INPUT_NAME$.\nAllow me to show you around\nthe Digital World.\n",
 			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20123",
+			"message": "Looks like this is a simulation battle\ncreated from the data recorded from\nMetallicdramon's past battles.",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20124",
+			"message": "It appears we can extract the data\nwe need to Digivolve Jazamon from\nthe simulation!",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20125",
+			"message": "So let's get to it and\ntrain this guy for Digivolution!\n ",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20126",
+			"message": "$USER_INPUT_NAME$,\nhow is the data collection going?\n ",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20127",
+			"message": "While I was collecting data,\nI think I began to understand\nthis Digimon a little better!",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20128",
+			"message": "This Digimon is meant to be a counterpart\nto Volcanicdramon. We can say one rules the land\nand the other rules the heavens.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20129",
+			"message": "Just like Volcanicdramon\nwas in charge of handling the\nDigital World's old data,",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20130",
+			"message": "Metallicdramon would reconfigure\nthat data and data from the Human World\nto aid in developing the Digital World.",
+			"face": "7"
+		},
+		{
+			"tutorialNaviId": "20131",
+			"message": "The Digital World was able to grow and improve\nthanks to the flow of data connecting\nthe land and the heavens.",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20132",
+			"message": "$USER_INPUT_NAME$!\n This is an important part of our mission to raise this Digimon!\n Let's do our best!",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20133",
+			"message": "$USER_INPUT_NAME$!\n Before I forget,\nI have some data from Jazamon.",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20134",
+			"message": "It seems to be created by reconfiguring the Data Bytes\nthat we collect for getting Digivolution data.\n ",
+			"face": "5"
+		},
+		{
+			"tutorialNaviId": "20135",
+			"message": "Hm... it looks like a letter.\n I don't know who the sender is...\nbut it's addressed to you, $USER_INPUT_NAME$.",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20136",
+			"message": "...\n...\n... ",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20137",
+			"message": "$USER_INPUT_NAME$,\n\n ",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20138",
+			"message": "If you're reading this,\nthat means Metallicdramon has\nreclaimed its former power.",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20139",
+			"message": "If I had told you then that we would\nhave to part ways, I know\nyou wouldn't have activated the key codes.",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20140",
+			"message": "I apologize for not\nsaying good-bye.\n ",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20141",
+			"message": "But when the key codes\nwere activated and my action logs were reset to their default settings,\nand I went back to being just a navigation AI,",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20142",
+			"message": "I realized\nthere was still so much...\n ...I wanted to tell you",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20143",
+			"message": "In reality the data from that realization\nshould have been deleted without a trace, too.\n ",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20144",
+			"message": "But this is the Digital World,\nthe place where data no one has use for anymore\nends up…",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20145",
+			"message": "And in that moment,\nMetallicdramon saved my\ndeleted data.",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20146",
+			"message": "It reconstructed my desire,\nand created a way for me to send you a message,\nif even just a small one.",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20147",
+			"message": "I'm glad I chose your device back then,\nto back up the Digital World's data to...\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20148",
+			"message": "No...\nI'm glad I chose you.\n ",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20149",
+			"message": "My data... my desire\nwill soon become fragmented.\n",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20150",
+			"message": "That data will be returned and integrated\ninto different parts of the Digital World.\n ",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20151",
+			"message": "I hope that someday\nsomething that used to be a part of me encounters you again.\n ",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20152",
+			"message": "Until that time, good-bye for now!\n\n ",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20153",
+			"message": "Heheh, $USER_INPUT_NAME$.\n Being with you...\ngetting to know you... ",
+			"face": "0"
+		},
+		{
+			"tutorialNaviId": "20154",
+			"message": "...\nLooks like that's where the\nmessage ends.",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20155",
+			"message": "I'm not sure who\nthis person was exactly,\nbut... ",
+			"face": "3"
+		},
+		{
+			"tutorialNaviId": "20156",
+			"message": "It's easy to see how much\nthey felt about you, $USER_INPUT_NAME$\n ",
+			"face": "4"
+		},
+		{
+			"tutorialNaviId": "20157",
+			"message": "Anyway, $USER_INPUT_NAME$!\n Allow me to continue\nshowing you around the Digital World!",
+			"face": "5"
 		}
 	]
 }

@@ -679,8 +679,8 @@
 			"linkCategoryType": "9",
 			"url": "/information/InformationDetail?informationId=126",
 			"dispNum": "100",
-			"startTime": "2018-02-05 18:00:00",
-			"endTime": "2019-06-24 15:59:59"
+			"startTime": "2019-05-27 16:00:00",
+			"endTime": "2019-07-30 23:59:59"
 		},
 		{
 			"bannerId": "100063",
@@ -3695,6 +3695,39 @@
 			"dispNum": "50",
 			"startTime": "2019-05-20 18:00:00",
 			"endTime": "2019-05-26 13:59:59"
+		},
+		{
+			"bannerId": "100339",
+			"actionType": "menu",
+			"name": "The \"Melee -Blazing-\" event has begun!",
+			"img": "/events/syuusyuu/202/Holding_2.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=636",
+			"dispNum": "50",
+			"startTime": "2019-05-27 18:00:00",
+			"endTime": "2019-06-02 13:59:59"
+		},
+		{
+			"bannerId": "100340",
+			"actionType": "menu",
+			"name": "The \"Melee -Blazing-\"Special Chip Capture has begun!",
+			"img": "/gasha/special/30125/30125_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=637",
+			"dispNum": "19",
+			"startTime": "2019-05-27 16:00:00",
+			"endTime": "2019-06-02 13:59:59"
+		},
+		{
+			"bannerId": "100341",
+			"actionType": "menu",
+			"name": "\"Thank you so much! Login Bonus\" has begun!",
+			"img": "/login/10041/10041_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=644",
+			"dispNum": "100",
+			"startTime": "2019-05-28 05:00:00",
+			"endTime": "2019-08-06 04:59:59"
 		}
 	]
 }

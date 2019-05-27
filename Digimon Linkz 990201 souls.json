@@ -1362,7 +1362,7 @@
 		},
 		{
 			"soulId": "4000010",
-			"soulName": "Core Upgrade Data",
+			"soulName": "Hull Upgrade Data",
 			"description": "A program required to Version Upgrade a Metallicdramon line.",
 			"soulGroup": "3",
 			"rare": "1",

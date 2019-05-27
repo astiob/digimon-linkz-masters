@@ -10990,6 +10990,72 @@
 			"effect": "chip_effect_30003"
 		},
 		{
+			"chipId": "300012",
+			"chipGroupId": "30004",
+			"name": "Blazing Drop Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30004",
+			"detail": "ATK +20. Also increases Data Byte drop by 1 in \"Melee -Blazing-\".",
+			"effect": "chip_effect_30004"
+		},
+		{
+			"chipId": "300013",
+			"chipGroupId": "30004",
+			"name": "Blazing Drop Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30004",
+			"detail": "ATK +30. Also increases Data Byte drop by 3 in \"Melee -Blazing-\".",
+			"effect": "chip_effect_30004"
+		},
+		{
+			"chipId": "300014",
+			"chipGroupId": "30004",
+			"name": "Blazing Drop Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30004",
+			"detail": "ATK +50. Also increases Data Byte drop by 9 in \"Melee -Blazing-\".",
+			"effect": "chip_effect_30004"
+		},
+		{
+			"chipId": "300015",
+			"chipGroupId": "30005",
+			"name": "Blazing EX stage Specialty Chip  C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30005",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"Melee -Blazing-\" event.",
+			"effect": "chip_effect_30005"
+		},
+		{
+			"chipId": "300016",
+			"chipGroupId": "30005",
+			"name": "Blazing EX stage Specialty Chip  B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30005",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"Melee -Blazing-\" event.",
+			"effect": "chip_effect_30005"
+		},
+		{
+			"chipId": "300017",
+			"chipGroupId": "30005",
+			"name": "Blazing EX stage Specialty Chip  A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30005",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Melee -Blazing-\" event.",
+			"effect": "chip_effect_30005"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",
