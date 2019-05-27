@@ -2,67 +2,67 @@
 	"monsterGrowStepM": [
 		{
 			"monsterGrowStepId": "1",
-			"monsterGrowStepName": "디지몬알",
+			"monsterGrowStepName": "數碼蛋",
 			"maxFriendship": "15"
 		},
 		{
 			"monsterGrowStepId": "2",
-			"monsterGrowStepName": "유년기 I",
+			"monsterGrowStepName": "幼年期I",
 			"maxFriendship": "30"
 		},
 		{
 			"monsterGrowStepId": "3",
-			"monsterGrowStepName": "유년기 II",
+			"monsterGrowStepName": "幼年期II",
 			"maxFriendship": "60"
 		},
 		{
 			"monsterGrowStepId": "4",
-			"monsterGrowStepName": "성장기",
+			"monsterGrowStepName": "成長期",
 			"maxFriendship": "90"
 		},
 		{
 			"monsterGrowStepId": "5",
-			"monsterGrowStepName": "성숙기",
+			"monsterGrowStepName": "成熟期",
 			"maxFriendship": "150"
 		},
 		{
 			"monsterGrowStepId": "6",
-			"monsterGrowStepName": "완전체",
+			"monsterGrowStepName": "完全體",
 			"maxFriendship": "210"
 		},
 		{
 			"monsterGrowStepId": "7",
-			"monsterGrowStepName": "궁극체",
+			"monsterGrowStepName": "究極體",
 			"maxFriendship": "300"
 		},
 		{
 			"monsterGrowStepId": "8",
-			"monsterGrowStepName": "아머체",
+			"monsterGrowStepName": "裝甲體",
 			"maxFriendship": "150"
 		},
 		{
 			"monsterGrowStepId": "9",
-			"monsterGrowStepName": "아머체",
+			"monsterGrowStepName": "裝甲體",
 			"maxFriendship": "300"
 		},
 		{
 			"monsterGrowStepId": "10",
-			"monsterGrowStepName": "하이브리드체",
+			"monsterGrowStepName": "混合體",
 			"maxFriendship": "90"
 		},
 		{
 			"monsterGrowStepId": "11",
-			"monsterGrowStepName": "하이브리드체",
+			"monsterGrowStepName": "混合體",
 			"maxFriendship": "150"
 		},
 		{
 			"monsterGrowStepId": "12",
-			"monsterGrowStepName": "하이브리드체",
+			"monsterGrowStepName": "混合體",
 			"maxFriendship": "210"
 		},
 		{
 			"monsterGrowStepId": "13",
-			"monsterGrowStepName": "하이브리드체",
+			"monsterGrowStepName": "混合體",
 			"maxFriendship": "300"
 		}
 	]

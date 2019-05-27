@@ -2,55 +2,55 @@
 	"monsterStatusM": [
 		{
 			"monsterStatusId": "10001",
-			"name": "만능형"
+			"name": "萬能型"
 		},
 		{
 			"monsterStatusId": "10002",
-			"name": "공격 강화"
+			"name": "攻擊強化型"
 		},
 		{
 			"monsterStatusId": "10003",
-			"name": "방어 강화"
+			"name": "防禦強化型"
 		},
 		{
 			"monsterStatusId": "10004",
-			"name": "밸런스"
+			"name": "平均型"
 		},
 		{
 			"monsterStatusId": "10005",
-			"name": "속도"
+			"name": "速度型"
 		},
 		{
 			"monsterStatusId": "10006",
-			"name": "물리공격 특화"
+			"name": "物攻特化型"
 		},
 		{
 			"monsterStatusId": "10007",
-			"name": "마법공격 특화"
+			"name": "魔攻特化型"
 		},
 		{
 			"monsterStatusId": "10008",
-			"name": "물리방어 특화"
+			"name": "物防特化型"
 		},
 		{
 			"monsterStatusId": "10009",
-			"name": "마법방어 특화"
+			"name": "魔防特化型"
 		},
 		{
 			"monsterStatusId": "10010",
-			"name": "초 만능형"
+			"name": "超萬能型"
 		},
 		{
 			"monsterStatusId": "10011",
-			"name": "SPD 물리공격"
+			"name": "SPD物攻型"
 		},
 		{
 			"monsterStatusId": "10012",
-			"name": "SPD 마법공격"
+			"name": "SPD魔攻型"
 		},
 		{
 			"monsterStatusId": "10013",
-			"name": "각성"
+			"name": "覺醒型"
 		}
 	]
 }

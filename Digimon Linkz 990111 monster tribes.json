@@ -2,31 +2,31 @@
 	"monsterTribeM": [
 		{
 			"monsterTribeId": "1",
-			"monsterTribeName": "환생계"
+			"monsterTribeName": "幻生系"
 		},
 		{
 			"monsterTribeId": "2",
-			"monsterTribeName": "양염계"
+			"monsterTribeName": "陽炎系"
 		},
 		{
 			"monsterTribeId": "3",
-			"monsterTribeName": "빙하계"
+			"monsterTribeName": "冰河系"
 		},
 		{
 			"monsterTribeId": "4",
-			"monsterTribeName": "전자계"
+			"monsterTribeName": "電磁系"
 		},
 		{
 			"monsterTribeId": "5",
-			"monsterTribeName": "대지계"
+			"monsterTribeName": "大地系"
 		},
 		{
 			"monsterTribeId": "6",
-			"monsterTribeName": "광망계"
+			"monsterTribeName": "光芒系"
 		},
 		{
 			"monsterTribeId": "7",
-			"monsterTribeName": "심연계"
+			"monsterTribeName": "深淵系"
 		}
 	]
 }
