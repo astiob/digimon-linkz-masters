@@ -9263,17 +9263,6 @@
 			"endTime": "2019-04-26 04:59:59"
 		},
 		{
-			"bannerId": "880",
-			"actionType": "menu",
-			"name": "降臨のスケジュールについて",
-			"img": "/events/advent/info_adventschedule.png",
-			"linkCategoryType": "9",
-			"url": "/information/InformationDetail?informationId=1413",
-			"dispNum": "70",
-			"startTime": "2019-04-11 18:00:00",
-			"endTime": "2019-07-15 17:59:59"
-		},
-		{
 			"bannerId": "881",
 			"actionType": "menu",
 			"name": "爆炎竜育成チケットキャプチャ開催！",
@@ -9536,6 +9525,17 @@
 			"dispNum": "100",
 			"startTime": "2019-05-28 05:00:00",
 			"endTime": "2019-08-06 04:59:59"
+		},
+		{
+			"bannerId": "905",
+			"actionType": "menu",
+			"name": "降臨のスケジュールについて",
+			"img": "/events/advent/info_adventschedule.png",
+			"linkCategoryType": "9",
+			"url": "/information/InformationDetail?informationId=1472",
+			"dispNum": "70",
+			"startTime": "2019-05-27 16:00:00",
+			"endTime": "2019-07-30 23:59:59"
 		}
 	]
 }
