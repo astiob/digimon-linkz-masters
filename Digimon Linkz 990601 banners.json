@@ -9536,6 +9536,28 @@
 			"dispNum": "70",
 			"startTime": "2019-05-27 16:00:00",
 			"endTime": "2019-07-30 23:59:59"
+		},
+		{
+			"bannerId": "906",
+			"actionType": "menu",
+			"name": "大乱戦 -氷河- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30126/30126_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1474",
+			"dispNum": "7",
+			"startTime": "2019-05-30 16:00:00",
+			"endTime": "2019-06-05 23:59:59"
+		},
+		{
+			"bannerId": "907",
+			"actionType": "menu",
+			"name": "イベント「大乱戦 -氷河-」開催！",
+			"img": "/events/syuusyuu/203/Holding_4.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1476",
+			"dispNum": "50",
+			"startTime": "2019-05-30 18:00:00",
+			"endTime": "2019-06-05 23:59:59"
 		}
 	]
 }

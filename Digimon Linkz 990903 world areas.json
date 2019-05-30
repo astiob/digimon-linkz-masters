@@ -1563,7 +1563,7 @@
 		{
 			"worldAreaId": "10000",
 			"worldId": "6",
-			"priority": "13",
+			"priority": "9",
 			"name": "大乱戦 -光芒-",
 			"img": "syuusyuu/200/Holding_1.png",
 			"description": "断片データを集めて、さまざまな報酬を手に入れよう！",
@@ -1575,7 +1575,7 @@
 		{
 			"worldAreaId": "10001",
 			"worldId": "6",
-			"priority": "14",
+			"priority": "10",
 			"name": "大乱戦 -深淵-",
 			"img": "syuusyuu/201/Holding_1.png",
 			"description": "断片データを集めて、さまざまな報酬を手に入れよう！",
@@ -1587,9 +1587,21 @@
 		{
 			"worldAreaId": "10002",
 			"worldId": "6",
-			"priority": "15",
+			"priority": "11",
 			"name": "大乱戦 -陽炎-",
 			"img": "syuusyuu/202/Holding_1.png",
+			"description": "断片データを集めて、さまざまな報酬を手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "10003",
+			"worldId": "6",
+			"priority": "12",
+			"name": "大乱戦 -氷河-",
+			"img": "syuusyuu/203/Holding_1.png",
 			"description": "断片データを集めて、さまざまな報酬を手に入れよう！",
 			"type": "1",
 			"prerequisiteWorldAreaId": "0",

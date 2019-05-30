@@ -15003,6 +15003,72 @@
 			"icon": "chip_30005",
 			"detail": "S-ATK+50。「大乱戦 -陽炎-」でEXTRA STAGE発生率が大アップする。",
 			"effect": "chip_effect_30005"
+		},
+		{
+			"chipId": "300018",
+			"chipGroupId": "30006",
+			"name": "氷河のドロップ特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30006",
+			"detail": "ATK+20。「大乱戦 -氷河-」で交換所アイテムドロップ時の取得個数が+1される。",
+			"effect": "chip_effect_30006"
+		},
+		{
+			"chipId": "300019",
+			"chipGroupId": "30006",
+			"name": "氷河のドロップ特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30006",
+			"detail": "ATK+30。「大乱戦 -氷河-」で交換所アイテムドロップ時の取得個数が+3される。",
+			"effect": "chip_effect_30006"
+		},
+		{
+			"chipId": "300020",
+			"chipGroupId": "30006",
+			"name": "氷河のドロップ特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30006",
+			"detail": "ATK+50。「大乱戦 -氷河-」で交換所アイテムドロップ時の取得個数が+9される。",
+			"effect": "chip_effect_30006"
+		},
+		{
+			"chipId": "300021",
+			"chipGroupId": "30007",
+			"name": "氷河のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30007",
+			"detail": "S-ATK+20。「大乱戦 -氷河-」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_30007"
+		},
+		{
+			"chipId": "300022",
+			"chipGroupId": "30007",
+			"name": "氷河のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30007",
+			"detail": "S-ATK+30。「大乱戦 -氷河-」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_30007"
+		},
+		{
+			"chipId": "300023",
+			"chipGroupId": "30007",
+			"name": "氷河のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30007",
+			"detail": "S-ATK+50。「大乱戦 -氷河-」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_30007"
 		}
 	]
 }

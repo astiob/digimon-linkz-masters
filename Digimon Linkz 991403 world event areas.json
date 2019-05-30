@@ -669,6 +669,10 @@
 			"worldAreaId": "10002"
 		},
 		{
+			"worldEventId": "1003",
+			"worldAreaId": "10003"
+		},
+		{
 			"worldEventId": "9100001",
 			"worldAreaId": "9100001"
 		},
