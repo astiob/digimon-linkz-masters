@@ -3,7 +3,7 @@
 		{
 			"facilityConditionId": "1",
 			"releaseId": "1",
-			"description": "完成AREA 01【倉庫伺服器】\n即開放",
+			"description": "AREA 01 [창고 서버]를 클리어하면 해금",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "1",
@@ -13,7 +13,7 @@
 		{
 			"facilityConditionId": "2",
 			"releaseId": "2",
-			"description": "完成AREA 03【空調管理伺服器】\n即開放",
+			"description": "AREA 03 [공기관리 서버]를 클리어하면 해금",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "2",
@@ -23,7 +23,7 @@
 		{
 			"facilityConditionId": "3",
 			"releaseId": "3",
-			"description": "完成AREA 05【工廠控制伺服器】\n即開放",
+			"description": "AREA 05 [공장제어 서버]를 클리어하면 해금",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "3",
@@ -33,7 +33,7 @@
 		{
 			"facilityConditionId": "4",
 			"releaseId": "4",
-			"description": "完成累積任務「登錄1位好友」\n即開放",
+			"description": "누적 미션 '1명과 친구가 되자'를 클리어하면 해금",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "4",
@@ -43,7 +43,7 @@
 		{
 			"facilityConditionId": "5",
 			"releaseId": "5",
-			"description": "完成累積任務「登錄3位好友」\n即開放",
+			"description": "누적 미션 '3명과 친구가 되자'를 클리어하면 해금",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "5",
@@ -53,7 +53,7 @@
 		{
 			"facilityConditionId": "6",
 			"releaseId": "6",
-			"description": "完成累積任務「登錄5位好友」\n即開放",
+			"description": "누적 미션 '5명과 친구가 되자'를 클리어하면 해금",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "6",
@@ -63,7 +63,7 @@
 		{
 			"facilityConditionId": "7",
 			"releaseId": "7",
-			"description": "完成累積任務「登錄10位好友」\n即開放",
+			"description": "누적 미션 '10명과 친구가 되자'를 클리어하면 해금",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "7",
@@ -73,7 +73,7 @@
 		{
 			"facilityConditionId": "8",
 			"releaseId": "8",
-			"description": "完成累積任務「登錄20位好友」\n即開放",
+			"description": "누적 미션 '20명과 친구가 되자'를 클리어하면 해금",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "8",
@@ -83,7 +83,7 @@
 		{
 			"facilityConditionId": "9",
 			"releaseId": "9",
-			"description": "完成累積任務「登錄30位好友」\n即開放",
+			"description": "누적 미션 '30명과 친구가 되자'를 클리어하면 해금",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "9",
@@ -93,7 +93,7 @@
 		{
 			"facilityConditionId": "10",
 			"releaseId": "10",
-			"description": "完成累積任務「登錄50位好友」\n即開放",
+			"description": "누적 미션 '50명과 친구가 되자'를 클리어하면 해금",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "10",
@@ -103,7 +103,7 @@
 		{
 			"facilityConditionId": "11",
 			"releaseId": "11",
-			"description": "完成AREA 04【水質管理伺服器】\n即開放",
+			"description": "AREA 04 [수질관리 서버]를 클리어하면 해금",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "11",
@@ -113,7 +113,7 @@
 		{
 			"facilityConditionId": "12",
 			"releaseId": "12",
-			"description": "達成勇氣與友情的聖誕節奪回戰的\n積分報酬即獲得",
+			"description": "용기와 우정의 크리스마스 쟁탈전의 누적 포인트 달성 보상으로 획득",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "12",
@@ -123,7 +123,7 @@
 		{
 			"facilityConditionId": "13",
 			"releaseId": "13",
-			"description": "達成勇氣與友情的聖誕節奪回戰的\n積分報酬即獲得",
+			"description": "용기와 우정의 크리스마스 쟁탈전의 누적 포인트 달성 보상으로 획득",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "13",
@@ -133,7 +133,7 @@
 		{
 			"facilityConditionId": "14",
 			"releaseId": "14",
-			"description": "達成勇氣與友情的聖誕節奪回戰的\n積分報酬即獲得",
+			"description": "용기와 우정의 크리스마스 쟁탈전의 누적 포인트 달성 보상으로 획득",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "14",
@@ -143,7 +143,7 @@
 		{
 			"facilityConditionId": "15",
 			"releaseId": "15",
-			"description": "達成勇氣與友情的聖誕節奪回戰的\n積分報酬即獲得",
+			"description": "용기와 우정의 크리스마스 쟁탈전의 누적 포인트 달성 보상으로 획득",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "15",
@@ -153,7 +153,7 @@
 		{
 			"facilityConditionId": "16",
 			"releaseId": "16",
-			"description": "達成勇氣與友情的聖誕節奪回戰的\n積分報酬即獲得",
+			"description": "용기와 우정의 크리스마스 쟁탈전의 누적 포인트 달성 보상으로 획득",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "16",
@@ -163,7 +163,7 @@
 		{
 			"facilityConditionId": "17",
 			"releaseId": "17",
-			"description": "達成勇氣與友情的聖誕節奪回戰的\n積分報酬即獲得",
+			"description": "용기와 우정의 크리스마스 쟁탈전의 누적 포인트 달성 보상으로 획득",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "17",
@@ -173,7 +173,7 @@
 		{
 			"facilityConditionId": "18",
 			"releaseId": "18",
-			"description": "達成勇氣與友情的聖誕節奪回戰的\n積分報酬即獲得",
+			"description": "용기와 우정의 크리스마스 쟁탈전의 누적 포인트 달성 보상으로 획득",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "18",
@@ -183,7 +183,7 @@
 		{
 			"facilityConditionId": "19",
 			"releaseId": "19",
-			"description": "達成勇氣與友情的聖誕節奪回戰的\n積分報酬即獲得",
+			"description": "용기와 우정의 크리스마스 쟁탈전의 누적 포인트 달성 보상으로 획득",
 			"viewFlg": "1",
 			"conditionType": "1",
 			"conditionParam": "19",

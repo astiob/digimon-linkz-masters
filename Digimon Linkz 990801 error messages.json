@@ -2,862 +2,862 @@
 	"messageM": [
 		{
 			"messageCode": "E-AL00",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-AL00】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL00]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL01",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-AL01】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL01]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL02",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-AL02】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL02]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL03",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-AL03】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL03]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL04",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-AL04】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL04]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL05",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-AL05】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL05]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL06",
-			"messageTitle": "更新",
-			"messageText": "【E-AL06】有更新資訊。\n更新至最新版本。",
+			"messageTitle": "갱신",
+			"messageText": "[E-AL06]정보가 갱신되었습니다.\n파일을 업데이트합니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL07",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-MA00】發生連線錯誤，\n請在訊號良好的地方\n再試一次。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-MA00]통신 오류가 발생했습니다.\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL08",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-AL08】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL08]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL09",
-			"messageTitle": "資料轉移失敗",
-			"messageText": "【E-AL09】資料轉移失敗。\n請在確認資料轉移碼、\n用戶碼之後，重新輸入。",
+			"messageTitle": "데이터 이전 실패",
+			"messageText": "[E-AL09]데이터를 이전하지 못했습니다.\n데이터 이전 코드 및 유저 코드를\n확인한 다음 다시 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL10",
-			"messageTitle": "資料轉移失敗",
-			"messageText": "【E-AL10】資料轉移失敗。\n請在確認資料轉移碼、\n用戶碼之後，重新輸入。",
+			"messageTitle": "데이터 이전 실패",
+			"messageText": "[E-AL10]데이터를 이전하지 못했습니다.\n데이터 이전 코드 및 유저 코드를\n확인한 다음 다시 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL11",
-			"messageTitle": "同一裝置",
-			"messageText": "【E-AL11】無法在同一裝置間進行轉移。\n若要進行轉移，請在其他裝置\n輸入資料轉移碼、用戶碼。",
+			"messageTitle": "동일한 단말기",
+			"messageText": "[E-AL11]단말기가 동일하여 데이터를 이전하지 못했습니다.\n다른 단말기에서 데이터 이전 코드 및 유저 코드를\n입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL12",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-AL12】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL12]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL15",
-			"messageTitle": "維護",
-			"messageText": "【E-AL15】目前系統維護中。\n非常抱歉，\n請在維護結束後再重新登入。",
+			"messageTitle": "점검",
+			"messageText": "[E-AL15]대단히 죄송합니다.\n현재 점검 중이오니, 점검이 끝난 다음에\n다시 접속해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL16",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-AL16】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL16]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL17",
-			"messageTitle": "更新",
-			"messageText": "【E-AL17】有更新資訊。\n更新至最新版本。",
+			"messageTitle": "갱신",
+			"messageText": "[E-AL17]정보가 갱신되었습니다.\n파일을 업데이트합니다.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL18",
-			"messageTitle": "更新",
-			"messageText": "【E-AL18】有更新資訊。\n更新至最新版本。",
+			"messageTitle": "갱신",
+			"messageText": "[E-AL18]정보가 갱신되었습니다.\n파일을 업데이트합니다.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL19",
-			"messageTitle": "服務條款更新",
-			"messageText": "【E-AL19】服務條款已更新。",
+			"messageTitle": "이용 약관 갱신",
+			"messageText": "[E-AL19]이용 약관이 갱신되었습니다.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL80",
-			"messageTitle": "重要告知",
-			"messageText": "【E-AL80】由於偵測到不當資料，\n現正進行調查。若調查後確認\n有不當行為，可能刪除帳號。",
+			"messageTitle": "중요 공지",
+			"messageText": "[E-AL80]부정한 데이터가 감지되어 현재 조사 중입니다.\n조사 결과 부정 행위가 확인되면\n계정 삭제 등의 처벌이 진행될 수 있습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL98",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-AL98】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-AL98]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-AL99",
-			"messageTitle": "用戶驗證失敗",
-			"messageText": "【E-AL99】驗證用戶時發生錯誤，\n請稍後再試。",
+			"messageTitle": "유저 인증 실패",
+			"messageText": "[E-AL99]유저 인증 중에 오류가 발생했습니다.\n잠시 후에 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN000",
-			"messageTitle": "不可使用",
-			"messageText": "【E-MN000】現在無法使用這個功能。\n造成不便，敬請見諒。\n請耐心等待維修結束。",
+			"messageTitle": "사용 불가",
+			"messageText": "[E-MN000]대단히 죄송합니다.\n현재 이 기능은 사용할 수 없습니다.\n복구가 완료될 때까지 잠시만 기다려주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN01",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-MN01】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-MN01]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN02",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-MN02】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-MN02]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN11",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN11】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN11]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN13",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN13】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN13]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN14",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN14】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN14]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN15",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN15】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN15]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN19",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN19】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN19]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN24",
-			"messageTitle": "データ不整合",
-			"messageText": "【E-MN24】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN24]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN30",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN30】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN30]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN31",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN31】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN31]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN32",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN32】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN32]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN39",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN39】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN39]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN41",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN41】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN41]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN43",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN43】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN43]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN47",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN47】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN47]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN48",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN48】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN48]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN49",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN49】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN49]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN50",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN50】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN50]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN60",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN60】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN60]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN61",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN61】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN61]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN62",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN62】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN62]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN63",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN63】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN63]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN71",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN71】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN71]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN72",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN72】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN72]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN73",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN73】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN73]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN74",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN74】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN74]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN75",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN75】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN75]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN76",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN76】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN76]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN79",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN79】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN79]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN81",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN81】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN81]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN82",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN82】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN82]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN91",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN91】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN91]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN92",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN92】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN92]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN93",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN93】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN93]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN94",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN94】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN94]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN95",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN95】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN95]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN96",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN96】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN96]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN97",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN97】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN97]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN98",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN98】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN98]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN99",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN99】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN99]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN100",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN100】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN100]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN101",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN101】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN101]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN110",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN110】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN110]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN121",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN121】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN121]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN122",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN122】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN122]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN123",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN123】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN123]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN124",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-MN124】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-MN124]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN141",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN141】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN141]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN142",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN142】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN142]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN143",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN143】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN143]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN144",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN144】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN144]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN145",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN145】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN145]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN146 ",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN146】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN146]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN147",
-			"messageTitle": "數碼碎片不足",
-			"messageText": "【E-MN147】數碼碎片不足。",
+			"messageTitle": "클러스터 부족",
+			"messageText": "[E-MN147]클러스터가 부족합니다.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN148",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN148 】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN148]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN150",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN150 】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN150]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN151",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN151 】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN151]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN152",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN152 】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN152]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN153",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN153 】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN153]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN154",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN154 】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN154]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN155",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MN155 】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MN155]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MN156",
-			"messageTitle": "狀態抗性",
-			"messageText": "因具備對所有異常狀態的抗性，\n\r\n不需進行抗性變化。",
+			"messageTitle": "상태 내성",
+			"messageText": "모든 상태이상에 대한 내성을 보유해\n\r\n내성 변화를 할 필요가 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US06",
-			"messageTitle": "體力不足",
-			"messageText": "【E-US06】體力不足。\n未持有數碼石。\n※使用5個數碼石即可回復。",
+			"messageTitle": "스태미너 부족",
+			"messageText": "[E-US06]스태미너가 부족합니다.\n보유한 디지스톤이 없습니다.\n※디지스톤 5개를 사용하면 회복할 수 있습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US07",
-			"messageTitle": "無效的用戶名稱",
-			"messageText": "【E-US07】無法設定未輸入內容或\n只輸入空白字元的用戶名稱。\n請確認輸入內容，重試一次。",
+			"messageTitle": "사용할 수 없는 유저 이름",
+			"messageText": "[E-US07]미입력 및 공백만으로 이루어진\n유저 이름은 사용할 수 없습니다.\n입력한 내용을 확인하고 다시 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US08",
-			"messageTitle": "超過文字數上限",
-			"messageText": "【E-US08】超過文字數上限。\n用戶名稱最多可輸入10字。",
+			"messageTitle": "글자 수 초과",
+			"messageText": "[E-US08]최대 글자 수를 초과했습니다.\n유저 이름은 10자 이내로 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US12",
-			"messageTitle": "不存在的代碼",
-			"messageText": "【E-US12】輸入的代碼不存在。\n請確認輸入內容。",
+			"messageTitle": "존재하지 않는 코드",
+			"messageText": "[E-US12]존재하지 않는 시리얼 코드입니다.\n입력한 내용을 확인해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US13",
-			"messageTitle": "已使用的代碼",
-			"messageText": "【E-US13】這個代碼已被使用。",
+			"messageTitle": "사용한 코드",
+			"messageText": "[E-US13]이미 사용한 시리얼 코드입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US16",
-			"messageTitle": "禁止文字",
-			"messageText": "【E-US16】您輸入的文字包含禁止文字。\n請確認輸入內容，重試一次。",
+			"messageTitle": "금지 단어",
+			"messageText": "[E-US16]입력된 문자 중에 금지 단어가 포함되어 있습니다.\n입력한 내용을 확인하고 다시 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US17",
-			"messageTitle": "無法使用的文字",
-			"messageText": "【E-US17】您輸入的文字包含表情符號、\n記號等無法使用的文字。\n請確認輸入內容，重試一次。",
+			"messageTitle": "사용할 수 없는 문자",
+			"messageText": "[E-US17]입력된 문자 중에 그림 문자, 기호 등\n사용할 수 없는 문자가 포함되어 있습니다.\n입력한 내용을 확인하고 다시 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US18",
-			"messageTitle": "超過文字數上限",
-			"messageText": "【E-US18】超過文字數上限。\n留言最多可輸入30字。",
+			"messageTitle": "글자 수 초과",
+			"messageText": "[E-US18]최대 글자 수를 초과했습니다.\n코멘트는 30자 이내로 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US19",
-			"messageTitle": "超過文字數上限",
-			"messageText": "【E-US19】超過文字數上限。\n用戶名稱最多可輸入10字。",
+			"messageTitle": "글자 수 초과",
+			"messageText": "[E-US19]최대 글자 수를 초과했습니다.\n유저 이름은 10자 이내로 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US21",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-US21】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-US21]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US22",
-			"messageTitle": "體力MAX",
-			"messageText": "【E-US22】體力已達MAX狀態，\n無法回復。",
+			"messageTitle": "스태미너 MAX",
+			"messageText": "[E-US22]스태미너가 최대치이므로 회복할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-US23",
-			"messageTitle": "肉的持有數上限",
-			"messageText": "【E-US23】可收成的肉已超過上限。\n只要提升倉庫等級，\n便可增加肉的持有數上限。",
+			"messageTitle": "최대 고기 보유 수 초과",
+			"messageText": "[E-US23]수확 가능한 고기의 수가 최대치를 초과했습니다.\n창고의 레벨을 올리면 최대 고기 보유 수가 상승합니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FR01",
-			"messageTitle": "已登錄的好友",
-			"messageText": "【E-FR01】此用戶已登錄為好友。",
+			"messageTitle": "등록된 친구",
+			"messageText": "[E-FR01]이미 친구로 등록된 유저입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FR02",
-			"messageTitle": "申請中的好友",
-			"messageText": "【E-FR02】已申請成為此用戶的好友。",
+			"messageTitle": "친구 신청 중",
+			"messageText": "[E-FR02]이미 친구 신청 중인 유저입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FR03",
-			"messageTitle": "待核准的好友",
-			"messageText": "【E-FR03】正在等待此用戶\n核准你成為好友。",
+			"messageTitle": "친구 승낙 대기 중",
+			"messageText": "[E-FR03]친구 승낙 대기 중인 유저입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FR04",
-			"messageTitle": "已取消申請",
-			"messageText": "【E-FR04】此用戶已取消您的申請。",
+			"messageTitle": "신청취소 완료",
+			"messageText": "[E-FR04]이미 신청을 취소한 유저입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FR10",
-			"messageTitle": "好友數上限",
-			"messageText": "【E-FR10】好友數已達上限\n或申請數過多，無法申請。",
+			"messageTitle": "최대 친구 수 초과",
+			"messageText": "[E-FR10]친구 수가 가득 찼거나\n승낙 대기 중인 신청 수가 많아\n신청할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FR11",
-			"messageTitle": "對方好友數上限",
-			"messageText": "【E-FR11】對方好友數已達上限\n或申請數過多，無法申請。",
+			"messageTitle": "상대방의 최대 친구 수 초과",
+			"messageText": "[E-FR11]상대방의 친구 수가 가득 찼거나\n승낙 대기 중인 신청 수가 많아\n신청할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FR12",
-			"messageTitle": "非好友的用戶",
-			"messageText": "【E-FR12】此用戶並非好友。",
+			"messageTitle": "친구가 아닌 유저",
+			"messageText": "[E-FR12]이 유저는 친구가 아닙니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA02",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-GA02】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-GA02]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA05",
-			"messageTitle": "數碼寶貝持有數上限",
-			"messageText": "【E-GA05】小屋的數碼寶貝持有數已達\n上限，無法捕捉。請升級小屋\n或進行強化、別離。",
+			"messageTitle": "최대 디지몬 보유 수 초과",
+			"messageText": "[E-GA05]하우스의 보유 디지몬 수가\n최대치에 도달하여 캡처할 수 없습니다.\n하우스를 업그레이드하거나 강화 및 이별로 공간을 확보해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA06",
-			"messageTitle": "數碼石不足",
-			"messageText": "【E-GA06】數碼石不足。\n要轉移到商店嗎？",
+			"messageTitle": "디지스톤 부족",
+			"messageText": "[E-GA06]디지스톤이 부족합니다.\n상점으로 이동하시겠습니까?",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA07",
-			"messageTitle": "Link點數不足",
-			"messageText": "【E-GA07】Link點數不足。",
+			"messageTitle": "링크 포인트 부족",
+			"messageText": "[E-GA07]링크 포인트가 부족합니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA08",
-			"messageTitle": "活動期間結束",
-			"messageText": "【E-GA08】這個捕捉的活動期間已結束。\n請關閉捕捉畫面。",
+			"messageTitle": "등장 기간 종료",
+			"messageText": "[E-GA08]등장 기간이 종료된 캡처입니다.\n캡처 화면을 닫아주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA09",
-			"messageTitle": "指定道具不足",
-			"messageText": "【E-GA09】所指定的道具數量不足。",
+			"messageTitle": "지정 아이템 부족",
+			"messageText": "[E-GA09] 지정 아이템이 부족합니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA10",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-GA10】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-GA10]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA11",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-GA11】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-GA11]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA12",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-GA12】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-GA12]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA13",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-GA13】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-GA13]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA14",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-GA14】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-GA14]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA16",
-			"messageTitle": "晶片持有數上限",
-			"messageText": "【E-GA16】晶片的持有數已達上限，\n無法捕捉。\n請強化或賣出晶片。",
+			"messageTitle": "최대 칩 보유 수 초과",
+			"messageText": "[E-GA16]보유 칩 수가 최대치에 도달하여\n캡처할 수 없습니다.\n강화 및 판매로 공간을 확보해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GA17",
-			"messageTitle": "建造未完成",
-			"messageText": "【E-GA17】未建造晶片工廠，無法捕捉。\n請建造晶片工廠。",
+			"messageTitle": "건설 미완료",
+			"messageText": "[E-GA17]칩 공장이 없어 캡처할 수 없습니다.\n칩 공장을 건설해주십시오.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-GA18",
-			"messageTitle": "超過次數上限",
-			"messageText": "【E-GA18】捕捉超過次數上限，\n已加以限制。",
+			"messageTitle": "횟수제한 초과",
+			"messageText": "[E-GA18]지정된 횟수를 초과하여 더이상 캡처할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SH01",
-			"messageTitle": "期間結束",
-			"messageText": "【E-SH01】期間已結束。",
+			"messageTitle": "기간 종료",
+			"messageText": "[E-SH01]기간이 종료되었습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SH09",
-			"messageTitle": "商品資訊不一致",
-			"messageText": "【E-SH09】商品資訊有誤。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "상품정보 오류",
+			"messageText": "[E-SH09]상품정보에 오류가 있습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SH10",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-SH10】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-SH10]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SH11",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-SH11】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-SH11]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SH12",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-SH12】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-SH12]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SH13",
-			"messageTitle": "購買次數上限",
-			"messageText": "【E-SH13】購買次數已達上限。",
+			"messageTitle": "구매 가능 횟수 초과",
+			"messageText": "[E-SH13]구매 가능 횟수가 최대치입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
@@ -870,1191 +870,1191 @@
 		},
 		{
 			"messageCode": "E-PR01",
-			"messageTitle": "已領取",
-			"messageText": "【E-PR01】已領取完成。",
+			"messageTitle": "수령 완료",
+			"messageText": "[E-PR01]이미 수령이 완료된 보상입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV01",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-PV01】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV01]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV02",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-PV02】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV02]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV03",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-PV03】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV03]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV04",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-PV04】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV04]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV05",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-PV05】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV05]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV06",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-PV06】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV06]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV07",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-PV07】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV07]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV08",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-PV08】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV08]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV09",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-PV09】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV09]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV10",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-PV10】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV10]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV11",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-PV11】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV11]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV12",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-PV12】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV12]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV13",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-PV13】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV13]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV14",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-PV14】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV14]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV15",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-PV15】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV15]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV16",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-PV16】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV16]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV19",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-PV19】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-PV19]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV20",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-PV20】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-PV20]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV21",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-PV21】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-PV21]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV22",
-			"messageTitle": "計算中",
-			"messageText": "【E-PV22】目前正在進行競技場的計算。\n請稍待片刻後再進行戰鬥。",
+			"messageTitle": "집계 중",
+			"messageText": "[E-PV22]결과를 집계하고 있습니다.\n잠시 후에 다시 시도해주십시오.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-PV42",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-PV42】發生非預期的錯誤。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-PV42]예기치 못한 오류가 발생했습니다.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "97",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-PV97】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-PV97]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV98",
-			"messageTitle": "未舉辦排名",
-			"messageText": "目前未舉辦競技場排名，\n請稍待片刻。",
+			"messageTitle": "랭킹 미개최",
+			"messageText": "콜로세움 랭킹 진행 중이 아닙니다.\n잠시만 기다려 주시기 바랍니다.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-PV99",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-PV99】發生用戶狀態不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-PV99]유저 스테이터스에 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD01",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-WD01】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-WD01]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD02",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-WD02】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-WD02]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD03",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-WD03】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-WD03]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD04",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-WD04】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-WD04]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD05",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-WD05】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-WD05]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD06",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-WD06】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-WD06]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD10",
-			"messageTitle": "期間結束",
-			"messageText": "【E-WD10】冒險的解放期間已結束。",
+			"messageTitle": "기간 종료",
+			"messageText": "[E-WD10]퀘스트 해금 기간이 종료되었습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD11",
-			"messageTitle": "體力不足",
-			"messageText": "【E-WD11】體力不足。\n要使用{}個數碼石回復嗎？\n體力 {}–＞ {}數碼石持有數：{}",
+			"messageTitle": "스태미너 부족",
+			"messageText": "[E-WD11]스태미너가 부족합니다.\n디지스톤 {}개를 사용하여 회복하시겠습니까?\n스태미너 {} -> {}\n보유 디지스톤 수: {}",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD12",
-			"messageTitle": "體力不足",
-			"messageText": "【E-WD12】冒險所需的體力\n已超過體力上限，無法挑戰。",
+			"messageTitle": "스태미너 부족",
+			"messageText": "[E-WD12]스태미너의 최대치가 부족하여\n퀘스트에 도전할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD13",
-			"messageTitle": "不存在的隊伍",
-			"messageText": "【E-WD13】選擇的隊伍不存在。\n請在整編畫面整編隊伍。",
+			"messageTitle": "존재하지 않는 파티",
+			"messageText": "[E-WD13]선택된 파티가 존재하지 않습니다.\n파티를 편성해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD15",
-			"messageTitle": "空的隊伍",
-			"messageText": "【E-WD15】隊伍中並未選擇數碼寶貝。\n請在整編畫面整編隊伍。",
+			"messageTitle": "비어있는 파티",
+			"messageText": "[E-WD15]파티 내에 디지몬이 존재하지 않습니다.\n파티를 편성해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD16",
-			"messageTitle": "數碼寶貝持有數上限",
-			"messageText": "【E-WD16】小屋的數碼寶貝持有數已達\n上限，無法參加冒險。請升級\n小屋或進行強化、別離。",
+			"messageTitle": "최대 디지몬 보유 수 초과",
+			"messageText": "[E-WD16]하우스의 보유 디지몬 수가 최대치에 도달하여\n퀘스트에 참가할 수 없습니다.\n하우스를 업그레이드하거나 강화 및 이별로 공간을 확보해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD17",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-WD17】發生資料不一致。\n請從標題的「詢問」\n聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD17]데이터 오류가 발생했습니다.\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD19",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-WD19】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-WD19]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD20",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-WD20】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD20]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD21",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-WD21】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD21]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD23",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-WD23】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD23]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD24",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-WD24】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD24]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD26",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-WD26】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD26]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD28",
-			"messageTitle": "晶片持有數上限",
-			"messageText": "【E-WD28】晶片的持有數已達上限，\n無法參加冒險。\n請強化或賣出晶片。",
+			"messageTitle": "최대 칩 보유 수 초과",
+			"messageText": "[E-WD28]보유 칩 수가 최대치에 도달하여\n퀘스트에 참가할 수 없습니다.\n강화 및 판매로 공간을 확보해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD31",
-			"messageTitle": "接關",
-			"messageText": "【E-WD31】使用5個數碼石即可復活。",
+			"messageTitle": "컨티뉴",
+			"messageText": "[E-WD31]디지스톤 5개로 부활시킬 수 있습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD32",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-WD32】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD32]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD33",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-WD33】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD33]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD34",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-WD34】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD34]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD71",
-			"messageTitle": "非活動期間",
-			"messageText": "【E-WD71】活動未舉辦，或已經結束。",
+			"messageTitle": "미개최 기간",
+			"messageText": "[E-WD71]아직 개최되지 않은 이벤트이거나\n이미 종료된 이벤트입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD72",
-			"messageTitle": "資料取得失敗",
-			"messageText": "【E-WD72】資料取得失敗。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 불러오기 실패",
+			"messageText": "[E-WD72]데이터를 불러오지 못했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD84",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-WD84】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD84]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD85",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-WD85】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-WD85]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-WD74",
-			"messageTitle": "期間結束",
-			"messageText": "【E-WD74】冒險的解放期間已結束。",
+			"messageTitle": "기간 종료",
+			"messageText": "[E-WD74]퀘스트 해금 기간이 종료되었습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MS01",
-			"messageTitle": "已領取",
-			"messageText": "【E-MS01】已領取完成。",
+			"messageTitle": "수령 완료",
+			"messageText": "[E-MS01]이미 수령이 완료된 보상입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT01",
-			"messageTitle": "房間已滿",
-			"messageText": "【E-MT01】這個房間成員已滿。",
+			"messageTitle": "룸 만원",
+			"messageText": "[E-MT01]이미 인원이 가득 찬 룸입니다.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-MT02",
-			"messageTitle": "房間已解散",
-			"messageText": "【E-MT02】這個房間已解散。",
+			"messageTitle": "룸 해체",
+			"messageText": "[E-MT02]이미 해체된 룸입니다.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-MT11",
-			"messageTitle": "已加入房間",
-			"messageText": "【E-MT11】已加入房間。",
+			"messageTitle": "룸 가입 완료",
+			"messageText": "[E-MT11]이미 가입한 룸입니다.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-MT13",
-			"messageTitle": "不存在的房間",
-			"messageText": "【E-MT13】這個房間不存在。",
+			"messageTitle": "존재하지 않는 룸",
+			"messageText": "[E-MT13]해당 룸이 존재하지 않습니다.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-MT19",
-			"messageTitle": "密碼不符",
-			"messageText": "【E-MT19】輸入的密碼錯誤。\n請在確認後重新輸入一次。",
+			"messageTitle": "비밀번호 오류",
+			"messageText": "[E-MT19]비밀번호를 잘못 입력하셨습니다.\n번호를 확인하고 다시 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-MT20",
-			"messageTitle": "未解鎖冒險",
-			"messageText": "【E-MT20】欲參加的冒險尚未開放，\n目前無法參加。",
+			"messageTitle": "미해금 퀘스트",
+			"messageText": "[E-MT20]해금되지 않은 퀘스트이므로\n지금은 참가할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-MT31",
-			"messageTitle": "超過文字數上限",
-			"messageText": "【E-MT31】介紹文的文字數已超過上限。\n請設定在50個字以下。",
+			"messageTitle": "글자 수 초과",
+			"messageText": "[E-MT31]소개말이 최대 글자 수를 초과했습니다.\n50자 이내로 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "2"
 		},
 		{
 			"messageCode": "E-MT32",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MT32】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT32]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT52",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MT52】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT52]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT53",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MT53】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT53]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT54",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MT54】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT54]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT61",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MT61】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT61]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT62",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MT62】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT62]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT71",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MT71】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT71]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT72",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MT72】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT72]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT73",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MT73】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT73]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-MT81",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-MT81】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-MT81]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA01",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-FA01】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-FA01]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA02",
-			"messageTitle": "空間不足",
-			"messageText": "【E-FA02】沒有空間配置設施與裝飾。\n欲配置新物品，\n請先將裝飾賣出。",
+			"messageTitle": "공간 부족",
+			"messageText": "[E-FA02]시설 및 장식을 배치할 공간이 부족합니다.\n새로 배치하려면 장식을 판매해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA03",
-			"messageTitle": "建造上限數",
-			"messageText": "【E-FA03】這個裝飾已達建造上限數，\n無法建設。",
+			"messageTitle": "최대 건설 가능 수 초과",
+			"messageText": "[E-FA03]해당 장식의 건설 가능 수가 최대치에 도달하여\n건설할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA04",
-			"messageTitle": "數碼碎片不足",
-			"messageText": "【E-FA04】資料碎片不足，無法建造。",
+			"messageTitle": "클러스터 부족",
+			"messageText": "[E-FA04]클러스터가 부족하여 건설할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA05",
-			"messageTitle": "不可縮短時間",
-			"messageText": "【E-FA05】這個設施無法縮短時間。",
+			"messageTitle": "시간 단축 불가",
+			"messageText": "[E-FA05]해당 시설은 건설 시간을 단축할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA06",
-			"messageTitle": "不須縮短時間",
-			"messageText": "【E-FA06】建造已完成。\n未消費數碼石。",
+			"messageTitle": "시간 단축 불필요",
+			"messageText": "[E-FA06]이미 건설이 완료되어\n디지스톤이 소비되지 않았습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA07",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-FA07】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-FA07]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA08",
-			"messageTitle": "建造中",
-			"messageText": "【E-FA08】這個設施尚在建蓋中。",
+			"messageTitle": "건설 중",
+			"messageText": "[E-FA08]해당 시설은 아직 건설 중입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA09",
-			"messageTitle": "已升級",
-			"messageText": "【E-FA08】這個設施尚在建造中。",
+			"messageTitle": "업그레이드 완료",
+			"messageText": "[E-FA09]해당 시설은 이미 최대 레벨입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA10",
-			"messageTitle": "不可縮短時間",
-			"messageText": "【E-FA10】這個設施無法縮短時間。",
+			"messageTitle": "시간 단축 불가",
+			"messageText": "[E-FA10]해당 시설은 건설 시간을 단축할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA11",
-			"messageTitle": "不可縮短時間",
-			"messageText": "【E-FA11】這個設施未在升級中，\n無法縮短時間。",
+			"messageTitle": "시간 단축 불가",
+			"messageText": "[E-FA11]해당 시설은 업그레이드 중이 아니므로\n건설 시간을 단축할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA12",
-			"messageTitle": "不可移動",
-			"messageText": "【E-FA12】這個設施無法移動。",
+			"messageTitle": "이동 불가",
+			"messageText": "[E-FA12]해당 시설은 위치를 옮길 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA13",
-			"messageTitle": "不可賣出",
-			"messageText": "【E-FA13】這個設施無法賣出。",
+			"messageTitle": "판매 불가",
+			"messageText": "[E-FA13]해당 시설은 판매할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA14",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-FA14】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-FA14]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA15",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-FA15】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-FA15]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA16",
-			"messageTitle": "不可收成",
-			"messageText": "【E-FA16】正在建造中，無法收成。",
+			"messageTitle": "수확 불가",
+			"messageText": "[E-FA16]건설 중이므로 수확할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA17",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-FA17】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-FA17]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA19",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【E-FA19】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[E-FA19]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA20",
-			"messageTitle": "肉的持有數上限",
-			"messageText": "【E-FA20】可收成的肉已超過上限。\n只要建造倉庫，\n便可增加肉的持有數上限。",
+			"messageTitle": "최대 고기 보유 수 초과",
+			"messageText": "[E-FA20]수확 가능한 고기의 수가 최대치를 초과했습니다.\n창고를 만들면 최대 고기 보유 수가 상승합니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA21",
-			"messageTitle": "建造Cost上限",
-			"messageText": "【E-FA21】建造Cost已達上限，\n無法同時建造更多設施。",
+			"messageTitle": "건설 코스트 초과",
+			"messageText": "[E-FA21]건설 코스트가 최대치에 도달하여\n건설할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA23",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-FA23】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-FA23]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA24",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-FA24】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-FA24]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA25",
-			"messageTitle": "儲蓄達上限數",
-			"messageText": "【E-FA25】儲蓄已達上限值。",
+			"messageTitle": "최대 보유 수 초과",
+			"messageText": "[E-FA25]보유 수가 최대치에 도달하였습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-FA26",
-			"messageTitle": "數碼石不足",
-			"messageText": "【E-FA26】數碼石不足。",
+			"messageTitle": "디지스톤 부족",
+			"messageText": "[E-FA26]디지스톤이 부족합니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH01",
-			"messageTitle": "聊天群組參加上限",
-			"messageText": "【E-CH01】聊天群組的參加數已達上限。",
+			"messageTitle": "최대 채팅 그룹 참가 수 초과",
+			"messageText": "[E-CH01]참가한 채팅 그룹 수가 최대치입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH02",
-			"messageTitle": "不存在的聊天群組",
-			"messageText": "【E-CH02】聊天群組不存在。",
+			"messageTitle": "존재하지 않는 채팅 그룹",
+			"messageText": "[E-CH02]채팅 그룹이 존재하지 않습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH03",
-			"messageTitle": "邀請失敗",
-			"messageText": "【E-CH03】邀請失敗。",
+			"messageTitle": "초대 실패",
+			"messageText": "[E-CH03]초대하지 못했습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH04",
-			"messageTitle": "聊天群組邀請上限",
-			"messageText": "【E-CH04】聊天群組的邀請數已達上限。",
+			"messageTitle": "최대 채팅 그룹 초대 수 초과",
+			"messageText": "[E-CH04]채팅 그룹 초대 수가 최대치입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH05",
-			"messageTitle": "無效的邀請",
-			"messageText": "【E-CH05】邀請超過有效期限，\n或是聊天群組不存在，\n導致邀請失敗。",
+			"messageTitle": "초대 무효",
+			"messageText": "[E-CH05]유효기간이 지났거나,\n채팅 그룹이 존재하지 않아\n참가하지 못했습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH06",
-			"messageTitle": "邀請失敗",
-			"messageText": "【E-CH06】您並非主人，\n無法進行邀請。",
+			"messageTitle": "초대 실패",
+			"messageText": "[E-CH06]마스터가 아니므로\n초대할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH07",
-			"messageTitle": "已加入的聊天群組",
-			"messageText": "【E-CH07】您已加入這個聊天群組。",
+			"messageTitle": "이미 가입한 채팅 그룹",
+			"messageText": "[E-CH07]이미 가입한 채팅 그룹입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH08",
-			"messageTitle": "申請失敗",
-			"messageText": "【E-CH08】申請失敗。",
+			"messageTitle": "신청 실패",
+			"messageText": "[E-CH08]신청하지 못했습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH09",
-			"messageTitle": "已申請的聊天群組",
-			"messageText": "【E-CH09】您已申請加入這個聊天群組。",
+			"messageTitle": "이미 신청한 채팅 그룹",
+			"messageText": "[E-CH09]이미 신청한 채팅 그룹입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH10",
-			"messageTitle": "聊天群組申請上限",
-			"messageText": "【E-CH10】申請數已達上限。",
+			"messageTitle": "최대 채팅 그룹 신청 수 초과",
+			"messageText": "[E-CH10]채팅 그룹 가입 신청 수가 최대치입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH11",
-			"messageTitle": "選單顯示失敗",
-			"messageText": "【E-CH11】您未擁有主人權限，\n無法查閱。",
+			"messageTitle": "메뉴 표시 실패",
+			"messageText": "[E-CH11]마스터 권한이 없으므로\n확인할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH12",
-			"messageTitle": "無效的申請",
-			"messageText": "【E-CH12】申請超過有效期限，\n或是聊天群組不存在，\n導致申請失敗。",
+			"messageTitle": "신청 무효",
+			"messageText": "[E-CH12]유효기간이 지났거나,\n채팅 그룹이 존재하지 않아\n신청하지 못했습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH13",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-CH13】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-CH13]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH14",
-			"messageTitle": "主人權限轉讓失敗",
-			"messageText": "【E-CH14】無法將主人權限\n轉讓給成員以外的對象。",
+			"messageTitle": "마스터 권한 위임 실패",
+			"messageText": "[E-CH14]그룹 멤버에게만 마스터 권한을\n위임할 수 있습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH15",
-			"messageTitle": "聊天群組退出失敗",
-			"messageText": "【E-CH15】主人無法退出聊天群組。",
+			"messageTitle": "채팅 그룹 나가기 실패",
+			"messageText": "[E-CH15]마스터는 채팅 그룹에서\n나갈 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH16",
-			"messageTitle": "聊天群組退出失敗",
-			"messageText": "【E-CH16】您並非聊天群組的成員，\n無法退出。",
+			"messageTitle": "채팅 그룹 나가기 실패",
+			"messageText": "[E-CH16]해당 채팅 그룹의 멤버가 아니므로\n나갈 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH17",
-			"messageTitle": "記錄取得失敗",
-			"messageText": "【E-CH17】您並非聊天群組的成員，\n無法取得記錄。",
+			"messageTitle": "이력 불러오기 실패",
+			"messageText": "[E-CH17]해당 채팅 그룹의 멤버가 아니므로\n이력을 불러올 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH18",
-			"messageTitle": "傳送訊息錯誤",
-			"messageText": "【E-CH18】您並非聊天群組的成員，\n無法傳送訊息。",
+			"messageTitle": "메시지 송신 오류",
+			"messageText": "[E-CH18]해당 채팅 그룹의 멤버가 아니므로\n메시지를 보낼 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH19",
-			"messageTitle": "成立群組錯誤",
-			"messageText": "【E-CH19】未輸入群組名稱。\n請輸入群組名稱。",
+			"messageTitle": "그룹 생성 오류",
+			"messageText": "[E-CH19]그룹 이름이 입력되지 않았습니다.\n그룹 이름을 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH20",
-			"messageTitle": "成立群組錯誤",
-			"messageText": "【E-CH20】群組名稱超過文字數上限。\n群組名稱最多可輸入15字。",
+			"messageTitle": "그룹 생성 오류",
+			"messageText": "[E-CH20]그룹 이름이 최대 글자 수를 초과했습니다.\n그룹 이름은 15자 이내로 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH21",
-			"messageTitle": "成立群組錯誤",
-			"messageText": "【E-CH21】留言超過文字數上限。\n留言最多可輸入30字。",
+			"messageTitle": "그룹 생성 오류",
+			"messageText": "[E-CH21]코멘트가 최대 글자 수를 초과했습니다.\n코멘트는 30자 이내로 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH22",
-			"messageTitle": "傳送訊息錯誤",
-			"messageText": "【E-CH22】訊息超過文字數上限。\n訊息最多可輸入100字。",
+			"messageTitle": "메시지 송신 오류",
+			"messageText": "[E-CH22]메시지가 최대 글자 수를 초과했습니다.\n메시지는 100자 이내로 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH23",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-CH23】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-CH23]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH24",
-			"messageTitle": "傳送訊息錯誤",
-			"messageText": "【E-CH24】無可顯示的文字。",
+			"messageTitle": "메시지 송신 오류",
+			"messageText": "[E-CH24]표시 가능한 문자가 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH26",
-			"messageTitle": "申請失敗",
-			"messageText": "【E-CH26】已被邀請參加這個聊天群組，\n無法提出申請。",
+			"messageTitle": "신청 실패",
+			"messageText": "[E-CH26]이미 해당 채팅 그룹의 초대를 받아\n가입 신청을 할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH27",
-			"messageTitle": "主人權限轉讓失敗",
-			"messageText": "【E-CH27】已封鎖該用戶，\n無法將主人權限\n轉讓給該用戶。",
+			"messageTitle": "마스터 권한 위임 실패",
+			"messageText": "[E-CH27]차단한 유저에게는\n마스터 권한을 위임할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH28",
-			"messageTitle": "申請失敗",
-			"messageText": "【E-CH28】此群組主人是您封鎖的用戶，\n無法申請參加這個聊天群組。",
+			"messageTitle": "신청 실패",
+			"messageText": "[E-CH28]차단한 유저가 마스터인\n채팅 그룹은 참가할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-CH29",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-CH29】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-CH29]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SO01",
-			"messageTitle": "驗證錯誤",
-			"messageText": "【E-SO01】所綁定的SNS驗證失敗。\n請再次嘗試。",
+			"messageTitle": "인증 오류",
+			"messageText": "[E-SO01]연동할 SNS를 인증하지 못했습니다.\n다시 시도해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SO02",
-			"messageTitle": "驗證錯誤",
-			"messageText": "【E-SO02】所綁定的SNS驗證失敗。\n請再次嘗試。",
+			"messageTitle": "인증 오류",
+			"messageText": "[E-SO02]연동할 SNS를 인증하지 못했습니다.\n다시 시도해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SO03",
-			"messageTitle": "驗證錯誤",
-			"messageText": "【E-SO03】所綁定的SNS驗證失敗。\n請再次嘗試。",
+			"messageTitle": "인증 오류",
+			"messageText": "[E-SO03]연동할 SNS를 인증하지 못했습니다.\n다시 시도해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-SO04",
-			"messageTitle": "驗證錯誤",
-			"messageText": "【E-SO04】所綁定的SNS驗證失敗。\n請再次嘗試。",
+			"messageTitle": "인증 오류",
+			"messageText": "[E-SO04]연동할 SNS를 인증하지 못했습니다.\n다시 시도해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL01",
-			"messageTitle": "連線錯誤",
-			"messageText": "【C-AL01】發生連線錯誤。\n請在訊號良好的地方\n再試一次。",
+			"messageTitle": "통신 오류",
+			"messageText": "[C-AL01]통신 오류가 발생했습니다.\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL02",
-			"messageTitle": "連線錯誤",
-			"messageText": "【C-AL02】發生連線錯誤。\n請確認使用裝置的連線設定。",
+			"messageTitle": "통신 오류",
+			"messageText": "[C-AL02]통신 오류가 발생했습니다.\n이용 중인 단말기의 통신 설정을 확인해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL03",
-			"messageTitle": "伺服器繁忙",
-			"messageText": "【C-AL03】目前伺服器可能處於繁忙。\n請稍後再試。",
+			"messageTitle": "서버 혼잡",
+			"messageText": "[C-AL03]서버가 혼잡합니다.\n잠시 후에 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL04",
-			"messageTitle": "逾時",
-			"messageText": "【C-AL04】連線逾時。\n請在訊號良好的地方\n再試一次。",
+			"messageTitle": "타임아웃",
+			"messageText": "[C-AL04]서버와의 연결이 끊어졌습니다.\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL05",
-			"messageTitle": "資料取得失敗",
-			"messageText": "【C-AL05】資料取得失敗。\n請在訊號良好的地方\n再試一次。",
+			"messageTitle": "데이터 불러오기 실패",
+			"messageText": "[C-AL05]데이터를 불러오지 못했습니다.\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL06",
-			"messageTitle": "資料毀損",
-			"messageText": "【C-AL06】取得資料毀損。請於標題畫面\n清除快取後，在訊號良好的\n地方重新取得資料。",
+			"messageTitle": "데이터 파손",
+			"messageText": "[C-AL06]데이터가 파손되었습니다.\n타이틀 화면에서 캐시를 삭제한 다음,\n통신이 원활한 환경에서 다시 접속해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL07",
-			"messageTitle": "購買處理失敗",
-			"messageText": "【C-AL07】購買處理失敗。\n請在訊號良好的地方\n重新登入一次。",
+			"messageTitle": "구매 처리 실패",
+			"messageText": "[C-AL07]구매하지 못했습니다.\n통신이 원활한 환경에서 다시 접속해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL08",
-			"messageTitle": "初始化失敗",
-			"messageText": "【C-AL08】初始化失敗。\n請在訊號良好的地方\n重新登入一次。",
+			"messageTitle": "초기화 실패",
+			"messageText": "[C-AL08]초기화하지 못했습니다.\n통신이 원활한 환경에서 다시 접속해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL09",
-			"messageTitle": "用戶驗證失敗",
-			"messageText": "【C-AL09】用戶驗證失敗。\n請在訊號良好的地方\n再試一次。",
+			"messageTitle": "유저 인증 실패",
+			"messageText": "[C-AL09]인증하지 못했습니다.\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL10",
-			"messageTitle": "清除快取失敗",
-			"messageText": "【C-AL10】清除快取失敗。",
+			"messageTitle": "캐시 삭제 실패",
+			"messageText": "[C-AL10]캐시를 삭제하지 못했습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL11",
-			"messageTitle": "資料取得失敗",
-			"messageText": "【C-AL11】資料取得失敗。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 불러오기 실패",
+			"messageText": "[C-AL11]데이터를 불러오지 못했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-AL12",
-			"messageTitle": "記憶體不足",
-			"messageText": "【C-AL12】記憶體不足導致讀取失敗。\n請確認記憶體容量。",
+			"messageTitle": "메모리 부족",
+			"messageText": "[C-AL12]메모리가 부족하여 불러오지 못했습니다.\n메모리 용량을 확인해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP100",
-			"messageTitle": "資料不一致",
-			"messageText": "【C-NP100】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[C-NP100]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP101",
-			"messageTitle": "取消購買",
-			"messageText": "【C-NP101】已取消購買。",
+			"messageTitle": "구매 취소",
+			"messageText": "[C-NP101]구매가 취소되었습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP102",
-			"messageTitle": "商城發生錯誤",
-			"messageText": "【C-NP102】商城發生錯誤。\n請稍後再試。",
+			"messageTitle": "상점 오류",
+			"messageText": "[C-NP102]상점에서 오류가 발생했습니다.\n잠시 후에 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP103",
-			"messageTitle": "商城發生錯誤",
-			"messageText": "【C-NP103】商城發生錯誤。\n請稍後再試。",
+			"messageTitle": "상점 오류",
+			"messageText": "[C-NP103]상점에서 오류가 발생했습니다.\n잠시 후에 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP104",
-			"messageTitle": "購買錯誤",
-			"messageText": "【C-NP104】購買處理中發生連線錯誤。\n請在訊號良好的地方\n再試一次。",
+			"messageTitle": "구매 오류",
+			"messageText": "[C-NP104]구매 처리 중에 통신 오류가 발생했습니다.\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP105",
-			"messageTitle": "資料不一致",
-			"messageText": "【C-NP105】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[C-NP105]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP106",
-			"messageTitle": "資料不一致",
-			"messageText": "【C-NP106】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[C-NP106]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP107",
-			"messageTitle": "已購買",
-			"messageText": "【C-NP107】已購買這個道具。",
+			"messageTitle": "중복 구매",
+			"messageText": "[C-NP107]이미 구매한 아이템입니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP120",
-			"messageTitle": "購買錯誤",
-			"messageText": "【C-NP120】購買處理發生錯誤。\n若未收到道具，請重啟App。",
+			"messageTitle": "구매 오류",
+			"messageText": "[C-NP120]구매 처리 중에 오류가 발생했습니다.\n아이템이 정상적으로 반영되지 않은 경우에는\n게임을 다시 시작해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP199",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【C-NP199】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[C-NP199]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 증상이 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP200",
-			"messageTitle": "裝置的付費設定",
-			"messageText": "【C-NP200】裝置設定未准許付費。\n請確認裝置設定。",
+			"messageTitle": "단말기의 과금 설정",
+			"messageText": "[C-NP200]단말기 설정상 과금 기능을 이용하실 수 없습니다.\n단말기의 설정을 확인해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP201",
-			"messageTitle": "購買時錯誤",
-			"messageText": "【C-NP201】可能因未成功登入\n導致初始化失敗。\n請重新登入，或重啟App。",
+			"messageTitle": "구매 시 오류",
+			"messageText": "[C-NP201]로그인 오류로 초기화하지 못했습니다.\n다시 로그인하거나 게임을 다시 시작해주십시오.",
 			"actionType": "4",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP202",
-			"messageTitle": "購買錯誤",
-			"messageText": "【C-NP202】購買處理發生錯誤。\n若未收到道具，請重啟App。",
+			"messageTitle": "구매 오류",
+			"messageText": "[C-NP202]구매 처리 중에 오류가 발생했습니다.\n아이템이 정상적으로 반영되지 않은 경우에는\n게임을 다시 시작해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-NP203",
-			"messageTitle": "購買錯誤",
-			"messageText": "【C-NP203】購買處理發生錯誤。\n若未收到道具，請重啟App。",
+			"messageTitle": "구매 오류",
+			"messageText": "[C-NP203]구매 처리 중에 오류가 발생했습니다.\n아이템이 정상적으로 반영되지 않은 경우에는\n게임을 다시 시작해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-SH01",
-			"messageTitle": "購買處理錯誤",
-			"messageText": "【C-SH01】購買處理中發生連線錯誤。\n請在訊號良好的地方\n再試一次。",
+			"messageTitle": "구매 처리 오류",
+			"messageText": "[C-SH01]구매 처리 중에 통신 오류가 발생했습니다.\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-SH02",
-			"messageTitle": "購買錯誤",
-			"messageText": "【C-SH02】已購買商品的有效化失敗。\n若重試仍無改善，\n請重啟App。",
+			"messageTitle": "구매 오류",
+			"messageText": "[C-SH02]구매한 상품이 정상적으로 반영되지 않았습니다.\n다시 시도해도 해결되지 않는 경우에는\n게임을 다시 시작해주십시오.",
 			"actionType": "2",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-SH03",
-			"messageTitle": "登錄失敗",
-			"messageText": "【C-SH03】年齡登錄失敗。\n請確認輸入內容後，\n在訊號良好的地方再試一次。",
+			"messageTitle": "등록 실패",
+			"messageText": "[C-SH03]연령을 등록하지 못했습니다.\n입력한 내용을 확인하고\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-SH04",
-			"messageTitle": "購買金額上限",
-			"messageText": "【C-SH04】已達到1個月\n可購買金額的上限。\n這個月已無法繼續購買。",
+			"messageTitle": "구매 한도 초과",
+			"messageText": "[C-SH04]한 달에 구매할 수 있는 금액을 초과했습니다.\n이번 달엔 더 이상 과금할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-SH05",
-			"messageTitle": "維護",
-			"messageText": "【C-SH05】目前無法購買。",
+			"messageTitle": "점검",
+			"messageText": "[C-SH05]지금은 구매할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-SH06",
-			"messageTitle": "超過持有數上限",
-			"messageText": "【C-SH06】無法繼續購買數碼石。\n數碼石的持有數上限是\n9999個。",
+			"messageTitle": "최대 보유 수 초과",
+			"messageText": "[C-SH06]디지스톤 보유 수가 최대치입니다.\n디지스톤은 최대 9,999개까지 보유할 수 있습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-SH07",
-			"messageTitle": "數碼石入帳",
-			"messageText": "【C-SH07】以前購買的數碼石已入帳。",
+			"messageTitle": "디지스톤 반영",
+			"messageText": "[C-SH07]구매한 디지스톤이 반영되었습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-GA01",
-			"messageTitle": "非預期的錯誤",
-			"messageText": "【C-GA01】發生非預期的錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "예기치 못한 오류",
+			"messageText": "[C-GA01]예기치 못한 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-US01",
-			"messageTitle": "連線錯誤",
-			"messageText": "【C-US01】發生連線錯誤。\n請在訊號良好的地方\n再試一次。",
+			"messageTitle": "통신 오류",
+			"messageText": "[C-US01]통신 오류가 발생했습니다.\n통신이 원활한 환경에서 다시 시도해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-US02",
-			"messageTitle": "不存在的用戶",
-			"messageText": "【C-US02】輸入的用戶碼有誤。\n請在確認用戶碼之後，\n重新輸入。",
+			"messageTitle": "존재하지 않는 유저",
+			"messageText": "[C-US02]존재하지 않는 유저 코드입니다.\n유저 코드를 확인한 다음 다시 입력해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-FA01",
-			"messageTitle": "數碼碎片不足",
-			"messageText": "【C-FA01】資料碎片不足，無法建造。",
+			"messageTitle": "클러스터 부족",
+			"messageText": "[C-FA01]클러스터가 부족하여\n건설할 수 없습니다.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "C-FA02",
-			"messageTitle": "數碼寶貝持有數上限",
-			"messageText": "【C-FA02】花園的數碼寶貝持有數\n已達上限，無法捕捉。\n請進行強化、別離。",
+			"messageTitle": "최대 디지몬 보유 수 초과",
+			"messageText": "[C-FA02]가든의 보유 디지몬 수가 최대치에 도달하여\n캡처할 수 없습니다.\n강화 및 이별로 공간을 확보해주십시오.",
 			"actionType": "1",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-TR01",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-TR01】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-TR01]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-TR02",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-TR02】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-TR02]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-TR03",
-			"messageTitle": "資料不一致",
-			"messageText": "【E-TR03】發生資料不一致。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "데이터 오류",
+			"messageText": "[E-TR03]데이터 오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		},
 		{
 			"messageCode": "E-GP01",
-			"messageTitle": "錯誤",
-			"messageText": "【E-GP01】發生錯誤。若重啟\nApp後仍無法解決，請從\n標題的「詢問」聯絡客服。",
+			"messageTitle": "오류",
+			"messageText": "[E-GP01]오류가 발생했습니다.\n게임을 다시 시작해도 해결되지 않는 경우에는\n타이틀 화면의 '문의하기'를 통해 문의해주십시오.",
 			"actionType": "3",
 			"actionValue": "1"
 		}

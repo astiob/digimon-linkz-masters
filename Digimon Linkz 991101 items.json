@@ -2,1338 +2,1338 @@
 	"itemM": [
 		{
 			"itemId": "1",
-			"name": "神祕的片斷資料",
-			"description": "籠罩在謎團之中的神祕資料，可在交換所兌換各種東西。",
+			"name": "수수께끼의 데이터 단편",
+			"description": "수수께끼에 싸인 신비한 데이터. 교환소에서 다양한 물건과 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_1",
 				"EventResource/Item/item_1"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "2",
 			"name": "BP",
-			"description": "競技場上可獲得的點數，可在交換所兌換各種東西。",
+			"description": "콜로세움에서 얻을 수 있는 포인트. 교환소에서 다양한 물건과 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_2",
 				"EventResource/Item/item_2"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "3",
-			"name": "意志的片斷資料",
-			"description": "意志的片斷化資料，可在交換所兌換各種東西。",
+			"name": "의지의 데이터 단편",
+			"description": "의지의 데이터 일부분. 교환소에서 다양한 물건과 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_3",
 				"EventResource/Item/item_3"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "4",
-			"name": "α的片斷資料",
-			"description": "籠罩在謎團之中的α片斷化資料，可在交換所兌換各種東西。",
+			"name": "α의 데이터 단편",
+			"description": "수수께끼에 싸인 α의 데이터 일부분. 교환소에서 다양한 물건과 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_4",
 				"EventResource/Item/item_4"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "5",
-			"name": "憤怒的片斷資料",
-			"description": "憤怒情緒的片斷化資料，可在交換所兌換各種東西。",
+			"name": "분노의 데이터 단편",
+			"description": "분노의 데이터 일부분. 교환소에서 다양한 물건과 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Item/item_7",
 				"EventResource/Item/item_7"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6",
-			"name": "擴張修正檔",
-			"description": "含有擴張凹槽修正檔的道具，可用來擴張凹槽。",
+			"name": "확장 패치",
+			"description": "슬롯 확장 패치가 내장된 아이템. 사용하면 슬롯이 확장된다.",
 			"category": "1",
 			"img": [
 				"ChipThumbnail/extra_slot_01"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "7",
-			"name": "卸除修正檔",
-			"description": "含有卸除晶片修正檔的道具，可用來卸除已裝備的晶片。",
+			"name": "분리 패치",
+			"description": "칩을 떼어낼 수 있는 패치가 내장된 아이템. 사용하면 장비 중인 칩을 분리할 수 있다.",
 			"category": "1",
 			"img": [
 				"ChipThumbnail/eject_slot_01"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "81",
-			"name": "冰河×大地的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "빙하 x 대지의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_81",
 				"EventResource/Item/item_81"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "82",
-			"name": "反擊的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "역습의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_82",
 				"EventResource/Item/item_82"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "83",
-			"name": "究極騎士的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "궁극 기사의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_83",
 				"EventResource/Item/item_83"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "84",
-			"name": "定罪的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "단죄의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_84",
 				"EventResource/Item/item_84"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "85",
-			"name": "業火的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "업화의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_85",
 				"EventResource/Item/item_85"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "86",
-			"name": "蒼零的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "창연의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_86",
 				"EventResource/Item/item_86"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "87",
-			"name": "陽輝月華的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "궁극 기사의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_87",
 				"EventResource/Item/item_87"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "88",
-			"name": "魔槍級的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "마창의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_88",
 				"EventResource/Item/item_88"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "89",
-			"name": "秋季風暴的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "추람 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_89",
 				"EventResource/Item/item_89"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "90",
-			"name": "金秋的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "가을 하늘 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_90",
 				"EventResource/Item/item_90"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "91",
-			"name": "勇氣友情羈絆的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "용기·우정·유대 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_91",
 				"EventResource/Item/item_91"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "92",
-			"name": "啟示錄的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "묵시록 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_92",
 				"EventResource/Item/item_92"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "93",
-			"name": "更高峰的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "더높은곳의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_93",
 				"EventResource/Item/item_93"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "94",
-			"name": "OMEGA RUSH的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "OMEGA RUSH의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_94",
 				"EventResource/Item/item_94"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "95",
-			"name": "OMEGA的系譜的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "OMEGA의 계보의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_95",
 				"EventResource/Item/item_95"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "96",
-			"name": "瞬速X的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "신속X 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_96",
 				"EventResource/Item/item_96"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "97",
-			"name": "爆裂的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "버스트의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_97",
 				"EventResource/Item/item_97"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "98",
-			"name": "信義與信念的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "신의와 신념의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_98",
 				"EventResource/Item/item_98"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "99",
-			"name": "神槍的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "신창의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_99",
 				"EventResource/Item/item_99"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100",
-			"name": "魔彈的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "마탄의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100",
 				"EventResource/Item/item_100"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "101",
-			"name": "救世騎士的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "구세기사의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_101",
 				"EventResource/Item/item_101"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "102",
-			"name": "邪影的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "사악한 그림자의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_102",
 				"EventResource/Item/item_102"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "103",
-			"name": "獸機X龍機的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "수기 x 용기의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_103",
 				"EventResource/Item/item_103"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "104",
-			"name": "輝晶的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "빛나는 크리스탈의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_104",
 				"EventResource/Item/item_104"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "106",
-			"name": "春嵐的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "봄의 폭풍의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_106",
 				"EventResource/Item/item_106"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "107",
-			"name": "神馬 X 豹傑的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "신마 x 표걸의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_107",
 				"EventResource/Item/item_107"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "110",
-			"name": "破碎的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "파쇄의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_110",
 				"EventResource/Item/item_110"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "111",
-			"name": "龍鎧的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "용 갑옷의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_111",
 				"EventResource/Item/item_111"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "112",
-			"name": "暗黑啟示錄的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "암흑 묵시록의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_112",
 				"EventResource/Item/item_112"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "113",
-			"name": "魔銃與戰刃的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "마의 총과 전인의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_113",
 				"EventResource/Item/item_113"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "115",
-			"name": "聖霸的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "성패의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_115",
 				"EventResource/Item/item_115"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "200",
-			"name": "光芒的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "광망의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_200",
 				"EventResource/Item/item_200"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "201",
-			"name": "深淵的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "심연의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_201",
 				"EventResource/Item/item_201"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "202",
-			"name": "陽炎的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "양염의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_202",
 				"EventResource/Item/item_202"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "50001",
-			"name": "高級肉",
-			"description": "在特殊肉田收成的高級肉，能讓數碼寶貝心情非常好。",
+			"name": "최고급 고기",
+			"description": "특별한 밭에서만 나는 최고급 고기. 이걸 먹으면 디지몬의 기분도 최고.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/special_meat_00",
 				"EventResource/Item/special_meat_00"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "50002",
-			"name": "空白晶片",
-			"description": "將資料刪除後的晶片。可在交換所交換喜歡的道具。",
+			"name": "빈 칩",
+			"description": "데이터가 삭제된 칩. 교환소에서 원하는 아이템으로 교환할 수 있다.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_blank",
 				"EventResource/Item/item_blank"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "60001",
-			"name": "究極體任選兌換券",
-			"description": "可在交換所兌換任意究極體數碼寶貝的兌換券。",
+			"name": "궁극체 선택 교환권",
+			"description": "교환소에서 원하는 궁극체 디지몬으로 교환할 수 있는 교환권.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/special_ticket_00",
 				"EventResource/Item/item_60001"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "60004",
-			"name": "新春兌換券2019",
-			"description": "可在交換所兌換各種東西。",
+			"name": "새해 교환권 2019",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_60004",
 				"EventResource/Item/item_60004"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "70002",
-			"name": "1週年紀念兌換券",
-			"description": "可在交換所兌換任意究極體數碼寶貝的兌換券。",
+			"name": "1주년 기념 교환권",
+			"description": "교환소에서 원하는 궁극체 디지몬으로 교환할 수 있는 교환권.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/special_ticket_00",
 				"EventResource/Item/item_70002"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "70003",
-			"name": "究極體禮物捕捉券",
-			"description": "究極體禮物捕捉券，為可在同時舉辦之「究極體禮物捕捉」進行捕捉的道具。",
+			"name": "궁극체 선물 캡처 티켓",
+			"description": " ‘궁극체 선물 캡처 티켓’은 동시에 개최되는 ‘궁극체 선물 캡처’를 이용할 수 있는 아이템입니다.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/special_ticket_00",
 				"EventResource/Item/item_70003"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100000",
-			"name": "碎片任選兌換券",
-			"description": "可在交換所兌換任意究極體數碼寶貝進化素材的兌換券。",
+			"name": "조각 선택 교환권",
+			"description": "교환소에서 원하는 궁극체 디지몬의 진화 재료로 교환할 수 있는 교환권.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/special_ticket_100000",
 				"EventResource/Item/item_100000"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100001",
-			"name": "起始的片斷資料",
-			"description": "起始的片斷化資料，可在交換所兌換各種東西。",
+			"name": "시작의 데이터 단편",
+			"description": "시작의 데이터 일부분. 교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100001",
 				"EventResource/Item/item_100001"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100002",
-			"name": "奧祕的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "신비의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100002",
 				"EventResource/Item/item_100002"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100003",
-			"name": "幻龍的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "환룡의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100003",
 				"EventResource/Item/item_100003"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100004",
-			"name": "聖槍的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "성창의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100004",
 				"EventResource/Item/item_100004"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100005",
-			"name": "猛毒的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "맹독의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100005",
 				"EventResource/Item/item_100005"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100006",
-			"name": "闇王的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "어둠의 왕의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100006",
 				"EventResource/Item/item_100006"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100007",
-			"name": "漆黑的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "칠흑의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100007",
 				"EventResource/Item/item_100007"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100008",
-			"name": "最強的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "최강의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100008",
 				"EventResource/Item/item_100008"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100009",
-			"name": "秘密的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "비밀의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100009",
 				"EventResource/Item/item_100009"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100010",
-			"name": "輝煌的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "광휘의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100010",
 				"EventResource/Item/item_100010"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100011",
-			"name": "救世的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "구세의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100011",
 				"EventResource/Item/item_100011"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100012",
-			"name": "末日的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "종말의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100012",
 				"EventResource/Item/item_100012"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100013",
-			"name": "蒼狼的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "푸른 늑대의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100013",
 				"EventResource/Item/item_100013"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100014",
-			"name": "拳的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "주먹 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100014",
 				"EventResource/Item/item_100014"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100015",
-			"name": "混沌的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "혼돈 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100015",
 				"EventResource/Item/item_100015"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100016",
-			"name": "排名入場券",
-			"description": "可在交換所兌換各種東西。",
+			"name": "교체 티켓",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100016",
 				"EventResource/Item/item_100016"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100017",
-			"name": "聖劍的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "성검의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100017",
 				"EventResource/Item/item_100017"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100018",
-			"name": "虎蜂的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "호봉의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100018",
 				"EventResource/Item/item_100018"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100019",
-			"name": "破滅的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "파멸의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100019",
 				"EventResource/Item/item_100019"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100020",
-			"name": "黑影的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "흑영의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100020",
 				"EventResource/Item/item_100020"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100021",
-			"name": "系譜的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "계보의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100021",
 				"EventResource/Item/item_100021"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100022",
-			"name": "白霧的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "백무의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100023",
 				"EventResource/Item/item_100023"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100023",
-			"name": "火焰的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "화염의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100022",
 				"EventResource/Item/item_100022"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100024",
-			"name": "古代龍的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "고대룡의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100024",
 				"EventResource/Item/item_100024"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100025",
-			"name": "善之意志的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "선한 의지의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100025",
 				"EventResource/Item/item_100025"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100026",
-			"name": "紅機龍的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "홍기룡의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100026",
 				"EventResource/Item/item_100026"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100027",
-			"name": "紅華的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "홍화의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100027",
 				"EventResource/Item/item_100027"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100029",
-			"name": "紅蓮騎士的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "홍련의 기사 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100029",
 				"EventResource/Item/item_100029"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100030",
-			"name": "全球1000萬下載紀念兌換券",
-			"description": "可在交換所兌換各種東西。",
+			"name": "전 세계 1000만 다운로드 기념 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100030",
 				"EventResource/Item/item_100030"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100031",
-			"name": "鋼鐵龍的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "강철용의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100031",
 				"EventResource/Item/item_100031"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100032",
-			"name": "赤鋼鐵龍的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "붉은 강철용의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100032",
 				"EventResource/Item/item_100032"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100033",
-			"name": "常闇的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "영원한 어둠의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100033",
 				"EventResource/Item/item_100033"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100034",
-			"name": "暗黑的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "암흑의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100034",
 				"EventResource/Item/item_100034"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100035",
-			"name": "闇的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "어둠의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100035",
 				"EventResource/Item/item_100035"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100036",
-			"name": "友好的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "우호의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100036",
 				"EventResource/Item/item_100036"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100037",
-			"name": "剛勇的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "용맹의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100037",
 				"EventResource/Item/item_100037"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100038",
-			"name": "力之解放的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "힘의 해방의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100038",
 				"EventResource/Item/item_100038"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100039",
-			"name": "究極武神的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "궁극의 무신 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100039",
 				"EventResource/Item/item_100039"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100040",
-			"name": "信賴的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "신뢰의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100040",
 				"EventResource/Item/item_100040"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100041",
-			"name": "神速的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "신속의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100041",
 				"EventResource/Item/item_100041"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100042",
-			"name": "OMEGA -春祭典- 前篇的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "OMEGA -봄축제- 전편의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100042",
 				"EventResource/Item/item_100042"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "100043",
-			"name": "OMEGA -春祭典- 後篇的片斷資料",
-			"description": "可在交換所兌換各種東西。",
+			"name": "OMEGA -봄축제- 후편의 데이터 단편",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_100043",
 				"EventResource/Item/item_100043"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000001",
-			"name": "碎片任選兌換券",
-			"description": "可在交換所兌換任意究極體數碼寶貝進化素材的兌換券。",
+			"name": "데이터 조각 교환권",
+			"description": "교환소에서 원하는 궁극체 디지몬의 진화 재료로 교환할 수 있는 교환권.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000001",
 				"EventResource/Item/item_6000001"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000002",
-			"name": "碎片任選兌換券",
-			"description": "可在交換所兌換任意究極體數碼寶貝進化素材的兌換券。",
+			"name": "데이터 조각 교환권",
+			"description": "교환소에서 원하는 궁극체 디지몬의 진화 재료로 교환할 수 있는 교환권.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000002",
 				"EventResource/Item/item_6000002"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000003",
-			"name": "碎片任選兌換券",
-			"description": "可在交換所兌換任意究極體數碼寶貝進化素材的兌換券。",
+			"name": "데이터 조각 교환권",
+			"description": "교환소에서 원하는 궁극체 디지몬의 진화 재료로 교환할 수 있는 교환권.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000003",
 				"EventResource/Item/item_6000003"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000004",
-			"name": "大古拉獸兌換券",
-			"description": "可在交換所兌換各種東西。",
+			"name": "메가로그라우몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000004",
 				"EventResource/Item/item_6000004"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000005",
-			"name": "格鬥獅子獸兌換券",
-			"description": "可在交換所兌換各種東西。",
+			"name": "아이언레오몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000005",
 				"EventResource/Item/item_6000005"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000006",
-			"name": "迪朗獸兌換券",
-			"description": "可在交換所兌換各種東西。",
+			"name": "듀라몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000006",
 				"EventResource/Item/item_6000006"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000007",
-			"name": "炮蜂獸兌換券",
-			"description": "可在交換所兌換各種東西。",
+			"name": "캐논벌몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000007",
 				"EventResource/Item/item_6000007"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000008",
-			"name": "機械暴龍獸兌換券",
-			"description": "可在交換所兌換各種東西。",
+			"name": "메탈그레이몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000008",
 				"EventResource/Item/item_6000008"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000009",
-			"name": "巨鯨獸兌換券",
-			"description": "可在交換所兌換各種東西。",
+			"name": "고래몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000009",
 				"EventResource/Item/item_6000009"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000010",
-			"name": "花仙獸兌換券",
-			"description": "可在交換所兌換各種東西。",
+			"name": "릴리몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000010",
 				"EventResource/Item/item_6000010"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000011",
-			"name": "鋼鐵巨龍獸兌換券",
-			"description": "可在交換所兌換各種東西。",
+			"name": "메탈티라노몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000011",
 				"EventResource/Item/item_6000011"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000012",
-			"name": "超蛇龍獸兌換券",
-			"description": "可在交換所兌換各種東西。",
+			"name": "메가드라몬 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000012",
 				"EventResource/Item/item_6000012"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		},
 		{
 			"itemId": "6000013",
-			"name": "力之解放兌換券",
-			"description": "可在交換所兌換各種東西。",
+			"name": "힘의 해방 교환권",
+			"description": "교환소에서 다양한 물건으로 교환 가능.",
 			"category": "1",
 			"img": [
 				"EventResource/Thumbnail/item_thumbnail_6000013",
 				"EventResource/Item/item_6000013"
 			],
-			"unitName": "個",
+			"unitName": "개 ",
 			"upValue": "1",
 			"dispFlg": "0"
 		}

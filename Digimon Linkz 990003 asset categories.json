@@ -2,19 +2,19 @@
 	"assetCategoryM": [
 		{
 			"assetCategoryId": "1",
-			"assetTitle": "數碼寶貝"
+			"assetTitle": "디지몬"
 		},
 		{
 			"assetCategoryId": "2",
-			"assetTitle": "數碼石"
+			"assetTitle": "디지스톤"
 		},
 		{
 			"assetCategoryId": "3",
-			"assetTitle": "Link點數"
+			"assetTitle": "링크 포인트"
 		},
 		{
 			"assetCategoryId": "4",
-			"assetTitle": "數碼碎片"
+			"assetTitle": "클러스터"
 		},
 		{
 			"assetCategoryId": "5",
@@ -22,59 +22,59 @@
 		},
 		{
 			"assetCategoryId": "6",
-			"assetTitle": "道具"
+			"assetTitle": "아이템"
 		},
 		{
 			"assetCategoryId": "7",
-			"assetTitle": "數碼寶貝持有欄位"
+			"assetTitle": "보유 디지몬 수"
 		},
 		{
 			"assetCategoryId": "8",
-			"assetTitle": "隊伍Cost"
+			"assetTitle": "파티 코스트"
 		},
 		{
 			"assetCategoryId": "9",
-			"assetTitle": "好友數上限"
+			"assetTitle": "최대 친구 수"
 		},
 		{
 			"assetCategoryId": "10",
-			"assetTitle": "體力上限"
+			"assetTitle": "최대 스태미너"
 		},
 		{
 			"assetCategoryId": "11",
-			"assetTitle": "轉蛋券"
+			"assetTitle": "뽑기 티켓"
 		},
 		{
 			"assetCategoryId": "12",
-			"assetTitle": "共鬥道具"
+			"assetTitle": "협력전 아이템"
 		},
 		{
 			"assetCategoryId": "13",
-			"assetTitle": "肉"
+			"assetTitle": "고기"
 		},
 		{
 			"assetCategoryId": "14",
-			"assetTitle": "進化素材"
+			"assetTitle": "진화 재료"
 		},
 		{
 			"assetCategoryId": "15",
-			"assetTitle": "外掛"
+			"assetTitle": "플러그인"
 		},
 		{
 			"assetCategoryId": "16",
-			"assetTitle": "設施鑰匙"
+			"assetTitle": "시설 열쇠"
 		},
 		{
 			"assetCategoryId": "17",
-			"assetTitle": "晶片"
+			"assetTitle": "칩"
 		},
 		{
 			"assetCategoryId": "18",
-			"assetTitle": "降臨券"
+			"assetTitle": "강림 티켓"
 		},
 		{
 			"assetCategoryId": "19",
-			"assetTitle": "稱號"
+			"assetTitle": "칭호"
 		},
 		{
 			"assetCategoryId": "20",

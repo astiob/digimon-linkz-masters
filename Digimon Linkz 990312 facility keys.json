@@ -2,79 +2,79 @@
 	"facilityKeyM": [
 		{
 			"facilityKeyId": "1",
-			"facilityKeyName": "倉庫啟用鑰匙"
+			"facilityKeyName": "창고 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "2",
-			"facilityKeyName": "道場啟用鑰匙"
+			"facilityKeyName": "수련장 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "3",
-			"facilityKeyName": "餐廳啟用鑰匙"
+			"facilityKeyName": "식당 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "4",
-			"facilityKeyName": "冰箱啟用鑰匙"
+			"facilityKeyName": "냉장고 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "5",
-			"facilityKeyName": "自動販賣機啟用鑰匙"
+			"facilityKeyName": "자동판매기 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "6",
-			"facilityKeyName": "電話亭啟用鑰匙"
+			"facilityKeyName": "전화부스 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "7",
-			"facilityKeyName": "損壞的鐵軌A啟用鑰匙"
+			"facilityKeyName": "망가진 선로A 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "8",
-			"facilityKeyName": "損壞的鐵軌B啟用鑰匙"
+			"facilityKeyName": "망가진 선로B 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "9",
-			"facilityKeyName": "破爛的平交道啟用鑰匙"
+			"facilityKeyName": "낡은 건널목 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "10",
-			"facilityKeyName": "陳舊的電車啟用鑰匙"
+			"facilityKeyName": "오래된 전차 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "11",
-			"facilityKeyName": "晶片工廠啟用鑰匙"
+			"facilityKeyName": "칩 공장 해금 열쇠"
 		},
 		{
 			"facilityKeyId": "12",
-			"facilityKeyName": "設施商店已追加「雪人」"
+			"facilityKeyName": "'눈사람'을 시설 상점에 추가"
 		},
 		{
 			"facilityKeyId": "13",
-			"facilityKeyName": "設施商店已追加「聖誕襪」"
+			"facilityKeyName": "'크리스마스 양말'을 시설 상점에 추가"
 		},
 		{
 			"facilityKeyId": "14",
-			"facilityKeyName": "設施商店已追加「雪橇」"
+			"facilityKeyName": "'썰매'를 시설 상점에 추가"
 		},
 		{
 			"facilityKeyId": "15",
-			"facilityKeyName": "設施商店已追加「禮物盒」"
+			"facilityKeyName": "'크리스마스 선물'을 시설 상점에 추가"
 		},
 		{
 			"facilityKeyId": "16",
-			"facilityKeyName": "設施商店已追加「聖誕蛋糕」"
+			"facilityKeyName": "'크리스마스 케이크'를 시설 상점에 추가"
 		},
 		{
 			"facilityKeyId": "17",
-			"facilityKeyName": "設施商店已追加「小型聖誕樹」"
+			"facilityKeyName": "'작은 트리'를 시설 상점에 추가"
 		},
 		{
 			"facilityKeyId": "18",
-			"facilityKeyName": "設施商店已追加「中型聖誕樹」"
+			"facilityKeyName": "'중간 크기 트리'를 시설 상점에 추가"
 		},
 		{
 			"facilityKeyId": "19",
-			"facilityKeyName": "設施商店已追加「大型聖誕樹」"
+			"facilityKeyName": "'커다란 트리'를 시설 상점에 추가"
 		}
 	]
 }

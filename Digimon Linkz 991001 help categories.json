@@ -2,67 +2,67 @@
 	"helpCategoryM": [
 		{
 			"helpCategoryId": "1",
-			"helpCategoryName": "遊戲概要",
+			"helpCategoryName": "게임 개요",
 			"helpCategoryPriority": "1"
 		},
 		{
 			"helpCategoryId": "2",
-			"helpCategoryName": "數碼寶貝",
+			"helpCategoryName": "디지몬",
 			"helpCategoryPriority": "2"
 		},
 		{
 			"helpCategoryId": "3",
-			"helpCategoryName": "農場",
+			"helpCategoryName": "농장",
 			"helpCategoryPriority": "3"
 		},
 		{
 			"helpCategoryId": "4",
-			"helpCategoryName": "探索",
+			"helpCategoryName": "탐색",
 			"helpCategoryPriority": "4"
 		},
 		{
 			"helpCategoryId": "5",
-			"helpCategoryName": "戰鬥",
+			"helpCategoryName": "배틀",
 			"helpCategoryPriority": "5"
 		},
 		{
 			"helpCategoryId": "6",
-			"helpCategoryName": "協力戰鬥",
+			"helpCategoryName": "협동전",
 			"helpCategoryPriority": "6"
 		},
 		{
 			"helpCategoryId": "7",
-			"helpCategoryName": "競技場",
+			"helpCategoryName": "콜로세움",
 			"helpCategoryPriority": "7"
 		},
 		{
 			"helpCategoryId": "8",
-			"helpCategoryName": "設施",
+			"helpCategoryName": "시설",
 			"helpCategoryPriority": "8"
 		},
 		{
 			"helpCategoryId": "9",
-			"helpCategoryName": "Digivice",
+			"helpCategoryName": "디지바이스",
 			"helpCategoryPriority": "9"
 		},
 		{
 			"helpCategoryId": "10",
-			"helpCategoryName": "數碼聊天室",
+			"helpCategoryName": "디지채팅",
 			"helpCategoryPriority": "10"
 		},
 		{
 			"helpCategoryId": "11",
-			"helpCategoryName": "捕捉",
+			"helpCategoryName": "캡처",
 			"helpCategoryPriority": "12"
 		},
 		{
 			"helpCategoryId": "13",
-			"helpCategoryName": "其他",
+			"helpCategoryName": "기타",
 			"helpCategoryPriority": "14"
 		},
 		{
 			"helpCategoryId": "14",
-			"helpCategoryName": "晶片",
+			"helpCategoryName": "칩",
 			"helpCategoryPriority": "11"
 		}
 	]

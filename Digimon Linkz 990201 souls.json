@@ -2,1424 +2,1424 @@
 	"soulM": [
 		{
 			"soulId": "1070167",
-			"soulName": "阿爾法獸的資料碎片",
-			"description": "進化成阿爾法獸時所需的資料碎片。",
+			"soulName": "알파몬의 데이터 조각",
+			"description": "알파몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070168",
-			"soulName": "究極V龍獸的資料碎片",
-			"description": "進化成究極V龍獸時所需的資料碎片。",
+			"soulName": "알포스브이드라몬의 데이터 조각",
+			"description": "알포스브이드라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070169",
-			"soulName": "外星獸的資料碎片",
-			"description": "進化成外星獸時所需的資料碎片。",
+			"soulName": "이바몬의 데이터 조각",
+			"description": "이바몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070170",
-			"soulName": "帝皇龍甲獸DM的資料碎片",
-			"description": "進化成帝皇龍甲獸DM時所需的資料碎片。",
+			"soulName": "황제드라몬DM의 데이터 조각",
+			"description": "황제드라몬DM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070171",
-			"soulName": "帝皇龍甲獸FM的資料碎片",
-			"description": "進化成帝皇龍甲獸FM時所需的資料碎片。",
+			"soulName": "황제드라몬FM의 데이터 조각",
+			"description": "황제드라몬FM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070172",
-			"soulName": "維京毛人獸的資料碎片",
-			"description": "進化成維京毛人獸時所需的資料碎片。",
+			"soulName": "바이킹몬의 데이터 조각",
+			"description": "바이킹몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070173",
-			"soulName": "究極吸血魔獸的資料碎片",
-			"description": "進化成究極吸血魔獸時所需的資料碎片。",
+			"soulName": "베놈묘티스몬의 데이터 조각",
+			"description": "베놈묘티스몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070174",
-			"soulName": "戰鬥暴龍獸的資料碎片",
-			"description": "進化成戰鬥暴龍獸時所需的資料碎片。",
+			"soulName": "워그레이몬의 데이터 조각",
+			"description": "워그레이몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070175",
-			"soulName": "艾克薩獸的資料碎片",
-			"description": "進化成艾克薩獸時所需的資料碎片。",
+			"soulName": "엑자몬의 데이터 조각",
+			"description": "엑자몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070176",
-			"soulName": "神聖天女獸的資料碎片",
-			"description": "進化成神聖天女獸時所需的資料碎片。",
+			"soulName": "오파니몬의 데이터 조각",
+			"description": "오파니몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070177",
-			"soulName": "凱王獸的資料碎片",
-			"description": "進化成凱王獸時所需的資料碎片。",
+			"soulName": "가이오몬의 데이터 조각",
+			"description": "가이오몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070178",
-			"soulName": "混沌紅蓮騎士獸的資料碎片",
-			"description": "進化成混沌紅蓮騎士獸時所需的資料碎片。",
+			"soulName": "카오스듀크몬의 데이터 조각",
+			"description": "카오스듀크몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070179",
-			"soulName": "頑固獸的資料碎片",
-			"description": "進化成頑固獸時所需的資料碎片。",
+			"soulName": "간쿠몬의 데이터 조각",
+			"description": "간쿠몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070180",
-			"soulName": "葛葉獸的資料碎片",
-			"description": "進化成葛葉獸時所需的資料碎片。",
+			"soulName": "쿠즈하몬의 데이터 조각",
+			"description": "쿠즈하몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070181",
-			"soulName": "究極古加獸的資料碎片",
-			"description": "進化成究極古加獸時所需的資料碎片。",
+			"soulName": "그랜쿠가몬의 데이터 조각",
+			"description": "그랜쿠가몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070182",
-			"soulName": "超級火車獸的資料碎片",
-			"description": "進化成超級火車獸時所需的資料碎片。",
+			"soulName": "그랜드로코몬의 데이터 조각",
+			"description": "그랜드로코몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070183",
-			"soulName": "顱骨獸的資料碎片",
-			"description": "進化成顱骨獸時所需的資料碎片。",
+			"soulName": "크레니엄몬의 데이터 조각",
+			"description": "크레니엄몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070184",
-			"soulName": "基路比獸(善)的資料碎片",
-			"description": "進化成基路比獸(善)時所需的資料碎片。",
+			"soulName": "켈비몬(선)의 데이터 조각",
+			"description": "켈비몬(선)으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070185",
-			"soulName": "黃金劍獅獸的資料碎片",
-			"description": "進化成黃金劍獅獸時所需的資料碎片。",
+			"soulName": "샤벨레오몬의 데이터 조각",
+			"description": "샤벨레오몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070186",
-			"soulName": "沙古牙獸的資料碎片",
-			"description": "進化成沙古牙獸時所需的資料碎片。",
+			"soulName": "샤크라몬의 데이터 조각",
+			"description": "샤크라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070187",
-			"soulName": "傑斯獸的資料碎片",
-			"description": "進化成傑斯獸時所需的資料碎片。",
+			"soulName": "제스몬의 데이터 조각",
+			"description": "제스몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070188",
-			"soulName": "閃光暴龍獸的資料碎片",
-			"description": "進化成閃光暴龍獸時所需的資料碎片。",
+			"soulName": "샤인그레이몬의 데이터 조각",
+			"description": "샤인그레이몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070189",
-			"soulName": "裁決獸的資料碎片",
-			"description": "進化成裁決獸時所需的資料碎片。",
+			"soulName": "저스티몬의 데이터 조각",
+			"description": "저스티몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070190",
-			"soulName": "八腳馬獸的資料碎片",
-			"description": "進化成八腳馬獸時所需的資料碎片。",
+			"soulName": "슬레이프몬의 데이터 조각",
+			"description": "슬레이프몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070191",
-			"soulName": "究極天使獸的資料碎片",
-			"description": "進化成究極天使獸時所需的資料碎片。",
+			"soulName": "세라피몬의 데이터 조각",
+			"description": "세라피몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070192",
-			"soulName": "撒多格杜獸的資料碎片",
-			"description": "進化成撒多格杜獸時所需的資料碎片。",
+			"soulName": "세인트가르고몬의 데이터 조각",
+			"description": "세인트가르고몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070193",
-			"soulName": "虎蜂獸的資料碎片",
-			"description": "進化成虎蜂獸時所需的資料碎片。",
+			"soulName": "타이거베스파몬의 데이터 조각",
+			"description": "타이거베스파몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070194",
-			"soulName": "泰坦獸的資料碎片",
-			"description": "進化成泰坦獸時所需的資料碎片。",
+			"soulName": "타이타몬의 데이터 조각",
+			"description": "타이타몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070195",
-			"soulName": "狄安娜獸的資料碎片",
-			"description": "進化成狄安娜獸時所需的資料碎片。",
+			"soulName": "디아나몬의 데이터 조각",
+			"description": "디아나몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070196",
-			"soulName": "超惡魔獸的資料碎片",
-			"description": "進化成超惡魔獸時所需的資料碎片。",
+			"soulName": "디아블로몬의 데이터 조각",
+			"description": "디아블로몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070197",
-			"soulName": "究極魔獸的資料碎片",
-			"description": "進化成究極魔獸時所需的資料碎片。",
+			"soulName": "마왕몬의 데이터 조각",
+			"description": "마왕몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070198",
-			"soulName": "紅蓮騎士獸的資料碎片",
-			"description": "進化成紅蓮騎士獸時所需的資料碎片。",
+			"soulName": "듀크몬의 데이터 조각",
+			"description": "듀크몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070199",
-			"soulName": "杜納斯獸的資料碎片",
-			"description": "進化成杜納斯獸時所需的資料碎片。",
+			"soulName": "듀나스몬의 데이터 조각",
+			"description": "듀나스몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070200",
-			"soulName": "芳香獸的資料碎片",
-			"description": "進化成芳香獸時所需的資料碎片。",
+			"soulName": "두프트몬의 데이터 조각",
+			"description": "두프트몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070201",
-			"soulName": "高級安杜路獸的資料碎片",
-			"description": "進化成高級安杜路獸時所需的資料碎片。",
+			"soulName": "하이안드로몬의 데이터 조각",
+			"description": "하이안드로몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070202",
-			"soulName": "巴爾巴獸的資料碎片",
-			"description": "進化成巴爾巴獸時所需的資料碎片。",
+			"soulName": "발바몬의 데이터 조각",
+			"description": "발바몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070203",
-			"soulName": "番長獅子獸的資料碎片",
-			"description": "進化成番長獅子獸時所需的資料碎片。",
+			"soulName": "반쵸레오몬의 데이터 조각",
+			"description": "반쵸레오몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070204",
-			"soulName": "小丑皇的資料碎片",
-			"description": "進化成小丑皇時所需的資料碎片。",
+			"soulName": "피에몬의 데이터 조각",
+			"description": "피에몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070205",
-			"soulName": "木偶獸的資料碎片",
-			"description": "進化成木偶獸時所需的資料碎片。",
+			"soulName": "피노키몬의 데이터 조각",
+			"description": "피노키몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070206",
-			"soulName": "白金鼻涕獸的資料碎片",
-			"description": "進化成白金鼻涕獸時所需的資料碎片。",
+			"soulName": "플래티넘워매몬의 데이터 조각",
+			"description": "플래티넘워매몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070207",
-			"soulName": "黑暗戰鬥暴龍獸的資料碎片",
-			"description": "進化成黑暗戰鬥暴龍獸時所需的資料碎片。",
+			"soulName": "블랙워그레이몬의 데이터 조각",
+			"description": "블랙워그레이몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070208",
-			"soulName": "王子豆豆獸的資料碎片",
-			"description": "進化成王子豆豆獸時所需的資料碎片。",
+			"soulName": "프린스콩알몬의 데이터 조각",
+			"description": "프린스콩알몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070209",
-			"soulName": "蛇頸龍獸的資料碎片",
-			"description": "進化成蛇頸龍獸時所需的資料碎片。",
+			"soulName": "플레시오몬의 데이터 조각",
+			"description": "플레시오몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070210",
-			"soulName": "力神比多獸的資料碎片",
-			"description": "進化成力神比多獸時所需的資料碎片。",
+			"soulName": "헤라클레스캅테리몬의 데이터 조각",
+			"description": "헤라클레스캅테리몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070211",
-			"soulName": "墮天地獄獸的資料碎片",
-			"description": "進化成墮天地獄獸時所需的資料碎片。",
+			"soulName": "베르제브몬의 데이터 조각",
+			"description": "베르제브몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070212",
-			"soulName": "貝爾菲獸SM的資料碎片",
-			"description": "進化成貝爾菲獸SM時所需的資料碎片。",
+			"soulName": "벨페몬SM의 데이터 조각",
+			"description": "벨페몬SM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070213",
-			"soulName": "鳳凰獸的資料碎片",
-			"description": "進化成鳳凰獸時所需的資料碎片。",
+			"soulName": "페닉스몬의 데이터 조각",
+			"description": "페닉스몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070214",
-			"soulName": "聖龍獸的資料碎片",
-			"description": "進化成聖龍獸時所需的資料碎片。",
+			"soulName": "홀리드라몬의 데이터 조각",
+			"description": "홀리드라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070215",
-			"soulName": "科學怪人獸的資料碎片",
-			"description": "進化成科學怪人獸時所需的資料碎片。",
+			"soulName": "나사몬의 데이터 조각",
+			"description": "나사몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070216",
-			"soulName": "混沌神魔獸的資料碎片",
-			"description": "進化成混沌神魔獸時所需的資料碎片。",
+			"soulName": "마스테몬의 데이터 조각",
+			"description": "마스테몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070217",
-			"soulName": "海天使獸的資料碎片",
-			"description": "進化成海天使獸時所需的資料碎片。",
+			"soulName": "마린엔젤몬의 데이터 조각",
+			"description": "마린엔젤몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070218",
-			"soulName": "密涅瓦獸的資料碎片",
-			"description": "進化成密涅瓦獸時所需的資料碎片。",
+			"soulName": "미네르바몬의 데이터 조각",
+			"description": "미네르바몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070219",
-			"soulName": "幻影迦奧迦獸的資料碎片",
-			"description": "進化成幻影迦奧迦獸時所需的資料碎片。",
+			"soulName": "미라쥬가오가몬의 데이터 조각",
+			"description": "미라쥬가오가몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070220",
-			"soulName": "機械邪龍獸的資料碎片",
-			"description": "進化成機械邪龍獸時所需的資料碎片。",
+			"soulName": "파워드라몬의 데이터 조각",
+			"description": "파워드라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070221",
-			"soulName": "鋼鐵悟空獸的資料碎片",
-			"description": "進化成鋼鐵悟空獸時所需的資料碎片。",
+			"soulName": "메탈에테몬의 데이터 조각",
+			"description": "메탈에테몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070222",
-			"soulName": "鋼鐵加魯魯獸的資料碎片",
-			"description": "進化成鋼鐵加魯魯獸時所需的資料碎片。",
+			"soulName": "메탈가루몬의 데이터 조각",
+			"description": "메탈가루몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070223",
-			"soulName": "鋼鐵加魯魯獸(黑)的資料碎片",
-			"description": "進化成鋼鐵加魯魯獸(黑)時所需的資料碎片。",
+			"soulName": "메탈가루몬(흑)의 데이터 조각",
+			"description": "메탈가루몬(흑)으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070224",
-			"soulName": "鋼鐵海龍獸的資料碎片",
-			"description": "進化成鋼鐵海龍獸時所需的資料碎片。",
+			"soulName": "메탈시드라몬의 데이터 조각",
+			"description": "메탈시드라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070225",
-			"soulName": "終極巨龍獸的資料碎片",
-			"description": "進化成終極巨龍獸時所需的資料碎片。",
+			"soulName": "러스트티라노몬의 데이터 조각",
+			"description": "러스트티라노몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070226",
-			"soulName": "利維坦獸的資料碎片",
-			"description": "進化成利維坦獸時所需的資料碎片。",
+			"soulName": "리바이어몬의 데이터 조각",
+			"description": "리바이어몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070227",
-			"soulName": "莉莉絲獸的資料碎片",
-			"description": "進化成莉莉絲獸時所需的資料碎片。",
+			"soulName": "리리스몬의 데이터 조각",
+			"description": "리리스몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070228",
-			"soulName": "鴉神獸的資料碎片",
-			"description": "進化成鴉神獸時所需的資料碎片。",
+			"soulName": "레이브몬의 데이터 조각",
+			"description": "레이브몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070229",
-			"soulName": "劍皇獸的資料碎片",
-			"description": "進化成劍皇獸時所需的資料碎片。",
+			"soulName": "로드나이트몬의 데이터 조각",
+			"description": "로드나이트몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070230",
-			"soulName": "薔薇獸的資料碎片",
-			"description": "進化成薔薇獸時所需的資料碎片。",
+			"soulName": "로제몬의 데이터 조각",
+			"description": "로제몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070231",
-			"soulName": "蓮花獸的資料碎片",
-			"description": "進化成蓮花獸時所需的資料碎片。",
+			"soulName": "로터스몬의 데이터 조각",
+			"description": "로터스몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070232",
-			"soulName": "帝皇龍甲獸PM的資料碎片",
-			"description": "進化成帝皇龍甲獸PM時所需的資料碎片。",
+			"soulName": "황제드라몬PM의 데이터 조각",
+			"description": "황제드라몬PM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070233",
-			"soulName": "奧米加獸的資料碎片",
-			"description": "進化成奧米加獸時所需的資料碎片。",
+			"soulName": "오메가몬의 데이터 조각",
+			"description": "오메가몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070234",
-			"soulName": "黑色奧米加獸的資料碎片",
-			"description": "進化成黑色奧米加獸時所需的資料碎片。",
+			"soulName": "오메가몬 즈왈트의 데이터 조각",
+			"description": "오메가몬 즈왈트로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070235",
-			"soulName": "芳香獸LM的資料碎片",
-			"description": "進化成芳香獸LM時所需的資料碎片。",
+			"soulName": "두프트몬LM의 데이터 조각",
+			"description": "두프트몬LM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070236",
-			"soulName": "貝爾菲獸RM的資料碎片",
-			"description": "進化成貝爾菲獸RM時所需的資料碎片。",
+			"soulName": "벨페몬RM의 데이터 조각",
+			"description": "벨페몬RM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070237",
-			"soulName": "光明獸SM的資料碎片",
-			"description": "進化成光明獸SM時所需的資料碎片。",
+			"soulName": "루체몬SM의 데이터 조각",
+			"description": "루체몬SM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070239",
-			"soulName": "金甲龍獸的資料碎片",
-			"description": "進化成金甲龍獸時所需的資料碎片。",
+			"soulName": "매그너몬의 데이터 조각",
+			"description": "매그너몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070243",
-			"soulName": "大緬因貓獸VM的資料碎片",
-			"description": "進化成大緬因貓獸VM時所需的資料碎片。",
+			"soulName": "메이크랙몬VM의 데이터 조각",
+			"description": "메이크랙몬VM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070283",
-			"soulName": "金剛武神獸的資料碎片",
-			"description": "進化成金剛武神獸時所需的資料碎片。",
+			"soulName": "스사노오몬의 데이터 조각",
+			"description": "스사노오몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070286",
-			"soulName": "黑色奧米加獸D的資料碎片",
-			"description": "進化成黑色奧米加獸D時所需的資料碎片。",
+			"soulName": "오메가몬 즈왈트D의 데이터 조각",
+			"description": "오메가몬 즈왈트D로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070288",
-			"soulName": "奧米加獸Alter-B的資料碎片",
-			"description": "進化成奧米加獸Alter-B時所需的資料碎片。",
+			"soulName": "오메가몬 Alter-B의 데이터 조각",
+			"description": "오메가몬 Alter-B로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070289",
-			"soulName": "紅蓮騎士獸CM的資料碎片",
-			"description": "進化成紅蓮騎士獸CM時所需的資料碎片。",
+			"soulName": "듀크몬CM의 데이터 조각",
+			"description": "듀크몬CM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070291",
-			"soulName": "奧米加咆哮獸的資料碎片",
-			"description": "進化成奧米加咆哮獸時所需的資料碎片。",
+			"soulName": "오메가샤우트몬의 데이터 조각",
+			"description": "오메가샤우트몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070293",
-			"soulName": "獵龍獸的資料碎片",
-			"description": "進化成獵龍獸時所需的資料碎片。",
+			"soulName": "아레스타드라몬의 데이터 조각",
+			"description": "아레스타드라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070303",
-			"soulName": "閃光暴龍獸BM的資料碎片",
-			"description": "進化成閃光暴龍獸BM時所需的資料碎片。",
+			"soulName": "샤인그레이몬BM의 데이터 조각",
+			"description": "샤인그레이몬BM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070304",
-			"soulName": "幻影迦奧迦獸BM的資料碎片",
-			"description": "進化成幻影迦奧迦獸BM時所需的資料碎片。",
+			"soulName": "미라쥬가오가몬BM의 데이터 조각",
+			"description": "미라쥬가오가몬BM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070305",
-			"soulName": "鴉神獸BM的資料碎片",
-			"description": "進化成鴉神獸BM時所需的資料碎片。",
+			"soulName": "레이브몬BM의 데이터 조각",
+			"description": "레이브몬BM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070306",
-			"soulName": "薔薇獸BM的資料碎片",
-			"description": "進化成薔薇獸BM時所需的資料碎片。",
+			"soulName": "로제몬BM의 데이터 조각",
+			"description": "로제몬BM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070311",
-			"soulName": "基米拉獸的資料碎片",
-			"description": "進化成基米拉獸時所需的資料碎片。",
+			"soulName": "키메라몬의 데이터 조각",
+			"description": "키메라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070312",
-			"soulName": "千年獸的資料碎片",
-			"description": "進化成千年獸時所需的資料碎片。",
+			"soulName": "밀레니엄몬의 데이터 조각",
+			"description": "밀레니엄몬의으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070313",
-			"soulName": "混沌龍獸的資料碎片",
-			"description": "混沌龍獸時所需的資料碎片。",
+			"soulName": "카오스드라몬의 데이터 조각",
+			"description": "카오스드라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070317",
-			"soulName": "斬龍獸的資料碎片",
-			"description": "進化成斬龍獸時所需的資料碎片。",
+			"soulName": "슬레이어드라몬의 데이터 조각",
+			"description": "슬레이어드라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070320",
-			"soulName": "破壞龍獸的資料碎片",
-			"description": "進化成破壞龍獸時所需的資料碎片。",
+			"soulName": "브레이크드라몬의 데이터 조각",
+			"description": "브레이크드라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070326",
-			"soulName": "迪朗達獸的資料碎片",
-			"description": "進化成迪朗達獸時所需的資料碎片。",
+			"soulName": "듀란다몬 데이터 조각",
+			"description": "듀란다몬드라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070327",
-			"soulName": "戰鬥暴龍獸X抗體的資料碎片",
-			"description": "進化成戰鬥暴龍獸X抗體時所需的資料碎片。",
+			"soulName": "워그레이몬X항체의 데이터 조각",
+			"description": "워그레이몬X항체으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070328",
-			"soulName": "鋼鐵加魯魯獸X抗體的資料碎片",
-			"description": "進化成鋼鐵加魯魯獸X抗體時所需的資料碎片。",
+			"soulName": "메탈가루몬X항체의 데이터 조각",
+			"description": "메탈가루몬X항체으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070329",
-			"soulName": "閃光暴龍獸RM的資料碎片",
-			"description": "進化成閃光暴龍獸RM時所需的資料碎片。",
+			"soulName": "샤인그레이몬RM의 데이터 조각",
+			"description": "샤인그레이몬RM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070330",
-			"soulName": "拉貴爾獸的資料碎片",
-			"description": "拉貴爾獸時所需的資料碎片。",
+			"soulName": "라구엘몬의 데이터 조각",
+			"description": "라구엘몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070331",
-			"soulName": "紅蓮騎士獸X抗體的資料碎片",
-			"description": "進化成紅蓮騎士獸X抗體時所需的資料碎片。",
+			"soulName": "듀크몬X항체의 데이터 조각",
+			"description": "듀크몬X항체으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070332",
-			"soulName": "大王悟空獸的資料碎片",
-			"description": "進化成大王悟空獸時所需的資料碎片。",
+			"soulName": "킹에테몬 의 데이터 조각",
+			"description": "킹에테몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070333",
-			"soulName": "古代暴龍獸的資料碎片",
-			"description": "古代暴龍獸時所需的資料碎片。",
+			"soulName": "에이션트그레이몬 데이터 조각",
+			"description": "에이션트그레이몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070334",
-			"soulName": "B戰鬥暴龍獸X的資料碎片",
-			"description": "B戰鬥暴龍獸X時所需的資料碎片。",
+			"soulName": "블랙워그레이몬X 데이터 조각",
+			"description": "블랙워그레이몬X으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070335",
-			"soulName": "奧米加獸X抗體的資料碎片",
-			"description": "進化成奧米加獸X抗體時所需的資料碎片。",
+			"soulName": "오메가몬X항체의 데이터 조각",
+			"description": "오메가몬X항체으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070336",
-			"soulName": "金甲龍獸X抗體的資料碎片",
-			"description": "進化成金甲龍獸X抗體時所需的資料碎片。",
+			"soulName": "매그너몬X항체의 데이터 조각",
+			"description": "매그너몬X항체으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070337",
-			"soulName": "神聖天女獸FM的資料碎片",
-			"description": "進化成神聖天女獸FM時所需的資料碎片。",
+			"soulName": "오파니몬FM의 데이터 조각",
+			"description": "오파니몬FM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070338",
-			"soulName": "究極V龍獸X抗體的資料碎片",
-			"description": "進化成究極V龍獸X抗體時所需的資料碎片。",
+			"soulName": "알포스브이드라몬X의 데이터 조각",
+			"description": "알포스브이드라몬X으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070339",
-			"soulName": "奧米加獸MM的資料碎片",
-			"description": "進化成奧米加獸MM時所需的資料碎片。",
+			"soulName": "오메가몬MM의 데이터 조각",
+			"description": "오메가몬MM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070340",
-			"soulName": "滅世魔獸的資料碎片",
-			"description": "滅世魔獸時所需的資料碎片。",
+			"soulName": "아마게몬의 데이터 조각",
+			"description": "아마게몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070341",
-			"soulName": "杜納斯獸X抗體的資料碎片",
-			"description": "杜納斯獸X抗體時所需的資料碎片。",
+			"soulName": "듀나스몬X항체의 데이터 조각",
+			"description": "듀나스몬X항체으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070342",
-			"soulName": "古代加魯魯獸的資料碎片",
-			"description": "進化成電古代加魯魯獸時所需的資料碎片。",
+			"soulName": "에이션트가루몬의 데이터 조각",
+			"description": "에이션트가루몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070343",
-			"soulName": "墮天地獄獸X抗體的資料碎片",
-			"description": "進化成墮天地獄獸X抗體時所需的資料碎片。",
+			"soulName": "베르제브몬X항체의 데이터 조각",
+			"description": "베르제브몬X항체으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070344",
-			"soulName": "電光暴龍獸的資料碎片",
-			"description": "進化成電光暴龍獸時所需的資料碎片。",
+			"soulName": "블리츠그레이몬의 데이터 조각",
+			"description": "블리츠그레이몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070345",
-			"soulName": "偃月加魯魯獸的資料碎片",
-			"description": "進化成偃月加魯魯獸時所需的資料碎片。",
+			"soulName": "크레스가루몬의 데이터 조각",
+			"description": "크레스가루몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070346",
-			"soulName": "奧米加獸Alter-S的資料碎片",
-			"description": "進化成奧米加獸Alter-S時所需的資料碎片。",
+			"soulName": "오메가몬Alter-S의 데이터 조각",
+			"description": "오메가몬Alter-S으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070347",
-			"soulName": "芳香獸X抗體的資料碎片",
-			"description": "進化成芳香獸X抗體時所需的資料碎片。",
+			"soulName": "두프트몬X항체의 데이터 조각",
+			"description": "두프트몬X항체으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070348",
-			"soulName": "顱骨獸X抗體的資料碎片",
-			"description": "進化成顱骨獸X抗體時所需的資料碎片。",
+			"soulName": "크레니엄몬X항체의 데이터 조각",
+			"description": "크레니엄몬X항체으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070349",
-			"soulName": "啟示錄獸的資料碎片",
-			"description": "進化成啟示錄獸時所需的資料碎片。",
+			"soulName": "아포카리몬의 데이터 조각",
+			"description": "아포카리몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070350",
-			"soulName": "八腳馬獸X抗體的資料碎片",
-			"description": "進化成八腳馬獸X抗體時所需的資料碎片。",
+			"soulName": "슬레이프몬X항체의 데이터 조각",
+			"description": "슬레이프몬X항체으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070351",
-			"soulName": "墮天地獄獸 BM的資料碎片",
-			"description": "進化成墮天地獄獸 BM時所需的資料碎片。",
+			"soulName": "베르제브몬 BM 데이터 조각",
+			"description": "베르제브몬 BM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1070352",
-			"soulName": "傑斯獸X抗體的資料碎片",
-			"description": "進化成傑斯獸X抗體時所需的資料碎片。",
+			"soulName": "제스몬X항체 데이터 조각",
+			"description": "제스몬X항체으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076006",
-			"soulName": "閃光暴龍獸的資料碎片",
-			"description": "閃光暴龍獸的資料碎片",
+			"soulName": "샤인그레이몬의 데이터 조각",
+			"description": "샤인그레이몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076012",
-			"soulName": "力神比多獸的資料碎片",
-			"description": "力神比多獸的資料碎片",
+			"soulName": "헤라클레스캅테리몬의 데이터 조각",
+			"description": "헤라클레스캅테리몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076018",
-			"soulName": "凱王獸的資料碎片",
-			"description": "凱王獸的資料碎片",
+			"soulName": "가이오몬의 데이터 조각",
+			"description": "가이오몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076024",
-			"soulName": "沙古牙獸的資料碎片",
-			"description": "進化成沙古牙獸時所需的資料碎片。",
+			"soulName": "샤크라몬의 데이터 조각",
+			"description": "샤크라몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076030",
-			"soulName": "蛇頸龍獸的資料碎片",
-			"description": "進化成蛇頸龍獸時所需的資料碎片。",
+			"soulName": "플레시오몬 데이터 조각",
+			"description": "플레시오몬 으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076036",
-			"soulName": "利維坦獸的資料碎片",
-			"description": "進化成利維坦獸時所需的資料碎片。",
+			"soulName": "리바이어몬의 데이터 조각",
+			"description": "리바이어몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076042",
-			"soulName": "狄安娜獸的資料碎片",
-			"description": "進化成狄安娜獸時所需的資料碎片。",
+			"soulName": "디아나몬의 데이터 조각",
+			"description": "디아나몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076048",
-			"soulName": "墮天地獄獸的資料碎片",
-			"description": "進化成墮天地獄獸時所需的資料碎片。",
+			"soulName": "베르제브몬의 데이터 조각",
+			"description": "베르제브몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076054",
-			"soulName": "巴爾巴獸的資料碎片",
-			"description": "進化成巴爾巴獸時所需的資料碎片。",
+			"soulName": "발바몬의 데이터 조각",
+			"description": "발바몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076060",
-			"soulName": "究極魔獸的資料碎片",
-			"description": "進化成究極魔獸時所需的資料碎片。",
+			"soulName": "마왕몬의 데이터 조각",
+			"description": "마왕몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076066",
-			"soulName": "莉莉絲獸的資料碎片",
-			"description": "進化成莉莉絲獸時所需的資料碎片。",
+			"soulName": "리리스몬의 데이터 조각",
+			"description": "리리스몬으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076072",
-			"soulName": "貝爾菲獸SM的資料碎片",
-			"description": "進化成貝爾菲獸SM時所需的資料碎片。",
+			"soulName": "벨페몬SM의 데이터 조각",
+			"description": "벨페몬SM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "1076078",
-			"soulName": "光明獸SM的資料碎片",
-			"description": "進化成光明獸SM時所需的資料碎片。",
+			"soulName": "루체몬SM의 데이터 조각",
+			"description": "루체몬SM으로 진화할 때 필요한 데이터 조각",
 			"soulGroup": "1",
 			"rare": "5",
 			"priority": "1"
 		},
 		{
 			"soulId": "2000001",
-			"soulName": "無的外掛ver1.0",
-			"description": "進化時所需，包含「無」屬性微弱力量的程式。",
+			"soulName": "무속성 플러그인 ver1.0",
+			"description": "미약한 '무속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2000002",
-			"soulName": "無的外掛ver2.0",
-			"description": "進化時所需，包含「無」屬性力量的程式。",
+			"soulName": "무속성 플러그인 ver2.0",
+			"description": "'무속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2000003",
-			"soulName": "無的外掛ver3.0",
-			"description": "進化時所需，包含「無」屬性稍強力量的程式。",
+			"soulName": "무속성 플러그인 ver3.0",
+			"description": "강력한 '무속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2000004",
-			"soulName": "無的外掛ver4.0",
-			"description": "進化時所需，包含「無」屬性強大力量的程式。",
+			"soulName": "무속성 플러그인 ver4.0",
+			"description": "막대한 '무속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2010001",
-			"soulName": "火的外掛ver1.0",
-			"description": "進化時所需，包含「火」屬性微弱力量的程式。",
+			"soulName": "불속성 플러그인 ver1.0",
+			"description": "미약한 '불속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2010002",
-			"soulName": "火的外掛ver2.0",
-			"description": "進化時所需，包含「火」屬性力量的程式。",
+			"soulName": "불속성 플러그인 ver2.0",
+			"description": "'불속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2010003",
-			"soulName": "火的外掛ver3.0",
-			"description": "進化時所需，包含「火」屬性稍強力量的程式。",
+			"soulName": "불속성 플러그인 ver3.0",
+			"description": "강력한 '불속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2010004",
-			"soulName": "火的外掛ver4.0",
-			"description": "進化時所需，包含「火」屬性強大力量的程式。",
+			"soulName": "불속성 플러그인 ver4.0",
+			"description": "막대한 '불속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2020001",
-			"soulName": "水的外掛ver1.0",
-			"description": "進化時所需，包含「水」屬性微弱力量的程式。",
+			"soulName": "물속성 플러그인 ver1.0",
+			"description": "미약한 '물속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2020002",
-			"soulName": "水的外掛ver2.0",
-			"description": "進化時所需，包含「水」屬性力量的程式。",
+			"soulName": "물속성 플러그인 ver2.0",
+			"description": "'물속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2020003",
-			"soulName": "水的外掛ver3.0",
-			"description": "進化時所需，包含「水」屬性稍強力量的程式。",
+			"soulName": "물속성 플러그인 ver3.0",
+			"description": "강력한 '물속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2020004",
-			"soulName": "水的外掛ver4.0",
-			"description": "進化時所需，包含「水」屬性強大力量的程式。",
+			"soulName": "물속성 플러그인 ver4.0",
+			"description": "막대한 '물속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2030001",
-			"soulName": "雷的外掛ver1.0",
-			"description": "進化時所需，包含「雷」屬性微弱力量的程式。",
+			"soulName": "번개속성 플러그인 ver1.0",
+			"description": "미약한 '번개속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2030002",
-			"soulName": "雷的外掛ver2.0",
-			"description": "進化時所需，包含「雷」屬性力量的程式。",
+			"soulName": "번개속성 플러그인 ver2.0",
+			"description": "'번개속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2030003",
-			"soulName": "雷的外掛ver3.0",
-			"description": "進化時所需，包含「雷」屬性稍強力量的程式。",
+			"soulName": "번개속성 플러그인 ver3.0",
+			"description": "강력한 '번개속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2030004",
-			"soulName": "雷的外掛ver4.0",
-			"description": "進化時所需，包含「雷」屬性強大力量的程式。",
+			"soulName": "번개속성 플러그인 ver4.0",
+			"description": "막대한 '번개속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2040001",
-			"soulName": "自然的外掛ver1.0",
-			"description": "進化時所需，包含「自然」屬性微弱力量的程式。",
+			"soulName": "자연속성 플러그인 ver1.0",
+			"description": "미약한 '자연속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2040002",
-			"soulName": "自然的外掛ver2.0",
-			"description": "進化時所需，包含「自然」屬性力量的程式。",
+			"soulName": "자연속성 플러그인 ver2.0",
+			"description": "'자연속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2040003",
-			"soulName": "自然的外掛ver3.0",
-			"description": "進化時所需，包含「自然」屬性稍強力量的程式。",
+			"soulName": "자연속성 플러그인 ver3.0",
+			"description": "강력한 '자연속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2040004",
-			"soulName": "自然的外掛ver4.0",
-			"description": "進化時所需，包含「自然」屬性強大力量的程式。",
+			"soulName": "자연속성 플러그인 ver4.0",
+			"description": "막대한 '자연속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2050001",
-			"soulName": "光的外掛ver1.0",
-			"description": "進化時所需，包含「光」屬性微弱力量的程式。",
+			"soulName": "빛속성 플러그인 ver1.0",
+			"description": "미약한 '빛속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2050002",
-			"soulName": "光的外掛ver2.0",
-			"description": "進化時所需，包含「光」屬性力量的程式。",
+			"soulName": "빛속성 플러그인 ver2.0",
+			"description": "'빛속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2050003",
-			"soulName": "光的外掛ver3.0",
-			"description": "進化時所需，包含「光」屬性稍強力量的程式。",
+			"soulName": "빛속성 플러그인 ver3.0",
+			"description": "강력한 '빛속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2050004",
-			"soulName": "光的外掛ver4.0",
-			"description": "進化時所需，包含「光」屬性強大力量的程式。",
+			"soulName": "빛속성 플러그인 ver4.0",
+			"description": "막대한 '빛속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "2060001",
-			"soulName": "闇的外掛ver1.0",
-			"description": "進化時所需，包含「闇」屬性微弱力量的程式。",
+			"soulName": "어둠속성 플러그인 ver1.0",
+			"description": "미약한 '어둠속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "2060002",
-			"soulName": "闇的外掛ver2.0",
-			"description": "進化時所需，包含「闇」屬性力量的程式。",
+			"soulName": "어둠속성 플러그인 ver2.0",
+			"description": "'어둠속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "2",
 			"priority": "1"
 		},
 		{
 			"soulId": "2060003",
-			"soulName": "闇的外掛ver3.0",
-			"description": "進化時所需，包含「闇」屬性稍強力量的程式。",
+			"soulName": "어둠속성 플러그인 ver3.0",
+			"description": "강력한 '어둠속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "3",
 			"priority": "1"
 		},
 		{
 			"soulId": "2060004",
-			"soulName": "闇的外掛ver4.0",
-			"description": "進化時所需，包含「闇」屬性強大力量的程式。",
+			"soulName": "어둠속성 플러그인 ver4.0",
+			"description": "막대한 '어둠속성' 힘이 내장된 프로그램. 진화할 때 필요하다.",
 			"soulGroup": "0",
 			"rare": "4",
 			"priority": "1"
 		},
 		{
 			"soulId": "3000001",
-			"soulName": "核心外掛ver1.0",
-			"description": "爆炎系數碼寶貝進化時所需的程式。",
+			"soulName": "코어 플러그인 ver1.0",
+			"description": "볼케닉 계열 디지몬이 진화할 때 필요한 프로그램",
 			"soulGroup": "2",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "3000002",
-			"soulName": "核心外掛ver2.0",
-			"description": "爆炎系數碼寶貝進化時所需的程式。",
+			"soulName": "코어 플러그인 ver2.0",
+			"description": "볼케닉 계열 디지몬이 진화할 때 필요한 프로그램",
 			"soulGroup": "2",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "3000003",
-			"soulName": "核心外掛ver3.0",
-			"description": "爆炎系數碼寶貝進化時所需的程式。",
+			"soulName": "코어 플러그인 ver3.0",
+			"description": "볼케닉 계열 디지몬이 진화할 때 필요한 프로그램",
 			"soulGroup": "2",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "3000004",
-			"soulName": "表層外掛ver1.0",
-			"description": "鋼鐵系數碼寶貝進化時所需的程式。",
+			"soulName": "할 플러그인 ver1.0",
+			"description": "메탈릭 계열 디지몬이 진화할 때 필요한 프로그램",
 			"soulGroup": "2",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "3000005",
-			"soulName": "表層外掛ver2.0",
-			"description": "鋼鐵系數碼寶貝進化時所需的程式。",
+			"soulName": "할 플러그인 ver2.0",
+			"description": "메탈릭 계열 디지몬이 진화할 때 필요한 프로그램",
 			"soulGroup": "2",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "3000006",
-			"soulName": "表層外掛ver3.0",
-			"description": "鋼鐵系數碼寶貝進化時所需的程式。",
+			"soulName": "할 플러그인 ver3.0",
+			"description": "메탈릭 계열 디지몬이 진화할 때 필요한 프로그램",
 			"soulGroup": "2",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000001",
-			"soulName": "無的升級資料",
-			"description": "幻生系數碼寶貝進行型態升級時所需的程式。",
+			"soulName": "무의 버전업 데이터",
+			"description": "환생계 디지몬을 버전업할 때 필요한 프로그램",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000002",
-			"soulName": "火的升級資料",
-			"description": "陽炎系數碼寶貝進行型態升級時所需的程式。",
+			"soulName": "불의 버전업 데이터",
+			"description": "양염계 디지몬을 버전업할 때 필요한 프로그램",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000003",
-			"soulName": "水的升級資料",
-			"description": "冰河系數碼寶貝進行型態升級時所需的程式。",
+			"soulName": "물의 버전업 데이터",
+			"description": "빙하계 디지몬을 버전업할 때 필요한 프로그램",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000004",
-			"soulName": "雷的升級資料",
-			"description": "電磁系數碼寶貝進行型態升級時所需的程式。",
+			"soulName": "번개의 버전업 데이터",
+			"description": "전자계 디지몬을 버전업할 때 필요한 프로그램",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000005",
-			"soulName": "自然的升級資料",
-			"description": "大地系數碼寶貝進行型態升級時所需的程式。",
+			"soulName": "자연의 버전업 데이터",
+			"description": "대지계 디지몬을 버전업할 때 필요한 프로그램",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000006",
-			"soulName": "光的升級資料",
-			"description": "光芒系數碼寶貝進行型態升級時所需的程式。",
+			"soulName": "빛의 버전업 데이터",
+			"description": "광망계 디지몬을 버전업할 때 필요한 프로그램",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000007",
-			"soulName": "闇的升級資料",
-			"description": "深淵系數碼寶貝進行型態升級時所需的程式。",
+			"soulName": "어둠의 버전업 데이터",
+			"description": "심연계 디지몬을 버전업할 때 필요한 프로그램",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000009",
-			"soulName": "核心升級資料",
-			"description": "爆炎系數碼寶貝進行型態升級時所需的程式。",
+			"soulName": "코어 버전업 데이터",
+			"description": "볼케닉 계열 디지몬을 버전업할 때 필요한 프로그램",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "4000010",
-			"soulName": "表層升級資料",
-			"description": "鋼鐵系數碼寶貝進行型態升級時所需的程式。",
+			"soulName": "할 버전업 데이터",
+			"description": "메탈릭 계열 디지몬을 버전업할 때 필요한 프로그램",
 			"soulGroup": "3",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000001",
-			"soulName": "無的重構工具",
-			"description": "已型態升級的幻生系數碼寶貝，進行異常狀態抗性變化時所需的卡片媒體。",
+			"soulName": "무의 리팩터",
+			"description": "버전업한 환생계 디지몬의 상태이상 내성을 변화시킬 때 필요한 카드 매체",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000002",
-			"soulName": "火的重構工具",
-			"description": "已型態升級的陽炎系數碼寶貝，進行異常狀態抗性變化時所需的卡片媒體。",
+			"soulName": "불의 리팩터",
+			"description": "버전업한 양염계 디지몬의 상태이상 내성을 변화시킬 때 필요한 카드 매체",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000003",
-			"soulName": "水的重構工具",
-			"description": "已型態升級的冰河系數碼寶貝，進行異常狀態抗性變化時所需的卡片媒體。",
+			"soulName": "물의 리팩터",
+			"description": "버전업한 빙하계 디지몬의 상태이상 내성을 변화시킬 때 필요한 카드 매체",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000004",
-			"soulName": "雷的重構工具",
-			"description": "已型態升級的電磁系數碼寶貝，進行異常狀態抗性變化時所需的卡片媒體。",
+			"soulName": "번개의 리팩터",
+			"description": "버전업한 전자계 디지몬의 상태이상 내성을 변화시킬 때 필요한 카드 매체",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000005",
-			"soulName": "自然的重構工具",
-			"description": "已型態升級的大地系數碼寶貝，進行異常狀態抗性變化時所需的卡片媒體。",
+			"soulName": "자연의 리팩터",
+			"description": "버전업한 대지계 디지몬의 상태이상 내성을 변화시킬 때 필요한 카드 매체",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000006",
-			"soulName": "光的重構工具",
-			"description": "已型態升級的光芒系數碼寶貝，進行異常狀態抗性變化時所需的卡片媒體。",
+			"soulName": "빛의 리팩터",
+			"description": "버전업한 광망계 디지몬의 상태이상 내성을 변화시킬 때 필요한 카드 매체",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"
 		},
 		{
 			"soulId": "5000007",
-			"soulName": "闇的重構工具",
-			"description": "已型態升級的深淵系數碼寶貝，進行異常狀態抗性變化時所需的卡片媒體。",
+			"soulName": "어둠의 리팩터",
+			"description": "버전업한 심연계 디지몬의 상태이상 내성을 변화시킬 때 필요한 카드 매체",
 			"soulGroup": "4",
 			"rare": "1",
 			"priority": "1"

@@ -14,7 +14,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "究極V龍獸的HP變為1.5倍"
+			"detail": "알포스브이드라몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "296",
@@ -30,7 +30,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極V龍獸的ATK變為2倍"
+			"detail": "알포스브이드라몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "297",
@@ -46,7 +46,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極V龍獸的S-ATK變為2倍"
+			"detail": "알포스브이드라몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "298",
@@ -62,7 +62,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "究極V龍獸X抗體的HP變為1.5倍"
+			"detail": "알포스브이드라몬X의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "299",
@@ -78,7 +78,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極V龍獸X抗體的ATK變為2倍"
+			"detail": "알포스브이드라몬X의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "300",
@@ -94,7 +94,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極V龍獸X抗體的S-ATK變為2倍"
+			"detail": "알포스브이드라몬X의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "301",
@@ -110,7 +110,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸MM的ATK變為2倍"
+			"detail": "오메가몬MM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "302",
@@ -126,7 +126,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸MM的S-ATK變為2倍"
+			"detail": "오메가몬MM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "303",
@@ -142,7 +142,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "奧米加獸MM的HP變為3倍"
+			"detail": "오메가몬MM의 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "304",
@@ -158,7 +158,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "拉貴爾獸的ATK變為2倍"
+			"detail": "라구엘몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "305",
@@ -174,7 +174,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "拉貴爾獸的S-ATK變為2倍"
+			"detail": "라구엘몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "306",
@@ -190,7 +190,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "拉貴爾獸的HP變為3倍"
+			"detail": "라구엘몬의 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "307",
@@ -206,7 +206,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "神聖天女獸FM的ATK變為2倍"
+			"detail": "오파니몬FM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "308",
@@ -222,7 +222,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "神聖天女獸FM的S-ATK變為2倍"
+			"detail": "오파니몬FM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "309",
@@ -238,7 +238,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "神聖天女獸FM的HP變為3倍"
+			"detail": "오파니몬FM의 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "310",
@@ -254,7 +254,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "戰鬥暴龍獸的ATK變為2倍"
+			"detail": "워그레이몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "311",
@@ -270,7 +270,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "戰鬥暴龍獸的S-ATK變為2倍"
+			"detail": "워그레이몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "312",
@@ -286,7 +286,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "戰鬥暴龍獸的HP變為3倍"
+			"detail": "워그레이몬의 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "313",
@@ -302,7 +302,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鋼鐵加魯魯獸的ATK變為2倍"
+			"detail": "메탈가루몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "314",
@@ -318,7 +318,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鋼鐵加魯魯獸的S-ATK變為2倍"
+			"detail": "메탈가루몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "315",
@@ -334,7 +334,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "鋼鐵加魯魯獸的HP變為3倍"
+			"detail": "메탈가루몬의 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "316",
@@ -350,7 +350,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "力神比多獸的ATK變為2倍"
+			"detail": "헤라클레스캅테리몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "317",
@@ -366,7 +366,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "力神比多獸的S-ATK變為2倍"
+			"detail": "헤라클레스캅테리몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "318",
@@ -382,7 +382,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "力神比多獸的HP變為3倍"
+			"detail": "헤라클레스캅테리몬의 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "319",
@@ -398,7 +398,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鳳凰獸的ATK變為2倍"
+			"detail": "페닉스몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "320",
@@ -414,7 +414,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鳳凰獸的S-ATK變為2倍"
+			"detail": "페닉스몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "321",
@@ -430,7 +430,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "鳳凰獸的HP變為3倍"
+			"detail": "페닉스몬의 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "322",
@@ -446,7 +446,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "維京毛人獸的ATK變為2倍"
+			"detail": "바이킹몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "323",
@@ -462,7 +462,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "維京毛人獸的S-ATK變為2倍"
+			"detail": "바이킹몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "324",
@@ -478,7 +478,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "維京毛人獸的HP變為3倍"
+			"detail": "바이킹몬의 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "325",
@@ -494,7 +494,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "薔薇獸的ATK變為2倍"
+			"detail": "로제몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "326",
@@ -510,7 +510,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "薔薇獸的S-ATK變為2倍"
+			"detail": "로제몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "327",
@@ -526,7 +526,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "薔薇獸的HP變為3倍"
+			"detail": "로제몬의 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "331",
@@ -542,7 +542,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "聖龍獸的ATK變為2倍"
+			"detail": "홀리드라몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "332",
@@ -558,7 +558,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "聖龍獸的S-ATK變為2倍"
+			"detail": "홀리드라몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "333",
@@ -574,7 +574,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "聖龍獸的HP變為3倍"
+			"detail": "홀리드라몬의 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "334",
@@ -590,7 +590,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極天使獸的ATK變為2倍"
+			"detail": "세라피몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "335",
@@ -606,7 +606,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極天使獸的S-ATK變為2倍"
+			"detail": "세라피몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "336",
@@ -622,7 +622,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "究極天使獸的HP變為3倍"
+			"detail": "세라피몬의 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "337",
@@ -638,7 +638,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸的ATK變為2倍"
+			"detail": "오메가몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "338",
@@ -654,7 +654,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸的S-ATK變為2倍"
+			"detail": "오메가몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "339",
@@ -670,7 +670,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "奧米加獸的HP變為3倍"
+			"detail": "오메가몬의 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "340",
@@ -686,7 +686,7 @@
 			"effectType": "11",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "重度強襲Ⅹ的威力1.5倍"
+			"detail": " 헤비 스트라이크 Ⅹ 위력 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "341",
@@ -702,7 +702,7 @@
 			"effectType": "11",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "馬赫突擊Ⅹ的威力1.5倍"
+			"detail": " 마하 러시 Ⅹ 위력 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "342",
@@ -718,7 +718,7 @@
 			"effectType": "11",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "力量能源Ⅹ的威力1.5倍"
+			"detail": " 파워 에너지 Ⅹ 위력 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "343",
@@ -734,7 +734,7 @@
 			"effectType": "11",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "能源突擊Ⅹ的威力1.5倍"
+			"detail": " 에너지 러시 Ⅹ 위력 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "344",
@@ -750,7 +750,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "貝爾菲獸SM的ATK變為2倍"
+			"detail": "벨페몬SM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "345",
@@ -766,7 +766,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "貝爾菲獸SM的S-ATK變為2倍"
+			"detail": "벨페몬SM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "346",
@@ -782,7 +782,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "貝爾菲獸SM的HP變為1.5倍"
+			"detail": "벨페몬SM의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "347",
@@ -798,7 +798,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "貝爾菲獸RM的ATK變為2倍"
+			"detail": "벨페몬RM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "348",
@@ -814,7 +814,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "貝爾菲獸RM的S-ATK變為2倍"
+			"detail": "벨페몬RM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "349",
@@ -830,7 +830,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "貝爾菲獸RM的HP變為1.5倍"
+			"detail": "벨페몬RM의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "350",
@@ -846,7 +846,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "墮天地獄獸的ATK變為2倍"
+			"detail": "베르제브몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "351",
@@ -862,7 +862,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "墮天地獄獸的S-ATK變為2倍"
+			"detail": "베르제브몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "352",
@@ -878,7 +878,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "墮天地獄獸的HP變為1.5倍"
+			"detail": "베르제브몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "353",
@@ -894,7 +894,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "莉莉絲獸的ATK變為2倍"
+			"detail": "리리스몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "354",
@@ -910,7 +910,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "莉莉絲獸的S-ATK變為2倍"
+			"detail": "리리스몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "355",
@@ -926,7 +926,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "莉莉絲獸的HP變為1.5倍"
+			"detail": "리리스몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "356",
@@ -942,7 +942,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極魔獸的ATK變為2倍"
+			"detail": "마왕몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "357",
@@ -958,7 +958,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極魔獸的S-ATK變為2倍"
+			"detail": "마왕몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "358",
@@ -974,7 +974,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "究極魔獸的HP變為1.5倍"
+			"detail": "마왕몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "359",
@@ -990,7 +990,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "巴爾巴獸的ATK變為2倍"
+			"detail": "발바몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "360",
@@ -1006,7 +1006,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "巴爾巴獸的S-ATK變為2倍"
+			"detail": "발바몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "361",
@@ -1022,7 +1022,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "巴爾巴獸的HP變為1.5倍"
+			"detail": "발바몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "362",
@@ -1038,7 +1038,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "利維坦獸的ATK變為2倍"
+			"detail": "리바이어몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "363",
@@ -1054,7 +1054,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "利維坦獸的S-ATK變為2倍"
+			"detail": "리바이어몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "364",
@@ -1070,7 +1070,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "利維坦獸的HP變為1.5倍"
+			"detail": "리바이어몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "365",
@@ -1086,7 +1086,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "小丑皇的ATK變為2倍"
+			"detail": "피에몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "366",
@@ -1102,7 +1102,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "小丑皇的S-ATK變為2倍"
+			"detail": "피에몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "367",
@@ -1118,7 +1118,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "小丑皇的HP變為1.5倍"
+			"detail": "피에몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "368",
@@ -1134,7 +1134,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "機械邪龍獸的ATK變為2倍"
+			"detail": "파워드라몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "369",
@@ -1150,7 +1150,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "機械邪龍獸的S-ATK變為2倍"
+			"detail": "파워드라몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "370",
@@ -1166,7 +1166,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "機械邪龍獸的HP變為1.5倍"
+			"detail": "파워드라몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "371",
@@ -1182,7 +1182,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鋼鐵海龍獸的ATK變為2倍"
+			"detail": "메탈시드라몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "372",
@@ -1198,7 +1198,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鋼鐵海龍獸的S-ATK變為2倍"
+			"detail": "메탈시드라몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "373",
@@ -1214,7 +1214,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "鋼鐵海龍獸的HP變為1.5倍"
+			"detail": "메탈시드라몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "374",
@@ -1230,7 +1230,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "木偶獸的ATK變為2倍"
+			"detail": "피노키몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "375",
@@ -1246,7 +1246,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "木偶獸的S-ATK變為2倍"
+			"detail": "피노키몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "376",
@@ -1262,7 +1262,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "木偶獸的HP變為1.5倍"
+			"detail": "피노키몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "377",
@@ -1278,7 +1278,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "劍皇獸的HP變為1.5倍"
+			"detail": "로드나이트몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "378",
@@ -1294,7 +1294,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "劍皇獸的ATK變為2倍"
+			"detail": "로드나이트몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "379",
@@ -1310,7 +1310,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "劍皇獸的S-ATK變為2倍"
+			"detail": "로드나이트몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "380",
@@ -1326,7 +1326,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "杜納斯獸的HP變為1.5倍"
+			"detail": "듀나스몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "381",
@@ -1342,7 +1342,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "杜納斯獸的ATK變為2倍"
+			"detail": "듀나스몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "382",
@@ -1358,7 +1358,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "杜納斯獸的S-ATK變為2倍"
+			"detail": "듀나스몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "383",
@@ -1374,7 +1374,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "紅蓮騎士獸的HP變為1.5倍"
+			"detail": "듀크몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "384",
@@ -1390,7 +1390,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸的ATK變為2倍"
+			"detail": "듀크몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "385",
@@ -1406,7 +1406,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸的S-ATK變為2倍"
+			"detail": "듀크몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "386",
@@ -1422,7 +1422,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸的ATK變為2倍"
+			"detail": "듀크몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "387",
@@ -1438,7 +1438,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸的S-ATK變為2倍"
+			"detail": "듀크몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "388",
@@ -1454,7 +1454,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "紅蓮騎士獸的HP變為1.5倍"
+			"detail": "듀크몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "389",
@@ -1470,7 +1470,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸CM的ATK變為2倍"
+			"detail": "듀크몬CM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "390",
@@ -1486,7 +1486,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸CM的S-ATK變為2倍"
+			"detail": "듀크몬CM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "391",
@@ -1502,7 +1502,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "紅蓮騎士獸CM的HP變為1.5倍"
+			"detail": "듀크몬CM의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "392",
@@ -1518,7 +1518,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸X抗體的ATK變為2倍"
+			"detail": "듀크몬X항체의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "393",
@@ -1534,7 +1534,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸X抗體的S-ATK變為2倍"
+			"detail": "듀크몬X항체의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "394",
@@ -1550,7 +1550,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "紅蓮騎士獸X抗體的HP變為1.5倍"
+			"detail": "듀크몬X항체의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "395",
@@ -1566,7 +1566,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "戰鬥暴龍獸X抗體的HP變為1.5倍"
+			"detail": "워그레이몬X항체의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "396",
@@ -1582,7 +1582,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "戰鬥暴龍獸X抗體的ATK變為2倍"
+			"detail": "워그레이몬X항체의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "397",
@@ -1598,7 +1598,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "戰鬥暴龍獸X抗體的S-ATK變為2倍"
+			"detail": "워그레이몬X항체의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "398",
@@ -1614,7 +1614,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "B戰鬥暴龍獸X的HP變為1.5倍"
+			"detail": "블랙워그레이몬X의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "399",
@@ -1630,7 +1630,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "B戰鬥暴龍獸X的ATK變為2倍"
+			"detail": "블랙워그레이몬X의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "400",
@@ -1646,7 +1646,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "B戰鬥暴龍獸X的S-ATK變為2倍"
+			"detail": "블랙워그레이몬X의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "401",
@@ -1662,7 +1662,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "顱骨獸X抗體的HP變為1.5倍"
+			"detail": "크레니엄몬X항체의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "402",
@@ -1678,7 +1678,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "顱骨獸X抗體的ATK變為2倍"
+			"detail": "크레니엄몬X항체의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "403",
@@ -1694,7 +1694,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "顱骨獸X抗體的S-ATK變為2倍"
+			"detail": "크레니엄몬X항체의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "404",
@@ -1710,7 +1710,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "八腳馬獸的HP變為1.5倍"
+			"detail": "슬레이프몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "405",
@@ -1726,7 +1726,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "八腳馬獸的ATK變為2倍"
+			"detail": "슬레이프몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "406",
@@ -1742,7 +1742,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "八腳馬獸的S-ATK變為2倍"
+			"detail": "슬레이프몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "407",
@@ -1758,7 +1758,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "番長獅子獸的HP變為1.5倍"
+			"detail": "반쵸레오몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "408",
@@ -1774,7 +1774,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "番長獅子獸的ATK變為2倍"
+			"detail": "반쵸레오몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "409",
@@ -1790,7 +1790,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "番長獅子獸的S-ATK變為2倍"
+			"detail": "반쵸레오몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "410",
@@ -1806,7 +1806,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "虎蜂獸的HP變為1.5倍"
+			"detail": "타이거베스파몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "411",
@@ -1822,7 +1822,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "虎蜂獸的ATK變為2倍"
+			"detail": "타이거베스파몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "412",
@@ -1838,7 +1838,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "虎蜂獸的S-ATK變為2倍"
+			"detail": "타이거베스파몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "413",
@@ -1854,7 +1854,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "戰鬥暴龍獸X抗體的HP變為1.5倍"
+			"detail": "워그레이몬X항체의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "414",
@@ -1870,7 +1870,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "戰鬥暴龍獸X抗體的ATK變為2倍"
+			"detail": "워그레이몬X항체의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "415",
@@ -1886,7 +1886,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "戰鬥暴龍獸X抗體的S-ATK變為2倍"
+			"detail": "워그레이몬X항체의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "416",
@@ -1902,7 +1902,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "B戰鬥暴龍獸X的HP變為1.5倍"
+			"detail": "블랙워그레이몬X의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "417",
@@ -1918,7 +1918,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "B戰鬥暴龍獸X的ATK變為2倍"
+			"detail": "블랙워그레이몬X의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "418",
@@ -1934,7 +1934,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "B戰鬥暴龍獸X的S-ATK變為2倍"
+			"detail": "블랙워그레이몬X의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "419",
@@ -1950,7 +1950,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "戰鬥暴龍獸V2的HP變為1.5倍"
+			"detail": "워그레이몬V2의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "420",
@@ -1966,7 +1966,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "戰鬥暴龍獸V2的ATK變為2倍"
+			"detail": "워그레이몬V2의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "421",
@@ -1982,7 +1982,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "戰鬥暴龍獸V2的S-ATK變為2倍"
+			"detail": "워그레이몬V2의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "422",
@@ -1998,7 +1998,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "鋼鐵加魯魯獸V2的HP變為1.5倍"
+			"detail": "메탈가루몬V2의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "423",
@@ -2014,7 +2014,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鋼鐵加魯魯獸V2的ATK變為2倍"
+			"detail": "메탈가루몬V2의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "424",
@@ -2030,7 +2030,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鋼鐵加魯魯獸V2的S-ATK變為2倍"
+			"detail": "메탈가루몬V2의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "425",
@@ -2046,7 +2046,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "滅世魔獸的HP變為1.5倍"
+			"detail": "아마게몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "426",
@@ -2062,7 +2062,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "滅世魔獸的ATK變為2倍"
+			"detail": "아마게몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "427",
@@ -2078,7 +2078,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "滅世魔獸的S-ATK變為2倍"
+			"detail": "아마게몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "428",
@@ -2094,7 +2094,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "光明獸SM的HP變為1.5倍"
+			"detail": "루체몬SM의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "429",
@@ -2110,7 +2110,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "光明獸SM的ATK變為2倍"
+			"detail": "루체몬SM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "430",
@@ -2126,7 +2126,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "光明獸SM的S-ATK變為2倍"
+			"detail": "루체몬SM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "431",
@@ -2142,7 +2142,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "究極V龍獸的HP變為1.5倍"
+			"detail": "알포스브이드라몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "432",
@@ -2158,7 +2158,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極V龍獸的ATK變為2倍"
+			"detail": "알포스브이드라몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "433",
@@ -2174,7 +2174,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極V龍獸的S-ATK變為2倍"
+			"detail": "알포스브이드라몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "434",
@@ -2190,7 +2190,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "究極V龍獸X抗體的HP變為1.5倍"
+			"detail": "알포스브이드라몬X의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "435",
@@ -2206,7 +2206,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極V龍獸X抗體的ATK變為2倍"
+			"detail": "알포스브이드라몬X의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "436",
@@ -2222,7 +2222,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極V龍獸X抗體的S-ATK變為2倍"
+			"detail": "알포스브이드라몬X의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "437",
@@ -2238,7 +2238,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "金甲龍獸的HP變為1.5倍"
+			"detail": "매그너몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "438",
@@ -2254,7 +2254,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸的ATK變為2倍"
+			"detail": "매그너몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "439",
@@ -2270,7 +2270,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸的S-ATK變為2倍"
+			"detail": "매그너몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "440",
@@ -2286,7 +2286,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "金甲龍獸X抗體的HP變為1.5倍"
+			"detail": "매그너몬X항체의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "441",
@@ -2302,7 +2302,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸X抗體的ATK變為2倍"
+			"detail": "매그너몬X항체의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "442",
@@ -2318,7 +2318,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸X抗體的S-ATK變為2倍"
+			"detail": "매그너몬X항체의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "443",
@@ -2334,7 +2334,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "杜納斯獸X抗體的HP變為1.5倍"
+			"detail": "듀나스몬X항체의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "444",
@@ -2350,7 +2350,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "杜納斯獸X抗體的ATK變為2倍"
+			"detail": "듀나스몬X항체의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "445",
@@ -2366,7 +2366,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "杜納斯獸X抗體的S-ATK變為2倍"
+			"detail": "듀나스몬X항체의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "446",
@@ -2382,7 +2382,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "芳香獸X抗體的HP變為1.5倍"
+			"detail": "두프트몬X항체의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "447",
@@ -2398,7 +2398,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "芳香獸X抗體的ATK變為2倍"
+			"detail": "두프트몬X항체의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "448",
@@ -2414,7 +2414,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "芳香獸X抗體的S-ATK變為2倍"
+			"detail": "두프트몬X항체의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "449",
@@ -2430,7 +2430,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "顱骨獸的HP變為1.5倍"
+			"detail": "크레니엄몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "450",
@@ -2446,7 +2446,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "顱骨獸的ATK變為2倍"
+			"detail": "크레니엄몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "451",
@@ -2462,7 +2462,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "顱骨獸的S-ATK變為2倍"
+			"detail": "크레니엄몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "452",
@@ -2478,7 +2478,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "虎蜂獸的HP變為1.5倍"
+			"detail": "타이거베스파몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "453",
@@ -2494,7 +2494,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "虎蜂獸的ATK變為2倍"
+			"detail": "타이거베스파몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "454",
@@ -2510,7 +2510,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "虎蜂獸的S-ATK變為2倍"
+			"detail": "타이거베스파몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "455",
@@ -2526,7 +2526,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "番長獅子獸的HP變為1.5倍"
+			"detail": "반쵸레오몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "456",
@@ -2542,7 +2542,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "番長獅子獸的ATK變為2倍"
+			"detail": "반쵸레오몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "457",
@@ -2558,7 +2558,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "番長獅子獸的S-ATK變為2倍"
+			"detail": "반쵸레오몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "458",
@@ -2574,7 +2574,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "維京毛人獸的HP變為1.5倍"
+			"detail": "바이킹몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "459",
@@ -2590,7 +2590,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "維京毛人獸的ATK變為2倍"
+			"detail": "바이킹몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "460",
@@ -2606,7 +2606,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "維京毛人獸的S-ATK變為2倍"
+			"detail": "바이킹몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "461",
@@ -2622,7 +2622,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "超級火車獸的HP變為1.5倍"
+			"detail": "그랜드로코몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "462",
@@ -2638,7 +2638,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "超級火車獸的ATK變為2倍"
+			"detail": "그랜드로코몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "463",
@@ -2654,7 +2654,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "超級火車獸的S-ATK變為2倍"
+			"detail": "그랜드로코몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "464",
@@ -2670,7 +2670,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "顱骨獸X抗體的HP變為1.5倍"
+			"detail": "크레니엄몬X항체의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "465",
@@ -2686,7 +2686,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "顱骨獸X抗體的ATK變為2倍"
+			"detail": "크레니엄몬X항체의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "466",
@@ -2702,7 +2702,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "顱骨獸X抗體的S-ATK變為2倍"
+			"detail": "크레니엄몬X항체의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "467",
@@ -2718,7 +2718,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "墮天地獄獸X抗體的HP變為1.5倍"
+			"detail": "베르제브몬X항체의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "468",
@@ -2734,7 +2734,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "墮天地獄獸X抗體的ATK變為2倍"
+			"detail": "베르제브몬X항체의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "469",
@@ -2750,7 +2750,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "墮天地獄獸X抗體的S-ATK變為2倍"
+			"detail": "베르제브몬X항체의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "470",
@@ -2766,7 +2766,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "紅蓮騎士獸的HP變為1.5倍"
+			"detail": "듀크몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "471",
@@ -2782,7 +2782,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸的ATK變為2倍"
+			"detail": "듀크몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "472",
@@ -2798,7 +2798,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸的S-ATK變為2倍"
+			"detail": "듀크몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "473",
@@ -2814,7 +2814,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "紅蓮騎士獸CM的HP變為1.5倍"
+			"detail": "듀크몬CM의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "474",
@@ -2830,7 +2830,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸CM的ATK變為2倍"
+			"detail": "듀크몬CM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "475",
@@ -2846,7 +2846,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸CM的S-ATK變為2倍"
+			"detail": "듀크몬CM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "476",
@@ -2862,7 +2862,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "紅蓮騎士獸X抗體的HP變為1.5倍"
+			"detail": "듀크몬X항체의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "477",
@@ -2878,7 +2878,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸X抗體的ATK變為2倍"
+			"detail": "듀크몬X항체의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "478",
@@ -2894,7 +2894,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸X抗體的S-ATK變為2倍"
+			"detail": "듀크몬X항체의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "479",
@@ -2910,7 +2910,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "奧米加獸Alter-S的HP變為1.5倍"
+			"detail": "오메가몬Alter-S의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "480",
@@ -2926,7 +2926,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸Alter-S的ATK變為2倍"
+			"detail": "오메가몬Alter-S의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "481",
@@ -2942,7 +2942,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸Alter-S的S-ATK變為2倍"
+			"detail": "오메가몬Alter-S의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "482",
@@ -2958,7 +2958,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "奧米加獸Alter-B的HP變為1.5倍"
+			"detail": "오메가몬 Alter-B의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "483",
@@ -2974,7 +2974,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸Alter-B的ATK變為2倍"
+			"detail": "오메가몬 Alter-B의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "484",
@@ -2990,7 +2990,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸Alter-B的S-ATK變為2倍"
+			"detail": "오메가몬 Alter-B의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "485",
@@ -3006,7 +3006,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "頑固獸的HP變為1.5倍"
+			"detail": "간쿠몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "486",
@@ -3022,7 +3022,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "頑固獸的ATK變為2倍"
+			"detail": "간쿠몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "487",
@@ -3038,7 +3038,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "頑固獸的S-ATK變為2倍"
+			"detail": "간쿠몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "488",
@@ -3054,7 +3054,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "究極天使獸的HP變為1.5倍"
+			"detail": "세라피몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "489",
@@ -3070,7 +3070,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極天使獸的ATK變為2倍"
+			"detail": "세라피몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "490",
@@ -3086,7 +3086,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極天使獸的S-ATK變為2倍"
+			"detail": "세라피몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "491",
@@ -3102,7 +3102,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "神聖天女獸FM的HP變為1.5倍"
+			"detail": "오파니몬FM의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "492",
@@ -3118,7 +3118,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "神聖天女獸FM的ATK變為2倍"
+			"detail": "오파니몬FM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "493",
@@ -3134,7 +3134,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "神聖天女獸FM的S-ATK變為2倍"
+			"detail": "오파니몬FM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "494",
@@ -3150,7 +3150,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "泰坦獸的HP變為1.5倍"
+			"detail": "타이타몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "495",
@@ -3166,7 +3166,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "泰坦獸的ATK變為2倍"
+			"detail": "타이타몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "496",
@@ -3182,7 +3182,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "泰坦獸的S-ATK變為2倍"
+			"detail": "타이타몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "497",
@@ -3198,7 +3198,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "葛葉獸的HP變為1.5倍"
+			"detail": "쿠즈하몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "498",
@@ -3214,7 +3214,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "葛葉獸的ATK變為2倍"
+			"detail": "쿠즈하몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "499",
@@ -3230,7 +3230,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "葛葉獸的S-ATK變為2倍"
+			"detail": "쿠즈하몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "500",
@@ -3246,7 +3246,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "奧米加獸Alter-S的HP變為1.5倍"
+			"detail": "오메가몬Alter-S의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "501",
@@ -3262,7 +3262,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸Alter-S的ATK變為2倍"
+			"detail": "오메가몬Alter-S의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "502",
@@ -3278,7 +3278,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸Alter-S的S-ATK變為2倍"
+			"detail": "오메가몬Alter-S의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "503",
@@ -3294,7 +3294,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "奧米加獸Alter-B的HP變為1.5倍"
+			"detail": "오메가몬 Alter-B의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "504",
@@ -3310,7 +3310,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸Alter-B的ATK變為2倍"
+			"detail": "오메가몬 Alter-B의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "505",
@@ -3326,7 +3326,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸Alter-B的S-ATK變為2倍"
+			"detail": "오메가몬 Alter-B의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "506",
@@ -3342,7 +3342,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "頑固獸的HP變為1.5倍"
+			"detail": "간쿠몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "507",
@@ -3358,7 +3358,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "頑固獸的ATK變為2倍"
+			"detail": "간쿠몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "508",
@@ -3374,7 +3374,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "頑固獸的S-ATK變為2倍"
+			"detail": "간쿠몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "509",
@@ -3390,7 +3390,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "究極天使獸的HP變為1.5倍"
+			"detail": "세라피몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "510",
@@ -3406,7 +3406,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極天使獸的ATK變為2倍"
+			"detail": "세라피몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "511",
@@ -3422,7 +3422,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極天使獸的S-ATK變為2倍"
+			"detail": "세라피몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "512",
@@ -3438,7 +3438,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "神聖天女獸FM的HP變為1.5倍"
+			"detail": "오파니몬FM의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "513",
@@ -3454,7 +3454,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "神聖天女獸FM的ATK變為2倍"
+			"detail": "오파니몬FM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "514",
@@ -3470,7 +3470,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "神聖天女獸FM的S-ATK變為2倍"
+			"detail": "오파니몬FM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "515",
@@ -3486,7 +3486,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "泰坦獸的HP變為1.5倍"
+			"detail": "타이타몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "516",
@@ -3502,7 +3502,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "泰坦獸的ATK變為2倍"
+			"detail": "타이타몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "517",
@@ -3518,7 +3518,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "泰坦獸的S-ATK變為2倍"
+			"detail": "타이타몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "518",
@@ -3534,7 +3534,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "葛葉獸的HP變為1.5倍"
+			"detail": "쿠즈하몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "519",
@@ -3550,7 +3550,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "葛葉獸的ATK變為2倍"
+			"detail": "쿠즈하몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "520",
@@ -3566,7 +3566,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "葛葉獸的S-ATK變為2倍"
+			"detail": "쿠즈하몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "521",
@@ -3582,7 +3582,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "奧米加獸X抗體的HP變為1.5倍"
+			"detail": "오메가몬X항체의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "522",
@@ -3598,7 +3598,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸X抗體的ATK變為2倍"
+			"detail": "오메가몬X항체의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "523",
@@ -3614,7 +3614,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸X抗體的S-ATK變為2倍"
+			"detail": "오메가몬X항체의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "524",
@@ -3630,7 +3630,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "奧米加獸MM的HP變為1.5倍"
+			"detail": "오메가몬MM의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "525",
@@ -3646,7 +3646,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸MM的ATK變為2倍"
+			"detail": "오메가몬MM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "526",
@@ -3662,7 +3662,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸MM的S-ATK變為2倍"
+			"detail": "오메가몬MM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "527",
@@ -3678,7 +3678,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "奧米加獸的HP變為1.5倍"
+			"detail": "오메가몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "528",
@@ -3694,7 +3694,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸的ATK變為2倍"
+			"detail": "오메가몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "529",
@@ -3710,7 +3710,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸的S-ATK變為2倍"
+			"detail": "오메가몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "530",
@@ -3726,7 +3726,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "戰鬥暴龍獸的HP變為1.5倍"
+			"detail": "워그레이몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "531",
@@ -3742,7 +3742,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "戰鬥暴龍獸的ATK變為2倍"
+			"detail": "워그레이몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "532",
@@ -3758,7 +3758,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "戰鬥暴龍獸的S-ATK變為2倍"
+			"detail": "워그레이몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "533",
@@ -3774,7 +3774,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "鋼鐵加魯魯獸的HP變為1.5倍"
+			"detail": "메탈가루몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "534",
@@ -3790,7 +3790,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鋼鐵加魯魯獸的ATK變為2倍"
+			"detail": "메탈가루몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "535",
@@ -3806,7 +3806,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鋼鐵加魯魯獸的S-ATK變為2倍"
+			"detail": "메탈가루몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "536",
@@ -3822,7 +3822,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "閃光暴龍獸的HP變為1.5倍"
+			"detail": "샤인그레이몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "537",
@@ -3838,7 +3838,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "閃光暴龍獸的ATK變為2倍"
+			"detail": "샤인그레이몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "538",
@@ -3854,7 +3854,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "閃光暴龍獸的S-ATK變為2倍"
+			"detail": "샤인그레이몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "539",
@@ -3870,7 +3870,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "幻影迦奧迦獸的HP變為1.5倍"
+			"detail": "미라쥬가오가몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "540",
@@ -3886,7 +3886,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "幻影迦奧迦獸的ATK變為2倍"
+			"detail": "미라쥬가오가몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "541",
@@ -3902,7 +3902,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "幻影迦奧迦獸的S-ATK變為2倍"
+			"detail": "미라쥬가오가몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "542",
@@ -3918,7 +3918,7 @@
 			"effectType": "11",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "破壞加農X的威力1.5倍"
+			"detail": "디스트로이 캐논 X 위력 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "543",
@@ -3934,7 +3934,7 @@
 			"effectType": "11",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "符文之森X的威力1.5倍"
+			"detail": "룬 포레스트 X 위력 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "544",
@@ -3950,7 +3950,7 @@
 			"effectType": "11",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "夢魘X的威力1.5倍"
+			"detail": "나이트메어 X 위력 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "545",
@@ -3966,7 +3966,7 @@
 			"effectType": "11",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "地獄粉碎X的威力1.5倍"
+			"detail": "헬 크러셔 X 위력 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "546",
@@ -3982,7 +3982,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "貝爾菲獸SM的HP變為1.5倍"
+			"detail": "벨페몬SM의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "547",
@@ -3998,7 +3998,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "貝爾菲獸SM的ATK變為2倍"
+			"detail": "벨페몬SM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "548",
@@ -4014,7 +4014,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "貝爾菲獸SM的S-ATK變為2倍"
+			"detail": "벨페몬SM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "549",
@@ -4030,7 +4030,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "貝爾菲獸RM的HP變為1.5倍"
+			"detail": "벨페몬RM의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "550",
@@ -4046,7 +4046,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "貝爾菲獸RM的ATK變為2倍"
+			"detail": "벨페몬RM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "551",
@@ -4062,7 +4062,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "貝爾菲獸RM的S-ATK變為2倍"
+			"detail": "벨페몬RM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "552",
@@ -4078,7 +4078,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "墮天地獄獸的HP變為1.5倍"
+			"detail": "베르제브몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "553",
@@ -4094,7 +4094,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "墮天地獄獸的ATK變為2倍"
+			"detail": "베르제브몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "554",
@@ -4110,7 +4110,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "墮天地獄獸的S-ATK變為2倍"
+			"detail": "베르제브몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "555",
@@ -4126,7 +4126,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "莉莉絲獸的HP變為1.5倍"
+			"detail": "리리스몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "556",
@@ -4142,7 +4142,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "莉莉絲獸的ATK變為2倍"
+			"detail": "리리스몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "557",
@@ -4158,7 +4158,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "莉莉絲獸的S-ATK變為2倍"
+			"detail": "리리스몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "558",
@@ -4174,7 +4174,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "究極魔獸的HP變為1.5倍"
+			"detail": "마왕몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "559",
@@ -4190,7 +4190,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極魔獸的ATK變為2倍"
+			"detail": "마왕몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "560",
@@ -4206,7 +4206,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "究極魔獸的S-ATK變為2倍"
+			"detail": "마왕몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "561",
@@ -4222,7 +4222,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "巴爾巴獸的HP變為1.5倍"
+			"detail": "발바몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "562",
@@ -4238,7 +4238,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "巴爾巴獸的ATK變為2倍"
+			"detail": "발바몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "563",
@@ -4254,7 +4254,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "巴爾巴獸的S-ATK變為2倍"
+			"detail": "발바몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "564",
@@ -4270,7 +4270,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "利維坦獸的HP變為1.5倍"
+			"detail": "리바이어몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "565",
@@ -4286,7 +4286,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "利維坦獸的ATK變為2倍"
+			"detail": "리바이어몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "566",
@@ -4302,7 +4302,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "利維坦獸的S-ATK變為2倍"
+			"detail": "리바이어몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "567",
@@ -4318,7 +4318,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "光明獸SM的HP變為1.5倍"
+			"detail": "루체몬SM의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "568",
@@ -4334,7 +4334,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "光明獸SM的ATK變為2倍"
+			"detail": "루체몬SM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "569",
@@ -4350,7 +4350,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "光明獸SM的S-ATK變為2倍"
+			"detail": "루체몬SM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "570",
@@ -4366,7 +4366,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "戰鬥暴龍獸的HP變為1.5倍"
+			"detail": "워그레이몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "571",
@@ -4382,7 +4382,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "戰鬥暴龍獸的ATK變為2倍"
+			"detail": "워그레이몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "572",
@@ -4398,7 +4398,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "戰鬥暴龍獸的S-ATK變為2倍"
+			"detail": "워그레이몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "573",
@@ -4414,7 +4414,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "鋼鐵加魯魯獸的HP變為1.5倍"
+			"detail": "메탈가루몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "574",
@@ -4430,7 +4430,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鋼鐵加魯魯獸的ATK變為2倍"
+			"detail": "메탈가루몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "575",
@@ -4446,7 +4446,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鋼鐵加魯魯獸的S-ATK變為2倍"
+			"detail": "메탈가루몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "576",
@@ -4462,7 +4462,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "奧米加獸的HP變為1.5倍"
+			"detail": "오메가몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "577",
@@ -4478,7 +4478,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸的ATK變為2倍"
+			"detail": "오메가몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "578",
@@ -4494,7 +4494,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸的S-ATK變為2倍"
+			"detail": "오메가몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "579",
@@ -4510,7 +4510,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "電光暴龍獸的HP變為1.5倍"
+			"detail": "블리츠그레이몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "580",
@@ -4526,7 +4526,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "電光暴龍獸的ATK變為2倍"
+			"detail": "블리츠그레이몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "581",
@@ -4542,7 +4542,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "電光暴龍獸的S-ATK變為2倍"
+			"detail": "블리츠그레이몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "582",
@@ -4558,7 +4558,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "偃月加魯魯獸的HP變為1.5倍"
+			"detail": "크레스가루몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "583",
@@ -4574,7 +4574,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "偃月加魯魯獸的ATK變為2倍"
+			"detail": "크레스가루몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "584",
@@ -4590,7 +4590,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "偃月加魯魯獸的S-ATK變為2倍"
+			"detail": "크레스가루몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "585",
@@ -4606,7 +4606,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "閃光暴龍獸的HP變為1.5倍"
+			"detail": "샤인그레이몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "586",
@@ -4622,7 +4622,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "閃光暴龍獸的ATK變為2倍"
+			"detail": "샤인그레이몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "587",
@@ -4638,7 +4638,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "閃光暴龍獸的S-ATK變為2倍"
+			"detail": "샤인그레이몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "588",
@@ -4654,7 +4654,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "幻影迦奧迦獸的HP變為1.5倍"
+			"detail": "미라쥬가오가몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "589",
@@ -4670,7 +4670,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "幻影迦奧迦獸的ATK變為2倍"
+			"detail": "미라쥬가오가몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "590",
@@ -4686,7 +4686,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "幻影迦奧迦獸的S-ATK變為2倍"
+			"detail": "미라쥬가오가몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "591",
@@ -4702,7 +4702,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "杜納斯獸的HP變為1.5倍"
+			"detail": "듀나스몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "592",
@@ -4718,7 +4718,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "杜納斯獸的ATK變為2倍"
+			"detail": "듀나스몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "593",
@@ -4734,7 +4734,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "杜納斯獸的S-ATK變為2倍"
+			"detail": "듀나스몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "594",
@@ -4750,7 +4750,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "杜納斯獸X抗體的HP變為1.5倍"
+			"detail": "듀나스몬X항체의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "595",
@@ -4766,7 +4766,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "杜納斯獸X抗體的ATK變為2倍"
+			"detail": "듀나스몬X항체의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "596",
@@ -4782,7 +4782,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "杜納斯獸X抗體的S-ATK變為2倍"
+			"detail": "듀나스몬X항체의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "597",
@@ -4798,7 +4798,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "顱骨獸的HP變為1.5倍"
+			"detail": "크레니엄몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "598",
@@ -4814,7 +4814,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "顱骨獸的ATK變為2倍"
+			"detail": "크레니엄몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "599",
@@ -4830,7 +4830,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "顱骨獸的S-ATK變為2倍"
+			"detail": "크레니엄몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "600",
@@ -4846,7 +4846,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "顱骨獸X抗體的HP變為1.5倍"
+			"detail": "크레니엄몬X항체의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "601",
@@ -4862,7 +4862,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "顱骨獸X抗體的ATK變為2倍"
+			"detail": "크레니엄몬X항체의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "602",
@@ -4878,7 +4878,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "顱骨獸X抗體的S-ATK變為2倍"
+			"detail": "크레니엄몬X항체의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "603",
@@ -4894,7 +4894,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "紅蓮騎士獸的HP變為1.5倍"
+			"detail": "듀크몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "604",
@@ -4910,7 +4910,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸的ATK變為2倍"
+			"detail": "듀크몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "605",
@@ -4926,7 +4926,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸的S-ATK變為2倍"
+			"detail": "듀크몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "606",
@@ -4942,7 +4942,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "紅蓮騎士獸CM的HP變為1.5倍"
+			"detail": "듀크몬CM의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "607",
@@ -4958,7 +4958,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸CM的ATK變為2倍"
+			"detail": "듀크몬CM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "608",
@@ -4974,7 +4974,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸CM的S-ATK變為2倍"
+			"detail": "듀크몬CM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "609",
@@ -4990,7 +4990,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "紅蓮騎士獸X抗體的HP變為1.5倍"
+			"detail": "듀크몬X항체의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "610",
@@ -5006,7 +5006,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸X抗體的ATK變為2倍"
+			"detail": "듀크몬X항체의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "611",
@@ -5022,7 +5022,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "紅蓮騎士獸X抗體的S-ATK變為2倍"
+			"detail": "듀크몬X항체의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "612",
@@ -5038,7 +5038,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "金甲龍獸X抗體的HP變為1.5倍"
+			"detail": "매그너몬X항체의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "613",
@@ -5054,7 +5054,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸X抗體的ATK變為2倍"
+			"detail": "매그너몬X항체의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "614",
@@ -5070,7 +5070,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸X抗體的S-ATK變為2倍"
+			"detail": "매그너몬X항체의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "615",
@@ -5086,7 +5086,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "金甲龍獸的HP變為1.5倍"
+			"detail": "매그너몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "616",
@@ -5102,7 +5102,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸的ATK變為2倍"
+			"detail": "매그너몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "617",
@@ -5118,7 +5118,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸的S-ATK變為2倍"
+			"detail": "매그너몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "618",
@@ -5134,7 +5134,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "阿爾法獸的HP變為1.5倍"
+			"detail": "알파몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "619",
@@ -5150,7 +5150,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "阿爾法獸的ATK變為2倍"
+			"detail": "알파몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "620",
@@ -5166,7 +5166,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "阿爾法獸的S-ATK變為2倍"
+			"detail": "알파몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "621",
@@ -5182,7 +5182,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "頑固獸的HP變為1.5倍"
+			"detail": "간쿠몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "622",
@@ -5198,7 +5198,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "頑固獸的ATK變為2倍"
+			"detail": "간쿠몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "623",
@@ -5214,7 +5214,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "頑固獸的S-ATK變為2倍"
+			"detail": "간쿠몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "624",
@@ -5230,7 +5230,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "傑斯獸的HP變為1.5倍"
+			"detail": "제스몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "625",
@@ -5246,7 +5246,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "傑斯獸的ATK變為2倍"
+			"detail": "제스몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "626",
@@ -5262,7 +5262,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "傑斯獸的S-ATK變為2倍"
+			"detail": "제스몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "627",
@@ -5278,7 +5278,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "虎蜂獸的HP變為1.5倍"
+			"detail": "타이거베스파몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "628",
@@ -5294,7 +5294,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "虎蜂獸的ATK變為2倍"
+			"detail": "타이거베스파몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "629",
@@ -5310,7 +5310,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "虎蜂獸的S-ATK變為2倍"
+			"detail": "타이거베스파몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "630",
@@ -5326,7 +5326,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "蓮花獸的HP變為1.5倍"
+			"detail": "로터스몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "631",
@@ -5342,7 +5342,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "蓮花獸的ATK變為2倍"
+			"detail": "로터스몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "632",
@@ -5358,7 +5358,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "蓮花獸的S-ATK變為2倍"
+			"detail": "로터스몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "633",
@@ -5374,7 +5374,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "艾克薩獸的HP變為1.5倍"
+			"detail": "엑자몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "634",
@@ -5390,7 +5390,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "艾克薩獸的ATK變為2倍"
+			"detail": "엑자몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "635",
@@ -5406,7 +5406,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "艾克薩獸的S-ATK變為2倍"
+			"detail": "엑자몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "636",
@@ -5422,7 +5422,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "金剛武神獸的HP變為1.5倍"
+			"detail": "스사노오몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "637",
@@ -5438,7 +5438,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金剛武神獸的ATK變為2倍"
+			"detail": "스사노오몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "638",
@@ -5454,7 +5454,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金剛武神獸的S-ATK變為2倍"
+			"detail": "스사노오몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "639",
@@ -5470,7 +5470,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "凱王獸的HP變為1.5倍"
+			"detail": "가이오몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "640",
@@ -5486,7 +5486,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "凱王獸的ATK變為2倍"
+			"detail": "가이오몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "641",
@@ -5502,7 +5502,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "凱王獸的S-ATK變為2倍"
+			"detail": "가이오몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "642",
@@ -5518,7 +5518,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "混沌紅蓮騎士獸的HP變為1.5倍"
+			"detail": "카오스듀크몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "643",
@@ -5534,7 +5534,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "混沌紅蓮騎士獸的ATK變為2倍"
+			"detail": "카오스듀크몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "644",
@@ -5550,7 +5550,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "混沌紅蓮騎士獸的S-ATK變為2倍"
+			"detail": "카오스듀크몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "645",
@@ -5566,7 +5566,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "斬龍獸的HP變為1.5倍"
+			"detail": "슬레이어드라몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "646",
@@ -5582,7 +5582,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "斬龍獸的ATK變為2倍"
+			"detail": "슬레이어드라몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "647",
@@ -5598,7 +5598,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "斬龍獸的S-ATK變為2倍"
+			"detail": "슬레이어드라몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "648",
@@ -5614,7 +5614,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "外星獸的HP變為1.5倍"
+			"detail": "이바몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "649",
@@ -5630,7 +5630,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "外星獸的ATK變為2倍"
+			"detail": "이바몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "650",
@@ -5646,7 +5646,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "外星獸的S-ATK變為2倍"
+			"detail": "이바몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "651",
@@ -5662,7 +5662,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "沙古牙獸的HP變為1.5倍"
+			"detail": "샤크라몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "652",
@@ -5678,7 +5678,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "沙古牙獸的ATK變為2倍"
+			"detail": "샤크라몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "653",
@@ -5694,7 +5694,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "沙古牙獸的S-ATK變為2倍"
+			"detail": "샤크라몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100001",
@@ -5710,7 +5710,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "戰鬥暴龍獸的ATK變為1.5倍"
+			"detail": "워그레이몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100002",
@@ -5726,7 +5726,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "戰鬥暴龍獸的S-ATK變為1.5倍"
+			"detail": "워그레이몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100003",
@@ -5742,7 +5742,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "鋼鐵加魯魯獸的ATK變為1.5倍"
+			"detail": "메탈가루몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100004",
@@ -5758,7 +5758,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "鋼鐵加魯魯獸的S-ATK變為1.5倍"
+			"detail": "메탈가루몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100005",
@@ -5774,7 +5774,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸的ATK變為2倍"
+			"detail": "오메가몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100006",
@@ -5790,7 +5790,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "奧米加獸的S-ATK變為2倍"
+			"detail": "오메가몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100007",
@@ -5806,7 +5806,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸的ATK變為2倍"
+			"detail": "매그너몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100008",
@@ -5822,7 +5822,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸的S-ATK變為2倍"
+			"detail": "매그너몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100009",
@@ -5838,7 +5838,7 @@
 			"effectType": "22",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "傑斯獸的DEF變為2倍"
+			"detail": "제스몬 DEF가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100010",
@@ -5854,7 +5854,7 @@
 			"effectType": "26",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "傑斯獸的S-DEF變為2倍"
+			"detail": "제스몬 S-DEF가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100011",
@@ -5870,7 +5870,7 @@
 			"effectType": "22",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "頑固獸的DEF變為2倍"
+			"detail": "간쿠몬 DEF가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100012",
@@ -5886,7 +5886,7 @@
 			"effectType": "26",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "頑固獸的S-DEF變為2倍"
+			"detail": "간쿠몬 S-DEF가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100013",
@@ -5902,7 +5902,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "泰坦獸的ATK變為1.5倍"
+			"detail": "타이타몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100014",
@@ -5918,7 +5918,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "泰坦獸的S-ATK變為1.5倍"
+			"detail": "타이타몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100015",
@@ -5934,7 +5934,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "基路比獸(善)的ATK變為1.5倍"
+			"detail": "켈비몬(선)의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100016",
@@ -5950,7 +5950,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "基路比獸(善)的S-ATK變為1.5倍"
+			"detail": "켈비몬(선)의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100017",
@@ -5966,7 +5966,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "葛葉獸的ATK變為1.5倍"
+			"detail": "쿠즈하몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100018",
@@ -5982,7 +5982,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "葛葉獸的S-ATK變為1.5倍"
+			"detail": "쿠즈하몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100019",
@@ -5998,7 +5998,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "海天使獸的HP變為2倍"
+			"detail": "마린엔젤몬의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100020",
@@ -6014,7 +6014,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "海天使獸的ATK變為2倍"
+			"detail": "마린엔젤몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100021",
@@ -6030,7 +6030,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "海天使獸的S-ATK變為2倍"
+			"detail": "마린엔젤몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100022",
@@ -6046,7 +6046,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "閃光暴龍獸RM的HP變為2.5倍"
+			"detail": "샤인그레이몬RM의 HP가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100023",
@@ -6062,7 +6062,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "閃光暴龍獸RM的ATK變為2.5倍"
+			"detail": "샤인그레이몬RM의 ATK가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100024",
@@ -6078,7 +6078,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "閃光暴龍獸RM的S-ATK變為2.5倍"
+			"detail": "샤인그레이몬RM의 S-ATK가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100025",
@@ -6094,7 +6094,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "400",
-			"detail": "混沌神魔獸的ATK變為5倍"
+			"detail": "마스테몬의 ATK가 5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100026",
@@ -6110,7 +6110,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "400",
-			"detail": "混沌神魔獸的S-ATK變為5倍"
+			"detail": "마스테몬의 S-ATK가 5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100027",
@@ -6126,7 +6126,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "閃光暴龍獸RM的HP變為2倍"
+			"detail": "샤인그레이몬RM의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100028",
@@ -6142,7 +6142,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "閃光暴龍獸RM的ATK變為2倍"
+			"detail": "샤인그레이몬RM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100029",
@@ -6158,7 +6158,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "閃光暴龍獸RM的S-ATK變為2倍"
+			"detail": "샤인그레이몬RM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100030",
@@ -6174,7 +6174,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "機械邪龍獸的ATK變為1.5倍"
+			"detail": "파워드라몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100031",
@@ -6190,7 +6190,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "機械邪龍獸的S-ATK變為1.5倍"
+			"detail": "파워드라몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100032",
@@ -6206,7 +6206,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "閃光暴龍獸BM的ATK變為1.5倍"
+			"detail": "샤인그레이몬BM의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100033",
@@ -6222,7 +6222,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "閃光暴龍獸BM的S-ATK變為1.5倍"
+			"detail": "샤인그레이몬BM의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100034",
@@ -6238,7 +6238,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "超惡魔獸的HP變為2倍"
+			"detail": "디아블로몬의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100035",
@@ -6254,7 +6254,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "超惡魔獸的ATK變為2倍"
+			"detail": "디아블로몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100036",
@@ -6270,7 +6270,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "超惡魔獸的S-ATK變為2倍"
+			"detail": "디아블로몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100037",
@@ -6286,7 +6286,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "幻影迦奧迦獸BM的ATK變為1.5倍"
+			"detail": "미라쥬가오가몬BM의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100038",
@@ -6302,7 +6302,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "幻影迦奧迦獸BM的S-ATK變為1.5倍"
+			"detail": "미라쥬가오가몬BM의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100039",
@@ -6318,7 +6318,7 @@
 			"effectType": "22",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "神聖天女獸FM的DEF變為3倍"
+			"detail": "오파니몬FM의  DEF가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100040",
@@ -6334,7 +6334,7 @@
 			"effectType": "26",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "神聖天女獸FM的S-DEF變為3倍"
+			"detail": "오파니몬FM의  S-DEF가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100041",
@@ -6350,7 +6350,7 @@
 			"effectType": "22",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "幻影迦奧迦獸BM的DEF變為1.5倍"
+			"detail": "미라쥬가오가몬BM의 DEF가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100042",
@@ -6366,7 +6366,7 @@
 			"effectType": "26",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "幻影迦奧迦獸BM的S-DEF變為1.5倍"
+			"detail": "미라쥬가오가몬BM의 S-DEF가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100043",
@@ -6382,7 +6382,7 @@
 			"effectType": "22",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "神聖天女獸的DEF變為1.5倍"
+			"detail": "오파니몬의 DEF가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100044",
@@ -6398,7 +6398,7 @@
 			"effectType": "26",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "神聖天女獸的S-DEF變為1.5倍"
+			"detail": "오파니몬의 S-DEF가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100045",
@@ -6414,7 +6414,7 @@
 			"effectType": "22",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "傑斯獸的DEF變為2倍"
+			"detail": "제스몬 DEF가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100046",
@@ -6430,7 +6430,7 @@
 			"effectType": "26",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "傑斯獸的S-DEF變為2倍"
+			"detail": "제스몬 S-DEF가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100047",
@@ -6446,7 +6446,7 @@
 			"effectType": "22",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "頑固獸的DEF變為2倍"
+			"detail": "간쿠몬 DEF가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100048",
@@ -6462,7 +6462,7 @@
 			"effectType": "26",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "頑固獸的S-DEF變為2倍"
+			"detail": "간쿠몬 S-DEF가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100049",
@@ -6478,7 +6478,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "迪朗達獸的HP變為3倍"
+			"detail": "듀란다몬 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100050",
@@ -6494,7 +6494,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "迪朗達獸的ATK變為3倍"
+			"detail": "듀란다몬 ATK가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100051",
@@ -6510,7 +6510,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "迪朗達獸的S-ATK變為3倍"
+			"detail": "듀란다몬 S-ATK가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100052",
@@ -6526,7 +6526,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "究極V龍獸的ATK變為1.5倍"
+			"detail": "알포스브이드라몬 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100053",
@@ -6542,7 +6542,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "究極V龍獸的S-ATK變為1.5倍"
+			"detail": "알포스브이드라몬 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100054",
@@ -6558,7 +6558,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "300",
-			"detail": "海天使獸的HP變為4倍"
+			"detail": "마린엔젤몬 HP가 4배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100055",
@@ -6574,7 +6574,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "300",
-			"detail": "海天使獸的ATK變為4倍"
+			"detail": "마린엔젤몬 ATK가 4배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100056",
@@ -6590,7 +6590,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "300",
-			"detail": "海天使獸的S-ATK變為4倍"
+			"detail": "마린엔젤몬 S-ATK가 4배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100057",
@@ -6606,7 +6606,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "艾克薩獸的ATK變為1.5倍"
+			"detail": "엑자몬 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100058",
@@ -6622,7 +6622,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "艾克薩獸的S-ATK變為1.5倍"
+			"detail": "엑자몬 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100059",
@@ -6638,7 +6638,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "20",
-			"detail": "鴉神獸BM的HP變為1.2倍"
+			"detail": "레이브몬BM의 HP가 1.2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100060",
@@ -6654,7 +6654,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "20",
-			"detail": "鴉神獸BM的ATK變為1.2倍"
+			"detail": "레이브몬BM의 ATK가 1.2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100061",
@@ -6670,7 +6670,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "20",
-			"detail": "鴉神獸BM的S-ATK變為1.2倍"
+			"detail": "레이브몬BM의 S-ATK가 1.2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100062",
@@ -6686,7 +6686,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "20",
-			"detail": "薔薇獸BM的HP變為1.2倍"
+			"detail": "로제몬BM의 HP가 1.2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100063",
@@ -6702,7 +6702,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "20",
-			"detail": "薔薇獸BM的ATK變為1.2倍"
+			"detail": "로제몬BM의 ATK가 1.2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100064",
@@ -6718,7 +6718,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "20",
-			"detail": "薔薇獸BM的S-ATK變為1.2倍"
+			"detail": "로제몬BM의 S-ATK가 1.2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100065",
@@ -6734,7 +6734,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "鴉神獸BM+1的HP變為1.5倍"
+			"detail": "레이브몬BM+1의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100066",
@@ -6750,7 +6750,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "鴉神獸BM+1的ATK變為1.5倍"
+			"detail": "레이브몬BM+1의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100067",
@@ -6766,7 +6766,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "鴉神獸BM+1的S-ATK變為1.5倍"
+			"detail": "레이브몬BM+1의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100068",
@@ -6782,7 +6782,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "薔薇獸BM+1的HP變為1.5倍"
+			"detail": "로제몬BM+1의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100069",
@@ -6798,7 +6798,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "薔薇獸BM+1的ATK變為1.5倍"
+			"detail": "로제몬BM+1의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100070",
@@ -6814,7 +6814,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "薔薇獸BM+1的S-ATK變為1.5倍"
+			"detail": "로제몬BM+1의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100071",
@@ -6830,7 +6830,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鴉神獸BM+2的HP變為2倍"
+			"detail": "레이브몬BM+2의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100072",
@@ -6846,7 +6846,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鴉神獸BM+2的ATK變為2倍"
+			"detail": "레이브몬BM+2의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100073",
@@ -6862,7 +6862,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鴉神獸BM+2的S-ATK變為2倍"
+			"detail": "레이브몬BM+2의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100074",
@@ -6878,7 +6878,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "薔薇獸BM+2的HP變為2倍"
+			"detail": "로제몬BM+2의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100075",
@@ -6894,7 +6894,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "薔薇獸BM+2的ATK變為2倍"
+			"detail": "로제몬BM+2의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100076",
@@ -6910,7 +6910,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "薔薇獸BM+2的S-ATK變為2倍"
+			"detail": "로제몬BM+의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100077",
@@ -6926,7 +6926,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "鴉神獸BM+3的HP變為2.5倍"
+			"detail": "레이브몬BM+3의 HP가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100078",
@@ -6942,7 +6942,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "鴉神獸BM+3的ATK變為2.5倍"
+			"detail": "레이브몬BM+3의 ATK가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100079",
@@ -6958,7 +6958,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "鴉神獸BM+3的S-ATK變為2.5倍"
+			"detail": "레이브몬BM+3의 S-ATK가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100080",
@@ -6974,7 +6974,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "薔薇獸BM+3的HP變為2.5倍"
+			"detail": "로제몬BM+3의 HP가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100081",
@@ -6990,7 +6990,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "薔薇獸BM+3的ATK變為2.5倍"
+			"detail": "로제몬BM+3의 ATK가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100082",
@@ -7006,7 +7006,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "薔薇獸BM+3的S-ATK變為2.5倍"
+			"detail": "로제몬BM+의 S-ATK가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100083",
@@ -7022,7 +7022,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "鴉神獸BM+4的HP變為3倍"
+			"detail": "레이브몬BM+4의 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100084",
@@ -7038,7 +7038,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "鴉神獸BM+4的ATK變為3倍"
+			"detail": "레이브몬BM+4의 ATK가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100085",
@@ -7054,7 +7054,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "鴉神獸BM+4的S-ATK變為3倍"
+			"detail": "레이브몬BM+4의 S-ATK가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100086",
@@ -7070,7 +7070,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "薔薇獸BM+4的HP變為3倍"
+			"detail": "로제몬BM+4의 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100087",
@@ -7086,7 +7086,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "薔薇獸BM+4的ATK變為3倍"
+			"detail": "로제몬BM+4의 ATK가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100088",
@@ -7102,7 +7102,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "薔薇獸BM+4的S-ATK變為3倍"
+			"detail": "로제몬BM+의 S-ATK가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100089",
@@ -7118,7 +7118,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "薔薇獸BM的HP變為2倍"
+			"detail": "로제몬BM의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100090",
@@ -7134,7 +7134,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "薔薇獸BM的ATK變為2倍"
+			"detail": "로제몬BM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100091",
@@ -7150,7 +7150,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "薔薇獸BM的S-ATK變為2倍"
+			"detail": "로제몬BM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100092",
@@ -7166,7 +7166,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鴉神獸BM的HP變為2倍"
+			"detail": "레이브몬BM의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100093",
@@ -7182,7 +7182,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鴉神獸BM的ATK變為2倍"
+			"detail": "레이브몬BM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100094",
@@ -7198,7 +7198,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鴉神獸BM的S-ATK變為2倍"
+			"detail": "레이브몬BM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100095",
@@ -7214,7 +7214,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "薔薇獸的ATK變為1.5倍"
+			"detail": "로제몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100096",
@@ -7230,7 +7230,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "薔薇獸的S-ATK變為1.5倍"
+			"detail": "로제몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100097",
@@ -7246,7 +7246,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "蓮花獸的ATK變為1.5倍"
+			"detail": "로터스몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100098",
@@ -7262,7 +7262,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "蓮花獸的S-ATK變為1.5倍"
+			"detail": "로터스몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100099",
@@ -7278,7 +7278,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "鴉神獸的ATK變為1.5倍"
+			"detail": "레이브몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100100",
@@ -7294,7 +7294,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "鴉神獸的S-ATK變為1.5倍"
+			"detail": "레이브몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100101",
@@ -7310,7 +7310,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "終極巨龍獸的ATK變為1.5倍"
+			"detail": "러스트티라노몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100102",
@@ -7326,7 +7326,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "終極巨龍獸的S-ATK變為1.5倍"
+			"detail": "러스트티라노몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100103",
@@ -7342,7 +7342,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸的HP變為2倍"
+			"detail": "매그너몬의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100104",
@@ -7358,7 +7358,7 @@
 			"effectType": "22",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸的DEF變為2倍"
+			"detail": "매그너몬의 DEF가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100105",
@@ -7374,7 +7374,7 @@
 			"effectType": "26",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸的S-DEF變為2倍"
+			"detail": "매그너몬의 S-DEF가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100106",
@@ -7390,7 +7390,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸的HP變為2倍"
+			"detail": "매그너몬의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100107",
@@ -7406,7 +7406,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸的ATK變為2倍"
+			"detail": "매그너몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100108",
@@ -7422,7 +7422,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸的S-ATK變為2倍"
+			"detail": "매그너몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100109",
@@ -7438,7 +7438,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "八腳馬獸的HP變為1.5倍"
+			"detail": "슬레이프몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100110",
@@ -7454,7 +7454,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "八腳馬獸的ATK變為1.5倍"
+			"detail": "슬레이프몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100111",
@@ -7470,7 +7470,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "八腳馬獸的S-ATK變為1.5倍"
+			"detail": "슬레이프몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100112",
@@ -7486,7 +7486,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸的HP變為2倍"
+			"detail": "매그너몬의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100113",
@@ -7502,7 +7502,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸的ATK變為2倍"
+			"detail": "매그너몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100114",
@@ -7518,7 +7518,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸的S-ATK變為2倍"
+			"detail": "매그너몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100115",
@@ -7534,7 +7534,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "紅蓮騎士獸CM的HP變為2倍"
+			"detail": "듀크몬CM의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100116",
@@ -7550,7 +7550,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "紅蓮騎士獸CM的ATK變為2倍"
+			"detail": "듀크몬CM의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100117",
@@ -7566,7 +7566,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "紅蓮騎士獸CM的S-ATK變為2倍"
+			"detail": "듀크몬CM의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100118",
@@ -7582,7 +7582,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "20",
-			"detail": "B戰鬥暴龍獸X的HP變為1.2倍"
+			"detail": "블랙워그레이몬X의 HP가 1.2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100119",
@@ -7598,7 +7598,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "20",
-			"detail": "B戰鬥暴龍獸X的ATK變為1.2倍"
+			"detail": "블랙워그레이몬X의 ATK가 1.2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100120",
@@ -7614,7 +7614,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "20",
-			"detail": "B戰鬥暴龍獸X的S-ATK變為1.2倍"
+			"detail": "블랙워그레이몬X의 S-ATK가 1.2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100121",
@@ -7630,7 +7630,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "B戰鬥暴龍獸X+1的HP變為1.5倍"
+			"detail": "블랙워그레이몬X+1의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100122",
@@ -7646,7 +7646,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "B戰鬥暴龍獸X+1的ATK變為1.5倍"
+			"detail": "블랙워그레이몬X+1의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100123",
@@ -7662,7 +7662,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "B戰鬥暴龍獸X+1的S-ATK變為1.5倍"
+			"detail": "블랙워그레이몬X+1의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100124",
@@ -7678,7 +7678,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "B戰鬥暴龍獸X+2的HP變為2倍"
+			"detail": "블랙워그레이몬X+2의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100125",
@@ -7694,7 +7694,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "B戰鬥暴龍獸X+2的ATK變為2倍"
+			"detail": "블랙워그레이몬X+2의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100126",
@@ -7710,7 +7710,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "B戰鬥暴龍獸X+2的S-ATK變為2倍"
+			"detail": "블랙워그레이몬X+2의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100127",
@@ -7726,7 +7726,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "B戰鬥暴龍獸X+3的HP變為2.5倍"
+			"detail": "블랙워그레이몬X+3의 HP가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100128",
@@ -7742,7 +7742,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "B戰鬥暴龍獸X+3的ATK變為2.5倍"
+			"detail": "블랙워그레이몬X+3의 ATK가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100129",
@@ -7758,7 +7758,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "B戰鬥暴龍獸X+3的S-ATK變為2.5倍"
+			"detail": "블랙워그레이몬X+3의 S-ATK가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100130",
@@ -7774,7 +7774,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "B戰鬥暴龍獸X+4的HP變為3倍"
+			"detail": "블랙워그레이몬X+4의 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100131",
@@ -7790,7 +7790,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "B戰鬥暴龍獸X+4的ATK變為3倍"
+			"detail": "블랙워그레이몬X+4의 ATK가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100132",
@@ -7806,7 +7806,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "B戰鬥暴龍獸X+4的S-ATK變為3倍"
+			"detail": "블랙워그레이몬X+4의 S-ATK가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100133",
@@ -7822,7 +7822,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "B戰鬥暴龍獸X的HP變為2倍"
+			"detail": "블랙워그레이몬X의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100134",
@@ -7838,7 +7838,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "B戰鬥暴龍獸X的ATK變為2倍"
+			"detail": "블랙워그레이몬X의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100135",
@@ -7854,7 +7854,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "B戰鬥暴龍獸X的S-ATK變為2倍"
+			"detail": "블랙워그레이몬X의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100136",
@@ -7870,7 +7870,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鋼鐵加魯魯獸X抗體的HP變為2倍"
+			"detail": "메탈가루몬X항체의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100137",
@@ -7886,7 +7886,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鋼鐵加魯魯獸X抗體的ATK變為2倍"
+			"detail": "메탈가루몬X항체의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100138",
@@ -7902,7 +7902,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鋼鐵加魯魯獸X抗體的S-ATK變為2倍"
+			"detail": "메탈가루몬X항체의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100139",
@@ -7918,7 +7918,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "鋼鐵加魯魯獸的HP變為1.5倍"
+			"detail": "메탈가루몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100140",
@@ -7934,7 +7934,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "鋼鐵加魯魯獸的ATK變為1.5倍"
+			"detail": "메탈가루몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100141",
@@ -7950,7 +7950,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "鋼鐵加魯魯獸的S-ATK變為1.5倍"
+			"detail": "메탈가루몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100142",
@@ -7966,7 +7966,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鋼鐵加魯魯獸X抗體的HP變為2倍"
+			"detail": "메탈가루몬X항체의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100143",
@@ -7982,7 +7982,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鋼鐵加魯魯獸X抗體的ATK變為2倍"
+			"detail": "메탈가루몬X항체의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100144",
@@ -7998,7 +7998,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "鋼鐵加魯魯獸X抗體的S-ATK變為2倍"
+			"detail": "메탈가루몬X항체의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100145",
@@ -8014,7 +8014,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "鋼鐵加魯魯獸的HP變為1.5倍"
+			"detail": "메탈가루몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100146",
@@ -8030,7 +8030,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "鋼鐵加魯魯獸的ATK變為1.5倍"
+			"detail": "메탈가루몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100147",
@@ -8046,7 +8046,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "鋼鐵加魯魯獸的S-ATK變為1.5倍"
+			"detail": "메탈가루몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100148",
@@ -8062,7 +8062,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "20",
-			"detail": "電光暴龍獸的HP變為1.2倍"
+			"detail": "블리츠그레이몬의 HP가 1.2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100149",
@@ -8078,7 +8078,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "20",
-			"detail": "電光暴龍獸的ATK變為1.2倍"
+			"detail": "블리츠그레이몬의 ATK가 1.2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100150",
@@ -8094,7 +8094,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "20",
-			"detail": "電光暴龍獸的S-ATK變為1.2倍"
+			"detail": "블리츠그레이몬의 S-ATK가 1.2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100151",
@@ -8110,7 +8110,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "電光暴龍獸+1的HP變為1.5倍"
+			"detail": "블리츠그레이몬+1의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100152",
@@ -8126,7 +8126,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "電光暴龍獸+1的ATK變為1.5倍"
+			"detail": "블리츠그레이몬+1의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100153",
@@ -8142,7 +8142,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "電光暴龍獸+1的S-ATK變為1.5倍"
+			"detail": "블리츠그레이몬+1의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100154",
@@ -8158,7 +8158,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "電光暴龍獸+2的HP變為2倍"
+			"detail": "블리츠그레이몬+2의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100155",
@@ -8174,7 +8174,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "電光暴龍獸+2的ATK變為2倍"
+			"detail": "블리츠그레이몬+2의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100156",
@@ -8190,7 +8190,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "電光暴龍獸+2的S-ATK變為2倍"
+			"detail": "블리츠그레이몬+2의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100157",
@@ -8206,7 +8206,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "電光暴龍獸+3的HP變為2.5倍"
+			"detail": "블리츠그레이몬+3의 HP가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100158",
@@ -8222,7 +8222,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "電光暴龍獸+3的ATK變為2.5倍"
+			"detail": "블리츠그레이몬+3의 ATK가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100159",
@@ -8238,7 +8238,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "電光暴龍獸+3的S-ATK變為2.5倍"
+			"detail": "블리츠그레이몬+3의 S-ATK가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100160",
@@ -8254,7 +8254,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "電光暴龍獸+4的HP變為3倍"
+			"detail": "블리츠그레이몬+4의 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100161",
@@ -8270,7 +8270,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "電光暴龍獸+4的ATK變為3倍"
+			"detail": "블리츠그레이몬+4의 ATK가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100162",
@@ -8286,7 +8286,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "電光暴龍獸+4的S-ATK變為3倍"
+			"detail": "블리츠그레이몬+4의 S-ATK가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100163",
@@ -8302,7 +8302,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "偃月加魯魯獸的HP變為2倍"
+			"detail": "크레스가루몬의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100164",
@@ -8318,7 +8318,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "偃月加魯魯獸的ATK變為2倍"
+			"detail": "크레스가루몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100165",
@@ -8334,7 +8334,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "偃月加魯魯獸的S-ATK變為2倍"
+			"detail": "크레스가루몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100166",
@@ -8350,7 +8350,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "究極古加獸的ATK變為1.5倍"
+			"detail": "그랜쿠가몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100167",
@@ -8366,7 +8366,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "究極古加獸的S-ATK變為1.5倍"
+			"detail": "그랜쿠가몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100168",
@@ -8382,7 +8382,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "白金鼻涕獸的ATK變為1.5倍"
+			"detail": "플래티넘워매몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100169",
@@ -8398,7 +8398,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "白金鼻涕獸的S-ATK變為1.5倍"
+			"detail": "플래티넘워매몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100170",
@@ -8414,7 +8414,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "密涅瓦獸的ATK變為1.5倍"
+			"detail": "미네르바몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100171",
@@ -8430,7 +8430,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "密涅瓦獸的S-ATK變為1.5倍"
+			"detail": "미네르바몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100172",
@@ -8446,7 +8446,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "基路比獸(善)的ATK變為1.5倍"
+			"detail": "켈비몬(선)의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100173",
@@ -8462,7 +8462,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "基路比獸(善)的S-ATK變為1.5倍"
+			"detail": "켈비몬(선)의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100174",
@@ -8478,7 +8478,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "裁決獸的ATK變為1.5倍"
+			"detail": "저스티몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100175",
@@ -8494,7 +8494,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "裁決獸的S-ATK變為1.5倍"
+			"detail": "저스티몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100176",
@@ -8510,7 +8510,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "王子豆豆獸的ATK變為1.5倍"
+			"detail": "프린스콩알몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100177",
@@ -8526,7 +8526,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "王子豆豆獸的S-ATK變為1.5倍"
+			"detail": "프린스콩알몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100178",
@@ -8542,7 +8542,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "偃月加魯魯獸的HP變為2倍"
+			"detail": "크레스가루몬의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100179",
@@ -8558,7 +8558,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "偃月加魯魯獸的ATK變為2倍"
+			"detail": "크레스가루몬의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100180",
@@ -8574,7 +8574,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "偃月加魯魯獸的S-ATK變為2倍"
+			"detail": "크레스가루몬의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100181",
@@ -8590,7 +8590,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "閃光暴龍獸的HP變為1.5倍"
+			"detail": "샤인그레이몬의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100182",
@@ -8606,7 +8606,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "閃光暴龍獸的ATK變為1.5倍"
+			"detail": "샤인그레이몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100183",
@@ -8622,7 +8622,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "閃光暴龍獸的S-ATK變為1.5倍"
+			"detail": "샤인그레이몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100184",
@@ -8638,7 +8638,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "閃光暴龍獸BM的HP變為1.5倍"
+			"detail": "샤인그레이몬BM의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100185",
@@ -8654,7 +8654,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "閃光暴龍獸BM的ATK變為1.5倍"
+			"detail": "샤인그레이몬BM의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100186",
@@ -8670,7 +8670,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "閃光暴龍獸BM的S-ATK變為1.5倍"
+			"detail": "샤인그레이몬BM의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100187",
@@ -8686,7 +8686,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "古代暴龍獸的HP變為2倍"
+			"detail": "에이션트그레이몬의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100188",
@@ -8702,7 +8702,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "古代暴龍獸的ATK變為1.5倍"
+			"detail": "에이션트그레이몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100189",
@@ -8718,7 +8718,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "古代暴龍獸的S-ATK變為1.5倍"
+			"detail": "에이션트그레이몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100190",
@@ -8734,7 +8734,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "古代加魯魯獸的HP變為2倍"
+			"detail": "에이션트가루몬의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100191",
@@ -8750,7 +8750,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "古代加魯魯獸的ATK變為1.5倍"
+			"detail": "에이션트가루몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100192",
@@ -8766,7 +8766,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "古代加魯魯獸的S-ATK變為1.5倍"
+			"detail": "에이션트가루몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100193",
@@ -8782,7 +8782,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金剛武神獸的HP變為2倍"
+			"detail": "스사노오몬의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100194",
@@ -8798,7 +8798,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "金剛武神獸的ATK變為1.5倍"
+			"detail": "스사노오몬의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100195",
@@ -8814,7 +8814,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "金剛武神獸的S-ATK變為1.5倍"
+			"detail": "스사노오몬의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100196",
@@ -8830,7 +8830,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸X抗體的HP變為2倍"
+			"detail": "매그너몬X항체의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100197",
@@ -8846,7 +8846,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "金甲龍獸X抗體的ATK變為1.5倍"
+			"detail": "매그너몬X항체의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100198",
@@ -8862,7 +8862,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "金甲龍獸X抗體的S-ATK變為1.5倍"
+			"detail": "매그너몬X항체의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100199",
@@ -8878,7 +8878,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "20",
-			"detail": "金甲龍獸X抗體的HP變為1.2倍"
+			"detail": "매그너몬X항체의 HP가 1.2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100200",
@@ -8894,7 +8894,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "20",
-			"detail": "金甲龍獸X抗體的ATK變為1.2倍"
+			"detail": "매그너몬X항체의 ATK가 1.2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100201",
@@ -8910,7 +8910,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "20",
-			"detail": "金甲龍獸X抗體的S-ATK變為1.2倍"
+			"detail": "매그너몬X항체의 S-ATK가 1.2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100202",
@@ -8926,7 +8926,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "金甲龍獸X抗體+1的HP變為1.5倍"
+			"detail": "매그너몬X항체+1의 HP가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100203",
@@ -8942,7 +8942,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "金甲龍獸X抗體+1的ATK變為1.5倍"
+			"detail": "매그너몬X항체+1의 ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100204",
@@ -8958,7 +8958,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "50",
-			"detail": "金甲龍獸X抗體+1的S-ATK變為1.5倍"
+			"detail": "매그너몬X항체+1의 S-ATK가 1.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100205",
@@ -8974,7 +8974,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸X抗體+2的HP變為2倍"
+			"detail": "매그너몬X항체+2의 HP가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100206",
@@ -8990,7 +8990,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸X抗體+2的ATK變為2倍"
+			"detail": "매그너몬X항체+2의 ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100207",
@@ -9006,7 +9006,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "100",
-			"detail": "金甲龍獸X抗體+2的S-ATK變為2倍"
+			"detail": "매그너몬X항체+2의 S-ATK가 2배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100208",
@@ -9022,7 +9022,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "金甲龍獸X抗體+3的HP變為2.5倍"
+			"detail": "매그너몬X항체+3의 HP가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100209",
@@ -9038,7 +9038,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "金甲龍獸X抗體+3的ATK變為2.5倍"
+			"detail": "매그너몬X항체+3의 ATK가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100210",
@@ -9054,7 +9054,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "150",
-			"detail": "金甲龍獸X抗體+3的S-ATK變為2.5倍"
+			"detail": "매그너몬X항체+3의 S-ATK가 2.5배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100211",
@@ -9070,7 +9070,7 @@
 			"effectType": "23",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "金甲龍獸X抗體+4的HP變為3倍"
+			"detail": "매그너몬X항체+4의 HP가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100212",
@@ -9086,7 +9086,7 @@
 			"effectType": "21",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "金甲龍獸X抗體+4的ATK變為3倍"
+			"detail": "매그너몬X항체+4의 ATK가 3배"
 		},
 		{
 			"worldDungeonExtraEffectId": "100213",
@@ -9102,7 +9102,7 @@
 			"effectType": "25",
 			"effectSubType": "2",
 			"effectValue": "200",
-			"detail": "金甲龍獸X抗體+4的S-ATK變為3倍"
+			"detail": "매그너몬X항체+4의 S-ATK가 3배"
 		}
 	]
 }

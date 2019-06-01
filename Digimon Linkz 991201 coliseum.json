@@ -2,7 +2,7 @@
 	"colosseumM": [
 		{
 			"colosseumId": "10003",
-			"title": "第3期",
+			"title": "제3회",
 			"openStatus": "1",
 			"prevColosseumId": "10002",
 			"openTime": "2018-02-01 14:00:00",
@@ -15,7 +15,7 @@
 		},
 		{
 			"colosseumId": "10004",
-			"title": "第4期",
+			"title": "제4회",
 			"openStatus": "1",
 			"prevColosseumId": "10003",
 			"openTime": "2018-03-01 14:00:00",
@@ -28,7 +28,7 @@
 		},
 		{
 			"colosseumId": "10005",
-			"title": "第5期",
+			"title": "제5회",
 			"openStatus": "1",
 			"prevColosseumId": "10004",
 			"openTime": "2018-04-01 14:00:00",
@@ -41,7 +41,7 @@
 		},
 		{
 			"colosseumId": "10006",
-			"title": "第6期",
+			"title": "제6회",
 			"openStatus": "1",
 			"prevColosseumId": "10005",
 			"openTime": "2018-05-01 14:00:00",
@@ -54,7 +54,7 @@
 		},
 		{
 			"colosseumId": "10007",
-			"title": "第7期",
+			"title": "제7회",
 			"openStatus": "1",
 			"prevColosseumId": "10006",
 			"openTime": "2018-06-01 14:00:00",
@@ -67,7 +67,7 @@
 		},
 		{
 			"colosseumId": "10008",
-			"title": "第8期",
+			"title": "제8회",
 			"openStatus": "1",
 			"prevColosseumId": "10007",
 			"openTime": "2018-07-01 14:00:00",
@@ -80,7 +80,7 @@
 		},
 		{
 			"colosseumId": "10009",
-			"title": "第9期",
+			"title": "제9회",
 			"openStatus": "1",
 			"prevColosseumId": "10008",
 			"openTime": "2018-08-01 14:00:00",
@@ -93,7 +93,7 @@
 		},
 		{
 			"colosseumId": "10010",
-			"title": "第10期",
+			"title": "제10회",
 			"openStatus": "1",
 			"prevColosseumId": "10009",
 			"openTime": "2018-09-01 14:00:00",
@@ -106,7 +106,7 @@
 		},
 		{
 			"colosseumId": "10011",
-			"title": "第11期",
+			"title": "제11회",
 			"openStatus": "1",
 			"prevColosseumId": "10010",
 			"openTime": "2018-10-01 14:00:00",
@@ -119,7 +119,7 @@
 		},
 		{
 			"colosseumId": "10012",
-			"title": "第12期",
+			"title": "제12회",
 			"openStatus": "1",
 			"prevColosseumId": "10011",
 			"openTime": "2018-11-01 14:00:00",
@@ -132,7 +132,7 @@
 		},
 		{
 			"colosseumId": "10013",
-			"title": "第13期",
+			"title": "제13회",
 			"openStatus": "1",
 			"prevColosseumId": "10012",
 			"openTime": "2018-12-01 14:00:00",
@@ -145,7 +145,7 @@
 		},
 		{
 			"colosseumId": "10014",
-			"title": "第14期",
+			"title": "제14회",
 			"openStatus": "1",
 			"prevColosseumId": "10013",
 			"openTime": "2019-01-01 14:00:00",
@@ -158,7 +158,7 @@
 		},
 		{
 			"colosseumId": "10015",
-			"title": "第15期",
+			"title": "제15회",
 			"openStatus": "1",
 			"prevColosseumId": "10014",
 			"openTime": "2019-02-01 14:00:00",
@@ -171,7 +171,7 @@
 		},
 		{
 			"colosseumId": "10016",
-			"title": "第15期",
+			"title": "제15회",
 			"openStatus": "1",
 			"prevColosseumId": "10015",
 			"openTime": "2019-03-01 14:00:00",
@@ -184,7 +184,7 @@
 		},
 		{
 			"colosseumId": "10017",
-			"title": "第17期",
+			"title": "제17회",
 			"openStatus": "1",
 			"prevColosseumId": "10016",
 			"openTime": "2019-04-01 14:00:00",
@@ -197,7 +197,7 @@
 		},
 		{
 			"colosseumId": "10018",
-			"title": "第18期",
+			"title": "제18회",
 			"openStatus": "1",
 			"prevColosseumId": "10017",
 			"openTime": "2019-05-01 14:00:00",
@@ -209,8 +209,21 @@
 			"extraRewardRate": "3"
 		},
 		{
+			"colosseumId": "10019",
+			"title": "제19회",
+			"openStatus": "1",
+			"prevColosseumId": "10018",
+			"openTime": "2019-06-01 14:00:00",
+			"startDate": "2019-06-01",
+			"endDate": "2019-07-01",
+			"closeTime": "2019-07-01 13:59:59",
+			"worldDungeonId": "10001",
+			"rewardGroupId": "100019",
+			"extraRewardRate": "3"
+		},
+		{
 			"colosseumId": "100001",
-			"title": "第1期",
+			"title": "제1회",
 			"openStatus": "1",
 			"prevColosseumId": "0",
 			"openTime": "2017-12-07 14:00:00",
@@ -223,7 +236,7 @@
 		},
 		{
 			"colosseumId": "100002",
-			"title": "第2期",
+			"title": "제2회",
 			"openStatus": "1",
 			"prevColosseumId": "100001",
 			"openTime": "2018-01-01 14:00:00",
