@@ -764,6 +764,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1091",
+			"name": "19-Time Champion",
+			"detail": "Proof of the glory of becoming Champion of the Colosseum (x19)",
+			"img": "honorific_colosseum_91",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1092",
+			"name": "19-Time SSS-Ranker",
+			"detail": "Proof of the honor of reaching the highest rank in the Colosseum (x19)",
+			"img": "honorific_colosseum_92",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1093",
+			"name": "19-Time SS-Ranker",
+			"detail": "Proof of the prestige of reaching a high rank in the Colosseum (x19)",
+			"img": "honorific_colosseum_93",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1094",
+			"name": "19-Time S-Ranker",
+			"detail": "Proof of the renown of reaching a rank in the Colosseum (x19)",
+			"img": "honorific_colosseum_94",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1095",
+			"name": "19-Time Challenger",
+			"detail": "Proof of being a challenger in the Colosseum (x19)",
+			"img": "honorific_colosseum_95",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10005",
 			"name": "Supreme X Knight -OMEGA- ",
 			"detail": "Proof of the honor of reaching the highest rank in the Supreme X Knight -OMEGA- ",
