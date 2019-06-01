@@ -764,6 +764,41 @@
 			"dispFlg": "0"
 		},
 		{
+			"titleId": "1091",
+			"name": "第19期霸主",
+			"detail": "贈予第19期競技場霸主的光榮之證。",
+			"img": "honorific_colosseum_91",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1092",
+			"name": "第19期SSS級排名玩家",
+			"detail": "贈予第19期競技場最頂尖排名玩家的榮譽之證。",
+			"img": "honorific_colosseum_92",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1093",
+			"name": "第19期SS級排名玩家",
+			"detail": "贈予第19期競技場頂尖排名玩家的名譽之證。",
+			"img": "honorific_colosseum_93",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1094",
+			"name": "第19期S級排名玩家",
+			"detail": "贈予第19期競技場排名玩家的名聲之證。",
+			"img": "honorific_colosseum_94",
+			"dispFlg": "0"
+		},
+		{
+			"titleId": "1095",
+			"name": "第19期挑戰者",
+			"detail": "贈予第19期競技場挑戰者的證明。",
+			"img": "honorific_colosseum_95",
+			"dispFlg": "0"
+		},
+		{
 			"titleId": "10005",
 			"name": "究極X騎士 -OMEGA-",
 			"detail": "究極X騎士 -OMEGA- 最頂尖排名玩家的榮譽之證。",
