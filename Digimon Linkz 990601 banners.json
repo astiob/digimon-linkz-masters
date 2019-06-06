@@ -9558,6 +9558,28 @@
 			"dispNum": "50",
 			"startTime": "2019-05-30 18:00:00",
 			"endTime": "2019-06-05 23:59:59"
+		},
+		{
+			"bannerId": "908",
+			"actionType": "menu",
+			"name": "大乱戦 -大地- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30127/30127_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1478",
+			"dispNum": "7",
+			"startTime": "2019-06-06 16:00:00",
+			"endTime": "2019-06-12 23:59:59"
+		},
+		{
+			"bannerId": "909",
+			"actionType": "menu",
+			"name": "イベント「大乱戦 -大地-」開催！",
+			"img": "/events/syuusyuu/204/Holding_4.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1480",
+			"dispNum": "50",
+			"startTime": "2019-06-06 18:00:00",
+			"endTime": "2019-06-12 23:59:59"
 		}
 	]
 }
