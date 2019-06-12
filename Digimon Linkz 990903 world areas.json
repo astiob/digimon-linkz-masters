@@ -555,7 +555,7 @@
 		{
 			"worldAreaId": "10000",
 			"worldId": "6",
-			"priority": "13",
+			"priority": "9",
 			"name": "난전 -광망-",
 			"img": "syuusyuu/200/Holding_1.png?v=1",
 			"description": "난전 -광망-",
@@ -567,7 +567,7 @@
 		{
 			"worldAreaId": "10001",
 			"worldId": "6",
-			"priority": "14",
+			"priority": "10",
 			"name": "난전 -심연-",
 			"img": "syuusyuu/201/Holding_1.png",
 			"description": "난전 -심연-",
@@ -579,10 +579,34 @@
 		{
 			"worldAreaId": "10002",
 			"worldId": "6",
-			"priority": "15",
+			"priority": "11",
 			"name": "난전 -양염-",
 			"img": "syuusyuu/202/Holding_1.png",
 			"description": "난전 -양염-",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "10003",
+			"worldId": "6",
+			"priority": "15",
+			"name": "난전 -빙하-",
+			"img": "syuusyuu/203/Holding_1.png",
+			"description": "난전 -빙하-",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "10004",
+			"worldId": "6",
+			"priority": "13",
+			"name": "난전 -대지-",
+			"img": "syuusyuu/204/Holding_1.png",
+			"description": "난전 -대지-",
 			"type": "1",
 			"prerequisiteWorldAreaId": "0",
 			"openTime": "2015-05-01 00:00:00",

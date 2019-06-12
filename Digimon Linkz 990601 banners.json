@@ -3728,6 +3728,61 @@
 			"dispNum": "100",
 			"startTime": "2019-05-28 05:00:00",
 			"endTime": "2019-08-06 04:59:59"
+		},
+		{
+			"bannerId": "100342",
+			"actionType": "menu",
+			"name": "이벤트 ‘난전 -빙하-’ 개최!",
+			"img": "/events/syuusyuu/203/Holding_2.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=650",
+			"dispNum": "50",
+			"startTime": "2019-06-03 18:00:00",
+			"endTime": "2019-06-09 13:59:59"
+		},
+		{
+			"bannerId": "100343",
+			"actionType": "menu",
+			"name": "‘난전 -빙하-’ 특효 칩 캡처 이벤트 개최!",
+			"img": "/gasha/special/30126/30126_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=651",
+			"dispNum": "19",
+			"startTime": "2019-06-03 16:00:00",
+			"endTime": "2019-06-09 13:59:59"
+		},
+		{
+			"bannerId": "100344",
+			"actionType": "menu",
+			"name": "‘난전 -대지-’ 특효 칩 캡처 이벤트 개최!",
+			"img": "/gasha/special/30127/30127_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=653",
+			"dispNum": "19",
+			"startTime": "2019-06-10 16:00:00",
+			"endTime": "2019-06-16 13:59:59"
+		},
+		{
+			"bannerId": "100345",
+			"actionType": "menu",
+			"name": "이벤트 ‘난전 -대지-’ 개최!",
+			"img": "/events/syuusyuu/204/Holding_2.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=654",
+			"dispNum": "50",
+			"startTime": "2019-06-10 18:00:00",
+			"endTime": "2019-06-16 13:59:59"
+		},
+		{
+			"bannerId": "100350",
+			"actionType": "menu",
+			"name": "‘디지몬 리얼라이즈’소개",
+			"img": "/collaboration/rearise/420120.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=667",
+			"dispNum": "110",
+			"startTime": "2019-06-13 11:00:00",
+			"endTime": "2019-07-30 23:59:59"
 		}
 	]
 }

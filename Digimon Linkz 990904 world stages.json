@@ -1665,6 +1665,32 @@
 			"adminOpenFlg": "0"
 		},
 		{
+			"worldStageId": "10004",
+			"worldAreaId": "10003",
+			"priority": "1053",
+			"name": "난전 -빙하-",
+			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/203/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
+			"worldStageId": "10005",
+			"worldAreaId": "10004",
+			"priority": "1054",
+			"name": "난전 -대지-",
+			"description": "断片データを集めてさまざまなアイテムを手に入れよう！",
+			"type": "1",
+			"prerequisiteWorldStageId": "0",
+			"stageImage": "syuusyuu/204/Holding_2.png",
+			"openTime": "2015-04-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00",
+			"adminOpenFlg": "0"
+		},
+		{
 			"worldStageId": "50001",
 			"worldAreaId": "8",
 			"priority": "500",

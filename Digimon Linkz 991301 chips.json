@@ -11056,6 +11056,138 @@
 			"effect": "chip_effect_30005"
 		},
 		{
+			"chipId": "300018",
+			"chipGroupId": "30006",
+			"name": "빙하의 드롭 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30006",
+			"detail": "ATK+20, ‘난전 -빙하-’에서 데이터 단편의 획득 수 +1",
+			"effect": "chip_effect_30006"
+		},
+		{
+			"chipId": "300019",
+			"chipGroupId": "30006",
+			"name": "빙하의 드롭 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30006",
+			"detail": "ATK+30, ‘난전 -빙하-’에서 데이터 단편의 획득 수 +3",
+			"effect": "chip_effect_30006"
+		},
+		{
+			"chipId": "300020",
+			"chipGroupId": "30006",
+			"name": "빙하의 드롭 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30006",
+			"detail": "ATK+50, ‘난전 -빙하-’에서 데이터 단편의 획득 수 +9",
+			"effect": "chip_effect_30006"
+		},
+		{
+			"chipId": "300021",
+			"chipGroupId": "30007",
+			"name": "빙하의 EX STAGE 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30007",
+			"detail": "S-ATK+20, ‘난전 -빙하-’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_30007"
+		},
+		{
+			"chipId": "300022",
+			"chipGroupId": "30007",
+			"name": "빙하의 EX STAGE 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30007",
+			"detail": "S-ATK+30, ‘난전 -빙하-’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_30007"
+		},
+		{
+			"chipId": "300023",
+			"chipGroupId": "30007",
+			"name": "빙하의 EX STAGE 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30007",
+			"detail": "S-ATK+50, ‘난전 -빙하-’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_30007"
+		},
+		{
+			"chipId": "300024",
+			"chipGroupId": "30008",
+			"name": "대지의 드롭 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30008",
+			"detail": "ATK+20, ‘난전 -대지-’에서 데이터 단편의 획득 수 +1",
+			"effect": "chip_effect_30008"
+		},
+		{
+			"chipId": "300025",
+			"chipGroupId": "30008",
+			"name": "대지의 드롭 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30008",
+			"detail": "ATK+30, ‘난전 -대지-’에서 데이터 단편의 획득 수 +3",
+			"effect": "chip_effect_30008"
+		},
+		{
+			"chipId": "300026",
+			"chipGroupId": "30008",
+			"name": "대지의 드롭 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30008",
+			"detail": "ATK+50, ‘난전 -대지-’에서 데이터 단편의 획득 수 +9",
+			"effect": "chip_effect_30008"
+		},
+		{
+			"chipId": "300027",
+			"chipGroupId": "30009",
+			"name": "대지의 EX STAGE 특효 칩 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30009",
+			"detail": "S-ATK+20, ‘난전 -대지-’에서 EXTRA STAGE 발생 확률 소폭 상승",
+			"effect": "chip_effect_30009"
+		},
+		{
+			"chipId": "300028",
+			"chipGroupId": "30009",
+			"name": "대지의 EX STAGE 특효 칩 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30009",
+			"detail": "S-ATK+30, ‘난전 -대지-’에서 EXTRA STAGE 발생 확률 상승",
+			"effect": "chip_effect_30009"
+		},
+		{
+			"chipId": "300029",
+			"chipGroupId": "30009",
+			"name": "대지의 EX STAGE 특효 칩 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30009",
+			"detail": "S-ATK+50, ‘난전 -대지-’에서 EXTRA STAGE 발생 확률 크게 상승",
+			"effect": "chip_effect_30009"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "파괴와 구세의 Pt 특효 C",
