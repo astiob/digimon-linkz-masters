@@ -555,7 +555,7 @@
 		{
 			"worldAreaId": "10000",
 			"worldId": "6",
-			"priority": "13",
+			"priority": "9",
 			"name": "Melee -Bright-",
 			"img": "syuusyuu/200/Holding_1.png?v=1",
 			"description": "Melee -Bright-",
@@ -567,7 +567,7 @@
 		{
 			"worldAreaId": "10001",
 			"worldId": "6",
-			"priority": "14",
+			"priority": "10",
 			"name": "Melee -Abyss-",
 			"img": "syuusyuu/201/Holding_1.png",
 			"description": "Melee -Abyss-",
@@ -579,10 +579,34 @@
 		{
 			"worldAreaId": "10002",
 			"worldId": "6",
-			"priority": "15",
+			"priority": "11",
 			"name": "Melee -Blazing-",
 			"img": "syuusyuu/202/Holding_1.png",
 			"description": "Melee -Blazing-",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "10003",
+			"worldId": "6",
+			"priority": "15",
+			"name": "Melee -Glacier-",
+			"img": "syuusyuu/203/Holding_1.png",
+			"description": "Melee -Glacier-",
+			"type": "1",
+			"prerequisiteWorldAreaId": "0",
+			"openTime": "2015-05-01 00:00:00",
+			"closeTime": "2030-05-01 00:00:00"
+		},
+		{
+			"worldAreaId": "10004",
+			"worldId": "6",
+			"priority": "13",
+			"name": "Melee -Earth-",
+			"img": "syuusyuu/204/Holding_1.png",
+			"description": "Melee -Earth-",
 			"type": "1",
 			"prerequisiteWorldAreaId": "0",
 			"openTime": "2015-05-01 00:00:00",

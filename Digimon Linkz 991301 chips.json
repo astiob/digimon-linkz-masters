@@ -11056,6 +11056,138 @@
 			"effect": "chip_effect_30005"
 		},
 		{
+			"chipId": "300018",
+			"chipGroupId": "30006",
+			"name": "Glacier Drop Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30006",
+			"detail": "ATK +20. Also increases Data Byte drop by 1 in \"Melee -Glacier-\".",
+			"effect": "chip_effect_30006"
+		},
+		{
+			"chipId": "300019",
+			"chipGroupId": "30006",
+			"name": "Glacier Drop Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30006",
+			"detail": "ATK +30. Also increases Data Byte drop by 3 in \"Melee -Glacier-\".",
+			"effect": "chip_effect_30006"
+		},
+		{
+			"chipId": "300020",
+			"chipGroupId": "30006",
+			"name": "Glacier Drop Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30006",
+			"detail": "ATK +50. Also increases Data Byte drop by 9 in \"Melee -Glacier-\".",
+			"effect": "chip_effect_30006"
+		},
+		{
+			"chipId": "300021",
+			"chipGroupId": "30007",
+			"name": "Glacier EX stage Specialty Chip  C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30007",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"Melee -Glacier-\" event.",
+			"effect": "chip_effect_30007"
+		},
+		{
+			"chipId": "300022",
+			"chipGroupId": "30007",
+			"name": "Glacier EX stage Specialty Chip  B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30007",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"Melee -Glacier-\" event.",
+			"effect": "chip_effect_30007"
+		},
+		{
+			"chipId": "300023",
+			"chipGroupId": "30007",
+			"name": "Glacier EX stage Specialty Chip  A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30007",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Melee -Glacier-\" event.",
+			"effect": "chip_effect_30007"
+		},
+		{
+			"chipId": "300024",
+			"chipGroupId": "30008",
+			"name": "Earth Drop Specialty Chip C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30008",
+			"detail": "ATK +20. Also increases Data Byte drop by 1 in \"Melee -Earth-\".",
+			"effect": "chip_effect_30008"
+		},
+		{
+			"chipId": "300025",
+			"chipGroupId": "30008",
+			"name": "Earth Drop Specialty Chip B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30008",
+			"detail": "ATK +30. Also increases Data Byte drop by 3 in \"Melee -Earth-\".",
+			"effect": "chip_effect_30008"
+		},
+		{
+			"chipId": "300026",
+			"chipGroupId": "30008",
+			"name": "Earth Drop Specialty Chip A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30008",
+			"detail": "ATK +50. Also increases Data Byte drop by 9 in \"Melee -Earth-\".",
+			"effect": "chip_effect_30008"
+		},
+		{
+			"chipId": "300027",
+			"chipGroupId": "30009",
+			"name": "Earth EX stage Specialty Chip  C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30009",
+			"detail": "S-ATK +20. Also slightly raises the chance of triggering the Extra Stage in the \"Melee -Earth-\" event.",
+			"effect": "chip_effect_30009"
+		},
+		{
+			"chipId": "300028",
+			"chipGroupId": "30009",
+			"name": "Earth EX stage Specialty Chip  B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30009",
+			"detail": "S-ATK +30. Also decently raises the chance of triggering the Extra Stage in the \"Melee -Earth-\" event.",
+			"effect": "chip_effect_30009"
+		},
+		{
+			"chipId": "300029",
+			"chipGroupId": "30009",
+			"name": "Earth EX stage Specialty Chip  A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30009",
+			"detail": "S-ATK +50. Also greatly raises the chance of triggering the Extra Stage in the \"Melee -Earth-\" event.",
+			"effect": "chip_effect_30009"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "Pwr of Dest., Hrt of Just. PtSpecialty C",
