@@ -9580,6 +9580,17 @@
 			"dispNum": "50",
 			"startTime": "2019-06-06 18:00:00",
 			"endTime": "2019-06-12 23:59:59"
+		},
+		{
+			"bannerId": "914",
+			"actionType": "menu",
+			"name": "「デジモンリアライズ」のご紹介",
+			"img": "/collaboration/rearise/460120.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1495",
+			"dispNum": "105",
+			"startTime": "2019-06-13 11:00:00",
+			"endTime": "2019-07-30 23:59:59"
 		}
 	]
 }
