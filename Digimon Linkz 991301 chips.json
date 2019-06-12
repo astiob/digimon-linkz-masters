@@ -11056,6 +11056,138 @@
 			"effect": "chip_effect_30005"
 		},
 		{
+			"chipId": "300018",
+			"chipGroupId": "30006",
+			"name": "冰河的 掉落特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30006",
+			"detail": "ATK+20。並且於「亂戰 -冰河-」中使片斷資料的獲得個數+1。",
+			"effect": "chip_effect_30006"
+		},
+		{
+			"chipId": "300019",
+			"chipGroupId": "30006",
+			"name": "冰河的 掉落特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30006",
+			"detail": "ATK+30。並且於「亂戰 -冰河-」中使片斷資料的獲得個數+3。",
+			"effect": "chip_effect_30006"
+		},
+		{
+			"chipId": "300020",
+			"chipGroupId": "30006",
+			"name": "冰河的 掉落特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30006",
+			"detail": "ATK+50。並且於「亂戰 -冰河-」中使片斷資料的獲得個數+9。",
+			"effect": "chip_effect_30006"
+		},
+		{
+			"chipId": "300021",
+			"chipGroupId": "30007",
+			"name": "冰河的 EXTRA STAGE特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30007",
+			"detail": "S-ATK+20。並且於「亂戰 -冰河-」中令EXTRA STAGE的發動率小幅提升。",
+			"effect": "chip_effect_30007"
+		},
+		{
+			"chipId": "300022",
+			"chipGroupId": "30007",
+			"name": "冰河的 EXTRA STAGE特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30007",
+			"detail": "S-ATK+30。並且於「亂戰 -冰河-」中令EXTRA STAGE的發動率中幅提升。",
+			"effect": "chip_effect_30007"
+		},
+		{
+			"chipId": "300023",
+			"chipGroupId": "30007",
+			"name": "冰河的 EXTRA STAGE特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30007",
+			"detail": "S-ATK+50。並且於「亂戰 -冰河-」中令EXTRA STAGE的發動率大幅提升。",
+			"effect": "chip_effect_30007"
+		},
+		{
+			"chipId": "300024",
+			"chipGroupId": "30008",
+			"name": "大地的 掉落特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30008",
+			"detail": "ATK+20。並且於「亂戰 -大地-」中使片斷資料的獲得個數+1。",
+			"effect": "chip_effect_30008"
+		},
+		{
+			"chipId": "300025",
+			"chipGroupId": "30008",
+			"name": "大地的 掉落特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30008",
+			"detail": "ATK+30。並且於「亂戰 -大地-」中使片斷資料的獲得個數+3。",
+			"effect": "chip_effect_30008"
+		},
+		{
+			"chipId": "300026",
+			"chipGroupId": "30008",
+			"name": "大地的 掉落特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30008",
+			"detail": "ATK+50。並且於「亂戰 -大地-」中使片斷資料的獲得個數+9。",
+			"effect": "chip_effect_30008"
+		},
+		{
+			"chipId": "300027",
+			"chipGroupId": "30009",
+			"name": "大地的 EXTRA STAGE特效晶片 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30009",
+			"detail": "S-ATK+20。並且於「亂戰 -大地-」中令EXTRA STAGE的發動率小幅提升。",
+			"effect": "chip_effect_30009"
+		},
+		{
+			"chipId": "300028",
+			"chipGroupId": "30009",
+			"name": "大地的 EXTRA STAGE特效晶片 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30009",
+			"detail": "S-ATK+30。並且於「亂戰 -大地-」中令EXTRA STAGE的發動率中幅提升。",
+			"effect": "chip_effect_30009"
+		},
+		{
+			"chipId": "300029",
+			"chipGroupId": "30009",
+			"name": "大地的 EXTRA STAGE特效晶片 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30009",
+			"detail": "S-ATK+50。並且於「亂戰 -大地-」中令EXTRA STAGE的發動率大幅提升。",
+			"effect": "chip_effect_30009"
+		},
+		{
 			"chipId": "10000001",
 			"chipGroupId": "10000001",
 			"name": "破壞與救世的Pt特效 C",
