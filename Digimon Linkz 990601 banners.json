@@ -9582,6 +9582,28 @@
 			"endTime": "2019-06-12 23:59:59"
 		},
 		{
+			"bannerId": "910",
+			"actionType": "menu",
+			"name": "大乱戦 -電磁- 特効チップキャプチャ開催！",
+			"img": "/gasha/special/30128/30128_banner_1.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1482",
+			"dispNum": "7",
+			"startTime": "2019-06-13 16:00:00",
+			"endTime": "2019-06-19 23:59:59"
+		},
+		{
+			"bannerId": "911",
+			"actionType": "menu",
+			"name": "イベント「大乱戦 -電磁-」開催！",
+			"img": "/events/syuusyuu/205/Holding_4.png",
+			"linkCategoryType": "4",
+			"url": "/information/InformationDetail?informationId=1483",
+			"dispNum": "50",
+			"startTime": "2019-06-13 18:00:00",
+			"endTime": "2019-06-19 23:59:59"
+		},
+		{
 			"bannerId": "914",
 			"actionType": "menu",
 			"name": "「デジモンリアライズ」のご紹介",

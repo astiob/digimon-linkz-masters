@@ -15135,6 +15135,72 @@
 			"icon": "chip_30009",
 			"detail": "S-ATK+50。「大乱戦 -大地-」でEXTRA STAGE発生率が大アップする。",
 			"effect": "chip_effect_30009"
+		},
+		{
+			"chipId": "300030",
+			"chipGroupId": "30010",
+			"name": "電磁のドロップ特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30010",
+			"detail": "ATK+20。「大乱戦 -電磁-」で交換所アイテムドロップ時の取得個数が+1される。",
+			"effect": "chip_effect_30010"
+		},
+		{
+			"chipId": "300031",
+			"chipGroupId": "30010",
+			"name": "電磁のドロップ特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30010",
+			"detail": "ATK+30。「大乱戦 -電磁-」で交換所アイテムドロップ時の取得個数が+3される。",
+			"effect": "chip_effect_30010"
+		},
+		{
+			"chipId": "300032",
+			"chipGroupId": "30010",
+			"name": "電磁のドロップ特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30010",
+			"detail": "ATK+50。「大乱戦 -電磁-」で交換所アイテムドロップ時の取得個数が+9される。",
+			"effect": "chip_effect_30010"
+		},
+		{
+			"chipId": "300033",
+			"chipGroupId": "30011",
+			"name": "電磁のEXTRA STAGE特効 C",
+			"rank": "5",
+			"multiNum": "1",
+			"needChip": "5",
+			"icon": "chip_30011",
+			"detail": "S-ATK+20。「大乱戦 -電磁-」でEXTRA STAGE発生率が小アップする。",
+			"effect": "chip_effect_30011"
+		},
+		{
+			"chipId": "300034",
+			"chipGroupId": "30011",
+			"name": "電磁のEXTRA STAGE特効 B",
+			"rank": "6",
+			"multiNum": "1",
+			"needChip": "4",
+			"icon": "chip_30011",
+			"detail": "S-ATK+30。「大乱戦 -電磁-」でEXTRA STAGE発生率が中アップする。",
+			"effect": "chip_effect_30011"
+		},
+		{
+			"chipId": "300035",
+			"chipGroupId": "30011",
+			"name": "電磁のEXTRA STAGE特効 A",
+			"rank": "7",
+			"multiNum": "1",
+			"needChip": "3",
+			"icon": "chip_30011",
+			"detail": "S-ATK+50。「大乱戦 -電磁-」でEXTRA STAGE発生率が大アップする。",
+			"effect": "chip_effect_30011"
 		}
 	]
 }
